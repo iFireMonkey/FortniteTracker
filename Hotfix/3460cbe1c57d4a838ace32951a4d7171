@@ -40,6 +40,8 @@ bAllowControllers=true
 
 [OnlineSubsystemMcp.OnlineStatsMcp]
 bUpdatesConnectionStatus=false
+Domain="statsproxy-public-service-live.ol.epicgames.com"
+BasePath="statsproxy"
 
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2]
 HttpRetryLimit=1

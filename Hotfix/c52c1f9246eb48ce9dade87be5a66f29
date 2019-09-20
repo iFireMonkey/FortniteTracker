@@ -104,10 +104,10 @@ TournamentHUDPointCounterDelay=1.5f
 ;Make ally chevrons equal to player relevancy
 FadeOutTeamIndicatorsAfter=27500
 
-;WC Stream bools
-bEnableLiveStream=false
+;Stream bools
 bEnableLiveStreamInMatch=false
 bShowLiveStreamInMatchByDefault=false
+bEnableLiveStream=true
 
 ; Network Acceleration
 bEnableSubregionNetworkAccelerators=true
@@ -159,6 +159,7 @@ BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-31-patch-
 +CancelledEvents="ShareTheLove_Contender_Solo_BR_Event5"
 +CancelledEvents="ShareTheLove_Champion_Solo_BR_Event5"
 +CancelledEvents="S10_FNCS_Week3_NAE_Event1"
++CancelledEvents="S10_FNCS_Finals_EU_Event1"
 
 !EventWindowsWithIndividualScoring=ClearArray
 +EventWindowsWithIndividualScoring="GauntletTest_Solo_Event1"
