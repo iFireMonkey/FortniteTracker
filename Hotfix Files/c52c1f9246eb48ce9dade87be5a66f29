@@ -107,7 +107,7 @@ FadeOutTeamIndicatorsAfter=27500
 ;Stream bools
 bEnableLiveStreamInMatch=false
 bShowLiveStreamInMatchByDefault=false
-bEnableLiveStream=true
+bEnableLiveStream=false
 
 ; Network Acceleration
 bEnableSubregionNetworkAccelerators=true
