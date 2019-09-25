@@ -1127,10 +1127,10 @@
   "0DD04D6D4FA2D490FE9F228D1D790AA7": {
     "LocResText": "PvE_02_Difficulty_01"
   },
-  "1E9612EA464672C3F6B8618961C630B4": {
+  "9407852646F2C41A948A5B8142804434": {
     "LocResText": "PvE_02_Difficulty_01_Group"
   },
-  "9407852646F2C41A948A5B8142804434": {
+  "CDC1FCA84851268B7A1C94855E1743AB": {
     "LocResText": "PvE_02_Difficulty_01_Group"
   },
   "2DEE30FB490CAABEB1F69F83B3B1D59B": {
@@ -1139,7 +1139,7 @@
   "AFF802E4414F8B202D27ED987485DE53": {
     "LocResText": "PvE_02_Difficulty_02"
   },
-  "DBA26F9143FB1EAB2CB1B3B63D481316": {
+  "0DC710E642607099FA9BB2B273FBE127": {
     "LocResText": "PvE_02_Difficulty_02_Group"
   },
   "E71298F3480C8803ED9FE5AC1C3AC829": {
@@ -1151,7 +1151,7 @@
   "4427408D4347CDAA30B3CAA41EF2ECA9": {
     "LocResText": "PvE_02_Difficulty_03"
   },
-  "818BD5AA4D05D1A68CE276AC5A2B4436": {
+  "132D983C4391C6ACB25C4EB612CA2D15": {
     "LocResText": "PvE_02_Difficulty_03_Group"
   },
   "90CF974549EE8E42BAD279B3C8125158": {
@@ -1163,7 +1163,7 @@
   "DA76C3C54DACAF855FB8CA9D5B0C7919": {
     "LocResText": "PvE_02_Difficulty_04"
   },
-  "4E41E86B4D6EAA8CF52C11BA8EB1D250": {
+  "1336038144607EA369C2C7ABF6A6C5C4": {
     "LocResText": "PvE_02_Difficulty_04_Group"
   },
   "D4EBA4CC4D15D7BFF44EF280D17AE19C": {
@@ -1175,10 +1175,10 @@
   "EAD8C795418D96CC6061AA871ADC48CA": {
     "LocResText": "PvE_02_Difficulty_05"
   },
-  "3F96BBD84EE9C4FD7CCFC39E9CD3D71A": {
+  "9992D8F84077482AE3044B94DC05A99E": {
     "LocResText": "PvE_02_Difficulty_05_Dudebro"
   },
-  "034FD3014391B9F48E0C0095765D1305": {
+  "283F6CF4449DD8F2F49D41BD5176BDEC": {
     "LocResText": "PvE_02_Difficulty_05_Group"
   },
   "33DF773A40D714D5E8E6B1BE2A8B7368": {
@@ -1564,6 +1564,9 @@
   },
   "2D618BDC49DE31CB25E864AFC2DF3954": {
     "LocResText": "You and your team will defend the Yule Burner through a nearly endless night!"
+  },
+  "EF74DC75498ECBC689A2E597DFBC0395": {
+    "LocResText": "ZONE WARS BUNDLE"
   },
   "8AEF838640CE9C726C57D8A7A17B87C0": {
     "LocResText": "[TEST] Combat Test"
@@ -2176,6 +2179,7 @@
     "OfferDef_CFA004F36A1A4C209946EA2C382F949E_Description": "A special llama with an assortment of rare heroes, including at least one Legendary! Contains 7 shrink-wrapped champions!",
     "OfferDef_E7109C8F8FF44A10AD2E3D90501ECDAA_Description": "A special llama with an assortment of rare heroes, including at least one Legendary! Contains 7 shrink-wrapped champions!",
     "OfferDef_164435F248762115C99DC2A3204A2D1F_Title": "Ace Pack",
+    "OfferDef_9622E4B94D377780F2410982F4DEADE9_Description": "Activate the bat-signal! The Caped Crusader has joined the fight.",
     "OfferDef_1A3C0FE05BFC4452A236AF7D63B76C1B_Title": "All The Llamas",
     "OfferDef_5E0F325DCD3E4D1C96076A65955BA99F_Title": "All The Llamas",
     "OfferDef_B4B71F10CCF4478C82D48001E2E90BF2_Title": "All The Llamas",
@@ -2197,6 +2201,7 @@
     "OfferDef_4EEFB69645A8CBB239BAD1A520AA4663_Description": "An epic skin and 600 v-bucks!",
     "OfferDef_56FA0C554DA1FEEEB0D01BADD43295A1_Title": "BP Gift Token",
     "OfferDef_B5FCB8D440CAB93A3080798FACEB77A3_Title": "BP Gift Token",
+    "OfferDef_9622E4B94D377780F2410982F4DEADE9_Title": "Batman Caped Crusader Pack",
     "OfferDef_18D9DA48000A40BFAEBAC55A99C55221_Title": "Battle Bundle",
     "OfferDef_1999ABBED55A4DCAAE3135D537C27CC2_Title": "Battle Bundle",
     "OfferDef_19D4A5ACC90B4CDF88766A0C8A6D13FB_Title": "Battle Bundle",
@@ -2280,6 +2285,8 @@
     "OfferDef_5D363EEF4BABEE99840FC3B68CF3B1B2_Description": "Get the P-1000 Outfit and Emote, and complete challenges to earn up to 1,500 V-Bucks!",
     "OfferDef_56FA0C554DA1FEEEB0D01BADD43295A1_Description": "Give a friend the Season X Battle Pass!",
     "OfferDef_B5FCB8D440CAB93A3080798FACEB77A3_Description": "Give a friend the Season X Battle Pass!",
+    "OfferDef_02A0B24240C2528B435EF4817E89070F_Title": "Glow",
+    "OfferDef_722DD1CF407A49449734D9B9A8033295_Title": "Glow",
     "OfferDef_3455DC7B6E644F15B08CC223602B6680_Description": "Guarantees at least one Epic or better Neon weapon or Hero!",
     "OfferDef_7B802082B5004B7CA8AAA6EEFF45E6BF_Description": "Guarantees at least one Epic or better Neon weapon or Hero!",
     "OfferDef_B18B61C1A96E490EB3D7E32444405140_Description": "Guarantees at least one Epic or better limited time Boombox weapon or Hero!",
@@ -2436,8 +2443,6 @@
     "OfferDef_2E43CCD24C3BE8F5ABBDF28E233B9350_Description": "Season X Now through October 6.\n\nInstantly get these items <Bold>valued at over 3,500 V-Bucks</>.\n  • <ItemName>X-Lord</> Outfit\n  • <ItemName>Catalyst</> Outfit\n  • <Bold>50% Bonus</> Season Match XP\n  • <Bold>60% Bonus</> Season Friend Match XP\n\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> (typically takes 75 to 150 hours of play).\n  • <ItemName>Ultima Knight</> and <Bold>4 more Outfits</>\n  • <Bold>1,300 V-Bucks</>\n  • 7 Emotes\n  • 6 Wraps\n  • 6 Harvesting Tools\n  • 1 Pet\n  • 7 Gliders\n  • 7 Back Blings\n  • 5 Contrails\n  • 17 Sprays\n  • 3 Music Tracks\n  • 1 Toy\n  • 27 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy tiers any time!",
     "OfferDef_8720170F0BC549F282DCE6129336DBF3_Description": "Season X Now through October 6.\n\nYou've earned these items <Bold>valued at over 3,500 V-Bucks</>.\n  • <ItemName>X-Lord</> Outfit\n  • <ItemName>Catalyst</> Outfit\n  • <Bold>50% Bonus</> Season Match XP\n  • <Bold>60% Bonus</> Season Friend Match XP\n\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> (typically takes 75 to 150 hours of play).\n  • <ItemName>Ultima Knight</> and <Bold>4 more Outfits</>\n  • <Bold>1,300 V-Bucks</>\n  • 7 Emotes\n  • 6 Wraps\n  • 6 Harvesting Tools\n  • 1 Pet\n  • 7 Gliders\n  • 7 Back Blings\n  • 5 Contrails\n  • 17 Sprays\n  • 3 Music Tracks\n  • 1 Toy\n  • 27 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy tiers any time!",
     "OfferDef_51C49DCA46D360029C428885779B7C80_Description": "Season X Now through October 6.\r\n\r\nYou've been gifted these items <Bold>valued at over 3,500 V-Bucks</>.\r\n  • <ItemName>X-Lord</> Outfit\r\n  • <ItemName>Catalyst</> Outfit\r\n  • <Bold>50% Bonus</> Season Match XP\r\n  • <Bold>60% Bonus</> Season Friend Match XP\r\n\r\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> (typically takes 75 to 150 hours of play).\r\n  • <ItemName>Ultima Knight</> and <Bold>4 more Outfits</>\r\n  • <Bold>1,300 V-Bucks</>\r\n  • 7 Emotes\r\n  • 6 Wraps\r\n  • 6 Harvesting Tools\r\n  • 1 Pet\r\n  • 7 Gliders\r\n  • 7 Back Blings\r\n  • 5 Contrails\r\n  • 17 Sprays\r\n  • 3 Music Tracks\r\n  • 1 Toy\r\n  • 27 Loading Screens\r\n  • and so much more!\r\nWant it all faster? You can use V-Bucks to buy tiers any time!",
-    "OfferDef_BF5BCE604C9616899B9311939E737D8C_Title": "Set_01_TA",
-    "OfferDef_BF5BCE604C9616899B9311939E737D8C_Description": "Set_01_TB",
     "OfferDef_8FC5B9C9439AB95F937929A7A5D8EC79_Title": "Shadows Rising",
     "OfferDef_08F1E56C4FA0D12D7CF185A60B91B8BE_Description": "Silence your foes with the Red Strike Pack. An outfit, a back bling and 600 V-Bucks!",
     "OfferDef_E2BD4F70498AF13ADAA071B04F885292_Title": "Small Currency Pack",
@@ -2477,6 +2482,8 @@
     "OfferDef_EDE3C803CCB342D19DFA3F08BA08A3F5_Title": "Super Ranged Llama",
     "OfferDef_1BA9A3294555AD27E8B1438E8EB48E90_Description": "Take on Inferno's challenges and get yourself up to 1,000 V-Bucks, a pickaxe and a wrap!",
     "OfferDef_06F2E11747D7F3A608EAF5B71A015303_Description": "Take on the challenges issued by the Fallen Love Ranger and earn up to 2,000 V-Bucks! ",
+    "OfferDef_02A0B24240C2528B435EF4817E89070F_Description": "The aura of victory glows bright.",
+    "OfferDef_722DD1CF407A49449734D9B9A8033295_Description": "The aura of victory glows bright.",
     "OfferDef_4CF5FA3E44394DF7937A5318F012393B_Description": "The old faithful llama, packed with a variety of goodies and upgrade materials. Contains at least 4 items, including a rare item or a hero! Has a high chance to upgrade.",
     "OfferDef_4D64CBE3618D41FBB5CAD0E472F4610A_Description": "The old faithful llama, packed with a variety of goodies and upgrade materials. Contains at least 4 items, including a rare item or a hero! Has a high chance to upgrade.",
     "OfferDef_8339003D26B24F70878EE280B70C340D_Description": "The old faithful llama, packed with a variety of goodies and upgrade materials. Contains at least 4 items, including a rare item or a hero! Has a high chance to upgrade.",
