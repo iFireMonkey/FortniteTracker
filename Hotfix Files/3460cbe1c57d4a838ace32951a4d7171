@@ -30,7 +30,6 @@ Fort.SkyTubesBlockBuilding=0
 replay.UseRemoteAimSnapshotManager=1
 au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
-CreativeMessageDispatcher.MaxReceiversPerChannel=50
 
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
@@ -119,6 +118,3 @@ bUsePartySystemV2=true
 
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2 Embedded]
 TaskAnalyticsRate=1.0
-
-[OnlineSubsystemMcp.OnlineSocialBanServiceMcp Fortnite]
-Domain="social-ban-public-service-prod.ol.epicgames.com"

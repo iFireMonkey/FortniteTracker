@@ -1,9 +1,6 @@
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
 ;Hotfix Flag
-PreloadRevision=1
-
-;Increase triggers/receivers channels
-NumGameplayMessageChannels=50
+PreloadRevision=2
 
 ;Make 2FA enable URL more friendly
 TurnOnMfaURL="https://fortnite.com/2fa"
@@ -88,7 +85,6 @@ NewMtxStoreCohortSampleSet=100
 AnalyticsClientEngagementsTimeoutSeconds=15.0
 ;Enables Channels user settings dark reads
 bEnableChannelsServiceLoadTesting=true
-bEnableMobileMainMenuBackToTitle=True
 bEnableContentControlsPurchaseReporting=false
 bEnableYoutubeLinks=false
 bEnableMissedInvitesEntry=true
@@ -96,8 +92,9 @@ bEnableUserProfilePictures=true
 bAllowOfflineInvites=true
 ;Turn off Match Abandon UI for online tournaments
 bEnableMatchAbandonProcess=false
-
 bDisableContextTutorial=false
+;Disable "Create Account" Pin Link Flow
+bCreateEpicAccountPinGrantDisabled=true
 
 TournamentHUDPointCounterDelay=1.5f
 
@@ -131,8 +128,8 @@ ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 ;Publishing urls
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
-STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-31-patch-notes"
-BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-31-patch-notes"
+STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-notes"
+BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-notes"
 
 ;----- ARRAYS AND SUCH -----
 
