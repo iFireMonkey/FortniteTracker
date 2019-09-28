@@ -29,3 +29,7 @@ bUploadAllCsvs=true
 [/Script/FortniteGame.FortStreamMediaSource]
 ;Video source for Season Trailer
 VideoStreamSource="Rabbit:Electra1080"
+
+[/Script/FortniteGame.FortGameInstance]
+;Crucible Syntax
++FrontEndPlaylistData=(PlaylistName=Playlist_Crucible_Solo, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))

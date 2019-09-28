@@ -1,15 +1,6 @@
-﻿[/Script/FortniteGame.FortRuntimeOptions]
+[/Script/FortniteGame.FortRuntimeOptions]
 ;Hotfix Flag
 PreloadRevision=2
-
-;Make 2FA enable URL more friendly
-TurnOnMfaURL="https://fortnite.com/2fa"
-
-;Enable Community Choice Voting
-EnableCommunityVotingScreen=true
-
-;Disable "When Item Returned Transmit On" setting for Capture Item Spawner
-+DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
 
 ;----- BOOLS/TOGGLES/THRESHOLDS -----
 
@@ -95,8 +86,13 @@ bEnableMatchAbandonProcess=false
 bDisableContextTutorial=false
 ;Disable "Create Account" Pin Link Flow
 bCreateEpicAccountPinGrantDisabled=true
+;Community voting Bool
+EnableCommunityVotingScreen=True
 
 TournamentHUDPointCounterDelay=1.5f
+
+;Lower Crucible Valid-Score Filter to 2 Seconds
+CrucibleMinValidStatScoreMilliseconds = 2000
 
 ;Make ally chevrons equal to player relevancy
 FadeOutTeamIndicatorsAfter=27500
@@ -116,7 +112,8 @@ bEnableLocalNotifications=true
 ;Add 2 MVP local Notifcations
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
 
-EnableCommunityVotingScreen=false
+;Enable Stats Sending After Every Combine Run
+bCrucibleSendStatsEndOfSession = false
 
 ;----- URLs -----
 
@@ -131,9 +128,15 @@ ListOfCreatorsURL=""
 STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-notes"
 BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-notes"
 
+;Make 2FA enable URL more friendly
+TurnOnMfaURL="https://fortnite.com/2fa"
+
 ;----- ARRAYS AND SUCH -----
 
 +PlaylistConditionalFlags=BR_Portals_Enabled
+
+;Island Codes
+PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_A",(CuratedLinkCodes=("8550-4799-0162"))),("Playlist_Creative_ZebraWallet_D",(CuratedLinkCodes=("7218-3052-0306"))),("Playlist_Creative_ZebraWallet_DH",(CuratedLinkCodes=("6686-5789-9827"))),("Playlist_Creative_ZebraWallet_V",(CuratedLinkCodes=("4895-7557-7194"))))
 
 +CancelledEvents="ShareTheLove_Open_Duo_NA_Event5"
 +CancelledEvents="ShareTheLove_Prospect_Duo_NA_Event5"
@@ -179,6 +182,8 @@ BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-
 ;Disable Name option for spawner and capture area
 +DisabledMatchmakingKnobs=PlayerNameFilter
 +DisabledMatchmakingKnobs=LockedPlayerNameSubstring
+;Disable "When Item Returned Transmit On" setting for Capture Item Spawner
++DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
 
 !bShowFeaturedReplays=ClearArray
 
