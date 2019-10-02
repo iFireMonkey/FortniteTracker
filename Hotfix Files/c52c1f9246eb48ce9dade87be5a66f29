@@ -1,8 +1,8 @@
 [/Script/FortniteGame.FortRuntimeOptions]
-;Hotfix Flag
-PreloadRevision=2
 
-;----- BOOLS/TOGGLES/THRESHOLDS -----
+PreloadRevision=3
+
+
 
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
@@ -32,11 +32,11 @@ bAllowCodeRedemptionInSubgameSelect=false
 bEnableIslandCodeEntryOnPlayerPortal=false
 EsportsAnalyticsHeartbeatRate=5.0
 bHideServersWithZeroPlayers=false
-;Give MCP time to send new data to all read slaves
+
 ShowdownXmppRefreshRateInSeconds=120
-;Give MCP time to send new data to all read slaves
+
 ShowdownTournamentCacheExpirationHours=0
-;Aim Down Sight strength
+
 MaxQuickScopeAimAssistPullWatchTime=1.0
 MaxQuickScopeAimAssistPulls=2
 AllowLockPrimaryInputMethodToMouseForAccessibility=false
@@ -65,77 +65,79 @@ bEnableUserProfilePictures=false
 bEnableNotifyWhenPlaying=false
 bAllowOfflineInvites=false
 bEnableMissedInvitesEntry=false
-;show trailer button
+
 bShowReplayTrailerButton_Athena=true
-;do not skip trailer
+
 bskipTrailerMovie=False
-;Disabling Driftboard in StW
+
 bEnableJackalInStw=false
 NewMtxStoreCohortSampleSet=100
-;analytic engagements timeout
+
 AnalyticsClientEngagementsTimeoutSeconds=15.0
-;Enables Channels user settings dark reads
+
 bEnableChannelsServiceLoadTesting=true
 bEnableContentControlsPurchaseReporting=false
 bEnableYoutubeLinks=false
 bEnableMissedInvitesEntry=true
 bEnableUserProfilePictures=true
 bAllowOfflineInvites=true
-;Turn off Match Abandon UI for online tournaments
+
 bEnableMatchAbandonProcess=false
 bDisableContextTutorial=false
-;Disable "Create Account" Pin Link Flow
+
 bCreateEpicAccountPinGrantDisabled=true
-;Community voting Bool
+
 EnableCommunityVotingScreen=True
+
+bEnableMatchAbandonProcess=false
 
 TournamentHUDPointCounterDelay=1.5f
 
-;Lower Crucible Valid-Score Filter to 2 Seconds
+
 CrucibleMinValidStatScoreMilliseconds = 2000
 
-;Make ally chevrons equal to player relevancy
+
 FadeOutTeamIndicatorsAfter=27500
 
-;Stream bools
+
 bEnableLiveStreamInMatch=false
 bShowLiveStreamInMatchByDefault=false
 bEnableLiveStream=false
 
-; Network Acceleration
+
 bEnableSubregionNetworkAccelerators=true
 !DisabledNetworkAcceleratedSubregions=ClearArray
 !AdvertisedNetworkAcceleratedSubregions=ClearArray
 +AdvertisedNetworkAcceleratedSubregions=MUM_S
 
 bEnableLocalNotifications=true
-;Add 2 MVP local Notifcations
+
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
 
-;Enable Stats Sending After Every Combine Run
+
 bCrucibleSendStatsEndOfSession = false
 
-;----- URLs -----
 
-;URL links for Parental Controls
+
+
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 
-;Publishing urls
+
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
-STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-notes"
-BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-patch-notes"
+STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-1-patch-notes"
+BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v10-40-1-patch-notes"
 
-;Make 2FA enable URL more friendly
+
 TurnOnMfaURL="https://fortnite.com/2fa"
 
-;----- ARRAYS AND SUCH -----
+
 
 +PlaylistConditionalFlags=BR_Portals_Enabled
 
-;Island Codes
+
 PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_A",(CuratedLinkCodes=("8550-4799-0162"))),("Playlist_Creative_ZebraWallet_D",(CuratedLinkCodes=("7218-3052-0306"))),("Playlist_Creative_ZebraWallet_DH",(CuratedLinkCodes=("6686-5789-9827"))),("Playlist_Creative_ZebraWallet_V",(CuratedLinkCodes=("4895-7557-7194"))))
 
 +CancelledEvents="ShareTheLove_Open_Duo_NA_Event5"
@@ -172,17 +174,17 @@ PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_A",(CuratedLinkCodes=("8
 +DisabledMatchmakingKnobs="PlaygroundMutator_RespawnLocation:RespawnHeight"
 +DisabledMatchmakingKnobs="CreativeTeamSettings:RespawnHeight"
 +DisabledMatchmakingKnobs="CreativeTeamSettings:NumAIKillsForEndCondition"
-;Disabling Knobs on Hamsterball
+
 +DisabledMatchmakingKnobs="AngleThresholdPreset"
 +DisabledMatchmakingKnobs="DragCoefficientPreset"
 +DisabledMatchmakingKnobs="MaxSpeedKmhPreset"
 +DisabledMatchmakingKnobs="SpringStiffnessPreset"
 +DisabledMatchmakingKnobs="bEnableBoostPreset"
 +DisabledMatchmakingKnobs="bEnableDamagePreset"
-;Disable Name option for spawner and capture area
+
 +DisabledMatchmakingKnobs=PlayerNameFilter
 +DisabledMatchmakingKnobs=LockedPlayerNameSubstring
-;Disable "When Item Returned Transmit On" setting for Capture Item Spawner
+
 +DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
 
 !bShowFeaturedReplays=ClearArray
@@ -233,4 +235,3 @@ PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_A",(CuratedLinkCodes=("8
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=0,ExperimentNum=193)
 
-;PLEASE don't tack new stuff randomly at the bottom of this file. Try to roughly follow rough structure above.

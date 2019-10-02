@@ -3,89 +3,89 @@
 
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="DF6C030241FBE683A9FF959F2048731E", NativeString="Insight", LocalizedStrings=(("tr", "İçgörü")))
 
-; Removing the early release state text
+
 +TextReplacements=(Category=Game, Namespace="", Key="2707C6C147A41A705475F1BF00A69815", NativeString="We're in an early release state so you may experience client crashes, loss of progress, or other unexpected errors.", LocalizedStrings=(("ar"," "),("en"," "),("de"," "),("es"," "),("es-419"," "),("fr"," "),("it"," "),("ja"," "),("ko"," "),("pl"," "),("pt-BR"," "),("ru"," "),("tr"," "),("zh-CN"," "),("zh-Hant"," ")))
 
 +TextReplacements=(Category=Game, Namespace="", Key="376A5F0C43AB9CC803C047BF676A7C93", NativeString="We're in an early release state so you may experience client crashes, loss of progress, or other unexpected errors.", LocalizedStrings=(("ar"," "),("en"," "),("de"," "),("es"," "),("es-419"," "),("fr"," "),("it"," "),("ja"," "),("ko"," "),("pl"," "),("pt-BR"," "),("ru"," "),("tr"," "),("zh-CN"," "),("zh-Hant"," ")))
 
-;LTM description
+
 +TextReplacements=(Category=Game, Namespace="", Key="C6DF2B0740054269EA21A080CEB19615", NativeString="Greatness is forever.\r\n\r\n \r\n\r\nTake it downtown and let your skills do the talking. Show off your moves in the Brooklyn inspired, Downtown Drop LTM by Jordan Brand featuring Creative artists NotNellaf & Tollmolia. Launch off massive jumps, grind down city streets and collect coins to win!\r\n\r\n \r\n\r\nNow is your chance to challenge your friends for the title of G.O.A.T.", LocalizedStrings=(("ar","اذهب إلى وسط المدينة واجعل مهاراتك تتحدث عنك. استعرض حركاتك في الوضع محدود الوقت الإنزال في وسط المدينة في مدينة نيويورك سيتي المستوحى من قبل علامة Jordan التجارية بالتعاون مع مطوري نمط Creative؛ NotNellaf وTollmolia.  قم بتنفيذ قفزات هائلة وأبهر شوارع المدينة واجمع القطع النقدية للفوز! \r\n\r\حانت الآن فرصتك لتحدي أصدقائك لتحصل على لقب الأعظم عبر التاريخ. \r\n\r\n  \r\n \الإنزال في وسط المدينة بمثابة تجربة عالية السرعة وعنيفة. إذا كنت تشعر بعدم الراحة أثناء اللعب، فخذ في الاعتبار تعطيل ضبابية الحركة أو الحد من وقت اللعب."),("en","Take it downtown and let your skills do the talking.  Show off your moves in this New York City inspired, Downtown Drop LTM by Jordan Brand featuring Creative developers NotNellaf & Tollmolia. Launch off massive jumps, grind down city streets and collect coins to win! \r\n\r\nNow is your chance to challenge your friends for the title of G.O.A.T.\r\n\r\n  \r\nDowntown Drop is a high speed and intense experience. If you feel uncomfortable when playing consider disabling motion blur or limiting playtime."),("de","Begib dich in die City und lass dein Können für sich sprechen. Zeige deine Moves im LTM City-Chaos von Jordan Brand. Die Karte des Modus ist von New York City inspiriert und in Zusammenarbeit mit den Creators NotNellaf und Tollmolie entstanden. Sammle Münzen, während du gewaltige Sprünge wagst und die Straßen der Stadt hinabsaust, um dir den Sieg zu sichern!\r\n\r\nDas ist deine Chance, deinen Freunden den Titel des G.O.A.T. (Greatest Of All Time) streitig zu machen.\r\n\r\n \r\nCity-Chaos ist ein schnelles und intensives Erlebnis. Im Falle von Schwindelgefühlen, empfehlen wir die Bewegungschärfe auszuschalten und Spielpausen einzulegen."),("es","Salid a las calles y que vuestras habilidades hablen por vosotros. Presumid de movimientos en el MTL: Entrega en el centro de la marca Jordan, inspirado en la ciudad de Nueva York, que cuenta con desarrolladores del modo Creativo como NotNellaf y Tollmolia. ¡Realizad saltos impresionantes, desgastad las calles y recoged monedas para ganar! \r\n\r\nEs vuestra oportunidad de desafiar a vuestros amigos para ver quién consigue el título de LO MEJOR DEL MUNDO MUNDIAL.\r\n\r\n  \r\nEntrega en el centro es una experiencia intensa y de alta velocidad. Si os sentís incómodos al jugar, podéis deshabilitar los efectos de desenfoque o limitar vuestro tiempo de juego."),("es-419","Vayan al centro y dejen que sus habilidades hablen por ustedes. Presuman sus movimientos en el MPL Entrega en el centro de la marca Jordan, inspirado en Nueva York, presentado por los desarrolladores del modo Creativo NotNellaf y Tollmolia. ¡Realicen saltos impresionantes, deslícense por las calles de la ciudad y reúnan monedas para ganar! \r\n\r\nAhora es su oportunidad para desafiar a sus amigos y ver quién consigue el título de EL MEJOR DE TODOS LOS TIEMPOS.\r\n\r\n  \r\nEntrega en el centro es una experiencia intensa y de alta velocidad. Si se sienten incómodos al jugar, pueden deshabilitar los efectos de desenfoque o limitar su tiempo de juego."),("fr","Faites une descente en ville et montrez ce que vous savez faire dans le mode temporaire Virée urbaine, inspiré de la ville de New York et créé par Jordan avec les artistes créatifs NotNellaf et Tollmolia. Faites des sauts déments, glissez dans les rues et ramassez des pièces pour gagner ! \r\n\r\nQui de vous ou de vos amis sera le meilleur parmi les meilleurs ?\r\n\r\n  \r\nVirée urbaine est un mode à haute vitesse très intense. Si vous ne vous sentez pas à l'aise en jouant, il est recommandé de désactiver le flou de mouvement ou de jouer moins longtemps."),("it","Vai in centro e lascia parlare la tua abilità. Metti in mostra le tue mosse nella MAT Fai centro in centro by Jordan ispirata a New York, con gli sviluppatori creativi NotNellaf e Tollmolia. Esegui salti giganteschi, macina le strade della città e raccogli monete per vincere! \r\n\r\nÈ la tua occasione per sfidare gli amici e coronarti G.O.A.T., il più grande di tutti i tempi.\r\n\r\n  \r\nFai centro in centro è un'esperienza intensa e ad alta velocità. Se avverti disagio durante il gioco, prova a disattivare il motion blur o a limitare il tempo di gioco."),("ja","ダウンタウンで腕に物を言わせよう。Jordan Brandと、クリエイティブの製作者NotNellaf & Tollmoliaによる、ニューヨークシティにインスピレーションを得た期間限定モード「ダウンタウンドロップ」で自分のムーブを見せつけろ。ビッグジャンプを決め、ストリートを駆け抜けてコインを集めれば勝利！\r\n\r\n今こそG.O.A.T.の称号をかけてフレンドに挑む時。\r\n\r\n  \r\nダウンタウンドロップはハイスピードの激しいモードです。不快に感じる場合は、モーションブラー設定をオフにするか、プレイ時間を制限してください。"),("ko","다운타운 드롭에서 나의 실력을 뽐내보세요. 포크리 제작자 NotNellaf 님, Tollmolia 님이 조던 브랜드와 함께 협업한 다운타운 드롭 기간 한정 모드! 뉴욕시에서 영감을 받은 새로운 기간 한정 모드에서 나의 실력을 선보이세요. 굉장한 점프와 함께 도시의 거리를 신나게 달리면서 동전을 수집하고 승리를 차지하세요! \r\n\r\n친구들과 경쟁하여 누가 더 최고인지 가릴 기회를 놓치지 마세요.\r\n\r\n  \r\n다운타운 드롭은 빠른 속도와 격렬함을 선사합니다. 게임을 할 때 불편함을 느끼시면 플레이 시간을 제한하거나 모션 블러를 비활성화 해주세요."),("pl","Skocz do centrum i pokaż, co umiesz. Zaprezentuj się w inspirowanym Nowym Jorkiem Odjeździe Centralnym – trybie okresowym, stworzonym we współpracy z marką Jordan oraz twórcami NotNellaf i Tollmolia. Skacz wysoko, pędź ulicami, zbieraj monety i wygrywaj! \r\n\r\nTo twoja szansa zawalczyć ze znajomymi o tytuł G.O.A.T.\r\n\r\n  \r\nOdjazd Centralny to doświadczenie szybkie i intensywne. Jeśli czujecie się nieswojo, spróbujcie wyłączyć rozmycie podczas ruchu lub ograniczcie czas spędzony w tym trybie."),("pt-BR","Leve a batalha pro centro da cidade e deixe suas habilidades falarem por você. Mostre o que você sabe no MTL: Centro da Cidade da Marca Jordan, inspirado na Cidade de Nova York, com os desenvolvedores Criativos NotNellaf e Tollmolia. Dê saltos incríveis, drible pelas ruas da cidade e colete moedas para vencer! \r\n\r\nEssa é a sua chance de desafiar seus amigos pelo título de G.O.A.T.: o melhor de todos os tempos.\r\n\r\n \r\nCentro da Cidade é uma experiência intensa em alta velocidade. Se você se sentir desconfortável ao jogar, considere desabilitar a distorção de movimento ou limitar o seu tempo de jogo."),("ru","Отправляйтесь в центр города и покажите, на что вы способны! Играйте во временном режиме «Экстремальная прогулка» от Air Jordan, созданном при участии NotNellaf и Tollmolia и вдохновлённом видами Нью-Йорка: совершайте головокружительные прыжки, скользите по городским улицам и собирайте монеты, чтобы победить!\r\n\r\nСыграйте с друзьями и узнайте, кто достоин носить титул самого крутого игрока!\r\n\r\n  \r\n«Экстремальная прогулка» — напряжённый высокоскоростной режим. Если вы почувствуете дискомфорт во время игры, попробуйте отключить «Размытие в движении» или сократить время пребывания в этом режиме."),("tr","Sokağa çıkın, hünerlerinizi sergileyin. Kreatif sanatçıları NotNellaf ve Tollmolia'ın eserlerini içeren, Jordan Brand'in New York City temalı Ortamlara Akış SSM'sinde fiyakalı numaralarını herkese göster. nanılmaz sıçrayışlar yap, şehrin sokaklarını ağlat ve kazanmak için paraları topla! \r\n\r\nTüm Zamanların En İyisi olmak için arkadaşlarına meydan okuma fırsatı ayağına geldi.\r\n\r\n  \r\nOrtamlara Akış yüksek hızlı ve yoğun bir oyun modudur. Eğer oynarken rahatsız olursan hareket bulanıklığını devre dışı bırakabileceğini veya bu moddaki oyun süreni sınırlayabileceğini unutma."),("zh-CN","穿街过巷，用实力说话。乔丹品牌携手嗨皮岛创建者NotNellaf与Tollmolia联合推出限时模式：城镇之旅，设计灵感来自城市纽约。让它激发你的跑酷灵感，飞檐走壁，压马路，集硬币获得胜利！\r\n\r\n现在你有机会与好友一起争夺历史最佳头衔。\r\n\r\n  \r\n城镇之旅是一场高速且激烈的旅行。若您在游玩时感到不适，请尝试关闭动态模糊选项，或减少游玩时间。"),("zh-Hant","穿街過巷，用實力說話。喬丹品牌攜手嗨皮島創建者NotNellaf與Tollmolia聯合推出限時模式：城鎮之旅，設計靈感來自城市紐約。讓它激發你的跑酷靈感，飛簷走壁，壓馬路，集硬幣獲得勝利！ \r\n\r\n現在你有機會挑戰好友的歷史最佳頭銜。 \r\n\r\n \r\n城鎮之旅是一場高速且激烈的旅行。若您在遊玩時感到不適，請嘗試關閉動態模糊選項，或減少游玩時間。")))
 
-;LTM tagline
+
 +TextReplacements=(Category=Game, Namespace="", Key="1B326D2946EEAB84DF0B9CBD24A16B90", NativeString="Challenge your friends for the title of G.O.A.T.", LocalizedStrings=(("ar","برهن أنك تستحق لقب الأعظم عبر التاريخ"),("en","Prove you deserve the title of G.O.A.T."),("de","Beweise allen, dass du der G.O.A.T. (Greatest Of All Time) bist."),("es","Demostrad que os merecéis el título de LO MEJOR DEL MUNDO MUNDIAL."),("es-419","Demuestren que se merecen el título de EL MEJOR DE TODOS LOS TIEMPOS"),("fr","Prouvez que vous êtes le meilleur des meilleurs."),("it","Dimostrati il più grande di sempre e conquista il titolo di G.O.A.T."),("ja","G.O.A.T.の称号にふさわしいことを証明する時"),("ko","나의 실력이 최고라는 것을 보여주세요"),("pl","Udowodnij, że zasługujesz na tytuł G.O.A.T."),("pt-BR","Prove que você merece o título de G.O.A.T.: o melhor de todos os tempos."),("ru","Докажите, что вы достойны титула самого крутого игрока."),("tr","Tüm Zamanların En İyisi olmak için kendini kanıtlamanın vakti geldi"),("zh-CN","证明你值得拥有历史最佳头衔"),("zh-Hant","證明你值得擁有歷史最佳頭銜")))
 
-; Test Text
+
 +TextReplacements=(Category=Game, Namespace="", Key="18DDC16E40956ABA8D526BA9237BD22F", NativeString="Send Mobile Notifications", LocalizedStrings=(("ar","للاختبار - تجاهل"),("en","Test - Ignore"),("de","Test - Nicht beachten"),("es","Prueba - Ignorar"),("es-419","Prueba - Ignorar"),("fr","Test - Ignorez ceci"),("it","Test - Ignorare"),("ja","テスト - 無視"),("ko","테스트 - 무시"),("pl","Test - prosimy zignorować"),("pt-BR","Teste - Ignore"),("ru","Тест — не обращайте внимания"),("tr","Test - Yok Say"),("zh-CN","测试 - 请忽略"),("zh-Hant","測試 - 請忽略")))
 
-; renaming foraged Icecream to blank since it was incorrectly Banana
+
 +TextReplacements=(Category=Game, Namespace="", Key="F1713E0843BE11AE47D2519D0129F237", NativeString="Banana", LocalizedStrings=(("ar"," "),("en"," "),("de"," "),("es"," "),("es-419"," "),("fr"," "),("it"," "),("ja"," "),("ko"," "),("pl"," "),("pt-BR"," "),("ru"," "),("tr"," "),("zh-CN"," "),("zh-Hant"," ")))
 
-; Weird
+
 +TextReplacements=(Category=Game, Namespace="", Key="FD7546C843DA0A3B0D09E4A00D8C3121", NativeString="Tendrils", LocalizedStrings=(("ar","نبات متسلق"),("en","Vines"),("de","Ranken"),("es","Enredaderas"),("es-419","Enredaderas"),("fr","Plantes grimpantes"),("it","Tralci"),("ja","つる"),("ko","덩굴"),("pl","pnącza"),("pt-BR","Cipós"),("ru","Изнанка"),("tr","Asma"),("zh-CN","藤蔓"),("zh-Hant","藤蔓")))
 
-; Trios
+
 +TextReplacements=(Category=Game, Namespace="", Key="87FCE7C74ACB9135DF51A5858F2FA0CB", NativeString="Squads", LocalizedStrings=(("ar","المواجهات الثلاثية"),("en","Trios"),("de","Trios"),("es","Tríos"),("es-419","En trío"),("fr","Trio"),("it","Terzetto"),("ja","トリオ"),("ko","트리오"),("pl","Trójki"),("pt-BR","Trios"),("ru","Трио"),("tr","Üçlü"),("zh-CN","三人"),("zh-Hant","三人")))
 +TextReplacements=(Category=Game, Namespace="", Key="A7138F4648FDCE6A67F8D7A95B28DA42", NativeString="Squads", LocalizedStrings=(("ar","المواجهات الثلاثية"),("en","Trios"),("de","Trios"),("es","Tríos"),("es-419","En trío"),("fr","Trio"),("it","Terzetto"),("ja","トリオ"),("ko","트리오"),("pl","Trójki"),("pt-BR","Trios"),("ru","Трио"),("tr","Üçlü"),("zh-CN","三人"),("zh-Hant","三人")))
 
-; Emote Built-In Text
+
 +TextReplacements=(Category=Game,Namespace="",Key="39D6347D4A2A12031360D0B69466DA3C",NativeString="Exclusive Emote Included!",LocalizedStrings=(("en", "Built-in Emote!"), ("ar", "رقصة مضمّنة!"), ("de", "Emote integriert!"), ("es", "¡Gesto incorporado!"), ("es-419", "¡Gesto incorporado!"), ("fr", "Emote intégrée !"), ("it", "Emote integrata!"), ("ja", "ビルトインエモート！"), ("ko", "내장된 이모트!"), ("pl", "Zintegrowana emotka!"), ("pt-BR", "Gesto Embutido!"), ("ru", "Эмоция в комплекте!"), ("tr", "İfadesi İçinde!"), ("zh-CN", "内置姿势！"), ("zh-Hant", "內置姿勢！") ))
 
-;World Cup Text
+
 +TextReplacements=(Category=Game, Namespace="", Key="A136078340AE60F74647D2B7CFF23AF0", NativeString="World Cup", LocalizedStrings=(("ar","FN World Cup"),("en","FN World Cup"),("de","FN World Cup"),("es","FN World Cup"),("es-419","FN World Cup"),("fr","Fortnite World Cup"),("it","FN World Cup"),("ja","FN World Cup"),("ko","FN World Cup"),("pl","FN World Cup"),("pt-BR","FN World Cup"),("ru","FN World Cup"),("tr","FN World Cup"),("zh-CN","堡垒之夜世界杯"),("zh-Hant","堡壘之夜世界杯")))
 +TextReplacements=(Category=Game, Namespace="", Key="3608510344974C317DAF7D8DA3FCFBAE", NativeString="Online Opens", LocalizedStrings=(("ar","النهائيات"),("en","Finals"),("de","Finalserie"),("es","Final"),("es-419","Final"),("fr","Finale"),("it","Finali"),("ja","ファイナル"),("ko","결승전"),("pl","Finały"),("pt-BR","Final"),("ru","Финалы"),("tr","FİNALLER"),("zh-CN","总决赛"),("zh-Hant","總決賽")))
 
-;Shortening Russian WC button text
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="9C57B7354606D962FFC7C8A7439FD3CF", NativeString="WATCH LIVE!", LocalizedStrings=(("ru","СМОТРИТЕ!")))
 
-;Changing verbiage on WC button
+
 +TextReplacements=(Category=Game, Namespace="", Key="9AD2A0054791AF103E0017AE5E323863", NativeString="Turn On", LocalizedStrings=(("ar","بدء الفيديو"),("en","Start Video"),("de","Video starten"),("es","Iniciar video"),("es-419","Iniciar video"),("fr","Démarrer la vidéo"),("it","Avvia video"),("ja","スイッチ ON"),("ko","영상 시작"),("pl","Oglądaj"),("pt-BR","Iniciar Vídeo"),("ru","Смотреть"),("tr","Videoyu Başlat"),("zh-CN","开始观看"),("zh-Hant","開始觀看")))
 +TextReplacements=(Category=Game, Namespace="", Key="78E981264BB22FA9EDA8F0A880B77245", NativeString="Turn Off", LocalizedStrings=(("ar","إيقاف الفيديو"),("en","Stop Video"),("de","Video beenden"),("es","Detener video"),("es-419","Detener video"),("fr","Arrêter la vidéo"),("it","Ferma video"),("ja","スイッチ OFF"),("ko","영상 중단"),("pl","Wyłącz"),("pt-BR","Parar Vídeo"),("ru","Выключить"),("tr","Videoyu Durdur"),("zh-CN","停止观看"),("zh-Hant","停止觀看")))
 
-; WC String 2
+
 +TextReplacements=(Category=Game, Namespace="", Key="A39D071C41775B57D8F79E9332FEEDE9", NativeString="WATCH THE WORLD CUP LIVE IN MATCH!", LocalizedStrings=(("ar","شاهد نهائيات الوضع الفردي في FORTNITE WORLD CUP الآن!"),("en","WATCH THE FORTNITE WORLD CUP SOLO FINALS NOW!"),("de","SIEH DIR JETZT DIE FORTNITE WORLD CUP SOLO FINALS AN!"),("es","¡VE AHORA LA FINAL EN SOLITARIO EN LA FORTNITE WORLD CUP!"),("es-419","¡VE LA FINAL EN SOLITARIO DE FORTNITE WORLD CUP AHORA!"),("fr","REGARDEZ LES FINALES SOLO DE LA FORTNITE WORLD CUP DÈS MAINTENANT !"),("it","GUARDA ORA LE FINALI DI SINGOLO DELLA FORTNITE WORLD CUP!"),("ja","フォートナイトワールドカップ ソロ決勝戦を今すぐ観戦しよう！"),("ko","지금 FORTNITE WORLD CUP 솔로 결승전을 시청해보세요!"),("pl","OGLĄDAJ FINAŁY SOLO FORTNITE WORLD CUP!"),("pt-BR","ASSISTA ÀS FINAIS (SOLO) DA FORTNITE WORLD CUP AGORA!"),("ru","СМОТРИ ОДИНОЧНЫЕ СРАЖЕНИЯ FORTNITE WORLD CUP СЕЙЧАС!"),("tr","FORTNITE WORLD CUP TEKLİ FİNALLERİNİ ŞİMDİ İZLE!"),("zh-CN","现在就观看堡垒之夜世界杯单排总决赛！"),("zh-Hant","現在就觀看堡壘之夜世界盃單排總決賽！")))
 
-;Updating Language for Season XP Bonus
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="1D70F7BA4A6D460C3571418E24ADA2B6", NativeString="As a special thanks for buying the Season {PrevSeason} Battle Pass, you'll start Season {CurrentSeason} off with a 30% Personal XP Boost", LocalizedStrings=(("ar","تعبيرًا عن الشكر الجزيل لشراء بطاقة معركة الموسم {PrevSeason}، ستبدأ  الموسم X بخصم 30% على تعزيز نقاط الخبرة الشخصية"),("en","As a special thanks for buying the Season {PrevSeason} Battle Pass, you'll start Season X off with a 30% Personal XP Boost"),("de","Als besonderes Dankeschön für den Kauf des Battle Pass Saison {PrevSeason} fängst du Saison X mit 30 % persönlichem EP-Boost an."),("es","Como agradecimiento por comprar el pase de batalla de la temporada {PrevSeason}, empezarás la temporada X con un 30 % de potenciadores de PE personal"),("es-419","Como agradecimiento por comprar el pase de batalla de la temporada {PrevSeason}, comenzarás la temporada X con un 30 % de potenciador de PE personal."),("fr","Pour vous remercier d'avoir acheté le Passe de combat de la saison {PrevSeason}, vous commencerez la saison X avec un bonus d'EXP personnel de 30%."),("it","Come ringraziamento speciale per aver acquistato il Pass battaglia della Stagione {PrevSeason}, comincerai la Stagione X con 30% di Incremento PE personale"),("ja","シーズン{PrevSeason}バトルパス購入の感謝の印に、Season XはパーソナルXPブースト30%で開始していただけます"),("ko","시즌 {PrevSeason} 배틀패스를 구매해주신 것에 대한 감사의 의미로 시즌 X에서 30% 개인 XP 부스트가 지급됩니다"),("pl","W podziękowaniu za zakup karnetu bojowego sezonu {PrevSeason}, zaczniesz sezon X z 30% osobistego wzmocnienia PD"),("pt-BR","Como um agradecimento especial por comprar o Passe de Batalha da Temporada {PrevSeason}, você começará a Temporada X com 30% de Reforço de EXP Pessoal."),("ru","В благодарность за покупку боевого пропуска {PrevSeason}-го сезона вы получите персональный усилитель опыта на 30% в начале {CurrentSeason}-го сезона"),("tr","{PrevSeason} Savaş Bileti almana bir teşekkür olarak X. Sezon'a %30 Kişisel TP Takviyesi ile başlıyorsun!"),("zh-CN","为感谢你购买第{PrevSeason}赛季英雄季卡，你将获得第十赛季伊始30%个人经验加成"),("zh-Hant","為感謝你購買第{PrevSeason}賽季英雄季卡，你將獲得第十賽季伊始30%個人經驗加成")))
 
-;Fixing Translation for Typewritter weapon in ptBR
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="E3FBDD564BF0DE58403592AB1179AC39", NativeString="Typewriter", LocalizedStrings=(("pt-BR","Mafiosa")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="FortCollectionBookPageData:CollectionBookSections", Key="CollectionBookSections_weapons_Ranged_SMGs_3_SectionNameText", NativeString="Typewriter", LocalizedStrings=(("pt-BR","Mafiosa")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="FortCollectionBookPageData:CollectionBookSections", Key="CollectionBookSections_weapons_Ranged_SMGs_Crystal_3_SectionNameText", NativeString="Crystal Typewriter", LocalizedStrings=(("pt-BR","Mafiosa de Cristal")))
 
-;Fixing the translation for "Top {0}"
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="TournamentPayout", Key="TournamentRank", NativeString="Top {0}", LocalizedStrings=(("pt-BR","Top {0}")))
 
-;Fixing Challenge Text to remove loot lake
+
 +TextReplacements=(Category=Game, Namespace="", Key="7F631ED04933164BFF9C7F8E2E1B13BD", NativeString="Deal damage to opponents at a mountain top Viking Village or Loot Lake", LocalizedStrings=(("ar","وجه الضرر لخصوم أعلى جبال قرية الفايكنغ"),("en","Deal damage to opponents at a mountain top Viking Village"),("de","Füge Gegnern Schaden bei einem Wikingerdorf auf einem Berg zu"),("es","Inflige daño a enemigos en una villa vikinga en lo alto de una montaña"),("es-419","Inflige daño a oponentes en la Villa Vikinga que esta en la cima de una montaña"),("fr","Infliger des dégâts à des adversaires dans un village viking au sommet d'une montagne"),("it","Infliggi danni agli avversari in un villaggio vichingo sulla cima di una montagna"),("ja","山頂のヴァイキングヴィレッジで敵にダメージを与える"),("ko","바이킹 마을 산꼭대기에서 다른 플레이어를 공격해 피해 주기"),("pl","Zadaj obrażenia przeciwnikom w wiosce wikingów na szczycie góry"),("pt-BR","Cause dano a oponentes em uma Vila Viking no topo de uma montanha"),("ru","Наносите урон противникам в Селении северян на вершине горы"),("tr","Dağın tepesindeki Viking Vatanı'nda rakiplere hasar ver"),("zh-CN","在山顶的维京村庄对敌人造成伤害"),("zh-Hant","在山頂的維京村莊對敵人造成傷害")))
 +TextReplacements=(Category=Game, Namespace="", Key="B11F321640058B94F81CA3B384AE2247", NativeString="Deal damage to opponents at a mountain top Viking Village or Loot Lake", LocalizedStrings=(("ar","وجه الضرر لخصوم أعلى جبال قرية الفايكنغ"),("en","Deal damage to opponents at a mountain top Viking Village"),("de","Füge Gegnern Schaden bei einem Wikingerdorf auf einem Berg zu"),("es","Inflige daño a enemigos en una villa vikinga en lo alto de una montaña"),("es-419","Inflige daño a oponentes en la Villa Vikinga que esta en la cima de una montaña"),("fr","Infliger des dégâts à des adversaires dans un village viking au sommet d'une montagne"),("it","Infliggi danni agli avversari in un villaggio vichingo sulla cima di una montagna"),("ja","山頂のヴァイキングヴィレッジで敵にダメージを与える"),("ko","바이킹 마을 산꼭대기에서 다른 플레이어를 공격해 피해 주기"),("pl","Zadaj obrażenia przeciwnikom w wiosce wikingów na szczycie góry"),("pt-BR","Cause dano a oponentes em uma Vila Viking no topo de uma montanha"),("ru","Наносите урон противникам в Селении северян на вершине горы"),("tr","Dağın tepesindeki Viking Vatanı'nda rakiplere hasar ver"),("zh-CN","在山顶的维京村庄对敌人造成伤害"),("zh-Hant","在山頂的維京村莊對敵人造成傷害")))
 +TextReplacements=(Category=Game, Namespace="", Key="58AA779341CED15E161E009A660F118C", NativeString="Deal damage to opponents at a mountain top Viking Village or Loot Lake", LocalizedStrings=(("ar","وجه الضرر لخصوم أعلى جبال قرية الفايكنغ"),("en","Deal damage to opponents at a mountain top Viking Village"),("de","Füge Gegnern Schaden bei einem Wikingerdorf auf einem Berg zu"),("es","Inflige daño a enemigos en una villa vikinga en lo alto de una montaña"),("es-419","Inflige daño a oponentes en la Villa Vikinga que esta en la cima de una montaña"),("fr","Infliger des dégâts à des adversaires dans un village viking au sommet d'une montagne"),("it","Infliggi danni agli avversari in un villaggio vichingo sulla cima di una montagna"),("ja","山頂のヴァイキングヴィレッジで敵にダメージを与える"),("ko","바이킹 마을 산꼭대기에서 다른 플레이어를 공격해 피해 주기"),("pl","Zadaj obrażenia przeciwnikom w wiosce wikingów na szczycie góry"),("pt-BR","Cause dano a oponentes em uma Vila Viking no topo de uma montanha"),("ru","Наносите урон противникам в Селении северян на вершине горы"),("tr","Dağın tepesindeki Viking Vatanı'nda rakiplere hasar ver"),("zh-CN","在山顶的维京村庄对敌人造成伤害"),("zh-Hant","在山頂的維京村莊對敵人造成傷害")))
 +TextReplacements=(Category=Game, Namespace="", Key="EF3439974AAC06B187B923B21D6B6E2B", NativeString="Deal damage to opponents at a mountain top Viking Village or Loot Lake", LocalizedStrings=(("ar","وجه الضرر لخصوم أعلى جبال قرية الفايكنغ"),("en","Deal damage to opponents at a mountain top Viking Village"),("de","Füge Gegnern Schaden bei einem Wikingerdorf auf einem Berg zu"),("es","Inflige daño a enemigos en una villa vikinga en lo alto de una montaña"),("es-419","Inflige daño a oponentes en la Villa Vikinga que esta en la cima de una montaña"),("fr","Infliger des dégâts à des adversaires dans un village viking au sommet d'une montagne"),("it","Infliggi danni agli avversari in un villaggio vichingo sulla cima di una montagna"),("ja","山頂のヴァイキングヴィレッジで敵にダメージを与える"),("ko","바이킹 마을 산꼭대기에서 다른 플레이어를 공격해 피해 주기"),("pl","Zadaj obrażenia przeciwnikom w wiosce wikingów na szczycie góry"),("pt-BR","Cause dano a oponentes em uma Vila Viking no topo de uma montanha"),("ru","Наносите урон противникам в Селении северян на вершине горы"),("tr","Dağın tepesindeki Viking Vatanı'nda rakiplere hasar ver"),("zh-CN","在山顶的维京村庄对敌人造成伤害"),("zh-Hant","在山頂的維京村莊對敵人造成傷害")))
 
-;Updating challenge text to avoid confusion
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="0A5ECED64809AA349DE9EF9D1F3BDABE", NativeString="Eliminate members of the Horde at Retail Row", LocalizedStrings=(("ar","قم بتصفية أفراد الحشد في المجمع التجاري في الوضع الفردي والوضع الزوجي ووضع الفرق"),("en","Eliminate members of the Horde at Retail Row in Solos, Duos or Squads"),("de","Eliminiere Teile der Horde bei Retail Row in Solo, Duos, oder Team-Spielmodi"),("es","Elimina miembros de la horda en Ciudad Comercio en solitario, dúos o escuadrones"),("es-419","Elimina miembros de la horda en Metrópoli Mercantil en solitario, en dúo o en escuadrón"),("fr","Éliminer des membres de la horde à Retail Row en solo, duo ou section"),("it","Elimina membri dell'orda a Corso Commercio in singolo, a coppie o a squadre"),("ja","ソロ、デュオ、またはスクワッドでリテイル・ローの大群の一味を倒す"),("ko","솔로, 듀오 또는 스쿼드에서 리테일 로우 호드의 일원 처치"),("pl","Zlikwiduj członków Hordy w Sklepowej Sadybie (solo, w parze lub w oddziale)"),("pt-BR","Eliminar membros da Horda na Via do Varejo nos Esquadrões, Duplas ou Solo"),("ru","Уничтожайте монстров из орды в Торговой точке в одиночных и парных сражениях и боях отрядов"),("tr","Tekli, Çiftli ve Ekipli oyunlarda Perakende Pazarı'nda sürü canavarlarını avla"),("zh-CN","在单人、双人或小队模式下淘汰零售商场中的毒尸怪群成员"),("zh-Hant","在單人、雙人或小隊模式下淘汰零售商場中的毒屍怪群成員")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="2B1AABA04C4F632BE04F9185B2C8C2D3", NativeString="Eliminate members of the Horde at Retail Row", LocalizedStrings=(("ar","قم بتصفية أفراد الحشد في المجمع التجاري في الوضع الفردي والوضع الزوجي ووضع الفرق"),("en","Eliminate members of the Horde at Retail Row in Solos, Duos or Squads"),("de","Eliminiere Teile der Horde bei Retail Row in Solo, Duos, oder Team-Spielmodi"),("es","Elimina miembros de la horda en Ciudad Comercio en solitario, dúos o escuadrones"),("es-419","Elimina miembros de la horda en Metrópoli Mercantil en solitario, en dúo o en escuadrón"),("fr","Éliminer des membres de la horde à Retail Row en solo, duo ou section"),("it","Elimina membri dell'orda a Corso Commercio in singolo, a coppie o a squadre"),("ja","ソロ、デュオ、またはスクワッドでリテイル・ローの大群の一味を倒す"),("ko","솔로, 듀오 또는 스쿼드에서 리테일 로우 호드의 일원 처치"),("pl","Zlikwiduj członków Hordy w Sklepowej Sadybie (solo, w parze lub w oddziale)"),("pt-BR","Elimine membros da Horda na Via do Varejo nos Esquadrões, Duplas ou Solo"),("ru","Уничтожайте монстров из орды в Торговой точке в одиночных и парных сражениях и боях отрядов"),("tr","Tekli, Çiftli ve Ekipli oyunlarda Perakende Pazarı'nda sürü canavarlarını avla"),("zh-CN","在单人、双人或小队模式下淘汰零售商场中的毒尸怪群成员"),("zh-Hant","在單人、雙人或小隊模式下淘汰零售商場中的毒屍怪群成員")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="50976FC9403B9B0EB369F9A3E07DE13E", NativeString="Eliminate members of the Horde at Retail Row", LocalizedStrings=(("ar","قم بتصفية أفراد الحشد في المجمع التجاري في الوضع الفردي والوضع الزوجي ووضع الفرق"),("en","Eliminate members of the Horde at Retail Row in Solos, Duos or Squads"),("de","Eliminiere Teile der Horde bei Retail Row in Solo, Duos, oder Team-Spielmodi"),("es","Elimina miembros de la horda en Ciudad Comercio en solitario, dúos o escuadrones"),("es-419","Elimina miembros de la horda en Metrópoli Mercantil en solitario, en dúo o en escuadrón"),("fr","Éliminer des membres de la horde à Retail Row en solo, duo ou section"),("it","Elimina membri dell'orda a Corso Commercio in singolo, a coppie o a squadre"),("ja","ソロ、デュオ、またはスクワッドでリテイル・ローの大群の一味を倒す"),("ko","솔로, 듀오 또는 스쿼드에서 리테일 로우 호드의 일원 처치"),("pl","Zlikwiduj członków Hordy w Sklepowej Sadybie (solo, w parze lub w oddziale)"),("pt-BR","Elimine membros da Horda na Via do Varejo nos Esquadrões, Duplas ou Solo"),("ru","Уничтожайте монстров из орды в Торговой точке в одиночных и парных сражениях и боях отрядов"),("tr","Tekli, Çiftli ve Ekipli oyunlarda Perakende Pazarı'nda sürü canavarlarını avla"),("zh-CN","在单人、双人或小队模式下淘汰零售商场中的毒尸怪群成员"),("zh-Hant","在單人、雙人或小隊模式下淘汰零售商場中的毒屍怪群成員")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="5A3EF3C44E93C2F33BAE92A4EEE2A2FF", NativeString="Eliminate members of the Horde at Retail Row", LocalizedStrings=(("ar","قم بتصفية أفراد الحشد في المجمع التجاري في الوضع الفردي والوضع الزوجي ووضع الفرق"),("en","Eliminate members of the Horde at Retail Row in Solos, Duos or Squads"),("de","Eliminiere Teile der Horde bei Retail Row in Solo, Duos, oder Team-Spielmodi"),("es","Elimina miembros de la horda en Ciudad Comercio en solitario, dúos o escuadrones"),("es-419","Elimina miembros de la horda en Metrópoli Mercantil en solitario, en dúo o en escuadrón"),("fr","Éliminer des membres de la horde à Retail Row en solo, duo ou section"),("it","Elimina membri dell'orda a Corso Commercio in singolo, a coppie o a squadre"),("ja","ソロ、デュオ、またはスクワッドでリテイル・ローの大群の一味を倒す"),("ko","솔로, 듀오 또는 스쿼드에서 리테일 로우 호드의 일원 처치"),("pl","Zlikwiduj członków Hordy w Sklepowej Sadybie (solo, w parze lub w oddziale)"),("pt-BR","Elimine membros da Horda na Via do Varejo nos Esquadrões, Duplas ou Solo"),("ru","Уничтожайте монстров из орды в Торговой точке в одиночных и парных сражениях и боях отрядов"),("tr","Tekli, Çiftli ve Ekipli oyunlarda Perakende Pazarı'nda sürü canavarlarını avla"),("zh-CN","在单人、双人或小队模式下淘汰零售商场中的毒尸怪群成员"),("zh-Hant","在單人、雙人或小隊模式下淘汰零售商場中的毒屍怪群成員")))
 
-;Updating the Japanese translation for "Visit Pandora in style with the Psycho Bundle", as the current translation is misleading to players
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="454D36704CEF515980AC38BB9619AC3D", NativeString="Visit <text color=\"FFE404\" fontface=\"black\" size=\"18\" case=\"upper\">Pandora</> in style with the <text color=\"FFE404\" fontface=\"black\" size=\"18\" case=\"upper\">Psycho Bundle</>", LocalizedStrings=(("ja","<text color=\"FFE404\" fontface=\"black\" size=\"18\" case=\"upper\">サイコバンドル</>でスタリッシュに<text color=\"FFE404\" fontface=\"black\" size=\"18\" case=\"upper\">パンドラ</>を探索してみよう！")))
 
-;Swapping text string on capture area option
+
 +TextReplacements=(Category=Game, Namespace="", Key="5E95400543878EFB367A7F920F9CE630", NativeString=" When the area triggers. Do we consume the item or let the player keep it. (this has some potential negative setup cases with scoring exploits, but that's a creator problem).", LocalizedStrings=(("ar","لتحديد ما إذا كان يتم إزالة العنصر من مستودع اللاعب عند دخوله إلى المنطقة."),("en","Determines whether the item is removed from the player's inventory when it enters the area."),("de","Entscheidet, ob der Gegenstand beim Betreten der Zone aufgebraucht wird."),("es","Determina si se elimina el objeto del inventario del jugador cuando entra en la zona."),("es-419","Determina si se elimina el objeto del inventario del jugador cuando entra en la zona."),("fr","Définit si l'objet est retiré de l'inventaire du joueur quand il entre dans la zone."),("it","Determina se l'oggetto viene rimosso dall'inventario del giocatore quando entra nell'area."),("ja","アイテムがエリアに入ったときにプレイヤーのインベントリからアイテムを削除するかどうかを決定します。"),("ko","아이템이 영역 범위에 들어갔을 때 플레이어의 인벤토리에서의 아이템 제거 여부를 결정합니다."),("pl","Decyduje, czy przedmiot jest usuwany z ekwipunku gracza po wejściu na obszar."),("pt-BR","Determina se o item é removido do inventário do jogador ao entrar na área."),("ru","Определяет, исчезнет ли предмет из инвентаря игрока при попадании в область."),("tr","Eşya bölgeye girdiğinde oyuncunun çantasından yok olacak mı, olmayacak mı onu belirler."),("zh-CN","决定玩家在进入此区域时，是否从物品栏中移除该物品。"),("zh-Hant","決定玩家在進入此區域時，是否從物品欄中移除該物品。")))
 
-;UFO Set Text
+
 +TextReplacements=(Category=Game, Namespace="CosmeticSets", Key="Cosmetics.Set.AbandonedCrowd_DisplayName", NativeString="Set_02",LocalizedStrings=(("ar","الطبق الطائر"),("en","UFO"),("de","UFO"),("es","Ovni"),("es-419","OVNI"),("fr","Ovni"),("it","UFO"),("ja","UFO"),("ko","UFO"),("pl","UFO"),("pt-BR","OVNI"),("ru","Инопланетяне"),("tr","UFO"),("zh-CN","UFO"),("zh-Hant","UFO")))
 
-;Text Swap for Glow and Levitate
+
 +TextReplacements=(Category=Game, Namespace="", Key="DA506B3F4C659D6AE4E427BD4B60E03D", NativeString="Set_05_BA",LocalizedStrings=(("ar","اسبح في الهواء"),("en","Levitate"),("de","Abgehoben"),("es","Levitación"),("es-419","Levitación"),("fr","Lévitation"),("it","Levitazione"),("ja","リビテイト"),("ko","공중부양"),("pl","Lewitacja"),("pt-BR","Levitação"),("ru","Левитация"),("tr","Havaya Yüksel"),("zh-CN","悬浮"),("zh-Hant","懸浮")))
 +TextReplacements=(Category=Game, Namespace="", Key="86FC9F04437CF6BB3066B285C1F21661", NativeString="Set_05_BB",LocalizedStrings=(("ar","ارتفع لأعلى."),("en","Rise above."),("de","Wie ist die Luft da unten?"),("es","A las alturas."),("es-419","Por encima de todos."),("fr","Prenez de la hauteur."),("it","Voliamo alto."),("ja","上昇しよう。"),("ko","공중에 떠오르세요."),("pl","Wznieś się ponad poziom."),("pt-BR","Eleve-se."),("ru","Воспарите над землёй."),("tr","Çok havalı."),("zh-CN","上升。"),("zh-Hant","免受影響。")))
 +TextReplacements=(Category=Game, Namespace="", Key="E5C7636C4B2136CFB08F269F167FABD4", NativeString="Set_05_CA",LocalizedStrings=(("ar","الوهج"),("en","Glow"),("de","Schimmer"),("es","Resplandor"),("es-419","Resplandor"),("fr","Extase"),("it","Bagliore"),("ja","グロー"),("ko","글로우"),("pl","Poświata"),("pt-BR","Brilho"),("ru","Аура"),("tr","Sedef"),("zh-CN","光之宿命"),("zh-Hant","光之宿命")))
 +TextReplacements=(Category=Game, Namespace="", Key="7E471DD948889A73BDAA868C8E2FAB59", NativeString="Set_05_CB",LocalizedStrings=(("ar","عبير النصر يسطع وهجه."),("en","The aura of victory glows bright."),("de","Das Licht des Sieges strahlt hell."),("es","El aura de la victoria brilla con fuerza."),("es-419","El aura de la victoria resplandece con fuerza."),("fr","Ô temps, suspends ton vol."),("it","L'aura della vittoria splende luminosa."),("ja","勝利のオーラが輝きを放つ。"),("ko","승리의 아우라를 밝게 빛내보세요!"),("pl","Aura zwycięstwa świeci jasno."),("pt-BR","A aura da vitória bilha forte."),("ru","Излучает ауру победительницы."),("tr","Işıl ışıl parlıyor."),("zh-CN","胜利的光环如此明亮。"),("zh-Hant","勝利的光環如此明亮。")))
 
-;Fix for challenge reward text for Spray
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="8D2CE35C498FBC87D0D7B0A437D2F8C1", NativeString="TBD", LocalizedStrings=(("ar","فارس ألتيما"),("en","Ultima Knight"),("de","Ultimaritter"),("es","Caballero Ultima"),("es-419","Caballero Ultima"),("fr","Chevalier ultime"),("it","Cavaliere Ultima"),("ja","アルティマナイト"),("ko","최후의 기사"),("pl","Rycerz Ultima"),("pt-BR","Cavaleiro Supremo"),("ru","Несокрушимый рыцарь"),("tr","Kızıl Şövalye"),("zh-CN","终极骑士"),("zh-Hant","終極騎士")))
 
-;Loc fixes for upcoming cosmetics
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="34BC5E6D46E24F489A1D728E444D3E47", NativeString="P-1000",LocalizedStrings=(("ru","Б-1000")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="45263969488052CAEFA972A0DDB39A61", NativeString="Additional challenges for P-1000.",LocalizedStrings=(("ru","Дополнительные испытания Б-1000.")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="543E8A544F2C3AA3DDAE7E8AA4601482", NativeString="P-1000 Challenges",LocalizedStrings=(("ru","Испытания Б-1000")))
@@ -95,7 +95,7 @@
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="BD69DD1148F80C320FF3819E57E567DE", NativeString="Welcome to The Combine",LocalizedStrings=(("ru","Добро пожаловать в «Боевой спринт»!")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="44BC18FB4A47A054DAA95585C7CF996E", NativeString="Danger Zone Challenges",LocalizedStrings=(("ko","댄저 존 도전")))
 
-;Text Changes for ZW
+
 +TextReplacements=(Category=Game, Namespace="", Key="41595C104106F102DD3B179CA5975478", NativeString="Turn up the heat. ",LocalizedStrings=(("ar","ارفع الإثارة. \r\nجزء من مجموعة حروب المنطقة."),("en","Turn up the heat. \r\nPart of the Zone Wars set."),("de","Dreh die Hitze auf. \r\nTeil des „Zone Wars“-Sets."),("es","Sube la temperatura. \r\nParte del conjunto de Zone Wars."),("es-419","Sube la temperatura. \r\nPieza del conjunto Guerra de zonas."),("fr","Montez la température. \r\nFait partie de l'ensemble Guerre de zones."),("it","Riscalda l'atmosfera. \r\nParte del set Zone Wars"),("ja","あったかくなろう。 \r\nゾーンウォーズセットの一部。"),("ko","열기를 더해보세요. \r\n[구역 전쟁 세트]"),("pl","Dodaj gazu. \r\nCzęść zestawu Ruszane Strefy."),("pt-BR","Aumente a temperatura.\r\nParte do Conjunto Zona de Guerra."),("ru","Рискует — и никогда не проигрывает. \r\nВходит в набор «Zone Wars»."),("tr","Rekabeti kızıştır. \r\n Bölge Savaşları setinin bir parçası. "),("zh-CN","打开暖气。\r\n 属于区域战争套装。"),("zh-Hant","打開暖氣。 \r\n 屬於區域戰爭套裝。")))
 +TextReplacements=(Category=Game, Namespace="", Key="97739C0847126646E0ABB5A7D23262B0", NativeString="Pure perfection. ",LocalizedStrings=(("ar","مثالية تامة. \r\nجزء من مجموعة حروب المنطقة."),("en","Pure perfection. \r\nPart of the Zone Wars set."),("de","Reinste Perfektion. \r\nTeil des „Zone Wars“-Sets."),("es","Pura perfección. \r\nParte del conjunto de Zone Wars."),("es-419","Pura perfección.\r\nParte del conjunto Guerra de Zonas."),("fr","Une merveille de conception. \r\nFait partie de l'ensemble Guerre de zones."),("it","Perfezione assoluta. \r\nParte del set Zone Wars"),("ja","完ぺき。\r\nゾーンウォーズセットの一部。"),("ko","완벽 그 자체입니다. \r\n[구역 전쟁 세트]"),("pl","Czysta doskonałość. \r\nCzęść zestawu Ruszane Strefy."),("pt-BR","Totalmente perfeito.\r\nParte do Conjunto Zona de Guerra."),("ru","Само совершенство. \r\nВходит в набор «Zone Wars»."),("tr","Mükemmel ve ötesine. \r\n Bölge Savaşları setinin bir parçası."),("zh-CN","至善至美。\r\n 属于区域战争套装。"),("zh-Hant","至善至美。 \r\n 屬於區域戰爭套裝。")))
 +TextReplacements=(Category=Game, Namespace="", Key="02E0705E43C236A9ABACC4BF6A4C73EF", NativeString="Complete Upcoming Mission",LocalizedStrings=(("ar","أكمل مهمة نقطة الهدف"),("en","Complete Bullseye! Mission"),("de","Beende die Mission „Volltreffer!“"),("es","Completa la misión ¡Diana!"),("es-419","Completa la misión ¡En el blanco!"),("fr","Accomplir la mission Dans le mille !"),("it","Completa la missione Centro pieno!"),("ja","ミッション「命中！」をクリアする"),("ko","불스아이! 미션 완료"),("pl","Ukończ misję Strzał w dziesiątkę!"),("pt-BR","Conclua a Missão Na Mosca!"),("ru","Выполните миссию «В яблочко!»"),("tr","Tam İsabet! Görevini Tamamla"),("zh-CN","完成正中靶心！任务"),("zh-Hant","完成正中靶心！任務")))
@@ -104,27 +104,32 @@
 +TextReplacements=(Category=Game, Namespace="", Key="1F94EEB746D814F6ED25C3904807419C", NativeString="Earn additional styles for <TBD>",LocalizedStrings=(("ar","اربح أنماطًا جديدة لـ المنطقة الساخنة"),("en","Earn additional styles for Hot Zone"),("de","Verdiene zusätzliche Stile für Hitzezone"),("es","Consigue estilos adicionales para Zona de riesgo"),("es-419","Consigue estilos adicionales para Zona de riesgo."),("fr","Obtenez des styles supplémentaires pour Ardeur."),("it","Ottieni stili aggiuntivi per Zona calda."),("ja","ホットゾーン用の追加スタイルを手に入れる"),("ko","핫 존의 다른 스타일들을 추가로 획득하세요."),("pl","Zdobądź dodatkowe style Gorący Strefiarz"),("pt-BR","Ganhe estilos adicionais para Zona de Calor."),("ru","Риск: зарабатывайте дополнительные стили."),("tr","Sıcak Bölge için ek tarzlar kazan."),("zh-CN","为暖场王获得额外样式。"),("zh-Hant","为暖場王获得额外样式。")))
 +TextReplacements=(Category=Game, Namespace="", Key="2376622F4C673DCBF880B48A71E3E7B7", NativeString="Earn additional styles for <TBD>",LocalizedStrings=(("ar","اربح أنماطًا جديدة لـ منطقة الخطر"),("en","Earn additional styles for Danger Zone"),("de","Verdiene zusätzliche Stile für Gefahrenzone"),("es","Consigue estilos adicionales para Zona de peligro"),("es-419","Consigue estilos adicionales para Zona de peligro."),("fr","Obtenez des styles supplémentaires pour Frayeur."),("it","Ottieni stili aggiuntivi per Zona pericolo."),("ja","デンジャーゾーン用の追加スタイルを手に入れる"),("ko","댄저 존의 다른 스타일들을 추가로 획득하세요."),("pl","Zdobądź dodatkowe style Groźna Strefiara"),("pt-BR","Ganhe estilos adicionais para Zona de Perigo."),("ru","Опасность: зарабатывайте дополнительные стили."),("tr","Tehlikeli Bölge için ek tarzlar kazan."),("zh-CN","为绝地湮灭获得额外样式。"),("zh-Hant","为絕地湮滅获得额外样式。")))
 
-;P-1000
+
 +TextReplacements=(Category=Game, Namespace="", Key="7ACC8A384A83D6A306EBB689384D84CF", NativeString="Set_04_AA",LocalizedStrings=(("ar","اهتزاز موزة"),("en","Peely Pulse"),("de","Schali-Schüttler"),("es","Batidora bananística"),("es-419","Batidora bananística"),("fr","Coup de mixeur"),("it","Frappè a impulso"),("ja","ピーリーパルス"),("ko","필리 펄스"),("pl","Miks Skórka"),("pt-BR","Vitaminado"),("ru","Блендер"),("tr","Mikser"),("zh-CN","蕉宝脉动"),("zh-Hant","蕉寶脈動")))
 +TextReplacements=(Category=Game, Namespace="", Key="5BE9A4264CC8DE6BD4F848AB3E2B0E6F", NativeString="Set_04_AB",LocalizedStrings=(("ar","اندمج في محيطك."),("en","Blend in to your surroundings."),("de","Sondern in den Mixer."),("es","Una mezcla de lo más propia."),("es-419","Mézclate con el entorno."),("fr","Remet les idées en place."),("it","Per tutto quel che ti frulla in testa"),("ja","周囲に溶け込もう。"),("ko","주변 환경에 잘 섞여 보세요."),("pl","Zmieszany, nie wstrząśnięty."),("pt-BR","Em busca da batida perfeita."),("ru","Встряхнись!"),("tr","Biraz insan içine karış."),("zh-CN","融入你的环境。"),("zh-Hant","融入你的環境。")))
 +TextReplacements=(Category=Game, Namespace="", Key="ECA45D934B6A827173AE718652B00124", NativeString="Set_04_BA",LocalizedStrings=(("ar","P-1000"),("en","P-1000"),("de","S-1000"),("es","P-1000"),("es-419","B-1000"),("fr","B-1000"),("it","P-1000"),("ja","P-1000"),("ko","P-1000"),("pl","S-1000"),("pt-BR","Embananado 3000"),("ru","Б-1000"),("tr","Mekaffer"),("zh-CN","P-1000"),("zh-Hant","P-1000")))
 +TextReplacements=(Category=Game, Namespace="", Key="9C88C9104051D93642D8C8ACE1F175B5", NativeString="Set_04_BB",LocalizedStrings=(("ar","روبوت معارك من المقشر"),("en","Peely-powered combat banandroid."),("de","Schali-betriebener Kampf-Banandroit."),("es","Bananodroide de combate."),("es-419","Un bananíndroide de combate potenciado con potasio."),("fr","Un banandroïde de combat."),("it","Banandroide alimentato a Bananita."),("ja","ピーリーを動力源とする戦闘型バナナンドロイド。"),("ko","필리의 힘으로 작동하는 전투용 바나나봇입니다."),("pl","Banandroid bojowy o napędzie skórkowym."),("pt-BR","Bananadroide de combate vitaminado."),("ru","Боевой банандроид на органическом топливе."),("tr","Gücünü potasyumdan alıyor."),("zh-CN","蕉宝动力的战斗香蕉机器人。"),("zh-Hant","蕉寶動力的戰鬥香蕉機器人。")))
 
-;Updating SundayCW POI
+
 +TextReplacements=(Category=Game, Namespace="", Key="36C8355344B2DEF27EFD06A4A386CDB1", NativeString="by Sunday", LocalizedStrings=(("ar","بواسطة SundayCW"),("en","By SundayCW"),("de","Von SundayCW"),("es","De SundayCW"),("es-419","Por SundayCW"),("fr","Par SundayCW"),("it","di SundayCW"),("ja","By SundayCW"),("ko","제작자: SundayCW"),("pl","Autor: SundayCW"),("pt-BR","Por SundayCW"),("ru","Автор SundayCW"),("tr","SundayCW"),("zh-CN","出自SundayCW"),("zh-Hant","出自SundayCW")))
 +TextReplacements=(Category=Game, Namespace="", Key="1E31F35841EFB308F6B885BC4B08C29E", NativeString="by Sunday", LocalizedStrings=(("ar","بواسطة SundayCW"),("en","By SundayCW"),("de","Von SundayCW"),("es","De SundayCW"),("es-419","Por SundayCW"),("fr","Par SundayCW"),("it","di SundayCW"),("ja","By SundayCW"),("ko","제작자: SundayCW"),("pl","Autor: SundayCW"),("pt-BR","Por SundayCW"),("ru","Автор SundayCW"),("tr","SundayCW tarafından yapıldı"),("zh-CN","SundayCW"),("zh-Hant","SundayCW")))
 +TextReplacements=(Category=Game, Namespace="", Key="0F9A05D349E7D736ED093EB0CA370504", NativeString="Sunday", LocalizedStrings=(("ar","SundayCW"),("en","SundayCW"),("de","SundayCW"),("es","SundayCW"),("es-419","SundayCW"),("fr","SundayCW"),("it","SundayCW"),("ja","SundayCW"),("ko","SundayCW"),("pl","SundayCW"),("pt-BR","SundayCW"),("ru","SundayCW"),("tr","SundayCW"),("zh-CN","SundayCW"),("zh-Hant","SundayCW")))
 
-; Fix for shop voting string in AR
+
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="834A32A346D3AE29C2FFEE85257BBD50", NativeString="<white>During this</><cyan> SPECIAL EVENT</><white>, </><white>you'll get </><cyan>ONE VOTE EVERY DAY</><white>.</>\r\n\r\n<white>Use it to vote for the item you want to</><cyan> COME TO THE SHOP</><white> at the end of the voting period.</>\r\n\r\n<white>Items that are not chosen may enter the shop later.</>",LocalizedStrings=(("ar","<white>أثناء هذا</><cyan> الحدث الخاص</><white>، </><white>سيتوفر لك </><cyan>صوت واحد كل يوم</><white>.</>\r\n\r\n<white>استخدمه للتصويت للعنصر الذي تريد</><cyan> إعادته إلى المتجر</><white> في نهاية فترة التصويت.</>\r\n\r\n<white>قد تدخل العناصر التي لم يتم اختيارها في المتجر لاحقًا.</>")))
 
-;Text swap for Stoneheart cosmetics
+
 +TextReplacements=(Category=Game, Namespace="", Key="51E473EE400F078C4C26C29D1373D9FD", NativeString="Set_03_AA",LocalizedStrings=(("ar","القلب الصخري"),("en","Stoneheart"),("de","Steinherz"),("es","Corazón de piedra"),("es-419","Corazón de piedra"),("fr","Fendeuse de cœurs"),("it","Cuordipietra"),("ja","ストーンハート"),("ko","스톤하트"),("pl","Kamienne Serce"),("pt-BR","Coração de Pedra"),("ru","Каменное сердце"),("tr","Aşk Tanrıçası"),("zh-CN","石心爱神"),("zh-Hant","鐵石心腸")))
 +TextReplacements=(Category=Game, Namespace="", Key="B008C68F4AF2C49B2C53BC9F87B53865", NativeString="Set_03_AB",LocalizedStrings=(("ar","محارب الحب المثالي."),("en","Statuesque love warrior."),("de","Steinharte Kriegerin der Liebe."),("es","Romántica guerrera estatua."),("es-419","Una romántica guerrera estatua."),("fr","Elle est dure comme l'amour."),("it","La statuario guerriera dell'amore."),("ja","威厳のある愛の戦士。"),("ko","사랑의 전사 조각상입니다."),("pl","Posągowa wojowniczka miłości."),("pt-BR","Guerreira escultural do amor."),("ru","Несёт любовь и... боль."),("tr","Taştan olduğuna bakma, kalbi yumuşacık."),("zh-CN","雕像般的爱之战士。"),("zh-Hant","雕像般的愛之戰士。")))
 +TextReplacements=(Category=Game, Namespace="", Key="CAE0580444E911C48F4D0F81AD49B35A", NativeString="Set_03_BA",LocalizedStrings=(("ar","أجنحة الحب"),("en","Wings of Love"),("de","Liebesschwingen"),("es","Alas del amor"),("es-419","Alas de amor"),("fr","Ailes d'amour"),("it","Ali dell'amore"),("ja","ラブウイング"),("ko","사랑의 날개"),("pl","Skrzydła Miłości"),("pt-BR","Asas do Amor"),("ru","Крылья страсти"),("tr","Sevgi Kanatları"),("zh-CN","爱情之翼"),("zh-Hant","愛情之翼")))
 +TextReplacements=(Category=Game, Namespace="", Key="36B089554CC576E0B8E91CA19560F91A", NativeString="Set_03_BB",LocalizedStrings=(("ar","حلّق عاليًا."),("en","Soar on."),("de","Wie auf Wolke 7."),("es","Hacia el firmamento."),("es-419","Hacia los cielos."),("fr","Envole-moi, envole-moi !"),("it","Prendi il volo."),("ja","空高く舞い上がれ。"),("ko","높이 비상해보세요."),("pl","Poszybuj ku niebu."),("pt-BR","O amor está no ar."),("ru","Любовь окрыляет."),("tr","Sevgiye aç kanatlarını."),("zh-CN","翱翔。"),("zh-Hant","翱翔。")))
 +TextReplacements=(Category=Game, Namespace="", Key="911A99B14C3C3620DB51AC8CD9A09324", NativeString="Set_03_CA",LocalizedStrings=(("ar","خنجر كيوبيد"),("en","Cupid's Dagger"),("de","Herzschmerz"),("es","Dagas de cupido"),("es-419","Dagas de cupido"),("fr","Dague de Cupidon"),("it","Pugnale di Cupido"),("ja","キューピッドダガー"),("ko","큐피드의 단검"),("pl","Sztylet Amora"),("pt-BR","Gládios do Cupido"),("ru","Лезвия любви"),("tr","Eros'un Hançeri"),("zh-CN","丘比特的匕首"),("zh-Hant","丘比特的匕首")))
 +TextReplacements=(Category=Game, Namespace="", Key="98B01FB44EA70B93BD7E54920FC77F38", NativeString="Set_03_CB",LocalizedStrings=(("ar","ألم الحب."),("en","Love hurts."),("de","Liebe kann schmerzen."),("es","El amor duele."),("es-419","Amar duele."),("fr","Personne ne coupe à l'amour."),("it","L'amore fa male."),("ja","愛とは過酷である。"),("ko","사랑은 아픕니다."),("pl","Miłość rani."),("pt-BR","Amar dói."),("ru","Поражайте в самое сердце!"),("tr","Aşk acıtır."),("zh-CN","情伤。"),("zh-Hant","情傷。")))
+
+
++TextReplacements=(Category=Game, Namespace="", Key="7ADA541E47E94DDFA6E334AE6452DCFF", NativeString="All maps created by:",LocalizedStrings=(("ar","تم الإنشاء بواسطة:"),("en","Created by:"),("de","Erstellt von:"),("es","Creado por:"),("es-419","Creado por:"),("fr","Créateurs :"),("it","Creazioni di:"),("ja","制作:"),("ko","제작자: "),("pl","Autor: "),("pt-BR","Criado por:"),("ru","Авторы:"),("tr","Yapan:"),("zh-CN","创建者："),("zh-Hant","創建者：")))
++TextReplacements=(Category=Game, Namespace="", Key="02EB6F164C311A5986E65A83C8983935", NativeString="Arena - Jesgran | Desert - JotaPeGame | Downhill Rivers - Enigma | Vortex - Zeroyahero",LocalizedStrings=(("ar","كولوسيوم - Jesgran | الصحراء - JotaPeGame | نهر المنحدر - Enigma | الدوامة - Zeroyahero"),("en","Colosseum - Jesgran | Desert - JotaPeGame | Downhill River - Enigma | Vortex - Zeroyahero"),("de","Kolosseum - Jesgran | Wüste - JotaPeGame | Downhill River - Enigma | Vortex - Zeroyahero"),("es","Coliseo - Jesgran | Desierto - JotaPeGame | Río colina abajo - Enigma | Vórtice - Zeroyahero"),("es-419","Coliseo - Jesgran | Desierto - JotaPeGame | Río cuesta abajo - Enigma | Vórtice - Zeroyahero"),("fr","Colisée - Jesgran | Désert - JotaPeGame | Rivière - Enigma | Vortex - Zeroyahero"),("it","Arena - Jesgran | Deserto - JotaPeGame | Lungo i fiumi - Enigma | Vortice - Zeroyahero"),("ja","コロシアム - Jesgran | 砂漠 - JotaPeGame | ダウンヒルリバー - Enigma | ボルテックス - Zeroyahero"),("ko","콜로세움 - Jesgran 님 | 사막 - JotaPeGame 님 | 내리막길 - Enigma 님 | 소용돌이 - Zeroyahero 님"),("pl","Koloseum - Jesgran | Pustynia - JotaPeGame | Spływ Rzeką - Enigma | Wir - Zeroyahero"),("pt-BR","Coliseu — JesGran | Deserto — JotaPeGame | Declive pelo Rio — Enigma | Vórtice — Zeroyahero"),("ru","«Колизей» — Jesgran | «Пустыня» — JotaPeGame | «Вниз по реке» — Enigma | «Воронка» — Zeroyahero"),("tr","Kolezyum - Jesgran | Çöl - JotaPeGame | Bayır Aşağı Nehir - Enigma | Girdap - Zeroyahero"),("zh-CN","竞技场 - Jesgran | 沙漠 - JotaPeGame | 顺流而下 - Enigma | 旋涡 - Zeroyahero"),("zh-Hant","競技場 - Jesgran | 沙漠 - JotaPeGame | 順流而下 - Enigma | 旋渦 - Zeroyahero")))
+
 
 [/Script/FortniteGame.FortGameInstance]
 bBattleRoyaleMatchmakingEnabled=true
@@ -139,26 +144,27 @@ bBattleRoyaleMatchmakingEnabled=true
 
 !FrontEndPlaylistData=ClearArray
 
-;Playgrounds mah dudes
+
 +PlaylistOverrides=(PlaylistName=Playlist_Creative_PlayOnly, bEnabled=true)
 +FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
 
-;Default
+
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSolo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=3))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultDuo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=4))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSquad, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=5))
 
-;Creative
+
 +FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=true, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
 
-;14 days Playlist syntax BIG TEAM ROW
+
 +FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
 
-;Zone Wars playlist syntax
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_ZebraWallet_D, PlaylistAccess=(bEnabled=true, CategoryIndex=2, AdvertiseType=New, DisplayPriority=30))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_ZebraWallet_A, PlaylistAccess=(bEnabled=true, CategoryIndex=2, AdvertiseType=New, DisplayPriority=31))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_ZebraWallet_DH, PlaylistAccess=(bEnabled=true, CategoryIndex=2, AdvertiseType=New, DisplayPriority=32))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_ZebraWallet_V, PlaylistAccess=(bEnabled=true, CategoryIndex=2, AdvertiseType=New, DisplayPriority=33))
+
++FrontEndPlaylistData=(PlaylistName=Playlist_Creative_ZebraWallet_Random, PlaylistAccess=(bEnabled=true, CategoryIndex=2, AdvertiseType=New, DisplayPriority=31))
++FrontEndPlaylistData=(PlaylistName=Playlist_Creative_ZebraWallet_Random2, PlaylistAccess=(bEnabled=true, CategoryIndex=2, AdvertiseType=New, DisplayPriority=32))
+
+
++FrontEndPlaylistData=(PlaylistName=Playlist_Crucible_Solo, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
@@ -187,7 +193,7 @@ RealMoneyPurchaseFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=
 bAthenaSimVehicles=true
 bUploadAthenaStatsV2=true
 AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-merge"
-; List of available Wargame Missions 
+
 +IronCityWargameTagList=Stat.Mission.Ironcity.Pods
 +IronCityWargameTagList=Stat.Mission.IronCity.Tiki
 +IronCityWargameTagList=Stat.Mission.IronCity.TeleBomb
@@ -196,13 +202,13 @@ AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-mer
 +IronCityWargameTagList=Stat.Mission.IronCity.RiotCity
 bEnableIronCityCoast=true
 
-;disable streaming globally
+
 bUseLegacyMediaSource=true
 
 +KairosSubmitOptions=(Type="PartyJoinFailure",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.10,SubmitErrors=("UnknownClientFailure","UnknownInternalFailure","RequesteeNotMember"))
 +KairosSubmitOptions=(Type="LoginError",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.01)
 
-;Streaming Resolutions
+
 MaxResolutionForMediaStreaming=1088
 MaxResolutionForStandalonePlayer=380
 
@@ -262,7 +268,7 @@ DivebombSteerPitchRate=115.0
 DivebombHeadingMatchRate=70.0
 
 [/Script/FortniteGame.FortCreativeBudgeterData]
-;adjusting Item Spawner limit
+
 !TransientClassLimits=ClearArray
 +TransientClassLimits=(ActorClass=/Script/FortniteGame.FortPickup,MaxNumberOfInstances=1000)
 +SavedClassLimits=(ActorClass=/Game/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent.Device_Floor_VehicleSpawnerParent_C, MaxNumberOfInstances=32)
@@ -305,27 +311,27 @@ VideoStreamSource="Rabbit:Electra"
 
 
 [AssetHotfix]
-;Reduce TimeTillSpecialActorIconRegisters
+
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;0;15
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;1;15
 
-;Junk rift arena
-;Arena
+
+
 +DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;TableUpdate;"[{\"Name\":\"WorldList.AthenaHighConsumables.44\",\"LootPackageID\":\"WorldList.AthenaHighConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaSupplyDropConsumables.37\",\"LootPackageID\":\"WorldList.AthenaSupplyDropConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaConsumables.34\",\"LootPackageID\":\"WorldList.AthenaConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic.08\",\"LootPackageID\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaConsumables.30\",\"LootPackageID\":\"WorldList.AthenaConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic.07\",\"LootPackageID\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaHighConsumables.40\",\"LootPackageID\":\"WorldList.AthenaHighConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaSupplyDropConsumables.33\",\"LootPackageID\":\"WorldList.AthenaSupplyDropConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"}]"
 
-;Tournament
+
 +DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;TableUpdate;"[{\"Name\":\"WorldList.AthenaHighConsumables.44\",\"LootPackageID\":\"WorldList.AthenaHighConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaSupplyDropConsumables.37\",\"LootPackageID\":\"WorldList.AthenaSupplyDropConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaConsumables.34\",\"LootPackageID\":\"WorldList.AthenaConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic.08\",\"LootPackageID\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":2,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/JollyRascal/WID_Athena_JollyRascal.WID_Athena_JollyRascal\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaConsumables.30\",\"LootPackageID\":\"WorldList.AthenaConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic.07\",\"LootPackageID\":\"WorldList.AthenaLoot.VendingMachine.Consumables.Epic\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaHighConsumables.40\",\"LootPackageID\":\"WorldList.AthenaHighConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"},{\"Name\":\"WorldList.AthenaSupplyDropConsumables.33\",\"LootPackageID\":\"WorldList.AthenaSupplyDropConsumables\",\"Weight\":0,\"NamedWeightMult\":\"None\",\"Count\":1,\"LootPackageCategory\":0,\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredTag\":\"None\",\"LootPackageCall\":\"\",\"ItemDefinition\":\"/Game/Athena/Items/Consumables/DeployableStorm/Athena_DogSweater.Athena_DogSweater\",\"PersistentLevel\":\"\",\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"bAllowBonusDrops\":true,\"Annotation\":\"\"}]"
 
-;Adjusting mech spawns in rumble
+
 +CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxOstrichLimit;0;8
 
-;TT Value adjustments
+
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.PinkOatmeal.GreenGlop.HealthRegenAmount;0;2
 
-;TT PulseDuration
+
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.PinkOatmeal.GreenGlop.PulseDuration;0;6.234
 
-;Reenable mechs in core
+
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;0
@@ -345,7 +351,7 @@ VideoStreamSource="Rabbit:Electra"
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
 
-;Reenable mechs in arena
+
 +CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;-10
 +CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;-4
 +CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;-2
@@ -365,7 +371,7 @@ VideoStreamSource="Rabbit:Electra"
 +CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
 +CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
 
-;reenable mech in tournament
+
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;0;-10
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;1;-4
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MinNumberToSpawn;2;-2
@@ -385,83 +391,7 @@ VideoStreamSource="Rabbit:Electra"
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;7;0
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.BGASpawn.Ostrich.MaxNumberToSpawn;8;0
 
-;Tilted Town (Core)
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.01;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.02;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.03;Weight;0.12
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.04;Weight;0.125
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Light.01;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Light.02;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.01;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.02;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.03;Weight;0.12
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.04;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.05;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.06;Weight;0.25
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.07;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.08;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.09;Weight;0.25
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.10;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.11;Weight;0.25
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.12;Weight;0.25
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.13;Weight;0.12
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.14;Weight;0.06
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.01;Weight;0.25
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.02;Weight;0.12
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.03;Weight;0.06
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.04;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.05;Weight;0.25
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_01;Weight;0.7
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_03;Weight;0.15
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_04;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_05;Weight;0.2
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_01;Weight;0.5
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_02;Weight;0.3
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_03;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_04;Weight;0.2
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_06;Weight;1
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_07;Weight;0.3
-+DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_09;Weight;0.2
 
-;Tilted Town (PG)
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.01;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.02;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.03;Weight;0.12
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Shell.04;Weight;0.125
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Light.01;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Light.02;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.01;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.02;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.03;Weight;0.12
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.04;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.05;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.06;Weight;0.25
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.07;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.08;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.09;Weight;0.25
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.10;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.11;Weight;0.25
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.12;Weight;0.25
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.13;Weight;0.12
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Medium.14;Weight;0.06
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.01;Weight;0.25
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.02;Weight;0.12
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.03;Weight;0.06
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.04;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaWestern.Heavy.05;Weight;0.25
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_01;Weight;0.7
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_03;Weight;0.15
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_04;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaTreasure_Western_05;Weight;0.2
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_01;Weight;0.5
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_02;Weight;0.3
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_03;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_04;Weight;0.2
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_06;Weight;1
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_07;Weight;0.3
-+DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaWestern_09;Weight;0.2
-
-;disable pandora and other blacklist
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.04;0;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.04;1;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.04;2;0
@@ -471,20 +401,20 @@ VideoStreamSource="Rabbit:Electra"
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.05;2;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.05;3;0
 
-;Pressure plant
+
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.07;0;72540
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.07;1;24320
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.07;2;97780
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaSafeZoneBlacklist;RowUpdate;Default.SafeZone.Blacklist.07;3;48896
 
-;Creative enable Oak Gallery D
+
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;661;Category;Gallery
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;661;ItemPrimaryAssetId;Consumable:CP_PlaysetGrenade_Instance_Props_S_Oak_d
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;661;Count;1
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;661;SortPriority;201.1
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;661;bIncluded;TRUE
 
-;Creative enable Oak Gallery E
+
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;662;Category;Gallery
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;662;ItemPrimaryAssetId;Consumable:CP_PlaysetGrenade_Instance_Props_S_Oak_e
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;662;Count;1
@@ -492,7 +422,7 @@ VideoStreamSource="Rabbit:Electra"
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;662;bIncluded;TRUE
 
 
-;Badger Bangs (Core & PG)
+
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.52;Weight;.6
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.40;Weight;.6
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.42;Weight;.6
@@ -500,7 +430,7 @@ VideoStreamSource="Rabbit:Electra"
 +DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.40;Weight;0.6
 +DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.37;Weight;0.6
 
-;Badger Grape (Core & PG)
+
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.56;Weight;.6
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.42;Weight;.6
 +DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.46;Weight;.6
@@ -508,9 +438,20 @@ VideoStreamSource="Rabbit:Electra"
 +DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDropConsumables.41;Weight;0.6
 +DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.38;Weight;0.6
 
-;Legendary Tac SMG not having autofire enabled
+
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Pistol_Scavenger_Athena_SR_Ore_T03;AutofireRange;4000
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Pistol_Scavenger_Athena_SR_Ore_T03;AutofireAcquisitionDelay;0.2
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Pistol_Scavenger_Athena_SR_Ore_T03;AutofireAcquisitionRechargeTime;2
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Pistol_Scavenger_Athena_SR_Ore_T03;AutofireReleaseTime;0.3
 +DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Pistol_Scavenger_Athena_SR_Ore_T03;AutofireCooldown;0.1
+
+
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;1;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;178;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;179;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;180;Bincluded;TRUE
+
+
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaFloorLoot_10;Weight;0.22
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HandCannon.03;Weight;0.6
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HandCannon.04;Weight;0.2

@@ -6,19 +6,19 @@ bUseLegacyMediaSource=False
 MemoryRequirementForMediaStreamingMB=0
 MaxResolutionForMediaStreaming=1088
 
-;enable electra for cinematic
-;Electra Streaming for Season Trailer
+
+
 bAllowElectraForReplayCinematic=true
 
-;Electra Streaming for Battle Pass Video
+
 bAllowElectraForWatchBattlePassMovie=true
 
-;Electra Streaming for Extended Battle Pass Video
+
 bShowExtendedBattlePassMovie=true
 OpenTimeLimitForReplayCinematic=6.0
 OpenTimeLimitForWatchBattlePassMovie=6.0
 
-; Whether Electra can be used to stream video only for Win8 and Win10
+
 bDisableElectraForReplayCinematicOnWin7AndWin8=false
 bDisableElectraForReplayCinematicOnWin7=false
 
@@ -27,9 +27,5 @@ bAllowForcedPerformanceReport=false
 bUploadAllCsvs=true
 
 [/Script/FortniteGame.FortStreamMediaSource]
-;Video source for Season Trailer
-VideoStreamSource="Rabbit:Electra1080"
 
-[/Script/FortniteGame.FortGameInstance]
-;Crucible Syntax
-+FrontEndPlaylistData=(PlaylistName=Playlist_Crucible_Solo, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
+VideoStreamSource="Rabbit:Electra1080"
