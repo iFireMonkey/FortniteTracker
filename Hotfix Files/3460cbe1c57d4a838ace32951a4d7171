@@ -22,7 +22,7 @@ Fort.EnableClientTimeoutBlockInput=0
 Athena.bFireOpenedChestSummaryAnalyticEvent=1
 Building.EditConnectedActorsOptimization=0
 net.SupportFastArrayDelta=1
-;Decreases time before Minigame begins after trigger
+
 Minigame.WaitingForReplicationTimeout=15
 demo.WithDeltaCheckpoints=0
 Athena.Vehicle.DisableCCDWhenKinematic=1
@@ -30,6 +30,7 @@ Fort.SkyTubesBlockBuilding=0
 replay.UseRemoteAimSnapshotManager=1
 au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
+CreativeIslandSelect.ShowTemplateIslands=1
 
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
@@ -48,7 +49,7 @@ HttpRetryLimit=1
 +HttpRetryResponseCodes=503
 +HttpRetryResponseCodes=504
 
-;Disable deleting of pings after party join
+
 bDeletePingAfterJoin=false
 
 [/Script/Engine.Player]

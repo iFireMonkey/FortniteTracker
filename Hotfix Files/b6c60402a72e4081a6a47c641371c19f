@@ -1,5 +1,6 @@
 [ConsoleVariables]
 gc.CreateGCClusters=false
-; Temporary whilst FeatureLevel10 issues are resolved
+
 au.DisableDeviceSwap=1
 Fort.EnableFacialAnimation=0
+r.VT.NumTranscodeRequests=32
