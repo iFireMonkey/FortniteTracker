@@ -31,6 +31,7 @@ replay.UseRemoteAimSnapshotManager=1
 au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
 CreativeIslandSelect.ShowTemplateIslands=1
+Athena.DisableOverlapsWhenNotInVehicleOptimization=0
 
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
