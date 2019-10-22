@@ -201,6 +201,9 @@ MaxActiveAIActors=350
 ReplayStreamerOverride=FortniteDSSReplayStreamer
 bUseZebulonDrones=False
 
+
++HotfixKillVolumes=(Center=(X=17679.437500,Y=41696.000000,Z=-1181.819336),Extent=(X=256.000000,Y=256.000000,Z=256.000000))
+
 [/Script/FortniteGame.FortFerretVehicleConfigs]
 MaxHealthToDestroyProp=199.0
 
@@ -282,6 +285,12 @@ LeecherCutoff=0.1
 +DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaGiftBox_04;Weight;1
 +DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaGiftBox_05;Weight;1
 +DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaGiftBox_06;Weight;1
+
+
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Phoebe.Spectate;0;1
+
+
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.TurboBuildFirstInterval;0;0.005
 
 
 +DataTable=/Game/Athena/Balance/Seasons/Athena_Season11_XP;RowUpdate;2;XpToNextLevel;20000
@@ -1381,9 +1390,3 @@ LeecherCutoff=0.1
 +DataTable=/Game/Athena/Balance/Seasons/Athena_Season11_ExtendedXP;RowUpdate;997;XpPerLevel;1983750
 +DataTable=/Game/Athena/Balance/Seasons/Athena_Season11_ExtendedXP;RowUpdate;998;XpPerLevel;1991750
 +DataTable=/Game/Athena/Balance/Seasons/Athena_Season11_ExtendedXP;RowUpdate;999;XpPerLevel;2000000
-
-
-+CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Phoebe.Spectate;0;1
-
-
-+CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.TurboBuildFirstInterval;0;0.005
