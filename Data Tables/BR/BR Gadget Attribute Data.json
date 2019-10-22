@@ -1,0 +1,1626 @@
+[
+  {
+    "super_object": {
+      "export_type": "CurveTable"
+    },
+    "curve_table_mode": "SimpleCurves",
+    "row_map": [
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.Fuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.MaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.ReserveFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.ReserveMaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.FuelBurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.FuelRegenRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.UpwardThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 600.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.LateralThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 825.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.UpwardAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 2500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.LateralAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 300.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.BoostActive",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.BoostFuelCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Defaults.FortJumpBoostSet.FuelRegenDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.25
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortHealthSet.Health",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortHealthSet.MaxHealth",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.FuseLength",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 15.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.MouseTurnCap",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.MouseTurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.1
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.MouseTurnRateMax",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.KeyboardTurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.ControllerTurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 65.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.TouchTurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 18.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.GyroTurnRateMax",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.MaxSpeed",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.MaxAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.UseLaunchDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.LaunchDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.LaunchSpeed",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 300.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.OutOfHealthExplodeDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RemoteControlPawn.Defaults.FortRemoteControlPawnSet.PlayerCanDetonate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.Fuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.MaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.ReserveFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.ReserveMaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.FuelBurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.FuelRegenRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.FuelRegenDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.25
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.SelfReviveActive",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.SelfReviveTime",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.SelfReviveCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.DamageBreaksSelfRevive",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.Heal",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.HealRadius",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 512.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MedicPack.Defaults.FortMedicPackSet.HealPeriod",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.5
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "IntelPack.Defaults.FortIntelPackSet.CurrentCharges",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "IntelPack.Defaults.FortIntelPackSet.MaxCharges",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "IntelPack.Defaults.FortIntelPackSet.StormTrackerCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "IntelPack.Defaults.FortIntelPackSet.RevealedTargetsRange",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "IntelPack.Defaults.FortIntelPackSet.RevealedTargetsDuration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "IntelPack.Defaults.FortIntelPackSet.RevealedTargetsCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GuidedMissilePack.Defaults.FortGuidedMissilePackSet.Missiles",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GuidedMissilePack.Defaults.FortGuidedMissilePackSet.MaxMissiles",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GuidedMissilePack.Defaults.FortGuidedMissilePackSet.ReserveMissiles",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GuidedMissilePack.Defaults.FortGuidedMissilePackSet.ReserveMaxMissiles",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GuidedMissilePack.Defaults.FortGuidedMissilePackSet.ReloadDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GliderPack.Defaults.FortGliderPackSet.CurrentCharges",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GliderPack.Defaults.FortGliderPackSet.MaxCharges",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GliderPack.BigTeamMode.FortGliderPackSet.CurrentCharges",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GliderPack.BigTeamMode.FortGliderPackSet.MaxCharges",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.Fuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.MaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.ReserveFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 9999999.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.ReserveMaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 9999999.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.FuelBurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.FuelRegenRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.UpwardThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.LateralThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.UpwardAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 2500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.LateralAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.BoostActive",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.BoostFuelCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AshtonMiloBoostPack.Defaults.FortJumpBoostSet.FuelRegenDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 3.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.Fuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.MaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.ReserveFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.ReserveMaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.FuelBurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.FuelRegenRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.UpwardThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 780.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.LateralThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 2000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.UpwardAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1350.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.LateralAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1700.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.BoostActive",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.BoostFuelCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Infinite.FortJumpBoostSet.FuelRegenDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.25
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.Fuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.MaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.ReserveFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 375.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.ReserveMaxFuel",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 375.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.FuelBurnRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 30.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.FuelRegenRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.UpwardThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 780.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.LateralThrust",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.UpwardAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 2800.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.LateralAcceleration",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 500.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.BoostActive",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 0.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.BoostFuelCost",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "JumpBoostPack.Retuned.FortJumpBoostSet.FuelRegenDelay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 1.25
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "HealGun.Default.FortChargingSet_HealGun.Charge",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "HealGun.Default.FortChargingSet_HealGun.MaxCharge",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 5.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "HealGun.Default.FortChargingSet_HealGun.ChargeRate",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 0.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ]
+    ]
+  }
+]

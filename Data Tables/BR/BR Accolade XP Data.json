@@ -1,0 +1,1594 @@
+[
+  {
+    "super_object": {
+      "export_type": "CurveTable"
+    },
+    "curve_table_mode": "SimpleCurves",
+    "row_map": [
+      [
+        "Default_Basic",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Default_Medal",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 330.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Default_Special",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Default_ChallengeObjective",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 14000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Default_POI",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 2000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Default_Landmark",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 2000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Reboot",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 75.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SupplyLlamaInteract",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 65.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "ForageableInteract",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 15.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SupplyDropInteract",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RevivePlayer",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AssistElim",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 70.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Elimination",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 85.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TreasureChestInteract",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 70.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "AmmoBoxInteract",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 65.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "ReachNewCircle",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstElim",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstLanding",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 105.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "HeadshotElim",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeScavenger",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverScavenger",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 180.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldScavenger",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 140.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeEliminator",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 280.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverEliminator",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 200.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldEliminator",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 160.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeSupporter",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverSupporter",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 180.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldSupporter",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 140.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzePlacement",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 170.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverPlacement",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldPlacement",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Playtime",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 23.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstMatchOfDay",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 5750.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "WeaponUpgrade",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FishingSpot",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 35.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "WeakSpotStreak",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeScavengerRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverScavengerRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 180.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldScavengerRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 140.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeEliminatorRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 280.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverEliminatorRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 200.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldEliminatorRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 160.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeSupporterRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 250.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverSupporterRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 180.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldSupporterRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 140.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "BronzeScoreRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 170.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "SilverScoreRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "GoldScoreRumble",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstTreasureChest",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 105.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstSupplyDrop",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 90.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstDeath",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstFishCatch",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 90.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstWeaponUpgrade",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstLegendaryAcquire",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 105.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstGoldenPOI",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 75.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstFullyHealed",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 105.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstBush",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 105.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "FirstGoldScavenger",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 105.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Killstreak2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 85.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Killstreak3",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Killstreak4",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Killstreak5",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Killstreak6",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 10.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim10",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 85.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim13",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim16",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 50.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim20",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim30",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim40",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TotalElim50",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 25.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageExplosiveT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageExplosiveT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamagePistolT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamagePistolT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageSMGT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageSMGT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamagePickaxeT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamagePickaxeT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageShotgunT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageShotgunT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageAssaultT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageAssaultT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageSniperT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DamageSniperT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "HealTeammateT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 40.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "HealTeammateT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DistanceElimT1",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 80.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DistanceElimT2",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 100.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DistanceElimT3",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "DistanceElimT4",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 140.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "TrapElim",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "MultiHeadshotElim",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 60.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "NoScope",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 70.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "WatchYourStep",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 70.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Payback",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "StayDown",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 120.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Hijack",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 130.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "PlaytimeCreative",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 23.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "Knockdown",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 20.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ]
+    ]
+  }
+]

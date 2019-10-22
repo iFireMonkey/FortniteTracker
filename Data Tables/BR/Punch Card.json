@@ -1,0 +1,114 @@
+[
+  {
+    "super_object": {
+      "export_type": "CurveTable"
+    },
+    "curve_table_mode": "SimpleCurves",
+    "row_map": [
+      [
+        "Default",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 2000.0
+            },
+            {
+              "time": 2.0,
+              "value": 2000.0
+            },
+            {
+              "time": 3.0,
+              "value": 2000.0
+            },
+            {
+              "time": 4.0,
+              "value": 2000.0
+            },
+            {
+              "time": 5.0,
+              "value": 4000.0
+            },
+            {
+              "time": 6.0,
+              "value": 2000.0
+            },
+            {
+              "time": 7.0,
+              "value": 2000.0
+            },
+            {
+              "time": 8.0,
+              "value": 2000.0
+            },
+            {
+              "time": 9.0,
+              "value": 2000.0
+            },
+            {
+              "time": 10.0,
+              "value": 4000.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ],
+      [
+        "RestedXP",
+        {
+          "export_type": "SimpleCurveKey",
+          "InterpMode": "RCIM_Linear",
+          "Keys": [
+            {
+              "time": 1.0,
+              "value": 2777.0
+            },
+            {
+              "time": 2.0,
+              "value": 2777.0
+            },
+            {
+              "time": 3.0,
+              "value": 2777.0
+            },
+            {
+              "time": 4.0,
+              "value": 2777.0
+            },
+            {
+              "time": 5.0,
+              "value": 2777.0
+            },
+            {
+              "time": 6.0,
+              "value": 2777.0
+            },
+            {
+              "time": 7.0,
+              "value": 2777.0
+            },
+            {
+              "time": 8.0,
+              "value": 2777.0
+            },
+            {
+              "time": 9.0,
+              "value": 2777.0
+            },
+            {
+              "time": 10.0,
+              "value": 2777.0
+            }
+          ],
+          "PreInfinityExtrap": "RCCE_Constant",
+          "PostInfinityExtrap": "RCCE_Constant",
+          "DefaultValue": 3.4028235E+38
+        }
+      ]
+    ]
+  }
+]

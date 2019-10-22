@@ -1,0 +1,2170 @@
+[
+  {
+    "export_type": "DataTable",
+    "0": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Flinger.Artillery.RecentlyUsed",
+      "DevComment": "Applied after artillery has been used. If a move is completed and this is true there will be no tell animation."
+    },
+    "1": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Flinger.Flee.Cooldown",
+      "DevComment": "When the tag is applied the Flee cannot happen."
+    },
+    "2": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Flinger.Flee.Fleeing",
+      "DevComment": "When the FlingerFlee tag is applied the Flinger Flee behavior in the tree will be allowed."
+    },
+    "3": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Flinger.Flee.TakeHeadshotDamage",
+      "DevComment": "When Players attack Flinger with headshots this tag stacks and overflows into the FlingerFlee tag."
+    },
+    "4": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Flinger.Flee.TakeMeleeDamage",
+      "DevComment": "When Players attack Flinger with melee this tag stacks and overflows into the FlingerFlee tag."
+    },
+    "5": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Flinger.Jump.Cooldown",
+      "DevComment": "Used for Flinger cooldown on his jump melee attack"
+    },
+    "6": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Husk.Beehive.HiveOnHead",
+      "DevComment": "Beehive Husk still has his beehive hat. Removes his AOE attack when not there."
+    },
+    "7": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Husk.Beehive.StandingInBees",
+      "DevComment": "Beehive Husk is standing in an area filled with Bees."
+    },
+    "8": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Husk.Lunge.Cooldown",
+      "DevComment": "Generic cooldown for Husk Lunge so groups of Husks don't attack Players too often."
+    },
+    "9": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Ceiling",
+      "DevComment": "AI Ceiling Attack."
+    },
+    "10": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Charge",
+      "DevComment": "AI Melee Charge Attack."
+    },
+    "11": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Explosive",
+      "DevComment": "AI Explosive Melee Attack."
+    },
+    "12": {
+      "export_type": "RowStruct",
+      "Tag": "AISKill.Melee.Failed",
+      "DevComment": "Tag applied when AI is failing his attacks. Stack limit will push the Frustration tag and remove this tag."
+    },
+    "13": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Floor",
+      "DevComment": "AI Floor Attack."
+    },
+    "14": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Frustration",
+      "DevComment": "Tag applied after many missed hits in order to make the Behavior Tree choose a different type of attack."
+    },
+    "15": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Heavy",
+      "DevComment": "Heavy AI Melee Attack."
+    },
+    "16": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Lunge",
+      "DevComment": "AI Melee Lunge Attack."
+    },
+    "17": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Primary",
+      "DevComment": "Base AI Melee Attack."
+    },
+    "18": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Radial",
+      "DevComment": "Radial Melee attack (such as Smasher's Ground-Pound)"
+    },
+    "19": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Melee.Wall",
+      "DevComment": "AI Wall Attack."
+    },
+    "20": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Ranged.AOE",
+      "DevComment": "AI Ranged area of effect. Intended to be fairly short range."
+    },
+    "21": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Ranged.CanReposition.BetweenVolleys",
+      "DevComment": "When ranged attack is on cooldown this AI should move around."
+    },
+    "22": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Ranged.CanReposition.ToIncreaseRange",
+      "DevComment": "When the GoalActor is too close this AI can move to increase range to an appropriate distance."
+    },
+    "23": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Ranged.Cooldown",
+      "DevComment": "Generic cooldown for ranged attacks."
+    },
+    "24": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Ranged.InstantHit",
+      "DevComment": "Instant hit attack."
+    },
+    "25": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Ranged.Primary",
+      "DevComment": "Base AI Ranged Attack."
+    },
+    "26": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Smasher.Charge.Cooldown",
+      "DevComment": "Cooldown between Smasher charges."
+    },
+    "27": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Smasher.Charge.Melee",
+      "DevComment": "Smasher Charge Melee"
+    },
+    "28": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Smasher.Charge.Roar",
+      "DevComment": "Smasher Charge Roar"
+    },
+    "29": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.GenericCooldown",
+      "DevComment": "Generic Cooldown to pace out special attacks and moves."
+    },
+    "30": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.MarkForDeath",
+      "DevComment": "DEPRECATED-SeeNPCTags"
+    },
+    "31": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.Paralyze.CanCast",
+      "DevComment": "DEPRECATED-SeeNPCTags"
+    },
+    "32": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.Paralyze.IsParalyzed",
+      "DevComment": "DEPRECATED-SeeNPCTags"
+    },
+    "33": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.Paralyze.WasHit",
+      "DevComment": "DEPRECATED-SeeNPCTags"
+    },
+    "34": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.Portal.Cooldown",
+      "DevComment": "Taker Portal Cooldown."
+    },
+    "35": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.SoulSuck.Cooldown",
+      "DevComment": "Taker Soul Suck Cooldown."
+    },
+    "36": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.SoulSuck.Vulnerability",
+      "DevComment": "Taker is still vulnerable to attacks for a large hit react for a short while after the Soul Suck technically ends."
+    },
+    "37": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Taker.Swoop.Cooldown",
+      "DevComment": "Taker Swoop Attack Cooldown."
+    },
+    "38": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Werewolf.BloodFrenzy.Active",
+      "DevComment": "Blood Frenzy active."
+    },
+    "39": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Werewolf.BloodFrenzy.Cooldown",
+      "DevComment": "Cooldown between Blood Frenzy Attacks."
+    },
+    "40": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Werewolf.BloodFrenzy.Howl",
+      "DevComment": "Werewolf wants to initiate Blood Frenzy with a Howl."
+    },
+    "41": {
+      "export_type": "RowStruct",
+      "Tag": "AISkill.Werewolf.BloodFrenzy.Tired",
+      "DevComment": "Vulnerable after Blood Frenzy"
+    },
+    "42": {
+      "export_type": "RowStruct",
+      "Tag": "Assignment.Type.Encounter",
+      "DevComment": "Encounter Assignment"
+    },
+    "43": {
+      "export_type": "RowStruct",
+      "Tag": "Assignment.Type.Enemy",
+      "DevComment": "Enemy Assignment"
+    },
+    "44": {
+      "export_type": "RowStruct",
+      "Tag": "Assignment.Type.Object",
+      "DevComment": "Object Assignment - non-Enemy Assignment implies non-Pawn"
+    },
+    "45": {
+      "export_type": "RowStruct",
+      "Tag": "Class.IsCommando",
+      "DevComment": "Is Commando"
+    },
+    "46": {
+      "export_type": "RowStruct",
+      "Tag": "Class.IsConstructor",
+      "DevComment": "Is Constructor"
+    },
+    "47": {
+      "export_type": "RowStruct",
+      "Tag": "Class.IsNinja",
+      "DevComment": "Is Ninja"
+    },
+    "48": {
+      "export_type": "RowStruct",
+      "Tag": "Class.IsOutlander",
+      "DevComment": "Is Outlander"
+    },
+    "49": {
+      "export_type": "RowStruct",
+      "Tag": "class.testmodal.offense",
+      "DevComment": ""
+    },
+    "50": {
+      "export_type": "RowStruct",
+      "Tag": "class.testmodal.support",
+      "DevComment": ""
+    },
+    "51": {
+      "export_type": "RowStruct",
+      "Tag": "Domination.Point.A",
+      "DevComment": ""
+    },
+    "52": {
+      "export_type": "RowStruct",
+      "Tag": "Domination.Point.B",
+      "DevComment": ""
+    },
+    "53": {
+      "export_type": "RowStruct",
+      "Tag": "Domination.Point.C",
+      "DevComment": ""
+    },
+    "54": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.burning",
+      "DevComment": "Burning"
+    },
+    "55": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.frozen",
+      "DevComment": "Frozen"
+    },
+    "56": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.poison",
+      "DevComment": "Poison"
+    },
+    "57": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.slow",
+      "DevComment": "Reduced Attack Speed"
+    },
+    "58": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.snare",
+      "DevComment": "Reduced Movement Speed"
+    },
+    "59": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.stun",
+      "DevComment": "Stunned"
+    },
+    "60": {
+      "export_type": "RowStruct",
+      "Tag": "effect.status.vulnerable",
+      "DevComment": "Vulnerable"
+    },
+    "61": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit1",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "62": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit10",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "63": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit2",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "64": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit3",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "65": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit4",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "66": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit5",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "67": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit6",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "68": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit7",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "69": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit8",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "70": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Act.Hit9",
+      "DevComment": "Which hit of a combo we are on"
+    },
+    "71": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.AOE.Close",
+      "DevComment": "Area of effect centered on the instigator (PBAOE/Cleave)."
+    },
+    "72": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.AOE.Conditional",
+      "DevComment": "Area of effect based on criteria (Chain Lightning Bounce)."
+    },
+    "73": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.AOE.Line",
+      "DevComment": "Area of effect described by a line (Piercing Arrow)."
+    },
+    "74": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.AOE.Shape",
+      "DevComment": "Area of effect described by a shape (Cone/ Box/ Sphere)."
+    },
+    "75": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Asset.Ability",
+      "DevComment": "Asset is an Ability"
+    },
+    "76": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Asset.CombatEffect",
+      "DevComment": "Asset is a Combat Effect"
+    },
+    "77": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Asset.Gadget",
+      "DevComment": "Asset is a Gadget"
+    },
+    "78": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Damage.LootOnDestroy",
+      "DevComment": "Loot on Destroy"
+    },
+    "79": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Damage",
+      "DevComment": "This action causes damage."
+    },
+    "80": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Duration",
+      "DevComment": "This action has a non-zero duration."
+    },
+    "81": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Enervate",
+      "DevComment": "This action drains Energy."
+    },
+    "82": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Heal",
+      "DevComment": "This action restores health to players."
+    },
+    "83": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Instant",
+      "DevComment": "This action has a zero duration."
+    },
+    "84": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Invigorate",
+      "DevComment": "This action restores Energy."
+    },
+    "85": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Negative",
+      "DevComment": "This action is hostile and should generate aggro."
+    },
+    "86": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.OffGCD",
+      "DevComment": "This action does not trigger nor respect the GCD."
+    },
+    "87": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Passive",
+      "DevComment": "This action is persistantly active."
+    },
+    "88": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Periodic",
+      "DevComment": "This action triggers its effect on a set period."
+    },
+    "89": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Physics",
+      "DevComment": "This action moves an actor in the world with physics."
+    },
+    "90": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Positive",
+      "DevComment": "This action is helpful and should not generate aggro."
+    },
+    "91": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Repair",
+      "DevComment": "This action restores health to buildings."
+    },
+    "92": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Status",
+      "DevComment": "This action causes a duration effect."
+    },
+    "93": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Structure",
+      "DevComment": "This action can affect structures."
+    },
+    "94": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.Teleport",
+      "DevComment": "This action moves an actor in the world directly."
+    },
+    "95": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Effect.IncreaseMeleeDamageStackingTargets",
+      "DevComment": "Icreases melee damage when applied"
+    },
+    "96": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.Defensive",
+      "DevComment": "Defensive Fragment"
+    },
+    "97": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.HasFragment",
+      "DevComment": "Found Dimensional Fragment"
+    },
+    "98": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.Offensive",
+      "DevComment": "Offensive Fragment"
+    },
+    "99": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.Specialty",
+      "DevComment": "Class Specific Fragment"
+    },
+    "100": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.VisualDefensive",
+      "DevComment": "Visuals Hack for Defense"
+    },
+    "101": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.VisualOffensive",
+      "DevComment": "Visuals Hack for Offense"
+    },
+    "102": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Explorer.Fragment.VisualSpecialty",
+      "DevComment": "Visuals Hack for Speciality"
+    },
+    "103": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Immunity.Immovable",
+      "DevComment": "Immune to hostile physics events."
+    },
+    "104": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Immunity.Juggernaut",
+      "DevComment": "Immune to damage."
+    },
+    "105": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Immunity.Unstoppable",
+      "DevComment": "Immune to events which prevent movement or action."
+    },
+    "106": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Adreneline",
+      "DevComment": "Movement speed increased."
+    },
+    "107": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Bulletstorm",
+      "DevComment": "Ranged weapon rare of fire increased."
+    },
+    "108": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Charmed",
+      "DevComment": "Temporarily friendly to caster."
+    },
+    "109": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Disabled",
+      "DevComment": "Unable to activate gadgets."
+    },
+    "110": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Disarmed",
+      "DevComment": "Unable to attack with melee or ranged weapons."
+    },
+    "111": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Frenzy",
+      "DevComment": "Melee attack speed increased."
+    },
+    "112": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Immobilize",
+      "DevComment": "Unable to move. Unable to turn."
+    },
+    "113": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Incapacitated",
+      "DevComment": "Unable to move or act. Breaks on damage."
+    },
+    "114": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Infected",
+      "DevComment": "Incoming healing is reduced."
+    },
+    "115": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Jammed",
+      "DevComment": "Ranged weapon rate of fire reduced."
+    },
+    "116": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Lethargic",
+      "DevComment": "Melee attack speed reduced."
+    },
+    "117": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Off Balance",
+      "DevComment": "Recoil of ranged weapons increased."
+    },
+    "118": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Snare",
+      "DevComment": "Movement speed reduced."
+    },
+    "119": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Steady",
+      "DevComment": "Recoil of ranged weapons reduced."
+    },
+    "120": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Stun",
+      "DevComment": "Unable to move or act."
+    },
+    "121": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Toughened",
+      "DevComment": "Damage resistence increased."
+    },
+    "122": {
+      "export_type": "RowStruct",
+      "Tag": "Gameplay.Status.Vulnerable",
+      "DevComment": "Damage resistence decreased."
+    },
+    "123": {
+      "export_type": "RowStruct",
+      "Tag": "HackOutlander1.Skill.InTheZone.HitStack",
+      "DevComment": "Hit Stacking Test"
+    },
+    "124": {
+      "export_type": "RowStruct",
+      "Tag": "HackOutlander2.Skill.InTheZone.Applied",
+      "DevComment": "During In The Zone"
+    },
+    "125": {
+      "export_type": "RowStruct",
+      "Tag": "HackOutlander3.Skill.LaserFocus.Applied",
+      "DevComment": "During Laser Focus"
+    },
+    "126": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Cost.IsCost",
+      "DevComment": "Temporary Hack for cost."
+    },
+    "127": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.ConstructionWorker.C4.T00",
+      "DevComment": "C4 T00"
+    },
+    "128": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.ConstructionWorker.C4.T01",
+      "DevComment": "C4 T01"
+    },
+    "129": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.ConstructionWorker.C4.T02",
+      "DevComment": "C4 T02"
+    },
+    "130": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.ConstructionWorker.C4.T03",
+      "DevComment": "C4 T03"
+    },
+    "131": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.ConstructionWorker.C4.T04",
+      "DevComment": "C4 T04"
+    },
+    "132": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.ShadowStance.ShadowStanceActive",
+      "DevComment": "during Shadow Stance"
+    },
+    "133": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.SmokeBomb.FireSmokeActive",
+      "DevComment": "Hack to know not to overwrite."
+    },
+    "134": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.ThrowingStars.T00",
+      "DevComment": "ThrowingStars T00"
+    },
+    "135": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.ThrowingStars.T01",
+      "DevComment": "ThrowingStars T01"
+    },
+    "136": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.ThrowingStars.T02",
+      "DevComment": "ThrowingStars T02"
+    },
+    "137": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.ThrowingStars.T03",
+      "DevComment": "ThrowingStars T03"
+    },
+    "138": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Ninja.ThrowingStars.T04",
+      "DevComment": "ThrowingStars T04"
+    },
+    "139": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Scavenger.Firecracker.T00",
+      "DevComment": "Firecracker T00"
+    },
+    "140": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Scavenger.Firecracker.T01",
+      "DevComment": "Firecracker T01"
+    },
+    "141": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Scavenger.Firecracker.T02",
+      "DevComment": "Firecracker T02"
+    },
+    "142": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Scavenger.Firecracker.T03",
+      "DevComment": "Firecracker T03"
+    },
+    "143": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Scavenger.Firecracker.T04",
+      "DevComment": "Firecracker T04"
+    },
+    "144": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.Grenade.T00",
+      "DevComment": "Grenade T00"
+    },
+    "145": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.Grenade.T01",
+      "DevComment": "Grenade T01"
+    },
+    "146": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.Grenade.T02",
+      "DevComment": "Grenade T02"
+    },
+    "147": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.Grenade.T03",
+      "DevComment": "Grenade T03"
+    },
+    "148": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.Grenade.T04",
+      "DevComment": "Grenade T04"
+    },
+    "149": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.ProximityMine.T00",
+      "DevComment": "ProximityMine T00"
+    },
+    "150": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.ProximityMine.T01",
+      "DevComment": "ProximityMine T01"
+    },
+    "151": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.ProximityMine.T02",
+      "DevComment": "ProximityMine T02"
+    },
+    "152": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.ProximityMine.T03",
+      "DevComment": "ProximityMine T03"
+    },
+    "153": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Gadget.Soldier.ProximityMine.T04",
+      "DevComment": "ProximityMine T04"
+    },
+    "154": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.GI.ATLAS",
+      "DevComment": "Hack for GI build to label Power Collector as an \"ATLAS\""
+    },
+    "155": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Ninja.Ability.ThrowingStars.Homing",
+      "DevComment": "Homing EC"
+    },
+    "156": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Ninja.Assassination_VFX",
+      "DevComment": "Hack to know you have VFX"
+    },
+    "157": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Ninja.MantisLeap.Can_Execute",
+      "DevComment": "Hack to allow Mantis Leap"
+    },
+    "158": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.Base.HasBaseUp",
+      "DevComment": "Has already cast a base"
+    },
+    "159": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.IFFCoding.Shield0",
+      "DevComment": "Is Shield 0"
+    },
+    "160": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.IFFCoding.Shield1",
+      "DevComment": "Is Shield 1"
+    },
+    "161": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.IFFCoding.Shield2",
+      "DevComment": "Is Shield 2"
+    },
+    "162": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.IFFCoding.Shield3",
+      "DevComment": "Is Shield 3"
+    },
+    "163": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.IFFCoding.Shield4",
+      "DevComment": "Delete This Tag Later"
+    },
+    "164": {
+      "export_type": "RowStruct",
+      "Tag": "Hacks.Skill.Technician.Ability.IFFCoding.ShieldUp",
+      "DevComment": "Has Active Shield"
+    },
+    "165": {
+      "export_type": "RowStruct",
+      "Tag": "HitReaction.AdditiveLoop",
+      "DevComment": "rapid fire weapons"
+    },
+    "166": {
+      "export_type": "RowStruct",
+      "Tag": "HitReaction.AdditiveSingleOneShot",
+      "DevComment": "semi auto weapons"
+    },
+    "167": {
+      "export_type": "RowStruct",
+      "Tag": "HitReaction.Block.All",
+      "DevComment": "Pawns tagged with this will not interrupt."
+    },
+    "168": {
+      "export_type": "RowStruct",
+      "Tag": "HitReaction.Block.Melee",
+      "DevComment": "Pawns tagged with this will ignore interrupting hit reactions from Melee attacks."
+    },
+    "169": {
+      "export_type": "RowStruct",
+      "Tag": "HitReaction.Block.Ranged",
+      "DevComment": "Pawns tagged with this will ignore interrupting hit reactions from Ranged attacks."
+    },
+    "170": {
+      "export_type": "RowStruct",
+      "Tag": "HitReaction.FullBody",
+      "DevComment": "powerful full body root motion"
+    },
+    "171": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Constructor1",
+      "DevComment": ""
+    },
+    "172": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Constructor2",
+      "DevComment": ""
+    },
+    "173": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Constructor3",
+      "DevComment": ""
+    },
+    "174": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Indestructible1",
+      "DevComment": ""
+    },
+    "175": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Indestructible2",
+      "DevComment": ""
+    },
+    "176": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Ninja1",
+      "DevComment": ""
+    },
+    "177": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Ninja2",
+      "DevComment": ""
+    },
+    "178": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Ninja3",
+      "DevComment": ""
+    },
+    "179": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Outlander1",
+      "DevComment": ""
+    },
+    "180": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Outlander2",
+      "DevComment": ""
+    },
+    "181": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Outlander3",
+      "DevComment": ""
+    },
+    "182": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Soldier1",
+      "DevComment": ""
+    },
+    "183": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Soldier2",
+      "DevComment": ""
+    },
+    "184": {
+      "export_type": "RowStruct",
+      "Tag": "HomeBaseProperties.Inventory.StartingWeapon.Soldier3",
+      "DevComment": ""
+    },
+    "185": {
+      "export_type": "RowStruct",
+      "Tag": "Missions.Items.MissionItem",
+      "DevComment": "Tag attached to Mission Items"
+    },
+    "186": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost",
+      "DevComment": "Outpost related"
+    },
+    "187": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable",
+      "DevComment": "Outpost crafting table related"
+    },
+    "188": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Active1",
+      "DevComment": "Outpost crafting table effect lev 1 active"
+    },
+    "189": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Active2",
+      "DevComment": "Outpost crafting table effect lev 2 active"
+    },
+    "190": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Active3",
+      "DevComment": "Outpost crafting table effect lev 3 active"
+    },
+    "191": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Active4",
+      "DevComment": "Outpost crafting table effect lev 4 active"
+    },
+    "192": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Active5",
+      "DevComment": "Outpost crafting table effect lev 5 active"
+    },
+    "193": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Available",
+      "DevComment": "Outpost crafting table available, limit not reached yet."
+    },
+    "194": {
+      "export_type": "RowStruct",
+      "Tag": "Outpost.CraftingTable.Cooldown",
+      "DevComment": "Outpost crafting table is on cooldown"
+    },
+    "195": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Barn",
+      "DevComment": ""
+    },
+    "196": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Biome.Transylvania",
+      "DevComment": "Transylvania Only"
+    },
+    "197": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.BUILD",
+      "DevComment": "Floating BUILD letter locations"
+    },
+    "198": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.CrateReturn",
+      "DevComment": ""
+    },
+    "199": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.CrateStart",
+      "DevComment": ""
+    },
+    "200": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.EnemySpawner",
+      "DevComment": ""
+    },
+    "201": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.DeployableBasePlot",
+      "DevComment": ""
+    },
+    "202": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Gate",
+      "DevComment": ""
+    },
+    "203": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Generic",
+      "DevComment": "Used by all placement actors"
+    },
+    "204": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PlayerSpawn",
+      "DevComment": "Player Spawn"
+    },
+    "205": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PlayerSpawn.Initial",
+      "DevComment": "The player spawning system will *prefer* this (not mandatory to have) spawn point over the others ONLY if spawning before the match has started."
+    },
+    "206": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Powersource",
+      "DevComment": ""
+    },
+    "207": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP",
+      "DevComment": ""
+    },
+    "208": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.AIEncounter",
+      "DevComment": ""
+    },
+    "209": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Mission.BluGloCamp.Easy",
+      "DevComment": ""
+    },
+    "210": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Mission.BluGloCamp.Hard",
+      "DevComment": ""
+    },
+    "211": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Mission.BluGloCamp.Medium",
+      "DevComment": ""
+    },
+    "212": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Mission.LootCamp",
+      "DevComment": ""
+    },
+    "213": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Mission.WeatherTower",
+      "DevComment": ""
+    },
+    "214": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Team",
+      "DevComment": ""
+    },
+    "215": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Team.One",
+      "DevComment": ""
+    },
+    "216": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.PvP.Team.Two",
+      "DevComment": ""
+    },
+    "217": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.RadarTower",
+      "DevComment": "Radar Tower Build Locations"
+    },
+    "218": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Recover",
+      "DevComment": "For MyFort Asset Recover Mission"
+    },
+    "219": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Relic",
+      "DevComment": ""
+    },
+    "220": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Spawning.MidAir",
+      "DevComment": "Spawn Mid-Air"
+    },
+    "221": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Spawning.Underground",
+      "DevComment": "Underground Spawn"
+    },
+    "222": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Spawning.Zlimited",
+      "DevComment": "Cannot Spawn Z"
+    },
+    "223": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.Supply",
+      "DevComment": "For the Supply Drop mission"
+    },
+    "224": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.SurvivorSpawn",
+      "DevComment": "Survivor Spawn"
+    },
+    "225": {
+      "export_type": "RowStruct",
+      "Tag": "PlacementActor.TrappedHuman",
+      "DevComment": ""
+    },
+    "226": {
+      "export_type": "RowStruct",
+      "Tag": "skill.constructionworker.resource_bench.upgrade1",
+      "DevComment": ""
+    },
+    "227": {
+      "export_type": "RowStruct",
+      "Tag": "skill.inventor.slowfield.upgrade1",
+      "DevComment": ""
+    },
+    "228": {
+      "export_type": "RowStruct",
+      "Tag": "skill.inventor.slowfield.upgrade2",
+      "DevComment": ""
+    },
+    "229": {
+      "export_type": "RowStruct",
+      "Tag": "skill.inventor.transistor.upgrade1",
+      "DevComment": ""
+    },
+    "230": {
+      "export_type": "RowStruct",
+      "Tag": "skill.inventor.transistor.upgrade2",
+      "DevComment": ""
+    },
+    "231": {
+      "export_type": "RowStruct",
+      "Tag": "skill.inventor.transistor.upgrade3",
+      "DevComment": ""
+    },
+    "232": {
+      "export_type": "RowStruct",
+      "Tag": "skill.mech.charge.enable_aura",
+      "DevComment": ""
+    },
+    "233": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.Assassination",
+      "DevComment": "Is Assassination"
+    },
+    "234": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.Assassination.IsNonSword",
+      "DevComment": ""
+    },
+    "235": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.Assassination.IsSword",
+      "DevComment": ""
+    },
+    "236": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.MoveLikeShadow",
+      "DevComment": "Has Move Like Shadow"
+    },
+    "237": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.PainMastery",
+      "DevComment": "Has Pain Mastery"
+    },
+    "238": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.PrayingMantis",
+      "DevComment": "Has Praying Mantis"
+    },
+    "239": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Ability.WindAndStorm",
+      "DevComment": "Has WindAndStorm"
+    },
+    "240": {
+      "export_type": "RowStruct",
+      "Tag": "skill.ninja.doublejump.upgrade1",
+      "DevComment": ""
+    },
+    "241": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.DragonSlash.IncreasedDamage",
+      "DevComment": "Enter the Dragon : Increased Damage"
+    },
+    "242": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.DragonSlash.IncreasedRange1",
+      "DevComment": "Enter the Dragon : Increased Range"
+    },
+    "243": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.DragonSlash.ReducedCost1",
+      "DevComment": "Return of the Dragon : Reduced Cost"
+    },
+    "244": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.GunpowderFoundry1",
+      "DevComment": "Increases Smoke Bomb Damage by 30%."
+    },
+    "245": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.GunpowderFoundry2",
+      "DevComment": "Increases starting Smoke Bombs to 5."
+    },
+    "246": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.GunpowderFoundry3",
+      "DevComment": "Smoke Bomb now leaves a persistent cloud, damaging enemies. Lasts 10s."
+    },
+    "247": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.GunpowderFoundry4",
+      "DevComment": "Increases duration of Smoke Bomb Cloud by 50%."
+    },
+    "248": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.GunpowderFoundry5",
+      "DevComment": "Smoke Bomb Cloud now applies a 50% snare."
+    },
+    "249": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.NinjaForge1",
+      "DevComment": "Has Built Ninja Forge - Rank 1"
+    },
+    "250": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.NinjaForge2",
+      "DevComment": "Has Built Ninja Forge - Rank 2"
+    },
+    "251": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.NinjaForge3",
+      "DevComment": "Has Built Ninja Forge - Rank 3"
+    },
+    "252": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.NinjaForge4",
+      "DevComment": "Has Built Ninja Forge - Rank 4"
+    },
+    "253": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.NinjaForge5",
+      "DevComment": "Has Built Ninja Forge - Rank 5"
+    },
+    "254": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.TargetDummies1",
+      "DevComment": "Increases Throwing Star damage by 25 per star."
+    },
+    "255": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.TargetDummies2",
+      "DevComment": "Increases starting Throwing Stars to 35."
+    },
+    "256": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.TargetDummies3",
+      "DevComment": "Ninja now throws five stars at a time."
+    },
+    "257": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.TargetDummies4",
+      "DevComment": "Throwing Stars have homing properties."
+    },
+    "258": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.TargetDummies5",
+      "DevComment": "Ninja now throws seven stars at a time."
+    },
+    "259": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.ZenGardens1",
+      "DevComment": ""
+    },
+    "260": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.ZenGardens2",
+      "DevComment": ""
+    },
+    "261": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.ZenGardens3",
+      "DevComment": ""
+    },
+    "262": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.ZenGardens4",
+      "DevComment": ""
+    },
+    "263": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Myfort.ZenGardens5",
+      "DevComment": "Activating Dragon Slash puts the Ninja into Shadow Stance."
+    },
+    "264": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.ShadowStance.Active",
+      "DevComment": "during Shadow Stance"
+    },
+    "265": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.SmokeBomb.FireAndSmoke",
+      "DevComment": "Smoke Bomb : Grants Shadow Stance"
+    },
+    "266": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.SmokeBomb.SkillActivation",
+      "DevComment": "SmokeBomb Activation Tag"
+    },
+    "267": {
+      "export_type": "RowStruct",
+      "Tag": "skill.ninja.smokebomb.upgrade1",
+      "DevComment": ""
+    },
+    "268": {
+      "export_type": "RowStruct",
+      "Tag": "skill.ninja.smokebomb.upgrade2",
+      "DevComment": ""
+    },
+    "269": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.SmokeBomb.UpInSmoke",
+      "DevComment": "Smoke Bomb : Extrends Move Speed"
+    },
+    "270": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.ThrowingStars.SkillActivation",
+      "DevComment": "ThrowingStars Activation Tag"
+    },
+    "271": {
+      "export_type": "RowStruct",
+      "Tag": "skill.ninja.throwingstars.upgrade1",
+      "DevComment": ""
+    },
+    "272": {
+      "export_type": "RowStruct",
+      "Tag": "skill.ninja.throwingstars.upgrade2",
+      "DevComment": ""
+    },
+    "273": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.ThrowingStars.VitalStrikes",
+      "DevComment": "Vital Strikes : Increased Damage to low HP targets."
+    },
+    "274": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Ninja.Trait.ShadowStance",
+      "DevComment": "Is ShadowStance"
+    },
+    "275": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.Conservation",
+      "DevComment": "Has Conservation"
+    },
+    "276": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.DiamondsInTheRough",
+      "DevComment": ""
+    },
+    "277": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.EagleEye",
+      "DevComment": ""
+    },
+    "278": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.FindersKeepers",
+      "DevComment": ""
+    },
+    "279": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.FocusedExplosion",
+      "DevComment": "Has Focused Explosion"
+    },
+    "280": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.HowInTheWorld",
+      "DevComment": "Has How in the World"
+    },
+    "281": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.LaserFocus",
+      "DevComment": "Has Laser Focus"
+    },
+    "282": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.QuickRecharge",
+      "DevComment": "Has Quick Recharge"
+    },
+    "283": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.ReadyForAnything",
+      "DevComment": "Has Ready for Anything"
+    },
+    "284": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.ShortFuse",
+      "DevComment": "Has Short Fuse"
+    },
+    "285": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.WhereWereGoing",
+      "DevComment": ""
+    },
+    "286": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.WhereWereGoing.OnRoad",
+      "DevComment": "While standing on a player built floor"
+    },
+    "287": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.PartingGiftExplosion",
+      "DevComment": "Target selection for Parting Gift"
+    },
+    "288": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.Ability.WhereWeregoing.Throttle",
+      "DevComment": ""
+    },
+    "289": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.AntiMaterialCharge.Activation",
+      "DevComment": "Anti Material Charge"
+    },
+    "290": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Outlander.MatterCollector.Activation",
+      "DevComment": "Matter Collector"
+    },
+    "291": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.chainlightning.upgrade1",
+      "DevComment": ""
+    },
+    "292": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.chainlightning.upgrade2",
+      "DevComment": ""
+    },
+    "293": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.chainlightning.upgrade3",
+      "DevComment": ""
+    },
+    "294": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.chainlightning.upgrade4",
+      "DevComment": ""
+    },
+    "295": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.chainlightning.upgrade5",
+      "DevComment": ""
+    },
+    "296": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.coldblast.upgrade1",
+      "DevComment": ""
+    },
+    "297": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.coldblast.upgrade2",
+      "DevComment": ""
+    },
+    "298": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.coldblast.upgrade3",
+      "DevComment": ""
+    },
+    "299": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.coldblast.upgrade4",
+      "DevComment": ""
+    },
+    "300": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.coldblast.upgrade5",
+      "DevComment": ""
+    },
+    "301": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.laserbot.upgrade1",
+      "DevComment": ""
+    },
+    "302": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.laserbot.upgrade2",
+      "DevComment": ""
+    },
+    "303": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.laserbot.upgrade3",
+      "DevComment": ""
+    },
+    "304": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.laserbot.upgrade4",
+      "DevComment": ""
+    },
+    "305": {
+      "export_type": "RowStruct",
+      "Tag": "skill.scientist.laserbot.upgrade5",
+      "DevComment": ""
+    },
+    "306": {
+      "export_type": "RowStruct",
+      "Tag": "skill.sniper.headshotbuff",
+      "DevComment": "Sniper Rifles and Pistols"
+    },
+    "307": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.BiggerIsBetter",
+      "DevComment": "Has BiggerIsBetter"
+    },
+    "308": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.Bulletstorm",
+      "DevComment": "You have Bulletstorm"
+    },
+    "309": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.Cooldown.GadgetCooldown",
+      "DevComment": "Shared Cooldown for Soldier"
+    },
+    "310": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.DebilitatingShotsTarget",
+      "DevComment": "Affected by DebilitatingShots"
+    },
+    "311": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.FragGrenade.ClusterBomb",
+      "DevComment": "Has ClusterBomb"
+    },
+    "312": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.FragGrenade.GrapeShot",
+      "DevComment": "Has Grapeshot"
+    },
+    "313": {
+      "export_type": "RowStruct",
+      "Tag": "skill.soldier.grenade.ClusterUpgrade",
+      "DevComment": ""
+    },
+    "314": {
+      "export_type": "RowStruct",
+      "Tag": "skill.soldier.grenade.DamageUpgrade",
+      "DevComment": ""
+    },
+    "315": {
+      "export_type": "RowStruct",
+      "Tag": "skill.soldier.grenade.RadiusUpgrade",
+      "DevComment": ""
+    },
+    "316": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.IncendiaryRounds.Active",
+      "DevComment": "Incendiary Rounds is Active"
+    },
+    "317": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.IncendiaryRounds.Damage",
+      "DevComment": "Damage from Incendiary Rounds"
+    },
+    "318": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.Kneecapper",
+      "DevComment": "Has Kneecapper"
+    },
+    "319": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.LightErUp",
+      "DevComment": "Has Light 'Er Up"
+    },
+    "320": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.LingeringPain",
+      "DevComment": "Has Lingering Pain"
+    },
+    "321": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Soldier.PerfectEngineering",
+      "DevComment": "Has Perfect Engineering"
+    },
+    "322": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.AutomatedDefenses",
+      "DevComment": "Has Automated Defenses"
+    },
+    "323": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.BigBrother",
+      "DevComment": "Has Big Brother"
+    },
+    "324": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.ContainmentUnit",
+      "DevComment": "Has Containment Unit"
+    },
+    "325": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.DefensiveIntegration",
+      "DevComment": "Has Defensive Integration"
+    },
+    "326": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.ExitPlan",
+      "DevComment": "Has Exit Plan"
+    },
+    "327": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.Firewall",
+      "DevComment": "Has Firewall"
+    },
+    "328": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.FullyContained",
+      "DevComment": "Has Fully Contained"
+    },
+    "329": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.Hyperthreading",
+      "DevComment": "Has Hyperthreading"
+    },
+    "330": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.IFFCoding",
+      "DevComment": "Has IFF Coding"
+    },
+    "331": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.InBase",
+      "DevComment": ""
+    },
+    "332": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.KineticOverload",
+      "DevComment": "Has Kinetic Overload"
+    },
+    "333": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.PlasmaOverdrive",
+      "DevComment": "Has Plasma Overdrive"
+    },
+    "334": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.PowerModulation",
+      "DevComment": "Has Power Modulation"
+    },
+    "335": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.Recycling",
+      "DevComment": "Has Recycling"
+    },
+    "336": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.SubroutineOptimization",
+      "DevComment": "Has Subroutine Optimization"
+    },
+    "337": {
+      "export_type": "RowStruct",
+      "Tag": "Skill.Technician.Ability.TotalIntegration",
+      "DevComment": "Has Total Integration"
+    },
+    "338": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo",
+      "DevComment": "Ammo"
+    },
+    "339": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo.assault",
+      "DevComment": "Delete This Tag Later"
+    },
+    "340": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo.bulletheavy",
+      "DevComment": "Heavy Bullets"
+    },
+    "341": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo.bulletlight",
+      "DevComment": "Light Bullets"
+    },
+    "342": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo.bulletmedium",
+      "DevComment": "Medium Bullets"
+    },
+    "343": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo.energycell",
+      "DevComment": "Energy Cell Ammo"
+    },
+    "344": {
+      "export_type": "RowStruct",
+      "Tag": "Supplies.Ammo.Ninja.SmokeBomb",
+      "DevComment": "Smokebomb Ammo for Ninja"
+    },
+    "345": {
+      "export_type": "RowStruct",
+      "Tag": "Supplies.Ammo.Ninja.ThrowingStars",
+      "DevComment": "Throwing Star Ammo for Ninja"
+    },
+    "346": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.ammo.shell",
+      "DevComment": "Shells"
+    },
+    "347": {
+      "export_type": "RowStruct",
+      "Tag": "Supplies.Ammo.Soldier.ExplosiveMaterials",
+      "DevComment": "Frag Grenades"
+    },
+    "348": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.consumable.buff",
+      "DevComment": "Consumable Buffs"
+    },
+    "349": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.consumable.Gadget",
+      "DevComment": "Delete This Tag Later"
+    },
+    "350": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.consumable.healing",
+      "DevComment": "Consumable Recovery Items"
+    },
+    "351": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.crafting.ingredient",
+      "DevComment": "Crafting Ingredients"
+    },
+    "352": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.genericgadgets.offense",
+      "DevComment": "Consumable Offensive Gadgets"
+    },
+    "353": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.homebase.food",
+      "DevComment": "Food Resource"
+    },
+    "354": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.homebase.gold",
+      "DevComment": "Gold Resource"
+    },
+    "355": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.homebase.manufacturing",
+      "DevComment": "Manufacturing Parts Resource"
+    },
+    "356": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.homebase.power",
+      "DevComment": "Power Resource"
+    },
+    "357": {
+      "export_type": "RowStruct",
+      "Tag": "supplies.homebase.supplies",
+      "DevComment": "Supplies Resource"
+    },
+    "358": {
+      "export_type": "RowStruct",
+      "Tag": "SurfaceType.Slippery",
+      "DevComment": "Slippery Surface"
+    },
+    "359": {
+      "export_type": "RowStruct",
+      "Tag": "Test.Test.Asset",
+      "DevComment": "Asset is a test asset only."
+    },
+    "360": {
+      "export_type": "RowStruct",
+      "Tag": "weapon",
+      "DevComment": "All Weapons"
+    },
+    "361": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.melee",
+      "DevComment": "Melee Weapons"
+    },
+    "362": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.melee.blunt",
+      "DevComment": "Blunt Melee Weapons"
+    },
+    "363": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Blunt.Hammer",
+      "DevComment": "Hammer Blunt Weapons"
+    },
+    "364": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Blunt.Improvised",
+      "DevComment": "Improvised Blunt Weapons"
+    },
+    "365": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Blunt.Staff",
+      "DevComment": "Staff Blunt Weapons"
+    },
+    "366": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.melee.edged",
+      "DevComment": "Edged Melee Weapons"
+    },
+    "367": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Edged.Axe",
+      "DevComment": "Axe Edged Weapons"
+    },
+    "368": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Edged.Scythe",
+      "DevComment": "Scythe Edged Weapons"
+    },
+    "369": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Edged.Sword",
+      "DevComment": "Sword Edged Weapons"
+    },
+    "370": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.melee.harvest",
+      "DevComment": "Delete This Tag Later"
+    },
+    "371": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Impact",
+      "DevComment": "Harvesting Weapons"
+    },
+    "372": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Impact.Pickaxe",
+      "DevComment": "Pickaxe Harvesting Weapons"
+    },
+    "373": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Impact.Stick",
+      "DevComment": "Stick Harvesting Weapons"
+    },
+    "374": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Piercing",
+      "DevComment": "Piercing Weapons"
+    },
+    "375": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Piercing.Lance",
+      "DevComment": "Lance Piercing Weapons"
+    },
+    "376": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Piercing.PoleArm",
+      "DevComment": "PoleArm Piercing Weapons"
+    },
+    "377": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.Melee.Piercing.Spear",
+      "DevComment": "Spear Piercing Weapons"
+    },
+    "378": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged",
+      "DevComment": "Ranged Weapons"
+    },
+    "379": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.assault",
+      "DevComment": "Assault Weapons"
+    },
+    "380": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.ranged.assault.semiauto",
+      "DevComment": "Delete This Tag Later"
+    },
+    "381": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.heavy",
+      "DevComment": "Heavy Ranged Weapons"
+    },
+    "382": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.ranged.heavy.grenade",
+      "DevComment": "Delete This Tag Later"
+    },
+    "383": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.heavy.grenade_launcher",
+      "DevComment": "Grenade Launchers"
+    },
+    "384": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.heavy.rocket_launcher",
+      "DevComment": "Rocket Launchers"
+    },
+    "385": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.pistol",
+      "DevComment": "Pistols"
+    },
+    "386": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.shotgun",
+      "DevComment": "Shotguns"
+    },
+    "387": {
+      "export_type": "RowStruct",
+      "Tag": "Weapon.ranged.Shotgun.Break",
+      "DevComment": "Delete This Tag Later"
+    },
+    "388": {
+      "export_type": "RowStruct",
+      "Tag": "weapon.ranged.sniper",
+      "DevComment": "Sniper Rifles"
+    },
+    "389": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Harvest.Pickaxe",
+      "DevComment": "Harvesting Tools (Pickaxes)"
+    },
+    "390": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Pistol.Auto",
+      "DevComment": "Pistols, Automatic"
+    },
+    "391": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Pistol.Semi",
+      "DevComment": "Pistols, Semiautomatic"
+    },
+    "392": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Pistol.Revolver",
+      "DevComment": "Pistols, Revolvers"
+    },
+    "393": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Pistol.Supressed",
+      "DevComment": "Pistols, Supressed"
+    },
+    "394": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Shotgun.Tactical",
+      "DevComment": "Shotguns, Tactical"
+    },
+    "395": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Shotgun.PumpAction",
+      "DevComment": "Shotguns, Pump Action"
+    },
+    "396": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.SMG.Auto",
+      "DevComment": "SMGs, Automatic"
+    },
+    "397": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.SMG.Supressed",
+      "DevComment": "SMGs, Supressed"
+    },
+    "398": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.AR.Auto",
+      "DevComment": "ARs, Automatic"
+    },
+    "399": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.AR.Semi",
+      "DevComment": "ARs, Semiautomatic"
+    },
+    "400": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.AR.Precision",
+      "DevComment": "ARs, Precision Fire"
+    },
+    "401": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.AR.Scoped",
+      "DevComment": "ARs, Scoped"
+    },
+    "402": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Sniper.Semi",
+      "DevComment": "Sniper Rifles, Semiautomatic"
+    },
+    "403": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Sniper.Bolt",
+      "DevComment": "Sniper Rifles, Bolt Action"
+    },
+    "404": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Launcher.Rocket",
+      "DevComment": "Launcher Weapons, RPG"
+    },
+    "405": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Launcher.Grenade",
+      "DevComment": "Launcher Weapons, Grenade Launcher"
+    },
+    "406": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Machinegun.SAW",
+      "DevComment": "Machineguns, SAW"
+    },
+    "407": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Machinegun.Minigun",
+      "DevComment": "Machineguns, Minigun"
+    },
+    "408": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Shoot.Crossbow.Bolt",
+      "DevComment": "Crossbows, Bolt"
+    },
+    "409": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.Explosive",
+      "DevComment": "Grenades, Explosive"
+    },
+    "410": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.Dance",
+      "DevComment": "Grenades, Dance"
+    },
+    "411": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.Smoke",
+      "DevComment": "Grenades, Smoke"
+    },
+    "412": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.Teleport",
+      "DevComment": "Grenades, Teleporting"
+    },
+    "413": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.Electric",
+      "DevComment": "Grenades, Electric"
+    },
+    "414": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.M80",
+      "DevComment": "Grenades, M80"
+    },
+    "415": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Grenade.BottleRocket",
+      "DevComment": "Grenades, Bottle Rocket"
+    },
+    "416": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Utility.Mimic",
+      "DevComment": "Thrown, Mimic"
+    },
+    "417": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Utility.Balloon",
+      "DevComment": "Thrown, Big Poppy"
+    },
+    "418": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Health.HealthPack",
+      "DevComment": "Health, Health Pack"
+    },
+    "419": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Health.Bandage",
+      "DevComment": "Health, Bandages"
+    },
+    "420": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Health.Burger",
+      "DevComment": "Health, Durr Burger"
+    },
+    "421": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Health.Shake",
+      "DevComment": "Health, Durr Burger Shake"
+    },
+    "422": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Shield.ShieldSM",
+      "DevComment": "Shield, Small"
+    },
+    "423": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Shield.SieldLG",
+      "DevComment": "Shield, Large"
+    },
+    "424": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Boost.ChugJug",
+      "DevComment": "Boosts, Chug Jug"
+    },
+    "425": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Boost.Slurp",
+      "DevComment": "Boosts, Slurp Juice"
+    },
+    "426": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Consume.Boost.Crystal",
+      "DevComment": "Boosts, Energy Crystals"
+    },
+    "427": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Use.Wear.Backpack",
+      "DevComment": "Wearable, Backpack"
+    },
+    "428": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Use.Wear.Bush",
+      "DevComment": "Wearable, Bush"
+    },
+    "429": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Place.Trap.Damage",
+      "DevComment": "Trap, Damage"
+    },
+    "430": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Place.Trap.Launchpad",
+      "DevComment": "Trap, Glider Launchpad"
+    },
+    "431": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Place.Trap.Campfire",
+      "DevComment": "Trap, Campfire"
+    },
+    "432": {
+      "export_type": "RowStruct",
+      "Tag": "Bacchus.Throw.Utility.Light",
+      "DevComment": "Thrown, Light"
+    }
+  }
+]

@@ -1,0 +1,1231 @@
+[
+  {
+    "export_type": "FortHeroData",
+    "DefaultHeroName": {
+      "key": "8B21CDEF4FCECDEDA9C51BBA460C578F",
+      "source_string": "Ramirez"
+    },
+    "DefaultHero": {
+      "asset_path_name": "/Game/Heroes/Commando/ItemDefinition/HID_Commando_GrenadeGun_UC_T01.HID_Commando_GrenadeGun_UC_T01",
+      "sub_path_string": ""
+    },
+    "CommanderPerkDefaultRequirements": {
+      "MinimumHeroTier": "EFortItemTier::II"
+    },
+    "CombinedStatGEs": [
+      {
+        "GameplayEffect": {
+          "asset_path_name": "/Game/Balance/CombinedStats/GE_Map_Offense_To_WeaponDamage.GE_Map_Offense_To_WeaponDamage_C",
+          "sub_path_string": ""
+        },
+        "Level": 0.0
+      },
+      {
+        "GameplayEffect": {
+          "asset_path_name": "/Game/Balance/CombinedStats/GE_Map_Tech_to_AbilityDamage_TrapDamage.GE_Map_Tech_To_AbilityDamage_TrapDamage_C",
+          "sub_path_string": ""
+        },
+        "Level": 0.0
+      },
+      {
+        "GameplayEffect": {
+          "asset_path_name": "/Game/Balance/CombinedStats/GE_Map_Fortitude_To_Health.GE_Map_Fortitude_To_Health_C",
+          "sub_path_string": ""
+        },
+        "Level": 0.0
+      },
+      {
+        "GameplayEffect": {
+          "asset_path_name": "/Game/Balance/CombinedStats/GE_Map_Resistance_To_Shield.GE_Map_Resistance_To_Shield_C",
+          "sub_path_string": ""
+        },
+        "Level": 0.0
+      }
+    ],
+    "HeroAttributeDataForSubclasses": [
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsNinja",
+            "Hero.StatLine.Balanced"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Balanced_SR_T4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsNinja",
+            "Hero.StatLine.Ability"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Ability_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsNinja",
+            "Hero.StatLine.Shields"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Ninja",
+                "AttributeInitSubCategory": "Ninja_Shields_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsCommando",
+            "Hero.StatLine.Balanced"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_SR_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Balanced_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsCommando",
+            "Hero.StatLine.Ability"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Ability_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsCommando",
+            "Hero.StatLine.Health"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Soldier",
+                "AttributeInitSubCategory": "Soldier_Health_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsConstructor",
+            "Hero.StatLine.Balanced"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Balanced_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsConstructor",
+            "Hero.StatLine.Health"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Health_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsConstructor",
+            "Hero.StatLine.Shields"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Constructor",
+                "AttributeInitSubCategory": "Constructor_Shields_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsOutlander",
+            "Hero.StatLine.Balanced"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsOutlander",
+            "Hero.StatLine.Ability"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Ability_SR_T5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HeroClassAndSubclassTags": {
+          "gameplay_tags": [
+            "Class.IsOutlander",
+            "Hero.StatLine.Shields"
+          ]
+        },
+        "AttributeInitKeysPerRarity": [
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_UC_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_UC_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_UC_T3"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_R_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_R_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_R_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_R_T4"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_VR_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_VR_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_VR_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_VR_T4"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_VR_T5"
+              }
+            ]
+          },
+          {
+            "AttributeInitKeysPerTier": [
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_SR_T1"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T2"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Balanced_SR_T3"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_SR_T4"
+              },
+              {
+                "AttributeInitCategory": "Outlander",
+                "AttributeInitSubCategory": "Outlander_Shields_SR_T5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "HeroKeywordDisplayData": [
+      {
+        "KeyWordGameplayTag": {
+          "TagName": "Keyword.SteelWool"
+        },
+        "KeywordDisplayName": {
+          "key": "4E6C5ED94892E3670FBC46858D846BD4",
+          "source_string": "Steel Wool"
+        }
+      },
+      {
+        "KeyWordGameplayTag": {
+          "TagName": "Keyword.Pirate"
+        },
+        "KeywordDisplayName": {
+          "key": "3105F6D040197FF2C86FE788CE9478F8",
+          "source_string": "Pirate"
+        }
+      },
+      {
+        "KeyWordGameplayTag": {
+          "TagName": "Keyword.Dino"
+        },
+        "KeywordDisplayName": {
+          "key": "D2120E3441D6E6F5D38309BEB743B4BD",
+          "source_string": "Dinosaur"
+        }
+      },
+      {
+        "KeyWordGameplayTag": {
+          "TagName": "Keyword.RetroSciFi"
+        },
+        "KeywordDisplayName": {
+          "key": "0490FD844E39CFBA1C36D39C7E5A5AAD",
+          "source_string": "Space Explorer"
+        }
+      },
+      {
+        "KeyWordGameplayTag": {
+          "TagName": "Keyword.TotallyRad"
+        },
+        "KeywordDisplayName": {
+          "key": "FF024DCB4D64EEB5B7DD96A95C84F83C",
+          "source_string": "Totally Rad!"
+        }
+      }
+    ],
+    "HeroPerkDuplicatedText": {
+      "key": "8A2DA29A4BA7809CC747F39F00687464",
+      "source_string": "Another hero in your loadout has this perk."
+    },
+    "HeroTierTooLowForPerkText": {
+      "key": "52C6F30F496BE4ADA4D3D8A1D051DCF5",
+      "source_string": "Current commander needs to be {0} stars."
+    }
+  }
+]
