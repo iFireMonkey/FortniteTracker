@@ -1,6 +1,6 @@
-[/Script/FortniteGame.FortRuntimeOptions]
+﻿[/Script/FortniteGame.FortRuntimeOptions]
 
-PreloadRevision=5
+PreloadRevision=6
 
 
 
@@ -14,15 +14,12 @@ EnablePlayButtonTime=15
 EnablePlayButtonTimePostError=30
 bDisablePurchaseHistoryScreen=false
 bEnableProfileStatTracking=false
-bShowPrivacySettings=false
 bEnableHearingAccessibility=True
-bShowPrivacySettings=true
 bShowEnableMFAModalAtStartupAthena=false
 bUseNewLookAccel=false
 FlushLoadingScreenRefreshSeconds=2.5
 bUseEventsService=true
 bAllowPartySuggestions=true
-ShowdownTournamentCacheExpirationHours=10
 bProcessGamepadInputOnMobile=true
 bEnableGlobalChat=false
 bEnableTryBuildOnFocus=false
@@ -60,10 +57,7 @@ bLiveGameTimeDurationVisible=false
 bEnableUndoPurchase=true
 bSkipPlayingFortniteChecks=false
 bReplaySampleAthenaPawnMovement=true
-bEnableUserProfilePictures=false
 bEnableNotifyWhenPlaying=false
-bAllowOfflineInvites=false
-bEnableMissedInvitesEntry=false
 
 bShowReplayTrailerButton_Athena=true
 
@@ -78,15 +72,10 @@ bEnableChannelsServiceLoadTesting=true
 bEnableContentControlsPurchaseReporting=false
 bEnableYoutubeLinks=false
 bEnableMissedInvitesEntry=true
-bEnableUserProfilePictures=true
 bAllowOfflineInvites=true
-
-bEnableMatchAbandonProcess=false
 bDisableContextTutorial=false
 
 bCreateEpicAccountPinGrantDisabled=true
-
-EnableCommunityVotingScreen=false
 
 bEnableMatchAbandonProcess=false
 bEnableSafeZoneEditorOnLogin=true
@@ -98,9 +87,6 @@ bEnableFriendSuggestions=true
 LevelToAutoOpenBattlePassOnNewSeason=0
 
 TournamentHUDPointCounterDelay=1.5f
-
-
-CrucibleMinValidStatScoreMilliseconds = 2000
 
 
 FadeOutTeamIndicatorsAfter=27500
@@ -119,9 +105,6 @@ bEnableSubregionNetworkAccelerators=true
 bEnableLocalNotifications=true
 
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
-
-
-bCrucibleSendStatsEndOfSession=false
 
 bEnableApolloIntro=true
 ApolloIntroQueueTimeoutSeconds=185.0f
@@ -143,6 +126,8 @@ ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
+BRUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v11-01-patch-notes"
+STWUpdatesURL="https://www.epicgames.com/fortnite/en-US/patch-notes/v11-01-patch-notes"
 
 
 TurnOnMfaURL="https://fortnite.com/2fa"

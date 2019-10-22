@@ -1750,6 +1750,48 @@
       "MissionPoints": 4,
       "ScoreCategory": "EStatCategory::Max_None",
       "ScoreThreshold": -1
+    },
+    "MissionBadge_STN_Victory": {
+      "export_type": "RowStruct",
+      "ScoreAwarded": 815000,
+      "MissionPoints": 7,
+      "ScoreCategory": "EStatCategory::Max_None",
+      "ScoreThreshold": -1
+    },
+    "MissionBadge_STN_Partcipation": {
+      "export_type": "RowStruct",
+      "ScoreAwarded": 82000,
+      "MissionPoints": 2,
+      "ScoreCategory": "EStatCategory::Max_None",
+      "ScoreThreshold": -1
+    },
+    "MissionBadge_STN_EliminateHusk1": {
+      "export_type": "RowStruct",
+      "ScoreAwarded": 648000,
+      "MissionPoints": 2,
+      "ScoreCategory": "EStatCategory::Max_None",
+      "ScoreThreshold": -1
+    },
+    "MissionBadge_STN_EliminateHusk2": {
+      "export_type": "RowStruct",
+      "ScoreAwarded": 838000,
+      "MissionPoints": 4,
+      "ScoreCategory": "EStatCategory::Max_None",
+      "ScoreThreshold": -1
+    },
+    "MissionBadge_STN_HuntTakers": {
+      "export_type": "RowStruct",
+      "ScoreAwarded": 933000,
+      "MissionPoints": 4,
+      "ScoreCategory": "EStatCategory::Max_None",
+      "ScoreThreshold": -1
+    },
+    "MissionBadge_STN_NoTeammatesDowned": {
+      "export_type": "RowStruct",
+      "ScoreAwarded": 648000,
+      "MissionPoints": 2,
+      "ScoreCategory": "EStatCategory::Max_None",
+      "ScoreThreshold": -1
     }
   }
 ]
