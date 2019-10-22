@@ -1,7 +1,4 @@
 {
-  "7750EFFF4375D6468F9DBD85BA149EBD": {
-    "LocResText": "(TEMP) Starlight"
-  },
   "3B58FD0648E27B2A0217DAACD4C6092B": {
     "LocResText": "+1"
   },
@@ -707,6 +704,33 @@
   "8D540EC24A641797D82A289C252D6D22": {
     "LocResText": "Distract the Storm"
   },
+  "C3829B18438B952D66E86FBDB545860C": {
+    "LocResText": "Dungeon - Canny Valley Tier 1"
+  },
+  "CE9A0DC44FAB4F7DED799A8A0BF3E91F": {
+    "LocResText": "Dungeon - Canny Valley Tier 2"
+  },
+  "524EA09E4816B7FB879A47A4A5C0F70E": {
+    "LocResText": "Dungeon - Plankerton Tier 1"
+  },
+  "2ADC3297440A7590A01C7D92AFF1D45D": {
+    "LocResText": "Dungeon - Plankerton Tier 2"
+  },
+  "9E6710CF4F1553C5D530A28598A5A50F": {
+    "LocResText": "Dungeon - Stonewood Tier"
+  },
+  "1A2EEBAF4F9BDC5D5AA58382FD93FC92": {
+    "LocResText": "Dungeon - Twine Peaks 1"
+  },
+  "3BDB51394A57D35104FC25942C88AE74": {
+    "LocResText": "Dungeon - Twine Peaks 2"
+  },
+  "58C38AA246DB84D4DBE0AF9EEFE10D8C": {
+    "LocResText": "Dungeon - Twine Peaks 3"
+  },
+  "7750EFFF4375D6468F9DBD85BA149EBD": {
+    "LocResText": "Dungeons"
+  },
   "EEEB24C7424DADE98477F5AC1C83D02D": {
     "LocResText": "Escort the transport to the radio station!"
   },
@@ -1073,6 +1097,9 @@
   "AABDADA1411E075E541397A3BE484AB1": {
     "LocResText": "Non Mission"
   },
+  "10E8DB3A41D9FB54AD606ABA80B3A9C6": {
+    "LocResText": "On the outskirts of Hexsylvania, descend into eerie dungeons filled with loot and horror!"
+  },
   "F925856E480C75E25E66F8B3FF50707D": {
     "LocResText": "Outpost"
   },
@@ -1184,7 +1211,7 @@
   "33DF773A40D714D5E8E6B1BE2A8B7368": {
     "LocResText": "PvE_02_Difficulty_05_Group"
   },
-  "442297FF48ECED5E3AE91A91270C84BD": {
+  "C889F4BA4D3D30E96D4876B7A9244C53": {
     "LocResText": "PvE_02_Difficulty_05_Group"
   },
   "6579323C45A61B3A192F4E9C84221B49": {
@@ -1277,7 +1304,7 @@
   "BC6E7E2F443C9B08948FF6A45F1375B3": {
     "LocResText": "PvE_04_Difficulty_10"
   },
-  "2882CA594A96F215DFDBA38EDB1CF549": {
+  "69177DDF456086F0BF8DB29AB6180FA6": {
     "LocResText": "PvE_04_Difficulty_10_DUDEBRO"
   },
   "2DDD84B34EFCB3E5132104ADCDA18099": {
@@ -1349,10 +1376,10 @@
   "51E227914DC9EF99E054989FB1236218": {
     "LocResText": "Survival Canny Valley"
   },
-  "934366BE435A8B2B830364829B6EA295": {
+  "B57A4C64463EB08D43A2F99C69FA2698": {
     "LocResText": "Survival Canny Valley"
   },
-  "90610803456361ECC7D72BBD94B918FD": {
+  "8F475FBF4E440ED9D4A2D1AACF930E88": {
     "LocResText": "Survival_Plankerton"
   },
   "D4ECDF624966C6D6491C148DCFBE220F": {
@@ -2199,6 +2226,8 @@
     "OfferDef_CB64AFD84FCF2DE9E71E54A33B44DE0E_Description": "An epic skin and 600 V-Bucks!",
     "OfferDef_164435F248762115C99DC2A3204A2D1F_Description": "An epic skin and 600 v-bucks!",
     "OfferDef_4EEFB69645A8CBB239BAD1A520AA4663_Description": "An epic skin and 600 v-bucks!",
+    "OfferDef_130D443B437EEA38BF5F91A93B183E73_Title": "BP Gift Token",
+    "OfferDef_4513E11C4A1DF7AFAF305D962B5F6657_Title": "BP Gift Token",
     "OfferDef_56FA0C554DA1FEEEB0D01BADD43295A1_Title": "BP Gift Token",
     "OfferDef_B5FCB8D440CAB93A3080798FACEB77A3_Title": "BP Gift Token",
     "OfferDef_9622E4B94D377780F2410982F4DEADE9_Title": "Batman Caped Crusader Pack",
@@ -2219,6 +2248,7 @@
     "OfferDef_4980033616E944E88696AAD47E217FF7_Title": "Battle Pass",
     "OfferDef_51C49DCA46D360029C428885779B7C80_Title": "Battle Pass",
     "OfferDef_571D433C47E98F020EF099894CAF3B6A_Title": "Battle Pass",
+    "OfferDef_729EBA774C9DE2C7D783FDBB2E73D926_Title": "Battle Pass",
     "OfferDef_73E6EE6F4526EF97450D1592C3DB0EF5_Title": "Battle Pass",
     "OfferDef_76EA7FE9787744B09B79FF3FC5E39D0C_Title": "Battle Pass",
     "OfferDef_77F31B7F83FB422195DA60CDE683671D_Title": "Battle Pass",
@@ -2226,22 +2256,22 @@
     "OfferDef_9C8D0323775A4F59A1D4283E3FDB356C_Title": "Battle Pass",
     "OfferDef_C3BA14F04F4D56FC1D490F8011B56553_Title": "Battle Pass",
     "OfferDef_D51A2F28AAF843C0B208F14197FBFE91_Title": "Battle Pass",
+    "OfferDef_93E992BC45D487A943D769845441ABA5_ShortDescription": "Battle Pass + 25 levels!",
     "OfferDef_18D9DA48000A40BFAEBAC55A99C55221_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_19D4A5ACC90B4CDF88766A0C8A6D13FB_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_259920BC42F0AAC7C8672D856C9B622C_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_347A90158C64424980E8C1B3DC088F37_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_884CE68998C44AC58D85C5A9883DE1A6_ShortDescription": "Battle Pass + 25 tiers!",
-    "OfferDef_93E992BC45D487A943D769845441ABA5_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_C7190ACA4E5E228A94CA3CB9C3FC7AE9_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_FF77356F424644529049280AFC8A795E_ShortDescription": "Battle Pass + 25 tiers!",
     "OfferDef_83E3AD384793EEA44C2012BAA62B21A9_Title": "Battle Pass + John Wick",
     "OfferDef_83E3AD384793EEA44C2012BAA62B21A9_ShortDescription": "Battle Pass + John Wick!",
+    "OfferDef_70DBDA11425B10AF7A005D82DB54BC59_Title": "Battle Pass Level",
     "OfferDef_E2D7975EFEC54A45900D8D9A6D9D273C_Title": "Battle Pass Level",
     "OfferDef_F86AC2ED4B3EA4B2D65EF1B2629572A0_Title": "Battle Pass Level",
     "OfferDef_33E185A84ED7B64F2856E69AADFD092C_Title": "Battle Pass Tier",
     "OfferDef_4B2E310BC1AE40B292A16D5AAD747E0A_Title": "Battle Pass Tier",
     "OfferDef_64A3020B098841A7805EE257D68C554F_Title": "Battle Pass Tier",
-    "OfferDef_70DBDA11425B10AF7A005D82DB54BC59_Title": "Battle Pass Tier",
     "OfferDef_A6FE59C497B844068E1B5D84396F19BA_Title": "Battle Pass Tier",
     "OfferDef_AF1B7AC14A5F6A9ED255B88902120757_Title": "Battle Pass Tier",
     "OfferDef_E07E41D52D4A425F8DC6592496B75301_Title": "Battle Pass Tier",
@@ -2251,6 +2281,9 @@
     "OfferDef_9F5895BB46EEF32197FD30B2B8BD34B3_Title": "Breakpoint's Challenge Pack",
     "OfferDef_C5D695E24F0660D558AFFE816B8BB0E7_Description": "Bring the heat this season with the Lava Legends pack!",
     "OfferDef_B678DA8341FB458C68C64E99176862D0_Description": "Brrr! A very cool bundle!",
+    "OfferDef_571D433C47E98F020EF099894CAF3B6A_ShortDescription": "Chapter 2 - Season 1",
+    "OfferDef_93E992BC45D487A943D769845441ABA5_Description": "Chapter 2 - Season 1 through December 12.\n\nInstantly get these items\n  •  <ItemName>Turk | Riptide</> Outfit\n  • <ItemName>Journey | Hazard</> Outfit\n  • <ItemName>Rippley | Sludge</> Outfit\n  • <ItemName>Respect The Peace</> Emote\n  • <ItemName>Sky Trawler</> Glider\n  • <ItemName>Riptide </> Wrap\n  • <ItemName> Slurpstream</> Contrails\n  • <ItemName>Storm Shredder </> Music Track\n  •  400 V-Bucks  \n  • and more!\n\nPlay to level up your Battle Pass, unlocking <Bold>over 75 rewards</>!\n  • <Bold>4 more Outfits</>\n  • <Bold>1,200 V-Bucks</>\n  • 5 Emotes\n  • 5 Wraps\n  • 5 Harvesting Tools\n  • 4 Gliders\n  • 4 Back Blings\n  • 4 Contrails\n  • 5 Sprays\n  • 2 Music Tracks\n  • 13 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy rewards any time!",
+    "OfferDef_571D433C47E98F020EF099894CAF3B6A_Description": "Chapter 2 - Season 1 through December 12. \n\nInstantly get these items\n  • <ItemName>Turk | Riptide</> Outfit\n  • <ItemName>Journey | Hazard</> Outfit\n\n\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> !\n  • <ItemName>Fusion</> and <Bold>4 more Outfits</>\n  • <Bold>1,500 V-Bucks</>\n  • 7 Emotes\n  • 6 Wraps\n  • 6 Harvesting Tools\n  • 5 Gliders\n  • 6 Back Blings\n  • 5 Contrails\n  • 8 Sprays\n  • 3 Music Tracks\n  • 16 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy rewards any time!",
     "OfferDef_4980033616E944E88696AAD47E217FF7_ShortDescription": "Claim your Earned Battle Pass",
     "OfferDef_8720170F0BC549F282DCE6129336DBF3_ShortDescription": "Claim your Earned Battle Pass",
     "OfferDef_1999ABBED55A4DCAAE3135D537C27CC2_ShortDescription": "Claim your Earned Battle Pass and purchase 25 tiers",
@@ -2266,6 +2299,7 @@
     "OfferDef_8FC5B9C9439AB95F937929A7A5D8EC79_Description": "Eclipse the competition this season while wearing the Shadows Rising pack!",
     "OfferDef_06F2E11747D7F3A608EAF5B71A015303_Title": "Fallen Love Ranger Challenge Pack",
     "OfferDef_DD483E7B4174D7AA0BD1C5BE18E5925F_Description": "Fight with fury with the Wilde Pack. An outfit, a back bling and 600 V-Bucks!",
+    "OfferDef_5C5E5E74B2A94D51ACC71F142EFD4835_Title": "Fortnitemares Llama",
     "OfferDef_EE4D6831BE214050AA59556464410E8C_Title": "Fortnitemares Llama",
     "OfferDef_FA65C5288C794C1EBF5A7243C4FE8846_Title": "Fortnitemares Llama",
     "OfferDef_917A7A14466225C5EBBC7DBE00A63D70_Title": "Frozen Legends",
@@ -2283,6 +2317,8 @@
     "OfferDef_F86AC2ED4B3EA4B2D65EF1B2629572A0_Description": "Get great rewards now!",
     "OfferDef_F86AC2ED4B3EA4B2D65EF1B2629572A0_ShortDescription": "Get great rewards now!",
     "OfferDef_5D363EEF4BABEE99840FC3B68CF3B1B2_Description": "Get the P-1000 Outfit and Emote, and complete challenges to earn up to 1,500 V-Bucks!",
+    "OfferDef_130D443B437EEA38BF5F91A93B183E73_Description": "Give a friend the Chapter 2, Season 1 Battle Pass!",
+    "OfferDef_4513E11C4A1DF7AFAF305D962B5F6657_Description": "Give a friend the Chapter 2, Season 1 Battle Pass!",
     "OfferDef_56FA0C554DA1FEEEB0D01BADD43295A1_Description": "Give a friend the Season X Battle Pass!",
     "OfferDef_B5FCB8D440CAB93A3080798FACEB77A3_Description": "Give a friend the Season X Battle Pass!",
     "OfferDef_02A0B24240C2528B435EF4817E89070F_Title": "Glow",
@@ -2293,8 +2329,10 @@
     "OfferDef_60592FF64993AD6FC47200AE174A84A5_Description": "Guarantees at least one Epic or better limited time Dragon weapon or Hero!",
     "OfferDef_B2FFE1134AB54EF388C2A7C3A921CEF4_Description": "Guarantees at least one Epic or better limited time Dragon weapon or Hero!",
     "OfferDef_C6853AD49332469BA6CC582C7F84066E_Description": "Guarantees at least one Epic or better limited time Dragon weapon or Hero!",
+    "OfferDef_3D34BF766FF4476D840536DE77CB2C07_Description": "Guarantees at least one Epic or better limited time Flintlock weapon or Hero!",
     "OfferDef_F0DF01095A2346A8B8B59F99BF3D61F1_Description": "Guarantees at least one Epic or better limited time Flintlock weapon or Hero!",
     "OfferDef_EE4D6831BE214050AA59556464410E8C_Description": "Guarantees at least one Epic or better limited time Fortnitemares Survivor or Hero!",
+    "OfferDef_5C5E5E74B2A94D51ACC71F142EFD4835_Description": "Guarantees at least one Epic or better limited time Fortnitemares Weapon or Hero plus at least one Fortnitemares Survivor!",
     "OfferDef_FA65C5288C794C1EBF5A7243C4FE8846_Description": "Guarantees at least one Epic or better limited time Fortnitemares Weapon or Hero plus at least one Fortnitemares Survivor!",
     "OfferDef_A646BC4C1E4F4EED821FB6DCC0AB0D77_Description": "Guarantees at least one Epic or better limited time Hydraulic weapon or Hero!",
     "OfferDef_465BDAD55A6A433A8029CA69CB35793F_Description": "Guarantees at least one Epic or better limited time Medieval weapon or Holiday Hero!",
@@ -2406,9 +2444,8 @@
     "OfferDef_F0DF01095A2346A8B8B59F99BF3D61F1_Title": "Road Trip Llama",
     "OfferDef_91C93FFB3272442EB29CCA6019F2AD3C_Title": "Scavenger Choice Llama",
     "OfferDef_AC6013F3413F46D6BA8EF1C1B322CE65_Title": "Sci-Fi Llama",
-    "OfferDef_571D433C47E98F020EF099894CAF3B6A_ShortDescription": "Season 11",
-    "OfferDef_93E992BC45D487A943D769845441ABA5_Description": "Season 11 Now through December 1.\n\nInstantly get these items <Bold>valued at over 10,000 V-Bucks</>.\n  • <ItemName>X-Lord</> Outfit\n  • <ItemName>Catalyst</> Outfit\n  • <ItemName>Tilted Teknique</> Outfit\n  • <ItemName>Junk Bucket</> Glider\n  • <ItemName>Emote Camo </> Wrap\n  • <ItemName> Rift Lightning </> Contrails\n  • 300 V-Bucks\n  • <ItemName>The Final Showdown </> Music Track\n  • <Bold>70% Bonus</> Season Match XP\n  • <Bold>80% Bonus</> Season Friend Match XP\n  • and more!\n\nPlay to level up your Battle Pass, unlocking <Bold>over 75 rewards</> (typically takes 75 to 150 hours of play).\n  • <Bold>4 more Outfits</>\n  • <Bold>1,000 V-Bucks</>\n  • 6 Emotes\n  • 4 Wraps\n  • 5 Harvesting Tools\n  • 1 Pet\n  • 6 Gliders\n  • 7 Back Blings\n  • 3 Contrails\n  • 13 Sprays\n  • 2 Music Tracks\n  • 1 Toy\n  • 23 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy tiers any time!",
-    "OfferDef_571D433C47E98F020EF099894CAF3B6A_Description": "Season 11 Now through December 1.\n\nInstantly get these items <Bold>valued at over 3,500 V-Bucks</>.\n  • <ItemName>X-Lord</> Outfit\n  • <ItemName>Catalyst</> Outfit\n  • <Bold>50% Bonus</> Season Match XP\n  • <Bold>60% Bonus</> Season Friend Match XP\n\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> (typically takes 75 to 150 hours of play).\n  • <ItemName>Ultima Knight</> and <Bold>4 more Outfits</>\n  • <Bold>1,300 V-Bucks</>\n  • 7 Emotes\n  • 6 Wraps\n  • 6 Harvesting Tools\n  • 1 Pet\n  • 7 Gliders\n  • 7 Back Blings\n  • 5 Contrails\n  • 17 Sprays\n  • 3 Music Tracks\n  • 1 Toy\n  • 27 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy tiers any time!",
+    "OfferDef_729EBA774C9DE2C7D783FDBB2E73D926_ShortDescription": "Season 11",
+    "OfferDef_729EBA774C9DE2C7D783FDBB2E73D926_Description": "Season 11 Now through December 1.\r\n\r\nInstantly get these items <Bold>valued at over 3,500 V-Bucks</>.\r\n  • <ItemName>X-Lord</> Outfit\r\n  • <ItemName>Catalyst</> Outfit\r\n  • <Bold>50% Bonus</> Season Match XP\r\n  • <Bold>60% Bonus</> Season Friend Match XP\r\n\r\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> (typically takes 75 to 150 hours of play).\r\n  • <ItemName>Ultima Knight</> and <Bold>4 more Outfits</>\r\n  • <Bold>1,300 V-Bucks</>\r\n  • 7 Emotes\r\n  • 6 Wraps\r\n  • 6 Harvesting Tools\r\n  • 1 Pet\r\n  • 7 Gliders\r\n  • 7 Back Blings\r\n  • 5 Contrails\r\n  • 17 Sprays\r\n  • 3 Music Tracks\r\n  • 1 Toy\r\n  • 27 Loading Screens\r\n  • and so much more!\r\nWant it all faster? You can use V-Bucks to buy tiers any time!",
     "OfferDef_C3BA14F04F4D56FC1D490F8011B56553_Description": "Season 2: Dec 14 - Feb 20\r\n\r\nInstantly get these items valued at over 2000 V-Bucks.\r\n  • Blue Squire Outfit\r\n  • 50% Bonus Season Match XP\r\n  • 10% Bonus Season Friend Match XP\r\n  • Extra Battle Pass Daily Challenge\r\n\r\nPlay to level up your Battle Pass, unlocking up to 65+ rewards worth 12,000 V-Bucks (typically takes 75 to 150 hours of play). Want it all faster? You can use V-Bucks to buy levels any time!\r\n  • Black Knight plus 2 other outfits\r\n  • 3 Harvesting Tools\r\n  • 2 Gliders\r\n  • 1000 V-Bucks\r\n  • 60% Bonus Season Match XP\r\n  • 20% Bonus Season Friend Match XP\r\n  • 2 Animated Emotes\r\n  • 13 2D Emotes\r\n  • and more!",
     "OfferDef_2331626809474871A3A44C47C1D8742E_ShortDescription": "Season 3",
     "OfferDef_9DD831A348B80D3F40E28ABA21991A63_Title": "Season 3 Starter Kit",
@@ -2521,6 +2558,7 @@
     "OfferDef_9867A20CD6384AEF8AB09D6153D53D47_Description": "What comes out is as heavy as a sack of broken glass and just as much fun to play with. Contains at least 6 safety-guaranteed items.",
     "OfferDef_9EC95B2D6DE746079621B4CA4FFD465B_Description": "What comes out is as heavy as a sack of broken glass and just as much fun to play with. Contains at least 6 safety-guaranteed items.",
     "OfferDef_D9955BD975C34CFB8E086A88E55FFF0B_Description": "What comes out is as heavy as a sack of broken glass and just as much fun to play with. Contains at least 6 safety-guaranteed items.",
+    "OfferDef_3D34BF766FF4476D840536DE77CB2C07_Title": "Wild West Llama",
     "OfferDef_DD483E7B4174D7AA0BD1C5BE18E5925F_Title": "Wilde Pack",
     "OfferDef_465BDAD55A6A433A8029CA69CB35793F_Title": "Winter Llama",
     "OfferDef_63C91D5C2095450E8B43507D43EC51D3_Title": "Winter Llama",
