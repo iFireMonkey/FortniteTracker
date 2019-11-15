@@ -1,14 +1,11 @@
 [Core.System]
 GameThreadHeartBeatStackWalk = false
-
 [Core.Log]
 LogFortPet=Error
 LogParty=Verbose
 LogMatchmakingServiceClient=Verbose
-
 [SystemSettings]
 Fort.AutomaticReplayRecording=0
-
 [ConsoleVariables]
 Fort.AutomaticReplayRecording=0
 AudioThread.WaitWarningThresholdMs=35000
@@ -22,7 +19,6 @@ Fort.EnableClientTimeoutBlockInput=0
 Athena.bFireOpenedChestSummaryAnalyticEvent=1
 Building.EditConnectedActorsOptimization=0
 net.SupportFastArrayDelta=1
-
 Minigame.WaitingForReplicationTimeout=15
 demo.WithDeltaCheckpoints=0
 Athena.Vehicle.DisableCCDWhenKinematic=1
@@ -31,34 +27,25 @@ replay.UseRemoteAimSnapshotManager=1
 au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
 CreativeIslandSelect.ShowTemplateIslands=1
-Athena.DisableOverlapsWhenNotInVehicleOptimization=0
-
+Creative.EnablePreviewScreenshot=1 
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
-
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
 bAllowControllers=true
-
 [OnlineSubsystemMcp.OnlineStatsMcp]
 bUpdatesConnectionStatus=false
 Domain="statsproxy-public-service-live.ol.epicgames.com"
 BasePath="statsproxy"
-
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2]
 HttpRetryLimit=1
 !HttpRetryResponseCodes=ClearArray
 +HttpRetryResponseCodes=503
 +HttpRetryResponseCodes=504
-
-
 bDeletePingAfterJoin=false
-
 [/Script/Engine.Player]
 ConfiguredInternetSpeed=200000
-
 [Voice]
 bLiveStreamVoiceEnabled=false
-
 [/Script/Qos.QosRegionManager]
 NumTestsPerRegion=5
 PingTimeout=3.0
@@ -84,8 +71,10 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="SEA", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.228.51.104", Port=22222), Servers[1]=(Address="52.220.191.249", Port=22222), Servers[2]=(Address="52.221.166.208", Port=22222), Servers[3]=(Address="52.74.234.192", Port=22222))
 +DatacenterDefinitions=(Id="SYD", RegionId="OCE", bEnabled=true, Servers[0]=(Address="13.210.122.252", Port=22222), Servers[1]=(Address="13.210.30.168", Port=22222), Servers[2]=(Address="13.210.108.126", Port=22222), Servers[3]=(Address="13.210.58.172", Port=22222))
 +DatacenterDefinitions=(Id="SAO", RegionId="BR", bEnabled=true, Servers[0]=(Address="18.231.38.143", Port=22222), Servers[1]=(Address="18.231.52.12", Port=22222), Servers[2]=(Address="52.67.68.145", Port=22222), Servers[3]=(Address="54.207.41.123", Port=22222))
-+DatacenterDefinitions=(Id="MUM", RegionId="ME", bEnabled=true, Servers[0]=(Address="35.154.233.238", Port=22222), Servers[1]=(Address="13.232.55.240", Port=22222), Servers[2]=(Address="13.126.65.224", Port=22222), Servers[3]=(Address="13.233.25.50", Port=22222))
++DatacenterDefinitions=(Id="BAH", RegionId="ME", bEnabled=true, Servers[0]=(Address="157.175.7.148", Port=22222), Servers[1]=(Address="157.175.31.202", Port=22222), Servers[2]=(Address="157.175.31.88", Port=22222), Servers[3]=(Address="157.175.100.177", Port=22222))
 +DatacenterDefinitions=(Id="MUM_S", RegionId="ME", bEnabled=true, Servers[0]=(Address="170.52.0.10", Port=22222), Servers[1]=(Address="170.52.0.11", Port=22222), Servers[2]=(Address="170.52.1.12", Port=22222), Servers[3]=(Address="170.52.1.13", Port=22222))
++DatacenterDefinitions=(Id="BAH_S", RegionId="ME", bEnabled=true, Servers[0]=(Address="143.131.160.4", Port=22222), Servers[1]=(Address="143.131.161.4", Port=22222))
++DatacenterDefinitions=(Id="MUM", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.154.233.238", Port=22222), Servers[1]=(Address="13.232.55.240", Port=22222), Servers[2]=(Address="13.126.65.224", Port=22222), Servers[3]=(Address="13.233.25.50", Port=22222))
 +DatacenterDefinitions=(Id="tg_oregon", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.197.8.8", Port=22222), Servers[1]=(Address="35.185.246.177", Port=22222), Servers[2]=(Address="35.185.199.194", Port=22222), Servers[3]=(Address="35.185.246.79", Port=22222))
 +DatacenterDefinitions=(Id="tg_iowa", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.184.219.232", Port=22222), Servers[1]=(Address="35.192.173.168", Port=22222), Servers[2]=(Address="35.192.83.156", Port=22222), Servers[3]=(Address="35.184.255.96", Port=22222))
 +DatacenterDefinitions=(Id="ta_seoul", RegionId="UND", bEnabled=true, Servers[0]=(Address="52.78.81.204", Port=22222), Servers[1]=(Address="13.125.18.11", Port=22222), Servers[2]=(Address="13.125.33.160", Port=22222), Servers[3]=(Address="13.124.108.227", Port=22222))
@@ -99,24 +88,17 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="tg_finland", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.228.77.209", Port=22222), Servers[1]=(Address="35.228.226.168", Port=22222), Servers[2]=(Address="35.228.161.188", Port=22222), Servers[3]=(Address="35.228.188.5", Port=22222))
 +DatacenterDefinitions=(Id="ta_mid_canada", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.183.75.228", Port=22222), Servers[1]=(Address="35.182.218.172", Port=22222), Servers[2]=(Address="52.60.236.1", Port=22222), Servers[3]=(Address="52.60.51.108", Port=22222))
 +DatacenterDefinitions=(Id="tg_mumbai", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.200.145.197", Port=22222), Servers[1]=(Address="35.200.131.39", Port=22222), Servers[2]=(Address="35.200.143.52", Port=22222))
-+DatacenterDefinitions=(Id="z_remove_me_plz", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.200.129.244", Port=22222))
 +DatacenterDefinitions=(Id="tg_zurich", RegionId="UND", bEnabled=true, Servers[0]=(Address="34.65.48.90", Port=22222), Servers[1]=(Address="34.65.140.229", Port=22222), Servers[2]=(Address="34.65.246.188", Port=22222), Servers[3]=(Address="34.65.55.156", Port=22222))
-+DatacenterDefinitions=(Id="ta_bah", RegionId="UND", bEnabled=true, Servers[0]=(Address="157.175.7.148", Port=22222), Servers[1]=(Address="157.175.31.202", Port=22222), Servers[2]=(Address="157.175.31.88", Port=22222), Servers[3]=(Address="157.175.100.177", Port=22222))
 +DatacenterDefinitions=(Id="tg_mumbai_s", RegionId="UND", bEnabled=true, Servers[0]=(Address="170.52.0.15", Port=22222), Servers[1]=(Address="170.52.0.16", Port=22222), Servers[2]=(Address="170.52.1.17", Port=22222), Servers[3]=(Address="170.52.1.18", Port=22222))
-
 [/Script/FortniteGame.TagManager]
 +RepBucket=Py3GlEIaHtu8zox0I8xLSd+Mc+CUC8leDmv8c4mhoayYojxjjTarAXEWdtQN0NP3GSZOyXzcDRCIf+aZY0OmQAA=
-
 [OnlineSubsystemMcp.OnlineEventsServiceMcp]
 HttpRetryLimit=1
-
 [OnlineSubsystemMcp.OnlineIdentityMcp]
 AccountCreationUrl="/tos?client_id=`clientid&response_type=code&embedded=true"
 HttpFlushTimeout=0.0
 LoginPortalUrl="/login/`logintype?client_id=`clientid&response_type=code"
-
 [OnlineSubsystemMcp]
 bUsePartySystemV2=true
-
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2 Embedded]
 TaskAnalyticsRate=1.0
