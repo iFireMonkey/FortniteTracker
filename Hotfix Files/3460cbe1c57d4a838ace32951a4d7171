@@ -90,6 +90,8 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="tg_mumbai", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.200.145.197", Port=22222), Servers[1]=(Address="35.200.131.39", Port=22222), Servers[2]=(Address="35.200.143.52", Port=22222))
 +DatacenterDefinitions=(Id="tg_zurich", RegionId="UND", bEnabled=true, Servers[0]=(Address="34.65.48.90", Port=22222), Servers[1]=(Address="34.65.140.229", Port=22222), Servers[2]=(Address="34.65.246.188", Port=22222), Servers[3]=(Address="34.65.55.156", Port=22222))
 +DatacenterDefinitions=(Id="tg_mumbai_s", RegionId="UND", bEnabled=true, Servers[0]=(Address="170.52.0.15", Port=22222), Servers[1]=(Address="170.52.0.16", Port=22222), Servers[2]=(Address="170.52.1.17", Port=22222), Servers[3]=(Address="170.52.1.18", Port=22222))
++DatacenterDefinitions=(Id="DE_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.248.143.47", Port=22222), Servers[1]=(Address="76.223.16.147", Port=22222))
++DatacenterDefinitions=(Id="SAO_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.10.61", Port=22222), Servers[1]=(Address="99.83.171.153", Port=22222))
 [/Script/FortniteGame.TagManager]
 +RepBucket=Py3GlEIaHtu8zox0I8xLSd+Mc+CUC8leDmv8c4mhoayYojxjjTarAXEWdtQN0NP3GSZOyXzcDRCIf+aZY0OmQAA=
 [OnlineSubsystemMcp.OnlineEventsServiceMcp]

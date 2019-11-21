@@ -167,6 +167,9 @@
   "1F8A644947C107EBFE96198C0720AC37": {
     "LocResText": "+36"
   },
+  "7F7841BE46E502325A331AB5AB82D5FB": {
+    "LocResText": "+4"
+  },
   "EC98B6EE474ED8A3510548801BE3781D": {
     "LocResText": "+4"
   },
@@ -249,6 +252,9 @@
     "LocResText": "+8"
   },
   "1E317B1B4B5AC4FBDDBD8B80660ADA17": {
+    "LocResText": "+8"
+  },
+  "A0C2665F4B8F3BA0149A548834B5DF75": {
     "LocResText": "+8"
   },
   "B95F3A4341B448DC239EF58625176225": {
@@ -740,6 +746,15 @@
   "7750EFFF4375D6468F9DBD85BA149EBD": {
     "LocResText": "Dungeons"
   },
+  "C55EB6EB47B3A17BE36B57838B5EDCF8": {
+    "LocResText": "Epic Heroes"
+  },
+  "63A302DC44805DC4EEC6ADAA258D3F48": {
+    "LocResText": "Epic Survivors"
+  },
+  "20E4EB994166A6C08C911888CDA3A902": {
+    "LocResText": "Epic Weapons (Ranged/Melee)"
+  },
   "EEEB24C7424DADE98477F5AC1C83D02D": {
     "LocResText": "Escort the transport to the radio station!"
   },
@@ -931,6 +946,9 @@
   },
   "39FFAC1741E6D076E49A3594FDBC14C5": {
     "LocResText": "HANG TIME BUNDLE"
+  },
+  "788E825343FED66DB76731921A32FFB8": {
+    "LocResText": "HARBINGER BUNDLE"
   },
   "32277DAC41276EE5C5AE16A766000031": {
     "LocResText": "HIGHLAND WARRIOR BUNDLE"
@@ -1145,91 +1163,91 @@
   "208B641A4568F1A9922FF1954E7836DC": {
     "LocResText": "PvE_01_Difficulty_03"
   },
-  "2198503A44D45F411BD2B9A36101FB96": {
+  "CD0AC8274E37050256EB96928025727F": {
     "LocResText": "PvE_01_Difficulty_03_Group"
   },
-  "7F0253EB4F91B6E39B4009A05DE42156": {
+  "68F76A3641ECDF6B59F0B6942F860A63": {
     "LocResText": "PvE_01_Difficulty_03_Hard"
   },
   "6D2C65934CA5149C2660B0BF35086A3D": {
     "LocResText": "PvE_01_Difficulty_04"
   },
-  "10294F5948F892FC788725A8F1876EDA": {
+  "E726C6D748B0E909393EFA910E1865B0": {
     "LocResText": "PvE_01_Difficulty_04_Group"
   },
-  "F7B43ADA41526A2AA9ABDC9FD18A789E": {
+  "F14F921843EB7557BA94D48C99A47565": {
     "LocResText": "PvE_01_Difficulty_04_Hard"
   },
   "DF9CFBE940FDA17449171C8F194EA4BB": {
     "LocResText": "PvE_01_Difficulty_05"
   },
-  "BD04BBF047BD6DB446781493FCC5895F": {
+  "35CBC06047C6E3A6AEC51B9AF4CB2A05": {
     "LocResText": "PvE_01_Difficulty_05_Group"
   },
-  "D99DF6954A654BBC8F0987880370EDAF": {
+  "4C24ABE447E564C03DB4978F96C2365E": {
     "LocResText": "PvE_01_Difficulty_05_Hard"
   },
   "0DD04D6D4FA2D490FE9F228D1D790AA7": {
     "LocResText": "PvE_02_Difficulty_01"
   },
-  "2ADF09C849006BDE3A122D859F14F120": {
+  "56348AB94511F26472E764828B6C17F8": {
     "LocResText": "PvE_02_Difficulty_01_Group"
   },
-  "432308B444B0AD755C37FC97768DD2DC": {
+  "D92AED304FE9C04087F0FF8CA8D790AD": {
     "LocResText": "PvE_02_Difficulty_01_Group"
   },
-  "5F28932C4D680C7EA961FF82EE79B4E6": {
+  "2432EFA549D5E1FB62EFE6B015AD1819": {
     "LocResText": "PvE_02_Difficulty_01_Hard"
   },
   "AFF802E4414F8B202D27ED987485DE53": {
     "LocResText": "PvE_02_Difficulty_02"
   },
-  "2BDFBE414DF9F1F7A2A83EBAC86E9761": {
+  "1F9DBC2F41031C37CB46ABA68B43FF32": {
     "LocResText": "PvE_02_Difficulty_02_Group"
   },
-  "6124E295407466E63359D885A7A036B0": {
+  "3E50C83A4F395190671690AACFE8F582": {
     "LocResText": "PvE_02_Difficulty_02_Group"
   },
-  "C8C76D444695E054EFCE148311D3FBEA": {
+  "DF75C18D4A531560C5526BACC28E5CE4": {
     "LocResText": "PvE_02_Difficulty_02_Hard"
   },
   "4427408D4347CDAA30B3CAA41EF2ECA9": {
     "LocResText": "PvE_02_Difficulty_03"
   },
-  "1122ACB1487E522736D06CA09611D33E": {
+  "5974EB3B4F63534C201EF5B460E1AFE2": {
     "LocResText": "PvE_02_Difficulty_03_Group"
   },
-  "8215C27440006DB6CD5D0BB511D4E684": {
+  "5EB8314640447FCF56E9B286BCB3B3F7": {
     "LocResText": "PvE_02_Difficulty_03_Group"
   },
-  "D46DF23544677107C2CB7282BA354FE2": {
+  "ED4F62EF411CA01C9C12E29A49ED7609": {
     "LocResText": "PvE_02_Difficulty_03_Hard"
   },
   "DA76C3C54DACAF855FB8CA9D5B0C7919": {
     "LocResText": "PvE_02_Difficulty_04"
   },
-  "535474254D72319F84247DAAA7497AEE": {
+  "A1F5ABDF4F06C249B5D286B5C8392C3C": {
     "LocResText": "PvE_02_Difficulty_04_Group"
   },
-  "629990064ADD0EBDF518EF9F81FC8FE1": {
+  "E0C4C2D84049E8823B489F9DA53FB294": {
     "LocResText": "PvE_02_Difficulty_04_Group"
   },
-  "61C5FE594C2126485103E6A28D64F7BE": {
+  "FFB5143A4FC0357B81EB319252F1DD9C": {
     "LocResText": "PvE_02_Difficulty_04_Hard"
   },
   "EAD8C795418D96CC6061AA871ADC48CA": {
     "LocResText": "PvE_02_Difficulty_05"
   },
-  "9BF818F34E4C97523DE5FDB79FA28FFD": {
+  "31BA9A0448687FA8518BDFA7429D0847": {
     "LocResText": "PvE_02_Difficulty_05_Dudebro"
   },
-  "11FB595A4FB792EA79CFCAB7F35052EF": {
-    "LocResText": "PvE_02_Difficulty_05_Group"
-  },
-  "495F6A0E40A4A40AC2DE849E939F1466": {
+  "2E1C437340A94A3FFF9CBEA7840479ED": {
     "LocResText": "PvE_02_Difficulty_05_Group"
   },
   "C889F4BA4D3D30E96D4876B7A9244C53": {
+    "LocResText": "PvE_02_Difficulty_05_Group"
+  },
+  "DAD0CD7841F1F46B8D29D9B4F5B1EA4D": {
     "LocResText": "PvE_02_Difficulty_05_Group"
   },
   "6579323C45A61B3A192F4E9C84221B49": {
@@ -1250,31 +1268,31 @@
   "08BF1F484617C34FFCEF91A4C63A23B7": {
     "LocResText": "PvE_04_Difficulty_01"
   },
-  "904CC9864583B3F78E01E8B1E197767D": {
+  "E95A328444B0152760301F9438162A87": {
     "LocResText": "PvE_04_Difficulty_01_Group"
   },
   "FC49F1C54565FF7BD9DEB59E935974F8": {
     "LocResText": "PvE_04_Difficulty_02"
   },
-  "4E63D2E54AB5666A3256C98826D1444B": {
+  "477823C149C680DE73491B933F2FC90E": {
     "LocResText": "PvE_04_Difficulty_02_Group"
   },
   "B1862B39453A2677416C60A8662F8802": {
     "LocResText": "PvE_04_Difficulty_03"
   },
-  "AB2141F64C474B7D91BEC4AA5253250F": {
+  "16A389C44183D300DA6E3D991F158EE1": {
     "LocResText": "PvE_04_Difficulty_03_Group"
   },
   "95C44F024A78E1F9317B18B394655E10": {
     "LocResText": "PvE_04_Difficulty_04"
   },
-  "38335148469AA59FEEEDC0B3725780E3": {
+  "D17412E54936E19946CFE9983E5CA8D0": {
     "LocResText": "PvE_04_Difficulty_04_Group"
   },
   "7BC7FE114696CD452222B2BC690C6D93": {
     "LocResText": "PvE_04_Difficulty_05"
   },
-  "45C3CEBC4B30349259F422AE2F495D39": {
+  "21DD96ED4DDB3EB2DBCDEC9F3107C5CD": {
     "LocResText": "PvE_04_Difficulty_05_Group"
   },
   "2C2B30BC4779D8205C52F7B9D61A569F": {
@@ -1283,16 +1301,16 @@
   "8EAFC8954B39897BB1458B8931959B4C": {
     "LocResText": "PvE_04_Difficulty_06"
   },
-  "DB765F18441CFA850DF21295CA3B0735": {
+  "A4A71E9940DD4CD0C36829B82B7CE251": {
     "LocResText": "PvE_04_Difficulty_06"
   },
-  "28E6EE50464D51F96F0FFDA489F53DC1": {
+  "29EBAA55468D9541E7AE67939E30530C": {
     "LocResText": "PvE_04_Difficulty_06_Group"
   },
-  "473ED93649FFEBC1ADBEFB84344BBD5D": {
+  "DB1BFAB343DBA16712E885ADBA1B5F85": {
     "LocResText": "PvE_04_Difficulty_07"
   },
-  "70FD10FE4416A40DA0134D9139B7ACA0": {
+  "DB3D15DB41501E911C058580702F1BE9": {
     "LocResText": "PvE_04_Difficulty_07_Group"
   },
   "6014B557414A1906229BAAAE7286B1B7": {
@@ -1301,20 +1319,17 @@
   "BFADFA244E86DF0BAE9CE08E2CAF690F": {
     "LocResText": "PvE_04_Difficulty_08"
   },
-  "EC06C5154C473573536500BA876CBB85": {
+  "EFD5CBC24556952A62145386131F37CA": {
     "LocResText": "PvE_04_Difficulty_08"
   },
-  "59FF1D2D48362CDBA6796EAB1D86F5BE": {
+  "1B74B2FD4E57DDB874DBA3B7EDE892ED": {
     "LocResText": "PvE_04_Difficulty_08_Group"
   },
-  "6DA79DA8485FE4A4BD5A378232263E99": {
+  "01BE4B1647A5E433A41102AA32B340E8": {
     "LocResText": "PvE_04_Difficulty_09"
   },
-  "3E70D9CF45712A865FCB78AF245FF55C": {
+  "D5017CF14EE8F2B53EAB8784FF3EE383": {
     "LocResText": "PvE_04_Difficulty_09_Group"
-  },
-  "3115A51E4CD8E625041F6B820BB2AAFC": {
-    "LocResText": "PvE_04_Difficulty_10"
   },
   "B9EA845C40B205B67169C6AC24C814B2": {
     "LocResText": "PvE_04_Difficulty_10"
@@ -1322,11 +1337,20 @@
   "BC6E7E2F443C9B08948FF6A45F1375B3": {
     "LocResText": "PvE_04_Difficulty_10"
   },
+  "C9C36EA5432640F9900923895D60D0AF": {
+    "LocResText": "PvE_04_Difficulty_10"
+  },
   "69177DDF456086F0BF8DB29AB6180FA6": {
     "LocResText": "PvE_04_Difficulty_10_DUDEBRO"
   },
-  "A4651FDC41C58F49738E37BEA8ADABCD": {
+  "EA97FDE2497F7DBB87484F939ED84F90": {
+    "LocResText": "PvE_04_Difficulty_10_DUDEBRO"
+  },
+  "78583D5D48145A798237B59370CEBBF4": {
     "LocResText": "PvE_04_Difficulty_10_Group"
+  },
+  "7ABCAE454820417474E3B38EF68F0901": {
+    "LocResText": "RAINBOW RIOT BUNDLE"
   },
   "2889AE3C4E55E9591E6F37A8B5AD77E8": {
     "LocResText": "REX BUNDLE"
@@ -1415,77 +1439,80 @@
   "AB1571C341DE2C26E90879ADC2EE286B": {
     "LocResText": "Survive the Storm"
   },
-  "0C92F77E4984A5CC4661E383967120B6": {
+  "04B3DFC049A292567F0ED4A0D6B0A6FD": {
     "LocResText": "Swamp Region"
   },
-  "0E487F2B48AF29318368CF9DB1813A6C": {
+  "072538844B4CB322D62CA0BC70D48444": {
     "LocResText": "Swamp Region"
   },
-  "24E2C766460A6B2C362370B9CC5F99B1": {
+  "0BA2C3714EA6D4A17251919184EE3485": {
     "LocResText": "Swamp Region"
   },
-  "3259161D4E142590AE62FDB8DB06CEF6": {
+  "1568A31149DBC63D557C959E775B6EA8": {
     "LocResText": "Swamp Region"
   },
-  "378C37094E35597B7D4A27AB37B20F87": {
+  "1C1EC60F4BF30B6A42A3B18B640143C9": {
     "LocResText": "Swamp Region"
   },
-  "3AD53670480FBA357102928513494F1D": {
+  "1DEC41B54ECEA22933C4B69D8B981696": {
     "LocResText": "Swamp Region"
   },
-  "447DFCCD427C108B27317B84A3028948": {
+  "23CBA09F4B4BCFCD972D47919BA17D10": {
     "LocResText": "Swamp Region"
   },
-  "48B132844455D09B8DE5FAB80BE5DE33": {
+  "247C3AC548A552F1050F36A1DF7FC97F": {
     "LocResText": "Swamp Region"
   },
-  "49803A38492A1DFB98BC9F9DFB5D5396": {
+  "2CBB38F14BC74048E266638600ABA25C": {
     "LocResText": "Swamp Region"
   },
-  "4F7638124B6930C1DC23FF9603CC6202": {
+  "376376D3488AD4FCACA7A3B34A69209D": {
     "LocResText": "Swamp Region"
   },
-  "56DB4BDE4360D3F3EBD53DBEF2057A63": {
+  "39471320415223600C36549EDC29D4D0": {
     "LocResText": "Swamp Region"
   },
-  "59E6AFE644F04CDE292C93AFBA193906": {
+  "43CB8B694206C559C664BA99D904C0C7": {
     "LocResText": "Swamp Region"
   },
-  "5C0DEAAE410DDFDD8138F292A9629367": {
+  "4C2051B245EF467B4C306394758153FF": {
     "LocResText": "Swamp Region"
   },
-  "63016A7446CD9E43E378D2A58378DC93": {
+  "4C9B034949D7759B0DBBF8B0DB637EAB": {
     "LocResText": "Swamp Region"
   },
-  "7835B25D41C8C78B3B5C3180D65ABF9E": {
+  "5DDD97C14BCC3CAFD5A4B2825BC37D32": {
     "LocResText": "Swamp Region"
   },
-  "7FDF59DD448DE4A968990BB412EAAED8": {
+  "64B6D7E04403B779F547319B0BE39DCD": {
     "LocResText": "Swamp Region"
   },
-  "921D3C9F4A787EA8AC65FE9506A58C0F": {
+  "7270DE33448E0F15198B70832C696516": {
     "LocResText": "Swamp Region"
   },
-  "925850544441C6315AB00FADF04C57D1": {
+  "8DBA957142B4C0492A8B018B62C0E885": {
     "LocResText": "Swamp Region"
   },
-  "AC41C6214783C520F452A5A5D4A7D357": {
+  "9588C1C44C04F189BA7A15A296F68334": {
     "LocResText": "Swamp Region"
   },
-  "C85528C544B75D5C3857FAAC50118984": {
+  "9DED41C24BF58F6FB48505B954061C8C": {
     "LocResText": "Swamp Region"
   },
-  "C92C606E4A93E243160ABBA6C437B395": {
+  "B82C4EB54FFD7F4CCCBBA9A2895B6400": {
     "LocResText": "Swamp Region"
   },
-  "E471CB714E190E89C7491C837A375DDD": {
+  "B931822B43AD19C539CC5D96192DDB2A": {
     "LocResText": "Swamp Region"
   },
-  "EA28FB3B4CECB2DC0062FFAE02E7EA91": {
+  "C96C5B2F482AF3BE98F81FB2D2B18B86": {
     "LocResText": "Swamp Region"
   },
-  "EF1F548C494F5370A2E51E9C3100B49E": {
+  "CF3BC49D4125E9E45B4DEC97AA3BEF0F": {
     "LocResText": "Swamp Region"
+  },
+  "370B7950410C944D7D7FF5809323EAFD": {
+    "LocResText": "TBD"
   },
   "C20DBF224FA86E34A26C759B8FA43732": {
     "LocResText": "TRAVELER BUNDLE"
@@ -1613,11 +1640,11 @@
   "2AC061D04938748DEA2826B156770F49": {
     "LocResText": "Toy Soldier Wraps"
   },
-  "C55EB6EB47B3A17BE36B57838B5EDCF8": {
-    "LocResText": "Transform Keys"
-  },
   "BDA93218444CC2CDF288BBA45136883C": {
     "LocResText": "Twine Peaks"
+  },
+  "C219079E445978675DE3F497AD7A0676": {
+    "LocResText": "VERTEX BUNDLE"
   },
   "F03DEE6D4A27460853D522B58FEE61EF": {
     "LocResText": "WHIPLASH"
@@ -2396,8 +2423,8 @@
     "OfferDef_C5D695E24F0660D558AFFE816B8BB0E7_Description": "Bring the heat this season with the Lava Legends pack!",
     "OfferDef_B678DA8341FB458C68C64E99176862D0_Description": "Brrr! A very cool bundle!",
     "OfferDef_571D433C47E98F020EF099894CAF3B6A_ShortDescription": "Chapter 2 - Season 1",
-    "OfferDef_93E992BC45D487A943D769845441ABA5_Description": "Chapter 2 - Season 1 through December 12.\n\nInstantly get these items\n  •  <ItemName>Turk | Riptide</> Outfit\n  • <ItemName>Journey | Hazard</> Outfit\n  • <ItemName>Rippley | Sludge</> Outfit\n  • <ItemName>Respect The Peace</> Emote\n  • <ItemName>Sky Trawler</> Glider\n  • <ItemName>Riptide </> Wrap\n  • <ItemName> Slurpstream</> Contrails\n  • <ItemName>Storm Shredder </> Music Track\n  •  400 V-Bucks  \n  • and more!\n\nPlay to level up your Battle Pass, unlocking <Bold>over 75 rewards</>!\n  • <Bold>4 more Outfits</>\n  • <Bold>1,200 V-Bucks</>\n  • 5 Emotes\n  • 5 Wraps\n  • 5 Harvesting Tools\n  • 4 Gliders\n  • 4 Back Blings\n  • 4 Contrails\n  • 5 Sprays\n  • 2 Music Tracks\n  • 13 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy rewards any time!",
-    "OfferDef_571D433C47E98F020EF099894CAF3B6A_Description": "Chapter 2 - Season 1 through December 12. \n\nInstantly get these items\n  • <ItemName>Turk | Riptide</> Outfit\n  • <ItemName>Journey | Hazard</> Outfit\n\n\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> !\n  • <ItemName>Fusion</> and <Bold>4 more Outfits</>\n  • <Bold>1,500 V-Bucks</>\n  • 7 Emotes\n  • 6 Wraps\n  • 6 Harvesting Tools\n  • 5 Gliders\n  • 6 Back Blings\n  • 5 Contrails\n  • 8 Sprays\n  • 3 Music Tracks\n  • 16 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy rewards any time!",
+    "OfferDef_93E992BC45D487A943D769845441ABA5_Description": "Chapter 2 - Season 1 through February 6.\n\nInstantly get these items\n  •  <ItemName>Turk | Riptide</> Outfit\n  • <ItemName>Journey | Hazard</> Outfit\n  • <ItemName>Rippley | Sludge</> Outfit\n  • <ItemName>Respect The Peace</> Emote\n  • <ItemName>Sky Trawler</> Glider\n  • <ItemName>Riptide </> Wrap\n  • <ItemName> Slurpstream</> Contrails\n  • <ItemName>Storm Shredder </> Music Track\n  •  400 V-Bucks  \n  • and more!\n\nPlay to level up your Battle Pass, unlocking <Bold>over 75 rewards</>!\n  • <Bold>4 more Outfits</>\n  • <Bold>1,200 V-Bucks</>\n  • 5 Emotes\n  • 5 Wraps\n  • 5 Harvesting Tools\n  • 4 Gliders\n  • 4 Back Blings\n  • 4 Contrails\n  • 5 Sprays\n  • 2 Music Tracks\n  • 13 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy rewards any time!",
+    "OfferDef_571D433C47E98F020EF099894CAF3B6A_Description": "Chapter 2 - Season 1 through February 6. \n\nInstantly get these items\n  • <ItemName>Turk | Riptide</> Outfit\n  • <ItemName>Journey | Hazard</> Outfit\n\n\nPlay to level up your Battle Pass, unlocking <Bold>over 100 rewards</> !\n  • <ItemName>Fusion</> and <Bold>4 more Outfits</>\n  • <Bold>1,500 V-Bucks</>\n  • 7 Emotes\n  • 6 Wraps\n  • 6 Harvesting Tools\n  • 5 Gliders\n  • 6 Back Blings\n  • 5 Contrails\n  • 8 Sprays\n  • 3 Music Tracks\n  • 16 Loading Screens\n  • and so much more!\nWant it all faster? You can use V-Bucks to buy rewards any time!",
     "OfferDef_4980033616E944E88696AAD47E217FF7_ShortDescription": "Claim your Earned Battle Pass",
     "OfferDef_8720170F0BC549F282DCE6129336DBF3_ShortDescription": "Claim your Earned Battle Pass",
     "OfferDef_1999ABBED55A4DCAAE3135D537C27CC2_ShortDescription": "Claim your Earned Battle Pass and purchase 25 tiers",

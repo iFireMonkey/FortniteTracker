@@ -1,5 +1,5 @@
-﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=3
+[/Script/FortniteGame.FortRuntimeOptions]
+PreloadRevision=5
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -70,6 +70,13 @@ bEnableGeneratedScreenshotForPortalPreview=true
 bEnableSocialBanModal=true
 bEnableChallengeHolidayVideo=false
 bEnableRiskyReelsStreaming=false
+bEnableGuidedTutorial=false
+TriagedApolloIntro_NewPlayers_MaxLevel=99999
+bEnableReplayBrowser=true
+EnableCommunityVotingScreen=false
+bEnableBotsInTutorial=true
+bNewGameplaySettingTabs=false
+bAgeGateFlowEnabled=false
 TournamentHUDPointCounterDelay=1.5f
 FadeOutTeamIndicatorsAfter=27500
 bEnableLiveStreamInMatch=false
@@ -85,10 +92,7 @@ LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=ESchedul
 bEnableApolloIntro=true
 ApolloIntroQueueTimeoutSeconds=185.0f
 bForceApolloIntroSkipSubgameSelect=true
-bEnableGuidedTutorial=false
-TriagedApolloIntro_NewPlayers_MaxLevel=99999
-bEnableReplayBrowser=true
-EnableCommunityVotingScreen=false
+bEnableHUDPresetSelection=true
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
@@ -193,3 +197,5 @@ PlaylistCuratedContent=(("Playlist_Creative_Hyena_G",(CuratedLinkCodes=("2199-59
 +HiddenMatchmakingKnobs=CreativeTeamSettings:CharacterOverride
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=0,ExperimentNum=193)
++ExperimentalCohortPercent=(CohortPercent=50,ExperimentNum=501)
++ExperimentalCohortPercent=(CohortPercent=66,ExperimentNum=500)
