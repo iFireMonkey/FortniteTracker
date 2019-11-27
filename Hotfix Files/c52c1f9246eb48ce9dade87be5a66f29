@@ -195,6 +195,7 @@ PlaylistCuratedContent=(("Playlist_Creative_Hyena_G",(CuratedLinkCodes=("2199-59
 +SubRegionWhitelistedInGameMatchmakingPlaylists="Playlist_DefaultSquad"
 +SubRegionWhitelistedInGameMatchmakingPlaylists="Playlist_Respawn_24"
 +HiddenMatchmakingKnobs=CreativeTeamSettings:CharacterOverride
++HiddenSettings="AnonymousCharacterMode"
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=0,ExperimentNum=193)
 +ExperimentalCohortPercent=(CohortPercent=50,ExperimentNum=501)
