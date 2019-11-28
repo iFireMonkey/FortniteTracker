@@ -1,5 +1,5 @@
 [/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=5
+PreloadRevision=6
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -73,7 +73,7 @@ bEnableRiskyReelsStreaming=false
 bEnableGuidedTutorial=false
 TriagedApolloIntro_NewPlayers_MaxLevel=99999
 bEnableReplayBrowser=true
-EnableCommunityVotingScreen=false
+EnableCommunityVotingScreen=true
 bEnableBotsInTutorial=true
 bNewGameplaySettingTabs=false
 bAgeGateFlowEnabled=false
@@ -151,6 +151,8 @@ PlaylistCuratedContent=(("Playlist_Creative_Hyena_G",(CuratedLinkCodes=("2199-59
 +DisabledMatchmakingKnobs=PlayerNameFilter
 +DisabledMatchmakingKnobs=LockedPlayerNameSubstring
 +DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
++DisabledMatchmakingKnobs="FortPlayerSettingsComponentBase:RespawnHeight"
++DisabledMatchmakingKnobs="FortPlayerSettingsComponentBase:NumAIKillsForEndCondition"
 !bShowFeaturedReplays=ClearArray
 !WhitelistedReplayCLs=ClearArray
 !AthenaStarterGameMode=ClearArray
@@ -197,6 +199,4 @@ PlaylistCuratedContent=(("Playlist_Creative_Hyena_G",(CuratedLinkCodes=("2199-59
 +HiddenMatchmakingKnobs=CreativeTeamSettings:CharacterOverride
 +HiddenSettings="AnonymousCharacterMode"
 !ExperimentalCohortPercent=ClearArray
-+ExperimentalCohortPercent=(CohortPercent=0,ExperimentNum=193)
-+ExperimentalCohortPercent=(CohortPercent=50,ExperimentNum=501)
-+ExperimentalCohortPercent=(CohortPercent=66,ExperimentNum=500)
++ExperimentalCohortPercent=(CohortPercent=100,ExperimentNum=500)
