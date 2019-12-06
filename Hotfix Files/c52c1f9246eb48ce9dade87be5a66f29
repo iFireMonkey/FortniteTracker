@@ -1,5 +1,5 @@
-[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=6
+﻿[/Script/FortniteGame.FortRuntimeOptions]
+PreloadRevision=7
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -69,14 +69,12 @@ LevelToAutoOpenBattlePassOnNewSeason=0
 bEnableGeneratedScreenshotForPortalPreview=true
 bEnableSocialBanModal=true
 bEnableChallengeHolidayVideo=false
-bEnableRiskyReelsStreaming=false
 bEnableGuidedTutorial=false
 TriagedApolloIntro_NewPlayers_MaxLevel=99999
 bEnableReplayBrowser=true
 EnableCommunityVotingScreen=true
 bEnableBotsInTutorial=true
 bNewGameplaySettingTabs=false
-bAgeGateFlowEnabled=false
 TournamentHUDPointCounterDelay=1.5f
 FadeOutTeamIndicatorsAfter=27500
 bEnableLiveStreamInMatch=false
@@ -93,6 +91,8 @@ bEnableApolloIntro=true
 ApolloIntroQueueTimeoutSeconds=185.0f
 bForceApolloIntroSkipSubgameSelect=true
 bEnableHUDPresetSelection=true
+LiveReplayDiscoverabilityDelay=300.0f
+bGetLiveSessionsfromLeaderboards=false
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"

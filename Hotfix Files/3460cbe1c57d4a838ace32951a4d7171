@@ -28,6 +28,10 @@ au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
 CreativeIslandSelect.ShowTemplateIslands=1
 Creative.EnablePreviewScreenshot=1 
+Athena.PrioritizedStreamingActorsUpdateTimeLimit=6.667
+Athena.NormalStreamingActorsUpdateTimeLimit=1.333
+Athena.PrioritizedStreamingAsyncLoadingTimeLimit=6.667
+Athena.NormalStreamingAsyncLoadingTimeLimit=4
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
@@ -45,7 +49,7 @@ bDeletePingAfterJoin=false
 [/Script/Engine.Player]
 ConfiguredInternetSpeed=200000
 [Voice]
-bLiveStreamVoiceEnabled=false
+bLiveStreamVoiceEnabled=true
 [/Script/Qos.QosRegionManager]
 NumTestsPerRegion=5
 PingTimeout=3.0
