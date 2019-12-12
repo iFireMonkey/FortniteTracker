@@ -1,0 +1,223 @@
+[/Script/FortniteGame.FortTextHotfixConfig]
++TextReplacements=(Category=Game, Namespace="", Key="18DDC16E40956ABA8D526BA9237BD22F", NativeString="Send Mobile Notifications", LocalizedStrings=(("ar","للاختبار - تجاهل"),("en","Test - Ignore"),("de","Test - Nicht beachten"),("es","Prueba - Ignorar"),("es-419","Prueba - Ignorar"),("fr","Test - Ignorez ceci"),("it","Test - Ignorare"),("ja","テスト - 無視"),("ko","테스트 - 무시"),("pl","Test - prosimy zignorować"),("pt-BR","Teste - Ignore"),("ru","Тест — не обращайте внимания"),("tr","Test - Yok Say"),("zh-CN","测试 - 请忽略"),("zh-Hant","測試 - 請忽略")))
++TextReplacements=(Category=Game, Namespace="", Key="FD7546C843DA0A3B0D09E4A00D8C3121", NativeString="Tendrils", LocalizedStrings=(("ar","نبات متسلق"),("en","Vines"),("de","Ranken"),("es","Enredaderas"),("es-419","Enredaderas"),("fr","Plantes grimpantes"),("it","Tralci"),("ja","つる"),("ko","덩굴"),("pl","pnącza"),("pt-BR","Cipós"),("ru","Изнанка"),("tr","Asma"),("zh-CN","藤蔓"),("zh-Hant","藤蔓")))
++TextReplacements=(Category=Game, Namespace="", Key="E92954AD4595C7EA3E3B8F810BAD6C1A", NativeString="ISLAND EDIT PERMISSION", LocalizedStrings=(("ar","إذن تحرير ونسخ الجزيرة"),("en","ISLAND EDIT AND COPY PERMISSION"),("de","BERECHTIGUNG ZUM BEARBEITEN UND KOPIEREN DER INSEL"),("es","PERMISO DE EDICIÓN Y COPIA DE LA ISLA"),("es-419","PERMISO PARA EDITAR Y COPIAR LA ISLA"),("fr","PERMISSION DE MODIFIER ET COPIER L'ÎLE"),("it","PERMESSI DI MODIFICA E COPIA ISOLA"),("ja","島の編集とコピーの許可"),("ko","섬 편집 및 복사 권한"),("pl","POZWOLENIE NA EDYTOWANIE I KOPIOWANIE WYSPY"),("pt-BR","PERMISSÃO PARA EDITAR E COPIAR NA ILHA"),("ru","ПРАВО РЕДАКТИРОВАТЬ И КОПИРОВАТЬ ОСТРОВ"),("tr","ADA DÜZENLEME VE KOPYALAMA İZNİ"),("zh-CN","岛屿编辑和复制许可"),("zh-Hant","島嶼編輯和複製許可")))
++TextReplacements=(Category=Game, Namespace="Fortnite.UFortMatchmakingKnobsSpinnerButton", Key="SetListItemObjectInternal.On", NativeString="EDIT", LocalizedStrings=(("ar","التحرير والنسخ"),("en","EDIT AND COPY"),("de","BEARBEITEN UND KOPIEREN"),("es","EDITAR Y COPIAR"),("es-419","EDITAR Y COPIAR"),("fr","MODIFIER ET COPIER"),("it","MODIFICA E COPIA"),("ja","編集とコピー"),("ko","편집 및 복사"),("pl","EDYTUJ I KOPIUJ"),("pt-BR","EDITAR E COPIAR"),("ru","РЕДАКТИРОВАТЬ И КОПИРОВАТЬ"),("tr","DÜZENLEME VE KOPYALAMA"),("zh-CN","岛屿编辑和复制"),("zh-Hant","島嶼編輯和複製")))
++TextReplacements=(Category=Game, Namespace="", Key="8AA886B74513D82F0F22D195673F7BE5", NativeString="Set_01_AA",LocalizedStrings=(("ar","جندي ستورم الإمبراطوري"),("en","Imperial Stormtrooper"),("de","Imperialer Sturmtruppler"),("es","Stormtrooper Imperial"),("es-419","Stormtrooper Imperial"),("fr","Stormtrooper impérial"),("it","Assaltatore Imperiale"),("ja","銀河帝国軍 ストームトルーパー"),("ko","제국군 스톰트루퍼"),("pl","Szturmowiec Imperialny"),("pt-BR","Stormtrooper Imperial"),("ru","Имперский штурмовик"),("tr","İmparatorluk Stormtrooper'ı"),("zh-CN","帝国冲锋队"),("zh-Hant","帝國風暴兵")))
++TextReplacements=(Category=Game, Namespace="", Key="3BFFFC064967F22A4A2D0C8B939A2815", NativeString="Set_01_AB",LocalizedStrings=(("ar","ارتدي درع كجندي ستورم إمبراطوري."),("en","Wear the armor of an Imperial stormtrooper."),("de","Trage die Rüstung eines imperialen Sturmtrupplers."),("es","Ponte la armadura de un Stormtrooper Imperial."),("es-419","Usa la armadura de un Stormtrooper Imperial"),("fr","Portez l'armure d'un Stormtrooper impérial."),("it","Indossa l'armatura di un Assaltatore Imperiale"),("ja","銀河帝国軍 ストームトルーパーの武装を装備せよ。"),("ko","제국군 스톰트루퍼의 장비를 장착해 보세요."),("pl","Noś pancerz szturmowca Imperium"),("pt-BR","Vista a armadura de um Stormtrooper Imperial."),("ru","Примерьте броню Имперского штурмовика."),("tr","Bir İmparatorluk Stormtrooper'ın zırhını giy. "),("zh-CN","穿上帝国冲锋队的盔甲"),("zh-Hant","穿上帝國風暴兵的盔甲")))
++TextReplacements=(Category=Game, Namespace="CosmeticSets", Key="Cosmetics.Set.SuddenBoundary_DisplayName", NativeString="Set_01",LocalizedStrings=(("ar","الثلاثية الأصلية"),("en","Original Trilogy"),("de","Originale Trilogie"),("es","Trilogía original"),("es-419","Trilogía original"),("fr","Trilogie originale"),("it","Trilogia Originale"),("ja","オリジナルトリロジー"),("ko","오리지널 3부작"),("pl","Oryginalna trylogia"),("pt-BR","Trilogia Original"),("ru","Оригинальная трилогия"),("tr","Klasik Üçleme"),("zh-CN","正传三部曲"),("zh-Hant","正傳三部曲")))
++TextReplacements=(Category=Game, Namespace="", Key="D7ACC92E413C92A3E010A6B65369D003", NativeString="Columbus",LocalizedStrings=(("ar","سلسلة Star Wars"),("en","Star Wars Series"),("de","Star Wars-Reihe"),("es","Serie de Star Wars"),("es-419","Serie de Star Wars"),("fr","Série Star Wars"),("it","Serie Guerre Stellari"),("ja","スター・ウォーズシリーズ"),("ko","스타워즈 시리즈"),("pl","Seria Gwiezdne wojny"),("pt-BR","Série Star Wars"),("ru","Серия «Звёздные Войны»"),("tr","Star Wars Serisi"),("zh-CN","星球大战系列"),("zh-Hant","星際大戰系列")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="734590F44EE5D6D77E5140AB03F5869A", NativeString="Hide And Seek", LocalizedStrings=(("ar","الصياد والطريدة"),("en","Hunter and the Hunted"),("de","Jäger und Gejagte"),("es","El cazador y su presa"),("es-419","El cazador y su presa"),("fr","Proie et prédateur"),("it","Preda e Predatore"),("ja","ハイド&ホーンテッド"),("ko","헌터 앤 헌티드"),("pl","Myśliwy i zwierzyna"),("pt-BR","Caça e Caçador"),("ru","Охотник и добыча"),("tr","Hem Avcı Hem De Av"),("zh-CN","猎手与猎物"),("zh-Hant","獵手與獵物")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="227144914ABD7F7A6B361CBAF6102E6C", NativeString="Hide and Seek", LocalizedStrings=(("ar","الصياد والطريدة"),("en","Hunter and the Hunted"),("de","Jäger und Gejagte"),("es","El cazador y su presa"),("es-419","El cazador y su presa"),("fr","Proie et prédateur"),("it","Preda e Predatore"),("ja","ハイド&ホーンテッド"),("ko","헌터 앤 헌티드"),("pl","Myśliwy i zwierzyna"),("pt-BR","Caça e Caçador"),("ru","Охотник и добыча"),("tr","Hem Avcı Hem De Av"),("zh-CN","猎手与猎物"),("zh-Hant","獵手與獵物")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="FB79B8C24E0972E076D46CB66FB64122", NativeString="Search the hidden 'I' found in the Hide and Seek Loading Screen", LocalizedStrings=(("ar","ابحث عن حرف \"I\" المخبأ في شاشة تحميل الصياد والطريدة"),("en","Search the hidden \'I\' found in the Hunter and the Hunted Loading Screen"),("de","Suche das versteckte „I“ im Ladebildschirm „Jäger und Gejagte“"),("es","Busca la \"I\" oculta en la pantalla de carga de El Cazador y su presa"),("es-419","Busca la \"I\" oculta en la pantalla de carga de El Cazador y su presa"),("fr","Trouver la lettre I cachée sur l'écran de chargement Proie et prédateur"),("it","Cerca la \"I\" nascosta nella schermata di caricamento Preda e Predatore"),("ja","ロード画面「ハイド&ホーンテッド」に隠された文字「I」を見つける"),("ko","헌터 앤 헌티드 로딩 화면에 숨겨진 \'I\' 살펴보기"),("pl","Znajdź literę „I” ukrytą na ekranie wczytywania Myśliwego i zwierzyny"),("pt-BR","Vasculhe a letra \"I\" oculta na Tela de Carregamento Caça e Caçador"),("ru","Найдите букву I, подсказка — на экране загрузки «Охотник и добыча»"),("tr","Hem Avcı Hem De Av yükleme ekranındaki gizli \"I\" harfini bul"),("zh-CN","搜索“猎手与猎物”载入界面中隐藏的字母“I”"),("zh-Hant","搜索“獵手與獵物”載入界面中隱藏的字母“I”")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="E27ACB9E4DD0131C1CC5CE8A84F72934", NativeString="Search the hidden 'I' found in the Hide and Seek Loading Screen", LocalizedStrings=(("ar","ابحث عن حرف \"I\" المخبأ في شاشة تحميل الصياد والطريدة"),("en","Search the hidden \'I\' found in the Hunter and the Hunted Loading Screen"),("de","Suche das versteckte „I“ im Ladebildschirm „Jäger und Gejagte“"),("es","Busca la \"I\" oculta en la pantalla de carga de El Cazador y su presa"),("es-419","Busca la \"I\" oculta en la pantalla de carga de El Cazador y su presa"),("fr","Trouver la lettre I cachée sur l'écran de chargement Proie et prédateur"),("it","Cerca la \"I\" nascosta nella schermata di caricamento Preda e Predatore"),("ja","ロード画面「ハイド&ホーンテッド」に隠された文字「I」を見つける"),("ko","헌터 앤 헌티드 로딩 화면에 숨겨진 \'I\' 살펴보기"),("pl","Znajdź literę „I” ukrytą na ekranie wczytywania Myśliwego i zwierzyny"),("pt-BR","Vasculhe a letra \"I\" oculta na Tela de Carregamento Caça e Caçador"),("ru","Найдите букву I, подсказка — на экране загрузки «Охотник и добыча»"),("tr","Hem Avcı Hem De Av yükleme ekranındaki gizli \"I\" harfini bul"),("zh-CN","搜索“猎手与猎物”载入界面中隐藏的字母“I”"),("zh-Hant","搜索“獵手與獵物”載入界面中隱藏的字母“I”")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="A354468A4CA315230C0B0FB2593B471E", NativeString="Search the hidden 'I' found in the Hide and Seek Loading Screen", LocalizedStrings=(("ar","ابحث عن حرف \"I\" المخبأ في شاشة تحميل الصياد والطريدة"),("en","Search the hidden \'I\' found in the Hunter and the Hunted Loading Screen"),("de","Suche das versteckte „I“ im Ladebildschirm „Jäger und Gejagte“"),("es","Busca la \"I\" oculta en la pantalla de carga de El Cazador y su presa"),("es-419","Busca la \"I\" oculta en la pantalla de carga de El Cazador y su presa"),("fr","Trouver la lettre I cachée sur l'écran de chargement Proie et prédateur"),("it","Cerca la \"I\" nascosta nella schermata di caricamento Preda e Predatore"),("ja","ロード画面「ハイド&ホーンテッド」に隠された文字「I」を見つける"),("ko","헌터 앤 헌티드 로딩 화면에 숨겨진 \'I\' 살펴보기"),("pl","Znajdź literę „I” ukrytą na ekranie wczytywania Myśliwego i zwierzyny"),("pt-BR","Vasculhe a letra \"I\" oculta na Tela de Carregamento Caça e Caçador"),("ru","Найдите букву I, подсказка — на экране загрузки «Охотник и добыча»"),("tr","Hem Avcı Hem De Av yükleme ekranındaki gizli \"I\" harfini bul"),("zh-CN","搜索“猎手与猎物”载入界面中隐藏的字母“I”"),("zh-Hant","搜索“獵手與獵物”載入界面中隱藏的字母“I”")))
++TextReplacements=(Category=Game, Namespace="", Key="B188C5FD45E44D4E943E8981252FD7A3", NativeString="Never", LocalizedStrings=(("ar","فوري"),("en","Instant"),("de","Sofort"),("es","Instantáneo"),("es-419","Inmediato"),("fr","Instantané"),("it","Immediato"),("ja","即時"),("ko","즉시"),("pl","Natychmiast"),("pt-BR","Instantâneo"),("ru","Мгновенно"),("tr","Anında"),("zh-CN","立即"),("zh-Hant","立即")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="062217B24FD9BE4F50C68EBC1F05C6BB", NativeString="UI", LocalizedStrings=(("ar","واجهة المستخدم"),("en","UI"),("de","Benutzeroberfläche"),("es","IU"),("es-419","IU"),("fr","INTERFACE"),("it","Interfaccia utente"),("ja","UI"),("ko","UI"),("pl","Interfejs"),("pt-BR","INTERFACE"),("ru","ИНТЕРФЕЙС"),("tr","KULLANICI ARAYÜZÜ"),("zh-CN","UI"),("zh-Hant","UI")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="24DDA9D94CFD449D2EE1D39D73C8CFF9", NativeString="TOOLS", LocalizedStrings=(("ar","الأدوات"),("en","TOOLS"),("de","WERKZEUGE"),("es","HERRAMIENTAS"),("es-419","HERRAMIENTAS"),("fr","OUTILS"),("it","STRUMENTI"),("ja","ツール"),("ko","도구"),("pl","NARZĘDZIA"),("pt-BR","FERRAMENTAS"),("ru","ИНСТРУМЕНТЫ"),("tr","ARAÇLAR"),("zh-CN","工具"),("zh-Hant","工具")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="3342C2B54B29D90FE89938886FB8BAC6", NativeString="MY ISLAND", LocalizedStrings=(("ar","جزيرتي"),("en","MY ISLAND"),("de","MEINE INSEL"),("es","MI ISLA"),("es-419","MI ISLA"),("fr","MON ÎLE"),("it","LA MIA ISOLA"),("ja","自分の島"),("ko","나의 섬"),("pl","MOJA WYSPA"),("pt-BR","MINHA ILHA"),("ru","МОЙ ОСТРОВ"),("tr","BENİM ADAM"),("zh-CN","我的岛屿"),("zh-Hant","我的島嶼")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="3BC50D7E4651C78BFE53CF9F36D79DCB", NativeString="DESCRIPTION", LocalizedStrings=(("ar","الوصف"),("en","DESCRIPTION"),("de","BESCHREIBUNG"),("es","DESCRIPCIÓN"),("es-419","DESCRIPCIÓN"),("fr","DESCRIPTION"),("it","DESCRIZIONE"),("ja","説明"),("ko","설명"),("pl","OPIS"),("pt-BR","DESCRIÇÃO"),("ru","ОПИСАНИЕ"),("tr","AÇIKLAMA"),("zh-CN","说明"),("zh-Hant","描述")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="C0FD857C4FDC4C0A6C361BAE3DF3ECAB", NativeString="DESCRIPTION", LocalizedStrings=(("ar","الوصف"),("en","DESCRIPTION"),("de","BESCHREIBUNG"),("es","DESCRIPCIÓN"),("es-419","DESCRIPCIÓN"),("fr","DESCRIPTION"),("it","DESCRIZIONE"),("ja","説明"),("ko","설명"),("pl","OPIS"),("pt-BR","DESCRIÇÃO"),("ru","ОПИСАНИЕ"),("tr","AÇIKLAMA"),("zh-CN","说明"),("zh-Hant","描述")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="5D0F43E34C2CBAE1D624D1AC08BD0265", NativeString="No description entered", LocalizedStrings=(("ar","لم يتم إدخال أي وصف"),("en","No description entered"),("de","Keine Beschreibung angegeben"),("es","Sin descripción"),("es-419","Sin descripción"),("fr","Aucune description"),("it","Nessuna descrizione inserita"),("ja","説明が入力されていません"),("ko","설명 없음"),("pl","Nie wpisano opisu"),("pt-BR","Nenhuma descrição inserida"),("ru","Нет описания"),("tr","Açıklama yazılmadı"),("zh-CN","没有输入描述"),("zh-Hant","沒有輸入描述")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="A79116F74E76F33F5509328D5C492D5E", NativeString="SETTINGS", LocalizedStrings=(("ar","الإعدادات"),("en","SETTINGS"),("de","EINSTELLUNGEN"),("es","AJUSTES"),("es-419","AJUSTES"),("fr","PARAMÈTRES"),("it","IMPOSTAZIONI"),("ja","設定"),("ko","설정"),("pl","USTAWIENIA"),("pt-BR","CONFIGURAÇÕES"),("ru","ПАРАМЕТРЫ"),("tr","AYARLAR"),("zh-CN","设置"),("zh-Hant","設置")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="BE61D4F84F1AA0041CECB5A6DF3D8785", NativeString="This menu is only available from an island that you own.", LocalizedStrings=(("ar","لن تتوفر هذه القائمة إلا من الجُزر التي تمتلكها."),("en","This menu is only available from an island that you own."),("de","Dieses Menü ist nur auf deinen eigenen Inseln verfügbar."),("es","Este menú solo está disponible en tus islas."),("es-419","Este menú solo está disponible en tus islas."),("fr","Ce menu n'est disponible que sur une île vous appartenant."),("it","Il menu è disponibile solo su un'isola che possiedi."),("ja","このメニューは自分の島からのみ利用可能です。"),("ko","나의 섬에서만 이용할 수 있는 메뉴입니다."),("pl","To menu jest dostępne tylko na twojej wyspie."),("pt-BR","Esse menu só fica disponível nas suas ilhas."),("ru","Это меню доступно только на вашем острове."),("tr","Bu menü sadece sana ait olan bir adada kullanılabilir."),("zh-CN","该菜单只在你所拥有的的岛屿上开放。"),("zh-Hant","該菜單只在你所擁有的的島嶼上開放。")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="C287C11A4A260CC2132D6B93FDF2B3C4", NativeString="GAME", LocalizedStrings=(("ar","اللعبة"),("en","GAME"),("de","SPIEL"),("es","MODO DE JUEGO"),("es-419","MODO DE JUEGO"),("fr","JEU"),("it","PARTITA"),("ja","ゲーム"),("ko","게임"),("pl","GRA"),("pt-BR","JOGO"),("ru","ИГРА"),("tr","OYUN"),("zh-CN","游戏"),("zh-Hant","遊戲")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="E5E454524F30527D4654D7AE216EB1D4", NativeString="NOTE: Your island will be restored to its pre-game state when the game completes.", LocalizedStrings=(("ar","ملاحظة: عندما تكتمل اللعبة، ستتم استعادة جزيرتك إلى حالة ما قبل اللعبة."),("en","NOTE: Your island will be restored to its pre-game state when the game completes."),("de","HINWEIS: Deine Insel wird auf den Zustand vor dem Spiel zurückgesetzt, sobald das Spiel abgeschlossen ist."),("es","AVISO: Cuando finalice la partida, se restablecerá el estado original de tu isla."),("es-419","NOTA: Cuando termine la partida, tu isla volverá al estado original."),("fr","REMARQUE : une fois la partie terminée, votre île est restaurée au même état qu'avant d'avoir joué."),("it","NOTA: Al termine della partita, la tua isola sarà riportata allo stato precedente."),("ja","注: ゲームをクリアすると、島はゲームの前の状態に戻ります。"),("ko","참고: 게임이 종료되면 섬이 게임이 시작하기 전의 상태로 복원됩니다."),("pl","UWAGA: Po zakończeniu gry twoja wyspa zostanie przywrócona do stanu sprzed rozpoczęcia gry."),("pt-BR","OBSERVAÇÃO: sua ilha será restaurada ao estado anterior ao jogo quando o jogo terminar."),("ru","ПРИМЕЧАНИЕ: когда игра завершится, остров вернётся в состояние, в котором он был до начала игры."),("tr","NOT: Oyun tamamlandığında adan oyun öncesi haline geri döner."),("zh-CN","注意：在游戏完成时你的岛屿将恢复至游戏前的状态。"),("zh-Hant","注意：在遊戲完成時你的島嶼將恢復至遊戲前的狀態。")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="FD8446AF45EE3A0A3DF4DEB386DE4978", NativeString="PERMISSIONS", LocalizedStrings=(("ar","الأذونات"),("en","PERMISSIONS"),("de","BERECHTIGUNGEN"),("es","PERMISOS"),("es-419","PERMISOS"),("fr","PERMISSIONS"),("it","PERMESSI"),("ja","許可"),("ko","권한"),("pl","UPRAWNIENIA"),("pt-BR","PERMISSÕES"),("ru","ПРАВА ДОСТУПА"),("tr","İZİNLER"),("zh-CN","权限"),("zh-Hant","許可權")))
++TextReplacements=(Category=Game, Namespace="", Key="CB111D2B492A48A65429D1ADBAB9372D", NativeString="Last Available Over 200 Days Ago!",LocalizedStrings=(("ar","باقة شغب قوس قزح متوفرة الآن!"),("en","Rainbow Riot Bundle Available Now!"),("de","Regenbogenrandale-Paket jetzt erhältlich!"),("es","¡Ya está disponible el lote Altercado arcoíris!"),("es-419","¡El lote Arcoíris alborotado ya está disponible!"),("fr","Pack Révolte fluo disponible !"),("it","Bundle Rivolta arcobaleno disponibile ora!"),("ja","「レインボーライオット」バンドル販売中！"),("ko","무지개 폭동 번들 지금 이용 가능!"),("pl","Zestaw Feeria Barw już w grze!"),("pt-BR","Pacotão Antiprotesto Arco-íris Já Disponível!"),("ru","Комплект «Радужный бунт» уже доступен!"),("tr","Gözkuşağı Paketi Şimdi Oyunda!"),("zh-CN","彩虹之力套组现已推出！"),("zh-Hant","彩虹之力套組現已推出！")))
++TextReplacements=(Category=Game, Namespace="", Key="1D73CC7B424E04B8334E81BCFBD6E7AF", NativeString="Last Available Over 250 Days Ago!",LocalizedStrings=(("ar","باقة القمة متوفرة الآن!"),("en","Vertex Bundle Available Now!"),("de","Vertex-Paket jetzt erhältlich!"),("es","¡Ya está disponible el lote Vértice!"),("es-419","¡El lote Vertex ya está disponible!"),("fr","Pack Vertex disponible !"),("it","Bundle Vertex disponibile ora!"),("ja","「ヴァーテックス」バンドル販売中！"),("ko","버텍스 번들 지금 이용 가능!"),("pl","Zestaw Werteks już w grze!"),("pt-BR","Pacotão Vértice Já Disponível!"),("ru","Комплект «Вертекс» уже доступен!"),("tr","Kızıl Fırtına Paketi Şimdi Oyunda!"),("zh-CN","巅峰套组现已推出！"),("zh-Hant","巔峰套組現已推出！")))
++TextReplacements=(Category=Game, Namespace="", Key="2728CA4F48AADA59BD939F8F1B8C0706", NativeString="Last Available Over 300 Days Ago!",LocalizedStrings=(("ar","باقة النذير متوفرة الآن!"),("en","Harbinger Bundle Available Now!"),("de","Vorboten-Paket jetzt erhältlich!"),("es","¡Ya está disponible el lote Heraldo!"),("es-419","¡El lote Heraldo ya está disponible!"),("fr","Pack Héraut disponible !"),("it","Bundle Araldo disponibile ora!"),("ja","「先駆者」バンドル販売中！"),("ko","전령 번들 지금 이용 가능!"),("pl","Zestaw Zwiastun już w grze!"),("pt-BR","Pacotão Prenúncio Já Disponível!"),("ru","Комплект «Дыхание зимы» уже доступен!"),("tr","Kara Viking Paketi Şimdi Oyunda!"),("zh-CN","预示套组现已推出！"),("zh-Hant","預示套組現已推出！")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="A42890B249DFD4F0F81673A80DF7A565", NativeString="Dominion", LocalizedStrings=(("ar","سيد النار")))
+[/Script/FortniteGame.FortGameInstance]
+bBattleRoyaleMatchmakingEnabled=true
+!DynamicSoundData=ClearArray
+!FrontEndPlaylistData=ClearArray
++PlaylistOverrides=(PlaylistName=Playlist_Creative_PlayOnly, bEnabled=true)
++FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
++FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSolo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=3))
++FrontEndPlaylistData=(PlaylistName=Playlist_DefaultDuo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=4))
++FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSquad, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=5))
++FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
++FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
++FrontEndPlaylistData=(PlaylistName=Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, CategoryIndex=1, AdvertiseType=Updated, DisplayPriority=10))
++FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
++FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
++FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
++FrontEndPlaylistData=(PlaylistName= Playlist_Vamp_Duo, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
++FrontEndPlaylistData=(PlaylistName= Playlist_Bounty_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
+NiagaraAssetsBlacklistedByHotfix=("NS_Contrail_AmmoBelt", "NS_Contrail_Raven","NS_Contrail_Venus","NS_Contrail_Lava", "NS_Contrail_ShootingStar", "NS_Shopping_Cart_Vehicle_WheelDust", "NS_Shopping_Cart_Vehicle_Destroyed", "NS_Shopping_Cart_Vehicle_HitDust", "NS_Shopping_Cart_Vehicle_HitPlayer")
+[/Script/FortniteGame.FortGameSession]
+bEnableMeshNetwork=true
+!DisabledMeshRegions=ClearArray
+[/Script/FortniteGame.FortOnlineAccount]
+bShouldAthenaQueryRecentPlayers=false
+bPromptUserAndReverifyAuthToken=true
+[/Script/Account.OnlineAccountCommon]
+bUsePinGrantCodeForLinking=true
+[/Script/FortniteGame.FortChatManager]
+bShouldJoinFounderChat=false
+bShouldRequestGeneralChatRooms=false
+bShouldJoinGlobalChat=false
+[/Script/FortniteGame.FortGlobals]
+LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
+LogoutFailureOptions=(bSubmitLogs=true,bSubmitLogsDuringLogin=false,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("OnlineAccount_LostConnection"))
+bDisableTimePlayedStat=true
+bAthenaUsesSimCollision=true
+bSubmitReturnToMenuErrorLogs=true
+ReturnToMenuErrorLogSubmitChance=0.1
+PartyJoinFailureLogSubmit=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,Reasons=((Reason="Unknown"),(Reason="UnknownClientFailure"),(Reason="JoinInfoInvalid"),(Reason="NotApproved",SubReason="Unknown"),(Reason="GameSpecificReason",SubReason="Unknown"),(Reason="GameSpecificReason",SubReason="OSSUnavailable"),(Reason="GameSpecificReason",SubReason="FailedToStartFindConsoleSession"),(Reason="NoResponse")))
+RealMoneyPurchaseFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("com.epicgames.catalog_helper.user_cancelled"))
+bAthenaSimVehicles=true
+bUploadAthenaStatsV2=true
+AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-merge"
++IronCityWargameTagList=Stat.Mission.Ironcity.Pods
++IronCityWargameTagList=Stat.Mission.IronCity.Tiki
++IronCityWargameTagList=Stat.Mission.IronCity.TeleBomb
++IronCityWargameTagList=Stat.Mission.IronCity.TpRifts
++IronCityWargameTagList=Stat.Mission.IronCity.AntiShield
++IronCityWargameTagList=Stat.Mission.IronCity.RiotCity
+bEnableIronCityCoast=true
++KairosSubmitOptions=(Type="PartyJoinFailure",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.10,SubmitErrors=("UnknownClientFailure","UnknownInternalFailure","RequesteeNotMember"))
++KairosSubmitOptions=(Type="LoginError",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.01)
+MaxResolutionForMediaStreaming=1088
+bUseLegacyMediaSource=false
+MemoryRequirementForMediaStreamingMB=0
+bAllowElectraForReplayCinematic=true
+bAllowElectraForWatchBattlePassMovie=true
+bShowExtendedBattlePassMovie=true
+OpenTimeLimitForReplayCinematic=6.0
+OpenTimeLimitForWatchBattlePassMovie=6.0
+DurationTimeLimitForReplayCinematic=81.0
+[/Script/FortniteGame.FortMatchmakingV2]
+MatchmakingRetryInterval=1.f
+!AltDomainRecords=ClearArray
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-prod-a.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-prod-a.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-mm-public-service-live-prod-m-a.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-prod-a.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-prod-b.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-prod-b.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-mm-public-service-live-prod-m-b.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-prod-b.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-asia.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-asia.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-br.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-br.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-eu.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-eu.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-me.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-me.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-nae.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-nae.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-naw.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-naw.ak.epicgames.com")
++AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-oce.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-oce.ak.epicgames.com")
+[/Script/FortniteGame.FortPlayerController]
+bBuildingPlacementTraceSkipCameraOffsetIfNotInFrontOfPlayer=false
+[/Script/FortniteGame.FortPlayerControllerAthena]
+bClearWeaponTypeCooldownsOnAbilityFailure=false
+bLeaveDisconnectedPawnsInGame=false
+[Social]
++JoinablePlatformPairs="XBL,PSN"
++JoinablePlatformPairs="SWT,PSN"
++PlatformInvitePermissionLists="PSN:PSN,WIN,MAC,IOS,AND,SWT,XBL"
++PlatformInvitePermissionLists="XBL:XBL,WIN,MAC,IOS,AND,SWT,PSN"
++PlatformInvitePermissionLists="SWT:XBL,WIN,MAC,IOS,AND,SWT,PSN"
+[/Script/FortniteGame.FortAnalyticsConfig]
+bEnableMeshHeartbeat=false
+[/Script/FortniteGame.FortGameModeAthena]
+CreativeModeGracefulShutdownTime=3600
+!EventWindowsWithIndividualScoring=ClearArray
++EventWindowsWithIndividualScoring="GauntletTest_Solo_Event1"
++EventWindowsWithIndividualScoring="GauntletTest_Duo_Event1"
+MaxActiveAIActors=350
+ReplayStreamerOverride=FortniteDSSReplayStreamer
+bUseZebulonDrones=False
+bEnableRecentPlayersUpdates=true
+[/Script/FortniteGame.FortFerretVehicleConfigs]
+MaxHealthToDestroyProp=199.0
+[/Script/FortniteGame.FortAthenaFerretVehicle]
+DivebombSpeedMinKmh=40.0
+DivebombSpeedMaxKmh=150.0
+DivebombSteerPitchRate=115.0
+DivebombHeadingMatchRate=70.0
+[/Script/FortniteGame.FortCreativeBudgeterData]
+!TransientClassLimits=ClearArray
++TransientClassLimits=(ActorClass=/Script/FortniteGame.FortPickup,MaxNumberOfInstances=1000)
++SavedClassLimits=(ActorClass=/Game/Items/Traps/Blueprints/Device_Floor_VehicleSpawnerParent.Device_Floor_VehicleSpawnerParent_C, MaxNumberOfInstances=32)
++SavedClassLimits=(ActorClass=/Game/Athena/Items/Traps/MinigameSpawner/Trap_Floor_Minigame_Spawner.Trap_Floor_Minigame_Spawner_C, MaxNumberOfInstances=250)
++SavedClassLimits=(ActorClass=/Game/Creative/Devices/ExplosiveBarrel/ExplosiveBarrel_GBA.ExplosiveBarrel_GBA_C, MaxNumberOfInstances=101)
++SavedClassLimits=(ActorClass=/Game/Creative/Devices/RigidBodies/CreativeBallSpawner.CreativeBallSpawner_C, MaxNumberOfInstances=5)
++SavedClassLimits=(ActorClass=/Game/Creative/Devices/PropPossessorConfigurator/BP_PropPossessorConfigProp.BP_PropPossessorConfigProp_C, MaxNumberOfInstances=1)
++SavedClassLimits=(ActorClass=/Game/Creative/Devices/StormController/BP_BasicStormController.BP_BasicStormController_C, MaxNumberOfInstances=30)
+[/Script/NetUI.ConnectionTimeoutWidget]
+bStartTimerWhenConstructed=false
+[/Script/Engine.AssetManagerSettings]
++AssetPathRedirects=(Old="/Game/Playgrounds/Items/MusicBlock/MusicBlock_Bass1.MusicBlock_Bass1",New="/Game/Playgrounds/Items/MusicBlock/MusicBlock_Bass_01.MusicBlock_Bass_01")
++AssetPathRedirects=(Old="/Game/Playgrounds/Items/MusicBlock/MusicBlock_Bass2.MusicBlock_Bass2",New="/Game/Playgrounds/Items/MusicBlock/MusicBlock_Bass_02.MusicBlock_Bass_02")
+[/Script/Party.SocialSettings]
+DefaultMaxPartySize=16
+bLeavePartyOnDisconnect=false
+[/Game/Athena/DrivableVehicles/Golf_Cart/Golf_Cart_Base/Blueprints/GolfCartVehicleSK.GolfCartVehicleSK_C]
+ImpulseResponseMultiplier=8.03
+[/Game/Athena/DrivableVehicles/PushCannon.PushCannon_C]
+ImpulseResponseMultiplier=1.87766
+[/Game/Athena/DrivableVehicles/Octopus/OctopusVehicle.OctopusVehicle.OctopusVehicle_C]
+ImpulseResponseMultiplier=2.2
+[/Script/FortniteGame.FortPlayerPawn]
+bAllowClientsideBuildingToolEquipPrediction=false
+[/Script/FortniteUI.FortVoiceSpeakerContainerWidget]
+bShowIndicatorsForSquadMembers=false
+[/Script/FortniteGame.FortStreamMediaSource]
+VideoStreamSource="Rabbit:ElectraA"
+[/Script/FortniteGame.FortGameStateAthena]
+bStopBuildingHealingOnDamage=false
+[/Script/FortniteGame.FortGameModeZone]
+LeecherCutoff=0.1
+[/Script/FortniteGame.FortControllerComponent_Interaction]
+bInteractTraceStartsAtClosestPointDistance=false
+[AssetHotfix]
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;0;15
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;1;15
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Risky.ShouldPlayCalendarVideo;0;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Phoebe.Spectate;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.MatchStats;0;100
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.Death;0;100
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.EndPhase;0;100
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.WonMatch;0;100
++CurveTable=/Game/Athena/Playlists/Apollo/IntroGameData;TableUpdate;"[{\"Name\":\"Default.SafeZone.StartDelay\",\"0\":120,\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":0,\"6\":0,\"7\":0,\"8\":0,\"9\":0,\"10\":0,\"11\":0,\"12\":0,\"13\":0,\"14\":0,\"15\":0,\"16\":0,\"17\":0,\"18\":0,\"19\":0,\"20\":0},{\"Name\":\"Default.ZigZag.PropSpawnWeight\",\"0\":0,\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":0,\"6\":0,\"7\":0,\"8\":0,\"9\":0,\"10\":0,\"11\":0,\"12\":0,\"13\":0,\"14\":0,\"15\":0,\"16\":0,\"17\":0,\"18\":0,\"19\":0,\"20\":0}]"
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootTierData;TableUpdate;"[{\"Name\":\"Loot_AthenaFlopper_Default_05\",\"TierGroup\":\"Loot_AthenaFlopper_Default\",\"Weight\":0.096000000834465027,\"QuotaLevel\":\"Unlimited\",\"LootTier\":0,\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"StreakBreakerCurrency\":\"\",\"StreakBreakerPointsMin\":0,\"StreakBreakerPointsMax\":0,\"StreakBreakerPointsSpend\":0,\"LootPackage\":\"WorldPKG.FlopperDefault.Consumable\",\"LootPreviewPackage\":\"None\",\"NumLootPackageDrops\":1,\"RequiredTag\":\"None\",\"LootPackageCategoryWeightArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMinArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMaxArray\":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredGameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"bAllowBonusLootDrops\":true,\"Annotation\":\"\"},{\"Name\":\"Loot_AthenaFlopper_Swamp_Default_05\",\"TierGroup\":\"Loot_AthenaFlopper_Swamp_Default\",\"Weight\":0.096000000834465027,\"QuotaLevel\":\"Unlimited\",\"LootTier\":0,\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"StreakBreakerCurrency\":\"\",\"StreakBreakerPointsMin\":0,\"StreakBreakerPointsMax\":0,\"StreakBreakerPointsSpend\":0,\"LootPackage\":\"WorldPKG.FlopperSwampDefault.Consumable\",\"LootPreviewPackage\":\"None\",\"NumLootPackageDrops\":1,\"RequiredTag\":\"None\",\"LootPackageCategoryWeightArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMinArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMaxArray\":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredGameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"bAllowBonusLootDrops\":true,\"Annotation\":\"\"}]"
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootTierData;TableUpdate;"[{\"Name\":\"Loot_AthenaFlopper_Default_05\",\"TierGroup\":\"Loot_AthenaFlopper_Default\",\"Weight\":0.096000000834465027,\"QuotaLevel\":\"Unlimited\",\"LootTier\":0,\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"StreakBreakerCurrency\":\"\",\"StreakBreakerPointsMin\":0,\"StreakBreakerPointsMax\":0,\"StreakBreakerPointsSpend\":0,\"LootPackage\":\"WorldPKG.FlopperDefault.Consumable\",\"LootPreviewPackage\":\"None\",\"NumLootPackageDrops\":1,\"RequiredTag\":\"None\",\"LootPackageCategoryWeightArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMinArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMaxArray\":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredGameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"bAllowBonusLootDrops\":true,\"Annotation\":\"\"},{\"Name\":\"Loot_AthenaFlopper_Swamp_Default_05\",\"TierGroup\":\"Loot_AthenaFlopper_Swamp_Default\",\"Weight\":0.096000000834465027,\"QuotaLevel\":\"Unlimited\",\"LootTier\":0,\"MinWorldLevel\":-1,\"MaxWorldLevel\":-1,\"StreakBreakerCurrency\":\"\",\"StreakBreakerPointsMin\":0,\"StreakBreakerPointsMax\":0,\"StreakBreakerPointsSpend\":0,\"LootPackage\":\"WorldPKG.FlopperSwampDefault.Consumable\",\"LootPreviewPackage\":\"None\",\"NumLootPackageDrops\":1,\"RequiredTag\":\"None\",\"LootPackageCategoryWeightArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMinArray\":[1,0,0,0,0,0,0,0,0,0,0],\"LootPackageCategoryMaxArray\":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],\"GameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"RequiredGameplayTags\":{\"GameplayTags\":[],\"ParentTags\":[]},\"bAllowBonusLootDrops\":true,\"Annotation\":\"\"}]"
++CurveTable=/Game/Athena/Balance/DataTables/AthenaAccoladeXP;RowUpdate;FirstMatchOfDay;1;6000
++CurveTable=/Game/Athena/Playlists/Showdown/OverrideGameData;RowUpdate;Default.FlopperSpawn.MaxUsable;0;2
++CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.FlopperSpawn.MaxUsable;0;2
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_SemiAuto_Athena_C_Ore_T03;DamageZone_Critical;2
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_SemiAuto_Athena_UC_Ore_T03;DamageZone_Critical;2
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_SemiAuto_Athena_R_Ore_T03;DamageZone_Critical;2
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_SemiAuto_Athena_VR_Ore_T03;DamageZone_Critical;2
++DataTable=/Game/Athena/Items/Weapons/AthenaRangedWeapons;RowUpdate;Shotgun_SemiAuto_Athena_SR_Ore_T03;DamageZone_Critical;2
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;728;Category;Weapons
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;728;ItemPrimaryAssetId;Weapon:WID_Launcher_Pumpkin_Athena_SR_Ore_T03
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;728;Count;1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;728;SortPriority;20577.1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;728;bIncluded;True
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;729;Category;Weapons
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;729;ItemPrimaryAssetId;Weapon:WID_Launcher_Pumpkin_Athena_VR_Ore_T03
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;729;Count;1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;729;SortPriority;20609.1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;729;bIncluded;True
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;730;Category;Weapons
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;730;ItemPrimaryAssetId;Weapon:WID_Launcher_Pumpkin_Athena_R_Ore_T03
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;730;Count;1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;730;SortPriority;20640.1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;730;bIncluded;True
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;731;Category;Weapons
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;731;ItemPrimaryAssetId;Weapon:WID_Launcher_Pumpkin_Athena_UC_Ore_T03
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;731;Count;1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;731;SortPriority;20661.1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;731;bIncluded;True
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;16;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;17;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;18;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;19;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;20;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;21;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;216;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;217;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;218;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;219;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;220;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;221;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;222;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;223;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;224;Bincluded;TRUE
