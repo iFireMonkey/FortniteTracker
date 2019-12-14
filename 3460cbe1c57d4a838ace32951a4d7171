@@ -27,11 +27,13 @@ replay.UseRemoteAimSnapshotManager=1
 au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
 CreativeIslandSelect.ShowTemplateIslands=1
-Creative.EnablePreviewScreenshot=1 
-Athena.PrioritizedStreamingActorsUpdateTimeLimit=6.667
-Athena.NormalStreamingActorsUpdateTimeLimit=1.333
-Athena.PrioritizedStreamingAsyncLoadingTimeLimit=6.667
-Athena.NormalStreamingAsyncLoadingTimeLimit=4
+Creative.EnablePreviewScreenshot=1
+Leto.BackgroundEnabled=false
+Leto.IsSupported=0
+Creative.InstanceCostMultiplier=0.98
+Creative.AssetCostMultiplier=0.9
+Fort.CosmeticManager.AlwaysLoadMeshPawnCosmetics=1
+Sequencer.NetSyncThreshold=1000.0
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
@@ -111,5 +113,8 @@ HttpFlushTimeout=0.0
 LoginPortalUrl="/login/`logintype?client_id=`clientid&response_type=code"
 [OnlineSubsystemMcp]
 bUsePartySystemV2=true
+bQueryDisplayNameFromUserInterface=false
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2 Embedded]
 TaskAnalyticsRate=1.0
+[OnlineSubsystemMcp.OnlinePresenceMcp]
+bQueryLastOnlineDate=false
