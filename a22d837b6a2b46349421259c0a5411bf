@@ -308,23 +308,24 @@ bBattleRoyaleMatchmakingEnabled=true
 !DynamicSoundData=ClearArray
 +DynamicSoundData=(Name=Glider_Galileo_Ferry_Loop_Cue, SoundOverrideType=Cue, Volume=0.5)
 !FrontEndPlaylistData=ClearArray
++FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSolo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=3))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultDuo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=4))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSquad, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=5))
++FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Vamp_Duo, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Bounty_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Music_Low, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsLimitedTime=false, CategoryIndex=0, DisplayPriority=49), AccessOverrides=((Regions=("MESH"), Platforms=("ALL"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=true, bDisplayAsLimitedTime=false, CategoryIndex=0, DisplayPriority=18))))
 +DynamicSoundData=(Name=Wax_GameEnding_Music_Cue, SoundOverrideType=Cue, Volume=0.4)
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
 !DisabledMeshRegions=ClearArray
 [/Script/FortniteGame.FortOnlineAccount]
-bPromptUserAndReverifyAuthToken=true
 bShouldAthenaQueryRecentPlayers=false
+bPromptUserAndReverifyAuthToken=true
 [/Script/Account.OnlineAccountCommon]
 bUsePinGrantCodeForLinking=true
 [/Script/FortniteGame.FortChatManager]
@@ -332,18 +333,17 @@ bShouldJoinFounderChat=false
 bShouldRequestGeneralChatRooms=false
 bShouldJoinGlobalChat=false
 [/Script/FortniteGame.FortGlobals]
-LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,AuthFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
-LogoutFailureOptions=(bSubmitLogs=true,bSubmitLogsDuringLogin=false,LogTailKb=300,LogSubmitChance=0.01,DoNotUploadReasons=(""OnlineAccount_LostConnection""))
+LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
+LogoutFailureOptions=(bSubmitLogs=true,bSubmitLogsDuringLogin=false,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("OnlineAccount_LostConnection"))
 bDisableTimePlayedStat=true
 bAthenaUsesSimCollision=true
 bSubmitReturnToMenuErrorLogs=true
 ReturnToMenuErrorLogSubmitChance=0.1
-PartyJoinFailureLogSubmit=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,Reasons=((Reason=""Unknown""),(Reason=""UnknownClientFailure""),(Reason=""JoinInfoInvalid""),(Reason=""NotApproved"",SubReason=""Unknown""),(Reason=""GameSpecificReason"",SubReason=""Unknown""),(Reason=""GameSpecificReason"",SubReason=""OSSUnavailable""),(Reason=""GameSpecificReason"",SubReason=""FailedToStartFindConsoleSession"")))
-RealMoneyPurchaseFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,DoNotUploadReasons=(""com.epicgames.catalog_helper.user_cancelled""))"
+PartyJoinFailureLogSubmit=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,Reasons=((Reason="Unknown"),(Reason="UnknownClientFailure"),(Reason="JoinInfoInvalid"),(Reason="NotApproved",SubReason="Unknown"),(Reason="GameSpecificReason",SubReason="Unknown"),(Reason="GameSpecificReason",SubReason="OSSUnavailable"),(Reason="GameSpecificReason",SubReason="FailedToStartFindConsoleSession"),(Reason="NoResponse")))
+RealMoneyPurchaseFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("com.epicgames.catalog_helper.user_cancelled"))
 bAthenaSimVehicles=true
 bUploadAthenaStatsV2=true
 AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-merge"
-TimeBetweenLeaderboardRequestsMinutes=30
 +IronCityWargameTagList=Stat.Mission.Ironcity.Pods
 +IronCityWargameTagList=Stat.Mission.IronCity.Tiki
 +IronCityWargameTagList=Stat.Mission.IronCity.TeleBomb
@@ -376,7 +376,6 @@ MatchmakingRetryInterval=1.f
 +AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-nae.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-nae.ak.epicgames.com")
 +AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-naw.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-naw.ak.epicgames.com")
 +AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-oce.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-oce.ak.epicgames.com")
-bCustomKeyEnabled=false
 [/Script/FortniteGame.FortPlayerController]
 bBuildingPlacementTraceSkipCameraOffsetIfNotInFrontOfPlayer=false
 bRequireTraceToExistingBuildingToSetContext=false
@@ -389,9 +388,6 @@ bLeaveDisconnectedPawnsInGame=false
 +PlatformInvitePermissionLists="PSN:PSN,WIN,MAC,IOS,AND,SWT,XBL"
 +PlatformInvitePermissionLists="XBL:XBL,WIN,MAC,IOS,AND,SWT,PSN"
 +PlatformInvitePermissionLists="SWT:XBL,WIN,MAC,IOS,AND,SWT,PSN"
-UserInfoQueryAggregationTime=3.0
-AutoImportPlatformFriendsRequestsPerInterval=5
-AutoImportPlatformFriendsIntervalSeconds=300
 [/Script/FortniteGame.FortAnalyticsConfig]
 bEnableMeshHeartbeat=false
 [/Script/FortniteGame.FortGameModeAthena]
@@ -402,9 +398,7 @@ CreativeModeGracefulShutdownTime=3600
 MaxActiveAIActors=350
 ReplayStreamerOverride=FortniteDSSReplayStreamer
 bUseZebulonDrones=False
-bEnableRecentPlayersUpdates=false
-bEnableMatchmakingRatingUpdate=false
-bEnableMatchmakingRatingUpdateV2=false
+bEnableRecentPlayersUpdates=true
 [/Script/FortniteGame.FortFerretVehicleConfigs]
 MaxHealthToDestroyProp=199.0
 [/Script/FortniteGame.FortAthenaFerretVehicle]
@@ -445,8 +439,6 @@ VideoStreamSource="Rabbit:ElectraA"
 LeecherCutoff=0.1
 [/Script/FortniteGame.FortControllerComponent_Interaction]
 bInteractTraceStartsAtClosestPointDistance=false
-[/Script/FortniteUI.FortGameFeedbackBase]
-bDisableGameFeedbackAttachments=false
 [AssetHotfix]
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;0;15
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;1;15
@@ -470,3 +462,11 @@ bDisableGameFeedbackAttachments=false
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;752;Count;1
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;752;SortPriority;30044.1
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;752;bIncluded;TRUE
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.ApolloChest.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.GalTreasure.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.ApolloChest.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.GalTreasure.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.ApolloChest.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.GalTreasure.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.ApolloChest.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.GalTreasure.Enabled;0;1
