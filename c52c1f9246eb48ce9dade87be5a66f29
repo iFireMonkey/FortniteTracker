@@ -1,5 +1,5 @@
 [/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=8
+PreloadRevision=0
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -50,7 +50,7 @@ bLiveGameTimeDurationVisible=false
 bEnableUndoPurchase=true
 bSkipPlayingFortniteChecks=false
 bReplaySampleAthenaPawnMovement=true
-bEnableNotifyWhenPlaying=false
+bEnableNotifyWhenPlaying=true
 bShowReplayTrailerButton_Athena=true
 bskipTrailerMovie=true
 bEnableJackalInStw=false
@@ -95,8 +95,6 @@ bMOTDSameNewsForCreative = false
 LiveReplayDiscoverabilityDelay=300.0f
 bGetLiveSessionsfromLeaderboards=false
 bEnableSplitscreenReplayRecording=false
-bEnableLetoSellModal=false
-bEnableStartupSocialImport=false
 !ItemShopOrdering=ClearArray
 +ItemShopOrdering=EFortItemShopSection::RMTItemOffer
 +ItemShopOrdering=EFortItemShopSection::Featured
@@ -117,6 +115,7 @@ ListOfCreatorsURL=""
 TurnOnMfaURL="https://fortnite.com/2fa"
 +PlaylistConditionalFlags=BR_Portals_Enabled
 !CuratedLinkCodes=ClearArray
+PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_Random",(CuratedLinkCodes=("4991-2781-5537","7981-5279-7029","7377-8665-7324"))),("Playlist_Creative_ZebraWallet_Random2",(CuratedLinkCodes=("4991-2781-5537","7981-5279-7029","7377-8665-7324"))))
 +CuratedIslandTemplateCodes=1132-4617-3762
 +CuratedIslandTemplateCodes=7863-7338-1338
 +CuratedIslandTemplateCodes=5181-2495-2371
