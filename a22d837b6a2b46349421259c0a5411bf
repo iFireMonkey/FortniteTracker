@@ -355,20 +355,18 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
-+FrontEndPlaylistData=(PlaylistName= Playlist_Creative_ZebraWallet_Random2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=16))
-+FrontEndPlaylistData=(PlaylistName= Playlist_Creative_ZebraWallet_Random, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=17))
++FrontEndPlaylistData=(PlaylistName= Playlist_Creative_ZebraWallet_Random2, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=16))
++FrontEndPlaylistData=(PlaylistName= Playlist_Creative_ZebraWallet_Random, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=17))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Vamp_Duo, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Bounty_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Vamp_Squad, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Ground_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
 +FrontEndPlaylistData=(PlaylistName= Playlist_Low_Duos, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
 +FrontEndPlaylistData=(PlaylistName= Playlist_HighExplosives_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
-+FrontEndPlaylistData=(PlaylistName= Playlist_SolidGold_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
-+FrontEndPlaylistData=(PlaylistName= Playlist_Snipers_Duos, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
++FrontEndPlaylistData=(PlaylistName= Playlist_Snipers_Duos, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
 +FrontEndPlaylistData=(PlaylistName= Playlist_Wax_Squads, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
 +FrontEndPlaylistData=(PlaylistName= Playlist_SolidGold_Duos, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
 +FrontEndPlaylistData=(PlaylistName= Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10), AccessOverrides=((Regions=("ALL"), Platforms=("IOS","Android"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10))))
-+FrontEndPlaylistData=(PlaylistName= Playlist_GunGame_Reverse, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=18)
 +DynamicSoundData=(Name=Wax_GameEnding_Music_Cue, SoundOverrideType=Cue, Volume=0.4)
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
@@ -450,6 +448,9 @@ ReplayStreamerOverride=FortniteDSSReplayStreamer
 bUseZebulonDrones=False
 bEnableRecentPlayersUpdates=true
 bLockMobilePlayersToTouchInSwitchPool=false
++HotfixKillVolumes=(Center=(X=-36314.000000,Y=-101002.000000,Z=-3564.000000), Extent=(X=640.000000,Y=512.000000,Z=60.000000))
++HotfixKillVolumes=(Center=(X=28264.000000,Y=50792.000000,Z=-2800.000000), Extent=(X=576.000000,Y=576.000000,Z=512.000000))
++HotfixKillVolumes=(Center=(X=29680.000000,Y=52200.000000,Z=-2800.000000), Extent=(X=576.000000,Y=576.000000,Z=512.000000))
 [/Script/FortniteGame.FortFerretVehicleConfigs]
 MaxHealthToDestroyProp=199.0
 [/Script/FortniteGame.FortAthenaFerretVehicle]
@@ -525,14 +526,14 @@ bPerformAutoPromotion=true
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;473;Bincluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;474;Bincluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;475;Bincluded;TRUE
-+CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.ApolloChest.Enabled;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.GalTreasure.Enabled;0;1
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.ApolloChest.Enabled;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.GalTreasure.Enabled;0;1
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.ApolloChest.Enabled;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.GalTreasure.Enabled;0;1
-+CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.ApolloChest.Enabled;0;0
-+CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.GalTreasure.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.ApolloChest.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.GalTreasure.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.ApolloChest.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.GalTreasure.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.ApolloChest.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.GalTreasure.Enabled;0;0
++CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.ApolloChest.Enabled;0;1
++CurveTable=/Game/Athena/Playlists/Respawn/OverrideGameData;RowUpdate;Default.GalTreasure.Enabled;0;0
 +DataTable=/Game/Athena/Playlists/BattleLab/LootOverrides/OverrideLootPackagesDataBackup_Exp;RowUpdate;WorldList.AthenaHighConsumables.60;Weight;2
 +DataTable=/Game/Athena/Playlists/BattleLab/LootOverrides/OverrideLootPackagesDataBackup_Exp;RowUpdate;WorldList.AthenaHighConsumables.60;Count;20
 +DataTable=/Game/Athena/Playlists/BattleLab/LootOverrides/OverrideLootPackagesDataBackup_Exp;RowUpdate;WorldList.AthenaHighConsumables.61;Weight;2
@@ -545,3 +546,77 @@ bPerformAutoPromotion=true
 +DataTable=/Game/Athena/Playlists/BattleLab/LootOverrides/OverrideLootPackagesDataBackup_Exp;RowUpdate;WorldList.AthenaConsumables.50;Count;20
 +DataTable=/Game/Athena/Playlists/BattleLab/LootOverrides/OverrideLootPackagesDataBackup_Exp;RowUpdate;WorldList.AthenaConsumables.51;Weight;2
 +DataTable=/Game/Athena/Playlists/BattleLab/LootOverrides/OverrideLootPackagesDataBackup_Exp;RowUpdate;WorldList.AthenaConsumables.51;Count;20
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;475;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;476;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;477;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;478;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;479;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;480;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;481;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;482;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;483;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;484;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;485;Bincluded;TRUE
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_GalTreasure_01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.A.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.A.01;Count;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.B.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.B.01;Count;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.C.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.C.01;Count;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.D.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.D.01;Count;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.Consumables.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.GalTreasure.Consumables.02;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.02;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.25;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.26;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.27;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.11;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.12;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.13;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.14;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.ApolloLoot.Weapon.Rocket.06;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.ApolloLoot.Weapon.Rocket.07;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Rocket.07;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Rocket.12;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.02;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.25;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.26;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.27;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.11;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.12;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.13;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaLoot.Weapon.HighRocket.14;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.ApolloLoot.Weapon.Rocket.06;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.ApolloLoot.Weapon.Rocket.07;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Rocket.07;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaSupplyDrop.Weapon.Rocket.12;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.03;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.31;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.59;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.49;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.03;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.31;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.59;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.49;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootTierData_Client;RowUpdate;Loot_AthenaFrozen_01;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootTierData_Client;RowUpdate;Loot_AthenaFrozen_01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.01;Weight;1
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.01;Count;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.02;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.03;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.01;Weight;1
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.01;Count;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.02;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.03;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.01;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.32;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaGiftBox.UV.02;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaIceBox.Snowball.01;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaFrozen.32;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaGiftBox.UV.02;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.25;Weight;0
++DataTable=/Game/Items/DataTables/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.22;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaHighConsumables.25;Weight;0
++DataTable=/Game/Athena/Playlists/Playground/AthenaLootPackages_Client;RowUpdate;WorldList.AthenaConsumables.22;Weight;0
