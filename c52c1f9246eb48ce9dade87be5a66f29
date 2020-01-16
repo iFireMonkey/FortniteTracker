@@ -1,5 +1,5 @@
-[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=1
+﻿[/Script/FortniteGame.FortRuntimeOptions]
+PreloadRevision=2
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -87,7 +87,7 @@ bEnableSubregionNetworkAccelerators=true
 +AdvertisedNetworkAcceleratedSubregions=BAH_S
 bEnableLocalNotifications=true
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
-bEnableApolloIntro=true
+bEnableApolloIntro=false
 ApolloIntroQueueTimeoutSeconds=185.0f
 bForceApolloIntroSkipSubgameSelect=true
 bEnableHUDPresetSelection=true
