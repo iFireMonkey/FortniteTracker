@@ -3,3 +3,5 @@ gc.CreateGCClusters=false
 au.DisableDeviceSwap=1
 Fort.EnableFacialAnimation=0
 r.VT.NumTranscodeRequests=32
+r.VT.IOPriority_NormalPagePri=1
+r.VT.IOPriority_HighPagePri=2   

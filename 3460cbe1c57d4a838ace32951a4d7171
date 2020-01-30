@@ -4,6 +4,7 @@ GameThreadHeartBeatStackWalk = false
 LogFortPet=Error
 LogParty=Verbose
 LogMatchmakingServiceClient=Verbose
+LogScriptCore=Error
 [SystemSettings]
 Fort.AutomaticReplayRecording=0
 [ConsoleVariables]
@@ -115,3 +116,5 @@ LoginPortalUrl="/login/`logintype?client_id=`clientid&response_type=code"
 bUsePartySystemV2=true
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2 Embedded]
 TaskAnalyticsRate=1.0
+[OnlineSubsystemMcp.OnlineUserSearchMcp Prod]
+Domain="user-search-service-prod.ol.epicgames.com"

@@ -1,5 +1,5 @@
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=2
+PreloadRevision=3
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -107,6 +107,7 @@ bEnableSplitscreenReplayRecording=false
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::RMTItemOffer,Priority=90)
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::MegaBundle,Priority=80)
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::Featured,Priority=70)
+bEnableLetoSellModal=false
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
@@ -210,11 +211,9 @@ VideoBattlePassName="AutoOpenUpBattlePassPreview"
 +AthenaStarterGameModeB="Playlist_50v50SAU"
 +AthenaStarterGameModeB="Playlist_5x20"
 +AthenaStarterGameModeB="Playlist_Score_Squads"
-+BlacklistedInGameMatchmakingSubRegions="DE"
-+SubRegionWhitelistedInGameMatchmakingPlaylists="Playlist_DefaultDuo"
-+SubRegionWhitelistedInGameMatchmakingPlaylists="Playlist_DefaultSquad"
-+SubRegionWhitelistedInGameMatchmakingPlaylists="Playlist_Respawn_24"
 +HiddenMatchmakingKnobs=CreativeTeamSettings:CharacterOverride
 +HiddenSettings="AnonymousCharacterMode"
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=100,ExperimentNum=500)
+!BlacklistedInGameMatchmakingSubRegions=ClearArray
+!SubRegionWhitelistedInGameMatchmakingPlaylists=ClearArray
