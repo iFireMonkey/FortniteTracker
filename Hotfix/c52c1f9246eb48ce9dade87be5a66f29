@@ -1,5 +1,5 @@
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=3
+PreloadRevision=4
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -87,7 +87,7 @@ bEnableSubregionNetworkAccelerators=true
 +AdvertisedNetworkAcceleratedSubregions=BAH_S
 bEnableLocalNotifications=true
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
-bEnableApolloIntro=false
+bEnableApolloIntro=true
 ApolloIntroQueueTimeoutSeconds=185.0f
 bForceApolloIntroSkipSubgameSelect=true
 bEnableHUDPresetSelection=true
@@ -116,7 +116,7 @@ ListOfCreatorsURL=""
 TurnOnMfaURL="https://fortnite.com/2fa"
 +PlaylistConditionalFlags=BR_Portals_Enabled
 !CuratedLinkCodes=ClearArray
-PlaylistCuratedContent=(("Playlist_Creative_ZebraWallet_Random",(CuratedLinkCodes=("4991-2781-5537","7981-5279-7029","7377-8665-7324"))),("Playlist_Creative_ZebraWallet_Random2",(CuratedLinkCodes=("4991-2781-5537","7981-5279-7029","7377-8665-7324"))))
+!CuratedIslandTemplateCodes=ClearArray
 +CuratedIslandTemplateCodes=1132-4617-3762
 +CuratedIslandTemplateCodes=7863-7338-1338
 +CuratedIslandTemplateCodes=5181-2495-2371
@@ -215,5 +215,3 @@ VideoBattlePassName="AutoOpenUpBattlePassPreview"
 +HiddenSettings="AnonymousCharacterMode"
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=100,ExperimentNum=500)
-!BlacklistedInGameMatchmakingSubRegions=ClearArray
-!SubRegionWhitelistedInGameMatchmakingPlaylists=ClearArray
