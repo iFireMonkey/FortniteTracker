@@ -34,6 +34,7 @@ Creative.InstanceCostMultiplier=1.0
 Creative.AssetCostMultiplier=1.05
 CreativeBudgetTracker.PerformIsLoadedTest=1
 Phoebe.EnsureOnCacheSenseConfigValidity=0
+p.HackMaxVelocity2=2500
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
