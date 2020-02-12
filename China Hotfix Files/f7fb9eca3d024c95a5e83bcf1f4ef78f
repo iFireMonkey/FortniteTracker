@@ -108,6 +108,9 @@
 +TextReplacements=(Category=Game, Namespace="", Key="2728CA4F48AADA59BD939F8F1B8C0706", NativeString="Last Available Over 300 Days Ago!",LocalizedStrings=(("ar","باقة النذير متوفرة الآن!"),("en","Harbinger Bundle Available Now!"),("de","Vorboten-Paket jetzt erhältlich!"),("es","¡Ya está disponible el lote Heraldo!"),("es-419","¡El lote Heraldo ya está disponible!"),("fr","Pack Héraut disponible !"),("it","Bundle Araldo disponibile ora!"),("ja","「先駆者」バンドル販売中！"),("ko","전령 번들 지금 이용 가능!"),("pl","Zestaw Zwiastun już w grze!"),("pt-BR","Pacotão Prenúncio Já Disponível!"),("ru","Комплект «Дыхание зимы» уже доступен!"),("tr","Kara Viking Paketi Şimdi Oyunda!"),("zh-CN","预示套组现已推出！"),("zh-Hant","預示套組現已推出！")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="CFF1A19445A106EA517E95A9DACC1520", NativeString="Second Sight", LocalizedStrings=(("zh-CN","灵视"),("zh-Hant","靈視")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="Fort.InputData", Key="AlternateInteractCarry", NativeString="Object Carry", LocalizedStrings=(("ar","حمل الغرض / ترقية نوع السلاح"),("en","Object Carry / Sidegrade"),("de","bjekt tragen / Waffe umfunktionieren"),("es","Cargar objeto / Cambiar a mejor"),("es-419","Cargar objeto / Cambiar a mejor"),("fr","Porter un objet / Remplacer par un équivalent"),("it","Trasporto oggetto / Mutamento arma "),("ja","オブジェクト 運ぶ / サイドグレード"),("ko","사물 들기 / 사이드그레이드"),("pl","Niesienie przedmiotu / Wymień broń"),("pt-BR","Carregar Objeto/Substituir"),("ru","Нести предмет / Модифицировать оружие"),("tr","Nesne Taşı / Değiştir"),("zh-CN","物品携带/转换武器"),("zh-Hant","物品攜帶/轉換武器")))
++TextReplacements=(Category=Game, Namespace="", Key="AC1E7A1349AB80D63BFF31A642006C54", NativeString="Special Featured",LocalizedStrings=(("ar","الحب والحرب"),("en","Love & War"),("de","Liebe und Krieg"),("es","Amor y guerra"),("es-419","Amor y guerra"),("fr","Amour et guerre"),("it","Amore e guerra"),("ja","ラブ&ウォー"),("ko","사랑과 전쟁"),("pl","Miłość i Wojna"),("pt-BR","Amor e Guerra"),("ru","Любовь и война"),("tr","Aşk ve Savaş"),("zh-CN","为爱而战"),("zh-Hant","為愛而戰")))
++TextReplacements=(Category=Game, Namespace="", Key="959A8D144AE73C5A2B8A5DAA7E76F0D5", NativeString="All styles shown here are included with purchase and can be changed at any time in the Locker.",LocalizedStrings=(("ar","يمكن تحديد جميع الأنماط المتاحة في الخزانة في أي وقت. قد تحتاج بعض الأنماط إلى فتحها قبل الاستخدام."),("en","All available styles may be selected in the Locker at any time. Some styles may need to be unlocked before use."),("de","Alle verfügbaren Stile können jederzeit im Spind ausgewählt werden. Manche Stile müssen freigeschaltet werden, um verwendet werden zu können."),("es","Todos los estilos disponibles se pueden seleccionar en cualquier momento desde la taquilla. Algunos estilos tienen que desbloquearse para poder usarlos."),("es-419","Todos los estilos disponibles se pueden seleccionar en el casillero en cualquier momento. Algunos estilos deben desbloquearse para poder usarse."),("fr","Les styles disponibles peuvent être sélectionnés dans le casier à tout moment. Certains styles peuvent nécessiter d'être déverrouillés avant d'être utilisés."),("it","Tutti gli stili disponibili possono essere selezionati in qualunque momento dall'armadietto. Alcuni stili dovranno essere sbloccati prima dell'uso."),("ja","すべての使用可能なスタイルはロッカーでいつでも選択できます。一部のスタイルは使用前にアンロックする必要がある場合があります。"),("ko","이용 가능한 스타일들 모두 보관함에서 언제든지 선택할 수 있습니다. 일부 스타일들은 잠금 해제 후에 사용할 수 있습니다."),("pl","Wszystkie dostępne style można w każdej chwili wybrać z poziomu Szafki. Niektóre style trzeba jednak najpierw odblokować."),("pt-BR","Você pode selecionar os estilos disponíveis a qualquer momento no Vestiário. Alguns estilos precisam ser desbloqueados."),("ru","Все доступные стили могут быть выбраны в шкафчике. Некоторые стили сначала нужно открыть."),("tr","Var olan tarzların hepsi Dolabım'dan istenildiği zaman seçilebilir. Fakat bazı tarzların kullanılabilmesi için kilidinin açılması gerekir."),("zh-CN","可以随时在仓库中选择所有可用样式。某些样式可能需要先解锁才能使用。"),("zh-Hant","可以隨時在倉庫中選擇所有可用樣式。某些樣式可能需要先解鎖才能使用。")))
++TextReplacements=(Category=Game, Namespace="", Key="4B93016D4D10C7E719A3B997D8388217", NativeString="Great Value!",LocalizedStrings=(("ar","الأنماط!"),("en","Styles!"),("de","Stile!"),("es","¡Estilos!"),("es-419","¡Estilos!"),("fr","Styles !"),("it","Con stili diversi!"),("ja","スタイル！"),("ko","스타일!"),("pl","Style!"),("pt-BR","Estilos!"),("ru","Стили!"),("tr","Tarzlar! "),("zh-CN","风格！"),("zh-Hant","風格！")))
 [/Script/FortniteGame.FortGameInstance]
 bBattleRoyaleMatchmakingEnabled=true
 !DynamicSoundData=ClearArray
@@ -120,7 +123,7 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, bInvisibleWhenEnabled=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_BattleLab, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=True, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
 +FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
-+FrontEndPlaylistData=(PlaylistName= Playlist_Respawn_24, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=true, CategoryIndex=2, DisplayPriority=9), AccessOverrides=((Regions=("CN"), Platforms=("ALL"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=true, DisplayPriority=9))))
++FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
 +FrontEndPlaylistData=(PlaylistName=Playlist_50v50, PlaylistAccess=(bEnabled=False, bIsDefaultPlaylist=true, CategoryIndex=2, bDisplayAsLimitedTime=true, DisplayPriority=10))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
@@ -177,6 +180,8 @@ DivebombSpeedMinKmh=40.0
 DivebombSpeedMaxKmh=150.0
 DivebombSteerPitchRate=115.0
 DivebombHeadingMatchRate=70.0
+[/Script/FortniteGame.FortAthenaVehicle]
+ImpulseResponseMultiplier=0.0f
 [/Script/FortniteGame.FortCreativeBudgeterData]
 +SavedClassLimits=(ActorClass=/Game/Creative/Devices/Jukebox/BP_CreativeRadio.BP_CreativeRadio_C, MaxNumberOfInstances=11)
 +SavedClassLimits=(ActorClass=/Game/Creative/Devices/Billboard/BP_Creative_Billboard.BP_Creative_Billboard_C, MaxNumberOfInstances=500)
@@ -249,7 +254,18 @@ bInteractTraceStartsAtClosestPointDistance=false
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;200;Bincluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;201;Bincluded;TRUE
 +DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;202;Bincluded;TRUE
-+DataTable=/Game/Athena/Playlists/OverrideLootPackagesData;RowUpdate;WorldList.AthenaHighConsumables.28;Weight;0
-+DataTable=/Game/Athena/Playlists/OverrideLootPackagesData;RowUpdate;WorldList.AthenaConsumables.24;Weight;0
-+DataTable=/Game/Athena/Playlists/Respawn/OverrideLootPackagesData;RowUpdate;WorldList.AthenaHighConsumables.28;Weight;0
-+DataTable=/Game/Athena/Playlists/Respawn/OverrideLootPackagesData;RowUpdate;WorldList.AthenaConsumables.24;Weight;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Vehicle.Meatball.ShouldPickaxeImpulse;0;0
++CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Vehicle.Meatball.Missile.ShouldLaunchBoats;0;0
+CH2S2SourceUS=REDACTED
+CH2S2SourceGB=REDACTED
+CH2S2SourceFR=REDACTED
+CH2S2SourceDE=REDACTED
+CH2S2SourceJP=REDACTED
+CH2S2SourceMX=REDACTED
+CH2S2SourceES=REDACTED
+CH2S2SourceBR=REDACTED
+CH2S2SourceIT=REDACTED
+CH2S2SourcePL=REDACTED
+CH2S2SourceRU=REDACTED
+CH2S2SourceSA=REDACTED
+CH2S2SourceAU=REDACTED
