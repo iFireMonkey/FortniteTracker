@@ -30,6 +30,7 @@ Fort.CheckTurboBuildTimerForClicking=1
 CreativeIslandSelect.ShowTemplateIslands=1
 Creative.EnablePreviewScreenshot=1
 Fort.ReleaseUseIfNotInteracting=0
+fort.HUD.ContextualChallenges.MaximumAmountOfChallenges=4
 Creative.InstanceCostMultiplier=1.0
 Creative.AssetCostMultiplier=1.05
 CreativeBudgetTracker.PerformIsLoadedTest=1
@@ -53,6 +54,8 @@ bDeletePingAfterJoin=false
 ConfiguredInternetSpeed=200000
 [Voice]
 bLiveStreamVoiceEnabled=true
+[/Game/Athena/HUD/Inventory/AthenaInventoryPanel.AthenaInventoryPanel_C]
+bEnableChannelBrowser=True
 [/Script/Qos.QosRegionManager]
 NumTestsPerRegion=5
 PingTimeout=3.0

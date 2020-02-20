@@ -1,5 +1,5 @@
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=4
+PreloadRevision=5
 bShowAthenaFeaturedItemToast=false
 bShowAthenaDailyItemToast=false
 bDisableBacchusFriendCodeSharing=True
@@ -52,7 +52,6 @@ bSkipPlayingFortniteChecks=false
 bReplaySampleAthenaPawnMovement=true
 bEnableNotifyWhenPlaying=true
 bShowReplayTrailerButton_Athena=true
-bskipTrailerMovie=true
 bEnableJackalInStw=false
 NewMtxStoreCohortSampleSet=100
 AnalyticsClientEngagementsTimeoutSeconds=15.0
@@ -69,6 +68,8 @@ LevelToAutoOpenBattlePassOnNewSeason=0
 bEnableGeneratedScreenshotForPortalPreview=true
 bEnableSocialBanModal=true
 bEnableChallengeHolidayVideo=false
+FTUESeasonTrailerBoundary = 59.042
+AthenaNavMeshGeneratorMaxTimeSliceDuration=0.002
 bEnableGuidedTutorial=false
 TriagedApolloIntro_NewPlayers_MaxLevel=99999
 bEnableReplayBrowser=true
@@ -79,7 +80,7 @@ FadeOutTeamIndicatorsAfter=27500
 bEnableLiveStreamInMatch=false
 bShowLiveStreamInMatchByDefault=false
 bEnableLiveStream=false
-bEnableRiskyReelsStreaming=true
+StreamPlaylistFetchMethodOrder=1
 bEnableSubregionNetworkAccelerators=true
 !DisabledNetworkAcceleratedSubregions=ClearArray
 !AdvertisedNetworkAcceleratedSubregions=ClearArray
@@ -87,7 +88,7 @@ bEnableSubregionNetworkAccelerators=true
 +AdvertisedNetworkAcceleratedSubregions=BAH_S
 bEnableLocalNotifications=true
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
-bEnableApolloIntro=true
+bEnableApolloIntro=false
 ApolloIntroQueueTimeoutSeconds=185.0f
 bForceApolloIntroSkipSubgameSelect=true
 bEnableHUDPresetSelection=true
@@ -102,6 +103,7 @@ bEnableSplitscreenReplayRecording=false
 +ItemShopOrdering=EFortItemShopSection::SpecialFeatured
 +ItemShopOrdering=EFortItemShopSection::SpecialDaily
 +ItemShopOrdering=EFortItemShopSection::Standalone
++ItemShopOrdering=EFortItemShopSection::BattlePass
 !ItemShopDefaultLandingPriority=ClearArray
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::SpecialFeatured,Priority=100)
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::RMTItemOffer,Priority=90)
@@ -114,7 +116,7 @@ ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
 TurnOnMfaURL="https://fortnite.com/2fa"
-+PlaylistConditionalFlags=BR_Portals_Enabled
++PlaylistConditionalFlags=BR_No_Portals_Enabled
 !CuratedLinkCodes=ClearArray
 PlaylistCuratedContent=(("Playlist_Creative_SourDropper",(CuratedLinkCodes=("1821-4783-3483"))),("Playlist_Creative_SourDropper_2",(CuratedLinkCodes=("6504-5976-2958"))),("Playlist_Showdown_SourDropper",(CuratedLinkCodes=("3205-1511-0816","6131-1337-2496"))))
 !CuratedIslandTemplateCodes=ClearArray
@@ -174,8 +176,6 @@ PlaylistCuratedContent=(("Playlist_Creative_SourDropper",(CuratedLinkCodes=("182
 +DisabledMatchmakingKnobs="FortPlayerSettingsComponentBase:RespawnHeight"
 +DisabledMatchmakingKnobs="FortPlayerSettingsComponentBase:NumAIKillsForEndCondition"
 VideoBattlePassName="AutoOpenUpBattlePassPreview"
-!bShowFeaturedReplays=ClearArray
-!WhitelistedReplayCLs=ClearArray
 !AthenaStarterGameMode=ClearArray
 +AthenaStarterGameMode="Playlist_DefaultSquad"
 +AthenaStarterGameMode="Playlist_Disco_32"
@@ -217,3 +217,4 @@ VideoBattlePassName="AutoOpenUpBattlePassPreview"
 +HiddenSettings="AnonymousCharacterMode"
 !ExperimentalCohortPercent=ClearArray
 +ExperimentalCohortPercent=(CohortPercent=100,ExperimentNum=500)
++ExperimentalCohortPercent=(CohortPercent=80,ExperimentNum=2)
