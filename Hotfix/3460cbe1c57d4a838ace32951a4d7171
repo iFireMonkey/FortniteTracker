@@ -5,6 +5,7 @@ LogFortPet=Error
 LogParty=Verbose
 LogMatchmakingServiceClient=Verbose
 LogScriptCore=Error
+LogStreamableManager=Error
 [SystemSettings]
 Fort.AutomaticReplayRecording=0
 [ConsoleVariables]
@@ -36,6 +37,7 @@ Creative.AssetCostMultiplier=1.05
 CreativeBudgetTracker.PerformIsLoadedTest=1
 Phoebe.EnsureOnCacheSenseConfigValidity=0
 p.HackMaxVelocity2=2500
+Analytic.bFlushPlaylistEventsOnMatchmaking=true
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
