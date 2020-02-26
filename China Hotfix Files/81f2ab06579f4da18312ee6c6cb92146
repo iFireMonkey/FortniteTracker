@@ -4,6 +4,7 @@ GameThreadHeartBeatStackWalk = false
 LogAudio=Error
 LogFortPet=Error
 LogScriptCore=Error
+LogStreamableManager=Error
 [SystemSettings]
 Fort.AutomaticReplayRecording=0
 [ConsoleVariables]
@@ -34,6 +35,7 @@ Creative.InstanceCostMultiplier=1.0
 Creative.AssetCostMultiplier=1.05
 CreativeBudgetTracker.PerformIsLoadedTest=1
 Phoebe.EnsureOnCacheSenseConfigValidity=0
+fort.HUD.ContextualChallenges.MaximumAmountOfChallenges=4
 net.AllowEncryption=1
 AudioThread.WaitWarningThresholdMs=35000
 Fort.ForceDisableVideoPlayback=1
@@ -73,3 +75,5 @@ HttpFlushTimeout=0.0
 SceneLimit=65535
 [OnlineSubsystemMcp.OnlinePresenceMcp]
 bQueryLastOnlineDate=false
+[/Game/Athena/HUD/Inventory/AthenaInventoryPanel.AthenaInventoryPanel_C]
+bEnableChannelBrowser=True

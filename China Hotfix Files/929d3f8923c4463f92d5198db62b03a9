@@ -1,5 +1,5 @@
 [/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=4
+PreloadRevision=5
 bEnableContentControls=false
 bEnableUserProfilePictures=false
 bEnableNotifyWhenPlaying=false
@@ -38,23 +38,25 @@ bEnableLiveStoreTilePreviews=false
 bEnableMobileMainMenuBackToTitle=false
 bCreateEpicAccountPinGrantDisabled=true
 ApolloIntroQueueTimeoutSeconds=185.0f
-bEnableApolloIntro = true
+bEnableApolloIntro=false
 bForceApolloIntroSkipSubgameSelect=true
 TriagedApolloIntro_NewPlayers_MaxLevel = 99999
 LevelToAutoOpenBattlePassOnNewSeason=0
 bEnableSplitscreenReplayRecording=false
 bEnableLetoSellModal=false
+bEnableCNVideo=true
 FadeOutTeamIndicatorsAfter=27500
-bskipTrailerMovie=true
 bShowAthenaStoreToast=true
 bEnableMassFriendImport=false
 bEnableBattlePassGiftingButton=false
 bEnableBPVideo=false
-bShowBPVideoUpsell=false
 bEnableReplayBrowser=true
 bEnableGeneratedScreenshotForPortalPreview=true
 bEnableChallengeHolidayVideo=false
 bEnableRiskyReelsStreaming=false
+AthenaNavMeshGeneratorMaxTimeSliceDuration=0.002
+FTUESeasonTrailerBoundary = 59.042
+StreamPlaylistFetchMethodOrder=1
 IslandCodeLinkURLText=""
 CreativePublishCodeURLPrefix=""
 LobbyGenericLinkButtonURL="https://fn.qq.com/webplat/info/news_version3/10021/34544/34546/m20913/201908/826731.shtml"
@@ -65,8 +67,7 @@ LobbyGenericLinkButtonURL="https://fn.qq.com/webplat/info/news_version3/10021/34
 +AthenaStarterGameModeB="Playlist_DefaultSolo"
 +AthenaStarterGameModeB="Playlist_Respawn_24"
 AnalyticsClientEngagementsTimeoutSeconds=15.0
-!WhitelistedReplayCLs=ClearArray
-+PlaylistConditionalFlags=BR_Portals_Enabled
++PlaylistConditionalFlags=BR_No_Portals_Enabled
 !DisabledMatchmakingKnobs=ClearArray
 +DisabledMatchmakingKnobs="CreativeMutator_RespawnLocation:RespawnHeight"
 +DisabledMatchmakingKnobs="PlaygroundMutator_RespawnLocation:RespawnHeight"
@@ -105,6 +106,7 @@ MaxQuickScopeAimAssistPulls=2
 +ItemShopOrdering=EFortItemShopSection::SpecialFeatured
 +ItemShopOrdering=EFortItemShopSection::SpecialDaily
 +ItemShopOrdering=EFortItemShopSection::Standalone
++ItemShopOrdering=EFortItemShopSection::BattlePass
 !ItemShopDefaultLandingPriority=ClearArray
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::SpecialFeatured,Priority=100)
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::RMTItemOffer,Priority=90)
@@ -128,6 +130,7 @@ bEnableEULA=false
 bShowCustomerSupport=true
 bShowVoiceChatSettings=true
 FlushLoadingScreenRefreshSeconds=2.5
++ExperimentalCohortPercent=(CohortPercent=80,ExperimentNum=2)
 !CuratedLinkCodes=ClearArray
 [/Script/FortniteGame.FortGameModeAthena]
 bDisableVoiceChat=false
