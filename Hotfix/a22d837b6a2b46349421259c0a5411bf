@@ -184,6 +184,15 @@
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="GamePhaseChanging", Key="StormFormingIn", NativeString="STORM FORMING IN", LocalizedStrings=(("ar","تتكون العاصفة خلال"),("de","STURM BRAUT SICH ZUSAMMEN IN"),("es","Se avecina una tormenta"),("es-419","SE FORMARÁ UNA TORMENTA EN"),("fr","FORMATION DE LA TEMPÊTE DANS"),("it","TEMPESTA IN ARRIVO TRA"),("ja","ストームの発生まで"),("ko","폭풍 생성까지"),("pl","BURZA UFORMUJE SIĘ ZA"),("pt-BR","TEMPESTADE FORMANDO-SE EM"),("ru","ДО ПОЯВЛЕНИЯ БУРИ:"),("tr","FIRTINANIN OLUŞMASINA"),("zh-CN","训练信号变化倒计时")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="AthenaSeasonItemDefinitionInternal", Key="ChapterTextFormat", NativeString="Chapter {0}", LocalizedStrings=(("de","Kapitel {0}"),("es","Capítulo {0}"),("es-419","Capítulo {0}"),("fr","Chapitre {0}"),("it","Capitolo {0}"),("ja","チャプター{0}"),("ko","   제{0}막"),("pl","Rozdział {0}"),("pt-BR","Capítulo {0}"),("ru","Глава {0}"),("tr","{0}. Bölüm"),("zh-CN","第{0}章")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="AthenaSeasonItemDefinitionInternal", Key="SeasonTextFormat", NativeString="Season {0}", LocalizedStrings=(("de","Saison {0}"),("es","Temporada {0}"),("es-419","Temporada {0}"),("fr","Saison {0}"),("it","Stagione {0}"),("ja","シーズン{0}"),("ko","시즌 {0}"),("pl","   Sezon {0}"),("pt-BR","Temporada {0}"),("ru","Сезон {0}"),("tr","{0}. Sezon"),("zh-CN","第{0}赛季")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="06B151E443442C47417399953F8C143C", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="2EA10F554AF3FBB73EC988A2A2C2835A", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="3ACB7D6A43E455705FDBD68660E68D62", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="48E5BB40492BD06DA40C608223C1B1A4", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="5376B5D9415109D206AD818C5252E1A8", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="7E16932A45F661BE79F831BA4891478D", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="86EBD04748E869525AEB3ABFE2A5BB2F", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="86FEFB5647E8D36BB0B04AA243F56DC6", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="94F745E84584BEC623B714A466453D3C", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
 [/Script/FortniteGame.FortGameInstance]
 KairosMinSupportedAppVersion=20
 bBattleRoyaleMatchmakingEnabled=true
@@ -207,8 +216,8 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName= Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10), AccessOverrides=((Regions=("ALL"), Platforms=("IOS","Android"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10))))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Creative_SourDropper, PlaylistAccess=(bEnabled=false, CategoryIndex=2 AdvertiseType=New, DisplayPriority=11))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Creative_SourDropper_2, PlaylistAccess=(bEnabled=false, CategoryIndex=2 AdvertiseType=New, DisplayPriority=12))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Low_Duos, PlaylistAccess=(bEnabled=True, CategoryIndex=2, DisplayPriority=13))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Close_Squad, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=13))
++FrontEndPlaylistData=(PlaylistName=Playlist_Low_Duos, PlaylistAccess=(bEnabled=false, CategoryIndex=2, DisplayPriority=13))
++FrontEndPlaylistData=(PlaylistName=Playlist_Close_Squad, PlaylistAccess=(bEnabled=true, CategoryIndex=2, DisplayPriority=13))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Blitz_Squad, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=13))
 +FrontEndPlaylistData=(PlaylistName=Playlist_HighExplosives_Solo, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=13))
 +DynamicSoundData=(Name=S12_Transition_01_Cue, SoundOverrideType=Cue, Volume=1.13)
