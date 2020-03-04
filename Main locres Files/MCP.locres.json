@@ -88,7 +88,7 @@
     "6C8191F04B573EB710F88C8BFDDABCD2": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Keep the competition in your sights with the Iris Pack.</>\r\nIncludes the following:",
     "E58592C04BE9727FB54513974E0311DE": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Purchase the 2020 Annual Pass and receive all upcoming 2020 Fortnite Battle Royale: Battle Bundles (Battle Pass with 25% unlocked instantly) and 7 Annual Pass exclusive cosmetics.</>\r\nincludes the following:",
     "5FC33E4349792107E5D2398C58B6ACAE": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Put the competition on ice with the Polar legends pack.</>\r\nIncludes the following cosmetics:",
-    "AF65F140421F20041E9618B7DB8815D7": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Side effects may vary with the Slurp legends pack.</>\r\nIncludes the following cosmetics:",
+    "AF65F140421F20041E9618B7DB8815D7": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Side effects may vary with the Slurp Legends pack.</>\r\nIncludes the following cosmetics:",
     "C2B5AC404F11DA63F6209EAA17C43159": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Stay frosty this season with the Frozen Legends pack!</>\r\nIncludes:",
     "54211715433CE934B6732D9AE9D20729": "<text color=\"FFFFFFFF\" fontface=\"black\" size=\"20\" Case=\"AllCaps\">Take on the challenges issued by the Fallen Love Ranger and earn up to 2,000 V-Bucks! </>\r\nThis pack contains:",
     "F3110F144F373D58BDE95294EE72D496": "<text color=\"FFFFFFFF\" fontface=\"black\">Astra</> outfit (includes additional style) + <text color=\"FFFFFFFF\" fontface=\"black\">Shining Star</> Back bling",
@@ -1435,6 +1435,7 @@
     "OfferDef_62A4A2700D59459A8CAF695E550B99A9_Description": "Guarantees at least one Epic or better limited time Military weapon or Hero!",
     "OfferDef_91C93FFB3272442EB29CCA6019F2AD3C_Description": "Guarantees at least one Epic or better limited time Scavenger weapon or Hero!",
     "OfferDef_AC6013F3413F46D6BA8EF1C1B322CE65_Description": "Guarantees at least one Epic or better limited time Sci-Fi weapon or Hero!",
+    "OfferDef_4ED60A3BAB7D4201A59FD846E9CC0621_Description": "Guarantees at least one Epic or better limited time Spy weapon or Hero!",
     "OfferDef_3D34BF766FF4476D840536DE77CB2C07_Description": "Guarantees at least one Epic or better limited time Steampunk weapon or Hero!",
     "OfferDef_B49075C49F25458BB823BC7D964F477C_Description": "Guarantees at least one Epic or better limited time Steampunk weapon or Hero!",
     "OfferDef_BE054C0450C540308BD803F403C0377B_Description": "Guarantees at least one Epic or better limited time Steampunk weapon or Hero!",
@@ -1591,6 +1592,7 @@
     "OfferDef_D4EFA0B5ACBC4AC6BAC02026BA8DCC32_Title": "Smörgåsbord Llama",
     "OfferDef_F56C37E7806B469BA25CE0302BA9A8F1_Title": "Smörgåsbord Llama",
     "OfferDef_C6853AD49332469BA6CC582C7F84066E_Title": "Spring Llama",
+    "OfferDef_4ED60A3BAB7D4201A59FD846E9CC0621_Title": "Spy Llama",
     "OfferDef_48DC9478462A5DCD3D93EBB81D4488AB_Title": "Standard Founder's Pack",
     "OfferDef_9F5895BB46EEF32197FD30B2B8BD34B3_Description": "Start a digital revolution and take on Breakpoint's challenges to earn up to 1,000 V-Bucks!",
     "OfferDef_917A7A14466225C5EBBC7DBE00A63D70_Description": "Stay frosty this season with the Frozen Legends pack!",
@@ -1671,8 +1673,6 @@
     "OfferDef_4ACEBD1E65E344F7903CFAF9A886B6FC_Description": "Yes, it's a people delivery llama. Just make your purchase and move along. Contains at least 7 people. Somehow.",
     "OfferDef_4B77BC29403D49ACA0B84C2617583FB6_Description": "Yes, it's a people delivery llama. Just make your purchase and move along. Contains at least 7 people. Somehow.",
     "OfferDef_988D79D2064B48B8A24D097816A1C6EA_Description": "Yes, it's a people delivery llama. Just make your purchase and move along. Contains at least 7 people. Somehow.",
-    "OfferDef_CE47CEFB5D0A49EB9BC27D54B7DBFAD5_Description": "Yes, it's a people delivery llama. Just make your purchase and move along. Contains at least 7 people. Somehow.",
-    "OfferDef_4ED60A3BAB7D4201A59FD846E9CC0621_Description": "[PH] Description for a Llama",
-    "OfferDef_4ED60A3BAB7D4201A59FD846E9CC0621_Title": "[PH] Llama"
+    "OfferDef_CE47CEFB5D0A49EB9BC27D54B7DBFAD5_Description": "Yes, it's a people delivery llama. Just make your purchase and move along. Contains at least 7 people. Somehow."
   }
 }
