@@ -37,6 +37,7 @@ Creative.AssetCostMultiplier=1.05
 CreativeBudgetTracker.PerformIsLoadedTest=1
 Phoebe.EnsureOnCacheSenseConfigValidity=0
 p.HackMaxVelocity2=2500
+au.BypassAllSubmixEffects=0
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
@@ -122,3 +123,5 @@ bUsePartySystemV2=true
 TaskAnalyticsRate=1.0
 [OnlineSubsystemMcp.OnlineUserSearchMcp Prod]
 Domain="user-search-service-prod.ol.epicgames.com"
+[OnlineTracing]
+bEnabled=false
