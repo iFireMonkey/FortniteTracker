@@ -32,6 +32,9 @@ CreativeIslandSelect.ShowTemplateIslands=1
 Creative.EnablePreviewScreenshot=1
 Fort.ReleaseUseIfNotInteracting=0
 fort.HUD.ContextualChallenges.MaximumAmountOfChallenges=4
+fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationX=-120000.f
+fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationY=-80000.f
+fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationZ=7956.f
 Creative.InstanceCostMultiplier=1.0
 Creative.AssetCostMultiplier=1.05
 CreativeBudgetTracker.PerformIsLoadedTest=1
@@ -126,30 +129,9 @@ Domain="user-search-service-prod.ol.epicgames.com"
 [OnlineTracing]
 bEnabled=false[/Script/Account.OnlineAccountCommon]
 NonFatalErrors="AuthFailed_InvalidMFA AuthFailed_RefreshInvalid AuthFailed_RequiresMFA AuthParentalLock Console_AddedAuthAssociation Console_DuplicateAuthAssociation Console_LoginFailed Console_MissingAuthAssociation Console_NotEntitled EULACheckFailed ExternalAuth_AddedAuthAssociation ExternalAuth_AssociationFailure ExternalAuth_MissingAuthAssociation NotStarted NotEntitled Pending ServiceUnavailable Success"
-[/Script/FortniteGame.FortGlobals]
-bDisableElectraForReplayCinematicOnWin7AndWin8=false
-bDisableElectraForReplayCinematicOnWin7=false
 [/Script/FortniteGame.FortBadMatchTriggers]
 bAllowForcedPerformanceReport=false
 bUploadAllCsvs=true[/Script/FortniteGame.FortTextHotfixConfig]
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="06B151E443442C47417399953F8C143C", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="2EA10F554AF3FBB73EC988A2A2C2835A", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="3ACB7D6A43E455705FDBD68660E68D62", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="48E5BB40492BD06DA40C608223C1B1A4", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="5376B5D9415109D206AD818C5252E1A8", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="7E16932A45F661BE79F831BA4891478D", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="86EBD04748E869525AEB3ABFE2A5BB2F", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="86FEFB5647E8D36BB0B04AA243F56DC6", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="94F745E84584BEC623B714A466453D3C", NativeString="Find Deadpool's chimichangas around HQ", LocalizedStrings=(("ar","اعثر على شطائر ديدبول في أرجاء المقر الرئيسي")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="4536D2AB4C420F7FFD5DDDB4DFF71D17", NativeString="[PH] Decreases <HeroAbility>Gadget</> <ModifiedAttribute>Cooldowns</> by <Number>[Ability.Line1]%</>.", LocalizedStrings=(("en","Decreases <HeroAbility>Gadget</> <ModifiedAttribute>Cooldowns</> by <Number>[Ability.Line1]%</>."),("de","Verringert die <ModifiedAttribute>Abklingzeit</> von <HeroAbility>Gadgets</> um <Number>[Ability.Line1]%</>."),("es","Reduce el <HeroAbility>enfriamiento</> de <ModifiedAttribute>los artilugios</> en un <Number>[Ability.Line1] %</>."),("es-419","Disminuye los <ModifiedAttribute>tiempos de reutilización</> de los <HeroAbility>artefactos</> un <Number>[Ability.Line1] %</>."),("it","Riduce i <ModifiedAttribute>recuperi</> dei <HeroAbility>Gadget</> di <Number>[Ability.Line1]%</>."),("ja","<HeroAbility>ガジェット</>の<ModifiedAttribute>クールダウン</>を<Number>[Ability.Line1]%</>減らす。"),("ko","<HeroAbility>기능성 도구</>의 <ModifiedAttribute>재사용 대기시간</>이 <Number>[Ability.Line1]%</> 감소합니다."),("pt-BR","Reduz os <ModifiedAttribute>Tempos de Recarga</> das <HeroAbility>Engenhocas</> em <Number>[Ability.Line1]%</>."),("ru","Сокращает <ModifiedAttribute>время перезарядки</> <HeroAbility>гаджетов</> на <Number>[Ability.Line1]%</>."),("tr","<HeroAbility>Cihazların</> <ModifiedAttribute>bekleme süresini</> <Number>%[Ability.Line1]</> azaltır.")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="B8C1DF664314708D33489EB5D07C5B11", NativeString="Destroy SHADOW Dropboxes", LocalizedStrings=(("ar","دمّر صناديق إمدادات الظل باستخدام المتفجرات"),("en","Destroy SHADOW Dropboxes using explosives"),("de","Zerstöre SHADOW-Übergabekästen mit Explosionswaffen"),("es","Destruye las cajas de entrega de SOMBRA usando explosivos"),("es-419","Destruye las cajas de entrega de SOMBRA usando explosivos"),("fr","Détruire des ravitaillements de l'Ombre en utilisant des explosifs"),("it","Distruggi le casse delle OMBRE usando gli esplosivi"),("ja","シャドーのドロップボックスを爆破武器で破壊する"),("ko","폭발물을 사용하여 섀도우 전용 보급품 파괴"),("pl","Zniszcz skrytki MROKU przy użyciu materiałów wybuchowych"),("pt-BR","Destrua Caixas de Entrega SOMBRA usando explosivos"),("ru","Уничтожьте ящики «ТЕНИ»"),("tr","Patlayıcıları kullanarak KARANLIK destek kutularını yok et"),("zh-CN","摧毁暗影方投递箱"),("zh-Hant","摧毀暗影方投遞箱")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="0ECEE1A84BA648AC9C2489BA67B47FB9", NativeString="Destroy GHOST Dropboxes", LocalizedStrings=(("ar","دمّر صناديق إمدادات الشبح باستخدام المتفجرات"),("en","Destroy GHOST Dropboxes using explosives"),("de","Zerstöre GHOST-Übergabekästen mit Explosionswaffen"),("es","Destruye cajas de entrega de ESPECTRO usando explosivos"),("es-419","Destruye cajas de entrega de ESPECTRO usando explosivos"),("fr","Détruire des ravitaillements du Fantôme en utilisant des explosifs"),("it","Distruggi le casse degli SPETTRI usando gli esplosivi"),("ja","ゴーストのドロップボックスを爆破武器で破壊する"),("ko","폭발물을 사용하여 고스트 전용 보급품 파괴"),("pl","Zniszcz skrytki DUCHA przy użyciu materiałów wybuchowych"),("pt-BR","Destrua Caixas de Entrega ESPECTRO usando explosivos"),("ru","Уничтожьте ящики «ПРИЗРАКА»"),("tr","Patlayıcıları kullanarak AYDINLIK destek kutularını yok et"),("zh-CN","摧毁幽灵方投递箱"),("zh-Hant","摧毀幽靈方投遞箱")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="59F45AD1492DD634C2DD78A1F717B187", NativeString="Purchase the <text color=\"FFFFFFFF\" fontface=\"black\">Season 2 Battle Pass</> and <text color=\"FFFFFFFF\" fontface=\"black\">complete TNTina’s Challenges</>", LocalizedStrings=(("ar","اشترِ <text color=\"FFFFFFFF\" fontface=\"black\">بطاقة معركة الموسم 2</> و <text color=\"FFFFFFFF\" fontface=\"black\">أكمل تحديات تي إن تينا</>")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="271553994C24BD66C0DA788A5A4CA513", NativeString="Get Gold Battle Medals by making 8 Elims in a single match", LocalizedStrings=(("ar","احصل على ميداليات المعركة البرونزية عن طريق الحصول على تصفية بوضع الفردي، الزوجي، أو الفرق"),("en","Earn Bronze Battle Medals by getting an Elim in Solo, Duos, or Squads"),("de","Erhalte Bronze-Kampfmedaillen, indem du eine Eliminierung im Solo-, Duo- oder Team-Modus erzielst."),("es","Consigue medallas de batalla de bronce ganando eliminaciones en solitario, dúos o escuadrones"),("es-419","Obtén medallas de batalla de bronce al conseguir eliminaciones en en solitario, en dúo o en escuadrón"),("fr","Obtenir des médailles de combat en bronze en réussissant une élimination en solo, duo ou section"),("it","Ottieni medaglie Battaglia bronzo ottenendo eliminazioni in singolo, in coppia o a squadre"),("ja","ソロ、デュオ、またはスクワッドで撃破して、ブロンズバトルメダルを獲得する"),("ko","솔로, 듀오, 스쿼드 매치에서 적을 처치하여 브론즈 배틀 메달 획득"),("pl","Zdobądź brązowe medale bojowe, likwidując przeciwników podczas meczów: solo, w parach lub w oddziałach"),("pt-BR","Ganhe Medalhas de Batalha Bronze ao obter uma Elim no modo Solo, Duplas ou Esquadrões"),("ru","Зарабатывайте бронзовые боевые медали, совершая устранения в боях одиночек, пар или отрядов"),("tr","Tekli, Çiftli veya Ekipli'de rakipleri avlayarak Bronz Savaş Madalyası kazan"),("zh-CN","在单人、双人或小队模式中完成一次淘汰以赢得青铜战斗奖章"),("zh-Hant","在單人、雙人或小隊模式中完成一次淘汰以贏得青銅戰鬥獎章")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="401FB3A64CF71DEFBB9C399E6C24F1C1", NativeString="Get Gold Battle Medals by making 8 Elims in a single match", LocalizedStrings=(("ar","احصل على ميداليات المعركة البرونزية عن طريق الحصول على تصفية بوضع الفردي، الزوجي، أو الفرق"),("en","Earn Bronze Battle Medals by getting an Elim in Solo, Duos, or Squads"),("de","Erhalte Bronze-Kampfmedaillen, indem du eine Eliminierung im Solo-, Duo- oder Team-Modus erzielst."),("es","Consigue medallas de batalla de bronce ganando eliminaciones en solitario, dúos o escuadrones"),("es-419","Obtén medallas de batalla de bronce al conseguir eliminaciones en en solitario, en dúo o en escuadrón"),("fr","Obtenir des médailles de combat en bronze en réussissant une élimination en solo, duo ou section"),("it","Ottieni medaglie Battaglia bronzo ottenendo eliminazioni in singolo, in coppia o a squadre"),("ja","ソロ、デュオ、またはスクワッドで撃破して、ブロンズバトルメダルを獲得する"),("ko","솔로, 듀오, 스쿼드 매치에서 적을 처치하여 브론즈 배틀 메달 획득"),("pl","Zdobądź brązowe medale bojowe, likwidując przeciwników podczas meczów: solo, w parach lub w oddziałach"),("pt-BR","Ganhe Medalhas de Batalha Bronze ao obter uma Elim no modo Solo, Duplas ou Esquadrões"),("ru","Зарабатывайте бронзовые боевые медали, совершая устранения в боях одиночек, пар или отрядов"),("tr","Tekli, Çiftli veya Ekipli'de rakipleri avlayarak Bronz Savaş Madalyası kazan"),("zh-CN","在单人、双人或小队模式中完成一次淘汰以赢得青铜战斗奖章"),("zh-Hant","在單人、雙人或小隊模式中完成一次淘汰以贏得青銅戰鬥獎章")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="8A0562D94E01BB7A577217800227335B", NativeString="Get Gold Battle Medals by making 8 Elims in a single match", LocalizedStrings=(("ar","احصل على ميداليات المعركة البرونزية عن طريق الحصول على تصفية بوضع الفردي، الزوجي، أو الفرق"),("en","Earn Bronze Battle Medals by getting an Elim in Solo, Duos, or Squads"),("de","Erhalte Bronze-Kampfmedaillen, indem du eine Eliminierung im Solo-, Duo- oder Team-Modus erzielst."),("es","Consigue medallas de batalla de bronce ganando eliminaciones en solitario, dúos o escuadrones"),("es-419","Obtén medallas de batalla de bronce al conseguir eliminaciones en en solitario, en dúo o en escuadrón"),("fr","Obtenir des médailles de combat en bronze en réussissant une élimination en solo, duo ou section"),("it","Ottieni medaglie Battaglia bronzo ottenendo eliminazioni in singolo, in coppia o a squadre"),("ja","ソロ、デュオ、またはスクワッドで撃破して、ブロンズバトルメダルを獲得する"),("ko","솔로, 듀오, 스쿼드 매치에서 적을 처치하여 브론즈 배틀 메달 획득"),("pl","Zdobądź brązowe medale bojowe, likwidując przeciwników podczas meczów: solo, w parach lub w oddziałach"),("pt-BR","Ganhe Medalhas de Batalha Bronze ao obter uma Elim no modo Solo, Duplas ou Esquadrões"),("ru","Зарабатывайте бронзовые боевые медали, совершая устранения в боях одиночек, пар или отрядов"),("tr","Tekli, Çiftli veya Ekipli'de rakipleri avlayarak Bronz Savaş Madalyası kazan"),("zh-CN","在单人、双人或小队模式中完成一次淘汰以赢得青铜战斗奖章"),("zh-Hant","在單人、雙人或小隊模式中完成一次淘汰以贏得青銅戰鬥獎章")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="93BB26AD423C570C497F91BDA8071003", NativeString="Get Gold Battle Medals by making 8 Elims in a single match", LocalizedStrings=(("ar","احصل على ميداليات المعركة البرونزية عن طريق الحصول على تصفية بوضع الفردي، الزوجي، أو الفرق"),("en","Earn Bronze Battle Medals by getting an Elim in Solo, Duos, or Squads"),("de","Erhalte Bronze-Kampfmedaillen, indem du eine Eliminierung im Solo-, Duo- oder Team-Modus erzielst."),("es","Consigue medallas de batalla de bronce ganando eliminaciones en solitario, dúos o escuadrones"),("es-419","Obtén medallas de batalla de bronce al conseguir eliminaciones en en solitario, en dúo o en escuadrón"),("fr","Obtenir des médailles de combat en bronze en réussissant une élimination en solo, duo ou section"),("it","Ottieni medaglie Battaglia bronzo ottenendo eliminazioni in singolo, in coppia o a squadre"),("ja","ソロ、デュオ、またはスクワッドで撃破して、ブロンズバトルメダルを獲得する"),("ko","솔로, 듀오, 스쿼드 매치에서 적을 처치하여 브론즈 배틀 메달 획득"),("pl","Zdobądź brązowe medale bojowe, likwidując przeciwników podczas meczów: solo, w parach lub w oddziałach"),("pt-BR","Ganhe Medalhas de Batalha Bronze ao obter uma Elim no modo Solo, Duplas ou Esquadrões"),("ru","Зарабатывайте бронзовые боевые медали, совершая устранения в боях одиночек, пар или отрядов"),("tr","Tekli, Çiftli veya Ekipli'de rakipleri avlayarak Bronz Savaş Madalyası kazan"),("zh-CN","在单人、双人或小队模式中完成一次淘汰以赢得青铜战斗奖章"),("zh-Hant","在單人、雙人或小隊模式中完成一次淘汰以贏得青銅戰鬥獎章")))
-+TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="ABD1CE664B3C1FC316189CBF4569404F", NativeString="Get Gold Battle Medals by making 8 Elims in a single match", LocalizedStrings=(("ar","احصل على ميداليات المعركة البرونزية عن طريق الحصول على تصفية بوضع الفردي، الزوجي، أو الفرق"),("en","Earn Bronze Battle Medals by getting an Elim in Solo, Duos, or Squads"),("de","Erhalte Bronze-Kampfmedaillen, indem du eine Eliminierung im Solo-, Duo- oder Team-Modus erzielst."),("es","Consigue medallas de batalla de bronce ganando eliminaciones en solitario, dúos o escuadrones"),("es-419","Obtén medallas de batalla de bronce al conseguir eliminaciones en en solitario, en dúo o en escuadrón"),("fr","Obtenir des médailles de combat en bronze en réussissant une élimination en solo, duo ou section"),("it","Ottieni medaglie Battaglia bronzo ottenendo eliminazioni in singolo, in coppia o a squadre"),("ja","ソロ、デュオ、またはスクワッドで撃破して、ブロンズバトルメダルを獲得する"),("ko","솔로, 듀오, 스쿼드 매치에서 적을 처치하여 브론즈 배틀 메달 획득"),("pl","Zdobądź brązowe medale bojowe, likwidując przeciwników podczas meczów: solo, w parach lub w oddziałach"),("pt-BR","Ganhe Medalhas de Batalha Bronze ao obter uma Elim no modo Solo, Duplas ou Esquadrões"),("ru","Зарабатывайте бронзовые боевые медали, совершая устранения в боях одиночек, пар или отрядов"),("tr","Tekli, Çiftli veya Ekipli'de rakipleri avlayarak Bronz Savaş Madalyası kazan"),("zh-CN","在单人、双人或小队模式中完成一次淘汰以赢得青铜战斗奖章"),("zh-Hant","在單人、雙人或小隊模式中完成一次淘汰以贏得青銅戰鬥獎章")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="0430637F44BBA9A2BD88BF998CD7F0DA", NativeString="Find Deadpool's katanas", LocalizedStrings=(("ar","اعثر على سيفين الكاتانا الخاصة بديدبول"),("en","Find Deadpool's 2 katanas"),("de","Finde Deadpools 2 Katanas"),("es","Encuentra las 2 katanas de Deadpool"),("es-419","Encuentra las 2 katanas de Deadpool"),("fr","Trouver les 2 katanas de Deadpool"),("it","Trova le 2 katane di Deadpool"),("ja","デッドプールのカタナを2本見つける"),("ko","데드풀의 카타나 2개 찾기"),("pl","Znajdź 2 katany Deadpoola"),("pt-BR","Encontre as 2 katanas do Deadpool"),("ru","Найдите две катаны Дэдпула"),("tr","Deadpool'un 2 tane katanasını bul"),("zh-CN","找到死侍的两把忍者刀"),("zh-Hant","找到死侍的兩把忍者刀")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="1DE39E5A4E9CC4890F61E8BA8E5A5510", NativeString="Find Deadpool's katanas", LocalizedStrings=(("ar","اعثر على سيفين الكاتانا الخاصة بديدبول"),("en","Find Deadpool's 2 katanas"),("de","Finde Deadpools 2 Katanas"),("es","Encuentra las 2 katanas de Deadpool"),("es-419","Encuentra las 2 katanas de Deadpool"),("fr","Trouver les 2 katanas de Deadpool"),("it","Trova le 2 katane di Deadpool"),("ja","デッドプールのカタナを2本見つける"),("ko","데드풀의 카타나 2개 찾기"),("pl","Znajdź 2 katany Deadpoola"),("pt-BR","Encontre as 2 katanas do Deadpool"),("ru","Найдите две катаны Дэдпула"),("tr","Deadpool'un 2 tane katanasını bul"),("zh-CN","找到死侍的两把忍者刀"),("zh-Hant","找到死侍的兩把忍者刀")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="6561836C4DDF0E6E20493E8EDECB2F8C", NativeString="Find Deadpool's katanas", LocalizedStrings=(("ar","اعثر على سيفين الكاتانا الخاصة بديدبول"),("en","Find Deadpool's 2 katanas"),("de","Finde Deadpools 2 Katanas"),("es","Encuentra las 2 katanas de Deadpool"),("es-419","Encuentra las 2 katanas de Deadpool"),("fr","Trouver les 2 katanas de Deadpool"),("it","Trova le 2 katane di Deadpool"),("ja","デッドプールのカタナを2本見つける"),("ko","데드풀의 카타나 2개 찾기"),("pl","Znajdź 2 katany Deadpoola"),("pt-BR","Encontre as 2 katanas do Deadpool"),("ru","Найдите две катаны Дэдпула"),("tr","Deadpool'un 2 tane katanasını bul"),("zh-CN","找到死侍的两把忍者刀"),("zh-Hant","找到死侍的兩把忍者刀")))
@@ -161,18 +143,12 @@ bUploadAllCsvs=true[/Script/FortniteGame.FortTextHotfixConfig]
 +TextReplacements=(Category=Game, Namespace="", Key="9C27172844462AB7620E27BE5E413E69", NativeString="Deal damage to opponent's structures", LocalizedStrings=(("ar","وجه 10,000 ضرر لهياكل الخصم"),("en","Deal 10,000 damage to opponents' structures"),("de","Füge gegnerischen Gebäuden 10.000 Schaden zu"),("es","Inflige 10,000 daño a estructuras de los oponentes"),("es-419","Inflige 10,000 daño a estructuras de los oponentes"),("fr","Infliger 10 000 pts de dégâts aux structures adverses"),("it","Infliggi 10,000 danni alle strutture avversarie"),("ja","敵の建築に10,000ダメージを与える"),("ko","다른 플레이어 구조물을 공격해 10,000 피해 주기"),("pl","Zadaj 10 000 punktów uszkodzeń budowlom przeciwników"),("pt-BR","Cause 10.000 de dano a estruturas de oponentes"),("ru","Нанесите 10 000 ед. урона вражеским постройкам"),("tr","Rakiplerin yapılarına 10.000 hasar ver"),("zh-CN","对敌方玩家的建筑造成10000点伤害"),("zh-Hant","對敵方玩家的建築造成10000點傷害")))
 +TextReplacements=(Category=Game, Namespace="", Key="F96FD77C4779CDCE291E0AB8B4068380", NativeString="Deal damage to opponent's structures", LocalizedStrings=(("ar","وجه 10,000 ضرر لهياكل الخصم"),("en","Deal 10,000 damage to opponents' structures"),("de","Füge gegnerischen Gebäuden 10.000 Schaden zu"),("es","Inflige 10,000 daño a estructuras de los oponentes"),("es-419","Inflige 10,000 daño a estructuras de los oponentes"),("fr","Infliger 10 000 pts de dégâts aux structures adverses"),("it","Infliggi 10,000 danni alle strutture avversarie"),("ja","敵の建築に10,000ダメージを与える"),("ko","다른 플레이어 구조물을 공격해 10,000 피해 주기"),("pl","Zadaj 10 000 punktów uszkodzeń budowlom przeciwników"),("pt-BR","Cause 10.000 de dano a estruturas de oponentes"),("ru","Нанесите 10 000 ед. урона вражеским постройкам"),("tr","Rakiplerin yapılarına 10.000 hasar ver"),("zh-CN","对敌方玩家的建筑造成10000点伤害"),("zh-Hant","對敵方玩家的建築造成10000點傷害")))
 +TextReplacements=(Category=Game, Namespace="", Key="1A265DB64E1D9AB93F362C9CBA0D0D98", NativeString="Special Featured",LocalizedStrings=(("ar","العروض الخاصة"),("en","Special Offers"),("de","Besondere Angebote"),("es","Ofertas especiales"),("es-419","Ofertas especiales"),("fr","Offres spéciales"),("it","Offerte Speciali"),("ja","特別オファー"),("ko","특별 제안"),("pl","Oferty specjalne"),("pt-BR","Ofertas Especiais"),("ru","Специальные предложения"),("tr","Özel Teklifler"),("zh-CN","特惠商品"),("zh-Hant","特惠商品")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="CCFE5D1C4DF5A6C841FD2596651CE694", NativeString="Bandage Bazooka", LocalizedStrings=(("en","Compact Bandage Bazooka")))
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="07ADB8CB44C1F407CB547898E1B899F5", NativeString="Bandage Bazooka +", LocalizedStrings=(("en","Compact Bandage Bazooka +")))
 [/Script/FortniteGame.FortGameInstance]
 KairosMinSupportedAppVersion=20
 bBattleRoyaleMatchmakingEnabled=true
 !DynamicSoundData=ClearArray
-+DynamicSoundData=(Name=Glider_Galileo_Ferry_Loop_Cue, SoundOverrideType=Cue, Volume=0.5)
-+DynamicSoundData=(Name=Winterfest_Discoverable_Banana_Cue, SoundOverrideType=Cue, Volume=0.0)
-+DynamicSoundData=(Name=S12_Transition_01_Cue, SoundOverrideType=Cue, Volume=1.13)
-+DynamicSoundData=(Name=S12_Transition_02_Cue, SoundOverrideType=Cue, Volume=0.75)
-+DynamicSoundData=(Name=Fort_POIMusic_PSM, SoundOverrideType=Class, Volume=0.7)
-+DynamicSoundData=(Name=S12_Transition_01_Cue, SoundOverrideType=Cue, Volume=1.13)
-+DynamicSoundData=(Name=S12_Transition_02_Cue, SoundOverrideType=Cue, Volume=0.75)
-+DynamicSoundData=(Name=PickAxeReady_TwinDark_Female_Cue, SoundOverrideType=Cue, Volume=0.22)
 !FrontEndPlaylistData=ClearArray
 +FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, bInvisibleWhenEnabled=true, DisplayPriority=18))
 +FrontEndPlaylistData=(PlaylistName=Playlist_BattleLab, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=True, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
@@ -185,6 +161,8 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10), AccessOverrides=((Regions=("ALL"), Platforms=("IOS","Android"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10))))
++FrontEndPlaylistData=(PlaylistName=Playlist_Rumble_op_16, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=14))
++FrontEndPlaylistData=(PlaylistName=playlist_cobalt_squads_p_respawn, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=13))
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
 !DisabledMeshRegions=ClearArray
@@ -224,12 +202,6 @@ bEnableIronCityCoast=true
 MaxResolutionForMediaStreaming=1088
 bUseLegacyMediaSource=false
 MemoryRequirementForMediaStreamingMB=0
-bAllowElectraForReplayCinematic=true
-bAllowElectraForWatchBattlePassMovie=true
-bShowExtendedBattlePassMovie=true
-OpenTimeLimitForReplayCinematic=6.0
-OpenTimeLimitForWatchBattlePassMovie=6.0
-DurationTimeLimitForReplayCinematic=81.0
 [/Script/FortniteGame.FortMatchmakingV2]
 MatchmakingRetryInterval=1.f
 !AltDomainRecords=ClearArray
@@ -293,12 +265,8 @@ bStartTimerWhenConstructed=false
 [/Script/Party.SocialSettings]
 DefaultMaxPartySize=16
 bLeavePartyOnDisconnect=false
-[/Script/FortniteGame.FortPlayerPawn]
-bAllowClientsideBuildingToolEquipPrediction=false
 [/Script/FortniteUI.FortVoiceSpeakerContainerWidget]
 bShowIndicatorsForSquadMembers=false
-[/Script/FortniteGame.FortStreamMediaSource]
-VideoStreamSource="Rabbit:ElectraA"
 [/Script/FortniteGame.FortGameModeZone]
 LeecherCutoff=0.1
 [/Script/FortniteGame.FortControllerComponent_Interaction]
@@ -307,53 +275,21 @@ bInteractTraceStartsAtClosestPointDistance=false
 bPerformAutoPromotion=true
 [/Game/Athena/Playlists/ContextTutorial/Mutator/ContextTutorial_Mutator.ContextTutorial_Mutator_C]
 bEnableWorldMarker=true
-[/Script/FortniteUI.SpatialMapScreen]
-bDrawPOIs=true
-!PoiData=ClearArray
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.PleasantPark"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_PleasantPark", "Pleasant Park"), WorldLocation=(X=62536,Y=-15872,Z=-3072), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SaltySprings"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_SaltySprings", "Salty Springs"), WorldLocation=(X=12800,Y=-24064,Z=-1536), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.RetailRow"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_RetailRow", "Retail Row"), WorldLocation=(X=-38400,Y=96400,Z=3840), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.FrenzyFarm"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_FrenzyFarm", "Frenzy Farm"), WorldLocation=(X=30208,Y=41472,Z=-1920), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.DirtyDocks"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_DirtyDocks", "Dirty Docks"), WorldLocation=(X=16384,Y=112640,Z=-4224), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.PowerPlant"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_SteamyStacks", "Steamy Stacks"), WorldLocation=(X=82944,Y=95744,Z=-1536), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.LazyLake"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_LazyLake", "Lazy Lake"), WorldLocation=(X=-48640,Y=54272,Z=1536), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.WeepingWoods"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_WeepingWoods", "Weeping Woods"), WorldLocation=(X=-27648,Y=-35840,Z=-2688), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.BeachyBluffs"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_CraggyCliffs", "Craggy Cliffs"), WorldLocation=(X=98816,Y=28160,Z=-2304), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.HollyHedges"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_HollyHedges", "Holly Hedges"), WorldLocation=(X=-12288,Y=-79872,Z=-1152), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.MountainMeadow"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_MistyMeadows", "Misty Meadows"), WorldLocation=(X=-89088,Y=26624,Z=384), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SunnyShores"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_SweatySands", "Sweaty Sands"), WorldLocation=(X=38400,Y=-74752,Z=-3456), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SlurpySwamp"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_SlurpySwamp", "Slurpy Swamp"), WorldLocation=(X=-60928,Y=-45568,Z=-3072), bIsSpyBase=false)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SpyBase.HQ"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_TheAgency", "The Agency"), WorldLocation=(X=5632,Y=5120,Z=-1536), bIsSpyBase=true)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SpyBase.MountainBase"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_TheGrotto", "The Grotto"), WorldLocation=(X=-20992,Y=113152,Z=-3840), bIsSpyBase=true)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SpyBase.Yacht"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_TheYacht", "The Yacht"), WorldLocation=(X=113152,Y=113664,Z=-3840), bIsSpyBase=true)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SpyBase.OilRig"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_TheRig", "The Rig"), WorldLocation=(X=-77824,Y=-85504,Z=-2304), bIsSpyBase=true)
-+PoiData=(LocationTag=(TagName="Athena.Location.POI.SpyBase.Shark"), Text=NSLOCTEXT("SpatialMapScreenPois", "Poi_TheShark", "The Shark"), WorldLocation=(X=107008,Y=-84480,Z=-3456), bIsSpyBase=true)
-[/Script/FortniteGame.FortAthenaVehicle]
-ImpulseResponseMultiplier=0.0f
+[/Script/HoagieRuntime.FortHoagieVehicleConfigs]
+AutoLandingYawTorque=0.0
 [AssetHotfix]
-+CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;0;15
-+CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.ChracterVehicle.TimeTillSpecialActorIconReregisters;1;15
-+CurveTable=/Game/Athena/Playlists/Apollo/IntroGameData;TableUpdate;"[{\"Name\":\"Default.SafeZone.StartDelay\",\"0\":120,\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":0,\"6\":0,\"7\":0,\"8\":0,\"9\":0,\"10\":0,\"11\":0,\"12\":0,\"13\":0,\"14\":0,\"15\":0,\"16\":0,\"17\":0,\"18\":0,\"19\":0,\"20\":0},{\"Name\":\"Default.ZigZag.PropSpawnWeight\",\"0\":0,\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":0,\"6\":0,\"7\":0,\"8\":0,\"9\":0,\"10\":0,\"11\":0,\"12\":0,\"13\":0,\"14\":0,\"15\":0,\"16\":0,\"17\":0,\"18\":0,\"19\":0,\"20\":0}]"
-+CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Risky.MinBetweenPlays;0;0.33
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.Analytics.Percent.Phoebe.MatchStats;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.Analytics.Percent.Phoebe.Death;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataDuo;RowUpdate;Default.Analytics.Percent.Phoebe.EndPhase;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.Analytics.Percent.Phoebe.MatchStats;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.Analytics.Percent.Phoebe.Death;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameDataSquad;RowUpdate;Default.Analytics.Percent.Phoebe.EndPhase;0;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Vehicle.Meatball.ShouldPickaxeImpulse;0;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Vehicle.Meatball.Missile.ShouldLaunchBoats;0;0
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.Mang.Spawner.ShouldSpawn;0;1
-+CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.MatchStats;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.Death;0;0
-+CurveTable=/Game/Athena/Playlists/OverrideGameData;RowUpdate;Default.Analytics.Percent.Phoebe.EndPhase;0;0
++DataTable=/Game/Athena/Items/SpyTech/Ability/SpyTechWeaponsUpgradeTable;TableUpdate;"[{\"Name\":\"WID_Shotgun_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Shotgun_HighSemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03.WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_Scoped_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Scoped_Athena_SR_Ore_T03.WID_Pistol_Scoped_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_VR_Ore_T03.WID_Assault_Surgical_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_SR_Ore_T03.WID_Assault_Surgical_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_R_Ore_T03.WID_Assault_Auto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_VR_Ore_T03.WID_Assault_AutoHigh_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_AutoHigh_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_SR_Ore_T03.WID_Assault_AutoHigh_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_C_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_VR_Ore_T03.WID_Shotgun_Standard_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_SR_Ore_T03.WID_Shotgun_Standard_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_VR.WID_Athena_SMG_VR\"},{\"Name\":\"WID_Athena_SMG_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_SR.WID_Athena_SMG_SR\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_VR_Ore_T03.WID_Pistol_HandCannon_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_SR_Ore_T03.WID_Pistol_HandCannon_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_VR_Ore_T03.WID_Assault_Heavy_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_SR_Ore_T03.WID_Assault_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_PistolCaliber_AR_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03.WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SR_Ore_T03.WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_R\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_VR.WID_Shotgun_SlugFire_Athena_VR\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_SR.WID_Shotgun_SlugFire_Athena_SR\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_C_Ore_T02\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_R_Ore_T03.WID_Pistol_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_VR.WID_Pistol_Standard_Athena_VR\"},{\"Name\":\"WID_Pistol_Standard_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_SR.WID_Pistol_Standard_Athena_SR\"},{\"Name\":\"WID_Pistol_Standard_Athena_SR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Suppressed_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_VR_Ore_T03.WID_Pistol_SemiAuto_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"}]"
 [ConsoleVariables]
 gc.CreateGCClusters=false
 au.DisableDeviceSwap=1
 Fort.EnableFacialAnimation=0
 r.VT.NumTranscodeRequests=32
 r.VT.IOPriority_NormalPagePri=1
-r.VT.IOPriority_HighPagePri=2[/Script/FortniteGame.FortRuntimeOptions]
+r.VT.IOPriority_HighPagePri=2
+Fort.bCheckAsyncLoadsOnNotifyMatchStarted=1[/Script/FortniteGame.FortRuntimeOptions]
 bEnableStartupSocialImport = true
 AllowLockPrimaryInputMethodToMouseForAccessibility=true
 bUseServerReplayActionFeed=true
@@ -363,7 +299,7 @@ bGetLiveSessionsFromLeaderboards=true
 bShowReplayTrailerButton_Athena=true
 bEnableAddFriendUserSearchDarkTraffic=true
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=6
+PreloadRevision=7
 bEnableProfileStatTracking=false
 bEnableHearingAccessibility=True
 bShowEnableMFAModalAtStartupAthena=false
@@ -371,54 +307,37 @@ bUseNewLookAccel=false
 FlushLoadingScreenRefreshSeconds=2.5
 bUseEventsService=true
 bAllowPartySuggestions=true
-bProcessGamepadInputOnMobile=true
 bEnableGlobalChat=false
-bEnableTryBuildOnFocus=false
 bDisableAffiliateFeature=false
 bAllowCodeRedemptionInSubgameSelect=false
 bEnableIslandCodeEntryOnPlayerPortal=false
-EsportsAnalyticsHeartbeatRate=5.0
 bHideServersWithZeroPlayers=false
-MaxQuickScopeAimAssistPullWatchTime=1.0
-MaxQuickScopeAimAssistPulls=2
 AllowLockPrimaryInputMethodToMouseForAccessibility=false
-EventWindowPayoutFudgeFactor=1800
-EventWindowPayoutMinuteDelay=10080
-EventServicePayoutRefreshRateSeconds=3600
-EventServicePayoutRefreshSpreadSeconds=2700
 bEnableEventScoreClamping=true
 bEnableStartingPointCount=false
 PlayerMarkerConfig=(ItemMarkerTTL=45)
 bMobileForceGamepadHUDWhenAttached=0
 MinimumAccountLevelForTournamentPlay=15
-bAllowReportingFeaturedIslands = false
 LiveReplayDiscoverabilityDelay=300.0f
-bGetLiveSessionsfromLeaderboards=false
 bShowAthenaStoreToast=true
-bReplayGoToTimeEnabled=true
 bImmediatelyDisplayCrossplayOptIn_BR=false
 bEnablePlayerStatsPrecache=true
 bLiveGameTimeDurationVisible=false
 bEnableUndoPurchase=true
 bSkipPlayingFortniteChecks=false
 bEnableNotifyWhenPlaying=true
-bShowReplayTrailerButton_Athena=true
-bEnableJackalInStw=false
 NewMtxStoreCohortSampleSet=100
 bEnableChannelsServiceLoadTesting=true
 bEnableContentControlsPurchaseReporting=false
 bEnableYoutubeLinks=false
-bEnableMissedInvitesEntry=true
-bAllowOfflineInvites=true
-bCreateEpicAccountPinGrantDisabled=true
-bEnableSafeZoneEditorOnLogin=true
 bEnableFriendSuggestions=true
 LevelToAutoOpenBattlePassOnNewSeason=0
-bEnableGeneratedScreenshotForPortalPreview=true
 bEnableSocialBanModal=true
-bEnableChallengeHolidayVideo=false
-FTUESeasonTrailerBoundary = 59.042
 AthenaNavMeshGeneratorMaxTimeSliceDuration=0.002
+bTouchInteractInUIAvailable=true
+NumSavedLoadouts=11
+bEnableFactionTechScreen=false
+bRequireFactionChoiceOnInfiltrationPlay=false
 bEnableGuidedTutorial=false
 TriagedApolloIntro_NewPlayers_MaxLevel=99999
 EnableCommunityVotingScreen=true
@@ -430,10 +349,6 @@ bEnableSubregionNetworkAccelerators=true
 +AdvertisedNetworkAcceleratedSubregions=BAH_S
 bEnableLocalNotifications=true
 LocalNotificationsToScheduleByName=(("NewPlayersDay2",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"48"),(ELocalNotificationParams::HoursAfterEvent_Max,"48"),(ELocalNotificationParams::HoursSinceLastSession,"12")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day2",ActivationEvent="NewPlayersDay2")),("NewPlayersDay5_7",(Enable=true,Type=EScheduledLocalNotificationType::RangeDateTime,EventType=EScheduledLocalNotificationEventType::FirstLogin,ParamsByName=((ELocalNotificationParams::HoursAfterEvent_Min,"120"),(ELocalNotificationParams::HoursAfterEvent_Max,"168"),(ELocalNotificationParams::HoursSinceLastSession,"24")),LocalTime=true,TitleKey="",BodyKey="Motivation_NewPlayer_Day5_7",ActivationEvent="NewPlayersDay5_7")))
-bEnableApolloIntro=false
-ApolloIntroQueueTimeoutSeconds=185.0f
-bForceApolloIntroSkipSubgameSelect=true
-bEnableHUDPresetSelection=true
 bMOTDSameNewsForCreative = false
 !ItemShopOrdering=ClearArray
 +ItemShopOrdering=EFortItemShopSection::RMTItemOffer
@@ -472,9 +387,6 @@ TurnOnMfaURL="https://fortnite.com/2fa"
 +DisabledMatchmakingKnobs="PlaygroundMutator_RespawnLocation:RespawnHeight"
 +DisabledMatchmakingKnobs="CreativeTeamSettings:RespawnHeight"
 +DisabledMatchmakingKnobs="CreativeTeamSettings:NumAIKillsForEndCondition"
-+DisabledMatchmakingKnobs=PlayerNameFilter
-+DisabledMatchmakingKnobs=LockedPlayerNameSubstring
-+DisabledGameplayMessages=(MessageOwnerClassName="BP_Creative_ItemSpawner_C", MessageName="TriggerOnReturnedItem")
 +DisabledMatchmakingKnobs="FortPlayerSettingsComponentBase:RespawnHeight"
 +DisabledMatchmakingKnobs="FortPlayerSettingsComponentBase:NumAIKillsForEndCondition"
 !AthenaStarterGameMode=ClearArray
@@ -514,9 +426,6 @@ TurnOnMfaURL="https://fortnite.com/2fa"
 +AthenaStarterGameModeB="Playlist_50v50SAU"
 +AthenaStarterGameModeB="Playlist_5x20"
 +AthenaStarterGameModeB="Playlist_Score_Squads"
-+HiddenMatchmakingKnobs=CreativeTeamSettings:CharacterOverride
-+HiddenSettings="AnonymousCharacterMode"
 !ExperimentalCohortPercent=ClearArray
-+ExperimentalCohortPercent=(CohortPercent=100,ExperimentNum=500)
 +ExperimentalCohortPercent=(CohortPercent=80,ExperimentNum=2)
-
+copy * Hotfix
