@@ -112,6 +112,11 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="VA_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.102.49", Port=22222), Servers[1]=(Address="99.83.150.145", Port=22222))
 +DatacenterDefinitions=(Id="OH_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.16.60", Port=22222), Servers[1]=(Address="99.83.211.163", Port=22222))
 +DatacenterDefinitions=(Id="TOK_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.63.31", Port=22222), Servers[1]=(Address="99.83.165.148", Port=22222))
++DatacenterDefinitions=(Id="LON_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.176.4", Port=22222), Servers[1]=(Address="143.131.176.5", Port=22222), Servers[2]=(Address="143.131.177.4", Port=22222), Servers[3]=(Address="143.131.177.5", Port=22222))
++DatacenterDefinitions=(Id="DE_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.178.4", Port=22222), Servers[1]=(Address="143.131.178.5", Port=22222), Servers[2]=(Address="143.131.179.4", Port=22222), Servers[3]=(Address="143.131.179.5", Port=22222))
++DatacenterDefinitions=(Id="FR_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.180.4", Port=22222), Servers[1]=(Address="143.131.180.5", Port=22222), Servers[2]=(Address="143.131.181.4", Port=22222), Servers[3]=(Address="143.131.181.5", Port=22222))
++DatacenterDefinitions=(Id="EDG1_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.174.4", Port=22222), Servers[1]=(Address="143.131.174.5", Port=22222), Servers[2]=(Address="143.131.174.6", Port=22222), Servers[3]=(Address="143.131.174.7", Port=22222))
++DatacenterDefinitions=(Id="EDG2_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.175.4", Port=22222), Servers[1]=(Address="143.131.175.5", Port=22222), Servers[2]=(Address="143.131.175.4", Port=22222), Servers[3]=(Address="143.131.175.5", Port=22222))
 [/Script/FortniteGame.TagManager]
 +RepBucket=Py3GlEIaHtu8zox0I8xLSd+Mc+CUC8leDmv8c4mhoayYojxjjTarAXEWdtQN0NP3GSZOyXzcDRCIf+aZY0OmQAA=
 [OnlineSubsystemMcp.OnlineEventsServiceMcp]
@@ -131,7 +136,9 @@ bEnabled=false[/Script/Account.OnlineAccountCommon]
 NonFatalErrors="AuthFailed_InvalidMFA AuthFailed_RefreshInvalid AuthFailed_RequiresMFA AuthParentalLock Console_AddedAuthAssociation Console_DuplicateAuthAssociation Console_LoginFailed Console_MissingAuthAssociation Console_NotEntitled EULACheckFailed ExternalAuth_AddedAuthAssociation ExternalAuth_AssociationFailure ExternalAuth_MissingAuthAssociation NotStarted NotEntitled Pending ServiceUnavailable Success"
 [/Script/FortniteGame.FortBadMatchTriggers]
 bAllowForcedPerformanceReport=false
-bUploadAllCsvs=true[/Script/FortniteGame.FortTextHotfixConfig]
+bUploadAllCsvs=true
+[/Script/FortniteGame.FortGlobals]
+MaxResolutionForMediaStreaming=721[/Script/FortniteGame.FortTextHotfixConfig]
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="0430637F44BBA9A2BD88BF998CD7F0DA", NativeString="Find Deadpool's katanas", LocalizedStrings=(("ar","اعثر على سيفين الكاتانا الخاصة بديدبول"),("en","Find Deadpool's 2 katanas"),("de","Finde Deadpools 2 Katanas"),("es","Encuentra las 2 katanas de Deadpool"),("es-419","Encuentra las 2 katanas de Deadpool"),("fr","Trouver les 2 katanas de Deadpool"),("it","Trova le 2 katane di Deadpool"),("ja","デッドプールのカタナを2本見つける"),("ko","데드풀의 카타나 2개 찾기"),("pl","Znajdź 2 katany Deadpoola"),("pt-BR","Encontre as 2 katanas do Deadpool"),("ru","Найдите две катаны Дэдпула"),("tr","Deadpool'un 2 tane katanasını bul"),("zh-CN","找到死侍的两把忍者刀"),("zh-Hant","找到死侍的兩把忍者刀")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="1DE39E5A4E9CC4890F61E8BA8E5A5510", NativeString="Find Deadpool's katanas", LocalizedStrings=(("ar","اعثر على سيفين الكاتانا الخاصة بديدبول"),("en","Find Deadpool's 2 katanas"),("de","Finde Deadpools 2 Katanas"),("es","Encuentra las 2 katanas de Deadpool"),("es-419","Encuentra las 2 katanas de Deadpool"),("fr","Trouver les 2 katanas de Deadpool"),("it","Trova le 2 katane di Deadpool"),("ja","デッドプールのカタナを2本見つける"),("ko","데드풀의 카타나 2개 찾기"),("pl","Znajdź 2 katany Deadpoola"),("pt-BR","Encontre as 2 katanas do Deadpool"),("ru","Найдите две катаны Дэдпула"),("tr","Deadpool'un 2 tane katanasını bul"),("zh-CN","找到死侍的两把忍者刀"),("zh-Hant","找到死侍的兩把忍者刀")))
 +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="6561836C4DDF0E6E20493E8EDECB2F8C", NativeString="Find Deadpool's katanas", LocalizedStrings=(("ar","اعثر على سيفين الكاتانا الخاصة بديدبول"),("en","Find Deadpool's 2 katanas"),("de","Finde Deadpools 2 Katanas"),("es","Encuentra las 2 katanas de Deadpool"),("es-419","Encuentra las 2 katanas de Deadpool"),("fr","Trouver les 2 katanas de Deadpool"),("it","Trova le 2 katane di Deadpool"),("ja","デッドプールのカタナを2本見つける"),("ko","데드풀의 카타나 2개 찾기"),("pl","Znajdź 2 katany Deadpoola"),("pt-BR","Encontre as 2 katanas do Deadpool"),("ru","Найдите две катаны Дэдпула"),("tr","Deadpool'un 2 tane katanasını bul"),("zh-CN","找到死侍的两把忍者刀"),("zh-Hant","找到死侍的兩把忍者刀")))
@@ -161,7 +168,7 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName= Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10), AccessOverrides=((Regions=("ALL"), Platforms=("IOS","Android"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10))))
-+FrontEndPlaylistData=(PlaylistName=Playlist_Rumble_op_16, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=14))
++FrontEndPlaylistData=(PlaylistName=Playlist_Rumble_op, PlaylistAccess=(bEnabled=true, CategoryIndex=2, DisplayPriority=14))
 +FrontEndPlaylistData=(PlaylistName=playlist_cobalt_squads_p_respawn, PlaylistAccess=(bEnabled=False, CategoryIndex=2, DisplayPriority=13))
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
@@ -190,12 +197,27 @@ AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-mer
 !ChallengeObjectiveHotfixes=ClearArray  
 +ChallengeObjectiveHotfixes=(Quest="Quest:quest_s12_w1_q02",Stat="quest_s12_w1_q02_obj",Count=300,NewCount=2000)   
 +ChallengeObjectiveHotfixes=(Quest="Quest:quest_s12_w1_q08",Stat="quest_s12_w1_q08_obj",Count=2,NewCount=5)    
-+IronCityWargameTagList=Stat.Mission.Ironcity.Pods
-+IronCityWargameTagList=Stat.Mission.IronCity.Tiki
-+IronCityWargameTagList=Stat.Mission.IronCity.TeleBomb
-+IronCityWargameTagList=Stat.Mission.IronCity.TpRifts
+!IronCityWargameTagList=ClearArray
++IronCityWargameTagList=Stat.Mission.IronCity.Anomaly
 +IronCityWargameTagList=Stat.Mission.IronCity.AntiShield
-+IronCityWargameTagList=Stat.Mission.IronCity.RiotCity
++IronCityWargameTagList=Stat.Mission.IronCity.Eruption
++IronCityWargameTagList=Stat.Mission.IronCity.Generators
++IronCityWargameTagList=Stat.Mission.IronCity.MidlandHusknado
++IronCityWargameTagList=Stat.Mission.Ironcity.Pods
++IronCityWargameTagList=Stat.Mission.Ironcity.MStorm
++IronCityWargameTagList=Stat.Mission.Ironcity.Tiki
++IronCityWargameTagList=Stat.Mission.Ironcity.TpRifts
++IronCityWargameTagList=Stat.Mission.Ironcity.RiotCity
++IronCityWargameTagList=Stat.Mission.Ironcity.Saucer
++IronCityWargameTagList=Stat.Mission.Ironcity.TeleBomb
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.Build
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.DangerClose
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.Explode
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.Foggy
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.HeadGames
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.Surprise
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.Time
++IronCityWargameTagList=Stat.Mission.IronCity.Challenge.Traps
 bEnableIronCityCoast=true
 +KairosSubmitOptions=(Type="PartyJoinFailure",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.10,SubmitErrors=("UnknownClientFailure","UnknownInternalFailure","RequesteeNotMember"))
 +KairosSubmitOptions=(Type="LoginError",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.01)
@@ -281,7 +303,68 @@ AutoLandingYawTorque=0.0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Vehicle.Meatball.ShouldPickaxeImpulse;0;0
 +CurveTable=/Game/Athena/Balance/DataTables/AthenaGameData;RowUpdate;Default.Vehicle.Meatball.Missile.ShouldLaunchBoats;0;0
 +CurveTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideGameData;RowUpdate;Default.Mang.Spawner.ShouldSpawn;0;1
-+DataTable=/Game/Athena/Items/SpyTech/Ability/SpyTechWeaponsUpgradeTable;TableUpdate;"[{\"Name\":\"WID_Shotgun_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Shotgun_HighSemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03.WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_Scoped_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Scoped_Athena_SR_Ore_T03.WID_Pistol_Scoped_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_VR_Ore_T03.WID_Assault_Surgical_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_SR_Ore_T03.WID_Assault_Surgical_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_R_Ore_T03.WID_Assault_Auto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_VR_Ore_T03.WID_Assault_AutoHigh_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_AutoHigh_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_SR_Ore_T03.WID_Assault_AutoHigh_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_C_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_VR_Ore_T03.WID_Shotgun_Standard_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_SR_Ore_T03.WID_Shotgun_Standard_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_VR.WID_Athena_SMG_VR\"},{\"Name\":\"WID_Athena_SMG_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_SR.WID_Athena_SMG_SR\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_VR_Ore_T03.WID_Pistol_HandCannon_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_SR_Ore_T03.WID_Pistol_HandCannon_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_VR_Ore_T03.WID_Assault_Heavy_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_SR_Ore_T03.WID_Assault_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_PistolCaliber_AR_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03.WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SR_Ore_T03.WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_R\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_VR.WID_Shotgun_SlugFire_Athena_VR\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_SR.WID_Shotgun_SlugFire_Athena_SR\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_C_Ore_T02\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_R_Ore_T03.WID_Pistol_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_VR.WID_Pistol_Standard_Athena_VR\"},{\"Name\":\"WID_Pistol_Standard_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_SR.WID_Pistol_Standard_Athena_SR\"},{\"Name\":\"WID_Pistol_Standard_Athena_SR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Suppressed_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_VR_Ore_T03.WID_Pistol_SemiAuto_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"}]"
++DataTable=/Game/Athena/Items/SpyTech/Ability/SpyTechWeaponsUpgradeTable;TableUpdate;"[{\"Name\":\"WID_Shotgun_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Shotgun_HighSemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03.WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_Scoped_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Scoped_Athena_SR_Ore_T03.WID_Pistol_Scoped_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_VR_Ore_T03.WID_Assault_Surgical_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_SR_Ore_T03.WID_Assault_Surgical_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_R_Ore_T03.WID_Assault_Auto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_VR_Ore_T03.WID_Assault_AutoHigh_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_AutoHigh_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_SR_Ore_T03.WID_Assault_AutoHigh_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_C_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_VR_Ore_T03.WID_Shotgun_Standard_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_SR_Ore_T03.WID_Shotgun_Standard_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_VR.WID_Athena_SMG_VR\"},{\"Name\":\"WID_Athena_SMG_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_SR.WID_Athena_SMG_SR\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_VR_Ore_T03.WID_Pistol_HandCannon_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_SR_Ore_T03.WID_Pistol_HandCannon_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_VR_Ore_T03.WID_Assault_Heavy_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_SR_Ore_T03.WID_Assault_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_PistolCaliber_AR_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03.WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SR_Ore_T03.WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_R\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_VR.WID_Shotgun_SlugFire_Athena_VR\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_SR.WID_Shotgun_SlugFire_Athena_SR\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_C_Ore_T02\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_R_Ore_T03.WID_Pistol_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_VR.WID_Pistol_Standard_Athena_VR\"},{\"Name\":\"WID_Pistol_Standard_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_SR.WID_Pistol_Standard_Athena_SR\"},{\"Name\":\"WID_Pistol_Standard_Athena_SR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Suppressed_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_VR_Ore_T03.WID_Pistol_SemiAuto_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03\"}]"
++DataTable=/Game/Athena/Items/Quests/AthenaObjectiveStatXPTable;RowUpdate;Splash_InfiltrationPlayed;AccoladePrimaryAssetId;Accolades:AccoladeID_InfiltrationPlayed
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.WaitTime;2;30
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ShrinkTime;2;60
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;2;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;3;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;4;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;5;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;6;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;7;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;8;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMin;9;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;2;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;3;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;4;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;5;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;6;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;7;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;8;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.SafeZone.ForceDistanceMax;9;35000
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;0;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;1;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;2;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;3;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;4;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;5;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;6;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;7;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;8;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;9;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;10;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;11;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;12;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Parachute.DeployTraceForGroundDistance;13;1500
++CurveTable=/Game/Athena/Playlists/Respawn/op/OverrideGameData;RowUpdate;Default.Aircraft.Speed;0;3500
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;RowUpdate;WorldList.AthenaHighConsumables.10;Weight;0.15
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;RowUpdate;WorldList.AthenaHighConsumables.10;Count;1
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;RowUpdate;WorldList.AthenaSupplyDropConsumables.06;Weight;0.2
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;RowUpdate;WorldList.AthenaSupplyDropConsumables.06;Count;1
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;RowUpdate;WorldList.AthenaConsumables.10;Weight;0.15
++DataTable=/Game/Athena/Playlists/Showdown/Tournament/OverrideLootPackagesData;RowUpdate;WorldList.AthenaConsumables.10;Count;1
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;RowUpdate;WorldList.AthenaHighConsumables.10;Weight;0.15
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;RowUpdate;WorldList.AthenaHighConsumables.10;Count;1
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;RowUpdate;WorldList.AthenaSupplyDropConsumables.06;Weight;0.2
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;RowUpdate;WorldList.AthenaSupplyDropConsumables.06;Count;1
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;RowUpdate;WorldList.AthenaConsumables.10;Weight;0.15
++DataTable=/Game/Athena/Playlists/Showdown/OverrideLootPackagesData;RowUpdate;WorldList.AthenaConsumables.10;Count;1
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;1;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;2;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;3;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;4;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;5;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;6;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;207;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;208;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;209;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;210;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;211;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;212;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;213;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;214;Bincluded;TRUE
++DataTable=/Game/Playgrounds/VendingMachineData/CreativeItemDefList;RowUpdate;215;Bincluded;TRUE
 [ConsoleVariables]
 gc.CreateGCClusters=false
 au.DisableDeviceSwap=1
@@ -299,7 +382,7 @@ bGetLiveSessionsFromLeaderboards=true
 bShowReplayTrailerButton_Athena=true
 bEnableAddFriendUserSearchDarkTraffic=true
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=7
+PreloadRevision=8
 bEnableProfileStatTracking=false
 bEnableHearingAccessibility=True
 bShowEnableMFAModalAtStartupAthena=false
@@ -336,8 +419,9 @@ bEnableSocialBanModal=true
 AthenaNavMeshGeneratorMaxTimeSliceDuration=0.002
 bTouchInteractInUIAvailable=true
 NumSavedLoadouts=11
-bEnableFactionTechScreen=false
-bRequireFactionChoiceOnInfiltrationPlay=false
+bEnableFactionTechScreen=true
+bRequireFactionChoiceOnInfiltrationPlay=true
+bAllowOfflineInvites=false
 bEnableGuidedTutorial=false
 TriagedApolloIntro_NewPlayers_MaxLevel=99999
 EnableCommunityVotingScreen=true
@@ -364,12 +448,16 @@ bMOTDSameNewsForCreative = false
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::MegaBundle,Priority=80)
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::Featured,Priority=70)
 bEnableSubscriptionNudges=false
++HiddenMatchmakingKnobs=CreativeTeamSettings:CharacterOverride
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
 CheckStatusURL="https://status.epicgames.com"
 ListOfCreatorsURL=""
 TurnOnMfaURL="https://fortnite.com/2fa"
+bDisableTdmBackfilledPlayerTeleport=false
+bEnableBackfillCheckForHighestTeamScore=true
+BackfillCheckForHighestTeamScorePlaylistOverrides=(("Playlist_Respawn_24",40))
 +PlaylistConditionalFlags=BR_No_Portals_Enabled
 !CuratedLinkCodes=ClearArray
 !CuratedIslandTemplateCodes=ClearArray
