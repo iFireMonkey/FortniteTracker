@@ -8,6 +8,9 @@
     "ScoreFactor": "score factor",
     "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: generate items around {DescribeContext}"
   },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Custom {0}"
+  },
   "Fortnite": {
     "iOSRestartToUninstall": "Battle Royale content will be removed on next run. Exit now?",
     "AndroidRestartToUninstall": "Battle Royale content will be removed on next run. Restart now?",
@@ -23,6 +26,7 @@
     "SameFeature": "Already in client Feature",
     "TooEarly": "Cannot change active feature yet",
     "GameplayToKairos": "Cannot go from gameplay to capture",
+    "GameplayToElectraPlayer": "Cannot go from gameplay to media player",
     "InitialToFrontend": "Cannot go from initial to Frontend, must go to capture first",
     "EarlyStartup": "Cannot return to early startup",
     "KairosInitial": "Cannot return to initial load",
