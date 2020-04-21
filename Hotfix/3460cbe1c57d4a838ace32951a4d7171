@@ -1,5 +1,8 @@
 [Core.System]
 GameThreadHeartBeatStackWalk = false
+[SystemSettings]
+Fort.ItemWrapOverride.DelayWhenMeshIsntReady=1
+Fort.ItemWrapOverride.MaxDelaysWhenMeshIsntReady=3
 [Core.Log]
 LogFortPet=Error
 LogParty=Verbose
