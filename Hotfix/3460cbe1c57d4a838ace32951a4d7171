@@ -9,6 +9,7 @@ LogParty=Verbose
 LogMatchmakingServiceClient=Verbose
 LogScriptCore=Error
 LogStreamableManager=Error
+LogSkinnedMeshComp=Error
 [ConsoleVariables]
 AudioThread.WaitWarningThresholdMs=35000
 Athena.DeferInitialCustomizationsGC=0
@@ -116,6 +117,7 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="FR_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.180.4", Port=22222), Servers[1]=(Address="143.131.180.5", Port=22222), Servers[2]=(Address="143.131.181.4", Port=22222), Servers[3]=(Address="143.131.181.5", Port=22222))
 +DatacenterDefinitions=(Id="EDG1_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.174.4", Port=22222), Servers[1]=(Address="143.131.174.5", Port=22222), Servers[2]=(Address="143.131.174.6", Port=22222), Servers[3]=(Address="143.131.174.7", Port=22222))
 +DatacenterDefinitions=(Id="EDG2_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.175.4", Port=22222), Servers[1]=(Address="143.131.175.5", Port=22222), Servers[2]=(Address="143.131.175.4", Port=22222), Servers[3]=(Address="143.131.175.5", Port=22222))
++DatacenterDefinitions=(Id="ta_safrica", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.244.37.77", Port=22222), Servers[1]=(Address="13.245.24.37", Port=22222), Servers[2]=(Address="13.244.57.56", Port=22222), Servers[3]=(Address="13.245.26.167", Port=22222))
 [OnlineSubsystemMcp.OnlineEventsServiceMcp]
 HttpRetryLimit=1
 [OnlineSubsystemMcp.OnlineIdentityMcp]

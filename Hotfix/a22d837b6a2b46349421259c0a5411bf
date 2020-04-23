@@ -31,7 +31,6 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
-+FrontEndPlaylistData=(PlaylistName= Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10), AccessOverrides=((Regions=("ALL"), Platforms=("IOS","Android"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10))))
 +FrontEndPlaylistData=(PlaylistName=playlist_cobalt_duos_p_respawn, PlaylistAccess=(bEnabled=true, CategoryIndex=2, DisplayPriority=13))
 +FrontEndPlaylistData=(PlaylistName=playlist_cobalt_squads_p_respawn, PlaylistAccess=(bEnabled=True, CategoryIndex=2, DisplayPriority=14))
 [/Script/FortniteGame.FortGameSession]
