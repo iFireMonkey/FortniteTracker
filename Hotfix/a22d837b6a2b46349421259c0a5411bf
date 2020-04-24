@@ -20,25 +20,25 @@
 KairosMinSupportedAppVersion=20
 bBattleRoyaleMatchmakingEnabled=true
 !DynamicSoundData=ClearArray
++DynamicSoundData=(Name=LowGravityStone, SoundOverrideType=Cue, Volume=0.0)
 !FrontEndPlaylistData=ClearArray
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, bInvisibleWhenEnabled=true, DisplayPriority=18))
-+FrontEndPlaylistData=(PlaylistName=Playlist_BattleLab, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=True, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSolo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=3))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultDuo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=4))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSquad, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=5))
-+FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSquad, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=202, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=playlist_cobalt_duos_p_respawn, PlaylistAccess=(bEnabled=true, CategoryIndex=2, DisplayPriority=13))
 +FrontEndPlaylistData=(PlaylistName=playlist_cobalt_squads_p_respawn, PlaylistAccess=(bEnabled=True, CategoryIndex=2, DisplayPriority=14))
++FrontEndPlaylistData=(PlaylistName=Playlist_Music_Low, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsLimitedTime=false, CategoryIndex=0, DisplayPriority=49), AccessOverrides=((Regions=("MESH"), Platforms=("ALL"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=true, bDisplayAsLimitedTime=false, CategoryIndex=0, DisplayPriority=18))))
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
 !DisabledMeshRegions=ClearArray
 [/Script/FortniteGame.FortOnlineAccount]
 bShouldAthenaQueryRecentPlayers=false
 bPromptUserAndReverifyAuthToken=true
+bShouldAthenaQueryRecentPlayers=false
 [/Script/Account.OnlineAccountCommon]
 bUsePinGrantCodeForLinking=true
 [/Script/FortniteGame.FortChatManager]
@@ -46,14 +46,14 @@ bShouldJoinFounderChat=false
 bShouldRequestGeneralChatRooms=false
 bShouldJoinGlobalChat=false
 [/Script/FortniteGame.FortGlobals]
-LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
-LogoutFailureOptions=(bSubmitLogs=true,bSubmitLogsDuringLogin=false,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("OnlineAccount_LostConnection"))
+LoginFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,DoNotUploadReasons=(AuthFailed_InvalidMFA,AuthFailed_RequiresMFA,AuthFailed_RefreshInvalid,ServiceUnavailable,Banned,Console_LoginFailed,AuthFailed,Console_EntitlementCheckFailed,Console_MissingAuthAssociation,Console_DuplicateAuthAssociation,Console_AddedAuthAssociation,Console_NotEntitled,Console_PatchOrUpdateRequired,Console_PrivilegeCheck,EULACheckFailed,NotEntitled,NotStarted,Pending,PlatformNotAllowed,Success))
+LogoutFailureOptions=(bSubmitLogs=true,bSubmitLogsDuringLogin=false,LogTailKb=300,LogSubmitChance=0.01,DoNotUploadReasons=(""OnlineAccount_LostConnection""))
 bDisableTimePlayedStat=true
 bAthenaUsesSimCollision=true
 bSubmitReturnToMenuErrorLogs=true
 ReturnToMenuErrorLogSubmitChance=0.1
-PartyJoinFailureLogSubmit=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,Reasons=((Reason="Unknown"),(Reason="UnknownClientFailure"),(Reason="JoinInfoInvalid"),(Reason="NotApproved",SubReason="Unknown"),(Reason="GameSpecificReason",SubReason="Unknown"),(Reason="GameSpecificReason",SubReason="OSSUnavailable"),(Reason="GameSpecificReason",SubReason="FailedToStartFindConsoleSession"),(Reason="NoResponse")))
-RealMoneyPurchaseFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.1,DoNotUploadReasons=("com.epicgames.catalog_helper.user_cancelled"))
+PartyJoinFailureLogSubmit=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,Reasons=((Reason=""Unknown""),(Reason=""UnknownClientFailure""),(Reason=""JoinInfoInvalid""),(Reason=""NotApproved"",SubReason=""Unknown""),(Reason=""GameSpecificReason"",SubReason=""Unknown""),(Reason=""GameSpecificReason"",SubReason=""OSSUnavailable""),(Reason=""GameSpecificReason"",SubReason=""FailedToStartFindConsoleSession"")))
+RealMoneyPurchaseFailureOptions=(bSubmitLogs=true,LogTailKb=300,LogSubmitChance=0.01,DoNotUploadReasons=(""com.epicgames.catalog_helper.user_cancelled""))
 bUploadAthenaStatsV2=true
 AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-merge"
 +RiskyReelsPlaylistWhitelistFilter=Athena.BattleLab
@@ -66,6 +66,7 @@ AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-mer
 +KairosSubmitOptions=(Type="PartyJoinFailure",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.10,SubmitErrors=("UnknownClientFailure","UnknownInternalFailure","RequesteeNotMember"))
 +KairosSubmitOptions=(Type="LoginError",LogTailKb=300,bSubmitLogs=true,LogSubmitChance=0.01)
 MemoryRequirementForMediaStreamingMB=0
+TimeBetweenLeaderboardRequestsMinutes=30
 [/Script/FortniteGame.FortMatchmakingV2]
 MatchmakingRetryInterval=1.f
 !AltDomainRecords=ClearArray
@@ -80,6 +81,7 @@ MatchmakingRetryInterval=1.f
 +AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-nae.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-nae.ak.epicgames.com")
 +AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-naw.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-naw.ak.epicgames.com")
 +AltDomainRecords=(OriginalDomain="fortnite-matchmaking-public-service-live-oce.ol.epicgames.com", AltDomain="fortnite-mm-public-service-live-oce.ak.epicgames.com")
+bCustomKeyEnabled=false
 [/Script/FortniteGame.FortPlayerController]
 bBuildingPlacementTraceSkipCameraOffsetIfNotInFrontOfPlayer=false
 bRequireTraceToExistingBuildingToSetContext=false
@@ -92,6 +94,9 @@ bLeaveDisconnectedPawnsInGame=true
 +PlatformInvitePermissionLists="PSN:PSN,WIN,MAC,IOS,AND,SWT,XBL"
 +PlatformInvitePermissionLists="XBL:XBL,WIN,MAC,IOS,AND,SWT,PSN"
 +PlatformInvitePermissionLists="SWT:XBL,WIN,MAC,IOS,AND,SWT,PSN"
+AutoImportPlatformFriendsRequestsPerInterval=5
+AutoImportPlatformFriendsIntervalSeconds=300
+UserInfoQueryAggregationTime=3.0
 [/Script/FortniteGame.FortAnalyticsConfig]
 bEnableMeshHeartbeat=false
 [/Script/FortniteGame.FortGameModeAthena]
@@ -100,6 +105,7 @@ bEnableRecentPlayersUpdates=true
 +HotfixBlockingVolumes=(Center=(X=104488.000000,Y=-81916.000000,Z=-2876.000000),Extent=(X=288.000000,Y=240.000000,Z=184.000000),bNeededOnClient=true)
 +HotfixBlockingVolumes=(Center=(X=103492.000000,Y=-81980.000000,Z=-3360.000000),Extent=(X=688.000000,Y=192.000000,Z=288.000000),bNeededOnClient=true)
 +HotfixBlockingVolumes=(Center=(X=109700.000000,Y=-85464.000000,Z=-2908.000000),Extent=(X=376.000000,Y=472.000000,Z=216.000000),bNeededOnClient=true)
+bEnableRecentPlayersUpdates=false
 [/Script/NetUI.ConnectionTimeoutWidget]
 bStartTimerWhenConstructed=false
 [/Script/Party.SocialSettings]
@@ -111,6 +117,8 @@ bShowIndicatorsForSquadMembers=false
 bPerformAutoPromotion=true
 [/Script/HoagieRuntime.FortHoagieVehicleConfigs]
 AutoLandingYawTorque=0.0
+[/Script/FortniteUI.FortGameFeedbackBase]
+bDisableGameFeedbackAttachments=true
 [AssetHotfix]
 +DataTable=/Game/Athena/Items/SpyTech/Ability/SpyTechWeaponsUpgradeTable;TableUpdate;"[{\"Name\":\"WID_Shotgun_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Shotgun_HighSemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03.WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavySuppressed_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_Scoped_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Scoped_Athena_SR_Ore_T03.WID_Pistol_Scoped_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_VR_Ore_T03.WID_Assault_Surgical_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Surgical_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Surgical_Athena_SR_Ore_T03.WID_Assault_Surgical_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_R_Ore_T03.WID_Assault_Auto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Assault_Auto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_VR_Ore_T03.WID_Assault_AutoHigh_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_AutoHigh_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_AutoHigh_Athena_SR_Ore_T03.WID_Assault_AutoHigh_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_C_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_VR_Ore_T03.WID_Shotgun_Standard_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Shotgun_Standard_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_SR_Ore_T03.WID_Shotgun_Standard_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_VR.WID_Athena_SMG_VR\"},{\"Name\":\"WID_Athena_SMG_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Athena_SMG_SR.WID_Athena_SMG_SR\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_VR_Ore_T03.WID_Pistol_HandCannon_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_HandCannon_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_SR_Ore_T03.WID_Pistol_HandCannon_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_VR_Ore_T03.WID_Assault_Heavy_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Assault_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_Heavy_Athena_SR_Ore_T03.WID_Assault_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Assault_PistolCaliber_AR_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03.WID_Assault_PistolCaliber_AR_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Sniper_Heavy_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_RapidFireSMG_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03.WID_Pistol_RapidFireSMG_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SR_Ore_T03.WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\"},{\"Name\":\"WID_Sniper_Standard_Scope_Athena_VeryRare_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03.WID_Sniper_Standard_Scope_Athena_SuperRare_Ore_T03\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_R\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_VR.WID_Shotgun_SlugFire_Athena_VR\"},{\"Name\":\"WID_Shotgun_SlugFire_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Shotgun_SlugFire_Athena_SR.WID_Shotgun_SlugFire_Athena_SR\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_C_Ore_T02\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_R_Ore_T03.WID_Pistol_SemiAuto_Athena_R_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_R_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_VR.WID_Pistol_Standard_Athena_VR\"},{\"Name\":\"WID_Pistol_Standard_Athena_VR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_Standard_Athena_SR.WID_Pistol_Standard_Athena_SR\"},{\"Name\":\"WID_Pistol_Standard_Athena_SR\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Suppressed_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_VR_Ore_T03.WID_Pistol_SemiAuto_Athena_VR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_VR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_SemiAuto_Athena_SR_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03.WID_Pistol_SemiAuto_Suppressed_Athena_SR_Ore_T03\"},{\"Name\":\"WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03\",\"UpgradedItemToGrant\":\"/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_R_Ore_T03\"}]"
 +DataTable=/Game/Athena/Items/Quests/AthenaObjectiveStatXPTable;RowUpdate;Splash_InfiltrationPlayed;AccoladePrimaryAssetId;Accolades:AccoladeID_InfiltrationPlayed
