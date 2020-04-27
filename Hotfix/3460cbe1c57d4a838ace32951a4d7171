@@ -43,8 +43,6 @@ p.HackMaxVelocity2=2500
 au.BypassAllSubmixEffects=0
 Fort.MaxNumRecordedGunshots=0
 CreativeDeferredTask.DoNotDeferrTasks=1
-Fort.CosmeticManager.AlwaysLoadMeshPawnCosmetics=1
-Fort.Event.EventTeleportHeight=10000
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
@@ -128,14 +126,9 @@ HttpFlushTimeout=0.0
 LoginPortalUrl="/login/`logintype?client_id=`clientid&response_type=code"
 [OnlineSubsystemMcp]
 bUsePartySystemV2=true
-bQueryDisplayNameFromUserInterface=false
 [OnlineSubsystemMcp.OnlinePartySystemMcpV2 Embedded]
 TaskAnalyticsRate=1.0
 [OnlineSubsystemMcp.OnlineUserSearchMcp Prod]
 Domain="user-search-service-prod.ol.epicgames.com"
 [OnlineTracing]
-bEnabled=false
-[OnlineSubsystemMcp.OnlinePresenceMcp]
-bQueryLastOnlineDate=false
-[OnlineSubsystemMcp.OnlineInteractionsMcp]
 bEnabled=false

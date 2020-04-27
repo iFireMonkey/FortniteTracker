@@ -60,17 +60,6 @@ bHiddenButEnabledLiveStreamInMatch=false
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::MegaBundle,Priority=80)
 +ItemShopDefaultLandingPriority=(Section=EFortItemShopSection::Featured,Priority=70)
 bEnableSubscriptionNudges=false
-bEnableClientSettingsSaveToCloud=false
-bEnableMassFriendImport=false
-bEnableFriendSuggestions=false
-bShouldAthenaQueryRecentPlayers=false
-bEnableReplayRecording=false
-MinimumTimeBetweenConsolePresenceUpdates=60.0
-MinimumTimeBetweenMCPPresenceUpdates=60.0
-TournamentRefreshPayoutMaxRateSeconds=60
-TournamentRefreshEventsMaxRateSeconds=60
-TournamentRefreshPlayerMaxRateSeconds=60
-bEnableEventServicePayouts=false
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
