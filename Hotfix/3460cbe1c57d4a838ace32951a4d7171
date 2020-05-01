@@ -43,6 +43,7 @@ p.HackMaxVelocity2=2500
 au.BypassAllSubmixEffects=0
 Fort.MaxNumRecordedGunshots=0
 CreativeDeferredTask.DoNotDeferrTasks=1
+Fort.RecordGunshots=false
 [/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
 bAllowControllers=true
 [/Script/IOSRuntimeSettings.IOSRuntimeSettings]
@@ -122,7 +123,6 @@ PingTimeout=3.0
 HttpRetryLimit=1
 [OnlineSubsystemMcp.OnlineIdentityMcp]
 AccountCreationUrl="/tos?client_id=`clientid&response_type=code&embedded=true"
-HttpFlushTimeout=0.0
 LoginPortalUrl="/login/`logintype?client_id=`clientid&response_type=code"
 [OnlineSubsystemMcp]
 bUsePartySystemV2=true
