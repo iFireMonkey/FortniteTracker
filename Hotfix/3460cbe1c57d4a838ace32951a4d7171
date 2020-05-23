@@ -14,7 +14,6 @@ LogSkinnedMeshComp=Error
 AudioThread.WaitWarningThresholdMs=35000
 Athena.DeferInitialCustomizationsGC=0
 Fort.GliderRedeployRequiresJump=0
-Creative.FixedInstanceCost=40000
 Fort.Building.AutoChangeMaterialOnPreview=0
 Fort.EnableHoldUseToPickupSwap=1
 netui.UseNewPingCalculation=0
@@ -22,32 +21,24 @@ Fort.EnableClientTimeoutBlockInput=0
 Athena.bFireOpenedChestSummaryAnalyticEvent=1
 Building.EditConnectedActorsOptimization=0
 net.SupportFastArrayDelta=1
-Minigame.WaitingForReplicationTimeout=15
 demo.WithDeltaCheckpoints=0
 Athena.Vehicle.DisableCCDWhenKinematic=1
 Fort.SkyTubesBlockBuilding=0
 au.DisableADPCMSeekLock=0
 Fort.CheckTurboBuildTimerForClicking=1
-CreativeIslandSelect.ShowTemplateIslands=1
-Creative.EnablePreviewScreenshot=1
 Fort.ReleaseUseIfNotInteracting=0
 fort.HUD.ContextualChallenges.MaximumAmountOfChallenges=4
 fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationX=-120000.f
 fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationY=-80000.f
 fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationZ=7956.f
-Creative.InstanceCostMultiplier=1.0
-Creative.AssetCostMultiplier=1.05
-CreativeBudgetTracker.PerformIsLoadedTest=1
+AimAssist2D.TargetProjectionMaxTickRate=70
+fort.BeaconCheckOnMembers=0
+Athena.AllowBeaconCheckWithCreativeTeamSwitching=0
 Phoebe.EnsureOnCacheSenseConfigValidity=0
 p.HackMaxVelocity2=2500
 au.BypassAllSubmixEffects=0
-Fort.MaxNumRecordedGunshots=0
-CreativeDeferredTask.DoNotDeferrTasks=1
-Fort.RecordGunshots=false
-[/Script/AndroidRuntimeSettings.AndroidRuntimeSettings]
-bAllowControllers=true
-[/Script/IOSRuntimeSettings.IOSRuntimeSettings]
-bAllowControllers=true
+Athena.EnableSocialInteractionOnPlayerPawn=0
+Papaya.ServerShutdownInMinutes=240
 [OnlineSubsystemMcp.OnlineStatsMcp]
 bUpdatesConnectionStatus=false
 Domain="statsproxy-public-service-live.ol.epicgames.com"
@@ -60,8 +51,6 @@ HttpRetryLimit=1
 bDeletePingAfterJoin=false
 [/Script/Engine.Player]
 ConfiguredInternetSpeed=200000
-[Voice]
-bLiveStreamVoiceEnabled=true
 [/Script/Qos.QosRegionManager]
 NumTestsPerRegion=5
 PingTimeout=3.0
@@ -119,6 +108,7 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="EDG1_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.174.4", Port=22222), Servers[1]=(Address="143.131.174.5", Port=22222), Servers[2]=(Address="143.131.174.6", Port=22222), Servers[3]=(Address="143.131.174.7", Port=22222))
 +DatacenterDefinitions=(Id="EDG2_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.175.4", Port=22222), Servers[1]=(Address="143.131.175.5", Port=22222), Servers[2]=(Address="143.131.175.4", Port=22222), Servers[3]=(Address="143.131.175.5", Port=22222))
 +DatacenterDefinitions=(Id="ta_safrica", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.244.37.77", Port=22222), Servers[1]=(Address="13.245.24.37", Port=22222), Servers[2]=(Address="13.244.57.56", Port=22222), Servers[3]=(Address="13.245.26.167", Port=22222))
++DatacenterDefinitions=(Id="ta_it", RegionId="UND", bEnabled=true, Servers[0]=(Address="15.161.10.33", Port=22222), Servers[1]=(Address="15.161.0.172", Port=22222), Servers[2]=(Address="15.161.80.56", Port=22222), Servers[3]=(Address="15.161.167.210", Port=22222))
 [OnlineSubsystemMcp.OnlineEventsServiceMcp]
 HttpRetryLimit=1
 [OnlineSubsystemMcp.OnlineIdentityMcp]

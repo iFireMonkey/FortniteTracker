@@ -1,7 +1,3 @@
 [/Script/FortniteGame.FortRuntimeOptions]
-bEnableStartupSocialImport = true
-AllowLockPrimaryInputMethodToMouseForAccessibility=true
 bEnableStreamingReplayViewingUI=true
-bGetLiveSessionsFromLeaderboards=true
-bShowReplayTrailerButton_Athena=true
-bEnableAddFriendUserSearchDarkTraffic=true
+bAllowInGameStore=true
