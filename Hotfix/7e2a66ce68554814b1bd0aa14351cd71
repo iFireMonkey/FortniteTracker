@@ -2,3 +2,8 @@
 NonFatalErrors="AuthFailed_InvalidMFA AuthFailed_RefreshInvalid AuthFailed_RequiresMFA AuthParentalLock Console_AddedAuthAssociation Console_DuplicateAuthAssociation Console_LoginFailed Console_MissingAuthAssociation Console_NotEntitled EULACheckFailed ExternalAuth_AddedAuthAssociation ExternalAuth_AssociationFailure ExternalAuth_MissingAuthAssociation NotStarted NotEntitled Pending ServiceUnavailable Success"
 [/Script/FortniteGame.FortBadMatchTriggers]
 bAllowForcedPerformanceReport=false
+[AssetHotfix]
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthHip;0;0.45
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthHip;0;0.375
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthAds;0;0.525
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthAds;0;0.3
