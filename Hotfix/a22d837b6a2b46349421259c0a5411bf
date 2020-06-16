@@ -23,12 +23,9 @@ bBattleRoyaleMatchmakingEnabled=true
 !DynamicSoundData=ClearArray
 +DynamicSoundData=(Name=S12_Announcer_Intel_NewTechAvail_Dialogue_Cue, SoundOverrideType=Cue, Volume=0.0)
 !FrontEndPlaylistData=ClearArray
-+FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, bInvisibleWhenEnabled=true, DisplayPriority=18))
-+FrontEndPlaylistData=(PlaylistName=Playlist_BattleLab, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=True, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSolo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=3))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultDuo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=4))
 +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSquad, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=5))
-+FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Respawn_24, PlaylistAccess=(bEnabled=True, bIsDefaultPlaylist=true, CategoryIndex=0, bDisplayAsLimitedTime=false, DisplayPriority=8))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultSolo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=200, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Bots_DefaultDuo, PlaylistAccess=(bEnabled=false, CategoryIndex=0, DisplayPriority=201, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bInvisibleWhenEnabled=true))
@@ -38,7 +35,12 @@ bBattleRoyaleMatchmakingEnabled=true
 +FrontEndPlaylistData=(PlaylistName=playlist_uranium_p, PlaylistAccess=(bEnabled=true, CategoryIndex=2, DisplayPriority=13))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Rumble_op, PlaylistAccess=(bEnabled=false, CategoryIndex=2, DisplayPriority=13))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Infiltration, PlaylistAccess=(bEnabled=false, CategoryIndex=2, DisplayPriority=13))
++FrontEndPlaylistData=(PlaylistName=Playlist_Creative_PlayOnly, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=False, CategoryIndex=1, bDisplayAsLimitedTime=false, bInvisibleWhenEnabled=true, DisplayPriority=18))
++FrontEndPlaylistData=(PlaylistName=Playlist_BattleLab, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=True, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=17))
++FrontEndPlaylistData=(PlaylistName=Playlist_PlaygroundV2, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=false, bVisibleWhenDisabled=false, bDisplayAsNew=false, CategoryIndex=1, bDisplayAsLimitedTime=false, DisplayPriority=16))
 +FrontEndPlaylistData=(PlaylistName=Playlist_Papaya, PlaylistAccess=(bEnabled=true, DisplayPriority=14, CategoryIndex=2))
++FrontEndPlaylistData=(PlaylistName= Playlist_Tutorial_1, PlaylistAccess=(bEnabled=false, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10), AccessOverrides=((Regions=("ALL"), Platforms=("IOS","Android"), OverrideAccess=(bEnabled=true, bIsDefaultPlaylist=false, bDisplayAsLimitedTime=false, CategoryIndex=2, DisplayPriority=10))))
+CosmeticsBlacklistedByHotfix=("AthenaBackpack:bid_512_hurricane")
 [/Script/FortniteGame.FortGameSession]
 bEnableMeshNetwork=true
 !DisabledMeshRegions=ClearArray
