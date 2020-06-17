@@ -3,7 +3,7 @@ NonFatalErrors="AuthFailed_InvalidMFA AuthFailed_RefreshInvalid AuthFailed_Requi
 [/Script/FortniteGame.FortBadMatchTriggers]
 bAllowForcedPerformanceReport=false
 [AssetHotfix]
-+CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthHip;0;0.45
-+CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthHip;0;0.375
-+CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthAds;0;0.525
-+CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthAds;0;0.3
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthHip;0;0.3
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthHip;0;0.25
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthAds;0;0.35
++CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthAds;0;0.2

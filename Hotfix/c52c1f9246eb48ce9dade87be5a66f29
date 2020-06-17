@@ -1,5 +1,5 @@
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=5
+PreloadRevision=6
 TotalPlayerTechLevelsToShow=50
 bEnableProfileStatTracking=false
 bUseNewLookAccel=false
@@ -14,13 +14,11 @@ bShowAthenaStoreToast=true
 bEnablePlayerStatsPrecache=true
 bLiveGameTimeDurationVisible=false
 NewMtxStoreCohortSampleSet=100
-bEnableChannelsServiceLoadTesting=true
 bEnableContentControlsPurchaseReporting=false
 bEnableFriendSuggestions=true
 LevelToAutoOpenBattlePassOnNewSeason=0
 bEnableSocialBanModal=true
 AthenaNavMeshGeneratorMaxTimeSliceDuration=0.002
-bTouchInteractInUIAvailable=true
 NumSavedLoadouts=11
 bEnableFactionTechScreen=true
 bRequireFactionChoiceOnInfiltrationPlay=true

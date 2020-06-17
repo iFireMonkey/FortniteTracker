@@ -34,7 +34,6 @@ fort.HUD.Map.Icons.Ingame.StackOfNoLocationIconWorldLocationZ=7956.f
 AimAssist2D.TargetProjectionMaxTickRate=70
 fort.BeaconCheckOnMembers=0
 Athena.AllowBeaconCheckWithCreativeTeamSwitching=0
-Phoebe.EnsureOnCacheSenseConfigValidity=0
 p.HackMaxVelocity2=2500
 au.BypassAllSubmixEffects=0
 Athena.EnableSocialInteractionOnPlayerPawn=0
@@ -51,8 +50,6 @@ HttpRetryLimit=1
 +HttpRetryResponseCodes=503
 +HttpRetryResponseCodes=504
 bDeletePingAfterJoin=false
-[/Script/Engine.Player]
-ConfiguredInternetSpeed=200000
 [/Script/Qos.QosRegionManager]
 NumTestsPerRegion=5
 PingTimeout=3.0
