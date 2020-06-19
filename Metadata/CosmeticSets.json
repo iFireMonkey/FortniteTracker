@@ -10229,6 +10229,564 @@
           }
         }
       }
+    },
+    "Cosmetics.Set.OldExplorer": {
+      "Tag": {
+        "Position": 80526,
+        "Value": {
+          "TagName": {
+            "Position": 80551,
+            "Value": {
+              "String": "Cosmetics.Set.OldExplorer"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 80592,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.OldExplorer_DisplayName",
+            "SourceString": "Ancient Voyager"
+          }
+        }
+      },
+      "Description": {
+        "Position": 80701,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.GlowingGlory": {
+      "Tag": {
+        "Position": 80775,
+        "Value": {
+          "TagName": {
+            "Position": 80800,
+            "Value": {
+              "String": "Cosmetics.Set.GlowingGlory"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 80841,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.GlowingGlory_DisplayName",
+            "SourceString": "Honor Shining"
+          }
+        }
+      },
+      "Description": {
+        "Position": 80949,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.GroupEnergy": {
+      "Tag": {
+        "Position": 81023,
+        "Value": {
+          "TagName": {
+            "Position": 81048,
+            "Value": {
+              "String": "Cosmetics.Set.GroupEnergy"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 81089,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.GroupEnergy_DisplayName",
+            "SourceString": "Team Spirit"
+          }
+        }
+      },
+      "Description": {
+        "Position": 81194,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.TailoredPrecision": {
+      "Tag": {
+        "Position": 81268,
+        "Value": {
+          "TagName": {
+            "Position": 81293,
+            "Value": {
+              "String": "Cosmetics.Set.TailoredPrecision"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 81334,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.TailoredPrecision_DisplayName",
+            "SourceString": "Geared Perfection"
+          }
+        }
+      },
+      "Description": {
+        "Position": 81451,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.SeaIncreasing": {
+      "Tag": {
+        "Position": 81525,
+        "Value": {
+          "TagName": {
+            "Position": 81550,
+            "Value": {
+              "String": "Cosmetics.Set.SeaIncreasing"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 81591,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.SeaIncreasing_DisplayName",
+            "SourceString": "Ocean Rising"
+          }
+        }
+      },
+      "Description": {
+        "Position": 81699,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.SoarClock": {
+      "Tag": {
+        "Position": 81773,
+        "Value": {
+          "TagName": {
+            "Position": 81798,
+            "Value": {
+              "String": "Cosmetics.Set.SoarClock"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 81839,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.SoarClock_DisplayName",
+            "SourceString": "Aquaman"
+          }
+        }
+      },
+      "Description": {
+        "Position": 81938,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.LiquidHole": {
+      "Tag": {
+        "Position": 82012,
+        "Value": {
+          "TagName": {
+            "Position": 82037,
+            "Value": {
+              "String": "Cosmetics.Set.LiquidHole"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 82078,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.LiquidHole_DisplayName",
+            "SourceString": "Watery Grave"
+          }
+        }
+      },
+      "Description": {
+        "Position": 82183,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.LeapSquad": {
+      "Tag": {
+        "Position": 82257,
+        "Value": {
+          "TagName": {
+            "Position": 82282,
+            "Value": {
+              "String": "Cosmetics.Set.LeapSquad"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 82323,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.LeapSquad_DisplayName",
+            "SourceString": "Dive Crew"
+          }
+        }
+      },
+      "Description": {
+        "Position": 82424,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.DimDated": {
+      "Tag": {
+        "Position": 82498,
+        "Value": {
+          "TagName": {
+            "Position": 82523,
+            "Value": {
+              "String": "Cosmetics.Set.DimDated"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 82564,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.DimDated_DisplayName",
+            "SourceString": "Fade Out"
+          }
+        }
+      },
+      "Description": {
+        "Position": 82663,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.SnakeSmack": {
+      "Tag": {
+        "Position": 82737,
+        "Value": {
+          "TagName": {
+            "Position": 82762,
+            "Value": {
+              "String": "Cosmetics.Set.SnakeSmack"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 82803,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.SnakeSmack_DisplayName",
+            "SourceString": "Serpent Strike"
+          }
+        }
+      },
+      "Description": {
+        "Position": 82910,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.CrocCommand": {
+      "Tag": {
+        "Position": 82984,
+        "Value": {
+          "TagName": {
+            "Position": 83009,
+            "Value": {
+              "String": "Cosmetics.Set.CrocCommand"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 83050,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.CrocCommand_DisplayName",
+            "SourceString": "Gator Force"
+          }
+        }
+      },
+      "Description": {
+        "Position": 83155,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.OutlawFire": {
+      "Tag": {
+        "Position": 83229,
+        "Value": {
+          "TagName": {
+            "Position": 83254,
+            "Value": {
+              "String": "Cosmetics.Set.OutlawFire"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 83295,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.OutlawFire_DisplayName",
+            "SourceString": "Renegade Flame"
+          }
+        }
+      },
+      "Description": {
+        "Position": 83402,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.TwoActor": {
+      "Tag": {
+        "Position": 83476,
+        "Value": {
+          "TagName": {
+            "Position": 83501,
+            "Value": {
+              "String": "Cosmetics.Set.TwoActor"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 83542,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.TwoActor_DisplayName",
+            "SourceString": "Dual Agent"
+          }
+        }
+      },
+      "Description": {
+        "Position": 83643,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.FearlessMotor": {
+      "Tag": {
+        "Position": 83717,
+        "Value": {
+          "TagName": {
+            "Position": 83742,
+            "Value": {
+              "String": "Cosmetics.Set.FearlessMotor"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 83783,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.FearlessMotor_DisplayName",
+            "SourceString": "Intrepid Engines"
+          }
+        }
+      },
+      "Description": {
+        "Position": 83895,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.MechDoggo": {
+      "Tag": {
+        "Position": 83969,
+        "Value": {
+          "TagName": {
+            "Position": 83994,
+            "Value": {
+              "String": "Cosmetics.Set.MechDoggo"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 84035,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.MechDoggo_DisplayName",
+            "SourceString": "Mecha Kitty"
+          }
+        }
+      },
+      "Description": {
+        "Position": 84138,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.Buccaneer": {
+      "Tag": {
+        "Position": 84212,
+        "Value": {
+          "TagName": {
+            "Position": 84237,
+            "Value": {
+              "String": "Cosmetics.Set.Buccaneer"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 84278,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.Buccaneer_DisplayName",
+            "SourceString": "Marauder"
+          }
+        }
+      },
+      "Description": {
+        "Position": 84378,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.BurstAccident": {
+      "Tag": {
+        "Position": 84452,
+        "Value": {
+          "TagName": {
+            "Position": 84477,
+            "Value": {
+              "String": "Cosmetics.Set.BurstAccident"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 84518,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.BurstAccident_DisplayName",
+            "SourceString": "Splash Damage"
+          }
+        }
+      },
+      "Description": {
+        "Position": 84627,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
+    },
+    "Cosmetics.Set.Garbo": {
+      "Tag": {
+        "Position": 84701,
+        "Value": {
+          "TagName": {
+            "Position": 84726,
+            "Value": {
+              "String": "Cosmetics.Set.Garbo"
+            }
+          }
+        }
+      },
+      "DisplayName": {
+        "Position": 84767,
+        "Value": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.Garbo_DisplayName",
+            "SourceString": "Trashy"
+          }
+        }
+      },
+      "Description": {
+        "Position": 84861,
+        "Value": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      }
     }
   }
 ]
