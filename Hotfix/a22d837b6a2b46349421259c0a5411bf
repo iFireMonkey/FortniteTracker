@@ -58,7 +58,6 @@ AccountMergeURL="https://epicgames.helpshift.com/a/fortnite/?p=all&s=account-mer
 +RiskyReelsPlaylistWhitelistFilter=Athena.Playlist.TeamRumble
 +RiskyReelsPlaylistWhitelistFilter=Athena.Playlist.Spygames
 +RiskyReelsPlaylistWhitelistFilter=athena.playlist.50soaring
-MemoryRequirementForMediaStreamingMB=0
 [/Script/FortniteGame.FortMatchmakingV2]
 MatchmakingRetryInterval=1.f
 !AltDomainRecords=ClearArray
