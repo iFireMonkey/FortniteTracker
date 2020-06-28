@@ -1,0 +1,83 @@
+[
+  {
+    "Player": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 21
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1299.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 1300.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 176,
+            "Value": {
+              "KeyTime": 1536.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 184,
+            "Value": {
+              "KeyTime": 1920.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 192,
+            "Value": {
+              "KeyTime": 2304.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 200,
+            "Value": {
+              "KeyTime": 2704.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 208,
+            "Value": {
+              "KeyTime": 7200.0,
+              "KeyValue": 5.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 241,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 278,
+        "Value": 20
+      },
+      "PostInfinityExtrap": {
+        "Position": 319,
+        "Value": 20
+      }
+    }
+  }
+]

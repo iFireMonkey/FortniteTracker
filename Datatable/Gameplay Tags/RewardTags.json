@@ -1,0 +1,1204 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "MissionReward"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": null
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 156,
+        "Value": {
+          "String": "MissionReward.Badge"
+        }
+      },
+      "DevComment": {
+        "Position": 189,
+        "Value": null
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 234,
+        "Value": {
+          "String": "MissionReward.Badge.RetrieveTheData.Participation"
+        }
+      },
+      "DevComment": {
+        "Position": 267,
+        "Value": null
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 312,
+        "Value": {
+          "String": "MissionReward.Badge.RetrieveTheData.Bronze"
+        }
+      },
+      "DevComment": {
+        "Position": 345,
+        "Value": null
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 390,
+        "Value": {
+          "String": "MissionReward.Badge.RetrieveTheData.Silver"
+        }
+      },
+      "DevComment": {
+        "Position": 423,
+        "Value": null
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 468,
+        "Value": {
+          "String": "MissionReward.Badge.RetrieveTheData.Gold"
+        }
+      },
+      "DevComment": {
+        "Position": 501,
+        "Value": null
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 546,
+        "Value": {
+          "String": "MissionReward.Badge.RetrieveTheData.Platinum"
+        }
+      },
+      "DevComment": {
+        "Position": 579,
+        "Value": null
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 624,
+        "Value": {
+          "String": "MissionReward.Badge.Participation"
+        }
+      },
+      "DevComment": {
+        "Position": 657,
+        "Value": null
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 702,
+        "Value": {
+          "String": "MissionReward.Badge.Bronze"
+        }
+      },
+      "DevComment": {
+        "Position": 735,
+        "Value": null
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 780,
+        "Value": {
+          "String": "MissionReward.Badge.Silver"
+        }
+      },
+      "DevComment": {
+        "Position": 813,
+        "Value": null
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 858,
+        "Value": {
+          "String": "MissionReward.Badge.Gold"
+        }
+      },
+      "DevComment": {
+        "Position": 891,
+        "Value": null
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 936,
+        "Value": {
+          "String": "MissionReward.Badge.Platinum"
+        }
+      },
+      "DevComment": {
+        "Position": 969,
+        "Value": null
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1014,
+        "Value": {
+          "String": "MissionReward.Badge.1stOutpost"
+        }
+      },
+      "DevComment": {
+        "Position": 1047,
+        "Value": null
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1092,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg1"
+        }
+      },
+      "DevComment": {
+        "Position": 1125,
+        "Value": null
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1170,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg2"
+        }
+      },
+      "DevComment": {
+        "Position": 1203,
+        "Value": null
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1248,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg3"
+        }
+      },
+      "DevComment": {
+        "Position": 1281,
+        "Value": null
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1326,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg4"
+        }
+      },
+      "DevComment": {
+        "Position": 1359,
+        "Value": null
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 1404,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg5"
+        }
+      },
+      "DevComment": {
+        "Position": 1437,
+        "Value": null
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 1482,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg6"
+        }
+      },
+      "DevComment": {
+        "Position": 1515,
+        "Value": null
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 1560,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostBonus"
+        }
+      },
+      "DevComment": {
+        "Position": 1593,
+        "Value": null
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 1638,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg7"
+        }
+      },
+      "DevComment": {
+        "Position": 1671,
+        "Value": null
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 1716,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg8"
+        }
+      },
+      "DevComment": {
+        "Position": 1749,
+        "Value": null
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 1794,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg9"
+        }
+      },
+      "DevComment": {
+        "Position": 1827,
+        "Value": null
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 1872,
+        "Value": {
+          "String": "MissionReward.Badge.OutpostLeg10"
+        }
+      },
+      "DevComment": {
+        "Position": 1905,
+        "Value": null
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 1950,
+        "Value": {
+          "String": "MissionReward.Badge.SpeedRun"
+        }
+      },
+      "DevComment": {
+        "Position": 1983,
+        "Value": null
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 2028,
+        "Value": {
+          "String": "MissionReward.Badge.Bonus1"
+        }
+      },
+      "DevComment": {
+        "Position": 2061,
+        "Value": null
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 2106,
+        "Value": {
+          "String": "MissionReward.Badge.Bonus2"
+        }
+      },
+      "DevComment": {
+        "Position": 2139,
+        "Value": null
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 2184,
+        "Value": {
+          "String": "MissionReward.Badge.Bonus3"
+        }
+      },
+      "DevComment": {
+        "Position": 2217,
+        "Value": null
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 2262,
+        "Value": {
+          "String": "MissionReward.Badge.Bonus4"
+        }
+      },
+      "DevComment": {
+        "Position": 2295,
+        "Value": null
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 2340,
+        "Value": {
+          "String": "MissionReward.Badge.Bonus5"
+        }
+      },
+      "DevComment": {
+        "Position": 2373,
+        "Value": null
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 2418,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Combat1"
+        }
+      },
+      "DevComment": {
+        "Position": 2451,
+        "Value": null
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 2496,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Combat2"
+        }
+      },
+      "DevComment": {
+        "Position": 2529,
+        "Value": null
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 2574,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Combat3"
+        }
+      },
+      "DevComment": {
+        "Position": 2607,
+        "Value": null
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 2652,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Combat4"
+        }
+      },
+      "DevComment": {
+        "Position": 2685,
+        "Value": null
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 2730,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Combat5"
+        }
+      },
+      "DevComment": {
+        "Position": 2763,
+        "Value": null
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 2808,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Building1"
+        }
+      },
+      "DevComment": {
+        "Position": 2841,
+        "Value": null
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 2886,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Building2"
+        }
+      },
+      "DevComment": {
+        "Position": 2919,
+        "Value": null
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 2964,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Building3"
+        }
+      },
+      "DevComment": {
+        "Position": 2997,
+        "Value": null
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 3042,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Building4"
+        }
+      },
+      "DevComment": {
+        "Position": 3075,
+        "Value": null
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 3120,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Building5"
+        }
+      },
+      "DevComment": {
+        "Position": 3153,
+        "Value": null
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 3198,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Utility1"
+        }
+      },
+      "DevComment": {
+        "Position": 3231,
+        "Value": null
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 3276,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Utility2"
+        }
+      },
+      "DevComment": {
+        "Position": 3309,
+        "Value": null
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 3354,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Utility3"
+        }
+      },
+      "DevComment": {
+        "Position": 3387,
+        "Value": null
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 3432,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Utility4"
+        }
+      },
+      "DevComment": {
+        "Position": 3465,
+        "Value": null
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 3510,
+        "Value": {
+          "String": "MissionReward.Badge.Score.Utility5"
+        }
+      },
+      "DevComment": {
+        "Position": 3543,
+        "Value": null
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 3588,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day1"
+        }
+      },
+      "DevComment": {
+        "Position": 3621,
+        "Value": null
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 3666,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day2"
+        }
+      },
+      "DevComment": {
+        "Position": 3699,
+        "Value": null
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 3744,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day3"
+        }
+      },
+      "DevComment": {
+        "Position": 3777,
+        "Value": null
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 3822,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day4"
+        }
+      },
+      "DevComment": {
+        "Position": 3855,
+        "Value": null
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 3900,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day5"
+        }
+      },
+      "DevComment": {
+        "Position": 3933,
+        "Value": null
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 3978,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day6"
+        }
+      },
+      "DevComment": {
+        "Position": 4011,
+        "Value": null
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 4056,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day7"
+        }
+      },
+      "DevComment": {
+        "Position": 4089,
+        "Value": null
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 4134,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day8"
+        }
+      },
+      "DevComment": {
+        "Position": 4167,
+        "Value": null
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 4212,
+        "Value": {
+          "String": "SurvivalReward.Badge.Day9"
+        }
+      },
+      "DevComment": {
+        "Position": 4245,
+        "Value": null
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 4290,
+        "Value": {
+          "String": "Survival.Reward.Badge.Day10"
+        }
+      },
+      "DevComment": {
+        "Position": 4323,
+        "Value": null
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 4368,
+        "Value": {
+          "String": "Survival.Reward.Badge.Day11"
+        }
+      },
+      "DevComment": {
+        "Position": 4401,
+        "Value": null
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 4446,
+        "Value": {
+          "String": "Survival.Reward.Badge.Day12"
+        }
+      },
+      "DevComment": {
+        "Position": 4479,
+        "Value": null
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 4524,
+        "Value": {
+          "String": "Survival.Reward.Badge.Day13"
+        }
+      },
+      "DevComment": {
+        "Position": 4557,
+        "Value": null
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 4602,
+        "Value": {
+          "String": "Survival.Reward.Badge.Day14"
+        }
+      },
+      "DevComment": {
+        "Position": 4635,
+        "Value": null
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 4680,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave1"
+        }
+      },
+      "DevComment": {
+        "Position": 4713,
+        "Value": null
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 4758,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave2"
+        }
+      },
+      "DevComment": {
+        "Position": 4791,
+        "Value": null
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 4836,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave3"
+        }
+      },
+      "DevComment": {
+        "Position": 4869,
+        "Value": null
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 4914,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave4"
+        }
+      },
+      "DevComment": {
+        "Position": 4947,
+        "Value": null
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 4992,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave5"
+        }
+      },
+      "DevComment": {
+        "Position": 5025,
+        "Value": null
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 5070,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave6"
+        }
+      },
+      "DevComment": {
+        "Position": 5103,
+        "Value": null
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 5148,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave7"
+        }
+      },
+      "DevComment": {
+        "Position": 5181,
+        "Value": null
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 5226,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave8"
+        }
+      },
+      "DevComment": {
+        "Position": 5259,
+        "Value": null
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 5304,
+        "Value": {
+          "String": "Horde.Reward.Badge.Wave9"
+        }
+      },
+      "DevComment": {
+        "Position": 5337,
+        "Value": null
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 5382,
+        "Value": {
+          "String": "Horde.Reward.Badge.Victory"
+        }
+      },
+      "DevComment": {
+        "Position": 5415,
+        "Value": null
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 5460,
+        "Value": {
+          "String": "MissionReward.CardPack.ContainsGold"
+        }
+      },
+      "DevComment": {
+        "Position": 5493,
+        "Value": "Tag any cardpack that contains gold.  Used to display warning if player is at the gold cap."
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 5630,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave1"
+        }
+      },
+      "DevComment": {
+        "Position": 5663,
+        "Value": null
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 5708,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave2"
+        }
+      },
+      "DevComment": {
+        "Position": 5741,
+        "Value": null
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 5786,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave3"
+        }
+      },
+      "DevComment": {
+        "Position": 5819,
+        "Value": null
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 5864,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave4"
+        }
+      },
+      "DevComment": {
+        "Position": 5897,
+        "Value": null
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 5942,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave5"
+        }
+      },
+      "DevComment": {
+        "Position": 5975,
+        "Value": null
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 6020,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave6"
+        }
+      },
+      "DevComment": {
+        "Position": 6053,
+        "Value": null
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 6098,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave7"
+        }
+      },
+      "DevComment": {
+        "Position": 6131,
+        "Value": null
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 6176,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave8"
+        }
+      },
+      "DevComment": {
+        "Position": 6209,
+        "Value": null
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 6254,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave9"
+        }
+      },
+      "DevComment": {
+        "Position": 6287,
+        "Value": null
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 6332,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave10"
+        }
+      },
+      "DevComment": {
+        "Position": 6365,
+        "Value": null
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 6410,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave11"
+        }
+      },
+      "DevComment": {
+        "Position": 6443,
+        "Value": null
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 6488,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave12"
+        }
+      },
+      "DevComment": {
+        "Position": 6521,
+        "Value": null
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 6566,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave13"
+        }
+      },
+      "DevComment": {
+        "Position": 6599,
+        "Value": null
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 6644,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave14"
+        }
+      },
+      "DevComment": {
+        "Position": 6677,
+        "Value": null
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 6722,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave15"
+        }
+      },
+      "DevComment": {
+        "Position": 6755,
+        "Value": null
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 6800,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave16"
+        }
+      },
+      "DevComment": {
+        "Position": 6833,
+        "Value": null
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 6878,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave17"
+        }
+      },
+      "DevComment": {
+        "Position": 6911,
+        "Value": null
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 6956,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave18"
+        }
+      },
+      "DevComment": {
+        "Position": 6989,
+        "Value": null
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 7034,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave19"
+        }
+      },
+      "DevComment": {
+        "Position": 7067,
+        "Value": null
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 7112,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave20"
+        }
+      },
+      "DevComment": {
+        "Position": 7145,
+        "Value": null
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 7190,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave21"
+        }
+      },
+      "DevComment": {
+        "Position": 7223,
+        "Value": null
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 7268,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave22"
+        }
+      },
+      "DevComment": {
+        "Position": 7301,
+        "Value": null
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 7346,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave23"
+        }
+      },
+      "DevComment": {
+        "Position": 7379,
+        "Value": null
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 7424,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave24"
+        }
+      },
+      "DevComment": {
+        "Position": 7457,
+        "Value": null
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 7502,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave25"
+        }
+      },
+      "DevComment": {
+        "Position": 7535,
+        "Value": null
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 7580,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave26"
+        }
+      },
+      "DevComment": {
+        "Position": 7613,
+        "Value": null
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 7658,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave27"
+        }
+      },
+      "DevComment": {
+        "Position": 7691,
+        "Value": null
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 7736,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave28"
+        }
+      },
+      "DevComment": {
+        "Position": 7769,
+        "Value": null
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 7814,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave29"
+        }
+      },
+      "DevComment": {
+        "Position": 7847,
+        "Value": null
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 7892,
+        "Value": {
+          "String": "Endless.Reward.Badge.Wave30"
+        }
+      },
+      "DevComment": {
+        "Position": 7925,
+        "Value": null
+      }
+    }
+  }
+]

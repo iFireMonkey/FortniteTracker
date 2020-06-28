@@ -1,0 +1,41 @@
+[
+  {
+    "Curves.Linear": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 20
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": -65536.0,
+              "KeyValue": -65536.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 65536.0,
+              "KeyValue": 65536.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 193,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 230,
+        "Value": 19
+      },
+      "PostInfinityExtrap": {
+        "Position": 271,
+        "Value": 19
+      }
+    }
+  }
+]

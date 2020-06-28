@@ -1,0 +1,2434 @@
+[
+  {
+    "AthenaHero.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 185,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 222,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 263,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 320,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 361,
+        "Value": [
+          {
+            "Position": 414,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 447,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 484,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 525,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHealthSet.CurrentShield": {
+      "InterpMode": {
+        "Position": 582,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 623,
+        "Value": [
+          {
+            "Position": 676,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 709,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 746,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 787,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHealthRegenSet.HealthRegenRate": {
+      "InterpMode": {
+        "Position": 844,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 885,
+        "Value": [
+          {
+            "Position": 938,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 971,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1008,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 1049,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHealthRegenSet.ShieldRegenRate": {
+      "InterpMode": {
+        "Position": 1106,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 1147,
+        "Value": [
+          {
+            "Position": 1200,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1233,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1270,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 1311,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHealthRegenSet.HealthRegenThreshold": {
+      "InterpMode": {
+        "Position": 1368,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 1409,
+        "Value": [
+          {
+            "Position": 1462,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1495,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1532,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 1573,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHealthRegenSet.ShieldRegenThreshold": {
+      "InterpMode": {
+        "Position": 1630,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 1671,
+        "Value": [
+          {
+            "Position": 1724,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1757,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1794,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 1835,
+        "Value": 97
+      }
+    },
+    "AthenaHero.Defaults.FortHomebaseSet.WorldInventorySizeBonus": {
+      "InterpMode": {
+        "Position": 1892,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 1933,
+        "Value": [
+          {
+            "Position": 1986,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2019,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2056,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 2097,
+        "Value": 97
+      }
+    },
+    "AthenaCart.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 2154,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 2195,
+        "Value": [
+          {
+            "Position": 2248,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2281,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2318,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 2359,
+        "Value": 97
+      }
+    },
+    "AthenaCart.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 2416,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 2457,
+        "Value": [
+          {
+            "Position": 2510,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2543,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2580,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 2621,
+        "Value": 97
+      }
+    },
+    "AthenaGolfCart.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 2678,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 2719,
+        "Value": [
+          {
+            "Position": 2772,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2805,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2842,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 2883,
+        "Value": 97
+      }
+    },
+    "AthenaGolfCart.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 2940,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 2981,
+        "Value": [
+          {
+            "Position": 3034,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3067,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3104,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 3145,
+        "Value": 97
+      }
+    },
+    "AthenaMountedTurret.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 3202,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 3243,
+        "Value": [
+          {
+            "Position": 3296,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3329,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3366,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 3407,
+        "Value": 97
+      }
+    },
+    "AthenaMountedTurret.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 3464,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 3505,
+        "Value": [
+          {
+            "Position": 3558,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3591,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3628,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 3669,
+        "Value": 97
+      }
+    },
+    "AthenaBiplane.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 3726,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 3767,
+        "Value": [
+          {
+            "Position": 3820,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 800.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3853,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3890,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 3931,
+        "Value": 97
+      }
+    },
+    "AthenaBiplane.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 3988,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 4029,
+        "Value": [
+          {
+            "Position": 4082,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4115,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4152,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 4193,
+        "Value": 97
+      }
+    },
+    "AthenaHoverBoard.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 4250,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 4291,
+        "Value": [
+          {
+            "Position": 4344,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 300.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4377,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4414,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 4455,
+        "Value": 97
+      }
+    },
+    "AthenaHoverBoard.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 4512,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 4553,
+        "Value": [
+          {
+            "Position": 4606,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4639,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4676,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 4717,
+        "Value": 97
+      }
+    },
+    "AthenaHamsterBall.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 4774,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 4815,
+        "Value": [
+          {
+            "Position": 4868,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4901,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4938,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 4979,
+        "Value": 97
+      }
+    },
+    "AthenaHamsterBall.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 5036,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 5077,
+        "Value": [
+          {
+            "Position": 5130,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5200,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 5241,
+        "Value": 97
+      }
+    },
+    "AthenaCannon.Defaults.FortHealthSet.Maxhealth": {
+      "InterpMode": {
+        "Position": 5298,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 5339,
+        "Value": [
+          {
+            "Position": 5392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 800.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5425,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5462,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 5503,
+        "Value": 97
+      }
+    },
+    "AthenaCannon.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 5560,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 5601,
+        "Value": [
+          {
+            "Position": 5654,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5687,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5724,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 5765,
+        "Value": 97
+      }
+    },
+    "AthenaDingo.Defaults.FortHealthSet.Maxhealth": {
+      "InterpMode": {
+        "Position": 5822,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 5863,
+        "Value": [
+          {
+            "Position": 5916,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5949,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5986,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 6027,
+        "Value": 97
+      }
+    },
+    "AthenaDingo.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 6084,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 6125,
+        "Value": [
+          {
+            "Position": 6178,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6211,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6248,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 6289,
+        "Value": 97
+      }
+    },
+    "AthenaSneakySnowman.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 6346,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 6387,
+        "Value": [
+          {
+            "Position": 6440,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6473,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6510,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 6551,
+        "Value": 97
+      }
+    },
+    "AthenaSneakySnowman.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 6608,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 6649,
+        "Value": [
+          {
+            "Position": 6702,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6735,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6772,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 6813,
+        "Value": 97
+      }
+    },
+    "AthenaBush.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 6870,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 6911,
+        "Value": [
+          {
+            "Position": 6964,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6997,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7034,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 7075,
+        "Value": 97
+      }
+    },
+    "AthenaHoverBoardLTM.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 7132,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 7173,
+        "Value": [
+          {
+            "Position": 7226,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 99999.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7259,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7296,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 7337,
+        "Value": 97
+      }
+    },
+    "AthenaMech.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 7394,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 7435,
+        "Value": [
+          {
+            "Position": 7488,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1250.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7521,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7558,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 7599,
+        "Value": 97
+      }
+    },
+    "AthenaMech.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 7656,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 7697,
+        "Value": [
+          {
+            "Position": 7750,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7783,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7820,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 7861,
+        "Value": 97
+      }
+    },
+    "AthenaMech.Defaults.FortOstrichSet.WalkSpeed": {
+      "InterpMode": {
+        "Position": 7918,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 7959,
+        "Value": [
+          {
+            "Position": 8012,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 600.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8045,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8082,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 8123,
+        "Value": 97
+      }
+    },
+    "AthenaMech.Defaults.FortOstrichSet.SprintSpeed": {
+      "InterpMode": {
+        "Position": 8180,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 8221,
+        "Value": [
+          {
+            "Position": 8274,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 600.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8307,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8344,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 8385,
+        "Value": 97
+      }
+    },
+    "AthenaMechShield.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 8442,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 8483,
+        "Value": [
+          {
+            "Position": 8536,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1E+09
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8569,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8606,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 8647,
+        "Value": 97
+      }
+    },
+    "AthenaMechShield.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 8704,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 8745,
+        "Value": [
+          {
+            "Position": 8798,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1E+09
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8831,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8868,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 8909,
+        "Value": 97
+      }
+    },
+    "AthenaMeatball.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 8966,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 9007,
+        "Value": [
+          {
+            "Position": 9060,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 800.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9093,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9130,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 9171,
+        "Value": 97
+      }
+    },
+    "AthenaMeatball.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 9228,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 9269,
+        "Value": [
+          {
+            "Position": 9322,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9355,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9392,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 9433,
+        "Value": 97
+      }
+    },
+    "AthenaFrozenLoot.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 9490,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 9531,
+        "Value": [
+          {
+            "Position": 9584,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3500.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9617,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9654,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 9695,
+        "Value": 97
+      }
+    },
+    "AthenaWumba.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 9752,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 9793,
+        "Value": [
+          {
+            "Position": 9846,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9879,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9916,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 9957,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.FuelTankCapacity": {
+      "InterpMode": {
+        "Position": 10014,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 10055,
+        "Value": [
+          {
+            "Position": 10108,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10141,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10178,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 10219,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondIdle": {
+      "InterpMode": {
+        "Position": 10276,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 10317,
+        "Value": [
+          {
+            "Position": 10370,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10403,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10440,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 10481,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondDriving": {
+      "InterpMode": {
+        "Position": 10538,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 10579,
+        "Value": [
+          {
+            "Position": 10632,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.375
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10665,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10702,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 10743,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondBoosting": {
+      "InterpMode": {
+        "Position": 10800,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 10841,
+        "Value": [
+          {
+            "Position": 10894,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10927,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10964,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 11005,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.MinFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 11062,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 11103,
+        "Value": [
+          {
+            "Position": 11156,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11189,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11226,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 11267,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.MaxFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 11324,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 11365,
+        "Value": [
+          {
+            "Position": 11418,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11451,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11488,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 11529,
+        "Value": 97
+      }
+    },
+    "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondLeaking": {
+      "InterpMode": {
+        "Position": 11586,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 11627,
+        "Value": [
+          {
+            "Position": 11680,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11713,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11750,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 11791,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.FuelTankCapacity": {
+      "InterpMode": {
+        "Position": 11848,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 11889,
+        "Value": [
+          {
+            "Position": 11942,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11975,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12012,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 12053,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondIdle": {
+      "InterpMode": {
+        "Position": 12110,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 12151,
+        "Value": [
+          {
+            "Position": 12204,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12237,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12274,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 12315,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondDriving": {
+      "InterpMode": {
+        "Position": 12372,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 12413,
+        "Value": [
+          {
+            "Position": 12466,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12499,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12536,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 12577,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondBoosting": {
+      "InterpMode": {
+        "Position": 12634,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 12675,
+        "Value": [
+          {
+            "Position": 12728,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12761,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12798,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 12839,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.MinFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 12896,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 12937,
+        "Value": [
+          {
+            "Position": 12990,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13023,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13060,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 13101,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.MaxFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 13158,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 13199,
+        "Value": [
+          {
+            "Position": 13252,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13285,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13322,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 13363,
+        "Value": 97
+      }
+    },
+    "AthenaValetMedium.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondLeaking": {
+      "InterpMode": {
+        "Position": 13420,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 13461,
+        "Value": [
+          {
+            "Position": 13514,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13547,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13584,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 13625,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.FuelTankCapacity": {
+      "InterpMode": {
+        "Position": 13682,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 13723,
+        "Value": [
+          {
+            "Position": 13776,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13809,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13846,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 13887,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondIdle": {
+      "InterpMode": {
+        "Position": 13944,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 13985,
+        "Value": [
+          {
+            "Position": 14038,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14071,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14108,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 14149,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondDriving": {
+      "InterpMode": {
+        "Position": 14206,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 14247,
+        "Value": [
+          {
+            "Position": 14300,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.75
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14333,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14370,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 14411,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondBoosting": {
+      "InterpMode": {
+        "Position": 14468,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 14509,
+        "Value": [
+          {
+            "Position": 14562,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 9.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14595,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14632,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 14673,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.MinFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 14730,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 14771,
+        "Value": [
+          {
+            "Position": 14824,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14857,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14894,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 14935,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.MaxFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 14992,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 15033,
+        "Value": [
+          {
+            "Position": 15086,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15119,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15156,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 15197,
+        "Value": 97
+      }
+    },
+    "AthenaValetLarge.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondLeaking": {
+      "InterpMode": {
+        "Position": 15254,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 15295,
+        "Value": [
+          {
+            "Position": 15348,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15381,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15418,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 15459,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.FuelTankCapacity": {
+      "InterpMode": {
+        "Position": 15516,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 15557,
+        "Value": [
+          {
+            "Position": 15610,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15643,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15680,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 15721,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondIdle": {
+      "InterpMode": {
+        "Position": 15778,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 15819,
+        "Value": [
+          {
+            "Position": 15872,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15905,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15942,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 15983,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondDriving": {
+      "InterpMode": {
+        "Position": 16040,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 16081,
+        "Value": [
+          {
+            "Position": 16134,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.333
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16167,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16204,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 16245,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondBoosting": {
+      "InterpMode": {
+        "Position": 16302,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 16343,
+        "Value": [
+          {
+            "Position": 16396,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16429,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16466,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 16507,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.MinFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 16564,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 16605,
+        "Value": [
+          {
+            "Position": 16658,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 80.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16691,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16728,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 16769,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.MaxFuelAtSpawn": {
+      "InterpMode": {
+        "Position": 16826,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 16867,
+        "Value": [
+          {
+            "Position": 16920,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16953,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16990,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 17031,
+        "Value": 97
+      }
+    },
+    "AthenaDagwoodTruck.Defaults.FortAttributeSet_VehicleFuel.FuelPerSecondLeaking": {
+      "InterpMode": {
+        "Position": 17088,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 17129,
+        "Value": [
+          {
+            "Position": 17182,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17215,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17252,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 17293,
+        "Value": 97
+      }
+    },
+    "AthenaValetSystem.Defaults.MinVehiclesToSpawn": {
+      "InterpMode": {
+        "Position": 17350,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 17391,
+        "Value": [
+          {
+            "Position": 17444,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17477,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17514,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 17555,
+        "Value": 97
+      }
+    },
+    "AthenaValetSystem.Defaults.MaxVehiclesToSpawn": {
+      "InterpMode": {
+        "Position": 17612,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 17653,
+        "Value": [
+          {
+            "Position": 17706,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17739,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17776,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 17817,
+        "Value": 97
+      }
+    },
+    "AthenaValetSystem.Defaults.MinVehiclesWithGasPercent": {
+      "InterpMode": {
+        "Position": 17874,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 17915,
+        "Value": [
+          {
+            "Position": 17968,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.25
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18001,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18038,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 18079,
+        "Value": 97
+      }
+    },
+    "AthenaValetSystem.Defaults.MaxVehiclesWithGasPercent": {
+      "InterpMode": {
+        "Position": 18136,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 18177,
+        "Value": [
+          {
+            "Position": 18230,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18263,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18300,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 18341,
+        "Value": 97
+      }
+    },
+    "AthenaHoagie.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 18398,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 18439,
+        "Value": [
+          {
+            "Position": 18492,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1500.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18525,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18562,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 18603,
+        "Value": 97
+      }
+    },
+    "AthenaHoagie.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 18660,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 18701,
+        "Value": [
+          {
+            "Position": 18754,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18787,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18824,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 18865,
+        "Value": 97
+      }
+    },
+    "SentryTurret.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 18922,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 18963,
+        "Value": [
+          {
+            "Position": 19016,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19049,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19086,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 19127,
+        "Value": 97
+      }
+    },
+    "SentryAlarm.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 19184,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 19225,
+        "Value": [
+          {
+            "Position": 19278,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19311,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19348,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 19389,
+        "Value": 97
+      }
+    },
+    "SentryGenerator.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 19446,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 19487,
+        "Value": [
+          {
+            "Position": 19540,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19573,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19610,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 19651,
+        "Value": 97
+      }
+    },
+    "AthenaValetHPSmall.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 19708,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 19749,
+        "Value": [
+          {
+            "Position": 19802,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 800.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19835,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19872,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 19913,
+        "Value": 97
+      }
+    },
+    "AthenaValetHPSmall.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 19970,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 20011,
+        "Value": [
+          {
+            "Position": 20064,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20097,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20134,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 20175,
+        "Value": 97
+      }
+    },
+    "AthenaValetHPMedium.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 20232,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 20273,
+        "Value": [
+          {
+            "Position": 20326,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20359,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20396,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 20437,
+        "Value": 97
+      }
+    },
+    "AthenaValetHPMedium.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 20494,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 20535,
+        "Value": [
+          {
+            "Position": 20588,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20621,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20658,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 20699,
+        "Value": 97
+      }
+    },
+    "AthenaValetHPLarge.Defaults.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 20756,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 20797,
+        "Value": [
+          {
+            "Position": 20850,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1200.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20883,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20920,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 20961,
+        "Value": 97
+      }
+    },
+    "AthenaValetHPLarge.Defaults.FortHealthSet.Shield": {
+      "InterpMode": {
+        "Position": 21018,
+        "Value": 98
+      },
+      "Keys": {
+        "Position": 21059,
+        "Value": [
+          {
+            "Position": 21112,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21145,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21182,
+        "Value": 97
+      },
+      "PostInfinityExtrap": {
+        "Position": 21223,
+        "Value": 97
+      }
+    }
+  }
+]

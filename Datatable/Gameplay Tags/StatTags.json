@@ -1,0 +1,3160 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "Stat.Account.Login"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": "Dependent on log-in"
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 176,
+        "Value": {
+          "String": "Stat.HomeBase.Build"
+        }
+      },
+      "DevComment": {
+        "Position": 209,
+        "Value": "Erecting a home-base building"
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 284,
+        "Value": {
+          "String": "Stat.HomeBase.PersonalityMatchBonus"
+        }
+      },
+      "DevComment": {
+        "Position": 317,
+        "Value": "Achieving a worker personality match bonus"
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 405,
+        "Value": {
+          "String": "Stat.HomeBase.Tutorial"
+        }
+      },
+      "DevComment": {
+        "Position": 438,
+        "Value": "Dependent on completion of tutorial (default for all quests)"
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 544,
+        "Value": {
+          "String": "Stat.HomeBase.Upgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 577,
+        "Value": "Upgrading a home-base building or worker"
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 663,
+        "Value": {
+          "String": "Stat.HomeBase.WorkerSetBonus"
+        }
+      },
+      "DevComment": {
+        "Position": 696,
+        "Value": "Achieving a worker set bonus"
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 770,
+        "Value": {
+          "String": "Stat.Mission.BluGloNodes"
+        }
+      },
+      "DevComment": {
+        "Position": 803,
+        "Value": "Tag for the specific mission that provides BluGlo nodes in the world."
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 918,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon"
+        }
+      },
+      "DevComment": {
+        "Position": 951,
+        "Value": "Tag for any BluGlo pylon mission."
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 1030,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Building"
+        }
+      },
+      "DevComment": {
+        "Position": 1063,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 1138,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Combat"
+        }
+      },
+      "DevComment": {
+        "Position": 1171,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 1246,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Difficulty"
+        }
+      },
+      "DevComment": {
+        "Position": 1279,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 1354,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Harvest"
+        }
+      },
+      "DevComment": {
+        "Position": 1387,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1462,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Health"
+        }
+      },
+      "DevComment": {
+        "Position": 1495,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1570,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Shield"
+        }
+      },
+      "DevComment": {
+        "Position": 1603,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1678,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Speed"
+        }
+      },
+      "DevComment": {
+        "Position": 1711,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1786,
+        "Value": {
+          "String": "Stat.Mission.BluGloPylon.Stamina"
+        }
+      },
+      "DevComment": {
+        "Position": 1819,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1894,
+        "Value": {
+          "String": "Stat.Mission.Build"
+        }
+      },
+      "DevComment": {
+        "Position": 1927,
+        "Value": "Tag for missions that involve building."
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 2012,
+        "Value": {
+          "String": "Stat.Mission.Craft"
+        }
+      },
+      "DevComment": {
+        "Position": 2045,
+        "Value": "Tag for missions that involve crafting"
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 2129,
+        "Value": {
+          "String": "Stat.Mission.Defend"
+        }
+      },
+      "DevComment": {
+        "Position": 2162,
+        "Value": "Tag for any missions that involve defending anyone or anything"
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 2270,
+        "Value": {
+          "String": "Stat.Mission.Defend.Burst"
+        }
+      },
+      "DevComment": {
+        "Position": 2303,
+        "Value": "DEPRECATED"
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 2359,
+        "Value": {
+          "String": "Stat.Mission.Defend.Duration"
+        }
+      },
+      "DevComment": {
+        "Position": 2392,
+        "Value": "DEPRECATED"
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 2448,
+        "Value": {
+          "String": "Stat.Mission.Defend.Numbers"
+        }
+      },
+      "DevComment": {
+        "Position": 2481,
+        "Value": "DEPRECATED"
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 2537,
+        "Value": {
+          "String": "Stat.Mission.Destroy"
+        }
+      },
+      "DevComment": {
+        "Position": 2570,
+        "Value": "Tag for missions that involve destroying something (generally not enemies, which would use Kill)"
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 2712,
+        "Value": {
+          "String": "Stat.Mission.Encounter.Burst"
+        }
+      },
+      "DevComment": {
+        "Position": 2745,
+        "Value": "Tag for missions that involve fighting against a  batch or batches of enemies.  Neither specific counts nor timers are involved."
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 2919,
+        "Value": {
+          "String": "Stat.Mission.Encounter.Burst.Multiple"
+        }
+      },
+      "DevComment": {
+        "Position": 2952,
+        "Value": "Tag for missions that involve fighting against multiple batches of enemies (i.e. at least two).  Neither specific counts nor timers are involved."
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 3143,
+        "Value": {
+          "String": "Stat.Mission.Encounter.Count"
+        }
+      },
+      "DevComment": {
+        "Position": 3176,
+        "Value": "Tag for missions that involve fighting enemies until a specific number are killed."
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 3304,
+        "Value": {
+          "String": "Stat.Mission.Encounter.Duration"
+        }
+      },
+      "DevComment": {
+        "Position": 3337,
+        "Value": "Tag for missions that involve fighting against enemies for a timed duration rather than against a number of bursts or until a certain number are killed."
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 3535,
+        "Value": {
+          "String": "Stat.Mission.Explore"
+        }
+      },
+      "DevComment": {
+        "Position": 3568,
+        "Value": "Tag for missions that involve map exploration"
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 3659,
+        "Value": {
+          "String": "Stat.Mission.Fetch"
+        }
+      },
+      "DevComment": {
+        "Position": 3692,
+        "Value": "Tag for missions that involve getting something and bringing it somewhere"
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 3811,
+        "Value": {
+          "String": "Stat.Mission.Game"
+        }
+      },
+      "DevComment": {
+        "Position": 3844,
+        "Value": "Tag for missions that are basically minigames, such as Whack-a-Troll, Ball-and-cup, Skeet Shooting, etc."
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 3994,
+        "Value": {
+          "String": "Stat.Mission.Gather"
+        }
+      },
+      "DevComment": {
+        "Position": 4027,
+        "Value": "Tag for missions that involve collecting specific items or resources."
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 4142,
+        "Value": {
+          "String": "Stat.Mission.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 4175,
+        "Value": "Missions for groups... Or should we use Team.Recommended?"
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 4278,
+        "Value": {
+          "String": "Stat.Mission.Kill"
+        }
+      },
+      "DevComment": {
+        "Position": 4311,
+        "Value": "Tag for missions that require killing enemies.  (Example: Encampments.  NOTE: This tag does NOT need to be on missions tagged with Stat.MissionDefend, as those don't technically require killing, they may just require keeping an object safe.)"
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 4598,
+        "Value": {
+          "String": "Stat.Mission.Landmark"
+        }
+      },
+      "DevComment": {
+        "Position": 4631,
+        "Value": "Separating Landmark status from sub-mission categorization.  We should use composition over inheritance in most cases."
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 4795,
+        "Value": {
+          "String": "Stat.Mission.Mobile"
+        }
+      },
+      "DevComment": {
+        "Position": 4828,
+        "Value": "Tag for missions that have a mobile aspect, like defending a survivor as they run somewhere.  (Stationary missions should NOT have this tag.)"
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 5015,
+        "Value": {
+          "String": "Stat.Mission.Patrol"
+        }
+      },
+      "DevComment": {
+        "Position": 5048,
+        "Value": "Tag for AI Patrol mission (which is not a \"secondary\")"
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 5148,
+        "Value": {
+          "String": "Stat.Mission.Primary.BTB.Landmark"
+        }
+      },
+      "DevComment": {
+        "Position": 5181,
+        "Value": "Spring 2018 Build the Bunny Primary mission"
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 5270,
+        "Value": {
+          "String": "Stat.Mission.Primary.BuildRadarGrid"
+        }
+      },
+      "DevComment": {
+        "Position": 5303,
+        "Value": "Build the Radar Grid"
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 5369,
+        "Value": {
+          "String": "Stat.Mission.Primary.DeliverGoods.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 5402,
+        "Value": "Deliver the Bomb (Group)"
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 5472,
+        "Value": {
+          "String": "Stat.Mission.Primary.DeliverGoods.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 5505,
+        "Value": "Deliver the Bomb (Normal)"
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 5576,
+        "Value": {
+          "String": "Stat.Mission.Primary.DestroyTheEncampments"
+        }
+      },
+      "DevComment": {
+        "Position": 5609,
+        "Value": "Destroy the Encampments"
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 5678,
+        "Value": {
+          "String": "Stat.Mission.Primary.EvacuateTheShelter.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 5711,
+        "Value": "Evacuate the Shelter (Group)"
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 5785,
+        "Value": {
+          "String": "Stat.Mission.Primary.EvacuateTheShelter.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 5818,
+        "Value": "Evacuate the Shelter (Normal)"
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 5893,
+        "Value": {
+          "String": "Stat.Mission.Primary.EvacuateTheSurvivors"
+        }
+      },
+      "DevComment": {
+        "Position": 5926,
+        "Value": "Rescue the Survivors"
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 5992,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate"
+        }
+      },
+      "DevComment": {
+        "Position": 6025,
+        "Value": "Fight the Storm"
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 6086,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Single.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 6119,
+        "Value": "Fight the Storm (Category 1, Group)"
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 6200,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Single.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 6233,
+        "Value": "Fight the Storm (Category 1, Normal)"
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 6315,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Double.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 6348,
+        "Value": "Fight the Storm (Category 2, Group)"
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 6429,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Double.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 6462,
+        "Value": "Fight the Storm (Category 2, Normal)"
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 6544,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Triple.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 6577,
+        "Value": "Fight the Storm (Category 3, Group)"
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 6658,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Triple.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 6691,
+        "Value": "Fight the Storm (Category 3, Normal)"
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 6773,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Quadruple.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 6806,
+        "Value": "Fight the Storm (Category 4, Group)"
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 6887,
+        "Value": {
+          "String": "Stat.Mission.Primary.Gate.Gate_Quadruple.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 6920,
+        "Value": "Fight the Storm (Category 4, Normal)"
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 7002,
+        "Value": {
+          "String": "Stat.Mission.Primary.Horde"
+        }
+      },
+      "DevComment": {
+        "Position": 7035,
+        "Value": "Horde mode (Combat zone)"
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 7105,
+        "Value": {
+          "String": "Stat.Mission.Primary.KeepNeighborhood"
+        }
+      },
+      "DevComment": {
+        "Position": 7138,
+        "Value": "Horde mode (Neighborhood)"
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 7209,
+        "Value": {
+          "String": "Stat.Mission.Primary.LaunchRocket"
+        }
+      },
+      "DevComment": {
+        "Position": 7242,
+        "Value": "Launch the Rocket"
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 7305,
+        "Value": {
+          "String": "Stat.Mission.Primary.LaunchWeatherBalloon.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 7338,
+        "Value": "Ride the Lightning (Group)"
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 7410,
+        "Value": {
+          "String": "Stat.Mission.Primary.LaunchWeatherBalloon.Landmark"
+        }
+      },
+      "DevComment": {
+        "Position": 7443,
+        "Value": "Lars Landmark mission (Holiday themed Ride the Lightning)"
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 7546,
+        "Value": {
+          "String": "Stat.Mission.Primary.LaunchWeatherBalloon.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 7579,
+        "Value": "Ride the Lightning (Normal)"
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 7652,
+        "Value": {
+          "String": "Stat.Mission.Primary.OnboardingFort"
+        }
+      },
+      "DevComment": {
+        "Position": 7685,
+        "Value": "Complete the onboarding in zone mission"
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 7770,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost"
+        }
+      },
+      "DevComment": {
+        "Position": 7803,
+        "Value": "Storm Shield Defense"
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 7869,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg0"
+        }
+      },
+      "DevComment": {
+        "Position": 7902,
+        "Value": "[OLD] Outpost defense - Deploy the Outpost (Stonewood Only)"
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 8007,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg1"
+        }
+      },
+      "DevComment": {
+        "Position": 8040,
+        "Value": "Outpost Defense 1"
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 8103,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg10"
+        }
+      },
+      "DevComment": {
+        "Position": 8136,
+        "Value": "Outpost Defense 10"
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 8200,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg2"
+        }
+      },
+      "DevComment": {
+        "Position": 8233,
+        "Value": "Outpost Defense 2"
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 8296,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg3"
+        }
+      },
+      "DevComment": {
+        "Position": 8329,
+        "Value": "Outpost Defense 3"
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 8392,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg4"
+        }
+      },
+      "DevComment": {
+        "Position": 8425,
+        "Value": "Outpost Defense 4"
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 8488,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg5"
+        }
+      },
+      "DevComment": {
+        "Position": 8521,
+        "Value": "Outpost Defense 5"
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 8584,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg6"
+        }
+      },
+      "DevComment": {
+        "Position": 8617,
+        "Value": "Outpost Defense 6"
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 8680,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg7"
+        }
+      },
+      "DevComment": {
+        "Position": 8713,
+        "Value": "Outpost Defense 7"
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 8776,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg8"
+        }
+      },
+      "DevComment": {
+        "Position": 8809,
+        "Value": "Outpost Defense 8"
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 8872,
+        "Value": {
+          "String": "Stat.Mission.Primary.Outpost.Leg9"
+        }
+      },
+      "DevComment": {
+        "Position": 8905,
+        "Value": "Outpost Defense 9"
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 8968,
+        "Value": {
+          "String": "Stat.Mission.Primary.PowerReactor.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 9001,
+        "Value": "Repair the Shelter (Group)"
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 9073,
+        "Value": {
+          "String": "Stat.Mission.Primary.PowerReactor.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 9106,
+        "Value": "Repair the Shelter (Normal)"
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 9179,
+        "Value": {
+          "String": "Stat.Mission.Primary.ProtectTheServers"
+        }
+      },
+      "DevComment": {
+        "Position": 9212,
+        "Value": "Protect the Servers (Landmark)"
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 9288,
+        "Value": {
+          "String": "Stat.Mission.Primary.RetrieveData.Group"
+        }
+      },
+      "DevComment": {
+        "Position": 9321,
+        "Value": "Retrieve the Data (Group)"
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 9392,
+        "Value": {
+          "String": "Stat.Mission.Primary.RetrieveData.Normal"
+        }
+      },
+      "DevComment": {
+        "Position": 9425,
+        "Value": "Retrieve the Data (Normal)"
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 9497,
+        "Value": {
+          "String": "Stat.Mission.Primary.StormShield"
+        }
+      },
+      "DevComment": {
+        "Position": 9530,
+        "Value": "NOT CURRENTLY USED"
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 9594,
+        "Value": {
+          "String": "Stat.Mission.Primary.TrapTheStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 9627,
+        "Value": "Trap the Storm (Halloween)"
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 9699,
+        "Value": {
+          "String": "Stat.Mission.Primary.TRV.Landmark"
+        }
+      },
+      "DevComment": {
+        "Position": 9732,
+        "Value": "Halloween Landmark Primary mission"
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 9812,
+        "Value": {
+          "String": "Stat.Mission.Provides.BluGlo"
+        }
+      },
+      "DevComment": {
+        "Position": 9845,
+        "Value": "Tag for missions that provide BluGlo."
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 9928,
+        "Value": {
+          "String": "Stat.Mission.Provides.Reward.High"
+        }
+      },
+      "DevComment": {
+        "Position": 9961,
+        "Value": "Tag for missions that give very generous rewards.  (Ex: StormChest)"
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 10074,
+        "Value": {
+          "String": "Stat.Mission.Requires.BluGlo"
+        }
+      },
+      "DevComment": {
+        "Position": 10107,
+        "Value": "Tag for missions that require BluGlo."
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 10190,
+        "Value": {
+          "String": "Stat.Mission.Reward.Big"
+        }
+      },
+      "DevComment": {
+        "Position": 10223,
+        "Value": "DEPRECATED"
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 10279,
+        "Value": {
+          "String": "Stat.Mission.Search"
+        }
+      },
+      "DevComment": {
+        "Position": 10312,
+        "Value": "Tag for missions that involve searching an area for something."
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 10420,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Anomaly"
+        }
+      },
+      "DevComment": {
+        "Position": 10453,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 10528,
+        "Value": {
+          "String": "Stat.Mission.Secondary.BluGloSiphon"
+        }
+      },
+      "DevComment": {
+        "Position": 10561,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 10636,
+        "Value": {
+          "String": "Stat.Mission.Secondary.BuildRadarTower"
+        }
+      },
+      "DevComment": {
+        "Position": 10669,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 10744,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Encampment"
+        }
+      },
+      "DevComment": {
+        "Position": 10777,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 10852,
+        "Value": {
+          "String": "Stat.Mission.Secondary.ExplorationMission"
+        }
+      },
+      "DevComment": {
+        "Position": 10885,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 10960,
+        "Value": {
+          "String": "Stat.Mission.Secondary.HonkingFirework"
+        }
+      },
+      "DevComment": {
+        "Position": 10993,
+        "Value": "Spring 2018 group firework secondary activity"
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 11084,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Medbot"
+        }
+      },
+      "DevComment": {
+        "Position": 11117,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 11192,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mimic"
+        }
+      },
+      "DevComment": {
+        "Position": 11225,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 11300,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Outpost.Fabricator"
+        }
+      },
+      "DevComment": {
+        "Position": 11333,
+        "Value": "Related to \"upgrade the fabricator\" tutorial"
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 11423,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Outpost.HarvestingUpgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 11456,
+        "Value": "Related to \"upgrade the harvesting optimizer\" tutorial"
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 11556,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Patrol"
+        }
+      },
+      "DevComment": {
+        "Position": 11589,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 11664,
+        "Value": {
+          "String": "Stat.Mission.Secondary.PresentDrop"
+        }
+      },
+      "DevComment": {
+        "Position": 11697,
+        "Value": "lars present drop for winter 2017"
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 11776,
+        "Value": {
+          "String": "Stat.Mission.Secondary.RelaySurvivor"
+        }
+      },
+      "DevComment": {
+        "Position": 11809,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 11884,
+        "Value": {
+          "String": "Stat.Mission.Secondary.StormChest"
+        }
+      },
+      "DevComment": {
+        "Position": 11917,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 11992,
+        "Value": {
+          "String": "Stat.Mission.Secondary.WhackaTroll"
+        }
+      },
+      "DevComment": {
+        "Position": 12025,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "100": {
+      "Tag": {
+        "Position": 12100,
+        "Value": {
+          "String": "Stat.Mission.Size.Small"
+        }
+      },
+      "DevComment": {
+        "Position": 12133,
+        "Value": "Mission size, such as for an encampment"
+      }
+    },
+    "101": {
+      "Tag": {
+        "Position": 12218,
+        "Value": {
+          "String": "Stat.Mission.Size.Medium"
+        }
+      },
+      "DevComment": {
+        "Position": 12251,
+        "Value": "Mission size, such as for an encampment"
+      }
+    },
+    "102": {
+      "Tag": {
+        "Position": 12336,
+        "Value": {
+          "String": "Stat.Mission.Size.Large"
+        }
+      },
+      "DevComment": {
+        "Position": 12369,
+        "Value": "Mission size, such as for an encampment"
+      }
+    },
+    "103": {
+      "Tag": {
+        "Position": 12454,
+        "Value": {
+          "String": "Stat.Mission.Solo.Recommended"
+        }
+      },
+      "DevComment": {
+        "Position": 12487,
+        "Value": "Tag for missions that generally don't require more than one player and barely benefit from more.  Ex: Whack-a-troll"
+      }
+    },
+    "104": {
+      "Tag": {
+        "Position": 12648,
+        "Value": {
+          "String": "Stat.Mission.Stages"
+        }
+      },
+      "DevComment": {
+        "Position": 12681,
+        "Value": "Tag for missions that have multiple separate stages.  Ex: BluGloSiphon"
+      }
+    },
+    "105": {
+      "Tag": {
+        "Position": 12797,
+        "Value": {
+          "String": "Stat.Mission.Survival.Survival14Day"
+        }
+      },
+      "DevComment": {
+        "Position": 12830,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "106": {
+      "Tag": {
+        "Position": 12905,
+        "Value": {
+          "String": "Stat.Mission.Survival.Survival3Day"
+        }
+      },
+      "DevComment": {
+        "Position": 12938,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "107": {
+      "Tag": {
+        "Position": 13013,
+        "Value": {
+          "String": "Stat.Mission.Survival.Survival7Day"
+        }
+      },
+      "DevComment": {
+        "Position": 13046,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "108": {
+      "Tag": {
+        "Position": 13121,
+        "Value": {
+          "String": "Stat.Mission.Survivor"
+        }
+      },
+      "DevComment": {
+        "Position": 13154,
+        "Value": "Tag for every mission that involves helping a survivor."
+      }
+    },
+    "109": {
+      "Tag": {
+        "Position": 13255,
+        "Value": {
+          "String": "Stat.Mission.Team.Recommended"
+        }
+      },
+      "DevComment": {
+        "Position": 13288,
+        "Value": "Tag for missions that generally require multiple players to do well in.  (Ex: StormChest)"
+      }
+    },
+    "110": {
+      "Tag": {
+        "Position": 13423,
+        "Value": {
+          "String": "Stat.Mission.Test"
+        }
+      },
+      "DevComment": {
+        "Position": 13456,
+        "Value": "Tag for missions that are still only test missions and should not exist in Live."
+      }
+    },
+    "111": {
+      "Tag": {
+        "Position": 13582,
+        "Value": {
+          "String": "Stat.Mission.Troll"
+        }
+      },
+      "DevComment": {
+        "Position": 13615,
+        "Value": "Tag for missions that involve the Troll.  (Hopefully the troll will eventually have various means of trolling the player through missions."
+      }
+    },
+    "112": {
+      "Tag": {
+        "Position": 13799,
+        "Value": {
+          "String": "Stat.Mission.Unique"
+        }
+      },
+      "DevComment": {
+        "Position": 13832,
+        "Value": "Tag for missions that should exist uniquely, like BluGloNodes, Patrol, etc."
+      }
+    },
+    "113": {
+      "Tag": {
+        "Position": 13953,
+        "Value": {
+          "String": "Stat.Mission.Weekly.Horde.WeekA"
+        }
+      },
+      "DevComment": {
+        "Position": 13986,
+        "Value": "Tag for weekly horde challenges"
+      }
+    },
+    "114": {
+      "Tag": {
+        "Position": 14063,
+        "Value": {
+          "String": "Stat.Mission.Weekly.Horde.WeekB"
+        }
+      },
+      "DevComment": {
+        "Position": 14096,
+        "Value": "Tag for weekly horde challenges"
+      }
+    },
+    "115": {
+      "Tag": {
+        "Position": 14173,
+        "Value": {
+          "String": "Stat.Mission.Weekly.Horde.WeekC"
+        }
+      },
+      "DevComment": {
+        "Position": 14206,
+        "Value": "Tag for weekly horde challenges"
+      }
+    },
+    "116": {
+      "Tag": {
+        "Position": 14283,
+        "Value": {
+          "String": "Stat.Mission.WorldSetup"
+        }
+      },
+      "DevComment": {
+        "Position": 14316,
+        "Value": "Missions that are part of generic world setup, rather than primaries or secondaries."
+      }
+    },
+    "117": {
+      "Tag": {
+        "Position": 14446,
+        "Value": {
+          "String": "Stat.MissionAlert.General"
+        }
+      },
+      "DevComment": {
+        "Position": 14479,
+        "Value": "Passive Miniboss mission alert"
+      }
+    },
+    "118": {
+      "Tag": {
+        "Position": 14555,
+        "Value": {
+          "String": "Stat.MissionAlert.GroupMission"
+        }
+      },
+      "DevComment": {
+        "Position": 14588,
+        "Value": "Group Mission mission alert"
+      }
+    },
+    "119": {
+      "Tag": {
+        "Position": 14661,
+        "Value": {
+          "String": "Stat.MissionAlert.Horde"
+        }
+      },
+      "DevComment": {
+        "Position": 14694,
+        "Value": "Horde Event mission alert"
+      }
+    },
+    "120": {
+      "Tag": {
+        "Position": 14765,
+        "Value": {
+          "String": "Stat.MissionAlert.MiniBoss"
+        }
+      },
+      "DevComment": {
+        "Position": 14798,
+        "Value": "Mini Boss mission alert"
+      }
+    },
+    "121": {
+      "Tag": {
+        "Position": 14867,
+        "Value": {
+          "String": "Stat.MissionAlert.Storm"
+        }
+      },
+      "DevComment": {
+        "Position": 14900,
+        "Value": "Storm zone mission alert"
+      }
+    },
+    "122": {
+      "Tag": {
+        "Position": 14970,
+        "Value": {
+          "String": "Stat.Source.IsInitiator"
+        }
+      },
+      "DevComment": {
+        "Position": 15003,
+        "Value": "True if the player initiated this event. False if is player is on the team of the initiator."
+      }
+    },
+    "123": {
+      "Tag": {
+        "Position": 15141,
+        "Value": {
+          "String": "Stat.Source.IsWorldOwner"
+        }
+      },
+      "DevComment": {
+        "Position": 15174,
+        "Value": "True if the player owns the current world for types that support that, such as an outpost"
+      }
+    },
+    "124": {
+      "Tag": {
+        "Position": 15309,
+        "Value": {
+          "String": "Stat.Source.OnCriticalMission"
+        }
+      },
+      "DevComment": {
+        "Position": 15342,
+        "Value": "True if the player selected this mission via quick play/critical mission"
+      }
+    },
+    "125": {
+      "Tag": {
+        "Position": 15460,
+        "Value": {
+          "String": "Stat.Theater.PvE01"
+        }
+      },
+      "DevComment": {
+        "Position": 15493,
+        "Value": "Inside a specific theater"
+      }
+    },
+    "126": {
+      "Tag": {
+        "Position": 15564,
+        "Value": {
+          "String": "Stat.Theater.PvE01.Difficulty01"
+        }
+      },
+      "DevComment": {
+        "Position": 15597,
+        "Value": "Inside a specific region"
+      }
+    },
+    "127": {
+      "Tag": {
+        "Position": 15667,
+        "Value": {
+          "String": "Stat.Theater.PvE01.Difficulty02"
+        }
+      },
+      "DevComment": {
+        "Position": 15700,
+        "Value": "Inside a specific region"
+      }
+    },
+    "128": {
+      "Tag": {
+        "Position": 15770,
+        "Value": {
+          "String": "Stat.Theater.PvE01.Difficulty03"
+        }
+      },
+      "DevComment": {
+        "Position": 15803,
+        "Value": "Inside a specific region"
+      }
+    },
+    "129": {
+      "Tag": {
+        "Position": 15873,
+        "Value": {
+          "String": "Stat.Theater.PvE01.Difficulty04"
+        }
+      },
+      "DevComment": {
+        "Position": 15906,
+        "Value": "Inside a specific region"
+      }
+    },
+    "130": {
+      "Tag": {
+        "Position": 15976,
+        "Value": {
+          "String": "Stat.Theater.PvE01.Difficulty05"
+        }
+      },
+      "DevComment": {
+        "Position": 16009,
+        "Value": "Inside a specific region"
+      }
+    },
+    "131": {
+      "Tag": {
+        "Position": 16079,
+        "Value": {
+          "String": "Stat.Theater.PvE02"
+        }
+      },
+      "DevComment": {
+        "Position": 16112,
+        "Value": "Inside a specific theater"
+      }
+    },
+    "132": {
+      "Tag": {
+        "Position": 16183,
+        "Value": {
+          "String": "Stat.Theater.PvE02.Difficulty01"
+        }
+      },
+      "DevComment": {
+        "Position": 16216,
+        "Value": "Inside a specific region"
+      }
+    },
+    "133": {
+      "Tag": {
+        "Position": 16286,
+        "Value": {
+          "String": "Stat.Theater.PvE02.Difficulty02"
+        }
+      },
+      "DevComment": {
+        "Position": 16319,
+        "Value": "Inside a specific region"
+      }
+    },
+    "134": {
+      "Tag": {
+        "Position": 16389,
+        "Value": {
+          "String": "Stat.Theater.PvE02.Difficulty03"
+        }
+      },
+      "DevComment": {
+        "Position": 16422,
+        "Value": "Inside a specific region"
+      }
+    },
+    "135": {
+      "Tag": {
+        "Position": 16492,
+        "Value": {
+          "String": "Stat.Theater.PvE02.Difficulty04"
+        }
+      },
+      "DevComment": {
+        "Position": 16525,
+        "Value": "Inside a specific region"
+      }
+    },
+    "136": {
+      "Tag": {
+        "Position": 16595,
+        "Value": {
+          "String": "Stat.Theater.PvE02.Difficulty05"
+        }
+      },
+      "DevComment": {
+        "Position": 16628,
+        "Value": "Inside a specific region"
+      }
+    },
+    "137": {
+      "Tag": {
+        "Position": 16698,
+        "Value": {
+          "String": "Stat.Theater.PvE03"
+        }
+      },
+      "DevComment": {
+        "Position": 16731,
+        "Value": "Inside a specific theater"
+      }
+    },
+    "138": {
+      "Tag": {
+        "Position": 16802,
+        "Value": {
+          "String": "Stat.Theater.PvE03.Difficulty01"
+        }
+      },
+      "DevComment": {
+        "Position": 16835,
+        "Value": "Inside a specific region"
+      }
+    },
+    "139": {
+      "Tag": {
+        "Position": 16905,
+        "Value": {
+          "String": "Stat.Theater.PvE03.Difficulty02"
+        }
+      },
+      "DevComment": {
+        "Position": 16938,
+        "Value": "Inside a specific region"
+      }
+    },
+    "140": {
+      "Tag": {
+        "Position": 17008,
+        "Value": {
+          "String": "Stat.Theater.PvE03.Difficulty03"
+        }
+      },
+      "DevComment": {
+        "Position": 17041,
+        "Value": "Inside a specific region"
+      }
+    },
+    "141": {
+      "Tag": {
+        "Position": 17111,
+        "Value": {
+          "String": "Stat.Theater.PvE03.Difficulty04"
+        }
+      },
+      "DevComment": {
+        "Position": 17144,
+        "Value": "Inside a specific region"
+      }
+    },
+    "142": {
+      "Tag": {
+        "Position": 17214,
+        "Value": {
+          "String": "Stat.Theater.PvE03.Difficulty05"
+        }
+      },
+      "DevComment": {
+        "Position": 17247,
+        "Value": "Inside a specific region"
+      }
+    },
+    "143": {
+      "Tag": {
+        "Position": 17317,
+        "Value": {
+          "String": "Stat.Theater.PvE04"
+        }
+      },
+      "DevComment": {
+        "Position": 17350,
+        "Value": "Inside a specific theater"
+      }
+    },
+    "144": {
+      "Tag": {
+        "Position": 17421,
+        "Value": {
+          "String": "Stat.Theater.PvE04.Difficulty01"
+        }
+      },
+      "DevComment": {
+        "Position": 17454,
+        "Value": "Inside a specific region"
+      }
+    },
+    "145": {
+      "Tag": {
+        "Position": 17524,
+        "Value": {
+          "String": "Stat.Theater.PvE04.Difficulty02"
+        }
+      },
+      "DevComment": {
+        "Position": 17557,
+        "Value": "Inside a specific region"
+      }
+    },
+    "146": {
+      "Tag": {
+        "Position": 17627,
+        "Value": {
+          "String": "Stat.Theater.PvE04.Difficulty03"
+        }
+      },
+      "DevComment": {
+        "Position": 17660,
+        "Value": "Inside a specific region"
+      }
+    },
+    "147": {
+      "Tag": {
+        "Position": 17730,
+        "Value": {
+          "String": "Stat.Theater.PvE04.Difficulty04"
+        }
+      },
+      "DevComment": {
+        "Position": 17763,
+        "Value": "Inside a specific region"
+      }
+    },
+    "148": {
+      "Tag": {
+        "Position": 17833,
+        "Value": {
+          "String": "Stat.Theater.PvE04.Difficulty05"
+        }
+      },
+      "DevComment": {
+        "Position": 17866,
+        "Value": "Inside a specific region"
+      }
+    },
+    "149": {
+      "Tag": {
+        "Position": 17936,
+        "Value": {
+          "String": "Stat.Theater.PvE05"
+        }
+      },
+      "DevComment": {
+        "Position": 17969,
+        "Value": "Inside a specific theater"
+      }
+    },
+    "150": {
+      "Tag": {
+        "Position": 18040,
+        "Value": {
+          "String": "Stat.Theater.PvE05.Difficulty01"
+        }
+      },
+      "DevComment": {
+        "Position": 18073,
+        "Value": "Inside a specific region"
+      }
+    },
+    "151": {
+      "Tag": {
+        "Position": 18143,
+        "Value": {
+          "String": "Stat.Theater.PvE05.Difficulty02"
+        }
+      },
+      "DevComment": {
+        "Position": 18176,
+        "Value": "Inside a specific region"
+      }
+    },
+    "152": {
+      "Tag": {
+        "Position": 18246,
+        "Value": {
+          "String": "Stat.Theater.PvE05.Difficulty03"
+        }
+      },
+      "DevComment": {
+        "Position": 18279,
+        "Value": "Inside a specific region"
+      }
+    },
+    "153": {
+      "Tag": {
+        "Position": 18349,
+        "Value": {
+          "String": "Stat.Theater.PvE05.Difficulty04"
+        }
+      },
+      "DevComment": {
+        "Position": 18382,
+        "Value": "Inside a specific region"
+      }
+    },
+    "154": {
+      "Tag": {
+        "Position": 18452,
+        "Value": {
+          "String": "Stat.Theater.PvE05.Difficulty05"
+        }
+      },
+      "DevComment": {
+        "Position": 18485,
+        "Value": "Inside a specific region"
+      }
+    },
+    "155": {
+      "Tag": {
+        "Position": 18555,
+        "Value": {
+          "String": "Stat.Theater.Survival.Difficulty01"
+        }
+      },
+      "DevComment": {
+        "Position": 18588,
+        "Value": "Survival Theater, Stonewood Very High diff"
+      }
+    },
+    "156": {
+      "Tag": {
+        "Position": 18676,
+        "Value": {
+          "String": "Stat.Theater.Survival.Difficulty02"
+        }
+      },
+      "DevComment": {
+        "Position": 18709,
+        "Value": "Survival Theater, Plankerton Very High diff"
+      }
+    },
+    "157": {
+      "Tag": {
+        "Position": 18798,
+        "Value": {
+          "String": "Stat.Theater.Survival.Difficulty03"
+        }
+      },
+      "DevComment": {
+        "Position": 18831,
+        "Value": "Survival Theater, Canny Valley Very High diff"
+      }
+    },
+    "158": {
+      "Tag": {
+        "Position": 18922,
+        "Value": {
+          "String": "Stat.Theater.Survival.Difficulty04"
+        }
+      },
+      "DevComment": {
+        "Position": 18955,
+        "Value": "Survival Theater, Twine Very High diff"
+      }
+    },
+    "159": {
+      "Tag": {
+        "Position": 19039,
+        "Value": {
+          "String": "Stat.Theater.Test"
+        }
+      },
+      "DevComment": {
+        "Position": 19072,
+        "Value": "Tag that should be added to ALL test theaters"
+      }
+    },
+    "160": {
+      "Tag": {
+        "Position": 19163,
+        "Value": {
+          "String": "Stat.Theater.Transylvania"
+        }
+      },
+      "DevComment": {
+        "Position": 19196,
+        "Value": "Halloween event zone"
+      }
+    },
+    "161": {
+      "Tag": {
+        "Position": 19262,
+        "Value": {
+          "String": "Stat.ZoneTheme.TheCity"
+        }
+      },
+      "DevComment": {
+        "Position": 19295,
+        "Value": "Related to a specific zone theme"
+      }
+    },
+    "162": {
+      "Tag": {
+        "Position": 19373,
+        "Value": {
+          "String": "Stat.ZoneTheme.TheForest"
+        }
+      },
+      "DevComment": {
+        "Position": 19406,
+        "Value": "Related to a specific zone theme"
+      }
+    },
+    "163": {
+      "Tag": {
+        "Position": 19484,
+        "Value": {
+          "String": "Stat.ZoneTheme.TheGrasslands"
+        }
+      },
+      "DevComment": {
+        "Position": 19517,
+        "Value": "Related to a specific zone theme"
+      }
+    },
+    "164": {
+      "Tag": {
+        "Position": 19595,
+        "Value": {
+          "String": "Stat.ZoneTheme.TheIndustrialPark"
+        }
+      },
+      "DevComment": {
+        "Position": 19628,
+        "Value": "Related to a specific zone theme"
+      }
+    },
+    "165": {
+      "Tag": {
+        "Position": 19706,
+        "Value": {
+          "String": "Stat.ZoneTheme.TheSuburbs"
+        }
+      },
+      "DevComment": {
+        "Position": 19739,
+        "Value": "Related to a specific zone theme"
+      }
+    },
+    "166": {
+      "Tag": {
+        "Position": 19817,
+        "Value": {
+          "String": "Stat.Mission.Primary.LaunchWeatherBalloon.Landmark.StormQuest2018"
+        }
+      },
+      "DevComment": {
+        "Position": 19850,
+        "Value": "Into the Storm: Lars Landmark mission"
+      }
+    },
+    "167": {
+      "Tag": {
+        "Position": 19933,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Observe.StormQuest2018"
+        }
+      },
+      "DevComment": {
+        "Position": 19966,
+        "Value": "Into the Storm: Observe Landmark mission"
+      }
+    },
+    "168": {
+      "Tag": {
+        "Position": 20052,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Observe.BlockbusterQuest2018"
+        }
+      },
+      "DevComment": {
+        "Position": 20085,
+        "Value": "Blockbuster: Observe Landmark mission"
+      }
+    },
+    "169": {
+      "Tag": {
+        "Position": 20168,
+        "Value": {
+          "String": "Stat.MissionAlert.ElementalZone.Fire"
+        }
+      },
+      "DevComment": {
+        "Position": 20201,
+        "Value": "Elemental Zone Fire mission alert"
+      }
+    },
+    "170": {
+      "Tag": {
+        "Position": 20280,
+        "Value": {
+          "String": "Stat.MissionAlert.ElementalZone.Nature"
+        }
+      },
+      "DevComment": {
+        "Position": 20313,
+        "Value": "Elemental Zone Nature mission alert"
+      }
+    },
+    "171": {
+      "Tag": {
+        "Position": 20394,
+        "Value": {
+          "String": "Stat.MissionAlert.ElementalZone.Water"
+        }
+      },
+      "DevComment": {
+        "Position": 20427,
+        "Value": "Elemental Zone Water mission alert"
+      }
+    },
+    "172": {
+      "Tag": {
+        "Position": 20507,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Suit.BlockbusterQuest2018"
+        }
+      },
+      "DevComment": {
+        "Position": 20540,
+        "Value": "Blockbuster: Suit Landmark mission"
+      }
+    },
+    "173": {
+      "Tag": {
+        "Position": 20620,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Meteor.BlockbusterQuest2018"
+        }
+      },
+      "DevComment": {
+        "Position": 20653,
+        "Value": "Blockbuster: Meteor Landmark mission"
+      }
+    },
+    "174": {
+      "Tag": {
+        "Position": 20735,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.HitTheRoad"
+        }
+      },
+      "DevComment": {
+        "Position": 20768,
+        "Value": "Landmark: Hit the Road"
+      }
+    },
+    "175": {
+      "Tag": {
+        "Position": 20836,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.BuildTheMonument"
+        }
+      },
+      "DevComment": {
+        "Position": 20869,
+        "Value": "Landmark: Build the Monument"
+      }
+    },
+    "176": {
+      "Tag": {
+        "Position": 20943,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.FightTheGunslinger"
+        }
+      },
+      "DevComment": {
+        "Position": 20976,
+        "Value": "Landmark: Fight the Gunslinger"
+      }
+    },
+    "177": {
+      "Tag": {
+        "Position": 21052,
+        "Value": {
+          "String": "Stat.Mission.Secondary.RaceAgainstTime"
+        }
+      },
+      "DevComment": {
+        "Position": 21085,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "178": {
+      "Tag": {
+        "Position": 21160,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Cake"
+        }
+      },
+      "DevComment": {
+        "Position": 21193,
+        "Value": "Related to a specific mission"
+      }
+    },
+    "179": {
+      "Tag": {
+        "Position": 21268,
+        "Value": {
+          "String": "Stat.Theater.Weekly.Horde.Week01"
+        }
+      },
+      "DevComment": {
+        "Position": 21301,
+        "Value": "Theater Tag for weekly horde challenges"
+      }
+    },
+    "180": {
+      "Tag": {
+        "Position": 21386,
+        "Value": {
+          "String": "Stat.Theater.Weekly.Horde.Week02"
+        }
+      },
+      "DevComment": {
+        "Position": 21419,
+        "Value": "Theater Tag for weekly horde challenges"
+      }
+    },
+    "181": {
+      "Tag": {
+        "Position": 21504,
+        "Value": {
+          "String": "Stat.Theater.Horde"
+        }
+      },
+      "DevComment": {
+        "Position": 21537,
+        "Value": "Horde mode (Combat zone) Theater Tag for primary hexes"
+      }
+    },
+    "182": {
+      "Tag": {
+        "Position": 21637,
+        "Value": {
+          "String": "Stat.Theater.Weekly.Horde.WeekA"
+        }
+      },
+      "DevComment": {
+        "Position": 21670,
+        "Value": "Weekly challenge missions get pushed in pairs; A and B, where the first week is A and second is B."
+      }
+    },
+    "183": {
+      "Tag": {
+        "Position": 21814,
+        "Value": {
+          "String": "Stat.Theater.Weekly.Horde.WeekB"
+        }
+      },
+      "DevComment": {
+        "Position": 21847,
+        "Value": "Weekly challenge missions get pushed in pairs; A and B, where the first week is A and second is B."
+      }
+    },
+    "184": {
+      "Tag": {
+        "Position": 21991,
+        "Value": {
+          "String": "Stat.Theater.Weekly.Horde.WeekC"
+        }
+      },
+      "DevComment": {
+        "Position": 22024,
+        "Value": "In the case of a third challenge mission in a single push, this tag is used."
+      }
+    },
+    "185": {
+      "Tag": {
+        "Position": 22146,
+        "Value": {
+          "String": "Stat.MissionAlert.MegaAlert"
+        }
+      },
+      "DevComment": {
+        "Position": 22179,
+        "Value": "Mega Alert mission tag."
+      }
+    },
+    "186": {
+      "Tag": {
+        "Position": 22248,
+        "Value": {
+          "String": "Stat.Mission.Primary.RefuelTheHomebase"
+        }
+      },
+      "DevComment": {
+        "Position": 22281,
+        "Value": "Refuel the Homebase"
+      }
+    },
+    "187": {
+      "Tag": {
+        "Position": 22346,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.PlankHarbor"
+        }
+      },
+      "DevComment": {
+        "Position": 22379,
+        "Value": "Landmark: Plank Harbor"
+      }
+    },
+    "188": {
+      "Tag": {
+        "Position": 22447,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Lars"
+        }
+      },
+      "DevComment": {
+        "Position": 22480,
+        "Value": "Landmark: Lars"
+      }
+    },
+    "189": {
+      "Tag": {
+        "Position": 22540,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.BuildOff"
+        }
+      },
+      "DevComment": {
+        "Position": 22573,
+        "Value": "Landmark: Build Off"
+      }
+    },
+    "190": {
+      "Tag": {
+        "Position": 22638,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Rift"
+        }
+      },
+      "DevComment": {
+        "Position": 22671,
+        "Value": "Landmark: Rift"
+      }
+    },
+    "191": {
+      "Tag": {
+        "Position": 22731,
+        "Value": {
+          "String": "Stat.MissionAlert.NewMissionIntro.RetrieveTheData"
+        }
+      },
+      "DevComment": {
+        "Position": 22764,
+        "Value": "Stat tag for our temporary Retrieve the Data revision introduction for 6.10."
+      }
+    },
+    "192": {
+      "Tag": {
+        "Position": 22886,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.DeployTheProbe"
+        }
+      },
+      "DevComment": {
+        "Position": 22919,
+        "Value": "Landmark: Deploy The Probe"
+      }
+    },
+    "193": {
+      "Tag": {
+        "Position": 22991,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Mansion"
+        }
+      },
+      "DevComment": {
+        "Position": 23024,
+        "Value": "Landmark: Mansion"
+      }
+    },
+    "194": {
+      "Tag": {
+        "Position": 23087,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.BossFight"
+        }
+      },
+      "DevComment": {
+        "Position": 23120,
+        "Value": "Landmark: Boss Fight"
+      }
+    },
+    "195": {
+      "Tag": {
+        "Position": 23186,
+        "Value": {
+          "String": "Stat.Theater.Endless"
+        }
+      },
+      "DevComment": {
+        "Position": 23219,
+        "Value": "Theater Tag for Endless mode winter 2018"
+      }
+    },
+    "196": {
+      "Tag": {
+        "Position": 23305,
+        "Value": {
+          "String": "Stat.Mission.Endless"
+        }
+      },
+      "DevComment": {
+        "Position": 23338,
+        "Value": "Base Endless Mission Tag"
+      }
+    },
+    "197": {
+      "Tag": {
+        "Position": 23408,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.CelebrateNewYear"
+        }
+      },
+      "DevComment": {
+        "Position": 23441,
+        "Value": "Landmark: Celebrate New Year"
+      }
+    },
+    "198": {
+      "Tag": {
+        "Position": 23515,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week01"
+        }
+      },
+      "DevComment": {
+        "Position": 23548,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 1"
+      }
+    },
+    "199": {
+      "Tag": {
+        "Position": 23654,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week02"
+        }
+      },
+      "DevComment": {
+        "Position": 23687,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 2"
+      }
+    },
+    "200": {
+      "Tag": {
+        "Position": 23793,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week03"
+        }
+      },
+      "DevComment": {
+        "Position": 23826,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 3"
+      }
+    },
+    "201": {
+      "Tag": {
+        "Position": 23932,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week04"
+        }
+      },
+      "DevComment": {
+        "Position": 23965,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 4"
+      }
+    },
+    "202": {
+      "Tag": {
+        "Position": 24071,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week05"
+        }
+      },
+      "DevComment": {
+        "Position": 24104,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 5"
+      }
+    },
+    "203": {
+      "Tag": {
+        "Position": 24210,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week06"
+        }
+      },
+      "DevComment": {
+        "Position": 24243,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 6"
+      }
+    },
+    "204": {
+      "Tag": {
+        "Position": 24349,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week07"
+        }
+      },
+      "DevComment": {
+        "Position": 24382,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 7"
+      }
+    },
+    "205": {
+      "Tag": {
+        "Position": 24488,
+        "Value": {
+          "String": "Stat.Theater.Endless.Week08"
+        }
+      },
+      "DevComment": {
+        "Position": 24521,
+        "Value": "Theater Tag for Endless mode winter 2018, weekly challenge 8"
+      }
+    },
+    "206": {
+      "Tag": {
+        "Position": 24627,
+        "Value": {
+          "String": "Stat.Theater.Endless.NonChallenge?"
+        }
+      },
+      "DevComment": {
+        "Position": 24660,
+        "Value": "Theater Tag for non challenge hexes for frostnite"
+      }
+    },
+    "207": {
+      "Tag": {
+        "Position": 24755,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.LoveStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 24788,
+        "Value": "Landmark: Love Storm"
+      }
+    },
+    "208": {
+      "Tag": {
+        "Position": 24854,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Anomaly"
+        }
+      },
+      "DevComment": {
+        "Position": 24887,
+        "Value": "Iron City Mission: Anomaly"
+      }
+    },
+    "209": {
+      "Tag": {
+        "Position": 24959,
+        "Value": {
+          "String": "Stat.Mission.IronCity.AntiShield"
+        }
+      },
+      "DevComment": {
+        "Position": 24992,
+        "Value": "Iron City Mission: Anti Shield"
+      }
+    },
+    "210": {
+      "Tag": {
+        "Position": 25068,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Eruption"
+        }
+      },
+      "DevComment": {
+        "Position": 25101,
+        "Value": "Iron City Mission: Eruption"
+      }
+    },
+    "211": {
+      "Tag": {
+        "Position": 25174,
+        "Value": {
+          "String": "Stat.Mission.IronCity.EndlessFirstOpen"
+        }
+      },
+      "DevComment": {
+        "Position": 25207,
+        "Value": "Iron City Mission upon first opening Endless"
+      }
+    },
+    "212": {
+      "Tag": {
+        "Position": 25297,
+        "Value": {
+          "String": "Stat.Mission.IronCity.FirstOpen"
+        }
+      },
+      "DevComment": {
+        "Position": 25330,
+        "Value": "Iron City Mission upon first opening Wargames"
+      }
+    },
+    "213": {
+      "Tag": {
+        "Position": 25421,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Generators"
+        }
+      },
+      "DevComment": {
+        "Position": 25454,
+        "Value": "Iron City Mission: Generators"
+      }
+    },
+    "214": {
+      "Tag": {
+        "Position": 25529,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Geyser"
+        }
+      },
+      "DevComment": {
+        "Position": 25562,
+        "Value": "Iron City Mission: Geyser"
+      }
+    },
+    "215": {
+      "Tag": {
+        "Position": 25633,
+        "Value": {
+          "String": "Stat.Mission.IronCity.MidlandHusknado"
+        }
+      },
+      "DevComment": {
+        "Position": 25666,
+        "Value": "Iron City Mission: Midland Husknado"
+      }
+    },
+    "216": {
+      "Tag": {
+        "Position": 25747,
+        "Value": {
+          "String": "Stat.Mission.IronCity.MStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 25780,
+        "Value": "Iron City Mission: Mstorm"
+      }
+    },
+    "217": {
+      "Tag": {
+        "Position": 25851,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Offspring"
+        }
+      },
+      "DevComment": {
+        "Position": 25884,
+        "Value": "Iron City Mission: Offpsring"
+      }
+    },
+    "218": {
+      "Tag": {
+        "Position": 25958,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Pods"
+        }
+      },
+      "DevComment": {
+        "Position": 25991,
+        "Value": "Iron City Mission: Pods"
+      }
+    },
+    "219": {
+      "Tag": {
+        "Position": 26060,
+        "Value": {
+          "String": "Stat.Mission.IronCity.RiotCity"
+        }
+      },
+      "DevComment": {
+        "Position": 26093,
+        "Value": "Iron City Mission:  Riot City"
+      }
+    },
+    "220": {
+      "Tag": {
+        "Position": 26168,
+        "Value": {
+          "String": "Stat.Mission.IronCity.SSDFirstOpen"
+        }
+      },
+      "DevComment": {
+        "Position": 26201,
+        "Value": "Iron City Mission upon first opening SSD"
+      }
+    },
+    "221": {
+      "Tag": {
+        "Position": 26287,
+        "Value": {
+          "String": "Stat.Mission.IronCity.TeleBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 26320,
+        "Value": "Iron City Mission: Tele bomb"
+      }
+    },
+    "222": {
+      "Tag": {
+        "Position": 26394,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Tiki"
+        }
+      },
+      "DevComment": {
+        "Position": 26427,
+        "Value": "Iron City Mission: Tiki"
+      }
+    },
+    "223": {
+      "Tag": {
+        "Position": 26496,
+        "Value": {
+          "String": "Stat.Mission.IronCity.TpRifts"
+        }
+      },
+      "DevComment": {
+        "Position": 26529,
+        "Value": "Iron City Mission: Tp Rifts"
+      }
+    },
+    "224": {
+      "Tag": {
+        "Position": 26602,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.Build"
+        }
+      },
+      "DevComment": {
+        "Position": 26635,
+        "Value": "Iron City Challenge: build"
+      }
+    },
+    "225": {
+      "Tag": {
+        "Position": 26707,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.DangerClose"
+        }
+      },
+      "DevComment": {
+        "Position": 26740,
+        "Value": "Iron City Challenge: Danger Close"
+      }
+    },
+    "226": {
+      "Tag": {
+        "Position": 26819,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.Explode"
+        }
+      },
+      "DevComment": {
+        "Position": 26852,
+        "Value": "Iron City Challenge: Explode"
+      }
+    },
+    "227": {
+      "Tag": {
+        "Position": 26926,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.Foggy"
+        }
+      },
+      "DevComment": {
+        "Position": 26959,
+        "Value": "Iron City Challenge: foggy"
+      }
+    },
+    "228": {
+      "Tag": {
+        "Position": 27031,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.HeadGames"
+        }
+      },
+      "DevComment": {
+        "Position": 27064,
+        "Value": "Iron City Challenge; Head Games"
+      }
+    },
+    "229": {
+      "Tag": {
+        "Position": 27141,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.Surprise"
+        }
+      },
+      "DevComment": {
+        "Position": 27174,
+        "Value": "Iron City Challenge: Surprise"
+      }
+    },
+    "230": {
+      "Tag": {
+        "Position": 27249,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.SwarmOfHusks"
+        }
+      },
+      "DevComment": {
+        "Position": 27282,
+        "Value": "Iron City Challenge: Swarm of Husks"
+      }
+    },
+    "231": {
+      "Tag": {
+        "Position": 27363,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.Time"
+        }
+      },
+      "DevComment": {
+        "Position": 27396,
+        "Value": "Iron City Challenge: Time"
+      }
+    },
+    "232": {
+      "Tag": {
+        "Position": 27467,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Challenge.Traps"
+        }
+      },
+      "DevComment": {
+        "Position": 27500,
+        "Value": "Iron City Challenge: traps"
+      }
+    },
+    "233": {
+      "Tag": {
+        "Position": 27572,
+        "Value": {
+          "String": "Stat.Mission.IronCity.WaitedForAssistance"
+        }
+      },
+      "DevComment": {
+        "Position": 27605,
+        "Value": "Iron City Waited for Assistance"
+      }
+    },
+    "234": {
+      "Tag": {
+        "Position": 27682,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Type.Simulation"
+        }
+      },
+      "DevComment": {
+        "Position": 27715,
+        "Value": "Iron City type : simulation"
+      }
+    },
+    "235": {
+      "Tag": {
+        "Position": 27788,
+        "Value": {
+          "String": "Stat.Mission.IronCity.Type.Challenge"
+        }
+      },
+      "DevComment": {
+        "Position": 27821,
+        "Value": "Iron City type : challenge"
+      }
+    },
+    "236": {
+      "Tag": {
+        "Position": 27893,
+        "Value": {
+          "String": "Stat.Mission.Primary.Mayday"
+        }
+      },
+      "DevComment": {
+        "Position": 27926,
+        "Value": "MayDay : Main Mission"
+      }
+    },
+    "237": {
+      "Tag": {
+        "Position": 27993,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday"
+        }
+      },
+      "DevComment": {
+        "Position": 28026,
+        "Value": "MayDay : Secondary Mission"
+      }
+    },
+    "238": {
+      "Tag": {
+        "Position": 28098,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.FeelinBlu"
+        }
+      },
+      "DevComment": {
+        "Position": 28131,
+        "Value": "MayDay : Secondary Mission \"Feelin' Blu\""
+      }
+    },
+    "239": {
+      "Tag": {
+        "Position": 28217,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.SignalBoost"
+        }
+      },
+      "DevComment": {
+        "Position": 28250,
+        "Value": "MayDay : Secondary Mission \"Signal Boost\""
+      }
+    },
+    "240": {
+      "Tag": {
+        "Position": 28337,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.RecordDash"
+        }
+      },
+      "DevComment": {
+        "Position": 28370,
+        "Value": "MayDay : Secondary Mission \"Record Dash\""
+      }
+    },
+    "241": {
+      "Tag": {
+        "Position": 28456,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.PitStop"
+        }
+      },
+      "DevComment": {
+        "Position": 28489,
+        "Value": "MayDay : Secondary Mission \"Pit Stop\""
+      }
+    },
+    "242": {
+      "Tag": {
+        "Position": 28572,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.Infestation"
+        }
+      },
+      "DevComment": {
+        "Position": 28605,
+        "Value": "MayDay : Secondary Mission \"Infestation\""
+      }
+    },
+    "243": {
+      "Tag": {
+        "Position": 28691,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.BridgeOut"
+        }
+      },
+      "DevComment": {
+        "Position": 28724,
+        "Value": "MayDay : Secondary Mission \"Bridge Out!\""
+      }
+    },
+    "244": {
+      "Tag": {
+        "Position": 28810,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.Overheat"
+        }
+      },
+      "DevComment": {
+        "Position": 28843,
+        "Value": "MayDay : Secondary Mission \"Overheat\""
+      }
+    },
+    "245": {
+      "Tag": {
+        "Position": 28926,
+        "Value": {
+          "String": "Stat.Mission.Secondary.Mayday.MinorDelay"
+        }
+      },
+      "DevComment": {
+        "Position": 28959,
+        "Value": "MayDay : Secondary Mission \"Minor Delay\""
+      }
+    },
+    "246": {
+      "Tag": {
+        "Position": 29045,
+        "Value": {
+          "String": "Stat.Theater.Mayday"
+        }
+      },
+      "DevComment": {
+        "Position": 29078,
+        "Value": "MayDay Theater"
+      }
+    },
+    "247": {
+      "Tag": {
+        "Position": 29138,
+        "Value": {
+          "String": "Star.Theater.Starlight"
+        }
+      },
+      "DevComment": {
+        "Position": 29171,
+        "Value": "Starlight Theater"
+      }
+    },
+    "248": {
+      "Tag": {
+        "Position": 29234,
+        "Value": {
+          "String": "Stat.Mission.Starlight"
+        }
+      },
+      "DevComment": {
+        "Position": 29267,
+        "Value": "Starlight Mission"
+      }
+    },
+    "249": {
+      "Tag": {
+        "Position": 29330,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight"
+        }
+      },
+      "DevComment": {
+        "Position": 29363,
+        "Value": "Starlight Primary Mission"
+      }
+    },
+    "250": {
+      "Tag": {
+        "Position": 29434,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight.D1"
+        }
+      },
+      "DevComment": {
+        "Position": 29467,
+        "Value": "Dungeon 1 for Starlight"
+      }
+    },
+    "251": {
+      "Tag": {
+        "Position": 29536,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight.D2"
+        }
+      },
+      "DevComment": {
+        "Position": 29569,
+        "Value": "Dungeon 2 for Starlight"
+      }
+    },
+    "252": {
+      "Tag": {
+        "Position": 29638,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight.D3"
+        }
+      },
+      "DevComment": {
+        "Position": 29671,
+        "Value": "Dungeon 3 for Starlight"
+      }
+    },
+    "253": {
+      "Tag": {
+        "Position": 29740,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight.D4"
+        }
+      },
+      "DevComment": {
+        "Position": 29773,
+        "Value": "Dungeon 4 for Starlight"
+      }
+    },
+    "254": {
+      "Tag": {
+        "Position": 29842,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Winterfest.Crackshot"
+        }
+      },
+      "DevComment": {
+        "Position": 29875,
+        "Value": "Event Landmark: Investigate Crackshot's kidnapping (Winter 2019)"
+      }
+    },
+    "255": {
+      "Tag": {
+        "Position": 29985,
+        "Value": {
+          "String": "Stat.Mission.Landmark.MerryHellMaze"
+        }
+      },
+      "DevComment": {
+        "Position": 30018,
+        "Value": "Event Landmark: Willow's Maze (Winter 2019)"
+      }
+    },
+    "256": {
+      "Tag": {
+        "Position": 30107,
+        "Value": {
+          "String": "Stat.ZoneTheme.WinterZone2019"
+        }
+      },
+      "DevComment": {
+        "Position": 30140,
+        "Value": "Protect the Presents (repeatable Landmark)"
+      }
+    },
+    "257": {
+      "Tag": {
+        "Position": 30228,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight.Melee"
+        }
+      },
+      "DevComment": {
+        "Position": 30261,
+        "Value": "Melee Only Challenge for Starlight, Dungeon 1"
+      }
+    },
+    "258": {
+      "Tag": {
+        "Position": 30352,
+        "Value": {
+          "String": "Stat.Mission.Primary.Starlight.Timed"
+        }
+      },
+      "DevComment": {
+        "Position": 30385,
+        "Value": "Timed Run Challenge for Starlight, Dungeon 1"
+      }
+    },
+    "259": {
+      "Tag": {
+        "Position": 30475,
+        "Value": {
+          "String": "Stat.Mission.Primary.SurvivorExtraction"
+        }
+      },
+      "DevComment": {
+        "Position": 30508,
+        "Value": "Craterfall Mission"
+      }
+    },
+    "260": {
+      "Tag": {
+        "Position": 30572,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.Winterfest.ToyingWithYourEmotions"
+        }
+      },
+      "DevComment": {
+        "Position": 30605,
+        "Value": "Event Landmark: Toying With Your Emotions (Winter 2019)"
+      }
+    },
+    "261": {
+      "Tag": {
+        "Position": 30706,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.ProtectThePresents"
+        }
+      },
+      "DevComment": {
+        "Position": 30739,
+        "Value": "Protect the Presents (repeatable Landmark)"
+      }
+    },
+    "262": {
+      "Tag": {
+        "Position": 30827,
+        "Value": {
+          "String": "Stat.Mission.Primary.Landmark.AdventureA"
+        }
+      },
+      "DevComment": {
+        "Position": 30860,
+        "Value": "Event Landmark: Adventure season \"A\" questline landmark mission"
+      }
+    }
+  }
+]

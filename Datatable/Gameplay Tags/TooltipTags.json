@@ -1,0 +1,5752 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "ImportTest.TooltipTags"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": "Imported"
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 165,
+        "Value": {
+          "String": "Tooltip.Cooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 198,
+        "Value": null
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 243,
+        "Value": {
+          "String": "Tooltip.Cost"
+        }
+      },
+      "DevComment": {
+        "Position": 276,
+        "Value": null
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 321,
+        "Value": {
+          "String": "Tooltip.Description.Multiline"
+        }
+      },
+      "DevComment": {
+        "Position": 354,
+        "Value": null
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 399,
+        "Value": {
+          "String": "Tooltip.Description.Short"
+        }
+      },
+      "DevComment": {
+        "Position": 432,
+        "Value": null
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 477,
+        "Value": {
+          "String": "Tooltip.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 510,
+        "Value": null
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 555,
+        "Value": {
+          "String": "Tooltip.Format.Upgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 588,
+        "Value": null
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 633,
+        "Value": {
+          "String": "Tooltip.GameplayEffect.Cost.Format.PrependCategory"
+        }
+      },
+      "DevComment": {
+        "Position": 666,
+        "Value": null
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 711,
+        "Value": {
+          "String": "Tooltip.Item.PrimaryCategory"
+        }
+      },
+      "DevComment": {
+        "Position": 744,
+        "Value": null
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 789,
+        "Value": {
+          "String": "Tooltip.Item.Quality"
+        }
+      },
+      "DevComment": {
+        "Position": 822,
+        "Value": null
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 867,
+        "Value": {
+          "String": "Tooltip.Item.Rarity"
+        }
+      },
+      "DevComment": {
+        "Position": 900,
+        "Value": null
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 945,
+        "Value": {
+          "String": "Tooltip.Item.Tier"
+        }
+      },
+      "DevComment": {
+        "Position": 978,
+        "Value": null
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1023,
+        "Value": {
+          "String": "Tooltip.Name.AsGESource"
+        }
+      },
+      "DevComment": {
+        "Position": 1056,
+        "Value": "The display name of this item formatted for use as a GE source"
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1164,
+        "Value": {
+          "String": "Tooltip.Name.AsGESource.Hero.ClassAndLevel"
+        }
+      },
+      "DevComment": {
+        "Position": 1197,
+        "Value": "Use hero class and level info for source name"
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1288,
+        "Value": {
+          "String": "Tooltip.Name.AsGESource.Stat.Fortitude"
+        }
+      },
+      "DevComment": {
+        "Position": 1321,
+        "Value": "Use Fortitude as the source name"
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1399,
+        "Value": {
+          "String": "Tooltip.Name.AsGESource.Stat.Offense"
+        }
+      },
+      "DevComment": {
+        "Position": 1432,
+        "Value": "Use Offense as the source name"
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1508,
+        "Value": {
+          "String": "Tooltip.Name.AsGESource.Stat.Resistance"
+        }
+      },
+      "DevComment": {
+        "Position": 1541,
+        "Value": "Use Resistance as the source name"
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 1620,
+        "Value": {
+          "String": "Tooltip.Name.AsGESource.Stat.Tech"
+        }
+      },
+      "DevComment": {
+        "Position": 1653,
+        "Value": "Use Tech as the source name"
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 1726,
+        "Value": {
+          "String": "Tooltip.Node.Buff"
+        }
+      },
+      "DevComment": {
+        "Position": 1759,
+        "Value": null
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 1804,
+        "Value": {
+          "String": "Tooltip.PlayerInfo"
+        }
+      },
+      "DevComment": {
+        "Position": 1837,
+        "Value": null
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 1882,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Building"
+        }
+      },
+      "DevComment": {
+        "Position": 1915,
+        "Value": null
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 1960,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Combat"
+        }
+      },
+      "DevComment": {
+        "Position": 1993,
+        "Value": null
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 2038,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.CoreStats"
+        }
+      },
+      "DevComment": {
+        "Position": 2071,
+        "Value": null
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 2116,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Crafting"
+        }
+      },
+      "DevComment": {
+        "Position": 2149,
+        "Value": null
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 2194,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Defense"
+        }
+      },
+      "DevComment": {
+        "Position": 2227,
+        "Value": null
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 2272,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Harvesting"
+        }
+      },
+      "DevComment": {
+        "Position": 2305,
+        "Value": null
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 2350,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.MeleeCombat"
+        }
+      },
+      "DevComment": {
+        "Position": 2383,
+        "Value": null
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 2428,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Misc"
+        }
+      },
+      "DevComment": {
+        "Position": 2461,
+        "Value": null
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 2506,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Movement"
+        }
+      },
+      "DevComment": {
+        "Position": 2539,
+        "Value": null
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 2584,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.RangedCombat"
+        }
+      },
+      "DevComment": {
+        "Position": 2617,
+        "Value": null
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 2662,
+        "Value": {
+          "String": "Tooltip.PlayerInfo.Traps"
+        }
+      },
+      "DevComment": {
+        "Position": 2695,
+        "Value": null
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 2740,
+        "Value": {
+          "String": "Tooltip.Query.Compare"
+        }
+      },
+      "DevComment": {
+        "Position": 2773,
+        "Value": null
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 2818,
+        "Value": {
+          "String": "Tooltip.Query.Upgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 2851,
+        "Value": null
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 2896,
+        "Value": {
+          "String": "Tooltip.Token.Ability.AOERadius"
+        }
+      },
+      "DevComment": {
+        "Position": 2929,
+        "Value": "Currently used by TT_Ninja_DragonSlash but could be re-used"
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 3034,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Chance"
+        }
+      },
+      "DevComment": {
+        "Position": 3067,
+        "Value": null
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 3112,
+        "Value": {
+          "String": "Tooltip.Token.Ability.DamageResist"
+        }
+      },
+      "DevComment": {
+        "Position": 3145,
+        "Value": null
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 3190,
+        "Value": {
+          "String": "Tooltip.Token.Ability.DamageType"
+        }
+      },
+      "DevComment": {
+        "Position": 3223,
+        "Value": "In base TT"
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 3279,
+        "Value": {
+          "String": "Tooltip.Token.Ability.DamageVulnerability"
+        }
+      },
+      "DevComment": {
+        "Position": 3312,
+        "Value": null
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 3357,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 3390,
+        "Value": "In base TT"
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 3446,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Distance"
+        }
+      },
+      "DevComment": {
+        "Position": 3479,
+        "Value": "Currently used by TT_Ninja_DragonSlash but could be re-used"
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 3584,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Duration"
+        }
+      },
+      "DevComment": {
+        "Position": 3617,
+        "Value": "TT_Ninja_DragonSlash"
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 3683,
+        "Value": {
+          "String": "Tooltip.Token.Ability.MaxStacks"
+        }
+      },
+      "DevComment": {
+        "Position": 3716,
+        "Value": null
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 3761,
+        "Value": {
+          "String": "Tooltip.Token.Ability.MovementSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 3794,
+        "Value": null
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 3839,
+        "Value": {
+          "String": "Tooltip.Token.Ability.RateOfFire"
+        }
+      },
+      "DevComment": {
+        "Position": 3872,
+        "Value": null
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 3917,
+        "Value": {
+          "String": "Tooltip.Token.Ability.RepairSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 3950,
+        "Value": null
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 3995,
+        "Value": {
+          "String": "Tooltip.Token.Ability.SlowAmount"
+        }
+      },
+      "DevComment": {
+        "Position": 4028,
+        "Value": "Currently used by TT_Ninja_DragonSlash but could be re-used"
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 4133,
+        "Value": {
+          "String": "Tooltip.Token.ActiveGEContribution"
+        }
+      },
+      "DevComment": {
+        "Position": 4166,
+        "Value": null
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 4211,
+        "Value": {
+          "String": "Tooltip.Token.ActiveGEDuration"
+        }
+      },
+      "DevComment": {
+        "Position": 4244,
+        "Value": null
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 4289,
+        "Value": {
+          "String": "Tooltip.Token.ActiveGEPeriod"
+        }
+      },
+      "DevComment": {
+        "Position": 4322,
+        "Value": null
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 4367,
+        "Value": {
+          "String": "Tooltip.Token.ActiveGESource"
+        }
+      },
+      "DevComment": {
+        "Position": 4400,
+        "Value": null
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 4445,
+        "Value": {
+          "String": "Tooltip.Token.ActiveGETimeRemaining"
+        }
+      },
+      "DevComment": {
+        "Position": 4478,
+        "Value": null
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 4523,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.ChargedFist"
+        }
+      },
+      "DevComment": {
+        "Position": 4556,
+        "Value": null
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 4601,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.FistOfTheSouthMoon"
+        }
+      },
+      "DevComment": {
+        "Position": 4634,
+        "Value": null
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 4679,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.IronKnuckles"
+        }
+      },
+      "DevComment": {
+        "Position": 4712,
+        "Value": null
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 4757,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.LongArmOfTheLaw"
+        }
+      },
+      "DevComment": {
+        "Position": 4790,
+        "Value": null
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 4835,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.StrikeCost"
+        }
+      },
+      "DevComment": {
+        "Position": 4868,
+        "Value": null
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 4913,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.StructuralStrike"
+        }
+      },
+      "DevComment": {
+        "Position": 4946,
+        "Value": null
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 4991,
+        "Value": {
+          "String": "Tooltip.Token.AntiMaterialCharge.TriggerHappy"
+        }
+      },
+      "DevComment": {
+        "Position": 5024,
+        "Value": null
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 5069,
+        "Value": {
+          "String": "Tooltip.Token.ArmTime.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 5102,
+        "Value": null
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 5147,
+        "Value": {
+          "String": "Tooltip.Token.ArmTime.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 5180,
+        "Value": null
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 5225,
+        "Value": {
+          "String": "Tooltip.Token.ArmTime.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 5258,
+        "Value": null
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 5303,
+        "Value": {
+          "String": "Tooltip.Token.Assassination.LongSassin"
+        }
+      },
+      "DevComment": {
+        "Position": 5336,
+        "Value": null
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 5381,
+        "Value": {
+          "String": "Tooltip.Token.Assassination.PainMastery"
+        }
+      },
+      "DevComment": {
+        "Position": 5414,
+        "Value": null
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 5459,
+        "Value": {
+          "String": "Tooltip.Token.Assassination.WindAndStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 5492,
+        "Value": null
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 5537,
+        "Value": {
+          "String": "Tooltip.Token.AttackSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 5570,
+        "Value": null
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 5615,
+        "Value": {
+          "String": "Tooltip.Token.AttackSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 5648,
+        "Value": null
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 5693,
+        "Value": {
+          "String": "Tooltip.Token.AttackSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 5726,
+        "Value": null
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 5771,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildCost.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 5804,
+        "Value": null
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 5849,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildCost.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 5882,
+        "Value": null
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 5927,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildCost.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 5960,
+        "Value": null
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 6005,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildingSkill.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 6038,
+        "Value": null
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 6083,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildingSkill.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 6116,
+        "Value": null
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 6161,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildingSkill.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 6194,
+        "Value": null
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 6239,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 6272,
+        "Value": null
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 6317,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 6350,
+        "Value": null
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 6395,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.BuildSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 6428,
+        "Value": null
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 6473,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DamageResistance.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 6506,
+        "Value": null
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 6551,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DamageResistance.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 6584,
+        "Value": null
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 6629,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DamageResistance.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 6662,
+        "Value": null
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 6707,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Defense.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 6740,
+        "Value": null
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 6785,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Defense.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 6818,
+        "Value": null
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 6863,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Defense.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 6896,
+        "Value": null
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 6941,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Defense_Team.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 6974,
+        "Value": null
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 7019,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Defense_Team.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 7052,
+        "Value": null
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 7097,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Defense_Team.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 7130,
+        "Value": null
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 7175,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DiceCritChance.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 7208,
+        "Value": null
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 7253,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DiceCritChance.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 7286,
+        "Value": null
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 7331,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DiceCritChance.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 7364,
+        "Value": null
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 7409,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleCraftChance.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 7442,
+        "Value": null
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 7487,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleCraftChance.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 7520,
+        "Value": null
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 7565,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleCraftChance.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 7598,
+        "Value": null
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 7643,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleItemLootChance.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 7676,
+        "Value": null
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 7721,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleItemLootChance.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 7754,
+        "Value": null
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 7799,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleItemLootChance.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 7832,
+        "Value": null
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 7877,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealingBonusTarget.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 7910,
+        "Value": null
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 7955,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealingBonusTarget.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 7988,
+        "Value": null
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 8033,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealingBonusTarget.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 8066,
+        "Value": null
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 8111,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealingSourceBaseMultiplier.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 8144,
+        "Value": null
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 8189,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealingSourceBaseMultiplier.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 8222,
+        "Value": null
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 8267,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealingSourceBaseMultiplier.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 8300,
+        "Value": null
+      }
+    },
+    "100": {
+      "Tag": {
+        "Position": 8345,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Health.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 8378,
+        "Value": null
+      }
+    },
+    "101": {
+      "Tag": {
+        "Position": 8423,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Health.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 8456,
+        "Value": null
+      }
+    },
+    "102": {
+      "Tag": {
+        "Position": 8501,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Health.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 8534,
+        "Value": null
+      }
+    },
+    "103": {
+      "Tag": {
+        "Position": 8579,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealthRegenRate.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 8612,
+        "Value": null
+      }
+    },
+    "104": {
+      "Tag": {
+        "Position": 8657,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealthRegenRate.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 8690,
+        "Value": null
+      }
+    },
+    "105": {
+      "Tag": {
+        "Position": 8735,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.HealthRegenRate.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 8768,
+        "Value": null
+      }
+    },
+    "106": {
+      "Tag": {
+        "Position": 8813,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ItemRegenMaxStack.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 8846,
+        "Value": null
+      }
+    },
+    "107": {
+      "Tag": {
+        "Position": 8891,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ItemRegenMaxStack.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 8924,
+        "Value": null
+      }
+    },
+    "108": {
+      "Tag": {
+        "Position": 8969,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ItemRegenMaxStack.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 9002,
+        "Value": null
+      }
+    },
+    "109": {
+      "Tag": {
+        "Position": 9047,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxHealth.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 9080,
+        "Value": null
+      }
+    },
+    "110": {
+      "Tag": {
+        "Position": 9125,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxHealth.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 9158,
+        "Value": null
+      }
+    },
+    "111": {
+      "Tag": {
+        "Position": 9203,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxHealth.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 9236,
+        "Value": null
+      }
+    },
+    "112": {
+      "Tag": {
+        "Position": 9281,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxStamina.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 9314,
+        "Value": null
+      }
+    },
+    "113": {
+      "Tag": {
+        "Position": 9359,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxStamina.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 9392,
+        "Value": null
+      }
+    },
+    "114": {
+      "Tag": {
+        "Position": 9437,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxStamina.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 9470,
+        "Value": null
+      }
+    },
+    "115": {
+      "Tag": {
+        "Position": 9515,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Offense.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 9548,
+        "Value": null
+      }
+    },
+    "116": {
+      "Tag": {
+        "Position": 9593,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Offense.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 9626,
+        "Value": null
+      }
+    },
+    "117": {
+      "Tag": {
+        "Position": 9671,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Offense.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 9704,
+        "Value": null
+      }
+    },
+    "118": {
+      "Tag": {
+        "Position": 9749,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Offense_Team.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 9782,
+        "Value": null
+      }
+    },
+    "119": {
+      "Tag": {
+        "Position": 9827,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Offense_Team.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 9860,
+        "Value": null
+      }
+    },
+    "120": {
+      "Tag": {
+        "Position": 9905,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Offense_Team.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 9938,
+        "Value": null
+      }
+    },
+    "121": {
+      "Tag": {
+        "Position": 9983,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingAbilityDamage.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 10016,
+        "Value": null
+      }
+    },
+    "122": {
+      "Tag": {
+        "Position": 10061,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingAbilityDamage.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 10094,
+        "Value": null
+      }
+    },
+    "123": {
+      "Tag": {
+        "Position": 10139,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingAbilityDamage.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 10172,
+        "Value": null
+      }
+    },
+    "124": {
+      "Tag": {
+        "Position": 10217,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseAbilityDamageMultiplier.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 10250,
+        "Value": null
+      }
+    },
+    "125": {
+      "Tag": {
+        "Position": 10295,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseAbilityDamageMultiplier.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 10328,
+        "Value": null
+      }
+    },
+    "126": {
+      "Tag": {
+        "Position": 10373,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseAbilityDamageMultiplier.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 10406,
+        "Value": null
+      }
+    },
+    "127": {
+      "Tag": {
+        "Position": 10451,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseDamage.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 10484,
+        "Value": null
+      }
+    },
+    "128": {
+      "Tag": {
+        "Position": 10529,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseDamage.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 10562,
+        "Value": null
+      }
+    },
+    "129": {
+      "Tag": {
+        "Position": 10607,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseDamage.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 10640,
+        "Value": null
+      }
+    },
+    "130": {
+      "Tag": {
+        "Position": 10685,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseEnvironmentalDamage.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 10718,
+        "Value": null
+      }
+    },
+    "131": {
+      "Tag": {
+        "Position": 10763,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseEnvironmentalDamage.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 10796,
+        "Value": null
+      }
+    },
+    "132": {
+      "Tag": {
+        "Position": 10841,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.OutgoingBaseEnvironmentalDamage.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 10874,
+        "Value": null
+      }
+    },
+    "133": {
+      "Tag": {
+        "Position": 10919,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Prowess.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 10952,
+        "Value": null
+      }
+    },
+    "134": {
+      "Tag": {
+        "Position": 10997,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Prowess.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 11030,
+        "Value": null
+      }
+    },
+    "135": {
+      "Tag": {
+        "Position": 11075,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Prowess.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 11108,
+        "Value": null
+      }
+    },
+    "136": {
+      "Tag": {
+        "Position": 11153,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Prowess_Team.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 11186,
+        "Value": null
+      }
+    },
+    "137": {
+      "Tag": {
+        "Position": 11231,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Prowess_Team.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 11264,
+        "Value": null
+      }
+    },
+    "138": {
+      "Tag": {
+        "Position": 11309,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Prowess_Team.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 11342,
+        "Value": null
+      }
+    },
+    "139": {
+      "Tag": {
+        "Position": 11387,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ResourceHarvesting.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 11420,
+        "Value": null
+      }
+    },
+    "140": {
+      "Tag": {
+        "Position": 11465,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ResourceHarvesting.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 11498,
+        "Value": null
+      }
+    },
+    "141": {
+      "Tag": {
+        "Position": 11543,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ResourceHarvesting.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 11576,
+        "Value": null
+      }
+    },
+    "142": {
+      "Tag": {
+        "Position": 11621,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RunSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 11654,
+        "Value": null
+      }
+    },
+    "143": {
+      "Tag": {
+        "Position": 11699,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RunSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 11732,
+        "Value": null
+      }
+    },
+    "144": {
+      "Tag": {
+        "Position": 11777,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RunSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 11810,
+        "Value": null
+      }
+    },
+    "145": {
+      "Tag": {
+        "Position": 11855,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Shield.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 11888,
+        "Value": null
+      }
+    },
+    "146": {
+      "Tag": {
+        "Position": 11933,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Shield.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 11966,
+        "Value": null
+      }
+    },
+    "147": {
+      "Tag": {
+        "Position": 12011,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Shield.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 12044,
+        "Value": null
+      }
+    },
+    "148": {
+      "Tag": {
+        "Position": 12089,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ShieldRegenDelay.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 12122,
+        "Value": null
+      }
+    },
+    "149": {
+      "Tag": {
+        "Position": 12167,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ShieldRegenDelay.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 12200,
+        "Value": null
+      }
+    },
+    "150": {
+      "Tag": {
+        "Position": 12245,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ShieldRegenDelay.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 12278,
+        "Value": null
+      }
+    },
+    "151": {
+      "Tag": {
+        "Position": 12323,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ShieldRegenRate.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 12356,
+        "Value": null
+      }
+    },
+    "152": {
+      "Tag": {
+        "Position": 12401,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ShieldRegenRate.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 12434,
+        "Value": null
+      }
+    },
+    "153": {
+      "Tag": {
+        "Position": 12479,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ShieldRegenRate.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 12512,
+        "Value": null
+      }
+    },
+    "154": {
+      "Tag": {
+        "Position": 12557,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.SprintSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 12590,
+        "Value": null
+      }
+    },
+    "155": {
+      "Tag": {
+        "Position": 12635,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.SprintSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 12668,
+        "Value": null
+      }
+    },
+    "156": {
+      "Tag": {
+        "Position": 12713,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.SprintSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 12746,
+        "Value": null
+      }
+    },
+    "157": {
+      "Tag": {
+        "Position": 12791,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Tech.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 12824,
+        "Value": null
+      }
+    },
+    "158": {
+      "Tag": {
+        "Position": 12869,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Tech.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 12902,
+        "Value": null
+      }
+    },
+    "159": {
+      "Tag": {
+        "Position": 12947,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Tech.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 12980,
+        "Value": null
+      }
+    },
+    "160": {
+      "Tag": {
+        "Position": 13025,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Tech_Team.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 13058,
+        "Value": null
+      }
+    },
+    "161": {
+      "Tag": {
+        "Position": 13103,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Tech_Team.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 13136,
+        "Value": null
+      }
+    },
+    "162": {
+      "Tag": {
+        "Position": 13181,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Tech_Team.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 13214,
+        "Value": null
+      }
+    },
+    "163": {
+      "Tag": {
+        "Position": 13259,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapBaseDamage.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 13292,
+        "Value": null
+      }
+    },
+    "164": {
+      "Tag": {
+        "Position": 13337,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapBaseDamage.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 13370,
+        "Value": null
+      }
+    },
+    "165": {
+      "Tag": {
+        "Position": 13415,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapBaseDamage.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 13448,
+        "Value": null
+      }
+    },
+    "166": {
+      "Tag": {
+        "Position": 13493,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Vitality.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 13526,
+        "Value": null
+      }
+    },
+    "167": {
+      "Tag": {
+        "Position": 13571,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Vitality.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 13604,
+        "Value": null
+      }
+    },
+    "168": {
+      "Tag": {
+        "Position": 13649,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Vitality.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 13682,
+        "Value": null
+      }
+    },
+    "169": {
+      "Tag": {
+        "Position": 13727,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Vitality_Team.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 13760,
+        "Value": null
+      }
+    },
+    "170": {
+      "Tag": {
+        "Position": 13805,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Vitality_Team.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 13838,
+        "Value": null
+      }
+    },
+    "171": {
+      "Tag": {
+        "Position": 13883,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Vitality_Team.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 13916,
+        "Value": null
+      }
+    },
+    "172": {
+      "Tag": {
+        "Position": 13961,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.WeaponReloadSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 13994,
+        "Value": null
+      }
+    },
+    "173": {
+      "Tag": {
+        "Position": 14039,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.WeaponReloadSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 14072,
+        "Value": null
+      }
+    },
+    "174": {
+      "Tag": {
+        "Position": 14117,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.WeaponReloadSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 14150,
+        "Value": null
+      }
+    },
+    "175": {
+      "Tag": {
+        "Position": 14195,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.WeaponSkill.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 14228,
+        "Value": null
+      }
+    },
+    "176": {
+      "Tag": {
+        "Position": 14273,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.WeaponSkill.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 14306,
+        "Value": null
+      }
+    },
+    "177": {
+      "Tag": {
+        "Position": 14351,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.WeaponSkill.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 14384,
+        "Value": null
+      }
+    },
+    "178": {
+      "Tag": {
+        "Position": 14429,
+        "Value": {
+          "String": "Tooltip.Token.AttributeBaseValue"
+        }
+      },
+      "DevComment": {
+        "Position": 14462,
+        "Value": null
+      }
+    },
+    "179": {
+      "Tag": {
+        "Position": 14507,
+        "Value": {
+          "String": "Tooltip.Token.AttributeDescription"
+        }
+      },
+      "DevComment": {
+        "Position": 14540,
+        "Value": null
+      }
+    },
+    "180": {
+      "Tag": {
+        "Position": 14585,
+        "Value": {
+          "String": "Tooltip.Token.AttributeDisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 14618,
+        "Value": null
+      }
+    },
+    "181": {
+      "Tag": {
+        "Position": 14663,
+        "Value": {
+          "String": "Tooltip.Token.AttributeValue"
+        }
+      },
+      "DevComment": {
+        "Position": 14696,
+        "Value": null
+      }
+    },
+    "182": {
+      "Tag": {
+        "Position": 14741,
+        "Value": {
+          "String": "Tooltip.Token.BASE.AutomatedDefenses"
+        }
+      },
+      "DevComment": {
+        "Position": 14774,
+        "Value": null
+      }
+    },
+    "183": {
+      "Tag": {
+        "Position": 14819,
+        "Value": {
+          "String": "Tooltip.Token.BASE.BigBrother"
+        }
+      },
+      "DevComment": {
+        "Position": 14852,
+        "Value": null
+      }
+    },
+    "184": {
+      "Tag": {
+        "Position": 14897,
+        "Value": {
+          "String": "Tooltip.Token.BASE.CardioFeedbackLoop"
+        }
+      },
+      "DevComment": {
+        "Position": 14930,
+        "Value": null
+      }
+    },
+    "185": {
+      "Tag": {
+        "Position": 14975,
+        "Value": {
+          "String": "Tooltip.Token.BASE.DefensiveIntegration"
+        }
+      },
+      "DevComment": {
+        "Position": 15008,
+        "Value": null
+      }
+    },
+    "186": {
+      "Tag": {
+        "Position": 15053,
+        "Value": {
+          "String": "Tooltip.Token.BASE.ElectrifiedFloors"
+        }
+      },
+      "DevComment": {
+        "Position": 15086,
+        "Value": null
+      }
+    },
+    "187": {
+      "Tag": {
+        "Position": 15131,
+        "Value": {
+          "String": "Tooltip.Token.BASE.ExitPlan"
+        }
+      },
+      "DevComment": {
+        "Position": 15164,
+        "Value": null
+      }
+    },
+    "188": {
+      "Tag": {
+        "Position": 15209,
+        "Value": {
+          "String": "Tooltip.Token.BASE.FasterExit"
+        }
+      },
+      "DevComment": {
+        "Position": 15242,
+        "Value": null
+      }
+    },
+    "189": {
+      "Tag": {
+        "Position": 15287,
+        "Value": {
+          "String": "Tooltip.Token.BASE.FullyContained"
+        }
+      },
+      "DevComment": {
+        "Position": 15320,
+        "Value": null
+      }
+    },
+    "190": {
+      "Tag": {
+        "Position": 15365,
+        "Value": {
+          "String": "Tooltip.Token.BASE.HomeFree"
+        }
+      },
+      "DevComment": {
+        "Position": 15398,
+        "Value": null
+      }
+    },
+    "191": {
+      "Tag": {
+        "Position": 15443,
+        "Value": {
+          "String": "Tooltip.Token.BASE.Hyperthreading"
+        }
+      },
+      "DevComment": {
+        "Position": 15476,
+        "Value": null
+      }
+    },
+    "192": {
+      "Tag": {
+        "Position": 15521,
+        "Value": {
+          "String": "Tooltip.Token.BASE.LoftyArchitecture"
+        }
+      },
+      "DevComment": {
+        "Position": 15554,
+        "Value": null
+      }
+    },
+    "193": {
+      "Tag": {
+        "Position": 15599,
+        "Value": {
+          "String": "Tooltip.Token.BASE.MegaBASE"
+        }
+      },
+      "DevComment": {
+        "Position": 15632,
+        "Value": null
+      }
+    },
+    "194": {
+      "Tag": {
+        "Position": 15677,
+        "Value": {
+          "String": "Tooltip.Token.BASE.NeuroFeedbackLoop"
+        }
+      },
+      "DevComment": {
+        "Position": 15710,
+        "Value": null
+      }
+    },
+    "195": {
+      "Tag": {
+        "Position": 15755,
+        "Value": {
+          "String": "Tooltip.Token.BASE.Overclocking"
+        }
+      },
+      "DevComment": {
+        "Position": 15788,
+        "Value": null
+      }
+    },
+    "196": {
+      "Tag": {
+        "Position": 15833,
+        "Value": {
+          "String": "Tooltip.Token.BASE.PowerModulation"
+        }
+      },
+      "DevComment": {
+        "Position": 15866,
+        "Value": null
+      }
+    },
+    "197": {
+      "Tag": {
+        "Position": 15911,
+        "Value": {
+          "String": "Tooltip.Token.BASE.Recycling"
+        }
+      },
+      "DevComment": {
+        "Position": 15944,
+        "Value": null
+      }
+    },
+    "198": {
+      "Tag": {
+        "Position": 15989,
+        "Value": {
+          "String": "Tooltip.Token.BASE.SafetyProtocols"
+        }
+      },
+      "DevComment": {
+        "Position": 16022,
+        "Value": null
+      }
+    },
+    "199": {
+      "Tag": {
+        "Position": 16067,
+        "Value": {
+          "String": "Tooltip.Token.BASE.ShieldCapacitor"
+        }
+      },
+      "DevComment": {
+        "Position": 16100,
+        "Value": null
+      }
+    },
+    "200": {
+      "Tag": {
+        "Position": 16145,
+        "Value": {
+          "String": "Tooltip.Token.BASE.StrongerExit"
+        }
+      },
+      "DevComment": {
+        "Position": 16178,
+        "Value": null
+      }
+    },
+    "201": {
+      "Tag": {
+        "Position": 16223,
+        "Value": {
+          "String": "Tooltip.Token.BASE.TileSize"
+        }
+      },
+      "DevComment": {
+        "Position": 16256,
+        "Value": null
+      }
+    },
+    "202": {
+      "Tag": {
+        "Position": 16301,
+        "Value": {
+          "String": "Tooltip.Token.BASE.TotalIntegration"
+        }
+      },
+      "DevComment": {
+        "Position": 16334,
+        "Value": null
+      }
+    },
+    "203": {
+      "Tag": {
+        "Position": 16379,
+        "Value": {
+          "String": "Tooltip.Token.BuildLevel"
+        }
+      },
+      "DevComment": {
+        "Position": 16412,
+        "Value": null
+      }
+    },
+    "204": {
+      "Tag": {
+        "Position": 16457,
+        "Value": {
+          "String": "Tooltip.Token.BullRush.ChinaShop"
+        }
+      },
+      "DevComment": {
+        "Position": 16490,
+        "Value": null
+      }
+    },
+    "205": {
+      "Tag": {
+        "Position": 16535,
+        "Value": {
+          "String": "Tooltip.Token.BullRush.EmergencyOverride"
+        }
+      },
+      "DevComment": {
+        "Position": 16568,
+        "Value": null
+      }
+    },
+    "206": {
+      "Tag": {
+        "Position": 16613,
+        "Value": {
+          "String": "Tooltip.Token.BullRush.LongRush"
+        }
+      },
+      "DevComment": {
+        "Position": 16646,
+        "Value": null
+      }
+    },
+    "207": {
+      "Tag": {
+        "Position": 16691,
+        "Value": {
+          "String": "Tooltip.Token.BullRush.RiotShield"
+        }
+      },
+      "DevComment": {
+        "Position": 16724,
+        "Value": null
+      }
+    },
+    "208": {
+      "Tag": {
+        "Position": 16769,
+        "Value": {
+          "String": "Tooltip.Token.Charges"
+        }
+      },
+      "DevComment": {
+        "Position": 16802,
+        "Value": null
+      }
+    },
+    "209": {
+      "Tag": {
+        "Position": 16847,
+        "Value": {
+          "String": "Tooltip.Token.Cooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 16880,
+        "Value": null
+      }
+    },
+    "210": {
+      "Tag": {
+        "Position": 16925,
+        "Value": {
+          "String": "Tooltip.Token.CoreResource"
+        }
+      },
+      "DevComment": {
+        "Position": 16958,
+        "Value": null
+      }
+    },
+    "211": {
+      "Tag": {
+        "Position": 17003,
+        "Value": {
+          "String": "Tooltip.Token.Cost"
+        }
+      },
+      "DevComment": {
+        "Position": 17036,
+        "Value": null
+      }
+    },
+    "212": {
+      "Tag": {
+        "Position": 17081,
+        "Value": {
+          "String": "Tooltip.Token.CritHitChance.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 17114,
+        "Value": null
+      }
+    },
+    "213": {
+      "Tag": {
+        "Position": 17159,
+        "Value": {
+          "String": "Tooltip.Token.CritHitChance.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 17192,
+        "Value": null
+      }
+    },
+    "214": {
+      "Tag": {
+        "Position": 17237,
+        "Value": {
+          "String": "Tooltip.Token.CritHitChance.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 17270,
+        "Value": null
+      }
+    },
+    "215": {
+      "Tag": {
+        "Position": 17315,
+        "Value": {
+          "String": "Tooltip.Token.CritHitDamage.Absolute.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 17348,
+        "Value": null
+      }
+    },
+    "216": {
+      "Tag": {
+        "Position": 17393,
+        "Value": {
+          "String": "Tooltip.Token.CritHitDamage.Absolute.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 17426,
+        "Value": null
+      }
+    },
+    "217": {
+      "Tag": {
+        "Position": 17471,
+        "Value": {
+          "String": "Tooltip.Token.CritHitDamage.Absolute.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 17504,
+        "Value": null
+      }
+    },
+    "218": {
+      "Tag": {
+        "Position": 17549,
+        "Value": {
+          "String": "Tooltip.Token.CritHitDamage.Percent.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 17582,
+        "Value": null
+      }
+    },
+    "219": {
+      "Tag": {
+        "Position": 17627,
+        "Value": {
+          "String": "Tooltip.Token.CritHitDamage.Percent.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 17660,
+        "Value": null
+      }
+    },
+    "220": {
+      "Tag": {
+        "Position": 17705,
+        "Value": {
+          "String": "Tooltip.Token.CritHitDamage.Percent.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 17738,
+        "Value": null
+      }
+    },
+    "221": {
+      "Tag": {
+        "Position": 17783,
+        "Value": {
+          "String": "Tooltip.Token.Damage.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 17816,
+        "Value": null
+      }
+    },
+    "222": {
+      "Tag": {
+        "Position": 17861,
+        "Value": {
+          "String": "Tooltip.Token.Damage.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 17894,
+        "Value": null
+      }
+    },
+    "223": {
+      "Tag": {
+        "Position": 17939,
+        "Value": {
+          "String": "Tooltip.Token.Damage.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 17972,
+        "Value": null
+      }
+    },
+    "224": {
+      "Tag": {
+        "Position": 18017,
+        "Value": {
+          "String": "Tooltip.Token.DebilitatingShots.DebilitationTraining"
+        }
+      },
+      "DevComment": {
+        "Position": 18050,
+        "Value": null
+      }
+    },
+    "225": {
+      "Tag": {
+        "Position": 18095,
+        "Value": {
+          "String": "Tooltip.Token.DebilitatingShots.Kneecapper"
+        }
+      },
+      "DevComment": {
+        "Position": 18128,
+        "Value": null
+      }
+    },
+    "226": {
+      "Tag": {
+        "Position": 18173,
+        "Value": {
+          "String": "Tooltip.Token.DebilitatingShots.LingeringPain"
+        }
+      },
+      "DevComment": {
+        "Position": 18206,
+        "Value": null
+      }
+    },
+    "227": {
+      "Tag": {
+        "Position": 18251,
+        "Value": {
+          "String": "Tooltip.Token.DPS.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 18284,
+        "Value": null
+      }
+    },
+    "228": {
+      "Tag": {
+        "Position": 18329,
+        "Value": {
+          "String": "Tooltip.Token.DPS.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 18362,
+        "Value": null
+      }
+    },
+    "229": {
+      "Tag": {
+        "Position": 18407,
+        "Value": {
+          "String": "Tooltip.Token.DPS.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 18440,
+        "Value": null
+      }
+    },
+    "230": {
+      "Tag": {
+        "Position": 18485,
+        "Value": {
+          "String": "Tooltip.Token.DragonSlash.Shroud"
+        }
+      },
+      "DevComment": {
+        "Position": 18518,
+        "Value": "TT_Ninja_DragonSlash"
+      }
+    },
+    "231": {
+      "Tag": {
+        "Position": 18584,
+        "Value": {
+          "String": "Tooltip.Token.DragonSlash.Tail"
+        }
+      },
+      "DevComment": {
+        "Position": 18617,
+        "Value": "TT_Ninja_DragonSlash"
+      }
+    },
+    "232": {
+      "Tag": {
+        "Position": 18683,
+        "Value": {
+          "String": "Tooltip.Token.DragonSlash.TailDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 18716,
+        "Value": "TT_Ninja_DragonSlash"
+      }
+    },
+    "233": {
+      "Tag": {
+        "Position": 18782,
+        "Value": {
+          "String": "Tooltip.Token.Durability.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 18815,
+        "Value": null
+      }
+    },
+    "234": {
+      "Tag": {
+        "Position": 18860,
+        "Value": {
+          "String": "Tooltip.Token.Durability.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 18893,
+        "Value": null
+      }
+    },
+    "235": {
+      "Tag": {
+        "Position": 18938,
+        "Value": {
+          "String": "Tooltip.Token.Durability.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 18971,
+        "Value": null
+      }
+    },
+    "236": {
+      "Tag": {
+        "Position": 19016,
+        "Value": {
+          "String": "Tooltip.Token.Duration"
+        }
+      },
+      "DevComment": {
+        "Position": 19049,
+        "Value": null
+      }
+    },
+    "237": {
+      "Tag": {
+        "Position": 19094,
+        "Value": {
+          "String": "Tooltip.Token.Explode"
+        }
+      },
+      "DevComment": {
+        "Position": 19127,
+        "Value": null
+      }
+    },
+    "238": {
+      "Tag": {
+        "Position": 19172,
+        "Value": {
+          "String": "Tooltip.Token.FireRate.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 19205,
+        "Value": null
+      }
+    },
+    "239": {
+      "Tag": {
+        "Position": 19250,
+        "Value": {
+          "String": "Tooltip.Token.FireRate.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 19283,
+        "Value": null
+      }
+    },
+    "240": {
+      "Tag": {
+        "Position": 19328,
+        "Value": {
+          "String": "Tooltip.Token.FireRate.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 19361,
+        "Value": null
+      }
+    },
+    "241": {
+      "Tag": {
+        "Position": 19406,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.BiggerIsBetter"
+        }
+      },
+      "DevComment": {
+        "Position": 19439,
+        "Value": null
+      }
+    },
+    "242": {
+      "Tag": {
+        "Position": 19484,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.ClusterBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 19517,
+        "Value": null
+      }
+    },
+    "243": {
+      "Tag": {
+        "Position": 19562,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.GrenadeAmmo"
+        }
+      },
+      "DevComment": {
+        "Position": 19595,
+        "Value": null
+      }
+    },
+    "244": {
+      "Tag": {
+        "Position": 19640,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.GrenadeCost"
+        }
+      },
+      "DevComment": {
+        "Position": 19673,
+        "Value": null
+      }
+    },
+    "245": {
+      "Tag": {
+        "Position": 19718,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.GrenadeDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 19751,
+        "Value": null
+      }
+    },
+    "246": {
+      "Tag": {
+        "Position": 19796,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.KeepOut"
+        }
+      },
+      "DevComment": {
+        "Position": 19829,
+        "Value": null
+      }
+    },
+    "247": {
+      "Tag": {
+        "Position": 19874,
+        "Value": {
+          "String": "Tooltip.Token.FragGrenade.PlasmaGrenades"
+        }
+      },
+      "DevComment": {
+        "Position": 19907,
+        "Value": null
+      }
+    },
+    "248": {
+      "Tag": {
+        "Position": 19952,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.Bearricade"
+        }
+      },
+      "DevComment": {
+        "Position": 19985,
+        "Value": null
+      }
+    },
+    "249": {
+      "Tag": {
+        "Position": 20030,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.DefensivePurge"
+        }
+      },
+      "DevComment": {
+        "Position": 20063,
+        "Value": null
+      }
+    },
+    "250": {
+      "Tag": {
+        "Position": 20108,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.DiamondsInTheRough"
+        }
+      },
+      "DevComment": {
+        "Position": 20141,
+        "Value": null
+      }
+    },
+    "251": {
+      "Tag": {
+        "Position": 20186,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.FindersKeepers"
+        }
+      },
+      "DevComment": {
+        "Position": 20219,
+        "Value": null
+      }
+    },
+    "252": {
+      "Tag": {
+        "Position": 20264,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.ImpossibilityMatrix"
+        }
+      },
+      "DevComment": {
+        "Position": 20297,
+        "Value": null
+      }
+    },
+    "253": {
+      "Tag": {
+        "Position": 20342,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.LlamaForOne"
+        }
+      },
+      "DevComment": {
+        "Position": 20375,
+        "Value": null
+      }
+    },
+    "254": {
+      "Tag": {
+        "Position": 20420,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.PhasedAndConfused"
+        }
+      },
+      "DevComment": {
+        "Position": 20453,
+        "Value": null
+      }
+    },
+    "255": {
+      "Tag": {
+        "Position": 20498,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.PhasedOut"
+        }
+      },
+      "DevComment": {
+        "Position": 20531,
+        "Value": null
+      }
+    },
+    "256": {
+      "Tag": {
+        "Position": 20576,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.PhaseForward"
+        }
+      },
+      "DevComment": {
+        "Position": 20609,
+        "Value": null
+      }
+    },
+    "257": {
+      "Tag": {
+        "Position": 20654,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.PhaseShift"
+        }
+      },
+      "DevComment": {
+        "Position": 20687,
+        "Value": null
+      }
+    },
+    "258": {
+      "Tag": {
+        "Position": 20732,
+        "Value": {
+          "String": "Tooltip.Token.Fragment.ShiftyEyed"
+        }
+      },
+      "DevComment": {
+        "Position": 20765,
+        "Value": null
+      }
+    },
+    "259": {
+      "Tag": {
+        "Position": 20810,
+        "Value": {
+          "String": "Tooltip.Token.GoinCommando.AintDoneYet"
+        }
+      },
+      "DevComment": {
+        "Position": 20843,
+        "Value": null
+      }
+    },
+    "260": {
+      "Tag": {
+        "Position": 20888,
+        "Value": {
+          "String": "Tooltip.Token.GoinCommando.BoomStick"
+        }
+      },
+      "DevComment": {
+        "Position": 20921,
+        "Value": null
+      }
+    },
+    "261": {
+      "Tag": {
+        "Position": 20966,
+        "Value": {
+          "String": "Tooltip.Token.GoinCommando.EasyOperation"
+        }
+      },
+      "DevComment": {
+        "Position": 20999,
+        "Value": null
+      }
+    },
+    "262": {
+      "Tag": {
+        "Position": 21044,
+        "Value": {
+          "String": "Tooltip.Token.GoinCommando.GoinAgain"
+        }
+      },
+      "DevComment": {
+        "Position": 21077,
+        "Value": null
+      }
+    },
+    "263": {
+      "Tag": {
+        "Position": 21122,
+        "Value": {
+          "String": "Tooltip.Token.GoinCommando.IfItBleeds"
+        }
+      },
+      "DevComment": {
+        "Position": 21155,
+        "Value": null
+      }
+    },
+    "264": {
+      "Tag": {
+        "Position": 21200,
+        "Value": {
+          "String": "Tooltip.Token.GrantedPowerPoints"
+        }
+      },
+      "DevComment": {
+        "Position": 21233,
+        "Value": null
+      }
+    },
+    "265": {
+      "Tag": {
+        "Position": 21278,
+        "Value": {
+          "String": "Tooltip.Token.GravitySphere.FastGravity"
+        }
+      },
+      "DevComment": {
+        "Position": 21311,
+        "Value": null
+      }
+    },
+    "266": {
+      "Tag": {
+        "Position": 21356,
+        "Value": {
+          "String": "Tooltip.Token.GravitySphere.GravityWell"
+        }
+      },
+      "DevComment": {
+        "Position": 21389,
+        "Value": null
+      }
+    },
+    "267": {
+      "Tag": {
+        "Position": 21434,
+        "Value": {
+          "String": "Tooltip.Token.GravitySphere.HeavyStuff"
+        }
+      },
+      "DevComment": {
+        "Position": 21467,
+        "Value": null
+      }
+    },
+    "268": {
+      "Tag": {
+        "Position": 21512,
+        "Value": {
+          "String": "Tooltip.Token.GravitySphere.LongPhase"
+        }
+      },
+      "DevComment": {
+        "Position": 21545,
+        "Value": null
+      }
+    },
+    "269": {
+      "Tag": {
+        "Position": 21590,
+        "Value": {
+          "String": "Tooltip.Token.GravitySphere.LowerGravity"
+        }
+      },
+      "DevComment": {
+        "Position": 21623,
+        "Value": null
+      }
+    },
+    "270": {
+      "Tag": {
+        "Position": 21668,
+        "Value": {
+          "String": "Tooltip.Token.GravitySphere.ShieldsUp"
+        }
+      },
+      "DevComment": {
+        "Position": 21701,
+        "Value": null
+      }
+    },
+    "271": {
+      "Tag": {
+        "Position": 21746,
+        "Value": {
+          "String": "Tooltip.Token.Healing.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 21779,
+        "Value": null
+      }
+    },
+    "272": {
+      "Tag": {
+        "Position": 21824,
+        "Value": {
+          "String": "Tooltip.Token.Healing.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 21857,
+        "Value": null
+      }
+    },
+    "273": {
+      "Tag": {
+        "Position": 21902,
+        "Value": {
+          "String": "Tooltip.Token.Healing.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 21935,
+        "Value": null
+      }
+    },
+    "274": {
+      "Tag": {
+        "Position": 21980,
+        "Value": {
+          "String": "Tooltip.Token.HeroClassAndLevel"
+        }
+      },
+      "DevComment": {
+        "Position": 22013,
+        "Value": null
+      }
+    },
+    "275": {
+      "Tag": {
+        "Position": 22058,
+        "Value": {
+          "String": "Tooltip.Token.HomebaseNodePrereqs"
+        }
+      },
+      "DevComment": {
+        "Position": 22091,
+        "Value": null
+      }
+    },
+    "276": {
+      "Tag": {
+        "Position": 22136,
+        "Value": {
+          "String": "Tooltip.Token.HOTAmt"
+        }
+      },
+      "DevComment": {
+        "Position": 22169,
+        "Value": null
+      }
+    },
+    "277": {
+      "Tag": {
+        "Position": 22214,
+        "Value": {
+          "String": "Tooltip.Token.HOTEnd"
+        }
+      },
+      "DevComment": {
+        "Position": 22247,
+        "Value": null
+      }
+    },
+    "278": {
+      "Tag": {
+        "Position": 22292,
+        "Value": {
+          "String": "Tooltip.Token.HOTStart"
+        }
+      },
+      "DevComment": {
+        "Position": 22325,
+        "Value": null
+      }
+    },
+    "279": {
+      "Tag": {
+        "Position": 22370,
+        "Value": {
+          "String": "Tooltip.Token.instahealamt"
+        }
+      },
+      "DevComment": {
+        "Position": 22403,
+        "Value": null
+      }
+    },
+    "280": {
+      "Tag": {
+        "Position": 22448,
+        "Value": {
+          "String": "Tooltip.Token.InTheZone.ComeOutComeOut"
+        }
+      },
+      "DevComment": {
+        "Position": 22481,
+        "Value": null
+      }
+    },
+    "281": {
+      "Tag": {
+        "Position": 22526,
+        "Value": {
+          "String": "Tooltip.Token.InTheZone.DeepInTheZone"
+        }
+      },
+      "DevComment": {
+        "Position": 22559,
+        "Value": null
+      }
+    },
+    "282": {
+      "Tag": {
+        "Position": 22604,
+        "Value": {
+          "String": "Tooltip.Token.InTheZone.KeenEyes"
+        }
+      },
+      "DevComment": {
+        "Position": 22637,
+        "Value": null
+      }
+    },
+    "283": {
+      "Tag": {
+        "Position": 22682,
+        "Value": {
+          "String": "Tooltip.Token.InTheZone.PassingZone"
+        }
+      },
+      "DevComment": {
+        "Position": 22715,
+        "Value": null
+      }
+    },
+    "284": {
+      "Tag": {
+        "Position": 22760,
+        "Value": {
+          "String": "Tooltip.Token.KineticOverload.KineticOverdrive"
+        }
+      },
+      "DevComment": {
+        "Position": 22793,
+        "Value": null
+      }
+    },
+    "285": {
+      "Tag": {
+        "Position": 22838,
+        "Value": {
+          "String": "Tooltip.Token.KineticOverload.NiceAndSlow"
+        }
+      },
+      "DevComment": {
+        "Position": 22871,
+        "Value": null
+      }
+    },
+    "286": {
+      "Tag": {
+        "Position": 22916,
+        "Value": {
+          "String": "Tooltip.Token.Knockback"
+        }
+      },
+      "DevComment": {
+        "Position": 22949,
+        "Value": "BannerGATooltip"
+      }
+    },
+    "287": {
+      "Tag": {
+        "Position": 23010,
+        "Value": {
+          "String": "Tooltip.Token.Knockback.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 23043,
+        "Value": null
+      }
+    },
+    "288": {
+      "Tag": {
+        "Position": 23088,
+        "Value": {
+          "String": "Tooltip.Token.Knockback.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 23121,
+        "Value": null
+      }
+    },
+    "289": {
+      "Tag": {
+        "Position": 23166,
+        "Value": {
+          "String": "Tooltip.Token.Knockback.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 23199,
+        "Value": null
+      }
+    },
+    "290": {
+      "Tag": {
+        "Position": 23244,
+        "Value": {
+          "String": "Tooltip.Token.KnockbackDistance"
+        }
+      },
+      "DevComment": {
+        "Position": 23277,
+        "Value": "BannerGATooltip"
+      }
+    },
+    "291": {
+      "Tag": {
+        "Position": 23338,
+        "Value": {
+          "String": "Tooltip.Token.Level.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 23371,
+        "Value": null
+      }
+    },
+    "292": {
+      "Tag": {
+        "Position": 23416,
+        "Value": {
+          "String": "Tooltip.Token.Level.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 23449,
+        "Value": null
+      }
+    },
+    "293": {
+      "Tag": {
+        "Position": 23494,
+        "Value": {
+          "String": "Tooltip.Token.Level.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 23527,
+        "Value": null
+      }
+    },
+    "294": {
+      "Tag": {
+        "Position": 23572,
+        "Value": {
+          "String": "Tooltip.Token.MagazineSize.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 23605,
+        "Value": null
+      }
+    },
+    "295": {
+      "Tag": {
+        "Position": 23650,
+        "Value": {
+          "String": "Tooltip.Token.MagazineSize.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 23683,
+        "Value": null
+      }
+    },
+    "296": {
+      "Tag": {
+        "Position": 23728,
+        "Value": {
+          "String": "Tooltip.Token.MagazineSize.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 23761,
+        "Value": null
+      }
+    },
+    "297": {
+      "Tag": {
+        "Position": 23806,
+        "Value": {
+          "String": "Tooltip.Token.MakeItRain.ChaseEmDown"
+        }
+      },
+      "DevComment": {
+        "Position": 23839,
+        "Value": null
+      }
+    },
+    "298": {
+      "Tag": {
+        "Position": 23884,
+        "Value": {
+          "String": "Tooltip.Token.MakeItRain.RainFaster"
+        }
+      },
+      "DevComment": {
+        "Position": 23917,
+        "Value": null
+      }
+    },
+    "299": {
+      "Tag": {
+        "Position": 23962,
+        "Value": {
+          "String": "Tooltip.Token.MakeItRain.WellLookAtThat"
+        }
+      },
+      "DevComment": {
+        "Position": 23995,
+        "Value": null
+      }
+    },
+    "300": {
+      "Tag": {
+        "Position": 24040,
+        "Value": {
+          "String": "Tooltip.Token.MantisLeap.MantisShroud"
+        }
+      },
+      "DevComment": {
+        "Position": 24073,
+        "Value": null
+      }
+    },
+    "301": {
+      "Tag": {
+        "Position": 24118,
+        "Value": {
+          "String": "Tooltip.Token.MantisLeap.MantisStrike"
+        }
+      },
+      "DevComment": {
+        "Position": 24151,
+        "Value": null
+      }
+    },
+    "302": {
+      "Tag": {
+        "Position": 24196,
+        "Value": {
+          "String": "Tooltip.Token.MantisLeap.PrayingMantis"
+        }
+      },
+      "DevComment": {
+        "Position": 24229,
+        "Value": null
+      }
+    },
+    "303": {
+      "Tag": {
+        "Position": 24274,
+        "Value": {
+          "String": "Tooltip.Token.MantisLeap.ThreeMantisStyle"
+        }
+      },
+      "DevComment": {
+        "Position": 24307,
+        "Value": null
+      }
+    },
+    "304": {
+      "Tag": {
+        "Position": 24352,
+        "Value": {
+          "String": "Tooltip.Token.MaxDurability.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 24385,
+        "Value": null
+      }
+    },
+    "305": {
+      "Tag": {
+        "Position": 24430,
+        "Value": {
+          "String": "Tooltip.Token.MaxDurability.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 24463,
+        "Value": null
+      }
+    },
+    "306": {
+      "Tag": {
+        "Position": 24508,
+        "Value": {
+          "String": "Tooltip.Token.MaxDurability.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 24541,
+        "Value": null
+      }
+    },
+    "307": {
+      "Tag": {
+        "Position": 24586,
+        "Value": {
+          "String": "Tooltip.Token.MaxLevel.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 24619,
+        "Value": null
+      }
+    },
+    "308": {
+      "Tag": {
+        "Position": 24664,
+        "Value": {
+          "String": "Tooltip.Token.MaxLevel.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 24697,
+        "Value": null
+      }
+    },
+    "309": {
+      "Tag": {
+        "Position": 24742,
+        "Value": {
+          "String": "Tooltip.Token.MaxLevel.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 24775,
+        "Value": null
+      }
+    },
+    "310": {
+      "Tag": {
+        "Position": 24820,
+        "Value": {
+          "String": "Tooltip.Token.Name"
+        }
+      },
+      "DevComment": {
+        "Position": 24853,
+        "Value": null
+      }
+    },
+    "311": {
+      "Tag": {
+        "Position": 24898,
+        "Value": {
+          "String": "Tooltip.Token.NormalizedDurability.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 24931,
+        "Value": null
+      }
+    },
+    "312": {
+      "Tag": {
+        "Position": 24976,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.BeatDown"
+        }
+      },
+      "DevComment": {
+        "Position": 25009,
+        "Value": null
+      }
+    },
+    "313": {
+      "Tag": {
+        "Position": 25054,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.IFFCoding"
+        }
+      },
+      "DevComment": {
+        "Position": 25087,
+        "Value": null
+      }
+    },
+    "314": {
+      "Tag": {
+        "Position": 25132,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.IFFCodingBiometricResonance"
+        }
+      },
+      "DevComment": {
+        "Position": 25165,
+        "Value": null
+      }
+    },
+    "315": {
+      "Tag": {
+        "Position": 25210,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.OneHotMinute"
+        }
+      },
+      "DevComment": {
+        "Position": 25243,
+        "Value": null
+      }
+    },
+    "316": {
+      "Tag": {
+        "Position": 25288,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.PlasmaOverdrive"
+        }
+      },
+      "DevComment": {
+        "Position": 25321,
+        "Value": null
+      }
+    },
+    "317": {
+      "Tag": {
+        "Position": 25366,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.PowerPulse"
+        }
+      },
+      "DevComment": {
+        "Position": 25399,
+        "Value": null
+      }
+    },
+    "318": {
+      "Tag": {
+        "Position": 25444,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.MinPulseTime"
+        }
+      },
+      "DevComment": {
+        "Position": 25477,
+        "Value": null
+      }
+    },
+    "319": {
+      "Tag": {
+        "Position": 25522,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.MaxPulseTime"
+        }
+      },
+      "DevComment": {
+        "Position": 25555,
+        "Value": null
+      }
+    },
+    "320": {
+      "Tag": {
+        "Position": 25600,
+        "Value": {
+          "String": "Tooltip.Token.Purge"
+        }
+      },
+      "DevComment": {
+        "Position": 25633,
+        "Value": null
+      }
+    },
+    "321": {
+      "Tag": {
+        "Position": 25678,
+        "Value": {
+          "String": "Tooltip.Token.Radius"
+        }
+      },
+      "DevComment": {
+        "Position": 25711,
+        "Value": null
+      }
+    },
+    "322": {
+      "Tag": {
+        "Position": 25756,
+        "Value": {
+          "String": "Tooltip.Token.Range.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 25789,
+        "Value": null
+      }
+    },
+    "323": {
+      "Tag": {
+        "Position": 25834,
+        "Value": {
+          "String": "Tooltip.Token.Range.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 25867,
+        "Value": null
+      }
+    },
+    "324": {
+      "Tag": {
+        "Position": 25912,
+        "Value": {
+          "String": "Tooltip.Token.Range.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 25945,
+        "Value": null
+      }
+    },
+    "325": {
+      "Tag": {
+        "Position": 25990,
+        "Value": {
+          "String": "Tooltip.Token.ReloadTime.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 26023,
+        "Value": null
+      }
+    },
+    "326": {
+      "Tag": {
+        "Position": 26068,
+        "Value": {
+          "String": "Tooltip.Token.ReloadTime.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 26101,
+        "Value": null
+      }
+    },
+    "327": {
+      "Tag": {
+        "Position": 26146,
+        "Value": {
+          "String": "Tooltip.Token.ReloadTime.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 26179,
+        "Value": null
+      }
+    },
+    "328": {
+      "Tag": {
+        "Position": 26224,
+        "Value": {
+          "String": "Tooltip.Token.RepairDistance"
+        }
+      },
+      "DevComment": {
+        "Position": 26257,
+        "Value": "BannerGATooltip"
+      }
+    },
+    "329": {
+      "Tag": {
+        "Position": 26318,
+        "Value": {
+          "String": "Tooltip.Token.Resurrect"
+        }
+      },
+      "DevComment": {
+        "Position": 26351,
+        "Value": null
+      }
+    },
+    "330": {
+      "Tag": {
+        "Position": 26396,
+        "Value": {
+          "String": "Tooltip.Token.Sdamage"
+        }
+      },
+      "DevComment": {
+        "Position": 26429,
+        "Value": null
+      }
+    },
+    "331": {
+      "Tag": {
+        "Position": 26474,
+        "Value": {
+          "String": "Tooltip.Token.ShadowStance.DimMak"
+        }
+      },
+      "DevComment": {
+        "Position": 26507,
+        "Value": null
+      }
+    },
+    "332": {
+      "Tag": {
+        "Position": 26552,
+        "Value": {
+          "String": "Tooltip.Token.ShadowStance.LegendarySword"
+        }
+      },
+      "DevComment": {
+        "Position": 26585,
+        "Value": null
+      }
+    },
+    "333": {
+      "Tag": {
+        "Position": 26630,
+        "Value": {
+          "String": "Tooltip.Token.ShadowStance.ThreeRiversTechnique"
+        }
+      },
+      "DevComment": {
+        "Position": 26663,
+        "Value": null
+      }
+    },
+    "334": {
+      "Tag": {
+        "Position": 26708,
+        "Value": {
+          "String": "Tooltip.Token.Shockwave.DopplerEffect"
+        }
+      },
+      "DevComment": {
+        "Position": 26741,
+        "Value": null
+      }
+    },
+    "335": {
+      "Tag": {
+        "Position": 26786,
+        "Value": {
+          "String": "Tooltip.Token.Shockwave.ExplosiveOptimization"
+        }
+      },
+      "DevComment": {
+        "Position": 26819,
+        "Value": null
+      }
+    },
+    "336": {
+      "Tag": {
+        "Position": 26864,
+        "Value": {
+          "String": "Tooltip.Token.Shockwave.PerfectEngineering"
+        }
+      },
+      "DevComment": {
+        "Position": 26897,
+        "Value": null
+      }
+    },
+    "337": {
+      "Tag": {
+        "Position": 26942,
+        "Value": {
+          "String": "Tooltip.Token.Shockwave.PowerImpact"
+        }
+      },
+      "DevComment": {
+        "Position": 26975,
+        "Value": null
+      }
+    },
+    "338": {
+      "Tag": {
+        "Position": 27020,
+        "Value": {
+          "String": "Tooltip.Token.Shockwave.ShockAndAwe"
+        }
+      },
+      "DevComment": {
+        "Position": 27053,
+        "Value": null
+      }
+    },
+    "339": {
+      "Tag": {
+        "Position": 27098,
+        "Value": {
+          "String": "Tooltip.Token.Shockwaveend"
+        }
+      },
+      "DevComment": {
+        "Position": 27131,
+        "Value": null
+      }
+    },
+    "340": {
+      "Tag": {
+        "Position": 27176,
+        "Value": {
+          "String": "Tooltip.Token.Shockwavemid"
+        }
+      },
+      "DevComment": {
+        "Position": 27209,
+        "Value": null
+      }
+    },
+    "341": {
+      "Tag": {
+        "Position": 27254,
+        "Value": {
+          "String": "Tooltip.Token.Shockwavestart"
+        }
+      },
+      "DevComment": {
+        "Position": 27287,
+        "Value": null
+      }
+    },
+    "342": {
+      "Tag": {
+        "Position": 27332,
+        "Value": {
+          "String": "Tooltip.Token.SlowAmount"
+        }
+      },
+      "DevComment": {
+        "Position": 27365,
+        "Value": null
+      }
+    },
+    "343": {
+      "Tag": {
+        "Position": 27410,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.NowYouSeeMe"
+        }
+      },
+      "DevComment": {
+        "Position": 27443,
+        "Value": null
+      }
+    },
+    "344": {
+      "Tag": {
+        "Position": 27488,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.ShadowStance"
+        }
+      },
+      "DevComment": {
+        "Position": 27521,
+        "Value": "TT_Ninja_SmokeBomb"
+      }
+    },
+    "345": {
+      "Tag": {
+        "Position": 27585,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.Swiftness"
+        }
+      },
+      "DevComment": {
+        "Position": 27618,
+        "Value": "TT_Ninja_SmokeBomb"
+      }
+    },
+    "346": {
+      "Tag": {
+        "Position": 27682,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.SwiftnessDuration"
+        }
+      },
+      "DevComment": {
+        "Position": 27715,
+        "Value": "TT_Ninja_SmokeBomb"
+      }
+    },
+    "347": {
+      "Tag": {
+        "Position": 27779,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.SwiftnessSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 27812,
+        "Value": "TT_Ninja_SmokeBomb"
+      }
+    },
+    "348": {
+      "Tag": {
+        "Position": 27876,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.UpInSmoke"
+        }
+      },
+      "DevComment": {
+        "Position": 27909,
+        "Value": null
+      }
+    },
+    "349": {
+      "Tag": {
+        "Position": 27954,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.UpInSmokeDuration"
+        }
+      },
+      "DevComment": {
+        "Position": 27987,
+        "Value": null
+      }
+    },
+    "350": {
+      "Tag": {
+        "Position": 28032,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.UpInSmokeSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 28065,
+        "Value": null
+      }
+    },
+    "351": {
+      "Tag": {
+        "Position": 28110,
+        "Value": {
+          "String": "Tooltip.Token.SpecialAmount"
+        }
+      },
+      "DevComment": {
+        "Position": 28143,
+        "Value": null
+      }
+    },
+    "352": {
+      "Tag": {
+        "Position": 28188,
+        "Value": {
+          "String": "Tooltip.Token.SpecialEnd"
+        }
+      },
+      "DevComment": {
+        "Position": 28221,
+        "Value": null
+      }
+    },
+    "353": {
+      "Tag": {
+        "Position": 28266,
+        "Value": {
+          "String": "Tooltip.Token.SpecialStart"
+        }
+      },
+      "DevComment": {
+        "Position": 28299,
+        "Value": null
+      }
+    },
+    "354": {
+      "Tag": {
+        "Position": 28344,
+        "Value": {
+          "String": "Tooltip.Token.Sradius"
+        }
+      },
+      "DevComment": {
+        "Position": 28377,
+        "Value": null
+      }
+    },
+    "355": {
+      "Tag": {
+        "Position": 28422,
+        "Value": {
+          "String": "Tooltip.Token.Stun.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 28455,
+        "Value": null
+      }
+    },
+    "356": {
+      "Tag": {
+        "Position": 28500,
+        "Value": {
+          "String": "Tooltip.Token.Stun.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 28533,
+        "Value": null
+      }
+    },
+    "357": {
+      "Tag": {
+        "Position": 28578,
+        "Value": {
+          "String": "Tooltip.Token.Stun.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 28611,
+        "Value": null
+      }
+    },
+    "358": {
+      "Tag": {
+        "Position": 28656,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.AfflictionApply"
+        }
+      },
+      "DevComment": {
+        "Position": 28689,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "359": {
+      "Tag": {
+        "Position": 28757,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.AfflictionDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 28790,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "360": {
+      "Tag": {
+        "Position": 28858,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.Piercing"
+        }
+      },
+      "DevComment": {
+        "Position": 28891,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "361": {
+      "Tag": {
+        "Position": 28959,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.PiercingStars"
+        }
+      },
+      "DevComment": {
+        "Position": 28992,
+        "Value": null
+      }
+    },
+    "362": {
+      "Tag": {
+        "Position": 29037,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.PoisonStars"
+        }
+      },
+      "DevComment": {
+        "Position": 29070,
+        "Value": null
+      }
+    },
+    "363": {
+      "Tag": {
+        "Position": 29115,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.PoisonStarsDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 29148,
+        "Value": null
+      }
+    },
+    "364": {
+      "Tag": {
+        "Position": 29193,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.NumPierceTargets"
+        }
+      },
+      "DevComment": {
+        "Position": 29226,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "365": {
+      "Tag": {
+        "Position": 29294,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.SecondThrow"
+        }
+      },
+      "DevComment": {
+        "Position": 29327,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "366": {
+      "Tag": {
+        "Position": 29395,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.Stars"
+        }
+      },
+      "DevComment": {
+        "Position": 29428,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "367": {
+      "Tag": {
+        "Position": 29496,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.ThirdThrow"
+        }
+      },
+      "DevComment": {
+        "Position": 29529,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "368": {
+      "Tag": {
+        "Position": 29597,
+        "Value": {
+          "String": "Tooltip.Token.ThrowingStars.InstantArc"
+        }
+      },
+      "DevComment": {
+        "Position": 29630,
+        "Value": "TT_Ninja_ThrowingStars"
+      }
+    },
+    "369": {
+      "Tag": {
+        "Position": 29698,
+        "Value": {
+          "String": "Tooltip.Token.Upgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 29731,
+        "Value": "BannerGATooltip"
+      }
+    },
+    "370": {
+      "Tag": {
+        "Position": 29792,
+        "Value": {
+          "String": "Tooltip.Token.UpgradeLevel"
+        }
+      },
+      "DevComment": {
+        "Position": 29825,
+        "Value": "BannerGATooltip"
+      }
+    },
+    "371": {
+      "Tag": {
+        "Position": 29886,
+        "Value": {
+          "String": "Tooltip.Token.Wallupgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 29919,
+        "Value": null
+      }
+    },
+    "372": {
+      "Tag": {
+        "Position": 29964,
+        "Value": {
+          "String": "Tooltip.Token.WhereWereGoingWeNeedRoads.RoadRunner"
+        }
+      },
+      "DevComment": {
+        "Position": 29997,
+        "Value": null
+      }
+    },
+    "373": {
+      "Tag": {
+        "Position": 30042,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.StaminaRegenRate.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 30075,
+        "Value": null
+      }
+    },
+    "374": {
+      "Tag": {
+        "Position": 30120,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.StaminaRegenRate.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 30153,
+        "Value": null
+      }
+    },
+    "375": {
+      "Tag": {
+        "Position": 30198,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.StaminaRegenRate.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 30231,
+        "Value": null
+      }
+    },
+    "376": {
+      "Tag": {
+        "Position": 30276,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxBuildLevel.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 30309,
+        "Value": null
+      }
+    },
+    "377": {
+      "Tag": {
+        "Position": 30354,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxBuildLevel.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 30387,
+        "Value": null
+      }
+    },
+    "378": {
+      "Tag": {
+        "Position": 30432,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.MaxBuildLevel.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 30465,
+        "Value": null
+      }
+    },
+    "379": {
+      "Tag": {
+        "Position": 30510,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ZoneCritMultiplier.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 30543,
+        "Value": null
+      }
+    },
+    "380": {
+      "Tag": {
+        "Position": 30588,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ZoneCritMultiplier.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 30621,
+        "Value": null
+      }
+    },
+    "381": {
+      "Tag": {
+        "Position": 30666,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.ZoneCritMultiplier.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 30699,
+        "Value": null
+      }
+    },
+    "382": {
+      "Tag": {
+        "Position": 30744,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DiceCritMultiplier.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 30777,
+        "Value": null
+      }
+    },
+    "383": {
+      "Tag": {
+        "Position": 30822,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DiceCritMultiplier.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 30855,
+        "Value": null
+      }
+    },
+    "384": {
+      "Tag": {
+        "Position": 30900,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DiceCritMultiplier.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 30933,
+        "Value": null
+      }
+    },
+    "385": {
+      "Tag": {
+        "Position": 30978,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapMaxDurability.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 31011,
+        "Value": null
+      }
+    },
+    "386": {
+      "Tag": {
+        "Position": 31056,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapMaxDurability.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 31089,
+        "Value": null
+      }
+    },
+    "387": {
+      "Tag": {
+        "Position": 31134,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapMaxDurability.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 31167,
+        "Value": null
+      }
+    },
+    "388": {
+      "Tag": {
+        "Position": 31212,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapReloadSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 31245,
+        "Value": null
+      }
+    },
+    "389": {
+      "Tag": {
+        "Position": 31290,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapReloadSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 31323,
+        "Value": null
+      }
+    },
+    "390": {
+      "Tag": {
+        "Position": 31368,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapReloadSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 31401,
+        "Value": null
+      }
+    },
+    "391": {
+      "Tag": {
+        "Position": 31446,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapArmSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 31479,
+        "Value": null
+      }
+    },
+    "392": {
+      "Tag": {
+        "Position": 31524,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapArmSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 31557,
+        "Value": null
+      }
+    },
+    "393": {
+      "Tag": {
+        "Position": 31602,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.TrapArmSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 31635,
+        "Value": null
+      }
+    },
+    "394": {
+      "Tag": {
+        "Position": 31680,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.SprintCost.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 31713,
+        "Value": null
+      }
+    },
+    "395": {
+      "Tag": {
+        "Position": 31758,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.SprintCost.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 31791,
+        "Value": null
+      }
+    },
+    "396": {
+      "Tag": {
+        "Position": 31836,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.SprintCost.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 31869,
+        "Value": null
+      }
+    },
+    "397": {
+      "Tag": {
+        "Position": 31914,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.JumpHeight.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 31947,
+        "Value": null
+      }
+    },
+    "398": {
+      "Tag": {
+        "Position": 31992,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.JumpHeight.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 32025,
+        "Value": null
+      }
+    },
+    "399": {
+      "Tag": {
+        "Position": 32070,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.JumpHeight.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 32103,
+        "Value": null
+      }
+    },
+    "400": {
+      "Tag": {
+        "Position": 32148,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RepairSpeed.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 32181,
+        "Value": null
+      }
+    },
+    "401": {
+      "Tag": {
+        "Position": 32226,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RepairSpeed.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 32259,
+        "Value": null
+      }
+    },
+    "402": {
+      "Tag": {
+        "Position": 32304,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RepairSpeed.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 32337,
+        "Value": null
+      }
+    },
+    "403": {
+      "Tag": {
+        "Position": 32382,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RepairCost.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 32415,
+        "Value": null
+      }
+    },
+    "404": {
+      "Tag": {
+        "Position": 32460,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RepairCost.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 32493,
+        "Value": null
+      }
+    },
+    "405": {
+      "Tag": {
+        "Position": 32538,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.RepairCost.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 32571,
+        "Value": null
+      }
+    },
+    "406": {
+      "Tag": {
+        "Position": 32616,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleLootRollChance.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 32649,
+        "Value": null
+      }
+    },
+    "407": {
+      "Tag": {
+        "Position": 32694,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleLootRollChance.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 32727,
+        "Value": null
+      }
+    },
+    "408": {
+      "Tag": {
+        "Position": 32772,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.DoubleLootRollChance.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 32805,
+        "Value": null
+      }
+    },
+    "409": {
+      "Tag": {
+        "Position": 32850,
+        "Value": {
+          "String": "Tooltip.Token.Node.Unimplemented"
+        }
+      },
+      "DevComment": {
+        "Position": 32883,
+        "Value": null
+      }
+    },
+    "410": {
+      "Tag": {
+        "Position": 32928,
+        "Value": {
+          "String": "Tooltip.Token.Worker.Personality"
+        }
+      },
+      "DevComment": {
+        "Position": 32961,
+        "Value": null
+      }
+    },
+    "411": {
+      "Tag": {
+        "Position": 33006,
+        "Value": {
+          "String": "Tooltip.Token.Worker.SetBonus.Name"
+        }
+      },
+      "DevComment": {
+        "Position": 33039,
+        "Value": null
+      }
+    },
+    "412": {
+      "Tag": {
+        "Position": 33084,
+        "Value": {
+          "String": "Tooltip.Token.Worker.SetBonus.Buff"
+        }
+      },
+      "DevComment": {
+        "Position": 33117,
+        "Value": null
+      }
+    },
+    "413": {
+      "Tag": {
+        "Position": 33162,
+        "Value": {
+          "String": "Tooltip.Token.Worker.SetBonus.RequiredWorkerCount"
+        }
+      },
+      "DevComment": {
+        "Position": 33195,
+        "Value": null
+      }
+    },
+    "414": {
+      "Tag": {
+        "Position": 33240,
+        "Value": {
+          "String": "Tooltip.Token.Worker.Rating"
+        }
+      },
+      "DevComment": {
+        "Position": 33273,
+        "Value": null
+      }
+    },
+    "415": {
+      "Tag": {
+        "Position": 33318,
+        "Value": {
+          "String": "Tooltip.Token.Worker.Tier"
+        }
+      },
+      "DevComment": {
+        "Position": 33351,
+        "Value": null
+      }
+    },
+    "416": {
+      "Tag": {
+        "Position": 33396,
+        "Value": {
+          "String": "Tooltip.Token.Worker.Gender.HimHer"
+        }
+      },
+      "DevComment": {
+        "Position": 33429,
+        "Value": null
+      }
+    },
+    "417": {
+      "Tag": {
+        "Position": 33474,
+        "Value": {
+          "String": "Tooltip.Token.Worker.Gender.HeShe"
+        }
+      },
+      "DevComment": {
+        "Position": 33507,
+        "Value": null
+      }
+    },
+    "418": {
+      "Tag": {
+        "Position": 33552,
+        "Value": {
+          "String": "Tooltip.Token.AmmoCost.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 33585,
+        "Value": null
+      }
+    },
+    "419": {
+      "Tag": {
+        "Position": 33630,
+        "Value": {
+          "String": "Tooltip.Token.AmmoCost.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 33663,
+        "Value": null
+      }
+    },
+    "420": {
+      "Tag": {
+        "Position": 33708,
+        "Value": {
+          "String": "Tooltip.Token.AmmoCost.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 33741,
+        "Value": null
+      }
+    },
+    "421": {
+      "Tag": {
+        "Position": 33786,
+        "Value": {
+          "String": "Tooltip.IsClamped"
+        }
+      },
+      "DevComment": {
+        "Position": 33819,
+        "Value": null
+      }
+    },
+    "422": {
+      "Tag": {
+        "Position": 33864,
+        "Value": {
+          "String": "Tooltip.IsBuffed"
+        }
+      },
+      "DevComment": {
+        "Position": 33897,
+        "Value": null
+      }
+    },
+    "423": {
+      "Tag": {
+        "Position": 33942,
+        "Value": {
+          "String": "Tooltip.IsDebuffed"
+        }
+      },
+      "DevComment": {
+        "Position": 33975,
+        "Value": null
+      }
+    },
+    "424": {
+      "Tag": {
+        "Position": 34020,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.PhasedOut"
+        }
+      },
+      "DevComment": {
+        "Position": 34053,
+        "Value": null
+      }
+    },
+    "425": {
+      "Tag": {
+        "Position": 34098,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.PhasicEnergy"
+        }
+      },
+      "DevComment": {
+        "Position": 34131,
+        "Value": null
+      }
+    },
+    "426": {
+      "Tag": {
+        "Position": 34176,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.PhaseRunner"
+        }
+      },
+      "DevComment": {
+        "Position": 34209,
+        "Value": null
+      }
+    },
+    "427": {
+      "Tag": {
+        "Position": 34254,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.PhaseForward"
+        }
+      },
+      "DevComment": {
+        "Position": 34287,
+        "Value": null
+      }
+    },
+    "428": {
+      "Tag": {
+        "Position": 34332,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.PhaseShield"
+        }
+      },
+      "DevComment": {
+        "Position": 34365,
+        "Value": null
+      }
+    },
+    "429": {
+      "Tag": {
+        "Position": 34410,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.ShiftyEyed"
+        }
+      },
+      "DevComment": {
+        "Position": 34443,
+        "Value": null
+      }
+    },
+    "430": {
+      "Tag": {
+        "Position": 34488,
+        "Value": {
+          "String": "Tooltip.Token.PhaseShift.PhasedAndConfused"
+        }
+      },
+      "DevComment": {
+        "Position": 34521,
+        "Value": null
+      }
+    },
+    "431": {
+      "Tag": {
+        "Position": 34566,
+        "Value": {
+          "String": "Tooltip.Token.ShockTower.UpgradeDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 34599,
+        "Value": null
+      }
+    },
+    "432": {
+      "Tag": {
+        "Position": 34644,
+        "Value": {
+          "String": "Tooltip.Token.ShockTower.UpgradeMoreTargets"
+        }
+      },
+      "DevComment": {
+        "Position": 34677,
+        "Value": null
+      }
+    },
+    "433": {
+      "Tag": {
+        "Position": 34722,
+        "Value": {
+          "String": "Tooltip.Token.ShockTower.UpgradeStun"
+        }
+      },
+      "DevComment": {
+        "Position": 34755,
+        "Value": null
+      }
+    },
+    "434": {
+      "Tag": {
+        "Position": 34800,
+        "Value": {
+          "String": "Tooltip.Token.ShockTower.UpgradeDuration1"
+        }
+      },
+      "DevComment": {
+        "Position": 34833,
+        "Value": null
+      }
+    },
+    "435": {
+      "Tag": {
+        "Position": 34878,
+        "Value": {
+          "String": "Tooltip.Token.ShockTower.UpgradeDuration2"
+        }
+      },
+      "DevComment": {
+        "Position": 34911,
+        "Value": null
+      }
+    },
+    "436": {
+      "Tag": {
+        "Position": 34956,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line1"
+        }
+      },
+      "DevComment": {
+        "Position": 34989,
+        "Value": null
+      }
+    },
+    "437": {
+      "Tag": {
+        "Position": 35034,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line2"
+        }
+      },
+      "DevComment": {
+        "Position": 35067,
+        "Value": null
+      }
+    },
+    "438": {
+      "Tag": {
+        "Position": 35112,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line3"
+        }
+      },
+      "DevComment": {
+        "Position": 35145,
+        "Value": null
+      }
+    },
+    "439": {
+      "Tag": {
+        "Position": 35190,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line4"
+        }
+      },
+      "DevComment": {
+        "Position": 35223,
+        "Value": null
+      }
+    },
+    "440": {
+      "Tag": {
+        "Position": 35268,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line5"
+        }
+      },
+      "DevComment": {
+        "Position": 35301,
+        "Value": null
+      }
+    },
+    "441": {
+      "Tag": {
+        "Position": 35346,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line6"
+        }
+      },
+      "DevComment": {
+        "Position": 35379,
+        "Value": null
+      }
+    },
+    "442": {
+      "Tag": {
+        "Position": 35424,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line7"
+        }
+      },
+      "DevComment": {
+        "Position": 35457,
+        "Value": null
+      }
+    },
+    "443": {
+      "Tag": {
+        "Position": 35502,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line8"
+        }
+      },
+      "DevComment": {
+        "Position": 35535,
+        "Value": null
+      }
+    },
+    "444": {
+      "Tag": {
+        "Position": 35580,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line9"
+        }
+      },
+      "DevComment": {
+        "Position": 35613,
+        "Value": null
+      }
+    },
+    "445": {
+      "Tag": {
+        "Position": 35658,
+        "Value": {
+          "String": "Tooltip.Token.Ability.Line10"
+        }
+      },
+      "DevComment": {
+        "Position": 35691,
+        "Value": null
+      }
+    },
+    "446": {
+      "Tag": {
+        "Position": 35736,
+        "Value": {
+          "String": "Tooltip.Token.Decoy.Perk.ReflectMeleeDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 35769,
+        "Value": null
+      }
+    },
+    "447": {
+      "Tag": {
+        "Position": 35814,
+        "Value": {
+          "String": "Tooltip.Token.Decoy.Perk.Explode"
+        }
+      },
+      "DevComment": {
+        "Position": 35847,
+        "Value": null
+      }
+    },
+    "448": {
+      "Tag": {
+        "Position": 35892,
+        "Value": {
+          "String": "Tooltip.Token.Decoy.Perk.DoT"
+        }
+      },
+      "DevComment": {
+        "Position": 35925,
+        "Value": null
+      }
+    },
+    "449": {
+      "Tag": {
+        "Position": 35970,
+        "Value": {
+          "String": "Tooltip.Token.CrescentKick.Perk.Impact"
+        }
+      },
+      "DevComment": {
+        "Position": 36003,
+        "Value": null
+      }
+    },
+    "450": {
+      "Tag": {
+        "Position": 36048,
+        "Value": {
+          "String": "Tooltip.Token.CrescentKick.Perk.EnergyDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 36081,
+        "Value": null
+      }
+    },
+    "451": {
+      "Tag": {
+        "Position": 36126,
+        "Value": {
+          "String": "Tooltip.Token.CrescentKick.Perk.ShadowStance"
+        }
+      },
+      "DevComment": {
+        "Position": 36159,
+        "Value": null
+      }
+    },
+    "452": {
+      "Tag": {
+        "Position": 36204,
+        "Value": {
+          "String": "Tooltip.Token.CrescentKick.Perk.Vulnerability"
+        }
+      },
+      "DevComment": {
+        "Position": 36237,
+        "Value": null
+      }
+    },
+    "453": {
+      "Tag": {
+        "Position": 36282,
+        "Value": {
+          "String": "Tooltip.Token.CrescentKick.Perk.PlasmaBoots"
+        }
+      },
+      "DevComment": {
+        "Position": 36315,
+        "Value": null
+      }
+    },
+    "454": {
+      "Tag": {
+        "Position": 36360,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Impact.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 36393,
+        "Value": null
+      }
+    },
+    "455": {
+      "Tag": {
+        "Position": 36438,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Impact.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 36471,
+        "Value": null
+      }
+    },
+    "456": {
+      "Tag": {
+        "Position": 36516,
+        "Value": {
+          "String": "Tooltip.Token.Attribute.Impact.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 36549,
+        "Value": null
+      }
+    },
+    "457": {
+      "Tag": {
+        "Position": 36594,
+        "Value": {
+          "String": "Tooltip.Token.Hero.Class"
+        }
+      },
+      "DevComment": {
+        "Position": 36627,
+        "Value": null
+      }
+    },
+    "458": {
+      "Tag": {
+        "Position": 36672,
+        "Value": {
+          "String": "Tooltip.Token.Hero.Subclass"
+        }
+      },
+      "DevComment": {
+        "Position": 36705,
+        "Value": null
+      }
+    },
+    "459": {
+      "Tag": {
+        "Position": 36750,
+        "Value": {
+          "String": "Tooltip.Token.UIRating"
+        }
+      },
+      "DevComment": {
+        "Position": 36783,
+        "Value": null
+      }
+    },
+    "460": {
+      "Tag": {
+        "Position": 36828,
+        "Value": {
+          "String": "Tooltip.Token.XpBoost.Self.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 36861,
+        "Value": null
+      }
+    },
+    "461": {
+      "Tag": {
+        "Position": 36906,
+        "Value": {
+          "String": "Tooltip.Token.XpBoost.Team.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 36939,
+        "Value": null
+      }
+    },
+    "462": {
+      "Tag": {
+        "Position": 36984,
+        "Value": {
+          "String": "Tooltip.Token.Quest.CompletionPercent"
+        }
+      },
+      "DevComment": {
+        "Position": 37017,
+        "Value": null
+      }
+    },
+    "463": {
+      "Tag": {
+        "Position": 37062,
+        "Value": {
+          "String": "Tooltip.Token.Quest.Progress"
+        }
+      },
+      "DevComment": {
+        "Position": 37095,
+        "Value": null
+      }
+    },
+    "464": {
+      "Tag": {
+        "Position": 37140,
+        "Value": {
+          "String": "Tooltip.Token.SquadBonus.Requirement"
+        }
+      },
+      "DevComment": {
+        "Position": 37173,
+        "Value": "Description of which classes can use this squad bonus"
+      }
+    },
+    "465": {
+      "Tag": {
+        "Position": 37272,
+        "Value": {
+          "String": "Tooltip.Token.SquadBonus.Usage"
+        }
+      },
+      "DevComment": {
+        "Position": 37305,
+        "Value": "Description of where to slot the bonus (either Tactical or Support)"
+      }
+    },
+    "466": {
+      "Tag": {
+        "Position": 37418,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.Blast"
+        }
+      },
+      "DevComment": {
+        "Position": 37451,
+        "Value": "Energy damage AoE blast"
+      }
+    },
+    "467": {
+      "Tag": {
+        "Position": 37520,
+        "Value": {
+          "String": "Tooltip.Token.Ability.CooldownReduction"
+        }
+      },
+      "DevComment": {
+        "Position": 37553,
+        "Value": "Used to express Tooltip Cooldown Reduction"
+      }
+    },
+    "468": {
+      "Tag": {
+        "Position": 37641,
+        "Value": {
+          "String": "Tooltip.Token.Ability.StaminaReduction"
+        }
+      },
+      "DevComment": {
+        "Position": 37674,
+        "Value": "Used to express Tooltip Stamina Reduction"
+      }
+    },
+    "469": {
+      "Tag": {
+        "Position": 37761,
+        "Value": {
+          "String": "Tooltip.Token.HeadshotDamage.Description"
+        }
+      },
+      "DevComment": {
+        "Position": 37794,
+        "Value": "Headshot damage information"
+      }
+    },
+    "470": {
+      "Tag": {
+        "Position": 37867,
+        "Value": {
+          "String": "Tooltip.Token.HeadshotDamage.DisplayName"
+        }
+      },
+      "DevComment": {
+        "Position": 37900,
+        "Value": "Headshot Damage"
+      }
+    },
+    "471": {
+      "Tag": {
+        "Position": 37961,
+        "Value": {
+          "String": "Tooltip.Token.HeadshotDamage.Value"
+        }
+      },
+      "DevComment": {
+        "Position": 37994,
+        "Value": "Amount of headshot damge"
+      }
+    },
+    "472": {
+      "Tag": {
+        "Position": 38064,
+        "Value": {
+          "String": "Tooltip.SkillTree.Unlock.RarityEvolution.Melee"
+        }
+      },
+      "DevComment": {
+        "Position": 38097,
+        "Value": "Description of rarity upgrades for melee weapons"
+      }
+    },
+    "473": {
+      "Tag": {
+        "Position": 38191,
+        "Value": {
+          "String": "Tooltip.SkillTree.Unlock.RarityEvolution.Ranged"
+        }
+      },
+      "DevComment": {
+        "Position": 38224,
+        "Value": "Description of rarity upgrades for ranged weapons"
+      }
+    },
+    "474": {
+      "Tag": {
+        "Position": 38319,
+        "Value": {
+          "String": "Tooltip.SkillTree.Unlock.RarityEvolution.Trap"
+        }
+      },
+      "DevComment": {
+        "Position": 38352,
+        "Value": "Description of rarity upgrades for traps"
+      }
+    },
+    "475": {
+      "Tag": {
+        "Position": 38438,
+        "Value": {
+          "String": "Tooltip.Token.BASE.FeelTheBASE"
+        }
+      },
+      "DevComment": {
+        "Position": 38471,
+        "Value": "Feel The BASE tooltip "
+      }
+    },
+    "476": {
+      "Tag": {
+        "Position": 38539,
+        "Value": {
+          "String": "Tooltip.Token.BASE.EnduringMachine"
+        }
+      },
+      "DevComment": {
+        "Position": 38572,
+        "Value": "EnduringMachine tooltip"
+      }
+    },
+    "477": {
+      "Tag": {
+        "Position": 38641,
+        "Value": {
+          "String": "Tooltip.Token.PlasmaPulse.Malfunction"
+        }
+      },
+      "DevComment": {
+        "Position": 38674,
+        "Value": "Malfunction tooltip"
+      }
+    },
+    "478": {
+      "Tag": {
+        "Position": 38739,
+        "Value": {
+          "String": "Tooltip.Token.SmokeBomb.AssassinationJuice"
+        }
+      },
+      "DevComment": {
+        "Position": 38772,
+        "Value": "Assassination Juice tooltip"
+      }
+    }
+  }
+]

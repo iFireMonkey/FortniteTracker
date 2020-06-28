@@ -1,0 +1,226 @@
+[
+  {
+    "ExpeditionSquadOne_Power_Small": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 26
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 500.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 193,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 230,
+        "Value": 25
+      },
+      "PostInfinityExtrap": {
+        "Position": 271,
+        "Value": 25
+      }
+    },
+    "ExpeditionSquadTwo_Power_Small": {
+      "InterpMode": {
+        "Position": 328,
+        "Value": 26
+      },
+      "Keys": {
+        "Position": 369,
+        "Value": [
+          {
+            "Position": 422,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 500.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 463,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 500,
+        "Value": 25
+      },
+      "PostInfinityExtrap": {
+        "Position": 541,
+        "Value": 25
+      }
+    },
+    "ExpeditionSquadThree_Power_Small": {
+      "InterpMode": {
+        "Position": 598,
+        "Value": 26
+      },
+      "Keys": {
+        "Position": 639,
+        "Value": [
+          {
+            "Position": 692,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 700,
+            "Value": {
+              "KeyTime": 500.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 733,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 770,
+        "Value": 25
+      },
+      "PostInfinityExtrap": {
+        "Position": 811,
+        "Value": 25
+      }
+    },
+    "ExpeditionSquadFour_Power_Small": {
+      "InterpMode": {
+        "Position": 868,
+        "Value": 26
+      },
+      "Keys": {
+        "Position": 909,
+        "Value": [
+          {
+            "Position": 962,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 970,
+            "Value": {
+              "KeyTime": 500.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1003,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1040,
+        "Value": 25
+      },
+      "PostInfinityExtrap": {
+        "Position": 1081,
+        "Value": 25
+      }
+    },
+    "ExpeditionSquadFive_Power_Small": {
+      "InterpMode": {
+        "Position": 1138,
+        "Value": 26
+      },
+      "Keys": {
+        "Position": 1179,
+        "Value": [
+          {
+            "Position": 1232,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1240,
+            "Value": {
+              "KeyTime": 500.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1273,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1310,
+        "Value": 25
+      },
+      "PostInfinityExtrap": {
+        "Position": 1351,
+        "Value": 25
+      }
+    },
+    "ExpeditionSquadSix_Power_Small": {
+      "InterpMode": {
+        "Position": 1408,
+        "Value": 26
+      },
+      "Keys": {
+        "Position": 1449,
+        "Value": [
+          {
+            "Position": 1502,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1510,
+            "Value": {
+              "KeyTime": 500.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1543,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1580,
+        "Value": 25
+      },
+      "PostInfinityExtrap": {
+        "Position": 1621,
+        "Value": 25
+      }
+    }
+  }
+]

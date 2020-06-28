@@ -1,0 +1,116 @@
+[
+  {
+    "StatTrack.HopRocks": {
+      "StatName": {
+        "Position": 78,
+        "Value": {
+          "String": "GravityStonesConsumed"
+        }
+      },
+      "Period": {
+        "Position": 119,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.Apples": {
+      "StatName": {
+        "Position": 168,
+        "Value": {
+          "String": "ApplesConsumed"
+        }
+      },
+      "Period": {
+        "Position": 209,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.Mushrooms": {
+      "StatName": {
+        "Position": 258,
+        "Value": {
+          "String": "MushroomsConsumed"
+        }
+      },
+      "Period": {
+        "Position": 299,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.Rift": {
+      "StatName": {
+        "Position": 348,
+        "Value": {
+          "String": "RiftConsumed"
+        }
+      },
+      "Period": {
+        "Position": 389,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.ShadowStone": {
+      "StatName": {
+        "Position": 438,
+        "Value": {
+          "String": "ShadowStoneConsumed"
+        }
+      },
+      "Period": {
+        "Position": 479,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.OpenChests": {
+      "StatName": {
+        "Position": 528,
+        "Value": {
+          "String": "OpenChests"
+        }
+      },
+      "Period": {
+        "Position": 569,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.GainedShieldTimes": {
+      "StatName": {
+        "Position": 618,
+        "Value": {
+          "String": "GainedShieldTimes"
+        }
+      },
+      "Period": {
+        "Position": 659,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    },
+    "StatTrack.GainedHealthTimes": {
+      "StatName": {
+        "Position": 708,
+        "Value": {
+          "String": "GainedHealthTimes"
+        }
+      },
+      "Period": {
+        "Position": 749,
+        "Value": {
+          "String": "EStatRecordingPeriod::Map"
+        }
+      }
+    }
+  }
+]

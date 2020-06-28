@@ -1,0 +1,2728 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "Abilities.Commando.BiggerIsBetter"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": "Increases the radius of Frag Grenade by 50%"
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 200,
+        "Value": {
+          "String": "Abilities.Commando.ClusterBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 233,
+        "Value": "Cluster Bomb : Grenades now explode in a MIRV cluster, damaging enemies"
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 350,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.FragGrenade"
+        }
+      },
+      "DevComment": {
+        "Position": 383,
+        "Value": "Cooldown : Frag Grenade"
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 452,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.IncendiaryRounds"
+        }
+      },
+      "DevComment": {
+        "Position": 485,
+        "Value": "Cooldown : Incendiary Rounds"
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 559,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.TechClips"
+        }
+      },
+      "DevComment": {
+        "Position": 592,
+        "Value": null
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 637,
+        "Value": {
+          "String": "Abilities.Commando.Costs.FragGrenade"
+        }
+      },
+      "DevComment": {
+        "Position": 670,
+        "Value": null
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 715,
+        "Value": {
+          "String": "Abilities.Commando.Costs.IncendiaryRounds"
+        }
+      },
+      "DevComment": {
+        "Position": 748,
+        "Value": null
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 793,
+        "Value": {
+          "String": "Abilities.Commando.DebilitatingShots.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 826,
+        "Value": null
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 871,
+        "Value": {
+          "String": "Abilities.Commando.DebilitatingShots.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 904,
+        "Value": "Debilitating Shots"
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 968,
+        "Value": {
+          "String": "Abilities.Commando.DebilitatingShots.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 1001,
+        "Value": null
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 1046,
+        "Value": {
+          "String": "Abilities.Commando.DebilitatingShots.TriggerApply"
+        }
+      },
+      "DevComment": {
+        "Position": 1079,
+        "Value": null
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 1124,
+        "Value": {
+          "String": "Abilities.Commando.DebilitatingShots.Upgrade"
+        }
+      },
+      "DevComment": {
+        "Position": 1157,
+        "Value": null
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1202,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 1235,
+        "Value": null
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1280,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.ClusterExplosion"
+        }
+      },
+      "DevComment": {
+        "Position": 1313,
+        "Value": null
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1358,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 1391,
+        "Value": null
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1436,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 1469,
+        "Value": null
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1514,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.DefaultExplosion"
+        }
+      },
+      "DevComment": {
+        "Position": 1547,
+        "Value": null
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 1592,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.IncreasedRadius"
+        }
+      },
+      "DevComment": {
+        "Position": 1625,
+        "Value": null
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 1670,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 1703,
+        "Value": null
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 1748,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds.Active"
+        }
+      },
+      "DevComment": {
+        "Position": 1781,
+        "Value": "Incendiary Rounds"
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 1844,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds.GE_Active"
+        }
+      },
+      "DevComment": {
+        "Position": 1877,
+        "Value": "Incendiary Rounds"
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 1940,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds.HitTarget"
+        }
+      },
+      "DevComment": {
+        "Position": 1973,
+        "Value": null
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 2018,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds.HitTargetEnd"
+        }
+      },
+      "DevComment": {
+        "Position": 2051,
+        "Value": null
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 2096,
+        "Value": {
+          "String": "Abilities.Commando.MakeItRain.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 2129,
+        "Value": null
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 2174,
+        "Value": {
+          "String": "Abilities.Commando.MakeItRain.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 2207,
+        "Value": null
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 2252,
+        "Value": {
+          "String": "Abilities.Commando.MakeItRain.DeActivate"
+        }
+      },
+      "DevComment": {
+        "Position": 2285,
+        "Value": null
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 2330,
+        "Value": {
+          "String": "Abilities.Commando.NoTimeToBleed.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 2363,
+        "Value": null
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 2408,
+        "Value": {
+          "String": "Abilities.Commando.NoTimeToBleed.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 2441,
+        "Value": null
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 2486,
+        "Value": {
+          "String": "Abilities.Commando.PerfectEngineering"
+        }
+      },
+      "DevComment": {
+        "Position": 2519,
+        "Value": null
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 2564,
+        "Value": {
+          "String": "Abilities.Commando.WasteNotWantNot.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 2597,
+        "Value": null
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 2642,
+        "Value": {
+          "String": "Abilities.Commando.WasteNotWantNot.DeActivate"
+        }
+      },
+      "DevComment": {
+        "Position": 2675,
+        "Value": null
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 2720,
+        "Value": {
+          "String": "GameplayCue.Abilities.Applied.Commando.DebilitatingShots"
+        }
+      },
+      "DevComment": {
+        "Position": 2753,
+        "Value": null
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 2798,
+        "Value": {
+          "String": "GameplayCue.Abilities.Applied.Commando.IncendiaryRounds"
+        }
+      },
+      "DevComment": {
+        "Position": 2831,
+        "Value": null
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 2876,
+        "Value": {
+          "String": "GameplayCue.Abilities.Applied.Commando.IncendiaryRoundsDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 2909,
+        "Value": null
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 2954,
+        "Value": {
+          "String": "GameplayCue.Abilities.Applied.Commando.MakeItRain"
+        }
+      },
+      "DevComment": {
+        "Position": 2987,
+        "Value": null
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 3032,
+        "Value": {
+          "String": "GameplayCue.Abilities.Applied.Commando.WasteNotWantNot"
+        }
+      },
+      "DevComment": {
+        "Position": 3065,
+        "Value": null
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 3110,
+        "Value": {
+          "String": "GameplayCue.Abilities.Activation.Commando.Shockwave"
+        }
+      },
+      "DevComment": {
+        "Position": 3143,
+        "Value": null
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 3188,
+        "Value": {
+          "String": "ImportTest.Commando"
+        }
+      },
+      "DevComment": {
+        "Position": 3221,
+        "Value": null
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 3266,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.FragGrenade"
+        }
+      },
+      "DevComment": {
+        "Position": 3299,
+        "Value": null
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 3344,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.IncendiaryRounds"
+        }
+      },
+      "DevComment": {
+        "Position": 3377,
+        "Value": null
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 3422,
+        "Value": {
+          "String": "Abilities.Commando.On.Cooldown.TechClips"
+        }
+      },
+      "DevComment": {
+        "Position": 3455,
+        "Value": null
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 3500,
+        "Value": {
+          "String": "Abilities.Commando.LingeringPain"
+        }
+      },
+      "DevComment": {
+        "Position": 3533,
+        "Value": null
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 3578,
+        "Value": {
+          "String": "Abilities.Commando.HackStackBreaker"
+        }
+      },
+      "DevComment": {
+        "Position": 3611,
+        "Value": null
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 3656,
+        "Value": {
+          "String": "Abilities.Commando.Kneecapper"
+        }
+      },
+      "DevComment": {
+        "Position": 3689,
+        "Value": "Kneecapper : Improves the effectiveness of Debilitating Shots Vulnerability effect to 4% per stack"
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 3833,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade"
+        }
+      },
+      "DevComment": {
+        "Position": 3866,
+        "Value": "Frag Grenade"
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 3924,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds"
+        }
+      },
+      "DevComment": {
+        "Position": 3957,
+        "Value": "Incendiary Rounds"
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 4020,
+        "Value": {
+          "String": "Abilities.Commando.IncendiaryRounds.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 4053,
+        "Value": "Incendiary Rounds Damage"
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 4123,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 4156,
+        "Value": null
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 4201,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.GoinCommando"
+        }
+      },
+      "DevComment": {
+        "Position": 4234,
+        "Value": null
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 4279,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.GoinCommando"
+        }
+      },
+      "DevComment": {
+        "Position": 4312,
+        "Value": null
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 4357,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 4390,
+        "Value": null
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 4435,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 4468,
+        "Value": null
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 4513,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Effect1"
+        }
+      },
+      "DevComment": {
+        "Position": 4546,
+        "Value": null
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 4591,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Effect2"
+        }
+      },
+      "DevComment": {
+        "Position": 4624,
+        "Value": null
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 4669,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Effect3"
+        }
+      },
+      "DevComment": {
+        "Position": 4702,
+        "Value": null
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 4747,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Effect4"
+        }
+      },
+      "DevComment": {
+        "Position": 4780,
+        "Value": null
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 4825,
+        "Value": {
+          "String": "GameplayCue.Abilities.Applied.Commando.GoinCommandoActivation"
+        }
+      },
+      "DevComment": {
+        "Position": 4858,
+        "Value": null
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 4903,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 4936,
+        "Value": null
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 4981,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.DeActivate"
+        }
+      },
+      "DevComment": {
+        "Position": 5014,
+        "Value": null
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 5059,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Effect1"
+        }
+      },
+      "DevComment": {
+        "Position": 5092,
+        "Value": null
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 5137,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Effect2"
+        }
+      },
+      "DevComment": {
+        "Position": 5170,
+        "Value": null
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 5215,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Effect3"
+        }
+      },
+      "DevComment": {
+        "Position": 5248,
+        "Value": null
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 5293,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Effect4"
+        }
+      },
+      "DevComment": {
+        "Position": 5326,
+        "Value": null
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 5371,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 5404,
+        "Value": null
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 5449,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Knockback"
+        }
+      },
+      "DevComment": {
+        "Position": 5482,
+        "Value": null
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 5527,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.Shockwave"
+        }
+      },
+      "DevComment": {
+        "Position": 5560,
+        "Value": null
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 5605,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.Shockwave"
+        }
+      },
+      "DevComment": {
+        "Position": 5638,
+        "Value": null
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 5683,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave"
+        }
+      },
+      "DevComment": {
+        "Position": 5716,
+        "Value": "Shockwave"
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 5771,
+        "Value": {
+          "String": "Abilities.Commando.Training.1"
+        }
+      },
+      "DevComment": {
+        "Position": 5804,
+        "Value": "Commando Training I"
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 5869,
+        "Value": {
+          "String": "Abilities.Commando.Training.2"
+        }
+      },
+      "DevComment": {
+        "Position": 5902,
+        "Value": "Commando Training II"
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 5968,
+        "Value": {
+          "String": "Abilities.Commando.Training.3"
+        }
+      },
+      "DevComment": {
+        "Position": 6001,
+        "Value": "Commando Training III"
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 6068,
+        "Value": {
+          "String": "Abilities.Commando.Training.4"
+        }
+      },
+      "DevComment": {
+        "Position": 6101,
+        "Value": "Commando Training IV"
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 6167,
+        "Value": {
+          "String": "Abilities.Commando.Training.5"
+        }
+      },
+      "DevComment": {
+        "Position": 6200,
+        "Value": "Commando Training V"
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 6265,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Vulnerable"
+        }
+      },
+      "DevComment": {
+        "Position": 6298,
+        "Value": null
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 6343,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.LuckyBreak"
+        }
+      },
+      "DevComment": {
+        "Position": 6376,
+        "Value": null
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 6421,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.LuckyBreak"
+        }
+      },
+      "DevComment": {
+        "Position": 6454,
+        "Value": null
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 6499,
+        "Value": {
+          "String": "Abilities.Commando.Boomstick"
+        }
+      },
+      "DevComment": {
+        "Position": 6532,
+        "Value": null
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 6577,
+        "Value": {
+          "String": "Abilities.Commando.IfItBleeds"
+        }
+      },
+      "DevComment": {
+        "Position": 6610,
+        "Value": null
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 6655,
+        "Value": {
+          "String": "Abilities.Commando.MakeItRain.Asset"
+        }
+      },
+      "DevComment": {
+        "Position": 6688,
+        "Value": null
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 6733,
+        "Value": {
+          "String": "Abilities.Commando.KeepOut"
+        }
+      },
+      "DevComment": {
+        "Position": 6766,
+        "Value": null
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 6811,
+        "Value": {
+          "String": "Abilities.Commando.FlakVest"
+        }
+      },
+      "DevComment": {
+        "Position": 6844,
+        "Value": null
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 6889,
+        "Value": {
+          "String": "Abilities.Commando.FlakVest.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 6922,
+        "Value": null
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 6967,
+        "Value": {
+          "String": "Abilities.Commando.FlakVest.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 7000,
+        "Value": null
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 7045,
+        "Value": {
+          "String": "Abilities.Commando.FlakVest.SpawnEffect"
+        }
+      },
+      "DevComment": {
+        "Position": 7078,
+        "Value": null
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 7123,
+        "Value": {
+          "String": "Abilities.Commando.NoTimeToBleed.HealEffect"
+        }
+      },
+      "DevComment": {
+        "Position": 7156,
+        "Value": null
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 7201,
+        "Value": {
+          "String": "Abilities.Commando.AintDoneYet"
+        }
+      },
+      "DevComment": {
+        "Position": 7234,
+        "Value": null
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 7279,
+        "Value": {
+          "String": "Abilities.Commando.PowerImpact"
+        }
+      },
+      "DevComment": {
+        "Position": 7312,
+        "Value": null
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 7357,
+        "Value": {
+          "String": "Abilities.Commando.ShockAndAwe"
+        }
+      },
+      "DevComment": {
+        "Position": 7390,
+        "Value": null
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 7435,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Snare"
+        }
+      },
+      "DevComment": {
+        "Position": 7468,
+        "Value": null
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 7513,
+        "Value": {
+          "String": "Abilities.Commando.AmmoGeneration"
+        }
+      },
+      "DevComment": {
+        "Position": 7546,
+        "Value": null
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 7591,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.AmmoGeneration"
+        }
+      },
+      "DevComment": {
+        "Position": 7624,
+        "Value": null
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 7669,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.AmmoGeneration"
+        }
+      },
+      "DevComment": {
+        "Position": 7702,
+        "Value": null
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 7747,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.NoTimeToBleed"
+        }
+      },
+      "DevComment": {
+        "Position": 7780,
+        "Value": null
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 7825,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.NoTimeToBleed"
+        }
+      },
+      "DevComment": {
+        "Position": 7858,
+        "Value": null
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 7903,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.WeaponOut"
+        }
+      },
+      "DevComment": {
+        "Position": 7936,
+        "Value": null
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 7981,
+        "Value": {
+          "String": "GameplayCue.Commando.IfItBleeds.AppliedFX"
+        }
+      },
+      "DevComment": {
+        "Position": 8014,
+        "Value": null
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 8059,
+        "Value": {
+          "String": "Abilities.Commando.IfItBleeds.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 8092,
+        "Value": null
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 8137,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding1.1"
+        }
+      },
+      "DevComment": {
+        "Position": 8170,
+        "Value": null
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 8215,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding1.2"
+        }
+      },
+      "DevComment": {
+        "Position": 8248,
+        "Value": null
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 8293,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding1.3"
+        }
+      },
+      "DevComment": {
+        "Position": 8326,
+        "Value": null
+      }
+    },
+    "100": {
+      "Tag": {
+        "Position": 8371,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding1.4"
+        }
+      },
+      "DevComment": {
+        "Position": 8404,
+        "Value": "Increase the effectiveness of Advanced Tactics II to 2 ammo per kill."
+      }
+    },
+    "101": {
+      "Tag": {
+        "Position": 8519,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding1.5"
+        }
+      },
+      "DevComment": {
+        "Position": 8552,
+        "Value": "Increase the effectiveness of Advanced Tactics II to 2 ammo per kill. Improves the Rate of Fire bonus from Make it Rain to 30%."
+      }
+    },
+    "102": {
+      "Tag": {
+        "Position": 8725,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding2.1"
+        }
+      },
+      "DevComment": {
+        "Position": 8758,
+        "Value": null
+      }
+    },
+    "103": {
+      "Tag": {
+        "Position": 8803,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding2.2"
+        }
+      },
+      "DevComment": {
+        "Position": 8836,
+        "Value": null
+      }
+    },
+    "104": {
+      "Tag": {
+        "Position": 8881,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding2.3"
+        }
+      },
+      "DevComment": {
+        "Position": 8914,
+        "Value": null
+      }
+    },
+    "105": {
+      "Tag": {
+        "Position": 8959,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding2.4"
+        }
+      },
+      "DevComment": {
+        "Position": 8992,
+        "Value": null
+      }
+    },
+    "106": {
+      "Tag": {
+        "Position": 9037,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding2.5"
+        }
+      },
+      "DevComment": {
+        "Position": 9070,
+        "Value": null
+      }
+    },
+    "107": {
+      "Tag": {
+        "Position": 9115,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding3.1"
+        }
+      },
+      "DevComment": {
+        "Position": 9148,
+        "Value": null
+      }
+    },
+    "108": {
+      "Tag": {
+        "Position": 9193,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding3.2"
+        }
+      },
+      "DevComment": {
+        "Position": 9226,
+        "Value": null
+      }
+    },
+    "109": {
+      "Tag": {
+        "Position": 9271,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding3.3"
+        }
+      },
+      "DevComment": {
+        "Position": 9304,
+        "Value": null
+      }
+    },
+    "110": {
+      "Tag": {
+        "Position": 9349,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding3.4"
+        }
+      },
+      "DevComment": {
+        "Position": 9382,
+        "Value": null
+      }
+    },
+    "111": {
+      "Tag": {
+        "Position": 9427,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding3.5"
+        }
+      },
+      "DevComment": {
+        "Position": 9460,
+        "Value": null
+      }
+    },
+    "112": {
+      "Tag": {
+        "Position": 9505,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding4.1"
+        }
+      },
+      "DevComment": {
+        "Position": 9538,
+        "Value": null
+      }
+    },
+    "113": {
+      "Tag": {
+        "Position": 9583,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding4.2"
+        }
+      },
+      "DevComment": {
+        "Position": 9616,
+        "Value": null
+      }
+    },
+    "114": {
+      "Tag": {
+        "Position": 9661,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding4.3"
+        }
+      },
+      "DevComment": {
+        "Position": 9694,
+        "Value": null
+      }
+    },
+    "115": {
+      "Tag": {
+        "Position": 9739,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding4.4"
+        }
+      },
+      "DevComment": {
+        "Position": 9772,
+        "Value": null
+      }
+    },
+    "116": {
+      "Tag": {
+        "Position": 9817,
+        "Value": {
+          "String": "Abilities.Commando.SubBuilding4.5"
+        }
+      },
+      "DevComment": {
+        "Position": 9850,
+        "Value": "No Time to Bleed  : Triples the heal amount from Advanced Tactics IV"
+      }
+    },
+    "117": {
+      "Tag": {
+        "Position": 9964,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.FragGrenadeAmmo"
+        }
+      },
+      "DevComment": {
+        "Position": 9997,
+        "Value": "Frag Grenade"
+      }
+    },
+    "118": {
+      "Tag": {
+        "Position": 10055,
+        "Value": {
+          "String": "Abilities.Commando.Survivalist"
+        }
+      },
+      "DevComment": {
+        "Position": 10088,
+        "Value": "restore health on kill"
+      }
+    },
+    "119": {
+      "Tag": {
+        "Position": 10156,
+        "Value": {
+          "String": "Abilities.Commando.RainFaster"
+        }
+      },
+      "DevComment": {
+        "Position": 10189,
+        "Value": null
+      }
+    },
+    "120": {
+      "Tag": {
+        "Position": 10234,
+        "Value": {
+          "String": "Abilities.Commando.AmmorRecover1"
+        }
+      },
+      "DevComment": {
+        "Position": 10267,
+        "Value": null
+      }
+    },
+    "121": {
+      "Tag": {
+        "Position": 10312,
+        "Value": {
+          "String": "Abilities.Commando.AmmorRecover2"
+        }
+      },
+      "DevComment": {
+        "Position": 10345,
+        "Value": null
+      }
+    },
+    "122": {
+      "Tag": {
+        "Position": 10390,
+        "Value": {
+          "String": "Abilities.Commando.DebilitationTraining"
+        }
+      },
+      "DevComment": {
+        "Position": 10423,
+        "Value": null
+      }
+    },
+    "123": {
+      "Tag": {
+        "Position": 10468,
+        "Value": {
+          "String": "Abilities.Commando.GrenadeAmmo"
+        }
+      },
+      "DevComment": {
+        "Position": 10501,
+        "Value": null
+      }
+    },
+    "124": {
+      "Tag": {
+        "Position": 10546,
+        "Value": {
+          "String": "Abilities.Commando.GrenadeCost"
+        }
+      },
+      "DevComment": {
+        "Position": 10579,
+        "Value": null
+      }
+    },
+    "125": {
+      "Tag": {
+        "Position": 10624,
+        "Value": {
+          "String": "Abilities.Commando.GrenadeDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 10657,
+        "Value": null
+      }
+    },
+    "126": {
+      "Tag": {
+        "Position": 10702,
+        "Value": {
+          "String": "Abilities.Commando.ExplosiveOptimization"
+        }
+      },
+      "DevComment": {
+        "Position": 10735,
+        "Value": null
+      }
+    },
+    "127": {
+      "Tag": {
+        "Position": 10780,
+        "Value": {
+          "String": "Abilities.Commando.DopplerEffect"
+        }
+      },
+      "DevComment": {
+        "Position": 10813,
+        "Value": null
+      }
+    },
+    "128": {
+      "Tag": {
+        "Position": 10858,
+        "Value": {
+          "String": "Abilities.Commando.WellLookAtThat"
+        }
+      },
+      "DevComment": {
+        "Position": 10891,
+        "Value": null
+      }
+    },
+    "129": {
+      "Tag": {
+        "Position": 10936,
+        "Value": {
+          "String": "Abilities.Commando.ChaseEmDown"
+        }
+      },
+      "DevComment": {
+        "Position": 10969,
+        "Value": null
+      }
+    },
+    "130": {
+      "Tag": {
+        "Position": 11014,
+        "Value": {
+          "String": "Abilities.Commando.Flashbang"
+        }
+      },
+      "DevComment": {
+        "Position": 11047,
+        "Value": null
+      }
+    },
+    "131": {
+      "Tag": {
+        "Position": 11092,
+        "Value": {
+          "String": "Abilities.Commando.GrizzledVeteran"
+        }
+      },
+      "DevComment": {
+        "Position": 11125,
+        "Value": null
+      }
+    },
+    "132": {
+      "Tag": {
+        "Position": 11170,
+        "Value": {
+          "String": "Abilities.Commando.PlasmaCharges"
+        }
+      },
+      "DevComment": {
+        "Position": 11203,
+        "Value": null
+      }
+    },
+    "133": {
+      "Tag": {
+        "Position": 11248,
+        "Value": {
+          "String": "Abilities.Commando.LuckyStars"
+        }
+      },
+      "DevComment": {
+        "Position": 11281,
+        "Value": null
+      }
+    },
+    "134": {
+      "Tag": {
+        "Position": 11326,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.MightyRoar"
+        }
+      },
+      "DevComment": {
+        "Position": 11359,
+        "Value": "Increases range of effectiveness 55%. (3072)"
+      }
+    },
+    "135": {
+      "Tag": {
+        "Position": 11449,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.PracticedInCombat"
+        }
+      },
+      "DevComment": {
+        "Position": 11482,
+        "Value": "Increased duration to 15 seconds."
+      }
+    },
+    "136": {
+      "Tag": {
+        "Position": 11561,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.Leadership"
+        }
+      },
+      "DevComment": {
+        "Position": 11594,
+        "Value": "Reduced cooldown to 60 seconds."
+      }
+    },
+    "137": {
+      "Tag": {
+        "Position": 11671,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.CombatantsMight"
+        }
+      },
+      "DevComment": {
+        "Position": 11704,
+        "Value": "Reduced energy cost to 30."
+      }
+    },
+    "138": {
+      "Tag": {
+        "Position": 11776,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.SpoilsOfWar"
+        }
+      },
+      "DevComment": {
+        "Position": 11809,
+        "Value": "If using a ranged weapon, you now have 25% chance on damage to get the ammo fired back, for the duration of War Cry."
+      }
+    },
+    "139": {
+      "Tag": {
+        "Position": 11971,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.FightOrFlight"
+        }
+      },
+      "DevComment": {
+        "Position": 12004,
+        "Value": "You now do 65% more damage, to enemies, for the duration of War Cry."
+      }
+    },
+    "140": {
+      "Tag": {
+        "Position": 12118,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.ThereAreManyLikeItButThisOneIsMine"
+        }
+      },
+      "DevComment": {
+        "Position": 12151,
+        "Value": "Your weapon takes zero durability damage while affected by War Cry."
+      }
+    },
+    "141": {
+      "Tag": {
+        "Position": 12264,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.Blitz"
+        }
+      },
+      "DevComment": {
+        "Position": 12297,
+        "Value": "Now move 25% faster and gain energy 10% quicker, for the duration of War Cry."
+      }
+    },
+    "142": {
+      "Tag": {
+        "Position": 12420,
+        "Value": {
+          "String": "Abilities.Commando.WarCry"
+        }
+      },
+      "DevComment": {
+        "Position": 12453,
+        "Value": null
+      }
+    },
+    "143": {
+      "Tag": {
+        "Position": 12498,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.WarCry"
+        }
+      },
+      "DevComment": {
+        "Position": 12531,
+        "Value": null
+      }
+    },
+    "144": {
+      "Tag": {
+        "Position": 12576,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.WarCry"
+        }
+      },
+      "DevComment": {
+        "Position": 12609,
+        "Value": null
+      }
+    },
+    "145": {
+      "Tag": {
+        "Position": 12654,
+        "Value": {
+          "String": "Abilities.Commando.WarCry.DefaultRange"
+        }
+      },
+      "DevComment": {
+        "Position": 12687,
+        "Value": null
+      }
+    },
+    "146": {
+      "Tag": {
+        "Position": 12732,
+        "Value": {
+          "String": "Abilities.Commando.WarCry.MightyRoarRange"
+        }
+      },
+      "DevComment": {
+        "Position": 12765,
+        "Value": null
+      }
+    },
+    "147": {
+      "Tag": {
+        "Position": 12810,
+        "Value": {
+          "String": "Abilities.Commando.WarCry.Duration"
+        }
+      },
+      "DevComment": {
+        "Position": 12843,
+        "Value": null
+      }
+    },
+    "148": {
+      "Tag": {
+        "Position": 12888,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Infantryman"
+        }
+      },
+      "DevComment": {
+        "Position": 12921,
+        "Value": "Infantryman"
+      }
+    },
+    "149": {
+      "Tag": {
+        "Position": 12978,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Survivalist"
+        }
+      },
+      "DevComment": {
+        "Position": 13011,
+        "Value": "Survivalist"
+      }
+    },
+    "150": {
+      "Tag": {
+        "Position": 13068,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Commando"
+        }
+      },
+      "DevComment": {
+        "Position": 13101,
+        "Value": "Commando"
+      }
+    },
+    "151": {
+      "Tag": {
+        "Position": 13155,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.ShockTrooper"
+        }
+      },
+      "DevComment": {
+        "Position": 13188,
+        "Value": "Shock Trooper"
+      }
+    },
+    "152": {
+      "Tag": {
+        "Position": 13247,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Headshot"
+        }
+      },
+      "DevComment": {
+        "Position": 13280,
+        "Value": "Headshot"
+      }
+    },
+    "153": {
+      "Tag": {
+        "Position": 13334,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.MasterGrenadier"
+        }
+      },
+      "DevComment": {
+        "Position": 13367,
+        "Value": "Master Grenadier"
+      }
+    },
+    "154": {
+      "Tag": {
+        "Position": 13429,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.StaffSergeant"
+        }
+      },
+      "DevComment": {
+        "Position": 13462,
+        "Value": "Staff Sergeant"
+      }
+    },
+    "155": {
+      "Tag": {
+        "Position": 13522,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Gunner"
+        }
+      },
+      "DevComment": {
+        "Position": 13555,
+        "Value": "Gunner"
+      }
+    },
+    "156": {
+      "Tag": {
+        "Position": 13607,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.SupportSoldier"
+        }
+      },
+      "DevComment": {
+        "Position": 13640,
+        "Value": "Support Soldier"
+      }
+    },
+    "157": {
+      "Tag": {
+        "Position": 13701,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.LeadStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 13734,
+        "Value": "Lead Storm"
+      }
+    },
+    "158": {
+      "Tag": {
+        "Position": 13790,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Raider"
+        }
+      },
+      "DevComment": {
+        "Position": 13823,
+        "Value": "Raider"
+      }
+    },
+    "159": {
+      "Tag": {
+        "Position": 13875,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Reckless"
+        }
+      },
+      "DevComment": {
+        "Position": 13908,
+        "Value": "Lunar Hero Reckless"
+      }
+    },
+    "160": {
+      "Tag": {
+        "Position": 13973,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Athena"
+        }
+      },
+      "DevComment": {
+        "Position": 14006,
+        "Value": "Athena"
+      }
+    },
+    "161": {
+      "Tag": {
+        "Position": 14058,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Demolisher"
+        }
+      },
+      "DevComment": {
+        "Position": 14091,
+        "Value": "Demolisher"
+      }
+    },
+    "162": {
+      "Tag": {
+        "Position": 14147,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.BulletStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 14180,
+        "Value": "BulletStorm"
+      }
+    },
+    "163": {
+      "Tag": {
+        "Position": 14237,
+        "Value": {
+          "String": "Abilities.Commando.GoinCommando.Weapon"
+        }
+      },
+      "DevComment": {
+        "Position": 14270,
+        "Value": "Goin Commando Weapon tag"
+      }
+    },
+    "164": {
+      "Tag": {
+        "Position": 14340,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ShotgunCritDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 14373,
+        "Value": "Increases Shotgun Crit Damage"
+      }
+    },
+    "165": {
+      "Tag": {
+        "Position": 14448,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ShotgunDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 14481,
+        "Value": "Increases Shotgun Damage"
+      }
+    },
+    "166": {
+      "Tag": {
+        "Position": 14551,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.ILoveToReload"
+        }
+      },
+      "DevComment": {
+        "Position": 14584,
+        "Value": null
+      }
+    },
+    "167": {
+      "Tag": {
+        "Position": 14629,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.ILoveToReload"
+        }
+      },
+      "DevComment": {
+        "Position": 14662,
+        "Value": null
+      }
+    },
+    "168": {
+      "Tag": {
+        "Position": 14707,
+        "Value": {
+          "String": "Abilities.Commando.APOBS.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 14740,
+        "Value": "Activates APOBS"
+      }
+    },
+    "169": {
+      "Tag": {
+        "Position": 14801,
+        "Value": {
+          "String": "Abilities.Commando.APOBS.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 14834,
+        "Value": "Deactivates APOBS"
+      }
+    },
+    "170": {
+      "Tag": {
+        "Position": 14897,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.APOBS"
+        }
+      },
+      "DevComment": {
+        "Position": 14930,
+        "Value": null
+      }
+    },
+    "171": {
+      "Tag": {
+        "Position": 14975,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldowns.APOBS"
+        }
+      },
+      "DevComment": {
+        "Position": 15008,
+        "Value": null
+      }
+    },
+    "172": {
+      "Tag": {
+        "Position": 15053,
+        "Value": {
+          "String": "Abilities.Commando.APOBS.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 15086,
+        "Value": null
+      }
+    },
+    "173": {
+      "Tag": {
+        "Position": 15131,
+        "Value": {
+          "String": "Abilities.Commando.Perks.APOBS.ProjectileCount"
+        }
+      },
+      "DevComment": {
+        "Position": 15164,
+        "Value": null
+      }
+    },
+    "174": {
+      "Tag": {
+        "Position": 15209,
+        "Value": {
+          "String": "Abilities.Commando.Tactical.BearStare"
+        }
+      },
+      "DevComment": {
+        "Position": 15242,
+        "Value": "Bear Stare granted tag"
+      }
+    },
+    "175": {
+      "Tag": {
+        "Position": 15310,
+        "Value": {
+          "String": "Abilities.Commando.Perks.EnergyDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 15343,
+        "Value": "Boosts damage from energy attacks"
+      }
+    },
+    "176": {
+      "Tag": {
+        "Position": 15422,
+        "Value": {
+          "String": "Abilities.Commando.Perks.EnergyCritDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 15455,
+        "Value": "Boosts critical damage from energy attacks"
+      }
+    },
+    "177": {
+      "Tag": {
+        "Position": 15543,
+        "Value": {
+          "String": "Abilities.Commando.Perks.EnergyAmmoCraftChance"
+        }
+      },
+      "DevComment": {
+        "Position": 15576,
+        "Value": "Chance of extra energy cells when crafting "
+      }
+    },
+    "178": {
+      "Tag": {
+        "Position": 15665,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ShotReducesGrenadeCooldown.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 15698,
+        "Value": null
+      }
+    },
+    "179": {
+      "Tag": {
+        "Position": 15743,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ShotReducesGrenadeCooldown.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 15776,
+        "Value": null
+      }
+    },
+    "180": {
+      "Tag": {
+        "Position": 15821,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ShotReducesGrenadeCooldown.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 15854,
+        "Value": null
+      }
+    },
+    "181": {
+      "Tag": {
+        "Position": 15899,
+        "Value": {
+          "String": "Abilties.Commando.Perks.ExplosiveTargets.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 15932,
+        "Value": null
+      }
+    },
+    "182": {
+      "Tag": {
+        "Position": 15977,
+        "Value": {
+          "String": "Abilties.Commando.Perks.ExplosiveTargets.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 16010,
+        "Value": null
+      }
+    },
+    "183": {
+      "Tag": {
+        "Position": 16055,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ExplosiveTargets.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 16088,
+        "Value": null
+      }
+    },
+    "184": {
+      "Tag": {
+        "Position": 16133,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.OutWithABang"
+        }
+      },
+      "DevComment": {
+        "Position": 16166,
+        "Value": "Drops explosives when you are downed."
+      }
+    },
+    "185": {
+      "Tag": {
+        "Position": 16249,
+        "Value": {
+          "String": "Abilities.Commando.Perks.HoldStill"
+        }
+      },
+      "DevComment": {
+        "Position": 16282,
+        "Value": "Shockwave does away with knockback in favor of increased impact and stunning enemies for 2.5 seconds."
+      }
+    },
+    "186": {
+      "Tag": {
+        "Position": 16429,
+        "Value": {
+          "String": "Abilities.Commando.Perks.ShortFuze.Cooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 16462,
+        "Value": "Refresh Shockwave when the Soldier's shield breaks."
+      }
+    },
+    "187": {
+      "Tag": {
+        "Position": 16559,
+        "Value": {
+          "String": "Abilities.Commando.Perks.InAPinch"
+        }
+      },
+      "DevComment": {
+        "Position": 16592,
+        "Value": "Inreases weapon reload speed by 35% when emptying the magazine."
+      }
+    },
+    "188": {
+      "Tag": {
+        "Position": 16701,
+        "Value": {
+          "String": "Abilities.Commando.Shockwave.Modifier.HoldStill"
+        }
+      },
+      "DevComment": {
+        "Position": 16734,
+        "Value": "Shockwave does away with knockback in favor of increased impact and stunning enemies for 2.5 seconds."
+      }
+    },
+    "189": {
+      "Tag": {
+        "Position": 16881,
+        "Value": {
+          "String": "Abilities.Commando.Perks.WarCry.UpCloseAndPersonal"
+        }
+      },
+      "DevComment": {
+        "Position": 16914,
+        "Value": "War Cry applies 45% Vulnerability to nearby enemies."
+      }
+    },
+    "190": {
+      "Tag": {
+        "Position": 17012,
+        "Value": {
+          "String": "Abilities.Commando.Perks.StartFaster"
+        }
+      },
+      "DevComment": {
+        "Position": 17045,
+        "Value": "Increase the stack count for StartUp"
+      }
+    },
+    "191": {
+      "Tag": {
+        "Position": 17127,
+        "Value": {
+          "String": "Abilities.Commando.Perks.StartUp.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 17160,
+        "Value": "Event triggered when StartUp is activated"
+      }
+    },
+    "192": {
+      "Tag": {
+        "Position": 17247,
+        "Value": {
+          "String": "Abilities.Commando.Perks.StartUp.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 17280,
+        "Value": "Tag Associated with StartUp and applied to owner"
+      }
+    },
+    "193": {
+      "Tag": {
+        "Position": 17374,
+        "Value": {
+          "String": "Abilities.Commando.Perks.StartUp.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 17407,
+        "Value": "Event triggered when StartUp is deactivated"
+      }
+    },
+    "194": {
+      "Tag": {
+        "Position": 17496,
+        "Value": {
+          "String": "Abilities.Commando.Cooldowns.LeftyAndRighty"
+        }
+      },
+      "DevComment": {
+        "Position": 17529,
+        "Value": "Cooldown for LeftyAndRighty"
+      }
+    },
+    "195": {
+      "Tag": {
+        "Position": 17602,
+        "Value": {
+          "String": "Abilities.Commando.OnCooldown.LeftyAndRighty"
+        }
+      },
+      "DevComment": {
+        "Position": 17635,
+        "Value": "Tag Associated with LeftyAndRighty being on Cooldown"
+      }
+    },
+    "196": {
+      "Tag": {
+        "Position": 17733,
+        "Value": {
+          "String": "Abilities.Commando.LeftyAndRighty.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 17766,
+        "Value": "Ability Activated"
+      }
+    },
+    "197": {
+      "Tag": {
+        "Position": 17829,
+        "Value": {
+          "String": "Abilities.Commando.LeftyAndRighty.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 17862,
+        "Value": "Ability Deactivated"
+      }
+    },
+    "198": {
+      "Tag": {
+        "Position": 17927,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.DualDebilitation"
+        }
+      },
+      "DevComment": {
+        "Position": 17960,
+        "Value": "Tag Associated with DualDebilitation Perk"
+      }
+    },
+    "199": {
+      "Tag": {
+        "Position": 18047,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.WheresLefty"
+        }
+      },
+      "DevComment": {
+        "Position": 18080,
+        "Value": "Tag Associated with WheresLefty Perk"
+      }
+    },
+    "200": {
+      "Tag": {
+        "Position": 18162,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.Twinblast"
+        }
+      },
+      "DevComment": {
+        "Position": 18195,
+        "Value": "Tag Associated with Twinblast Perk"
+      }
+    },
+    "201": {
+      "Tag": {
+        "Position": 18275,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.DoubleTrouble"
+        }
+      },
+      "DevComment": {
+        "Position": 18308,
+        "Value": "DoubleTrouble"
+      }
+    },
+    "202": {
+      "Tag": {
+        "Position": 18367,
+        "Value": {
+          "String": "Abilities.Commando.DebilitatingShots.Enable"
+        }
+      },
+      "DevComment": {
+        "Position": 18400,
+        "Value": "Enable Debilitating shots"
+      }
+    },
+    "203": {
+      "Tag": {
+        "Position": 18471,
+        "Value": {
+          "String": "Abilities.Commando.LeftyAndRighty.Weapon"
+        }
+      },
+      "DevComment": {
+        "Position": 18504,
+        "Value": "LeftyAndRighty Weapon"
+      }
+    },
+    "204": {
+      "Tag": {
+        "Position": 18571,
+        "Value": {
+          "String": "Granted.Abilities.Commando.Perks.Tactical.ExplosiveTargets"
+        }
+      },
+      "DevComment": {
+        "Position": 18604,
+        "Value": null
+      }
+    },
+    "205": {
+      "Tag": {
+        "Position": 18649,
+        "Value": {
+          "String": "Granted.Abilities.Commando.Perks.Tactical.FragGrenade.ClusterBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 18682,
+        "Value": null
+      }
+    },
+    "206": {
+      "Tag": {
+        "Position": 18727,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Raven"
+        }
+      },
+      "DevComment": {
+        "Position": 18760,
+        "Value": null
+      }
+    },
+    "207": {
+      "Tag": {
+        "Position": 18805,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.Twinblast.Targeting1"
+        }
+      },
+      "DevComment": {
+        "Position": 18838,
+        "Value": "Targeting tag for Twinblast Perk"
+      }
+    },
+    "208": {
+      "Tag": {
+        "Position": 18916,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.Twinblast.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 18949,
+        "Value": "Twinblast damage"
+      }
+    },
+    "209": {
+      "Tag": {
+        "Position": 19011,
+        "Value": {
+          "String": "Event.Commando.Perks.LeftyandRighty.Twinblast.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 19044,
+        "Value": "Activate Event tag for Twinblast"
+      }
+    },
+    "210": {
+      "Tag": {
+        "Position": 19122,
+        "Value": {
+          "String": "Event.Commando.Perks.LeftyandRighty.Twinblast.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 19155,
+        "Value": "Deactivate Event tag for Twinblast"
+      }
+    },
+    "211": {
+      "Tag": {
+        "Position": 19235,
+        "Value": {
+          "String": "Event.Commando.Perks.Tactical.ExplosiveTargets.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 19268,
+        "Value": null
+      }
+    },
+    "212": {
+      "Tag": {
+        "Position": 19313,
+        "Value": {
+          "String": "Event.Commando.Perks.Tactical.ExplosiveTargets.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 19346,
+        "Value": null
+      }
+    },
+    "213": {
+      "Tag": {
+        "Position": 19391,
+        "Value": {
+          "String": "Abilities.Commando.FragGrenade.Tactical.ClusterExplosion"
+        }
+      },
+      "DevComment": {
+        "Position": 19424,
+        "Value": "Tactical cluster bomb damage"
+      }
+    },
+    "214": {
+      "Tag": {
+        "Position": 19498,
+        "Value": {
+          "String": "Event.Commando.LeftyAndRighty.AnimationTrigger"
+        }
+      },
+      "DevComment": {
+        "Position": 19531,
+        "Value": "Trigger for lefty and righty animation"
+      }
+    },
+    "215": {
+      "Tag": {
+        "Position": 19615,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.Cobalt"
+        }
+      },
+      "DevComment": {
+        "Position": 19648,
+        "Value": null
+      }
+    },
+    "216": {
+      "Tag": {
+        "Position": 19693,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.ZipAndZap"
+        }
+      },
+      "DevComment": {
+        "Position": 19726,
+        "Value": null
+      }
+    },
+    "217": {
+      "Tag": {
+        "Position": 19771,
+        "Value": {
+          "String": "Abilities.Commando.Perks.LeftyAndRighty.CorrosiveClips"
+        }
+      },
+      "DevComment": {
+        "Position": 19804,
+        "Value": null
+      }
+    },
+    "218": {
+      "Tag": {
+        "Position": 19849,
+        "Value": {
+          "String": "Event.Commando.Perks.FirstAssault.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 19882,
+        "Value": null
+      }
+    },
+    "219": {
+      "Tag": {
+        "Position": 19927,
+        "Value": {
+          "String": "Event.Commando.Perks.FirstAssault.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 19960,
+        "Value": null
+      }
+    },
+    "220": {
+      "Tag": {
+        "Position": 20005,
+        "Value": {
+          "String": "Event.Commando.Perks.LockedAndReloaded.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 20038,
+        "Value": null
+      }
+    },
+    "221": {
+      "Tag": {
+        "Position": 20083,
+        "Value": {
+          "String": "Event.Commando.Perks.LockedAndReloaded.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 20116,
+        "Value": null
+      }
+    },
+    "222": {
+      "Tag": {
+        "Position": 20161,
+        "Value": {
+          "String": "Granted.Abilities.Commando.Perks.LockedAndReloaded"
+        }
+      },
+      "DevComment": {
+        "Position": 20194,
+        "Value": null
+      }
+    },
+    "223": {
+      "Tag": {
+        "Position": 20239,
+        "Value": {
+          "String": "Granted.Abilities.Commando.Perks.PadlockedAndReloaded"
+        }
+      },
+      "DevComment": {
+        "Position": 20272,
+        "Value": null
+      }
+    },
+    "224": {
+      "Tag": {
+        "Position": 20317,
+        "Value": {
+          "String": "Granted.Abilities.Commando.Perks.FirstAssault"
+        }
+      },
+      "DevComment": {
+        "Position": 20350,
+        "Value": null
+      }
+    },
+    "225": {
+      "Tag": {
+        "Position": 20395,
+        "Value": {
+          "String": "Homebase.Class.IsCommando.OneShot"
+        }
+      },
+      "DevComment": {
+        "Position": 20428,
+        "Value": null
+      }
+    },
+    "226": {
+      "Tag": {
+        "Position": 20473,
+        "Value": {
+          "String": "Granted.Abilities.Commando.Perks.Tactical.PracticedInCombat"
+        }
+      },
+      "DevComment": {
+        "Position": 20506,
+        "Value": null
+      }
+    }
+  }
+]

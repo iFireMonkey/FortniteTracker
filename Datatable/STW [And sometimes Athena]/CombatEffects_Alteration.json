@@ -1,0 +1,5348 @@
+[
+  {
+    "Alteration.Weapon.Ranged.IsTargetting.Damage": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 1.18
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 1.36
+            }
+          },
+          {
+            "Position": 176,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 1.42
+            }
+          },
+          {
+            "Position": 184,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 1.6
+            }
+          },
+          {
+            "Position": 192,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 1.66
+            }
+          },
+          {
+            "Position": 200,
+            "Value": {
+              "KeyTime": 14.0,
+              "KeyValue": 1.84
+            }
+          },
+          {
+            "Position": 208,
+            "Value": {
+              "KeyTime": 15.0,
+              "KeyValue": 1.9
+            }
+          },
+          {
+            "Position": 216,
+            "Value": {
+              "KeyTime": 18.0,
+              "KeyValue": 2.08
+            }
+          },
+          {
+            "Position": 224,
+            "Value": {
+              "KeyTime": 19.0,
+              "KeyValue": 2.14
+            }
+          },
+          {
+            "Position": 232,
+            "Value": {
+              "KeyTime": 22.0,
+              "KeyValue": 2.32
+            }
+          },
+          {
+            "Position": 240,
+            "Value": {
+              "KeyTime": 27.0,
+              "KeyValue": 2.62
+            }
+          },
+          {
+            "Position": 248,
+            "Value": {
+              "KeyTime": 28.0,
+              "KeyValue": 2.68
+            }
+          },
+          {
+            "Position": 256,
+            "Value": {
+              "KeyTime": 31.0,
+              "KeyValue": 2.86
+            }
+          },
+          {
+            "Position": 264,
+            "Value": {
+              "KeyTime": 35.0,
+              "KeyValue": 3.1
+            }
+          },
+          {
+            "Position": 272,
+            "Value": {
+              "KeyTime": 36.0,
+              "KeyValue": 3.16
+            }
+          },
+          {
+            "Position": 280,
+            "Value": {
+              "KeyTime": 39.0,
+              "KeyValue": 3.34
+            }
+          },
+          {
+            "Position": 288,
+            "Value": {
+              "KeyTime": 43.0,
+              "KeyValue": 3.58
+            }
+          },
+          {
+            "Position": 296,
+            "Value": {
+              "KeyTime": 44.0,
+              "KeyValue": 3.64
+            }
+          },
+          {
+            "Position": 304,
+            "Value": {
+              "KeyTime": 47.0,
+              "KeyValue": 3.82
+            }
+          },
+          {
+            "Position": 312,
+            "Value": {
+              "KeyTime": 54.0,
+              "KeyValue": 4.24
+            }
+          },
+          {
+            "Position": 320,
+            "Value": {
+              "KeyTime": 62.0,
+              "KeyValue": 4.72
+            }
+          },
+          {
+            "Position": 328,
+            "Value": {
+              "KeyTime": 63.0,
+              "KeyValue": 4.78
+            }
+          },
+          {
+            "Position": 336,
+            "Value": {
+              "KeyTime": 70.0,
+              "KeyValue": 5.2
+            }
+          },
+          {
+            "Position": 344,
+            "Value": {
+              "KeyTime": 79.0,
+              "KeyValue": 5.74
+            }
+          },
+          {
+            "Position": 352,
+            "Value": {
+              "KeyTime": 87.0,
+              "KeyValue": 6.22
+            }
+          },
+          {
+            "Position": 360,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 6.28
+            }
+          },
+          {
+            "Position": 368,
+            "Value": {
+              "KeyTime": 95.0,
+              "KeyValue": 6.7
+            }
+          },
+          {
+            "Position": 376,
+            "Value": {
+              "KeyTime": 105.0,
+              "KeyValue": 7.3
+            }
+          },
+          {
+            "Position": 384,
+            "Value": {
+              "KeyTime": 110.0,
+              "KeyValue": 7.6
+            }
+          },
+          {
+            "Position": 392,
+            "Value": {
+              "KeyTime": 115.0,
+              "KeyValue": 7.9
+            }
+          },
+          {
+            "Position": 400,
+            "Value": {
+              "KeyTime": 135.0,
+              "KeyValue": 9.1
+            }
+          },
+          {
+            "Position": 408,
+            "Value": {
+              "KeyTime": 160.0,
+              "KeyValue": 10.6
+            }
+          },
+          {
+            "Position": 416,
+            "Value": {
+              "KeyTime": 185.0,
+              "KeyValue": 12.1
+            }
+          },
+          {
+            "Position": 424,
+            "Value": {
+              "KeyTime": 210.0,
+              "KeyValue": 13.6
+            }
+          },
+          {
+            "Position": 432,
+            "Value": {
+              "KeyTime": 235.0,
+              "KeyValue": 15.1
+            }
+          },
+          {
+            "Position": 440,
+            "Value": {
+              "KeyTime": 240.0,
+              "KeyValue": 15.4
+            }
+          },
+          {
+            "Position": 448,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 601.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 481,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 518,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 559,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.SpecificTarget.RareTarget.Damage": {
+      "InterpMode": {
+        "Position": 616,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 657,
+        "Value": [
+          {
+            "Position": 710,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 718,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.2
+            }
+          },
+          {
+            "Position": 726,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 1.7
+            }
+          },
+          {
+            "Position": 734,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 2.1
+            }
+          },
+          {
+            "Position": 742,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 2.2
+            }
+          },
+          {
+            "Position": 750,
+            "Value": {
+              "KeyTime": 13.0,
+              "KeyValue": 2.3
+            }
+          },
+          {
+            "Position": 758,
+            "Value": {
+              "KeyTime": 18.0,
+              "KeyValue": 2.8
+            }
+          },
+          {
+            "Position": 766,
+            "Value": {
+              "KeyTime": 23.0,
+              "KeyValue": 3.3
+            }
+          },
+          {
+            "Position": 774,
+            "Value": {
+              "KeyTime": 28.0,
+              "KeyValue": 3.8
+            }
+          },
+          {
+            "Position": 782,
+            "Value": {
+              "KeyTime": 32.0,
+              "KeyValue": 4.2
+            }
+          },
+          {
+            "Position": 790,
+            "Value": {
+              "KeyTime": 37.0,
+              "KeyValue": 4.7
+            }
+          },
+          {
+            "Position": 798,
+            "Value": {
+              "KeyTime": 42.0,
+              "KeyValue": 5.2
+            }
+          },
+          {
+            "Position": 806,
+            "Value": {
+              "KeyTime": 47.0,
+              "KeyValue": 5.7
+            }
+          },
+          {
+            "Position": 814,
+            "Value": {
+              "KeyTime": 52.0,
+              "KeyValue": 6.2
+            }
+          },
+          {
+            "Position": 822,
+            "Value": {
+              "KeyTime": 57.0,
+              "KeyValue": 6.7
+            }
+          },
+          {
+            "Position": 830,
+            "Value": {
+              "KeyTime": 62.0,
+              "KeyValue": 7.2
+            }
+          },
+          {
+            "Position": 838,
+            "Value": {
+              "KeyTime": 67.0,
+              "KeyValue": 7.7
+            }
+          },
+          {
+            "Position": 846,
+            "Value": {
+              "KeyTime": 71.0,
+              "KeyValue": 8.1
+            }
+          },
+          {
+            "Position": 854,
+            "Value": {
+              "KeyTime": 72.0,
+              "KeyValue": 8.2
+            }
+          },
+          {
+            "Position": 862,
+            "Value": {
+              "KeyTime": 73.0,
+              "KeyValue": 8.3
+            }
+          },
+          {
+            "Position": 870,
+            "Value": {
+              "KeyTime": 78.0,
+              "KeyValue": 8.8
+            }
+          },
+          {
+            "Position": 878,
+            "Value": {
+              "KeyTime": 83.0,
+              "KeyValue": 9.3
+            }
+          },
+          {
+            "Position": 886,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 9.8
+            }
+          },
+          {
+            "Position": 894,
+            "Value": {
+              "KeyTime": 93.0,
+              "KeyValue": 10.3
+            }
+          },
+          {
+            "Position": 902,
+            "Value": {
+              "KeyTime": 98.0,
+              "KeyValue": 10.8
+            }
+          },
+          {
+            "Position": 910,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1001.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 943,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 980,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 1021,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.SpecificTarget.CommonTarget.Damage": {
+      "InterpMode": {
+        "Position": 1078,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 1119,
+        "Value": [
+          {
+            "Position": 1172,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 1180,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 1.225
+            }
+          },
+          {
+            "Position": 1188,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 1.525
+            }
+          },
+          {
+            "Position": 1196,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 1.6
+            }
+          },
+          {
+            "Position": 1204,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 1.9
+            }
+          },
+          {
+            "Position": 1212,
+            "Value": {
+              "KeyTime": 13.0,
+              "KeyValue": 1.975
+            }
+          },
+          {
+            "Position": 1220,
+            "Value": {
+              "KeyTime": 17.0,
+              "KeyValue": 2.275
+            }
+          },
+          {
+            "Position": 1228,
+            "Value": {
+              "KeyTime": 22.0,
+              "KeyValue": 2.65
+            }
+          },
+          {
+            "Position": 1236,
+            "Value": {
+              "KeyTime": 27.0,
+              "KeyValue": 3.025
+            }
+          },
+          {
+            "Position": 1244,
+            "Value": {
+              "KeyTime": 32.0,
+              "KeyValue": 3.4
+            }
+          },
+          {
+            "Position": 1252,
+            "Value": {
+              "KeyTime": 37.0,
+              "KeyValue": 3.775
+            }
+          },
+          {
+            "Position": 1260,
+            "Value": {
+              "KeyTime": 41.0,
+              "KeyValue": 4.075
+            }
+          },
+          {
+            "Position": 1268,
+            "Value": {
+              "KeyTime": 42.0,
+              "KeyValue": 4.15
+            }
+          },
+          {
+            "Position": 1276,
+            "Value": {
+              "KeyTime": 43.0,
+              "KeyValue": 4.225
+            }
+          },
+          {
+            "Position": 1284,
+            "Value": {
+              "KeyTime": 48.0,
+              "KeyValue": 4.6
+            }
+          },
+          {
+            "Position": 1292,
+            "Value": {
+              "KeyTime": 53.0,
+              "KeyValue": 4.975
+            }
+          },
+          {
+            "Position": 1300,
+            "Value": {
+              "KeyTime": 58.0,
+              "KeyValue": 5.35
+            }
+          },
+          {
+            "Position": 1308,
+            "Value": {
+              "KeyTime": 63.0,
+              "KeyValue": 5.725
+            }
+          },
+          {
+            "Position": 1316,
+            "Value": {
+              "KeyTime": 68.0,
+              "KeyValue": 6.1
+            }
+          },
+          {
+            "Position": 1324,
+            "Value": {
+              "KeyTime": 73.0,
+              "KeyValue": 6.475
+            }
+          },
+          {
+            "Position": 1332,
+            "Value": {
+              "KeyTime": 78.0,
+              "KeyValue": 6.85
+            }
+          },
+          {
+            "Position": 1340,
+            "Value": {
+              "KeyTime": 83.0,
+              "KeyValue": 7.225
+            }
+          },
+          {
+            "Position": 1348,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 7.6
+            }
+          },
+          {
+            "Position": 1356,
+            "Value": {
+              "KeyTime": 93.0,
+              "KeyValue": 7.975
+            }
+          },
+          {
+            "Position": 1364,
+            "Value": {
+              "KeyTime": 97.0,
+              "KeyValue": 8.275
+            }
+          },
+          {
+            "Position": 1372,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 751.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1405,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1442,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 1483,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.SteamCloud.Damage": {
+      "InterpMode": {
+        "Position": 1540,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 1581,
+        "Value": [
+          {
+            "Position": 1634,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 29.38
+            }
+          },
+          {
+            "Position": 1642,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 29.38
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1675,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1712,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 1753,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.SteamCloud.Damage": {
+      "InterpMode": {
+        "Position": 1810,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 1851,
+        "Value": [
+          {
+            "Position": 1904,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 23.26
+            }
+          },
+          {
+            "Position": 1912,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 23.26
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1945,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1982,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 2023,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.HeadshotDamage.OnSwordCritBuffPistolHeadshotDamage": {
+      "InterpMode": {
+        "Position": 2080,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 2121,
+        "Value": [
+          {
+            "Position": 2174,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 2182,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 1.15
+            }
+          },
+          {
+            "Position": 2190,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 1.4
+            }
+          },
+          {
+            "Position": 2198,
+            "Value": {
+              "KeyTime": 13.0,
+              "KeyValue": 1.65
+            }
+          },
+          {
+            "Position": 2206,
+            "Value": {
+              "KeyTime": 18.0,
+              "KeyValue": 1.9
+            }
+          },
+          {
+            "Position": 2214,
+            "Value": {
+              "KeyTime": 22.0,
+              "KeyValue": 2.1
+            }
+          },
+          {
+            "Position": 2222,
+            "Value": {
+              "KeyTime": 27.0,
+              "KeyValue": 2.35
+            }
+          },
+          {
+            "Position": 2230,
+            "Value": {
+              "KeyTime": 32.0,
+              "KeyValue": 2.6
+            }
+          },
+          {
+            "Position": 2238,
+            "Value": {
+              "KeyTime": 37.0,
+              "KeyValue": 2.85
+            }
+          },
+          {
+            "Position": 2246,
+            "Value": {
+              "KeyTime": 42.0,
+              "KeyValue": 3.1
+            }
+          },
+          {
+            "Position": 2254,
+            "Value": {
+              "KeyTime": 47.0,
+              "KeyValue": 3.35
+            }
+          },
+          {
+            "Position": 2262,
+            "Value": {
+              "KeyTime": 52.0,
+              "KeyValue": 3.6
+            }
+          },
+          {
+            "Position": 2270,
+            "Value": {
+              "KeyTime": 57.0,
+              "KeyValue": 3.85
+            }
+          },
+          {
+            "Position": 2278,
+            "Value": {
+              "KeyTime": 61.0,
+              "KeyValue": 4.05
+            }
+          },
+          {
+            "Position": 2286,
+            "Value": {
+              "KeyTime": 62.0,
+              "KeyValue": 4.1
+            }
+          },
+          {
+            "Position": 2294,
+            "Value": {
+              "KeyTime": 63.0,
+              "KeyValue": 4.15
+            }
+          },
+          {
+            "Position": 2302,
+            "Value": {
+              "KeyTime": 68.0,
+              "KeyValue": 4.4
+            }
+          },
+          {
+            "Position": 2310,
+            "Value": {
+              "KeyTime": 73.0,
+              "KeyValue": 4.65
+            }
+          },
+          {
+            "Position": 2318,
+            "Value": {
+              "KeyTime": 78.0,
+              "KeyValue": 4.9
+            }
+          },
+          {
+            "Position": 2326,
+            "Value": {
+              "KeyTime": 83.0,
+              "KeyValue": 5.15
+            }
+          },
+          {
+            "Position": 2334,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 5.4
+            }
+          },
+          {
+            "Position": 2342,
+            "Value": {
+              "KeyTime": 93.0,
+              "KeyValue": 5.65
+            }
+          },
+          {
+            "Position": 2350,
+            "Value": {
+              "KeyTime": 98.0,
+              "KeyValue": 5.9
+            }
+          },
+          {
+            "Position": 2358,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 501.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2391,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2428,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 2469,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.Duration.OnSwordCritBuffPistolHeadshotDamage": {
+      "InterpMode": {
+        "Position": 2526,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 2567,
+        "Value": [
+          {
+            "Position": 2620,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 2628,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 15.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2661,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2698,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 2739,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.CritRating.OnPistolHeadshotBuffSwordCritRating": {
+      "InterpMode": {
+        "Position": 2796,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 2837,
+        "Value": [
+          {
+            "Position": 2890,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2898,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.25
+            }
+          },
+          {
+            "Position": 2906,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 6.25
+            }
+          },
+          {
+            "Position": 2914,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 9.5
+            }
+          },
+          {
+            "Position": 2922,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 12.5
+            }
+          },
+          {
+            "Position": 2930,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 15.75
+            }
+          },
+          {
+            "Position": 2938,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 18.75
+            }
+          },
+          {
+            "Position": 2946,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 22.0
+            }
+          },
+          {
+            "Position": 2954,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 2962,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 28.25
+            }
+          },
+          {
+            "Position": 2970,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 31.25
+            }
+          },
+          {
+            "Position": 2978,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 34.5
+            }
+          },
+          {
+            "Position": 2986,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 37.5
+            }
+          },
+          {
+            "Position": 2994,
+            "Value": {
+              "KeyTime": 13.0,
+              "KeyValue": 40.75
+            }
+          },
+          {
+            "Position": 3002,
+            "Value": {
+              "KeyTime": 14.0,
+              "KeyValue": 43.75
+            }
+          },
+          {
+            "Position": 3010,
+            "Value": {
+              "KeyTime": 15.0,
+              "KeyValue": 47.0
+            }
+          },
+          {
+            "Position": 3018,
+            "Value": {
+              "KeyTime": 16.0,
+              "KeyValue": 50.0
+            }
+          },
+          {
+            "Position": 3026,
+            "Value": {
+              "KeyTime": 17.0,
+              "KeyValue": 53.25
+            }
+          },
+          {
+            "Position": 3034,
+            "Value": {
+              "KeyTime": 18.0,
+              "KeyValue": 56.25
+            }
+          },
+          {
+            "Position": 3042,
+            "Value": {
+              "KeyTime": 19.0,
+              "KeyValue": 59.5
+            }
+          },
+          {
+            "Position": 3050,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 62.5
+            }
+          },
+          {
+            "Position": 3058,
+            "Value": {
+              "KeyTime": 21.0,
+              "KeyValue": 65.75
+            }
+          },
+          {
+            "Position": 3066,
+            "Value": {
+              "KeyTime": 22.0,
+              "KeyValue": 68.75
+            }
+          },
+          {
+            "Position": 3074,
+            "Value": {
+              "KeyTime": 23.0,
+              "KeyValue": 72.0
+            }
+          },
+          {
+            "Position": 3082,
+            "Value": {
+              "KeyTime": 24.0,
+              "KeyValue": 75.0
+            }
+          },
+          {
+            "Position": 3090,
+            "Value": {
+              "KeyTime": 25.0,
+              "KeyValue": 78.25
+            }
+          },
+          {
+            "Position": 3098,
+            "Value": {
+              "KeyTime": 26.0,
+              "KeyValue": 81.25
+            }
+          },
+          {
+            "Position": 3106,
+            "Value": {
+              "KeyTime": 27.0,
+              "KeyValue": 84.5
+            }
+          },
+          {
+            "Position": 3114,
+            "Value": {
+              "KeyTime": 28.0,
+              "KeyValue": 87.5
+            }
+          },
+          {
+            "Position": 3122,
+            "Value": {
+              "KeyTime": 29.0,
+              "KeyValue": 90.75
+            }
+          },
+          {
+            "Position": 3130,
+            "Value": {
+              "KeyTime": 30.0,
+              "KeyValue": 93.75
+            }
+          },
+          {
+            "Position": 3138,
+            "Value": {
+              "KeyTime": 31.0,
+              "KeyValue": 97.0
+            }
+          },
+          {
+            "Position": 3146,
+            "Value": {
+              "KeyTime": 32.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 3154,
+            "Value": {
+              "KeyTime": 33.0,
+              "KeyValue": 103.25
+            }
+          },
+          {
+            "Position": 3162,
+            "Value": {
+              "KeyTime": 34.0,
+              "KeyValue": 106.25
+            }
+          },
+          {
+            "Position": 3170,
+            "Value": {
+              "KeyTime": 35.0,
+              "KeyValue": 109.5
+            }
+          },
+          {
+            "Position": 3178,
+            "Value": {
+              "KeyTime": 36.0,
+              "KeyValue": 112.5
+            }
+          },
+          {
+            "Position": 3186,
+            "Value": {
+              "KeyTime": 37.0,
+              "KeyValue": 115.75
+            }
+          },
+          {
+            "Position": 3194,
+            "Value": {
+              "KeyTime": 38.0,
+              "KeyValue": 118.75
+            }
+          },
+          {
+            "Position": 3202,
+            "Value": {
+              "KeyTime": 39.0,
+              "KeyValue": 122.0
+            }
+          },
+          {
+            "Position": 3210,
+            "Value": {
+              "KeyTime": 40.0,
+              "KeyValue": 125.0
+            }
+          },
+          {
+            "Position": 3218,
+            "Value": {
+              "KeyTime": 41.0,
+              "KeyValue": 128.25
+            }
+          },
+          {
+            "Position": 3226,
+            "Value": {
+              "KeyTime": 42.0,
+              "KeyValue": 131.25
+            }
+          },
+          {
+            "Position": 3234,
+            "Value": {
+              "KeyTime": 43.0,
+              "KeyValue": 134.5
+            }
+          },
+          {
+            "Position": 3242,
+            "Value": {
+              "KeyTime": 44.0,
+              "KeyValue": 137.5
+            }
+          },
+          {
+            "Position": 3250,
+            "Value": {
+              "KeyTime": 45.0,
+              "KeyValue": 140.75
+            }
+          },
+          {
+            "Position": 3258,
+            "Value": {
+              "KeyTime": 46.0,
+              "KeyValue": 143.75
+            }
+          },
+          {
+            "Position": 3266,
+            "Value": {
+              "KeyTime": 47.0,
+              "KeyValue": 147.0
+            }
+          },
+          {
+            "Position": 3274,
+            "Value": {
+              "KeyTime": 48.0,
+              "KeyValue": 150.0
+            }
+          },
+          {
+            "Position": 3282,
+            "Value": {
+              "KeyTime": 49.0,
+              "KeyValue": 153.25
+            }
+          },
+          {
+            "Position": 3290,
+            "Value": {
+              "KeyTime": 50.0,
+              "KeyValue": 156.25
+            }
+          },
+          {
+            "Position": 3298,
+            "Value": {
+              "KeyTime": 51.0,
+              "KeyValue": 159.5
+            }
+          },
+          {
+            "Position": 3306,
+            "Value": {
+              "KeyTime": 52.0,
+              "KeyValue": 162.5
+            }
+          },
+          {
+            "Position": 3314,
+            "Value": {
+              "KeyTime": 53.0,
+              "KeyValue": 165.75
+            }
+          },
+          {
+            "Position": 3322,
+            "Value": {
+              "KeyTime": 54.0,
+              "KeyValue": 168.75
+            }
+          },
+          {
+            "Position": 3330,
+            "Value": {
+              "KeyTime": 55.0,
+              "KeyValue": 172.0
+            }
+          },
+          {
+            "Position": 3338,
+            "Value": {
+              "KeyTime": 56.0,
+              "KeyValue": 175.0
+            }
+          },
+          {
+            "Position": 3346,
+            "Value": {
+              "KeyTime": 57.0,
+              "KeyValue": 178.25
+            }
+          },
+          {
+            "Position": 3354,
+            "Value": {
+              "KeyTime": 58.0,
+              "KeyValue": 181.25
+            }
+          },
+          {
+            "Position": 3362,
+            "Value": {
+              "KeyTime": 59.0,
+              "KeyValue": 184.5
+            }
+          },
+          {
+            "Position": 3370,
+            "Value": {
+              "KeyTime": 60.0,
+              "KeyValue": 187.5
+            }
+          },
+          {
+            "Position": 3378,
+            "Value": {
+              "KeyTime": 61.0,
+              "KeyValue": 190.75
+            }
+          },
+          {
+            "Position": 3386,
+            "Value": {
+              "KeyTime": 62.0,
+              "KeyValue": 193.75
+            }
+          },
+          {
+            "Position": 3394,
+            "Value": {
+              "KeyTime": 63.0,
+              "KeyValue": 197.0
+            }
+          },
+          {
+            "Position": 3402,
+            "Value": {
+              "KeyTime": 64.0,
+              "KeyValue": 200.0
+            }
+          },
+          {
+            "Position": 3410,
+            "Value": {
+              "KeyTime": 65.0,
+              "KeyValue": 203.25
+            }
+          },
+          {
+            "Position": 3418,
+            "Value": {
+              "KeyTime": 66.0,
+              "KeyValue": 206.25
+            }
+          },
+          {
+            "Position": 3426,
+            "Value": {
+              "KeyTime": 67.0,
+              "KeyValue": 209.5
+            }
+          },
+          {
+            "Position": 3434,
+            "Value": {
+              "KeyTime": 68.0,
+              "KeyValue": 212.5
+            }
+          },
+          {
+            "Position": 3442,
+            "Value": {
+              "KeyTime": 69.0,
+              "KeyValue": 215.75
+            }
+          },
+          {
+            "Position": 3450,
+            "Value": {
+              "KeyTime": 70.0,
+              "KeyValue": 218.75
+            }
+          },
+          {
+            "Position": 3458,
+            "Value": {
+              "KeyTime": 71.0,
+              "KeyValue": 222.0
+            }
+          },
+          {
+            "Position": 3466,
+            "Value": {
+              "KeyTime": 72.0,
+              "KeyValue": 225.0
+            }
+          },
+          {
+            "Position": 3474,
+            "Value": {
+              "KeyTime": 73.0,
+              "KeyValue": 228.25
+            }
+          },
+          {
+            "Position": 3482,
+            "Value": {
+              "KeyTime": 74.0,
+              "KeyValue": 231.25
+            }
+          },
+          {
+            "Position": 3490,
+            "Value": {
+              "KeyTime": 75.0,
+              "KeyValue": 234.5
+            }
+          },
+          {
+            "Position": 3498,
+            "Value": {
+              "KeyTime": 76.0,
+              "KeyValue": 237.5
+            }
+          },
+          {
+            "Position": 3506,
+            "Value": {
+              "KeyTime": 77.0,
+              "KeyValue": 240.75
+            }
+          },
+          {
+            "Position": 3514,
+            "Value": {
+              "KeyTime": 78.0,
+              "KeyValue": 243.75
+            }
+          },
+          {
+            "Position": 3522,
+            "Value": {
+              "KeyTime": 79.0,
+              "KeyValue": 247.0
+            }
+          },
+          {
+            "Position": 3530,
+            "Value": {
+              "KeyTime": 80.0,
+              "KeyValue": 250.0
+            }
+          },
+          {
+            "Position": 3538,
+            "Value": {
+              "KeyTime": 81.0,
+              "KeyValue": 253.25
+            }
+          },
+          {
+            "Position": 3546,
+            "Value": {
+              "KeyTime": 82.0,
+              "KeyValue": 256.25
+            }
+          },
+          {
+            "Position": 3554,
+            "Value": {
+              "KeyTime": 83.0,
+              "KeyValue": 259.5
+            }
+          },
+          {
+            "Position": 3562,
+            "Value": {
+              "KeyTime": 84.0,
+              "KeyValue": 262.5
+            }
+          },
+          {
+            "Position": 3570,
+            "Value": {
+              "KeyTime": 85.0,
+              "KeyValue": 265.75
+            }
+          },
+          {
+            "Position": 3578,
+            "Value": {
+              "KeyTime": 86.0,
+              "KeyValue": 268.75
+            }
+          },
+          {
+            "Position": 3586,
+            "Value": {
+              "KeyTime": 87.0,
+              "KeyValue": 272.0
+            }
+          },
+          {
+            "Position": 3594,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 275.0
+            }
+          },
+          {
+            "Position": 3602,
+            "Value": {
+              "KeyTime": 89.0,
+              "KeyValue": 278.25
+            }
+          },
+          {
+            "Position": 3610,
+            "Value": {
+              "KeyTime": 90.0,
+              "KeyValue": 281.25
+            }
+          },
+          {
+            "Position": 3618,
+            "Value": {
+              "KeyTime": 91.0,
+              "KeyValue": 284.5
+            }
+          },
+          {
+            "Position": 3626,
+            "Value": {
+              "KeyTime": 92.0,
+              "KeyValue": 287.5
+            }
+          },
+          {
+            "Position": 3634,
+            "Value": {
+              "KeyTime": 93.0,
+              "KeyValue": 290.75
+            }
+          },
+          {
+            "Position": 3642,
+            "Value": {
+              "KeyTime": 94.0,
+              "KeyValue": 293.75
+            }
+          },
+          {
+            "Position": 3650,
+            "Value": {
+              "KeyTime": 95.0,
+              "KeyValue": 297.0
+            }
+          },
+          {
+            "Position": 3658,
+            "Value": {
+              "KeyTime": 96.0,
+              "KeyValue": 300.0
+            }
+          },
+          {
+            "Position": 3666,
+            "Value": {
+              "KeyTime": 97.0,
+              "KeyValue": 303.25
+            }
+          },
+          {
+            "Position": 3674,
+            "Value": {
+              "KeyTime": 98.0,
+              "KeyValue": 306.25
+            }
+          },
+          {
+            "Position": 3682,
+            "Value": {
+              "KeyTime": 99.0,
+              "KeyValue": 309.5
+            }
+          },
+          {
+            "Position": 3690,
+            "Value": {
+              "KeyTime": 100.0,
+              "KeyValue": 312.5
+            }
+          },
+          {
+            "Position": 3698,
+            "Value": {
+              "KeyTime": 105.0,
+              "KeyValue": 328.25
+            }
+          },
+          {
+            "Position": 3706,
+            "Value": {
+              "KeyTime": 110.0,
+              "KeyValue": 343.75
+            }
+          },
+          {
+            "Position": 3714,
+            "Value": {
+              "KeyTime": 115.0,
+              "KeyValue": 359.5
+            }
+          },
+          {
+            "Position": 3722,
+            "Value": {
+              "KeyTime": 120.0,
+              "KeyValue": 375.0
+            }
+          },
+          {
+            "Position": 3730,
+            "Value": {
+              "KeyTime": 125.0,
+              "KeyValue": 390.75
+            }
+          },
+          {
+            "Position": 3738,
+            "Value": {
+              "KeyTime": 130.0,
+              "KeyValue": 406.25
+            }
+          },
+          {
+            "Position": 3746,
+            "Value": {
+              "KeyTime": 135.0,
+              "KeyValue": 422.0
+            }
+          },
+          {
+            "Position": 3754,
+            "Value": {
+              "KeyTime": 140.0,
+              "KeyValue": 437.5
+            }
+          },
+          {
+            "Position": 3762,
+            "Value": {
+              "KeyTime": 145.0,
+              "KeyValue": 453.25
+            }
+          },
+          {
+            "Position": 3770,
+            "Value": {
+              "KeyTime": 150.0,
+              "KeyValue": 468.75
+            }
+          },
+          {
+            "Position": 3778,
+            "Value": {
+              "KeyTime": 155.0,
+              "KeyValue": 484.5
+            }
+          },
+          {
+            "Position": 3786,
+            "Value": {
+              "KeyTime": 160.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 3794,
+            "Value": {
+              "KeyTime": 165.0,
+              "KeyValue": 515.75
+            }
+          },
+          {
+            "Position": 3802,
+            "Value": {
+              "KeyTime": 170.0,
+              "KeyValue": 531.25
+            }
+          },
+          {
+            "Position": 3810,
+            "Value": {
+              "KeyTime": 175.0,
+              "KeyValue": 547.0
+            }
+          },
+          {
+            "Position": 3818,
+            "Value": {
+              "KeyTime": 180.0,
+              "KeyValue": 562.5
+            }
+          },
+          {
+            "Position": 3826,
+            "Value": {
+              "KeyTime": 185.0,
+              "KeyValue": 578.25
+            }
+          },
+          {
+            "Position": 3834,
+            "Value": {
+              "KeyTime": 190.0,
+              "KeyValue": 593.75
+            }
+          },
+          {
+            "Position": 3842,
+            "Value": {
+              "KeyTime": 195.0,
+              "KeyValue": 609.5
+            }
+          },
+          {
+            "Position": 3850,
+            "Value": {
+              "KeyTime": 200.0,
+              "KeyValue": 625.0
+            }
+          },
+          {
+            "Position": 3858,
+            "Value": {
+              "KeyTime": 205.0,
+              "KeyValue": 640.75
+            }
+          },
+          {
+            "Position": 3866,
+            "Value": {
+              "KeyTime": 210.0,
+              "KeyValue": 656.25
+            }
+          },
+          {
+            "Position": 3874,
+            "Value": {
+              "KeyTime": 215.0,
+              "KeyValue": 672.0
+            }
+          },
+          {
+            "Position": 3882,
+            "Value": {
+              "KeyTime": 220.0,
+              "KeyValue": 687.5
+            }
+          },
+          {
+            "Position": 3890,
+            "Value": {
+              "KeyTime": 225.0,
+              "KeyValue": 703.25
+            }
+          },
+          {
+            "Position": 3898,
+            "Value": {
+              "KeyTime": 230.0,
+              "KeyValue": 718.75
+            }
+          },
+          {
+            "Position": 3906,
+            "Value": {
+              "KeyTime": 235.0,
+              "KeyValue": 734.5
+            }
+          },
+          {
+            "Position": 3914,
+            "Value": {
+              "KeyTime": 240.0,
+              "KeyValue": 750.0
+            }
+          },
+          {
+            "Position": 3922,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 31250.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3955,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3992,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 4033,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.Duration.OnPistolHeadshotBuffSwordCritRating": {
+      "InterpMode": {
+        "Position": 4090,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 4131,
+        "Value": [
+          {
+            "Position": 4184,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 4192,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 15.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4225,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4262,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 4303,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.OnKillDance.Cooldown": {
+      "InterpMode": {
+        "Position": 4360,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 4401,
+        "Value": [
+          {
+            "Position": 4454,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 4462,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.2
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4495,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4532,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 4573,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.OnKillDance.Duration": {
+      "InterpMode": {
+        "Position": 4630,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 4671,
+        "Value": [
+          {
+            "Position": 4724,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.6
+            }
+          },
+          {
+            "Position": 4732,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4765,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4802,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 4843,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.OnKillDance.Radius": {
+      "InterpMode": {
+        "Position": 4900,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 4941,
+        "Value": [
+          {
+            "Position": 4994,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 5002,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5035,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5072,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 5113,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.OnImpactBreakDance.Cooldown": {
+      "InterpMode": {
+        "Position": 5170,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 5211,
+        "Value": [
+          {
+            "Position": 5264,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 5272,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.2
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5305,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5342,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 5383,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.OnImpactBreakDance.Duration": {
+      "InterpMode": {
+        "Position": 5440,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 5481,
+        "Value": [
+          {
+            "Position": 5534,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.6
+            }
+          },
+          {
+            "Position": 5542,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5575,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5612,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 5653,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.OnImpactBreakDance.Radius": {
+      "InterpMode": {
+        "Position": 5710,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 5751,
+        "Value": [
+          {
+            "Position": 5804,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 5812,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5845,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5882,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 5923,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakDance.Cooldown": {
+      "InterpMode": {
+        "Position": 5980,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 6021,
+        "Value": [
+          {
+            "Position": 6074,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 6082,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.2
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6115,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6152,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 6193,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakDance.Radius": {
+      "InterpMode": {
+        "Position": 6250,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 6291,
+        "Value": [
+          {
+            "Position": 6344,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 6352,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6385,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6422,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 6463,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakDance.RequiredHitCount": {
+      "InterpMode": {
+        "Position": 6520,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 6561,
+        "Value": [
+          {
+            "Position": 6614,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 6622,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6655,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6692,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 6733,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakDance.StackDuration": {
+      "InterpMode": {
+        "Position": 6790,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 6831,
+        "Value": [
+          {
+            "Position": 6884,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 6892,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6925,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6962,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 7003,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDance.Cooldown": {
+      "InterpMode": {
+        "Position": 7060,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 7101,
+        "Value": [
+          {
+            "Position": 7154,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 7162,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.2
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7195,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7232,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 7273,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDance.Radius": {
+      "InterpMode": {
+        "Position": 7330,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 7371,
+        "Value": [
+          {
+            "Position": 7424,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 7432,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7465,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7502,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 7543,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDance.RequiredHitCount": {
+      "InterpMode": {
+        "Position": 7600,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 7641,
+        "Value": [
+          {
+            "Position": 7694,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 6.0
+            }
+          },
+          {
+            "Position": 7702,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 6.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7735,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7772,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 7813,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDance.StackDuration": {
+      "InterpMode": {
+        "Position": 7870,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 7911,
+        "Value": [
+          {
+            "Position": 7964,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 7972,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8005,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8042,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 8083,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Shared.OnHitStreakDance.Duration": {
+      "InterpMode": {
+        "Position": 8140,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 8181,
+        "Value": [
+          {
+            "Position": 8234,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.6
+            }
+          },
+          {
+            "Position": 8242,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8275,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8312,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 8353,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDanceAfflict.Cooldown": {
+      "InterpMode": {
+        "Position": 8410,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 8451,
+        "Value": [
+          {
+            "Position": 8504,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 8512,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.2
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8545,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8582,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 8623,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDanceAfflict.Radius": {
+      "InterpMode": {
+        "Position": 8680,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 8721,
+        "Value": [
+          {
+            "Position": 8774,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 8782,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8815,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8852,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 8893,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDanceAfflict.RequiredHitCount": {
+      "InterpMode": {
+        "Position": 8950,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 8991,
+        "Value": [
+          {
+            "Position": 9044,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 9052,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9085,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9122,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 9163,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDanceAfflict.StackDuration": {
+      "InterpMode": {
+        "Position": 9220,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 9261,
+        "Value": [
+          {
+            "Position": 9314,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 9322,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9355,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9392,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 9433,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Shared.OnHitStreakDanceAfflict.Duration": {
+      "InterpMode": {
+        "Position": 9490,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 9531,
+        "Value": [
+          {
+            "Position": 9584,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.6
+            }
+          },
+          {
+            "Position": 9592,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9625,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9662,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 9703,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDanceAfflict.TickDamage": {
+      "InterpMode": {
+        "Position": 9760,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 9801,
+        "Value": [
+          {
+            "Position": 9854,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 8.0
+            }
+          },
+          {
+            "Position": 9862,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 8.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9895,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9932,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 9973,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Shared.OnHitStreakDanceAfflict.TickPeriod": {
+      "InterpMode": {
+        "Position": 10030,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 10071,
+        "Value": [
+          {
+            "Position": 10124,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 10132,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10165,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10202,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 10243,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHitStreakDanceAfflict.ChanceToTrigger": {
+      "InterpMode": {
+        "Position": 10300,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 10341,
+        "Value": [
+          {
+            "Position": 10394,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.034
+            }
+          },
+          {
+            "Position": 10402,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.034
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10435,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10472,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 10513,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnKillSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 10570,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 10611,
+        "Value": [
+          {
+            "Position": 10664,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 10672,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10705,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10742,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 10783,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnKillSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 10840,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 10881,
+        "Value": [
+          {
+            "Position": 10934,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 256.0
+            }
+          },
+          {
+            "Position": 10942,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 256.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10975,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11012,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 11053,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnKillSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 11110,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 11151,
+        "Value": [
+          {
+            "Position": 11204,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.08
+            }
+          },
+          {
+            "Position": 11212,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.08
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11245,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11282,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 11323,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnKillSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 11380,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 11421,
+        "Value": [
+          {
+            "Position": 11474,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.66
+            }
+          },
+          {
+            "Position": 11482,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 25.66
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11515,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11552,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 11593,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnKillSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 11650,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 11691,
+        "Value": [
+          {
+            "Position": 11744,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.94
+            }
+          },
+          {
+            "Position": 11752,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 150.94
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11785,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11822,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 11863,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReloadSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 11920,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 11961,
+        "Value": [
+          {
+            "Position": 12014,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 12022,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12055,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12092,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 12133,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReloadSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 12190,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 12231,
+        "Value": [
+          {
+            "Position": 12284,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.125
+            }
+          },
+          {
+            "Position": 12292,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.125
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12325,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12362,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 12403,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReloadSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 12460,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 12501,
+        "Value": [
+          {
+            "Position": 12554,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 28.6
+            }
+          },
+          {
+            "Position": 12562,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 28.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12595,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12632,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 12673,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReloadSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 12730,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 12771,
+        "Value": [
+          {
+            "Position": 12824,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 131.93
+            }
+          },
+          {
+            "Position": 12832,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 131.93
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12865,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12902,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 12943,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReloadSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 13000,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 13041,
+        "Value": [
+          {
+            "Position": 13094,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 13102,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13135,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13172,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 13213,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnKillStreakSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 13270,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 13311,
+        "Value": [
+          {
+            "Position": 13364,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 13372,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13405,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13442,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 13483,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnKillStreakSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 13540,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 13581,
+        "Value": [
+          {
+            "Position": 13634,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.125
+            }
+          },
+          {
+            "Position": 13642,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.125
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13675,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13712,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 13753,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnKillStreakSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 13810,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 13851,
+        "Value": [
+          {
+            "Position": 13904,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 28.59
+            }
+          },
+          {
+            "Position": 13912,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 28.59
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13945,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13982,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 14023,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnKillStreakSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 14080,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 14121,
+        "Value": [
+          {
+            "Position": 14174,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 129.09
+            }
+          },
+          {
+            "Position": 14182,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 129.09
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14215,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14252,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 14293,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnKillStreakSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 14350,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 14391,
+        "Value": [
+          {
+            "Position": 14444,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.034
+            }
+          },
+          {
+            "Position": 14452,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.034
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14485,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14522,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 14563,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnImpactBreakSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 14620,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 14661,
+        "Value": [
+          {
+            "Position": 14714,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 14722,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14755,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14792,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 14833,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnImpactBreakSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 14890,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 14931,
+        "Value": [
+          {
+            "Position": 14984,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.125
+            }
+          },
+          {
+            "Position": 14992,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.125
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15025,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15062,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 15103,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnImpactBreakSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 15160,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 15201,
+        "Value": [
+          {
+            "Position": 15254,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 28.6
+            }
+          },
+          {
+            "Position": 15262,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 28.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15295,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15332,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 15373,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnImpactBreakSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 15430,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 15471,
+        "Value": [
+          {
+            "Position": 15524,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 126.61
+            }
+          },
+          {
+            "Position": 15532,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 126.61
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15565,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15602,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 15643,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnImpactBreakSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 15700,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 15741,
+        "Value": [
+          {
+            "Position": 15794,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 6.0
+            }
+          },
+          {
+            "Position": 15802,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 6.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15835,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15872,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 15913,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnImpactBreakSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 15970,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 16011,
+        "Value": [
+          {
+            "Position": 16064,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 16072,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 5.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16105,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16142,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 16183,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnImpactBreakSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 16240,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 16281,
+        "Value": [
+          {
+            "Position": 16334,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 256.0
+            }
+          },
+          {
+            "Position": 16342,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 256.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16375,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16412,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 16453,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnImpactBreakSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 16510,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 16551,
+        "Value": [
+          {
+            "Position": 16604,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.08
+            }
+          },
+          {
+            "Position": 16612,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.08
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16645,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16682,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 16723,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnImpactBreakSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 16780,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 16821,
+        "Value": [
+          {
+            "Position": 16874,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.67
+            }
+          },
+          {
+            "Position": 16882,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 25.67
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16915,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16952,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 16993,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnImpactBreakSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 17050,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 17091,
+        "Value": [
+          {
+            "Position": 17144,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 148.86
+            }
+          },
+          {
+            "Position": 17152,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 148.86
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17185,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17222,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 17263,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 17320,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 17361,
+        "Value": [
+          {
+            "Position": 17414,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 17422,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17455,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17492,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 17533,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 17590,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 17631,
+        "Value": [
+          {
+            "Position": 17684,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 256.0
+            }
+          },
+          {
+            "Position": 17692,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 256.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17725,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17762,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 17803,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 17860,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 17901,
+        "Value": [
+          {
+            "Position": 17954,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.08
+            }
+          },
+          {
+            "Position": 17962,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.08
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17995,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18032,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 18073,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 18130,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 18171,
+        "Value": [
+          {
+            "Position": 18224,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.66
+            }
+          },
+          {
+            "Position": 18232,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 25.66
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18265,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18302,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 18343,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 18400,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 18441,
+        "Value": [
+          {
+            "Position": 18494,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.94
+            }
+          },
+          {
+            "Position": 18502,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 150.94
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18535,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18572,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 18613,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Melee.OnHitStreakSpawnSparkBurst.HitsToTriggerThreshold": {
+      "InterpMode": {
+        "Position": 18670,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 18711,
+        "Value": [
+          {
+            "Position": 18764,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 18772,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18805,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18842,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 18883,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHeadshotSpawnSparkBurst.Radius": {
+      "InterpMode": {
+        "Position": 18940,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 18981,
+        "Value": [
+          {
+            "Position": 19034,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 384.0
+            }
+          },
+          {
+            "Position": 19042,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 384.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19075,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19112,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 19153,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHeadshotSpawnSparkBurst.PlayerDmgPctCurrentHP": {
+      "InterpMode": {
+        "Position": 19210,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 19251,
+        "Value": [
+          {
+            "Position": 19304,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.125
+            }
+          },
+          {
+            "Position": 19312,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.125
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19345,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19382,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 19423,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHeadshotSpawnSparkBurst.MinHuskDamage": {
+      "InterpMode": {
+        "Position": 19480,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 19521,
+        "Value": [
+          {
+            "Position": 19574,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 28.6
+            }
+          },
+          {
+            "Position": 19582,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 28.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19615,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19652,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 19693,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHeadshotSpawnSparkBurst.MaxHuskDamage": {
+      "InterpMode": {
+        "Position": 19750,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 19791,
+        "Value": [
+          {
+            "Position": 19844,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 133.4
+            }
+          },
+          {
+            "Position": 19852,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 133.4
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19885,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19922,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 19963,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHeadshotSpawnSparkBurst.Cooldown": {
+      "InterpMode": {
+        "Position": 20020,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 20061,
+        "Value": [
+          {
+            "Position": 20114,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 6.0
+            }
+          },
+          {
+            "Position": 20122,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 6.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20155,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20192,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 20233,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnHeadshotSpawnSparkBurst.HitsToTriggerThreshold": {
+      "InterpMode": {
+        "Position": 20290,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 20331,
+        "Value": [
+          {
+            "Position": 20384,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 20392,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 5.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20425,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20462,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 20503,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.Bow.OnKill.ChainLightning.Cooldown": {
+      "InterpMode": {
+        "Position": 20560,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 20601,
+        "Value": [
+          {
+            "Position": 20654,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 20662,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20695,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20732,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 20773,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.Bow.OnKill.ChainLightning.Bounces": {
+      "InterpMode": {
+        "Position": 20830,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 20871,
+        "Value": [
+          {
+            "Position": 20924,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 6.0
+            }
+          },
+          {
+            "Position": 20932,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 6.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20965,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21002,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 21043,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.Bow.OnKill.ChainLightning.Damage": {
+      "InterpMode": {
+        "Position": 21100,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 21141,
+        "Value": [
+          {
+            "Position": 21194,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 34.0
+            }
+          },
+          {
+            "Position": 21202,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 34.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21235,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21272,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 21313,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.MeleeOnImpactBreak.DealDamage.Damage": {
+      "InterpMode": {
+        "Position": 21370,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 21411,
+        "Value": [
+          {
+            "Position": 21464,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 11.81
+            }
+          },
+          {
+            "Position": 21472,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 11.81
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21505,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21542,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 21583,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.BunkerDown.DamageBuff.Stack": {
+      "InterpMode": {
+        "Position": 21640,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 21681,
+        "Value": [
+          {
+            "Position": 21734,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 21742,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 1.44
+            }
+          },
+          {
+            "Position": 21750,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 1.99
+            }
+          },
+          {
+            "Position": 21758,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 2.32
+            }
+          },
+          {
+            "Position": 21766,
+            "Value": {
+              "KeyTime": 13.0,
+              "KeyValue": 2.43
+            }
+          },
+          {
+            "Position": 21774,
+            "Value": {
+              "KeyTime": 17.0,
+              "KeyValue": 2.87
+            }
+          },
+          {
+            "Position": 21782,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 3.2
+            }
+          },
+          {
+            "Position": 21790,
+            "Value": {
+              "KeyTime": 23.0,
+              "KeyValue": 3.53
+            }
+          },
+          {
+            "Position": 21798,
+            "Value": {
+              "KeyTime": 24.0,
+              "KeyValue": 3.64
+            }
+          },
+          {
+            "Position": 21806,
+            "Value": {
+              "KeyTime": 26.0,
+              "KeyValue": 3.86
+            }
+          },
+          {
+            "Position": 21814,
+            "Value": {
+              "KeyTime": 27.0,
+              "KeyValue": 3.97
+            }
+          },
+          {
+            "Position": 21822,
+            "Value": {
+              "KeyTime": 30.0,
+              "KeyValue": 4.3
+            }
+          },
+          {
+            "Position": 21830,
+            "Value": {
+              "KeyTime": 37.0,
+              "KeyValue": 5.07
+            }
+          },
+          {
+            "Position": 21838,
+            "Value": {
+              "KeyTime": 38.0,
+              "KeyValue": 5.18
+            }
+          },
+          {
+            "Position": 21846,
+            "Value": {
+              "KeyTime": 41.0,
+              "KeyValue": 5.51
+            }
+          },
+          {
+            "Position": 21854,
+            "Value": {
+              "KeyTime": 48.0,
+              "KeyValue": 6.28
+            }
+          },
+          {
+            "Position": 21862,
+            "Value": {
+              "KeyTime": 49.0,
+              "KeyValue": 6.39
+            }
+          },
+          {
+            "Position": 21870,
+            "Value": {
+              "KeyTime": 51.0,
+              "KeyValue": 6.61
+            }
+          },
+          {
+            "Position": 21878,
+            "Value": {
+              "KeyTime": 52.0,
+              "KeyValue": 6.72
+            }
+          },
+          {
+            "Position": 21886,
+            "Value": {
+              "KeyTime": 55.0,
+              "KeyValue": 7.05
+            }
+          },
+          {
+            "Position": 21894,
+            "Value": {
+              "KeyTime": 62.0,
+              "KeyValue": 7.82
+            }
+          },
+          {
+            "Position": 21902,
+            "Value": {
+              "KeyTime": 63.0,
+              "KeyValue": 7.93
+            }
+          },
+          {
+            "Position": 21910,
+            "Value": {
+              "KeyTime": 68.0,
+              "KeyValue": 8.48
+            }
+          },
+          {
+            "Position": 21918,
+            "Value": {
+              "KeyTime": 71.0,
+              "KeyValue": 8.81
+            }
+          },
+          {
+            "Position": 21926,
+            "Value": {
+              "KeyTime": 73.0,
+              "KeyValue": 9.03
+            }
+          },
+          {
+            "Position": 21934,
+            "Value": {
+              "KeyTime": 74.0,
+              "KeyValue": 9.14
+            }
+          },
+          {
+            "Position": 21942,
+            "Value": {
+              "KeyTime": 76.0,
+              "KeyValue": 9.36
+            }
+          },
+          {
+            "Position": 21950,
+            "Value": {
+              "KeyTime": 77.0,
+              "KeyValue": 9.47
+            }
+          },
+          {
+            "Position": 21958,
+            "Value": {
+              "KeyTime": 79.0,
+              "KeyValue": 9.69
+            }
+          },
+          {
+            "Position": 21966,
+            "Value": {
+              "KeyTime": 80.0,
+              "KeyValue": 9.8
+            }
+          },
+          {
+            "Position": 21974,
+            "Value": {
+              "KeyTime": 84.0,
+              "KeyValue": 10.24
+            }
+          },
+          {
+            "Position": 21982,
+            "Value": {
+              "KeyTime": 90.0,
+              "KeyValue": 10.9
+            }
+          },
+          {
+            "Position": 21990,
+            "Value": {
+              "KeyTime": 95.0,
+              "KeyValue": 11.45
+            }
+          },
+          {
+            "Position": 21998,
+            "Value": {
+              "KeyTime": 96.0,
+              "KeyValue": 11.56
+            }
+          },
+          {
+            "Position": 22006,
+            "Value": {
+              "KeyTime": 98.0,
+              "KeyValue": 11.78
+            }
+          },
+          {
+            "Position": 22014,
+            "Value": {
+              "KeyTime": 99.0,
+              "KeyValue": 11.89
+            }
+          },
+          {
+            "Position": 22022,
+            "Value": {
+              "KeyTime": 135.0,
+              "KeyValue": 15.85
+            }
+          },
+          {
+            "Position": 22030,
+            "Value": {
+              "KeyTime": 140.0,
+              "KeyValue": 16.4
+            }
+          },
+          {
+            "Position": 22038,
+            "Value": {
+              "KeyTime": 165.0,
+              "KeyValue": 19.15
+            }
+          },
+          {
+            "Position": 22046,
+            "Value": {
+              "KeyTime": 190.0,
+              "KeyValue": 21.9
+            }
+          },
+          {
+            "Position": 22054,
+            "Value": {
+              "KeyTime": 215.0,
+              "KeyValue": 24.65
+            }
+          },
+          {
+            "Position": 22062,
+            "Value": {
+              "KeyTime": 450.0,
+              "KeyValue": 50.5
+            }
+          },
+          {
+            "Position": 22070,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 999.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 22103,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 22140,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 22181,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.BunkerDown.DamageBuff.Mist.Stack": {
+      "InterpMode": {
+        "Position": 22238,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 22279,
+        "Value": [
+          {
+            "Position": 22332,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 22340,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 1.17
+            }
+          },
+          {
+            "Position": 22348,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.34
+            }
+          },
+          {
+            "Position": 22356,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 1.68
+            }
+          },
+          {
+            "Position": 22364,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 1.85
+            }
+          },
+          {
+            "Position": 22372,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 2.36
+            }
+          },
+          {
+            "Position": 22380,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 2.7
+            }
+          },
+          {
+            "Position": 22388,
+            "Value": {
+              "KeyTime": 16.0,
+              "KeyValue": 3.72
+            }
+          },
+          {
+            "Position": 22396,
+            "Value": {
+              "KeyTime": 17.0,
+              "KeyValue": 3.89
+            }
+          },
+          {
+            "Position": 22404,
+            "Value": {
+              "KeyTime": 21.0,
+              "KeyValue": 4.57
+            }
+          },
+          {
+            "Position": 22412,
+            "Value": {
+              "KeyTime": 28.0,
+              "KeyValue": 5.76
+            }
+          },
+          {
+            "Position": 22420,
+            "Value": {
+              "KeyTime": 29.0,
+              "KeyValue": 5.93
+            }
+          },
+          {
+            "Position": 22428,
+            "Value": {
+              "KeyTime": 34.0,
+              "KeyValue": 6.78
+            }
+          },
+          {
+            "Position": 22436,
+            "Value": {
+              "KeyTime": 40.0,
+              "KeyValue": 7.8
+            }
+          },
+          {
+            "Position": 22444,
+            "Value": {
+              "KeyTime": 41.0,
+              "KeyValue": 7.97
+            }
+          },
+          {
+            "Position": 22452,
+            "Value": {
+              "KeyTime": 43.0,
+              "KeyValue": 8.31
+            }
+          },
+          {
+            "Position": 22460,
+            "Value": {
+              "KeyTime": 56.0,
+              "KeyValue": 10.52
+            }
+          },
+          {
+            "Position": 22468,
+            "Value": {
+              "KeyTime": 57.0,
+              "KeyValue": 10.69
+            }
+          },
+          {
+            "Position": 22476,
+            "Value": {
+              "KeyTime": 68.0,
+              "KeyValue": 12.56
+            }
+          },
+          {
+            "Position": 22484,
+            "Value": {
+              "KeyTime": 81.0,
+              "KeyValue": 14.77
+            }
+          },
+          {
+            "Position": 22492,
+            "Value": {
+              "KeyTime": 82.0,
+              "KeyValue": 14.94
+            }
+          },
+          {
+            "Position": 22500,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 15.96
+            }
+          },
+          {
+            "Position": 22508,
+            "Value": {
+              "KeyTime": 110.0,
+              "KeyValue": 19.7
+            }
+          },
+          {
+            "Position": 22516,
+            "Value": {
+              "KeyTime": 135.0,
+              "KeyValue": 23.95
+            }
+          },
+          {
+            "Position": 22524,
+            "Value": {
+              "KeyTime": 160.0,
+              "KeyValue": 28.2
+            }
+          },
+          {
+            "Position": 22532,
+            "Value": {
+              "KeyTime": 190.0,
+              "KeyValue": 33.3
+            }
+          },
+          {
+            "Position": 22540,
+            "Value": {
+              "KeyTime": 215.0,
+              "KeyValue": 37.55
+            }
+          },
+          {
+            "Position": 22548,
+            "Value": {
+              "KeyTime": 450.0,
+              "KeyValue": 77.5
+            }
+          },
+          {
+            "Position": 22556,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 999.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 22589,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 22626,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 22667,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.BunkerDown.GrantPct.Shield": {
+      "InterpMode": {
+        "Position": 22724,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 22765,
+        "Value": [
+          {
+            "Position": 22818,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 22826,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 22834,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 22842,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.4
+            }
+          },
+          {
+            "Position": 22850,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 0.7
+            }
+          },
+          {
+            "Position": 22858,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 0.8
+            }
+          },
+          {
+            "Position": 22866,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 1.2
+            }
+          },
+          {
+            "Position": 22874,
+            "Value": {
+              "KeyTime": 17.0,
+              "KeyValue": 1.7
+            }
+          },
+          {
+            "Position": 22882,
+            "Value": {
+              "KeyTime": 21.0,
+              "KeyValue": 2.1
+            }
+          },
+          {
+            "Position": 22890,
+            "Value": {
+              "KeyTime": 22.0,
+              "KeyValue": 2.2
+            }
+          },
+          {
+            "Position": 22898,
+            "Value": {
+              "KeyTime": 23.0,
+              "KeyValue": 2.3
+            }
+          },
+          {
+            "Position": 22906,
+            "Value": {
+              "KeyTime": 28.0,
+              "KeyValue": 2.8
+            }
+          },
+          {
+            "Position": 22914,
+            "Value": {
+              "KeyTime": 33.0,
+              "KeyValue": 3.3
+            }
+          },
+          {
+            "Position": 22922,
+            "Value": {
+              "KeyTime": 38.0,
+              "KeyValue": 3.8
+            }
+          },
+          {
+            "Position": 22930,
+            "Value": {
+              "KeyTime": 42.0,
+              "KeyValue": 4.2
+            }
+          },
+          {
+            "Position": 22938,
+            "Value": {
+              "KeyTime": 47.0,
+              "KeyValue": 4.7
+            }
+          },
+          {
+            "Position": 22946,
+            "Value": {
+              "KeyTime": 52.0,
+              "KeyValue": 5.2
+            }
+          },
+          {
+            "Position": 22954,
+            "Value": {
+              "KeyTime": 57.0,
+              "KeyValue": 5.7
+            }
+          },
+          {
+            "Position": 22962,
+            "Value": {
+              "KeyTime": 62.0,
+              "KeyValue": 6.2
+            }
+          },
+          {
+            "Position": 22970,
+            "Value": {
+              "KeyTime": 67.0,
+              "KeyValue": 6.7
+            }
+          },
+          {
+            "Position": 22978,
+            "Value": {
+              "KeyTime": 72.0,
+              "KeyValue": 7.2
+            }
+          },
+          {
+            "Position": 22986,
+            "Value": {
+              "KeyTime": 77.0,
+              "KeyValue": 7.7
+            }
+          },
+          {
+            "Position": 22994,
+            "Value": {
+              "KeyTime": 81.0,
+              "KeyValue": 8.1
+            }
+          },
+          {
+            "Position": 23002,
+            "Value": {
+              "KeyTime": 82.0,
+              "KeyValue": 8.2
+            }
+          },
+          {
+            "Position": 23010,
+            "Value": {
+              "KeyTime": 83.0,
+              "KeyValue": 8.3
+            }
+          },
+          {
+            "Position": 23018,
+            "Value": {
+              "KeyTime": 88.0,
+              "KeyValue": 8.8
+            }
+          },
+          {
+            "Position": 23026,
+            "Value": {
+              "KeyTime": 93.0,
+              "KeyValue": 9.3
+            }
+          },
+          {
+            "Position": 23034,
+            "Value": {
+              "KeyTime": 98.0,
+              "KeyValue": 9.8
+            }
+          },
+          {
+            "Position": 23042,
+            "Value": {
+              "KeyTime": 450.0,
+              "KeyValue": 45.0
+            }
+          },
+          {
+            "Position": 23050,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 999.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23083,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23120,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 23161,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReload.DamageBuff": {
+      "InterpMode": {
+        "Position": 23218,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 23259,
+        "Value": [
+          {
+            "Position": 23312,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.017
+            }
+          },
+          {
+            "Position": 23320,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1.017
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23353,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23390,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 23431,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReload.DamageBuffStack": {
+      "InterpMode": {
+        "Position": 23488,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 23529,
+        "Value": [
+          {
+            "Position": 23582,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.16
+            }
+          },
+          {
+            "Position": 23590,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1.16
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23623,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23660,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 23701,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReload.ReloadBuff": {
+      "InterpMode": {
+        "Position": 23758,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 23799,
+        "Value": [
+          {
+            "Position": 23852,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.01
+            }
+          },
+          {
+            "Position": 23860,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1.01
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23893,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23930,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 23971,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnFire.DamageBuffStack": {
+      "InterpMode": {
+        "Position": 24028,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 24069,
+        "Value": [
+          {
+            "Position": 24122,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.15
+            }
+          },
+          {
+            "Position": 24130,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 1.15
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 24200,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 24241,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReload.Explode.Damage": {
+      "InterpMode": {
+        "Position": 24298,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 24339,
+        "Value": [
+          {
+            "Position": 24392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.65
+            }
+          },
+          {
+            "Position": 24400,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 0.65
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24433,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 24470,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 24511,
+        "Value": 101
+      }
+    },
+    "Alteration.Weapon.Ranged.OnReload.Explode.Radius": {
+      "InterpMode": {
+        "Position": 24568,
+        "Value": 102
+      },
+      "Keys": {
+        "Position": 24609,
+        "Value": [
+          {
+            "Position": 24662,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 256.0
+            }
+          },
+          {
+            "Position": 24670,
+            "Value": {
+              "KeyTime": 10000.0,
+              "KeyValue": 256.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24703,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 24740,
+        "Value": 101
+      },
+      "PostInfinityExtrap": {
+        "Position": 24781,
+        "Value": 101
+      }
+    }
+  }
+]

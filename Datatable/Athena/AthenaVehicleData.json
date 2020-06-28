@@ -1,0 +1,525 @@
+[
+  {
+    "Default.Vehicle.ShoppingCart.RumbleMultiplier": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 201,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 238,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 279,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.ScreenShakeMult": {
+      "InterpMode": {
+        "Position": 336,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 377,
+        "Value": [
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 438,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 446,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 479,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 516,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 557,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.RearVectorThreshold": {
+      "InterpMode": {
+        "Position": 614,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 655,
+        "Value": [
+          {
+            "Position": 708,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 716,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 724,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 757,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 794,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 835,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.ImpulsePower": {
+      "InterpMode": {
+        "Position": 892,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 933,
+        "Value": [
+          {
+            "Position": 986,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 994,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1002,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1035,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1072,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 1113,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.CanLaunchPlayer": {
+      "InterpMode": {
+        "Position": 1170,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 1211,
+        "Value": [
+          {
+            "Position": 1264,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 1272,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1280,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1313,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1350,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 1391,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.CanDestroyProp": {
+      "InterpMode": {
+        "Position": 1448,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 1489,
+        "Value": [
+          {
+            "Position": 1542,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 1550,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1558,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1591,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1628,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 1669,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.HitPlayer.RequiredVelocity": {
+      "InterpMode": {
+        "Position": 1726,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 1767,
+        "Value": [
+          {
+            "Position": 1820,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 530.0
+            }
+          },
+          {
+            "Position": 1828,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1836,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1869,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1906,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 1947,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.HitPlayer.LateralImpulseMultiplier": {
+      "InterpMode": {
+        "Position": 2004,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 2045,
+        "Value": [
+          {
+            "Position": 2098,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.3
+            }
+          },
+          {
+            "Position": 2106,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2114,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2147,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2184,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 2225,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.HitPlayer.ZImpulseMultiplier": {
+      "InterpMode": {
+        "Position": 2282,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 2323,
+        "Value": [
+          {
+            "Position": 2376,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.7
+            }
+          },
+          {
+            "Position": 2384,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2392,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2425,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2462,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 2503,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.HitPlayer.MaxImpulseVelocity": {
+      "InterpMode": {
+        "Position": 2560,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 2601,
+        "Value": [
+          {
+            "Position": 2654,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 2662,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2670,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2703,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2740,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 2781,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.ShoppingCart.HitProp.MaxHealthToDestroy": {
+      "InterpMode": {
+        "Position": 2838,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 2879,
+        "Value": [
+          {
+            "Position": 2932,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 2940,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2948,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2981,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3018,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 3059,
+        "Value": 31
+      }
+    },
+    "Default.Vehicle.Octopus.DamageResistance": {
+      "InterpMode": {
+        "Position": 3116,
+        "Value": 32
+      },
+      "Keys": {
+        "Position": 3157,
+        "Value": [
+          {
+            "Position": 3210,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3218,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3251,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3288,
+        "Value": 31
+      },
+      "PostInfinityExtrap": {
+        "Position": 3329,
+        "Value": 31
+      }
+    }
+  }
+]

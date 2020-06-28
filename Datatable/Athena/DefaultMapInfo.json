@@ -1,0 +1,1592 @@
+[
+  null,
+  {
+    "GoldenPoiPercents": {
+      "Position": 158,
+      "Value": {
+        "Curve": {
+          "Position": 207,
+          "Value": {
+            "CurveTable": {
+              "Position": 232,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 261,
+              "Value": {
+                "String": "Default.GoldenPoi.Percents"
+              }
+            }
+          }
+        }
+      }
+    },
+    "GoldenPoiPercentOfSelectedAtBusPathEnd": {
+      "Position": 334,
+      "Value": {
+        "Curve": {
+          "Position": 383,
+          "Value": {
+            "CurveTable": {
+              "Position": 408,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 437,
+              "Value": {
+                "String": "Default.GoldenPoi.PercentOfSelectedAtBusPathEnd"
+              }
+            }
+          }
+        }
+      }
+    },
+    "GoldenPoiDistanceAroundBusPathEnd": {
+      "Position": 510,
+      "Value": {
+        "Curve": {
+          "Position": 559,
+          "Value": {
+            "CurveTable": {
+              "Position": 584,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 613,
+              "Value": {
+                "String": "Default.GoldenPoi.GoldenPoiDistanceAroundBusPathEnd"
+              }
+            }
+          }
+        }
+      }
+    },
+    "GoldenPoiDistanceMustBeAwayFromBusPath": {
+      "Position": 686,
+      "Value": {
+        "Curve": {
+          "Position": 735,
+          "Value": {
+            "CurveTable": {
+              "Position": 760,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 789,
+              "Value": {
+                "String": "Default.GoldenPoi.GoldenPoiDistanceMustBeAwayFromBusPath"
+              }
+            }
+          }
+        }
+      }
+    },
+    "TreasureChestSpawnInfos": {
+      "Position": 846,
+      "Value": [
+        {
+          "Position": 899,
+          "Value": {
+            "TreasureChestClass": {
+              "Position": 924,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "Tiered_Chest_Athena_C"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Building/ActorBlueprints/Containers/Tiered_Chest_Athena"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "TreasureChestMinSpawnPercent": {
+              "Position": 977,
+              "Value": {
+                "Value": {
+                  "Position": 1002,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1055,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1080,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1109,
+                      "Value": {
+                        "String": "Default.TreasureChest.MinSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "TreasureChestMaxSpawnPercent": {
+              "Position": 1182,
+              "Value": {
+                "Value": {
+                  "Position": 1207,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1260,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1285,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1314,
+                      "Value": {
+                        "String": "Default.TreasureChest.MaxSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiTreasureChestMinSpawnPercent": {
+              "Position": 1387,
+              "Value": {
+                "Value": {
+                  "Position": 1412,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1465,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1490,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1519,
+                      "Value": {
+                        "String": "Default.TreasureChest.GoldenPoi.MinSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiTreasureChestMaxSpawnPercent": {
+              "Position": 1592,
+              "Value": {
+                "Value": {
+                  "Position": 1617,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1670,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1695,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1724,
+                      "Value": {
+                        "String": "Default.TreasureChest.GoldenPoi.MaxSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 1756,
+          "Value": {
+            "TreasureChestClass": {
+              "Position": 1781,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "Tiered_Chest_Athena_FactionChest_C"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Building/ActorBlueprints/Containers/Tiered_Chest_Athena_FactionChest"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "TreasureChestMinSpawnPercent": {
+              "Position": 1834,
+              "Value": {
+                "Value": {
+                  "Position": 1859,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1912,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1937,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1966,
+                      "Value": {
+                        "String": "Default.FactionTreasure.MinSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "TreasureChestMaxSpawnPercent": {
+              "Position": 2039,
+              "Value": {
+                "Value": {
+                  "Position": 2064,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 2117,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2142,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2171,
+                      "Value": {
+                        "String": "Default.FactionTreasure.MaxSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiTreasureChestMinSpawnPercent": {
+              "Position": 2244,
+              "Value": {
+                "Value": {
+                  "Position": 2269,
+                  "Value": 0.0
+                },
+                "Curve": {
+                  "Position": 2322,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2347,
+                      "Value": {
+                        "Resource": null
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2376,
+                      "Value": {
+                        "String": "None"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiTreasureChestMaxSpawnPercent": {
+              "Position": 2449,
+              "Value": {
+                "Value": {
+                  "Position": 2474,
+                  "Value": 0.0
+                },
+                "Curve": {
+                  "Position": 2527,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2552,
+                      "Value": {
+                        "Resource": null
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2581,
+                      "Value": {
+                        "String": "None"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 2613,
+          "Value": {
+            "TreasureChestClass": {
+              "Position": 2638,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "Tiered_Chest_Athena_FactionChest_NoLocks_C"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Building/ActorBlueprints/Containers/Tiered_Chest_Athena_FactionChest_NoLocks"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "TreasureChestMinSpawnPercent": {
+              "Position": 2691,
+              "Value": {
+                "Value": {
+                  "Position": 2716,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 2769,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2794,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2823,
+                      "Value": {
+                        "String": "Default.FactionTreasure.MinSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "TreasureChestMaxSpawnPercent": {
+              "Position": 2896,
+              "Value": {
+                "Value": {
+                  "Position": 2921,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 2974,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2999,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 3028,
+                      "Value": {
+                        "String": "Default.FactionTreasure.MaxSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiTreasureChestMinSpawnPercent": {
+              "Position": 3101,
+              "Value": {
+                "Value": {
+                  "Position": 3126,
+                  "Value": 0.0
+                },
+                "Curve": {
+                  "Position": 3179,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 3204,
+                      "Value": {
+                        "Resource": null
+                      }
+                    },
+                    "RowName": {
+                      "Position": 3233,
+                      "Value": {
+                        "String": "None"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiTreasureChestMaxSpawnPercent": {
+              "Position": 3306,
+              "Value": {
+                "Value": {
+                  "Position": 3331,
+                  "Value": 0.0
+                },
+                "Curve": {
+                  "Position": 3384,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 3409,
+                      "Value": {
+                        "Resource": null
+                      }
+                    },
+                    "RowName": {
+                      "Position": 3438,
+                      "Value": {
+                        "String": "None"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "AmmoBoxSpawnInfos": {
+      "Position": 3503,
+      "Value": [
+        {
+          "Position": 3556,
+          "Value": {
+            "AmmoBoxClass": {
+              "Position": 3581,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "Tiered_Ammo_Athena_C"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Building/ActorBlueprints/Containers/Tiered_Ammo_Athena"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "AmmoBoxMinSpawnPercent": {
+              "Position": 3634,
+              "Value": {
+                "Value": {
+                  "Position": 3659,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 3712,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 3737,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 3766,
+                      "Value": {
+                        "String": "Default.AmmoBox.MinSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "AmmoBoxMaxSpawnPercent": {
+              "Position": 3839,
+              "Value": {
+                "Value": {
+                  "Position": 3864,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 3917,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 3942,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 3971,
+                      "Value": {
+                        "String": "Default.AmmoBox.MaxSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiAmmoBoxMinSpawnPercent": {
+              "Position": 4044,
+              "Value": {
+                "Value": {
+                  "Position": 4069,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 4122,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 4147,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 4176,
+                      "Value": {
+                        "String": "Default.AmmoBox.GoldenPoi.MinSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "GoldenPoiAmmoBoxMaxSpawnPercent": {
+              "Position": 4249,
+              "Value": {
+                "Value": {
+                  "Position": 4274,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 4327,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 4352,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 4381,
+                      "Value": {
+                        "String": "Default.AmmoBox.GoldenPoi.MaxSpawnPercent"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "VendingMachineClass": {
+      "Position": 4438,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "B_Athena_VendingMachine_C"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Game/Athena/Items/Gameplay/VendingMachine/B_Athena_VendingMachine"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "VendingMachineRarityCount": {
+      "Position": 4491,
+      "Value": {
+        "Value": {
+          "Position": 4516,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 4569,
+          "Value": {
+            "CurveTable": {
+              "Position": 4594,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 4623,
+              "Value": {
+                "String": "Default.VendingMachine.RarityWeights"
+              }
+            }
+          }
+        }
+      }
+    },
+    "WeaponUpgradeMachineClass": {
+      "Position": 4672,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "B_Athena_Wumba_C"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Game/Athena/Items/Gameplay/Wumba/B_Athena_Wumba"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "WeaponUpgradeMachineSpawnChance": {
+      "Position": 4725,
+      "Value": {
+        "Value": {
+          "Position": 4750,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 4803,
+          "Value": {
+            "CurveTable": {
+              "Position": 4828,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 4857,
+              "Value": {
+                "String": "Default.Wumba.SpawnChance"
+              }
+            }
+          }
+        }
+      }
+    },
+    "LlamaClass": {
+      "Position": 4906,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "AthenaSupplyDrop_Llama_C"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Game/Athena/SupplyDrops/Llama/AthenaSupplyDrop_Llama"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "LlamaQuantityMin": {
+      "Position": 4959,
+      "Value": {
+        "Value": {
+          "Position": 4984,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 5037,
+          "Value": {
+            "CurveTable": {
+              "Position": 5062,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 5091,
+              "Value": {
+                "String": "Default.Llamas.QuantityMin"
+              }
+            }
+          }
+        }
+      }
+    },
+    "LlamaQuantityMax": {
+      "Position": 5164,
+      "Value": {
+        "Value": {
+          "Position": 5189,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 5242,
+          "Value": {
+            "CurveTable": {
+              "Position": 5267,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 5296,
+              "Value": {
+                "String": "Default.Llamas.QuantityMax"
+              }
+            }
+          }
+        }
+      }
+    },
+    "SupplyDropInfoList": {
+      "Position": 5353,
+      "Value": [
+        {
+          "Position": 5357,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "DefaultSupplyDrop"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Balance/MapInfos/DefaultSupplyDrop"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "SupplyDropMinPlacementHeight": {
+      "Position": 5410,
+      "Value": {
+        "Value": {
+          "Position": 5435,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 5488,
+          "Value": {
+            "CurveTable": {
+              "Position": 5513,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 5542,
+              "Value": {
+                "String": "Default.SupplyDrop.MinPlacementHeight"
+              }
+            }
+          }
+        }
+      }
+    },
+    "SupplyDropMaxPlacementHeight": {
+      "Position": 5615,
+      "Value": {
+        "Value": {
+          "Position": 5640,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 5693,
+          "Value": {
+            "CurveTable": {
+              "Position": 5718,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 5747,
+              "Value": {
+                "String": "Default.SupplyDrop.MaxPlacementHeight"
+              }
+            }
+          }
+        }
+      }
+    },
+    "AircraftClass": {
+      "Position": 5796,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "AthenaAircraft_C"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Game/Athena/Aircraft/AthenaAircraft"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "AircraftSpawnZone": {
+      "Position": 5849,
+      "Value": {
+        "Min": {
+          "X": -150000.0,
+          "Y": -150000.0
+        },
+        "Max": {
+          "X": 150000.0,
+          "Y": 150000.0
+        },
+        "bIsValid": true
+      }
+    },
+    "AircraftDropZone": {
+      "Position": 5915,
+      "Value": {
+        "Min": {
+          "X": -80000.0,
+          "Y": -80000.0
+        },
+        "Max": {
+          "X": 80000.0,
+          "Y": 80000.0
+        },
+        "bIsValid": true
+      }
+    },
+    "SkydivingScanForImpactWorldZ": {
+      "Position": 5981,
+      "Value": {
+        "Value": {
+          "Position": 6006,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 6059,
+          "Value": {
+            "CurveTable": {
+              "Position": 6084,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 6113,
+              "Value": {
+                "String": "Default.Skydiving.ScanForImpactWorldZ"
+              }
+            }
+          }
+        }
+      }
+    },
+    "SkydivingForceDeployParachuteWorldZ": {
+      "Position": 6186,
+      "Value": {
+        "Value": {
+          "Position": 6211,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 6264,
+          "Value": {
+            "CurveTable": {
+              "Position": 6289,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 6318,
+              "Value": {
+                "String": "Default.Skydiving.ForceDeployParachuteWorldZ"
+              }
+            }
+          }
+        }
+      }
+    },
+    "AircraftDeviationAngle": {
+      "Position": 6391,
+      "Value": {
+        "Value": {
+          "Position": 6416,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 6469,
+          "Value": {
+            "CurveTable": {
+              "Position": 6494,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 6523,
+              "Value": {
+                "String": "Default.Aircraft.DeviationAngle"
+              }
+            }
+          }
+        }
+      }
+    },
+    "AircraftDistanceFromMidLine": {
+      "Position": 6596,
+      "Value": {
+        "Value": {
+          "Position": 6621,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 6674,
+          "Value": {
+            "CurveTable": {
+              "Position": 6699,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 6728,
+              "Value": {
+                "String": "Default.Aircraft.DistanceFromMidLine"
+              }
+            }
+          }
+        }
+      }
+    },
+    "AircraftHeight": {
+      "Position": 6801,
+      "Value": {
+        "Value": {
+          "Position": 6826,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 6879,
+          "Value": {
+            "CurveTable": {
+              "Position": 6904,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 6933,
+              "Value": {
+                "String": "Default.Aircraft.Height"
+              }
+            }
+          }
+        }
+      }
+    },
+    "AircraftSpeed": {
+      "Position": 7006,
+      "Value": {
+        "Value": {
+          "Position": 7031,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 7084,
+          "Value": {
+            "CurveTable": {
+              "Position": 7109,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 7138,
+              "Value": {
+                "String": "Default.Aircraft.Speed"
+              }
+            }
+          }
+        }
+      }
+    },
+    "SafeZoneStartDelay": {
+      "Position": 7211,
+      "Value": {
+        "Value": {
+          "Position": 7236,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 7289,
+          "Value": {
+            "CurveTable": {
+              "Position": 7314,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 7343,
+              "Value": {
+                "String": "Default.SafeZone.StartDelay"
+              }
+            }
+          }
+        }
+      }
+    },
+    "SafeZoneStartingRadius": {
+      "Position": 7416,
+      "Value": {
+        "Value": {
+          "Position": 7441,
+          "Value": 1.0
+        },
+        "Curve": {
+          "Position": 7494,
+          "Value": {
+            "CurveTable": {
+              "Position": 7519,
+              "Value": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": {
+                      "ObjectName": {
+                        "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                      },
+                      "OuterIndex": {
+                        "Resource": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "RowName": {
+              "Position": 7548,
+              "Value": {
+                "String": "Default.SafeZone.StartingRadius"
+              }
+            }
+          }
+        }
+      }
+    },
+    "RootComponent": {
+      "Position": 7597,
+      "Value": {
+        "Resource": null
+      }
+    }
+  },
+  {},
+  {},
+  {
+    "ComponentClass": {
+      "Position": 7658,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "SceneComponent"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Script/Engine"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "ComponentTemplate": {
+      "Position": 7687,
+      "Value": {
+        "Resource": null
+      }
+    },
+    "VariableGuid": {
+      "Position": 7740,
+      "Value": {
+        "Hex": "2728450385-1253874878-48418464-1700094858"
+      }
+    },
+    "InternalVariableName": {
+      "Position": 7781,
+      "Value": {
+        "String": "DefaultSceneRoot"
+      }
+    }
+  },
+  {
+    "DefaultSceneRootNode": {
+      "Position": 7826,
+      "Value": {
+        "Resource": null
+      }
+    }
+  }
+]

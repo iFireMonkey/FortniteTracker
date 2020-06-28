@@ -1,0 +1,988 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "ImportTest.Weapons"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": null
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 156,
+        "Value": {
+          "String": "Event.Weapons.WeaponSwitch"
+        }
+      },
+      "DevComment": {
+        "Position": 189,
+        "Value": null
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 234,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Sword.1"
+        }
+      },
+      "DevComment": {
+        "Position": 267,
+        "Value": null
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 312,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Sword.2"
+        }
+      },
+      "DevComment": {
+        "Position": 345,
+        "Value": null
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 390,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Sword.3"
+        }
+      },
+      "DevComment": {
+        "Position": 423,
+        "Value": null
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 468,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Sword.4"
+        }
+      },
+      "DevComment": {
+        "Position": 501,
+        "Value": null
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 546,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Sword.5"
+        }
+      },
+      "DevComment": {
+        "Position": 579,
+        "Value": null
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 624,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Hammer.1"
+        }
+      },
+      "DevComment": {
+        "Position": 657,
+        "Value": null
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 702,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Hammer.2"
+        }
+      },
+      "DevComment": {
+        "Position": 735,
+        "Value": null
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 780,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Hammer.3"
+        }
+      },
+      "DevComment": {
+        "Position": 813,
+        "Value": null
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 858,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Hammer.4"
+        }
+      },
+      "DevComment": {
+        "Position": 891,
+        "Value": null
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 936,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Hammer.5"
+        }
+      },
+      "DevComment": {
+        "Position": 969,
+        "Value": null
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1014,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Axe.1"
+        }
+      },
+      "DevComment": {
+        "Position": 1047,
+        "Value": null
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1092,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Axe.2"
+        }
+      },
+      "DevComment": {
+        "Position": 1125,
+        "Value": null
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1170,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Axe.3"
+        }
+      },
+      "DevComment": {
+        "Position": 1203,
+        "Value": null
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1248,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Axe.4"
+        }
+      },
+      "DevComment": {
+        "Position": 1281,
+        "Value": null
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1326,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Axe.5"
+        }
+      },
+      "DevComment": {
+        "Position": 1359,
+        "Value": null
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 1404,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo"
+        }
+      },
+      "DevComment": {
+        "Position": 1437,
+        "Value": null
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 1482,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Sword"
+        }
+      },
+      "DevComment": {
+        "Position": 1515,
+        "Value": "Sword Heavy Attack Energy Cost"
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 1591,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Hammer"
+        }
+      },
+      "DevComment": {
+        "Position": 1624,
+        "Value": "Hammer Heavy Attack Energy Cost"
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 1701,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Axe"
+        }
+      },
+      "DevComment": {
+        "Position": 1734,
+        "Value": "Axe Heavy Attack Energy Cost"
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 1808,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Spear"
+        }
+      },
+      "DevComment": {
+        "Position": 1841,
+        "Value": "Spear Heavy Attack Energy Cost"
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 1917,
+        "Value": {
+          "String": "Event.Weapons.Reload"
+        }
+      },
+      "DevComment": {
+        "Position": 1950,
+        "Value": null
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 1995,
+        "Value": {
+          "String": "CosmeticMod.Elemental.Fire"
+        }
+      },
+      "DevComment": {
+        "Position": 2028,
+        "Value": null
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 2073,
+        "Value": {
+          "String": "CosmeticMod.Elemental.Ice"
+        }
+      },
+      "DevComment": {
+        "Position": 2106,
+        "Value": null
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 2151,
+        "Value": {
+          "String": "CosmeticMod.Elemental.Lightning"
+        }
+      },
+      "DevComment": {
+        "Position": 2184,
+        "Value": null
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 2229,
+        "Value": {
+          "String": "CosmeticMod.Elemental.Energy"
+        }
+      },
+      "DevComment": {
+        "Position": 2262,
+        "Value": null
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 2307,
+        "Value": {
+          "String": "Weapon.Hydraulic"
+        }
+      },
+      "DevComment": {
+        "Position": 2340,
+        "Value": "Tag to support quests with Hydraulic Weapons"
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 2430,
+        "Value": {
+          "String": "WeaponSet.Flintlock"
+        }
+      },
+      "DevComment": {
+        "Position": 2463,
+        "Value": "Tag to support quests with Flintlock Weapons"
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 2553,
+        "Value": {
+          "String": "WeaponSet.Scavenger"
+        }
+      },
+      "DevComment": {
+        "Position": 2586,
+        "Value": "Tag to support quests with Scavenger Weapons"
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 2676,
+        "Value": {
+          "String": "WeaponSet.VacuumTube"
+        }
+      },
+      "DevComment": {
+        "Position": 2709,
+        "Value": "Tag to support quests with Vacuum Tube Weapons"
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 2801,
+        "Value": {
+          "String": "WeaponSet.Vindertech"
+        }
+      },
+      "DevComment": {
+        "Position": 2834,
+        "Value": "Tag to support quests with Vindertech Weapons"
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 2925,
+        "Value": {
+          "String": "weapon"
+        }
+      },
+      "DevComment": {
+        "Position": 2958,
+        "Value": "All Weapons"
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 3015,
+        "Value": {
+          "String": "weapon.melee"
+        }
+      },
+      "DevComment": {
+        "Position": 3048,
+        "Value": "Melee Weapons"
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 3107,
+        "Value": {
+          "String": "weapon.melee.blunt"
+        }
+      },
+      "DevComment": {
+        "Position": 3140,
+        "Value": "Blunt Melee Weapons"
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 3205,
+        "Value": {
+          "String": "Weapon.Melee.Blunt.Hammer"
+        }
+      },
+      "DevComment": {
+        "Position": 3238,
+        "Value": "Hammer Blunt Weapons"
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 3304,
+        "Value": {
+          "String": "Weapon.Melee.Blunt.Improvised"
+        }
+      },
+      "DevComment": {
+        "Position": 3337,
+        "Value": "Improvised Blunt Weapons"
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 3407,
+        "Value": {
+          "String": "Weapon.Melee.Blunt.Staff"
+        }
+      },
+      "DevComment": {
+        "Position": 3440,
+        "Value": "Staff Blunt Weapons"
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 3505,
+        "Value": {
+          "String": "weapon.melee.edged"
+        }
+      },
+      "DevComment": {
+        "Position": 3538,
+        "Value": "Edged Melee Weapons"
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 3603,
+        "Value": {
+          "String": "Weapon.Melee.Edged.Axe"
+        }
+      },
+      "DevComment": {
+        "Position": 3636,
+        "Value": "Axe Edged Weapons"
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 3699,
+        "Value": {
+          "String": "Weapon.Melee.Edged.Scythe"
+        }
+      },
+      "DevComment": {
+        "Position": 3732,
+        "Value": "Scythe Edged Weapons"
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 3798,
+        "Value": {
+          "String": "Weapon.Melee.Edged.Sword"
+        }
+      },
+      "DevComment": {
+        "Position": 3831,
+        "Value": "Sword Edged Weapons"
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 3896,
+        "Value": {
+          "String": "Weapon.melee.harvest"
+        }
+      },
+      "DevComment": {
+        "Position": 3929,
+        "Value": "Delete This Tag Later"
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 3996,
+        "Value": {
+          "String": "Weapon.Melee.Impact"
+        }
+      },
+      "DevComment": {
+        "Position": 4029,
+        "Value": "Harvesting Weapons"
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 4093,
+        "Value": {
+          "String": "Weapon.Melee.Impact.Pickaxe"
+        }
+      },
+      "DevComment": {
+        "Position": 4126,
+        "Value": "Pickaxe Harvesting Weapons"
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 4198,
+        "Value": {
+          "String": "Weapon.Melee.Impact.Stick"
+        }
+      },
+      "DevComment": {
+        "Position": 4231,
+        "Value": "Stick Harvesting Weapons"
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 4301,
+        "Value": {
+          "String": "Weapon.Melee.Piercing"
+        }
+      },
+      "DevComment": {
+        "Position": 4334,
+        "Value": "Piercing Weapons"
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 4396,
+        "Value": {
+          "String": "Weapon.Melee.Piercing.Lance"
+        }
+      },
+      "DevComment": {
+        "Position": 4429,
+        "Value": "Lance Piercing Weapons"
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 4497,
+        "Value": {
+          "String": "Weapon.Melee.Piercing.PoleArm"
+        }
+      },
+      "DevComment": {
+        "Position": 4530,
+        "Value": "PoleArm Piercing Weapons"
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 4600,
+        "Value": {
+          "String": "Weapon.Melee.Piercing.Spear"
+        }
+      },
+      "DevComment": {
+        "Position": 4633,
+        "Value": "Spear Piercing Weapons"
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 4701,
+        "Value": {
+          "String": "Weapon.Melee.Energy"
+        }
+      },
+      "DevComment": {
+        "Position": 4734,
+        "Value": "Energy Melee Weapons"
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 4800,
+        "Value": {
+          "String": "weapon.ranged"
+        }
+      },
+      "DevComment": {
+        "Position": 4833,
+        "Value": "Ranged Weapons"
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 4893,
+        "Value": {
+          "String": "weapon.ranged.assault"
+        }
+      },
+      "DevComment": {
+        "Position": 4926,
+        "Value": "Assault Weapons"
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 4987,
+        "Value": {
+          "String": "weapon.ranged.assault.standard"
+        }
+      },
+      "DevComment": {
+        "Position": 5020,
+        "Value": "Assault Weapons Standard"
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 5090,
+        "Value": {
+          "String": "weapon.ranged.assault.burst"
+        }
+      },
+      "DevComment": {
+        "Position": 5123,
+        "Value": "Assault Weapons Burst"
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 5190,
+        "Value": {
+          "String": "weapon.ranged.assault.silenced"
+        }
+      },
+      "DevComment": {
+        "Position": 5223,
+        "Value": "Assault Weapons Silenced"
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 5293,
+        "Value": {
+          "String": "Weapon.ranged.assault.semiauto"
+        }
+      },
+      "DevComment": {
+        "Position": 5326,
+        "Value": "Delete This Tag Later"
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 5393,
+        "Value": {
+          "String": "weapon.ranged.heavy"
+        }
+      },
+      "DevComment": {
+        "Position": 5426,
+        "Value": "Heavy Ranged Weapons"
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 5492,
+        "Value": {
+          "String": "Weapon.ranged.heavy.grenade"
+        }
+      },
+      "DevComment": {
+        "Position": 5525,
+        "Value": "Delete This Tag Later"
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 5592,
+        "Value": {
+          "String": "weapon.ranged.heavy.grenade_launcher"
+        }
+      },
+      "DevComment": {
+        "Position": 5625,
+        "Value": "Grenade Launchers"
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 5688,
+        "Value": {
+          "String": "weapon.ranged.heavy.rocket_launcher"
+        }
+      },
+      "DevComment": {
+        "Position": 5721,
+        "Value": "Rocket Launchers"
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 5783,
+        "Value": {
+          "String": "Weapon.ranged.grenade.impulse"
+        }
+      },
+      "DevComment": {
+        "Position": 5816,
+        "Value": "Impulse grenade"
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 5877,
+        "Value": {
+          "String": "weapon.ranged.pistol"
+        }
+      },
+      "DevComment": {
+        "Position": 5910,
+        "Value": "Pistols"
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 5963,
+        "Value": {
+          "String": "weapon.ranged.shotgun"
+        }
+      },
+      "DevComment": {
+        "Position": 5996,
+        "Value": "Shotguns"
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 6050,
+        "Value": {
+          "String": "Weapon.ranged.Shotgun.Break"
+        }
+      },
+      "DevComment": {
+        "Position": 6083,
+        "Value": "Delete This Tag Later"
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 6150,
+        "Value": {
+          "String": "weapon.ranged.sniper"
+        }
+      },
+      "DevComment": {
+        "Position": 6183,
+        "Value": "Sniper Rifles"
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 6242,
+        "Value": {
+          "String": "weapon.ranged.sniper.hunting"
+        }
+      },
+      "DevComment": {
+        "Position": 6275,
+        "Value": "Sniper Rifles Hunting"
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 6342,
+        "Value": {
+          "String": "weapon.ranged.sniper.bolt"
+        }
+      },
+      "DevComment": {
+        "Position": 6375,
+        "Value": "Sniper Rifles Bolt"
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 6439,
+        "Value": {
+          "String": "weapon.ranged.sniper.heavy"
+        }
+      },
+      "DevComment": {
+        "Position": 6472,
+        "Value": "Sniper Rifles Heavy"
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 6537,
+        "Value": {
+          "String": "Weapon.Ranged.Energy"
+        }
+      },
+      "DevComment": {
+        "Position": 6570,
+        "Value": "Ranged Energy Weapons"
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 6637,
+        "Value": {
+          "String": "Weapon.Ranged.Crossbow"
+        }
+      },
+      "DevComment": {
+        "Position": 6670,
+        "Value": "Crossbow"
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 6724,
+        "Value": {
+          "String": "Weapon.Ranged.Heavy.Minigun"
+        }
+      },
+      "DevComment": {
+        "Position": 6757,
+        "Value": "athena minigun"
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 6817,
+        "Value": {
+          "String": "Weapon.Ranged.Heavy.LMG"
+        }
+      },
+      "DevComment": {
+        "Position": 6850,
+        "Value": "Athena Light MachineGun"
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 6919,
+        "Value": {
+          "String": "Weapon.Meta.Suppressed"
+        }
+      },
+      "DevComment": {
+        "Position": 6952,
+        "Value": "Athena meta sorting by similar attribute or behavior"
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 7050,
+        "Value": {
+          "String": "Event.Weapons.Fire"
+        }
+      },
+      "DevComment": {
+        "Position": 7083,
+        "Value": "Called when the primary fire ability is triggered"
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 7178,
+        "Value": {
+          "String": "WeaponSet.NeonGlow"
+        }
+      },
+      "DevComment": {
+        "Position": 7211,
+        "Value": "Tag to support quests with Neon Glow Weapons"
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 7301,
+        "Value": {
+          "String": "Event.Weapons.EggLauncher.Fire"
+        }
+      },
+      "DevComment": {
+        "Position": 7334,
+        "Value": "Called when the egg launcher fired a projectile"
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 7427,
+        "Value": {
+          "String": "Event.Weapons.EggLauncher.Destroy"
+        }
+      },
+      "DevComment": {
+        "Position": 7460,
+        "Value": "Called when the egg launcher should destroy all active eggs"
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 7565,
+        "Value": {
+          "String": "WeaponSet.Military"
+        }
+      },
+      "DevComment": {
+        "Position": 7598,
+        "Value": "Tag to support quests with Military Weapons"
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 7687,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.Bat"
+        }
+      },
+      "DevComment": {
+        "Position": 7720,
+        "Value": "Tag for baseball bat heavy attack GA"
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 7802,
+        "Value": {
+          "String": "Abilities.Weapons.Melee.Combo.GolfClub"
+        }
+      },
+      "DevComment": {
+        "Position": 7835,
+        "Value": "Tag for golf club heavy attack GA"
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 7914,
+        "Value": {
+          "String": "WeaponSet.RatRod"
+        }
+      },
+      "DevComment": {
+        "Position": 7947,
+        "Value": "Tag to support quests for Rat Rod Weapon set"
+      }
+    }
+  }
+]

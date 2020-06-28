@@ -1,0 +1,42 @@
+[
+  {
+    "Keep_Ammo": {
+      "Max1": {
+        "Position": 1186,
+        "Value": 6
+      },
+      "Cooldown1": {
+        "Position": 1215,
+        "Value": 13
+      },
+      "Max2": {
+        "Position": 1244,
+        "Value": 7
+      },
+      "Cooldown2": {
+        "Position": 1273,
+        "Value": 11
+      },
+      "Max3": {
+        "Position": 1302,
+        "Value": 7
+      },
+      "Cooldown3": {
+        "Position": 1331,
+        "Value": 9
+      },
+      "Max4": {
+        "Position": 1360,
+        "Value": 8
+      },
+      "Cooldown4": {
+        "Position": 1389,
+        "Value": 7
+      },
+      "PickupTier": {
+        "Position": 1418,
+        "Value": 5
+      }
+    }
+  }
+]

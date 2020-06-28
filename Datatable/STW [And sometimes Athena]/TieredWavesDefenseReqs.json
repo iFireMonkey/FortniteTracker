@@ -1,0 +1,310 @@
+[
+  {
+    "LegacyOutpostWaveLength": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 104.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 193,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 230,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 271,
+        "Value": 24
+      }
+    },
+    "LegacyOutpostNumKills": {
+      "InterpMode": {
+        "Position": 328,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 369,
+        "Value": [
+          {
+            "Position": 422,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 104.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 463,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 500,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 541,
+        "Value": 24
+      }
+    },
+    "HordeNumKills": {
+      "InterpMode": {
+        "Position": 598,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 639,
+        "Value": [
+          {
+            "Position": 692,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 700,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 708,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 150.0
+            }
+          },
+          {
+            "Position": 716,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 150.0
+            }
+          },
+          {
+            "Position": 724,
+            "Value": {
+              "KeyTime": 21.0,
+              "KeyValue": 200.0
+            }
+          },
+          {
+            "Position": 732,
+            "Value": {
+              "KeyTime": 30.0,
+              "KeyValue": 200.0
+            }
+          },
+          {
+            "Position": 740,
+            "Value": {
+              "KeyTime": 31.0,
+              "KeyValue": 250.0
+            }
+          },
+          {
+            "Position": 748,
+            "Value": {
+              "KeyTime": 104.0,
+              "KeyValue": 250.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 781,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 818,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 859,
+        "Value": 24
+      }
+    },
+    "HordeWaveLength": {
+      "InterpMode": {
+        "Position": 916,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 957,
+        "Value": [
+          {
+            "Position": 1010,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 120.0
+            }
+          },
+          {
+            "Position": 1018,
+            "Value": {
+              "KeyTime": 104.0,
+              "KeyValue": 120.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1051,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1088,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1129,
+        "Value": 24
+      }
+    },
+    "HordeNumKillPoints": {
+      "InterpMode": {
+        "Position": 1186,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 1227,
+        "Value": [
+          {
+            "Position": 1280,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 2000.0
+            }
+          },
+          {
+            "Position": 1288,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 2000.0
+            }
+          },
+          {
+            "Position": 1296,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 1304,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 1312,
+            "Value": {
+              "KeyTime": 21.0,
+              "KeyValue": 4000.0
+            }
+          },
+          {
+            "Position": 1320,
+            "Value": {
+              "KeyTime": 30.0,
+              "KeyValue": 4000.0
+            }
+          },
+          {
+            "Position": 1328,
+            "Value": {
+              "KeyTime": 31.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 1336,
+            "Value": {
+              "KeyTime": 104.0,
+              "KeyValue": 5000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1369,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1406,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1447,
+        "Value": 24
+      }
+    },
+    "EndlessWaveLength": {
+      "InterpMode": {
+        "Position": 1504,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 1545,
+        "Value": [
+          {
+            "Position": 1598,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 1606,
+            "Value": {
+              "KeyTime": 104.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1639,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1676,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1717,
+        "Value": 24
+      }
+    }
+  }
+]

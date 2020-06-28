@@ -1,0 +1,76 @@
+[
+  {
+    "Theater_Start_Outpost1_Override": {
+      "MissionName": {
+        "Position": 267,
+        "Value": "Theater_Start_Outpost1"
+      },
+      "OverrideRewardsTag": {
+        "Position": 319,
+        "Value": "Endurance"
+      },
+      "LootLevel": {
+        "Position": 358,
+        "Value": 0
+      },
+      "LootTierGroup": {
+        "Position": 387,
+        "Value": "Endurance_Select_Theater1"
+      }
+    },
+    "Theater_Normal_Outpost1_Override": {
+      "MissionName": {
+        "Position": 648,
+        "Value": "Theater_Normal_Outpost1"
+      },
+      "OverrideRewardsTag": {
+        "Position": 701,
+        "Value": "Endurance"
+      },
+      "LootLevel": {
+        "Position": 740,
+        "Value": 0
+      },
+      "LootTierGroup": {
+        "Position": 769,
+        "Value": "Endurance_Select_Theater2"
+      }
+    },
+    "Theater_Hard_Outpost1_Override": {
+      "MissionName": {
+        "Position": 1028,
+        "Value": "Theater_Hard_Outpost1"
+      },
+      "OverrideRewardsTag": {
+        "Position": 1079,
+        "Value": "Endurance"
+      },
+      "LootLevel": {
+        "Position": 1118,
+        "Value": 0
+      },
+      "LootTierGroup": {
+        "Position": 1147,
+        "Value": "Endurance_Select_Theater3"
+      }
+    },
+    "Theater_Nightmare_Outpost1_Override": {
+      "MissionName": {
+        "Position": 1411,
+        "Value": "Theater_Nightmare_Outpost1"
+      },
+      "OverrideRewardsTag": {
+        "Position": 1467,
+        "Value": "Endurance"
+      },
+      "LootLevel": {
+        "Position": 1506,
+        "Value": 0
+      },
+      "LootTierGroup": {
+        "Position": 1535,
+        "Value": "Endurance_Select_Theater4"
+      }
+    }
+  }
+]

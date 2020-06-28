@@ -1,0 +1,1390 @@
+[
+  {
+    "1": {
+      "Level": {
+        "Position": 78,
+        "Value": 1
+      },
+      "XpToNextLevel": {
+        "Position": 107,
+        "Value": 40000
+      },
+      "XpTotal": {
+        "Position": 136,
+        "Value": 0
+      }
+    },
+    "2": {
+      "Level": {
+        "Position": 181,
+        "Value": 2
+      },
+      "XpToNextLevel": {
+        "Position": 210,
+        "Value": 40000
+      },
+      "XpTotal": {
+        "Position": 239,
+        "Value": 40000
+      }
+    },
+    "3": {
+      "Level": {
+        "Position": 284,
+        "Value": 3
+      },
+      "XpToNextLevel": {
+        "Position": 313,
+        "Value": 40000
+      },
+      "XpTotal": {
+        "Position": 342,
+        "Value": 80000
+      }
+    },
+    "4": {
+      "Level": {
+        "Position": 387,
+        "Value": 4
+      },
+      "XpToNextLevel": {
+        "Position": 416,
+        "Value": 50000
+      },
+      "XpTotal": {
+        "Position": 445,
+        "Value": 120000
+      }
+    },
+    "5": {
+      "Level": {
+        "Position": 490,
+        "Value": 5
+      },
+      "XpToNextLevel": {
+        "Position": 519,
+        "Value": 50000
+      },
+      "XpTotal": {
+        "Position": 548,
+        "Value": 170000
+      }
+    },
+    "6": {
+      "Level": {
+        "Position": 593,
+        "Value": 6
+      },
+      "XpToNextLevel": {
+        "Position": 622,
+        "Value": 50000
+      },
+      "XpTotal": {
+        "Position": 651,
+        "Value": 220000
+      }
+    },
+    "7": {
+      "Level": {
+        "Position": 696,
+        "Value": 7
+      },
+      "XpToNextLevel": {
+        "Position": 725,
+        "Value": 60000
+      },
+      "XpTotal": {
+        "Position": 754,
+        "Value": 270000
+      }
+    },
+    "8": {
+      "Level": {
+        "Position": 799,
+        "Value": 8
+      },
+      "XpToNextLevel": {
+        "Position": 828,
+        "Value": 60000
+      },
+      "XpTotal": {
+        "Position": 857,
+        "Value": 330000
+      }
+    },
+    "9": {
+      "Level": {
+        "Position": 902,
+        "Value": 9
+      },
+      "XpToNextLevel": {
+        "Position": 931,
+        "Value": 60000
+      },
+      "XpTotal": {
+        "Position": 960,
+        "Value": 390000
+      }
+    },
+    "10": {
+      "Level": {
+        "Position": 1005,
+        "Value": 10
+      },
+      "XpToNextLevel": {
+        "Position": 1034,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1063,
+        "Value": 450000
+      }
+    },
+    "11": {
+      "Level": {
+        "Position": 1108,
+        "Value": 11
+      },
+      "XpToNextLevel": {
+        "Position": 1137,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1166,
+        "Value": 520000
+      }
+    },
+    "12": {
+      "Level": {
+        "Position": 1211,
+        "Value": 12
+      },
+      "XpToNextLevel": {
+        "Position": 1240,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1269,
+        "Value": 590000
+      }
+    },
+    "13": {
+      "Level": {
+        "Position": 1314,
+        "Value": 13
+      },
+      "XpToNextLevel": {
+        "Position": 1343,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1372,
+        "Value": 660000
+      }
+    },
+    "14": {
+      "Level": {
+        "Position": 1417,
+        "Value": 14
+      },
+      "XpToNextLevel": {
+        "Position": 1446,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1475,
+        "Value": 730000
+      }
+    },
+    "15": {
+      "Level": {
+        "Position": 1520,
+        "Value": 15
+      },
+      "XpToNextLevel": {
+        "Position": 1549,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1578,
+        "Value": 800000
+      }
+    },
+    "16": {
+      "Level": {
+        "Position": 1623,
+        "Value": 16
+      },
+      "XpToNextLevel": {
+        "Position": 1652,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1681,
+        "Value": 870000
+      }
+    },
+    "17": {
+      "Level": {
+        "Position": 1726,
+        "Value": 17
+      },
+      "XpToNextLevel": {
+        "Position": 1755,
+        "Value": 70000
+      },
+      "XpTotal": {
+        "Position": 1784,
+        "Value": 940000
+      }
+    },
+    "18": {
+      "Level": {
+        "Position": 1829,
+        "Value": 18
+      },
+      "XpToNextLevel": {
+        "Position": 1858,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 1887,
+        "Value": 1010000
+      }
+    },
+    "19": {
+      "Level": {
+        "Position": 1932,
+        "Value": 19
+      },
+      "XpToNextLevel": {
+        "Position": 1961,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 1990,
+        "Value": 1090000
+      }
+    },
+    "20": {
+      "Level": {
+        "Position": 2035,
+        "Value": 20
+      },
+      "XpToNextLevel": {
+        "Position": 2064,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2093,
+        "Value": 1170000
+      }
+    },
+    "21": {
+      "Level": {
+        "Position": 2138,
+        "Value": 21
+      },
+      "XpToNextLevel": {
+        "Position": 2167,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2196,
+        "Value": 1250000
+      }
+    },
+    "22": {
+      "Level": {
+        "Position": 2241,
+        "Value": 22
+      },
+      "XpToNextLevel": {
+        "Position": 2270,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2299,
+        "Value": 1330000
+      }
+    },
+    "23": {
+      "Level": {
+        "Position": 2344,
+        "Value": 23
+      },
+      "XpToNextLevel": {
+        "Position": 2373,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2402,
+        "Value": 1410000
+      }
+    },
+    "24": {
+      "Level": {
+        "Position": 2447,
+        "Value": 24
+      },
+      "XpToNextLevel": {
+        "Position": 2476,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2505,
+        "Value": 1490000
+      }
+    },
+    "25": {
+      "Level": {
+        "Position": 2550,
+        "Value": 25
+      },
+      "XpToNextLevel": {
+        "Position": 2579,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2608,
+        "Value": 1570000
+      }
+    },
+    "26": {
+      "Level": {
+        "Position": 2653,
+        "Value": 26
+      },
+      "XpToNextLevel": {
+        "Position": 2682,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2711,
+        "Value": 1650000
+      }
+    },
+    "27": {
+      "Level": {
+        "Position": 2756,
+        "Value": 27
+      },
+      "XpToNextLevel": {
+        "Position": 2785,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2814,
+        "Value": 1730000
+      }
+    },
+    "28": {
+      "Level": {
+        "Position": 2859,
+        "Value": 28
+      },
+      "XpToNextLevel": {
+        "Position": 2888,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 2917,
+        "Value": 1810000
+      }
+    },
+    "29": {
+      "Level": {
+        "Position": 2962,
+        "Value": 29
+      },
+      "XpToNextLevel": {
+        "Position": 2991,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3020,
+        "Value": 1890000
+      }
+    },
+    "30": {
+      "Level": {
+        "Position": 3065,
+        "Value": 30
+      },
+      "XpToNextLevel": {
+        "Position": 3094,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3123,
+        "Value": 1970000
+      }
+    },
+    "31": {
+      "Level": {
+        "Position": 3168,
+        "Value": 31
+      },
+      "XpToNextLevel": {
+        "Position": 3197,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3226,
+        "Value": 2050000
+      }
+    },
+    "32": {
+      "Level": {
+        "Position": 3271,
+        "Value": 32
+      },
+      "XpToNextLevel": {
+        "Position": 3300,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3329,
+        "Value": 2130000
+      }
+    },
+    "33": {
+      "Level": {
+        "Position": 3374,
+        "Value": 33
+      },
+      "XpToNextLevel": {
+        "Position": 3403,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3432,
+        "Value": 2210000
+      }
+    },
+    "34": {
+      "Level": {
+        "Position": 3477,
+        "Value": 34
+      },
+      "XpToNextLevel": {
+        "Position": 3506,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3535,
+        "Value": 2290000
+      }
+    },
+    "35": {
+      "Level": {
+        "Position": 3580,
+        "Value": 35
+      },
+      "XpToNextLevel": {
+        "Position": 3609,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3638,
+        "Value": 2370000
+      }
+    },
+    "36": {
+      "Level": {
+        "Position": 3683,
+        "Value": 36
+      },
+      "XpToNextLevel": {
+        "Position": 3712,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3741,
+        "Value": 2450000
+      }
+    },
+    "37": {
+      "Level": {
+        "Position": 3786,
+        "Value": 37
+      },
+      "XpToNextLevel": {
+        "Position": 3815,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3844,
+        "Value": 2530000
+      }
+    },
+    "38": {
+      "Level": {
+        "Position": 3889,
+        "Value": 38
+      },
+      "XpToNextLevel": {
+        "Position": 3918,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 3947,
+        "Value": 2610000
+      }
+    },
+    "39": {
+      "Level": {
+        "Position": 3992,
+        "Value": 39
+      },
+      "XpToNextLevel": {
+        "Position": 4021,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4050,
+        "Value": 2690000
+      }
+    },
+    "40": {
+      "Level": {
+        "Position": 4095,
+        "Value": 40
+      },
+      "XpToNextLevel": {
+        "Position": 4124,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4153,
+        "Value": 2770000
+      }
+    },
+    "41": {
+      "Level": {
+        "Position": 4198,
+        "Value": 41
+      },
+      "XpToNextLevel": {
+        "Position": 4227,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4256,
+        "Value": 2850000
+      }
+    },
+    "42": {
+      "Level": {
+        "Position": 4301,
+        "Value": 42
+      },
+      "XpToNextLevel": {
+        "Position": 4330,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4359,
+        "Value": 2930000
+      }
+    },
+    "43": {
+      "Level": {
+        "Position": 4404,
+        "Value": 43
+      },
+      "XpToNextLevel": {
+        "Position": 4433,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4462,
+        "Value": 3010000
+      }
+    },
+    "44": {
+      "Level": {
+        "Position": 4507,
+        "Value": 44
+      },
+      "XpToNextLevel": {
+        "Position": 4536,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4565,
+        "Value": 3090000
+      }
+    },
+    "45": {
+      "Level": {
+        "Position": 4610,
+        "Value": 45
+      },
+      "XpToNextLevel": {
+        "Position": 4639,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4668,
+        "Value": 3170000
+      }
+    },
+    "46": {
+      "Level": {
+        "Position": 4713,
+        "Value": 46
+      },
+      "XpToNextLevel": {
+        "Position": 4742,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4771,
+        "Value": 3250000
+      }
+    },
+    "47": {
+      "Level": {
+        "Position": 4816,
+        "Value": 47
+      },
+      "XpToNextLevel": {
+        "Position": 4845,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4874,
+        "Value": 3330000
+      }
+    },
+    "48": {
+      "Level": {
+        "Position": 4919,
+        "Value": 48
+      },
+      "XpToNextLevel": {
+        "Position": 4948,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 4977,
+        "Value": 3410000
+      }
+    },
+    "49": {
+      "Level": {
+        "Position": 5022,
+        "Value": 49
+      },
+      "XpToNextLevel": {
+        "Position": 5051,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5080,
+        "Value": 3490000
+      }
+    },
+    "50": {
+      "Level": {
+        "Position": 5125,
+        "Value": 50
+      },
+      "XpToNextLevel": {
+        "Position": 5154,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5183,
+        "Value": 3570000
+      }
+    },
+    "51": {
+      "Level": {
+        "Position": 5228,
+        "Value": 51
+      },
+      "XpToNextLevel": {
+        "Position": 5257,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5286,
+        "Value": 3650000
+      }
+    },
+    "52": {
+      "Level": {
+        "Position": 5331,
+        "Value": 52
+      },
+      "XpToNextLevel": {
+        "Position": 5360,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5389,
+        "Value": 3730000
+      }
+    },
+    "53": {
+      "Level": {
+        "Position": 5434,
+        "Value": 53
+      },
+      "XpToNextLevel": {
+        "Position": 5463,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5492,
+        "Value": 3810000
+      }
+    },
+    "54": {
+      "Level": {
+        "Position": 5537,
+        "Value": 54
+      },
+      "XpToNextLevel": {
+        "Position": 5566,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5595,
+        "Value": 3890000
+      }
+    },
+    "55": {
+      "Level": {
+        "Position": 5640,
+        "Value": 55
+      },
+      "XpToNextLevel": {
+        "Position": 5669,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5698,
+        "Value": 3970000
+      }
+    },
+    "56": {
+      "Level": {
+        "Position": 5743,
+        "Value": 56
+      },
+      "XpToNextLevel": {
+        "Position": 5772,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5801,
+        "Value": 4050000
+      }
+    },
+    "57": {
+      "Level": {
+        "Position": 5846,
+        "Value": 57
+      },
+      "XpToNextLevel": {
+        "Position": 5875,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 5904,
+        "Value": 4130000
+      }
+    },
+    "58": {
+      "Level": {
+        "Position": 5949,
+        "Value": 58
+      },
+      "XpToNextLevel": {
+        "Position": 5978,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6007,
+        "Value": 4210000
+      }
+    },
+    "59": {
+      "Level": {
+        "Position": 6052,
+        "Value": 59
+      },
+      "XpToNextLevel": {
+        "Position": 6081,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6110,
+        "Value": 4290000
+      }
+    },
+    "60": {
+      "Level": {
+        "Position": 6155,
+        "Value": 60
+      },
+      "XpToNextLevel": {
+        "Position": 6184,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6213,
+        "Value": 4370000
+      }
+    },
+    "61": {
+      "Level": {
+        "Position": 6258,
+        "Value": 61
+      },
+      "XpToNextLevel": {
+        "Position": 6287,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6316,
+        "Value": 4450000
+      }
+    },
+    "62": {
+      "Level": {
+        "Position": 6361,
+        "Value": 62
+      },
+      "XpToNextLevel": {
+        "Position": 6390,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6419,
+        "Value": 4530000
+      }
+    },
+    "63": {
+      "Level": {
+        "Position": 6464,
+        "Value": 63
+      },
+      "XpToNextLevel": {
+        "Position": 6493,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6522,
+        "Value": 4610000
+      }
+    },
+    "64": {
+      "Level": {
+        "Position": 6567,
+        "Value": 64
+      },
+      "XpToNextLevel": {
+        "Position": 6596,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6625,
+        "Value": 4690000
+      }
+    },
+    "65": {
+      "Level": {
+        "Position": 6670,
+        "Value": 65
+      },
+      "XpToNextLevel": {
+        "Position": 6699,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6728,
+        "Value": 4770000
+      }
+    },
+    "66": {
+      "Level": {
+        "Position": 6773,
+        "Value": 66
+      },
+      "XpToNextLevel": {
+        "Position": 6802,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6831,
+        "Value": 4850000
+      }
+    },
+    "67": {
+      "Level": {
+        "Position": 6876,
+        "Value": 67
+      },
+      "XpToNextLevel": {
+        "Position": 6905,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 6934,
+        "Value": 4930000
+      }
+    },
+    "68": {
+      "Level": {
+        "Position": 6979,
+        "Value": 68
+      },
+      "XpToNextLevel": {
+        "Position": 7008,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7037,
+        "Value": 5010000
+      }
+    },
+    "69": {
+      "Level": {
+        "Position": 7082,
+        "Value": 69
+      },
+      "XpToNextLevel": {
+        "Position": 7111,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7140,
+        "Value": 5090000
+      }
+    },
+    "70": {
+      "Level": {
+        "Position": 7185,
+        "Value": 70
+      },
+      "XpToNextLevel": {
+        "Position": 7214,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7243,
+        "Value": 5170000
+      }
+    },
+    "71": {
+      "Level": {
+        "Position": 7288,
+        "Value": 71
+      },
+      "XpToNextLevel": {
+        "Position": 7317,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7346,
+        "Value": 5250000
+      }
+    },
+    "72": {
+      "Level": {
+        "Position": 7391,
+        "Value": 72
+      },
+      "XpToNextLevel": {
+        "Position": 7420,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7449,
+        "Value": 5330000
+      }
+    },
+    "73": {
+      "Level": {
+        "Position": 7494,
+        "Value": 73
+      },
+      "XpToNextLevel": {
+        "Position": 7523,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7552,
+        "Value": 5410000
+      }
+    },
+    "74": {
+      "Level": {
+        "Position": 7597,
+        "Value": 74
+      },
+      "XpToNextLevel": {
+        "Position": 7626,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7655,
+        "Value": 5490000
+      }
+    },
+    "75": {
+      "Level": {
+        "Position": 7700,
+        "Value": 75
+      },
+      "XpToNextLevel": {
+        "Position": 7729,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7758,
+        "Value": 5570000
+      }
+    },
+    "76": {
+      "Level": {
+        "Position": 7803,
+        "Value": 76
+      },
+      "XpToNextLevel": {
+        "Position": 7832,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7861,
+        "Value": 5650000
+      }
+    },
+    "77": {
+      "Level": {
+        "Position": 7906,
+        "Value": 77
+      },
+      "XpToNextLevel": {
+        "Position": 7935,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 7964,
+        "Value": 5730000
+      }
+    },
+    "78": {
+      "Level": {
+        "Position": 8009,
+        "Value": 78
+      },
+      "XpToNextLevel": {
+        "Position": 8038,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8067,
+        "Value": 5810000
+      }
+    },
+    "79": {
+      "Level": {
+        "Position": 8112,
+        "Value": 79
+      },
+      "XpToNextLevel": {
+        "Position": 8141,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8170,
+        "Value": 5890000
+      }
+    },
+    "80": {
+      "Level": {
+        "Position": 8215,
+        "Value": 80
+      },
+      "XpToNextLevel": {
+        "Position": 8244,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8273,
+        "Value": 5970000
+      }
+    },
+    "81": {
+      "Level": {
+        "Position": 8318,
+        "Value": 81
+      },
+      "XpToNextLevel": {
+        "Position": 8347,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8376,
+        "Value": 6050000
+      }
+    },
+    "82": {
+      "Level": {
+        "Position": 8421,
+        "Value": 82
+      },
+      "XpToNextLevel": {
+        "Position": 8450,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8479,
+        "Value": 6130000
+      }
+    },
+    "83": {
+      "Level": {
+        "Position": 8524,
+        "Value": 83
+      },
+      "XpToNextLevel": {
+        "Position": 8553,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8582,
+        "Value": 6210000
+      }
+    },
+    "84": {
+      "Level": {
+        "Position": 8627,
+        "Value": 84
+      },
+      "XpToNextLevel": {
+        "Position": 8656,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8685,
+        "Value": 6290000
+      }
+    },
+    "85": {
+      "Level": {
+        "Position": 8730,
+        "Value": 85
+      },
+      "XpToNextLevel": {
+        "Position": 8759,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8788,
+        "Value": 6370000
+      }
+    },
+    "86": {
+      "Level": {
+        "Position": 8833,
+        "Value": 86
+      },
+      "XpToNextLevel": {
+        "Position": 8862,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8891,
+        "Value": 6450000
+      }
+    },
+    "87": {
+      "Level": {
+        "Position": 8936,
+        "Value": 87
+      },
+      "XpToNextLevel": {
+        "Position": 8965,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 8994,
+        "Value": 6530000
+      }
+    },
+    "88": {
+      "Level": {
+        "Position": 9039,
+        "Value": 88
+      },
+      "XpToNextLevel": {
+        "Position": 9068,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9097,
+        "Value": 6610000
+      }
+    },
+    "89": {
+      "Level": {
+        "Position": 9142,
+        "Value": 89
+      },
+      "XpToNextLevel": {
+        "Position": 9171,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9200,
+        "Value": 6690000
+      }
+    },
+    "90": {
+      "Level": {
+        "Position": 9245,
+        "Value": 90
+      },
+      "XpToNextLevel": {
+        "Position": 9274,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9303,
+        "Value": 6770000
+      }
+    },
+    "91": {
+      "Level": {
+        "Position": 9348,
+        "Value": 91
+      },
+      "XpToNextLevel": {
+        "Position": 9377,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9406,
+        "Value": 6850000
+      }
+    },
+    "92": {
+      "Level": {
+        "Position": 9451,
+        "Value": 92
+      },
+      "XpToNextLevel": {
+        "Position": 9480,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9509,
+        "Value": 6930000
+      }
+    },
+    "93": {
+      "Level": {
+        "Position": 9554,
+        "Value": 93
+      },
+      "XpToNextLevel": {
+        "Position": 9583,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9612,
+        "Value": 7010000
+      }
+    },
+    "94": {
+      "Level": {
+        "Position": 9657,
+        "Value": 94
+      },
+      "XpToNextLevel": {
+        "Position": 9686,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9715,
+        "Value": 7090000
+      }
+    },
+    "95": {
+      "Level": {
+        "Position": 9760,
+        "Value": 95
+      },
+      "XpToNextLevel": {
+        "Position": 9789,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9818,
+        "Value": 7170000
+      }
+    },
+    "96": {
+      "Level": {
+        "Position": 9863,
+        "Value": 96
+      },
+      "XpToNextLevel": {
+        "Position": 9892,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 9921,
+        "Value": 7250000
+      }
+    },
+    "97": {
+      "Level": {
+        "Position": 9966,
+        "Value": 97
+      },
+      "XpToNextLevel": {
+        "Position": 9995,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 10024,
+        "Value": 7330000
+      }
+    },
+    "98": {
+      "Level": {
+        "Position": 10069,
+        "Value": 98
+      },
+      "XpToNextLevel": {
+        "Position": 10098,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 10127,
+        "Value": 7410000
+      }
+    },
+    "99": {
+      "Level": {
+        "Position": 10172,
+        "Value": 99
+      },
+      "XpToNextLevel": {
+        "Position": 10201,
+        "Value": 80000
+      },
+      "XpTotal": {
+        "Position": 10230,
+        "Value": 7490000
+      }
+    }
+  }
+]

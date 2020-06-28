@@ -1,0 +1,106 @@
+[
+  {
+    "Default": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 21
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 10000.0
+            }
+          },
+          {
+            "Position": 176,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 184,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 192,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 10000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 225,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 262,
+        "Value": 20
+      },
+      "PostInfinityExtrap": {
+        "Position": 303,
+        "Value": 20
+      }
+    },
+    "RestedXP": {
+      "InterpMode": {
+        "Position": 360,
+        "Value": 21
+      },
+      "Keys": {
+        "Position": 401,
+        "Value": [
+          {
+            "Position": 454,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 5100.0
+            }
+          },
+          {
+            "Position": 462,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 5100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 495,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 532,
+        "Value": 20
+      },
+      "PostInfinityExtrap": {
+        "Position": 573,
+        "Value": 20
+      }
+    }
+  }
+]

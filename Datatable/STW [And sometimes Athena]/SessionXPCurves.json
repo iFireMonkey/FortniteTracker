@@ -1,0 +1,153 @@
+[
+  {
+    "DefaultPvP": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 20
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 2500.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 4500.0
+            }
+          },
+          {
+            "Position": 176,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 9100.0
+            }
+          },
+          {
+            "Position": 184,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 12000.0
+            }
+          },
+          {
+            "Position": 192,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 14500.0
+            }
+          },
+          {
+            "Position": 200,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 17250.0
+            }
+          },
+          {
+            "Position": 208,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 19500.0
+            }
+          },
+          {
+            "Position": 216,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 24000.0
+            }
+          },
+          {
+            "Position": 224,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 29000.0
+            }
+          },
+          {
+            "Position": 232,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 34500.0
+            }
+          },
+          {
+            "Position": 240,
+            "Value": {
+              "KeyTime": 13.0,
+              "KeyValue": 37500.0
+            }
+          },
+          {
+            "Position": 248,
+            "Value": {
+              "KeyTime": 15.0,
+              "KeyValue": 42500.0
+            }
+          },
+          {
+            "Position": 256,
+            "Value": {
+              "KeyTime": 16.0,
+              "KeyValue": 51000.0
+            }
+          },
+          {
+            "Position": 264,
+            "Value": {
+              "KeyTime": 17.0,
+              "KeyValue": 57000.0
+            }
+          },
+          {
+            "Position": 272,
+            "Value": {
+              "KeyTime": 18.0,
+              "KeyValue": 64000.0
+            }
+          },
+          {
+            "Position": 280,
+            "Value": {
+              "KeyTime": 21.0,
+              "KeyValue": 74500.0
+            }
+          },
+          {
+            "Position": 288,
+            "Value": {
+              "KeyTime": 24.0,
+              "KeyValue": 121000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 321,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 358,
+        "Value": 19
+      },
+      "PostInfinityExtrap": {
+        "Position": 399,
+        "Value": 19
+      }
+    }
+  }
+]

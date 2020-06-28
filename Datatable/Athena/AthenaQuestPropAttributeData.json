@@ -1,0 +1,124 @@
+[
+  {
+    "AthenaQuestProp.Mimic.FortHealthSet.Maxhealth": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 24
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 185,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 222,
+        "Value": 23
+      },
+      "PostInfinityExtrap": {
+        "Position": 263,
+        "Value": 23
+      }
+    },
+    "AthenaQuestProp.MegaHealth.FortHealthSet.Maxhealth": {
+      "InterpMode": {
+        "Position": 320,
+        "Value": 24
+      },
+      "Keys": {
+        "Position": 361,
+        "Value": [
+          {
+            "Position": 414,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 447,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 484,
+        "Value": 23
+      },
+      "PostInfinityExtrap": {
+        "Position": 525,
+        "Value": 23
+      }
+    },
+    "AthenaQuestProp.FortuneTeller.Medium.Duration": {
+      "InterpMode": {
+        "Position": 582,
+        "Value": 24
+      },
+      "Keys": {
+        "Position": 623,
+        "Value": [
+          {
+            "Position": 676,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 60.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 709,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 746,
+        "Value": 23
+      },
+      "PostInfinityExtrap": {
+        "Position": 787,
+        "Value": 23
+      }
+    },
+    "AthenaQuestProp.FortuneTeller.Short.Duration": {
+      "InterpMode": {
+        "Position": 844,
+        "Value": 24
+      },
+      "Keys": {
+        "Position": 885,
+        "Value": [
+          {
+            "Position": 938,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 971,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1008,
+        "Value": 23
+      },
+      "PostInfinityExtrap": {
+        "Position": 1049,
+        "Value": 23
+      }
+    }
+  }
+]

@@ -1,0 +1,1412 @@
+[
+  {
+    "Harvest_Pickaxe_Athena_C_T01": {
+      "RangeVSEnemies": {
+        "Position": 78,
+        "Value": 296.0
+      },
+      "ConeYawAngle": {
+        "Position": 107,
+        "Value": 0.0
+      },
+      "ConePitchAngle": {
+        "Position": 136,
+        "Value": 0.0
+      },
+      "SwingPlaySpeed": {
+        "Position": 165,
+        "Value": 1.0
+      },
+      "SwingTime": {
+        "Position": 194,
+        "Value": 0.56666666
+      },
+      "BuildingConeAngle": {
+        "Position": 223,
+        "Value": 0.0
+      },
+      "BuildingConeAnglePitch": {
+        "Position": 252,
+        "Value": 0.0
+      },
+      "RangeVSBuildings2D": {
+        "Position": 281,
+        "Value": 288.0
+      },
+      "RangeVSBuildingsZ": {
+        "Position": 310,
+        "Value": 384.0
+      },
+      "RangeVSWeakSpots": {
+        "Position": 339,
+        "Value": 400.0
+      },
+      "BaseLevel": {
+        "Position": 368,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 397,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 430,
+        "Value": 20.0
+      },
+      "DmgMid": {
+        "Position": 459,
+        "Value": 20.0
+      },
+      "DmgLong": {
+        "Position": 488,
+        "Value": 20.0
+      },
+      "DmgMaxRange": {
+        "Position": 517,
+        "Value": 20.0
+      },
+      "EnvDmgPB": {
+        "Position": 546,
+        "Value": 50.0
+      },
+      "EnvDmgMid": {
+        "Position": 575,
+        "Value": 50.0
+      },
+      "EnvDmgLong": {
+        "Position": 604,
+        "Value": 50.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 633,
+        "Value": 50.0
+      },
+      "ImpactDmgPB": {
+        "Position": 662,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 691,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 720,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 749,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 777,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 804,
+        "Value": 0.0
+      },
+      "RngMid": {
+        "Position": 833,
+        "Value": 0.0
+      },
+      "RngLong": {
+        "Position": 862,
+        "Value": 0.0
+      },
+      "RngMax": {
+        "Position": 891,
+        "Value": 0.0
+      },
+      "DmgScaleTable": {
+        "Position": 920,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 949,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 982,
+        "Value": 0.05
+      },
+      "EnvDmgScaleTable": {
+        "Position": 1011,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 1040,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 1073,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 1102,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 1131,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 1164,
+        "Value": 0.05
+      },
+      "SurfaceRatioRowName": {
+        "Position": 1193,
+        "Value": {
+          "String": "AthenaMeleeHarvest"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 1226,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 1255,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 1284,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 1313,
+        "Value": 10.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 1342,
+        "Value": 30000.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 1371,
+        "Value": 30000.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 1400,
+        "Value": 30000.0
+      },
+      "KnockbackZAngle": {
+        "Position": 1429,
+        "Value": 0.2
+      },
+      "StunTime": {
+        "Position": 1458,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 1487,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 1516,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 1545,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 1578,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 1607,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 1636,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 1665,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 1694,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 1723,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 1752,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 1789,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 1821,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 1847,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 1874,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 1903,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 1932,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 1961,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 1990,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 2019,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 2048,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 2077,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 2106,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 2135,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 2163,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 2190,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 2219,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 2248,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 2277,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 2306,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 2335,
+        "Value": 0.0
+      }
+    },
+    "Edged_Sword_Athena_C_T01": {
+      "RangeVSEnemies": {
+        "Position": 2380,
+        "Value": 296.0
+      },
+      "ConeYawAngle": {
+        "Position": 2409,
+        "Value": 0.0
+      },
+      "ConePitchAngle": {
+        "Position": 2438,
+        "Value": 0.0
+      },
+      "SwingPlaySpeed": {
+        "Position": 2467,
+        "Value": 1.0
+      },
+      "SwingTime": {
+        "Position": 2496,
+        "Value": 0.75555557
+      },
+      "BuildingConeAngle": {
+        "Position": 2525,
+        "Value": 0.0
+      },
+      "BuildingConeAnglePitch": {
+        "Position": 2554,
+        "Value": 0.0
+      },
+      "RangeVSBuildings2D": {
+        "Position": 2583,
+        "Value": 288.0
+      },
+      "RangeVSBuildingsZ": {
+        "Position": 2612,
+        "Value": 384.0
+      },
+      "RangeVSWeakSpots": {
+        "Position": 2641,
+        "Value": 400.0
+      },
+      "BaseLevel": {
+        "Position": 2670,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 2699,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 2732,
+        "Value": 75.0
+      },
+      "DmgMid": {
+        "Position": 2761,
+        "Value": 75.0
+      },
+      "DmgLong": {
+        "Position": 2790,
+        "Value": 75.0
+      },
+      "DmgMaxRange": {
+        "Position": 2819,
+        "Value": 75.0
+      },
+      "EnvDmgPB": {
+        "Position": 2848,
+        "Value": 10050.0
+      },
+      "EnvDmgMid": {
+        "Position": 2877,
+        "Value": 10050.0
+      },
+      "EnvDmgLong": {
+        "Position": 2906,
+        "Value": 10050.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 2935,
+        "Value": 10050.0
+      },
+      "ImpactDmgPB": {
+        "Position": 2964,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 2993,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 3022,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 3051,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 3079,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 3106,
+        "Value": 0.0
+      },
+      "RngMid": {
+        "Position": 3135,
+        "Value": 0.0
+      },
+      "RngLong": {
+        "Position": 3164,
+        "Value": 0.0
+      },
+      "RngMax": {
+        "Position": 3193,
+        "Value": 0.0
+      },
+      "DmgScaleTable": {
+        "Position": 3222,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 3251,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 3284,
+        "Value": 0.05
+      },
+      "EnvDmgScaleTable": {
+        "Position": 3313,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 3342,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 3375,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 3404,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 3433,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 3466,
+        "Value": 0.05
+      },
+      "SurfaceRatioRowName": {
+        "Position": 3495,
+        "Value": {
+          "String": "AthenaMeleeHarvest"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 3528,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 3557,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 3586,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 3615,
+        "Value": 10.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 3644,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 3673,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 3702,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 3731,
+        "Value": 45.0
+      },
+      "StunTime": {
+        "Position": 3760,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 3789,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 3818,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 3847,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 3880,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 3909,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 3938,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 3967,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 3996,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 4025,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 4054,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 4091,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 4123,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 4149,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 4176,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 4205,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 4234,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 4263,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 4292,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 4321,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 4350,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 4379,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 4408,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 4437,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 4465,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 4492,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 4521,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 4550,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 4579,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 4608,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 4637,
+        "Value": 0.0
+      }
+    },
+    "Galileo_Lobster_C_T01": {
+      "RangeVSEnemies": {
+        "Position": 4682,
+        "Value": 296.0
+      },
+      "ConeYawAngle": {
+        "Position": 4711,
+        "Value": 0.0
+      },
+      "ConePitchAngle": {
+        "Position": 4740,
+        "Value": 0.0
+      },
+      "SwingPlaySpeed": {
+        "Position": 4769,
+        "Value": 1.0
+      },
+      "SwingTime": {
+        "Position": 4798,
+        "Value": 0.56666666
+      },
+      "BuildingConeAngle": {
+        "Position": 4827,
+        "Value": 0.0
+      },
+      "BuildingConeAnglePitch": {
+        "Position": 4856,
+        "Value": 0.0
+      },
+      "RangeVSBuildings2D": {
+        "Position": 4885,
+        "Value": 288.0
+      },
+      "RangeVSBuildingsZ": {
+        "Position": 4914,
+        "Value": 384.0
+      },
+      "RangeVSWeakSpots": {
+        "Position": 4943,
+        "Value": 400.0
+      },
+      "BaseLevel": {
+        "Position": 4972,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 5001,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 5034,
+        "Value": 50.0
+      },
+      "DmgMid": {
+        "Position": 5063,
+        "Value": 50.0
+      },
+      "DmgLong": {
+        "Position": 5092,
+        "Value": 50.0
+      },
+      "DmgMaxRange": {
+        "Position": 5121,
+        "Value": 50.0
+      },
+      "EnvDmgPB": {
+        "Position": 5150,
+        "Value": 200.0
+      },
+      "EnvDmgMid": {
+        "Position": 5179,
+        "Value": 200.0
+      },
+      "EnvDmgLong": {
+        "Position": 5208,
+        "Value": 200.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 5237,
+        "Value": 200.0
+      },
+      "ImpactDmgPB": {
+        "Position": 5266,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 5295,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 5324,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 5353,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 5381,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 5408,
+        "Value": 0.0
+      },
+      "RngMid": {
+        "Position": 5437,
+        "Value": 0.0
+      },
+      "RngLong": {
+        "Position": 5466,
+        "Value": 0.0
+      },
+      "RngMax": {
+        "Position": 5495,
+        "Value": 0.0
+      },
+      "DmgScaleTable": {
+        "Position": 5524,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 5553,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 5586,
+        "Value": 0.05
+      },
+      "EnvDmgScaleTable": {
+        "Position": 5615,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 5644,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 5677,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 5706,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 5735,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 5768,
+        "Value": 0.05
+      },
+      "SurfaceRatioRowName": {
+        "Position": 5797,
+        "Value": {
+          "String": "AthenaMeleeHarvest"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 5830,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 5859,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 5888,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 5917,
+        "Value": 10.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 5946,
+        "Value": 30000.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 5975,
+        "Value": 30000.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 6004,
+        "Value": 30000.0
+      },
+      "KnockbackZAngle": {
+        "Position": 6033,
+        "Value": 0.2
+      },
+      "StunTime": {
+        "Position": 6062,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 6091,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 6120,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 6149,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 6182,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 6211,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 6240,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 6269,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 6298,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 6327,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 6356,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 6393,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 6425,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 6451,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 6478,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 6507,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 6536,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 6565,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 6594,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 6623,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 6652,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 6681,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 6710,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 6739,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 6767,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 6794,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 6823,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 6852,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 6881,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 6910,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 6939,
+        "Value": 0.0
+      }
+    },
+    "AdvancedMelee_ProtoAttack": {
+      "RangeVSEnemies": {
+        "Position": 6984,
+        "Value": 296.0
+      },
+      "ConeYawAngle": {
+        "Position": 7013,
+        "Value": 0.0
+      },
+      "ConePitchAngle": {
+        "Position": 7042,
+        "Value": 0.0
+      },
+      "SwingPlaySpeed": {
+        "Position": 7071,
+        "Value": 1.0
+      },
+      "SwingTime": {
+        "Position": 7100,
+        "Value": 0.56666666
+      },
+      "BuildingConeAngle": {
+        "Position": 7129,
+        "Value": 0.0
+      },
+      "BuildingConeAnglePitch": {
+        "Position": 7158,
+        "Value": 0.0
+      },
+      "RangeVSBuildings2D": {
+        "Position": 7187,
+        "Value": 288.0
+      },
+      "RangeVSBuildingsZ": {
+        "Position": 7216,
+        "Value": 384.0
+      },
+      "RangeVSWeakSpots": {
+        "Position": 7245,
+        "Value": 400.0
+      },
+      "BaseLevel": {
+        "Position": 7274,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 7303,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 7336,
+        "Value": 50.0
+      },
+      "DmgMid": {
+        "Position": 7365,
+        "Value": 50.0
+      },
+      "DmgLong": {
+        "Position": 7394,
+        "Value": 50.0
+      },
+      "DmgMaxRange": {
+        "Position": 7423,
+        "Value": 50.0
+      },
+      "EnvDmgPB": {
+        "Position": 7452,
+        "Value": 200.0
+      },
+      "EnvDmgMid": {
+        "Position": 7481,
+        "Value": 200.0
+      },
+      "EnvDmgLong": {
+        "Position": 7510,
+        "Value": 200.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 7539,
+        "Value": 200.0
+      },
+      "ImpactDmgPB": {
+        "Position": 7568,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 7597,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 7626,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 7655,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 7683,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 7710,
+        "Value": 0.0
+      },
+      "RngMid": {
+        "Position": 7739,
+        "Value": 0.0
+      },
+      "RngLong": {
+        "Position": 7768,
+        "Value": 0.0
+      },
+      "RngMax": {
+        "Position": 7797,
+        "Value": 0.0
+      },
+      "DmgScaleTable": {
+        "Position": 7826,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 7855,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 7888,
+        "Value": 0.05
+      },
+      "EnvDmgScaleTable": {
+        "Position": 7917,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 7946,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 7979,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 8008,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 8037,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 8070,
+        "Value": 0.05
+      },
+      "SurfaceRatioRowName": {
+        "Position": 8099,
+        "Value": {
+          "String": "AthenaMeleeHarvest"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 8132,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 8161,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 8190,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 8219,
+        "Value": 10.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 8248,
+        "Value": 30000.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 8277,
+        "Value": 30000.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 8306,
+        "Value": 30000.0
+      },
+      "KnockbackZAngle": {
+        "Position": 8335,
+        "Value": 0.2
+      },
+      "StunTime": {
+        "Position": 8364,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 8393,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 8422,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 8451,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 8484,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 8513,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 8542,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 8571,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 8600,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 8629,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 8658,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 8695,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 8727,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 8753,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 8780,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 8809,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 8838,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 8867,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 8896,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 8925,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 8954,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 8983,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 9012,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 9041,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 9069,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 9096,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 9125,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 9154,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 9183,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 9212,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 9241,
+        "Value": 0.0
+      }
+    }
+  }
+]

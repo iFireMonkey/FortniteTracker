@@ -1,0 +1,3508 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "Athena.Location.Test.ShootingRange"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": "Test tags for shoot map"
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 180,
+        "Value": {
+          "String": "Athena.Location.Test.House"
+        }
+      },
+      "DevComment": {
+        "Position": 213,
+        "Value": "Test tags for shoot map"
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 282,
+        "Value": {
+          "String": "Athena.Location.Test.Stream"
+        }
+      },
+      "DevComment": {
+        "Position": 315,
+        "Value": "Test tags for shoot map"
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 384,
+        "Value": {
+          "String": "Athena.Location.POI.TiltedTowers"
+        }
+      },
+      "DevComment": {
+        "Position": 417,
+        "Value": null
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 462,
+        "Value": {
+          "String": "Athena.Location.POI.ShiftyShafts"
+        }
+      },
+      "DevComment": {
+        "Position": 495,
+        "Value": null
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 540,
+        "Value": {
+          "String": "Athena.Location.POI.SaltySprings"
+        }
+      },
+      "DevComment": {
+        "Position": 573,
+        "Value": null
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 618,
+        "Value": {
+          "String": "Athena.Location.POI.FatalFields"
+        }
+      },
+      "DevComment": {
+        "Position": 651,
+        "Value": null
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 696,
+        "Value": {
+          "String": "Athena.Location.POI.AnarchyAcres"
+        }
+      },
+      "DevComment": {
+        "Position": 729,
+        "Value": null
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 774,
+        "Value": {
+          "String": "Athena.Location.POI.GreasyGrove"
+        }
+      },
+      "DevComment": {
+        "Position": 807,
+        "Value": null
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 852,
+        "Value": {
+          "String": "Athena.Location.POI.RetailRow"
+        }
+      },
+      "DevComment": {
+        "Position": 885,
+        "Value": null
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 930,
+        "Value": {
+          "String": "Athena.Location.POI.TomatoTown"
+        }
+      },
+      "DevComment": {
+        "Position": 963,
+        "Value": null
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 1008,
+        "Value": {
+          "String": "Athena.Location.POI.TomatoTemple"
+        }
+      },
+      "DevComment": {
+        "Position": 1041,
+        "Value": null
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1086,
+        "Value": {
+          "String": "Athena.Location.POI.PleasantPark"
+        }
+      },
+      "DevComment": {
+        "Position": 1119,
+        "Value": null
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1164,
+        "Value": {
+          "String": "Athena.Location.POI.WailingWoods"
+        }
+      },
+      "DevComment": {
+        "Position": 1197,
+        "Value": null
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1242,
+        "Value": {
+          "String": "Athena.Location.POI.LonelyLodge"
+        }
+      },
+      "DevComment": {
+        "Position": 1275,
+        "Value": null
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1320,
+        "Value": {
+          "String": "Athena.Location.POI.SnobbyShores"
+        }
+      },
+      "DevComment": {
+        "Position": 1353,
+        "Value": null
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1398,
+        "Value": {
+          "String": "Athena.Location.POI.DustyDivot"
+        }
+      },
+      "DevComment": {
+        "Position": 1431,
+        "Value": null
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 1476,
+        "Value": {
+          "String": "Athena.Location.POI.FlushFactory"
+        }
+      },
+      "DevComment": {
+        "Position": 1509,
+        "Value": null
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 1554,
+        "Value": {
+          "String": "Athena.Location.POI.JunkJunction"
+        }
+      },
+      "DevComment": {
+        "Position": 1587,
+        "Value": null
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 1632,
+        "Value": {
+          "String": "Athena.Location.POI.MoistyMire"
+        }
+      },
+      "DevComment": {
+        "Position": 1665,
+        "Value": null
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 1710,
+        "Value": {
+          "String": "Athena.Location.POI.LootLake"
+        }
+      },
+      "DevComment": {
+        "Position": 1743,
+        "Value": null
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 1788,
+        "Value": {
+          "String": "Athena.Location.POI.HauntedHills"
+        }
+      },
+      "DevComment": {
+        "Position": 1821,
+        "Value": null
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 1866,
+        "Value": {
+          "String": "Athena.Location.POI.LuckyLanding"
+        }
+      },
+      "DevComment": {
+        "Position": 1899,
+        "Value": null
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 1944,
+        "Value": {
+          "String": "Athena.Location.POI.RiskyReels"
+        }
+      },
+      "DevComment": {
+        "Position": 1977,
+        "Value": null
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 2022,
+        "Value": {
+          "String": "Athena.Location.POI.ParadisePalms"
+        }
+      },
+      "DevComment": {
+        "Position": 2055,
+        "Value": null
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 2100,
+        "Value": {
+          "String": "Athena.Location.POI.LazyLinks"
+        }
+      },
+      "DevComment": {
+        "Position": 2133,
+        "Value": null
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 2178,
+        "Value": {
+          "String": "Athena.Location.POI.PolarPeak"
+        }
+      },
+      "DevComment": {
+        "Position": 2211,
+        "Value": null
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 2256,
+        "Value": {
+          "String": "Athena.Location.POI.HappyHamlet"
+        }
+      },
+      "DevComment": {
+        "Position": 2289,
+        "Value": null
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 2334,
+        "Value": {
+          "String": "Athena.Location.POI.FrostyFlights"
+        }
+      },
+      "DevComment": {
+        "Position": 2367,
+        "Value": null
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 2412,
+        "Value": {
+          "String": "Athena.Location.Meta.Town"
+        }
+      },
+      "DevComment": {
+        "Position": 2445,
+        "Value": null
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 2490,
+        "Value": {
+          "String": "Athena.Location.Meta.Industrial"
+        }
+      },
+      "DevComment": {
+        "Position": 2523,
+        "Value": null
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 2568,
+        "Value": {
+          "String": "Athena.Location.Meta.FarmField"
+        }
+      },
+      "DevComment": {
+        "Position": 2601,
+        "Value": null
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 2646,
+        "Value": {
+          "String": "Athena.Location.Meta.Woods"
+        }
+      },
+      "DevComment": {
+        "Position": 2679,
+        "Value": null
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 2724,
+        "Value": {
+          "String": "Athena.Location.Meta.Swamp"
+        }
+      },
+      "DevComment": {
+        "Position": 2757,
+        "Value": null
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 2802,
+        "Value": {
+          "String": "Athena.Location.Meta.House"
+        }
+      },
+      "DevComment": {
+        "Position": 2835,
+        "Value": null
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 2880,
+        "Value": {
+          "String": "Athena.Location.Meta.Hut"
+        }
+      },
+      "DevComment": {
+        "Position": 2913,
+        "Value": null
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 2958,
+        "Value": {
+          "String": "Athena.Location.Meta.Lake"
+        }
+      },
+      "DevComment": {
+        "Position": 2991,
+        "Value": null
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 3036,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.01"
+        }
+      },
+      "DevComment": {
+        "Position": 3069,
+        "Value": null
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 3114,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.02"
+        }
+      },
+      "DevComment": {
+        "Position": 3147,
+        "Value": null
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 3192,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.03"
+        }
+      },
+      "DevComment": {
+        "Position": 3225,
+        "Value": null
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 3270,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.04"
+        }
+      },
+      "DevComment": {
+        "Position": 3303,
+        "Value": null
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 3348,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.05"
+        }
+      },
+      "DevComment": {
+        "Position": 3381,
+        "Value": null
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 3426,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.06"
+        }
+      },
+      "DevComment": {
+        "Position": 3459,
+        "Value": null
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 3504,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.07"
+        }
+      },
+      "DevComment": {
+        "Position": 3537,
+        "Value": null
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 3582,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.08"
+        }
+      },
+      "DevComment": {
+        "Position": 3615,
+        "Value": null
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 3660,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.09"
+        }
+      },
+      "DevComment": {
+        "Position": 3693,
+        "Value": null
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 3738,
+        "Value": {
+          "String": "Athena.Location.Meta.GasStation.10"
+        }
+      },
+      "DevComment": {
+        "Position": 3771,
+        "Value": null
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 3816,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.01"
+        }
+      },
+      "DevComment": {
+        "Position": 3849,
+        "Value": null
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 3894,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.02"
+        }
+      },
+      "DevComment": {
+        "Position": 3927,
+        "Value": null
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 3972,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.03"
+        }
+      },
+      "DevComment": {
+        "Position": 4005,
+        "Value": null
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 4050,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.04"
+        }
+      },
+      "DevComment": {
+        "Position": 4083,
+        "Value": null
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 4128,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.05"
+        }
+      },
+      "DevComment": {
+        "Position": 4161,
+        "Value": null
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 4206,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.06"
+        }
+      },
+      "DevComment": {
+        "Position": 4239,
+        "Value": null
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 4284,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.07"
+        }
+      },
+      "DevComment": {
+        "Position": 4317,
+        "Value": null
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 4362,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.08"
+        }
+      },
+      "DevComment": {
+        "Position": 4395,
+        "Value": null
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 4440,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.09"
+        }
+      },
+      "DevComment": {
+        "Position": 4473,
+        "Value": null
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 4518,
+        "Value": {
+          "String": "Athena.Location.Meta.TacoShop.10"
+        }
+      },
+      "DevComment": {
+        "Position": 4551,
+        "Value": null
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 4596,
+        "Value": {
+          "String": "Athena.Location.Meta.AnimalBuilding.Llama"
+        }
+      },
+      "DevComment": {
+        "Position": 4629,
+        "Value": null
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 4674,
+        "Value": {
+          "String": "Athena.Location.Meta.AnimalBuilding.Fox"
+        }
+      },
+      "DevComment": {
+        "Position": 4707,
+        "Value": null
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 4752,
+        "Value": {
+          "String": "Athena.Location.Meta.AnimalBuilding.Crab"
+        }
+      },
+      "DevComment": {
+        "Position": 4785,
+        "Value": null
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 4830,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain"
+        }
+      },
+      "DevComment": {
+        "Position": 4863,
+        "Value": null
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 4908,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.01"
+        }
+      },
+      "DevComment": {
+        "Position": 4941,
+        "Value": null
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 4986,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.02"
+        }
+      },
+      "DevComment": {
+        "Position": 5019,
+        "Value": null
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 5064,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.03"
+        }
+      },
+      "DevComment": {
+        "Position": 5097,
+        "Value": null
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 5142,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.04"
+        }
+      },
+      "DevComment": {
+        "Position": 5175,
+        "Value": null
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 5220,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.05"
+        }
+      },
+      "DevComment": {
+        "Position": 5253,
+        "Value": null
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 5298,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.06"
+        }
+      },
+      "DevComment": {
+        "Position": 5331,
+        "Value": null
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 5376,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.07"
+        }
+      },
+      "DevComment": {
+        "Position": 5409,
+        "Value": null
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 5454,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.08"
+        }
+      },
+      "DevComment": {
+        "Position": 5487,
+        "Value": null
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 5532,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.09"
+        }
+      },
+      "DevComment": {
+        "Position": 5565,
+        "Value": null
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 5610,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.10"
+        }
+      },
+      "DevComment": {
+        "Position": 5643,
+        "Value": null
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 5688,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.11"
+        }
+      },
+      "DevComment": {
+        "Position": 5721,
+        "Value": null
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 5766,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.12"
+        }
+      },
+      "DevComment": {
+        "Position": 5799,
+        "Value": null
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 5844,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.13"
+        }
+      },
+      "DevComment": {
+        "Position": 5877,
+        "Value": null
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 5922,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.14"
+        }
+      },
+      "DevComment": {
+        "Position": 5955,
+        "Value": null
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 6000,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.15"
+        }
+      },
+      "DevComment": {
+        "Position": 6033,
+        "Value": null
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 6078,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.16"
+        }
+      },
+      "DevComment": {
+        "Position": 6111,
+        "Value": null
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 6156,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.17"
+        }
+      },
+      "DevComment": {
+        "Position": 6189,
+        "Value": null
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 6234,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.18"
+        }
+      },
+      "DevComment": {
+        "Position": 6267,
+        "Value": null
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 6312,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.19"
+        }
+      },
+      "DevComment": {
+        "Position": 6345,
+        "Value": null
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 6390,
+        "Value": {
+          "String": "Athena.Location.Meta.Mountain.Summit.20"
+        }
+      },
+      "DevComment": {
+        "Position": 6423,
+        "Value": null
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 6468,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.01"
+        }
+      },
+      "DevComment": {
+        "Position": 6501,
+        "Value": null
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 6546,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.02"
+        }
+      },
+      "DevComment": {
+        "Position": 6579,
+        "Value": null
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 6624,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.03"
+        }
+      },
+      "DevComment": {
+        "Position": 6657,
+        "Value": null
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 6702,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.04"
+        }
+      },
+      "DevComment": {
+        "Position": 6735,
+        "Value": null
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 6780,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.05"
+        }
+      },
+      "DevComment": {
+        "Position": 6813,
+        "Value": null
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 6858,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.06"
+        }
+      },
+      "DevComment": {
+        "Position": 6891,
+        "Value": null
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 6936,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.07"
+        }
+      },
+      "DevComment": {
+        "Position": 6969,
+        "Value": null
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 7014,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.08"
+        }
+      },
+      "DevComment": {
+        "Position": 7047,
+        "Value": null
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 7092,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.09"
+        }
+      },
+      "DevComment": {
+        "Position": 7125,
+        "Value": null
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 7170,
+        "Value": {
+          "String": "Athena.Location.Meta.SoccerPitch.10"
+        }
+      },
+      "DevComment": {
+        "Position": 7203,
+        "Value": null
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 7248,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.01"
+        }
+      },
+      "DevComment": {
+        "Position": 7281,
+        "Value": null
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 7326,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.02"
+        }
+      },
+      "DevComment": {
+        "Position": 7359,
+        "Value": null
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 7404,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.03"
+        }
+      },
+      "DevComment": {
+        "Position": 7437,
+        "Value": null
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 7482,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.04"
+        }
+      },
+      "DevComment": {
+        "Position": 7515,
+        "Value": null
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 7560,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.05"
+        }
+      },
+      "DevComment": {
+        "Position": 7593,
+        "Value": null
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 7638,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.06"
+        }
+      },
+      "DevComment": {
+        "Position": 7671,
+        "Value": null
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 7716,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.07"
+        }
+      },
+      "DevComment": {
+        "Position": 7749,
+        "Value": null
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 7794,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.08"
+        }
+      },
+      "DevComment": {
+        "Position": 7827,
+        "Value": null
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 7872,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.09"
+        }
+      },
+      "DevComment": {
+        "Position": 7905,
+        "Value": null
+      }
+    },
+    "100": {
+      "Tag": {
+        "Position": 7950,
+        "Value": {
+          "String": "Athena.Location.Meta.Crater.10"
+        }
+      },
+      "DevComment": {
+        "Position": 7983,
+        "Value": null
+      }
+    },
+    "101": {
+      "Tag": {
+        "Position": 8028,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.01"
+        }
+      },
+      "DevComment": {
+        "Position": 8061,
+        "Value": null
+      }
+    },
+    "102": {
+      "Tag": {
+        "Position": 8106,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.02"
+        }
+      },
+      "DevComment": {
+        "Position": 8139,
+        "Value": null
+      }
+    },
+    "103": {
+      "Tag": {
+        "Position": 8184,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.03"
+        }
+      },
+      "DevComment": {
+        "Position": 8217,
+        "Value": null
+      }
+    },
+    "104": {
+      "Tag": {
+        "Position": 8262,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.04"
+        }
+      },
+      "DevComment": {
+        "Position": 8295,
+        "Value": null
+      }
+    },
+    "105": {
+      "Tag": {
+        "Position": 8340,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.05"
+        }
+      },
+      "DevComment": {
+        "Position": 8373,
+        "Value": null
+      }
+    },
+    "106": {
+      "Tag": {
+        "Position": 8418,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.06"
+        }
+      },
+      "DevComment": {
+        "Position": 8451,
+        "Value": null
+      }
+    },
+    "107": {
+      "Tag": {
+        "Position": 8496,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.07"
+        }
+      },
+      "DevComment": {
+        "Position": 8529,
+        "Value": null
+      }
+    },
+    "108": {
+      "Tag": {
+        "Position": 8574,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.08"
+        }
+      },
+      "DevComment": {
+        "Position": 8607,
+        "Value": null
+      }
+    },
+    "109": {
+      "Tag": {
+        "Position": 8652,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.09"
+        }
+      },
+      "DevComment": {
+        "Position": 8685,
+        "Value": null
+      }
+    },
+    "110": {
+      "Tag": {
+        "Position": 8730,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.10"
+        }
+      },
+      "DevComment": {
+        "Position": 8763,
+        "Value": null
+      }
+    },
+    "111": {
+      "Tag": {
+        "Position": 8808,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.11"
+        }
+      },
+      "DevComment": {
+        "Position": 8841,
+        "Value": null
+      }
+    },
+    "112": {
+      "Tag": {
+        "Position": 8886,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.12"
+        }
+      },
+      "DevComment": {
+        "Position": 8919,
+        "Value": null
+      }
+    },
+    "113": {
+      "Tag": {
+        "Position": 8964,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.13"
+        }
+      },
+      "DevComment": {
+        "Position": 8997,
+        "Value": null
+      }
+    },
+    "114": {
+      "Tag": {
+        "Position": 9042,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.14"
+        }
+      },
+      "DevComment": {
+        "Position": 9075,
+        "Value": null
+      }
+    },
+    "115": {
+      "Tag": {
+        "Position": 9120,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.15"
+        }
+      },
+      "DevComment": {
+        "Position": 9153,
+        "Value": null
+      }
+    },
+    "116": {
+      "Tag": {
+        "Position": 9198,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.16"
+        }
+      },
+      "DevComment": {
+        "Position": 9231,
+        "Value": null
+      }
+    },
+    "117": {
+      "Tag": {
+        "Position": 9276,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.17"
+        }
+      },
+      "DevComment": {
+        "Position": 9309,
+        "Value": null
+      }
+    },
+    "118": {
+      "Tag": {
+        "Position": 9354,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.18"
+        }
+      },
+      "DevComment": {
+        "Position": 9387,
+        "Value": null
+      }
+    },
+    "119": {
+      "Tag": {
+        "Position": 9432,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.19"
+        }
+      },
+      "DevComment": {
+        "Position": 9465,
+        "Value": null
+      }
+    },
+    "120": {
+      "Tag": {
+        "Position": 9510,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.20"
+        }
+      },
+      "DevComment": {
+        "Position": 9543,
+        "Value": null
+      }
+    },
+    "121": {
+      "Tag": {
+        "Position": 9588,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.21"
+        }
+      },
+      "DevComment": {
+        "Position": 9621,
+        "Value": null
+      }
+    },
+    "122": {
+      "Tag": {
+        "Position": 9666,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.22"
+        }
+      },
+      "DevComment": {
+        "Position": 9699,
+        "Value": null
+      }
+    },
+    "123": {
+      "Tag": {
+        "Position": 9744,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.23"
+        }
+      },
+      "DevComment": {
+        "Position": 9777,
+        "Value": null
+      }
+    },
+    "124": {
+      "Tag": {
+        "Position": 9822,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.24"
+        }
+      },
+      "DevComment": {
+        "Position": 9855,
+        "Value": null
+      }
+    },
+    "125": {
+      "Tag": {
+        "Position": 9900,
+        "Value": {
+          "String": "Athena.Location.Quest.Land.Bulleye.25"
+        }
+      },
+      "DevComment": {
+        "Position": 9933,
+        "Value": null
+      }
+    },
+    "126": {
+      "Tag": {
+        "Position": 9978,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.01"
+        }
+      },
+      "DevComment": {
+        "Position": 10011,
+        "Value": null
+      }
+    },
+    "127": {
+      "Tag": {
+        "Position": 10056,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.02"
+        }
+      },
+      "DevComment": {
+        "Position": 10089,
+        "Value": null
+      }
+    },
+    "128": {
+      "Tag": {
+        "Position": 10134,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.03"
+        }
+      },
+      "DevComment": {
+        "Position": 10167,
+        "Value": null
+      }
+    },
+    "129": {
+      "Tag": {
+        "Position": 10212,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.04"
+        }
+      },
+      "DevComment": {
+        "Position": 10245,
+        "Value": null
+      }
+    },
+    "130": {
+      "Tag": {
+        "Position": 10290,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.05"
+        }
+      },
+      "DevComment": {
+        "Position": 10323,
+        "Value": null
+      }
+    },
+    "131": {
+      "Tag": {
+        "Position": 10368,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.06"
+        }
+      },
+      "DevComment": {
+        "Position": 10401,
+        "Value": null
+      }
+    },
+    "132": {
+      "Tag": {
+        "Position": 10446,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.07"
+        }
+      },
+      "DevComment": {
+        "Position": 10479,
+        "Value": null
+      }
+    },
+    "133": {
+      "Tag": {
+        "Position": 10524,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.08"
+        }
+      },
+      "DevComment": {
+        "Position": 10557,
+        "Value": null
+      }
+    },
+    "134": {
+      "Tag": {
+        "Position": 10602,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.09"
+        }
+      },
+      "DevComment": {
+        "Position": 10635,
+        "Value": null
+      }
+    },
+    "135": {
+      "Tag": {
+        "Position": 10680,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.10"
+        }
+      },
+      "DevComment": {
+        "Position": 10713,
+        "Value": null
+      }
+    },
+    "136": {
+      "Tag": {
+        "Position": 10758,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.11"
+        }
+      },
+      "DevComment": {
+        "Position": 10791,
+        "Value": null
+      }
+    },
+    "137": {
+      "Tag": {
+        "Position": 10836,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.12"
+        }
+      },
+      "DevComment": {
+        "Position": 10869,
+        "Value": null
+      }
+    },
+    "138": {
+      "Tag": {
+        "Position": 10914,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.13"
+        }
+      },
+      "DevComment": {
+        "Position": 10947,
+        "Value": null
+      }
+    },
+    "139": {
+      "Tag": {
+        "Position": 10992,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.14"
+        }
+      },
+      "DevComment": {
+        "Position": 11025,
+        "Value": null
+      }
+    },
+    "140": {
+      "Tag": {
+        "Position": 11070,
+        "Value": {
+          "String": "Athena.Location.Quest.Visit.IceCreamTruck.15"
+        }
+      },
+      "DevComment": {
+        "Position": 11103,
+        "Value": null
+      }
+    },
+    "141": {
+      "Tag": {
+        "Position": 11148,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.01"
+        }
+      },
+      "DevComment": {
+        "Position": 11181,
+        "Value": null
+      }
+    },
+    "142": {
+      "Tag": {
+        "Position": 11226,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.02"
+        }
+      },
+      "DevComment": {
+        "Position": 11259,
+        "Value": null
+      }
+    },
+    "143": {
+      "Tag": {
+        "Position": 11304,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.03"
+        }
+      },
+      "DevComment": {
+        "Position": 11337,
+        "Value": null
+      }
+    },
+    "144": {
+      "Tag": {
+        "Position": 11382,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.04"
+        }
+      },
+      "DevComment": {
+        "Position": 11415,
+        "Value": null
+      }
+    },
+    "145": {
+      "Tag": {
+        "Position": 11460,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.05"
+        }
+      },
+      "DevComment": {
+        "Position": 11493,
+        "Value": null
+      }
+    },
+    "146": {
+      "Tag": {
+        "Position": 11538,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.06"
+        }
+      },
+      "DevComment": {
+        "Position": 11571,
+        "Value": null
+      }
+    },
+    "147": {
+      "Tag": {
+        "Position": 11616,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.07"
+        }
+      },
+      "DevComment": {
+        "Position": 11649,
+        "Value": null
+      }
+    },
+    "148": {
+      "Tag": {
+        "Position": 11694,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.08"
+        }
+      },
+      "DevComment": {
+        "Position": 11727,
+        "Value": null
+      }
+    },
+    "149": {
+      "Tag": {
+        "Position": 11772,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.09"
+        }
+      },
+      "DevComment": {
+        "Position": 11805,
+        "Value": null
+      }
+    },
+    "150": {
+      "Tag": {
+        "Position": 11850,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.10"
+        }
+      },
+      "DevComment": {
+        "Position": 11883,
+        "Value": null
+      }
+    },
+    "151": {
+      "Tag": {
+        "Position": 11928,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.11"
+        }
+      },
+      "DevComment": {
+        "Position": 11961,
+        "Value": null
+      }
+    },
+    "152": {
+      "Tag": {
+        "Position": 12006,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.12"
+        }
+      },
+      "DevComment": {
+        "Position": 12039,
+        "Value": null
+      }
+    },
+    "153": {
+      "Tag": {
+        "Position": 12084,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.13"
+        }
+      },
+      "DevComment": {
+        "Position": 12117,
+        "Value": null
+      }
+    },
+    "154": {
+      "Tag": {
+        "Position": 12162,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.14"
+        }
+      },
+      "DevComment": {
+        "Position": 12195,
+        "Value": null
+      }
+    },
+    "155": {
+      "Tag": {
+        "Position": 12240,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.Forbidden.15"
+        }
+      },
+      "DevComment": {
+        "Position": 12273,
+        "Value": null
+      }
+    },
+    "156": {
+      "Tag": {
+        "Position": 12318,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.01"
+        }
+      },
+      "DevComment": {
+        "Position": 12351,
+        "Value": null
+      }
+    },
+    "157": {
+      "Tag": {
+        "Position": 12396,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.02"
+        }
+      },
+      "DevComment": {
+        "Position": 12429,
+        "Value": null
+      }
+    },
+    "158": {
+      "Tag": {
+        "Position": 12474,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.03"
+        }
+      },
+      "DevComment": {
+        "Position": 12507,
+        "Value": null
+      }
+    },
+    "159": {
+      "Tag": {
+        "Position": 12552,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.04"
+        }
+      },
+      "DevComment": {
+        "Position": 12585,
+        "Value": null
+      }
+    },
+    "160": {
+      "Tag": {
+        "Position": 12630,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.05"
+        }
+      },
+      "DevComment": {
+        "Position": 12663,
+        "Value": null
+      }
+    },
+    "161": {
+      "Tag": {
+        "Position": 12708,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.06"
+        }
+      },
+      "DevComment": {
+        "Position": 12741,
+        "Value": null
+      }
+    },
+    "162": {
+      "Tag": {
+        "Position": 12786,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.07"
+        }
+      },
+      "DevComment": {
+        "Position": 12819,
+        "Value": null
+      }
+    },
+    "163": {
+      "Tag": {
+        "Position": 12864,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.08"
+        }
+      },
+      "DevComment": {
+        "Position": 12897,
+        "Value": null
+      }
+    },
+    "164": {
+      "Tag": {
+        "Position": 12942,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.09"
+        }
+      },
+      "DevComment": {
+        "Position": 12975,
+        "Value": null
+      }
+    },
+    "165": {
+      "Tag": {
+        "Position": 13020,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.10"
+        }
+      },
+      "DevComment": {
+        "Position": 13053,
+        "Value": null
+      }
+    },
+    "166": {
+      "Tag": {
+        "Position": 13098,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.11"
+        }
+      },
+      "DevComment": {
+        "Position": 13131,
+        "Value": null
+      }
+    },
+    "167": {
+      "Tag": {
+        "Position": 13176,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.12"
+        }
+      },
+      "DevComment": {
+        "Position": 13209,
+        "Value": null
+      }
+    },
+    "168": {
+      "Tag": {
+        "Position": 13254,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.13"
+        }
+      },
+      "DevComment": {
+        "Position": 13287,
+        "Value": null
+      }
+    },
+    "169": {
+      "Tag": {
+        "Position": 13332,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.14"
+        }
+      },
+      "DevComment": {
+        "Position": 13365,
+        "Value": null
+      }
+    },
+    "170": {
+      "Tag": {
+        "Position": 13410,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.DiscoFloor.15"
+        }
+      },
+      "DevComment": {
+        "Position": 13443,
+        "Value": null
+      }
+    },
+    "171": {
+      "Tag": {
+        "Position": 13488,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.01"
+        }
+      },
+      "DevComment": {
+        "Position": 13521,
+        "Value": null
+      }
+    },
+    "172": {
+      "Tag": {
+        "Position": 13566,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.02"
+        }
+      },
+      "DevComment": {
+        "Position": 13599,
+        "Value": null
+      }
+    },
+    "173": {
+      "Tag": {
+        "Position": 13644,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.03"
+        }
+      },
+      "DevComment": {
+        "Position": 13677,
+        "Value": null
+      }
+    },
+    "174": {
+      "Tag": {
+        "Position": 13722,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.04"
+        }
+      },
+      "DevComment": {
+        "Position": 13755,
+        "Value": null
+      }
+    },
+    "175": {
+      "Tag": {
+        "Position": 13800,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.05"
+        }
+      },
+      "DevComment": {
+        "Position": 13833,
+        "Value": null
+      }
+    },
+    "176": {
+      "Tag": {
+        "Position": 13878,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.06"
+        }
+      },
+      "DevComment": {
+        "Position": 13911,
+        "Value": null
+      }
+    },
+    "177": {
+      "Tag": {
+        "Position": 13956,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.07"
+        }
+      },
+      "DevComment": {
+        "Position": 13989,
+        "Value": null
+      }
+    },
+    "178": {
+      "Tag": {
+        "Position": 14034,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.08"
+        }
+      },
+      "DevComment": {
+        "Position": 14067,
+        "Value": null
+      }
+    },
+    "179": {
+      "Tag": {
+        "Position": 14112,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.09"
+        }
+      },
+      "DevComment": {
+        "Position": 14145,
+        "Value": null
+      }
+    },
+    "180": {
+      "Tag": {
+        "Position": 14190,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.10"
+        }
+      },
+      "DevComment": {
+        "Position": 14223,
+        "Value": null
+      }
+    },
+    "181": {
+      "Tag": {
+        "Position": 14268,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.11"
+        }
+      },
+      "DevComment": {
+        "Position": 14301,
+        "Value": null
+      }
+    },
+    "182": {
+      "Tag": {
+        "Position": 14346,
+        "Value": {
+          "String": "Athena.Location.Quest.Dance.FilmCamera.12"
+        }
+      },
+      "DevComment": {
+        "Position": 14379,
+        "Value": null
+      }
+    },
+    "183": {
+      "Tag": {
+        "Position": 14424,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.01"
+        }
+      },
+      "DevComment": {
+        "Position": 14457,
+        "Value": null
+      }
+    },
+    "184": {
+      "Tag": {
+        "Position": 14502,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.02"
+        }
+      },
+      "DevComment": {
+        "Position": 14535,
+        "Value": null
+      }
+    },
+    "185": {
+      "Tag": {
+        "Position": 14580,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.03"
+        }
+      },
+      "DevComment": {
+        "Position": 14613,
+        "Value": null
+      }
+    },
+    "186": {
+      "Tag": {
+        "Position": 14658,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.04"
+        }
+      },
+      "DevComment": {
+        "Position": 14691,
+        "Value": null
+      }
+    },
+    "187": {
+      "Tag": {
+        "Position": 14736,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.05"
+        }
+      },
+      "DevComment": {
+        "Position": 14769,
+        "Value": null
+      }
+    },
+    "188": {
+      "Tag": {
+        "Position": 14814,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.06"
+        }
+      },
+      "DevComment": {
+        "Position": 14847,
+        "Value": null
+      }
+    },
+    "189": {
+      "Tag": {
+        "Position": 14892,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.07"
+        }
+      },
+      "DevComment": {
+        "Position": 14925,
+        "Value": null
+      }
+    },
+    "190": {
+      "Tag": {
+        "Position": 14970,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.08"
+        }
+      },
+      "DevComment": {
+        "Position": 15003,
+        "Value": null
+      }
+    },
+    "191": {
+      "Tag": {
+        "Position": 15048,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.09"
+        }
+      },
+      "DevComment": {
+        "Position": 15081,
+        "Value": null
+      }
+    },
+    "192": {
+      "Tag": {
+        "Position": 15126,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.10"
+        }
+      },
+      "DevComment": {
+        "Position": 15159,
+        "Value": null
+      }
+    },
+    "193": {
+      "Tag": {
+        "Position": 15204,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.11"
+        }
+      },
+      "DevComment": {
+        "Position": 15237,
+        "Value": null
+      }
+    },
+    "194": {
+      "Tag": {
+        "Position": 15282,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.12"
+        }
+      },
+      "DevComment": {
+        "Position": 15315,
+        "Value": null
+      }
+    },
+    "195": {
+      "Tag": {
+        "Position": 15360,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.13"
+        }
+      },
+      "DevComment": {
+        "Position": 15393,
+        "Value": null
+      }
+    },
+    "196": {
+      "Tag": {
+        "Position": 15438,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.14"
+        }
+      },
+      "DevComment": {
+        "Position": 15471,
+        "Value": null
+      }
+    },
+    "197": {
+      "Tag": {
+        "Position": 15516,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.15"
+        }
+      },
+      "DevComment": {
+        "Position": 15549,
+        "Value": null
+      }
+    },
+    "198": {
+      "Tag": {
+        "Position": 15594,
+        "Value": {
+          "String": "Athena.Location.Quest.Spray.HeroPoster.16"
+        }
+      },
+      "DevComment": {
+        "Position": 15627,
+        "Value": null
+      }
+    },
+    "199": {
+      "Tag": {
+        "Position": 15672,
+        "Value": {
+          "String": "Athena.Location.Biome.Arid"
+        }
+      },
+      "DevComment": {
+        "Position": 15705,
+        "Value": null
+      }
+    },
+    "200": {
+      "Tag": {
+        "Position": 15750,
+        "Value": {
+          "String": "Athena.Location.Biome.Grassland"
+        }
+      },
+      "DevComment": {
+        "Position": 15783,
+        "Value": null
+      }
+    },
+    "201": {
+      "Tag": {
+        "Position": 15828,
+        "Value": {
+          "String": "Athena.Location.Biome.Forest"
+        }
+      },
+      "DevComment": {
+        "Position": 15861,
+        "Value": null
+      }
+    },
+    "202": {
+      "Tag": {
+        "Position": 15906,
+        "Value": {
+          "String": "Athena.Location.Biome.Mountain"
+        }
+      },
+      "DevComment": {
+        "Position": 15939,
+        "Value": null
+      }
+    },
+    "203": {
+      "Tag": {
+        "Position": 15984,
+        "Value": {
+          "String": "Athena.Location.Biome.Farmland"
+        }
+      },
+      "DevComment": {
+        "Position": 16017,
+        "Value": null
+      }
+    },
+    "204": {
+      "Tag": {
+        "Position": 16062,
+        "Value": {
+          "String": "Athena.Location.Biome.Jungle"
+        }
+      },
+      "DevComment": {
+        "Position": 16095,
+        "Value": null
+      }
+    },
+    "205": {
+      "Tag": {
+        "Position": 16140,
+        "Value": {
+          "String": "Athena.Location.Visit.Quest.VikingShip"
+        }
+      },
+      "DevComment": {
+        "Position": 16173,
+        "Value": null
+      }
+    },
+    "206": {
+      "Tag": {
+        "Position": 16218,
+        "Value": {
+          "String": "Athena.Location.Visit.Quest.Camel"
+        }
+      },
+      "DevComment": {
+        "Position": 16251,
+        "Value": null
+      }
+    },
+    "207": {
+      "Tag": {
+        "Position": 16296,
+        "Value": {
+          "String": "Athena.Location.Visit.Quest.CrashedBattleBus"
+        }
+      },
+      "DevComment": {
+        "Position": 16329,
+        "Value": null
+      }
+    },
+    "208": {
+      "Tag": {
+        "Position": 16374,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole01"
+        }
+      },
+      "DevComment": {
+        "Position": 16407,
+        "Value": null
+      }
+    },
+    "209": {
+      "Tag": {
+        "Position": 16452,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole02"
+        }
+      },
+      "DevComment": {
+        "Position": 16485,
+        "Value": null
+      }
+    },
+    "210": {
+      "Tag": {
+        "Position": 16530,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole03"
+        }
+      },
+      "DevComment": {
+        "Position": 16563,
+        "Value": null
+      }
+    },
+    "211": {
+      "Tag": {
+        "Position": 16608,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole04"
+        }
+      },
+      "DevComment": {
+        "Position": 16641,
+        "Value": null
+      }
+    },
+    "212": {
+      "Tag": {
+        "Position": 16686,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole05"
+        }
+      },
+      "DevComment": {
+        "Position": 16719,
+        "Value": null
+      }
+    },
+    "213": {
+      "Tag": {
+        "Position": 16764,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole06"
+        }
+      },
+      "DevComment": {
+        "Position": 16797,
+        "Value": null
+      }
+    },
+    "214": {
+      "Tag": {
+        "Position": 16842,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole07"
+        }
+      },
+      "DevComment": {
+        "Position": 16875,
+        "Value": null
+      }
+    },
+    "215": {
+      "Tag": {
+        "Position": 16920,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole08"
+        }
+      },
+      "DevComment": {
+        "Position": 16953,
+        "Value": null
+      }
+    },
+    "216": {
+      "Tag": {
+        "Position": 16998,
+        "Value": {
+          "String": "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole09"
+        }
+      },
+      "DevComment": {
+        "Position": 17031,
+        "Value": null
+      }
+    },
+    "217": {
+      "Tag": {
+        "Position": 17076,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.01"
+        }
+      },
+      "DevComment": {
+        "Position": 17109,
+        "Value": null
+      }
+    },
+    "218": {
+      "Tag": {
+        "Position": 17154,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.02"
+        }
+      },
+      "DevComment": {
+        "Position": 17187,
+        "Value": null
+      }
+    },
+    "219": {
+      "Tag": {
+        "Position": 17232,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.03"
+        }
+      },
+      "DevComment": {
+        "Position": 17265,
+        "Value": null
+      }
+    },
+    "220": {
+      "Tag": {
+        "Position": 17310,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.04"
+        }
+      },
+      "DevComment": {
+        "Position": 17343,
+        "Value": null
+      }
+    },
+    "221": {
+      "Tag": {
+        "Position": 17388,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.05"
+        }
+      },
+      "DevComment": {
+        "Position": 17421,
+        "Value": null
+      }
+    },
+    "222": {
+      "Tag": {
+        "Position": 17466,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.06"
+        }
+      },
+      "DevComment": {
+        "Position": 17499,
+        "Value": null
+      }
+    },
+    "223": {
+      "Tag": {
+        "Position": 17544,
+        "Value": {
+          "String": "Athena.Location.Meta.SevenSeals.07"
+        }
+      },
+      "DevComment": {
+        "Position": 17577,
+        "Value": null
+      }
+    },
+    "224": {
+      "Tag": {
+        "Position": 17622,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.01"
+        }
+      },
+      "DevComment": {
+        "Position": 17655,
+        "Value": null
+      }
+    },
+    "225": {
+      "Tag": {
+        "Position": 17700,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.02"
+        }
+      },
+      "DevComment": {
+        "Position": 17733,
+        "Value": null
+      }
+    },
+    "226": {
+      "Tag": {
+        "Position": 17778,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.03"
+        }
+      },
+      "DevComment": {
+        "Position": 17811,
+        "Value": null
+      }
+    },
+    "227": {
+      "Tag": {
+        "Position": 17856,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.04"
+        }
+      },
+      "DevComment": {
+        "Position": 17889,
+        "Value": null
+      }
+    },
+    "228": {
+      "Tag": {
+        "Position": 17934,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.05"
+        }
+      },
+      "DevComment": {
+        "Position": 17967,
+        "Value": null
+      }
+    },
+    "229": {
+      "Tag": {
+        "Position": 18012,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.06"
+        }
+      },
+      "DevComment": {
+        "Position": 18045,
+        "Value": null
+      }
+    },
+    "230": {
+      "Tag": {
+        "Position": 18090,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.07"
+        }
+      },
+      "DevComment": {
+        "Position": 18123,
+        "Value": null
+      }
+    },
+    "231": {
+      "Tag": {
+        "Position": 18168,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.08"
+        }
+      },
+      "DevComment": {
+        "Position": 18201,
+        "Value": null
+      }
+    },
+    "232": {
+      "Tag": {
+        "Position": 18246,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.09"
+        }
+      },
+      "DevComment": {
+        "Position": 18279,
+        "Value": null
+      }
+    },
+    "233": {
+      "Tag": {
+        "Position": 18324,
+        "Value": {
+          "String": "Athena.Location.Meta.Gargoyle.10"
+        }
+      },
+      "DevComment": {
+        "Position": 18357,
+        "Value": null
+      }
+    },
+    "234": {
+      "Tag": {
+        "Position": 18402,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.01"
+        }
+      },
+      "DevComment": {
+        "Position": 18435,
+        "Value": null
+      }
+    },
+    "235": {
+      "Tag": {
+        "Position": 18480,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.02"
+        }
+      },
+      "DevComment": {
+        "Position": 18513,
+        "Value": null
+      }
+    },
+    "236": {
+      "Tag": {
+        "Position": 18558,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.03"
+        }
+      },
+      "DevComment": {
+        "Position": 18591,
+        "Value": null
+      }
+    },
+    "237": {
+      "Tag": {
+        "Position": 18636,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.04"
+        }
+      },
+      "DevComment": {
+        "Position": 18669,
+        "Value": null
+      }
+    },
+    "238": {
+      "Tag": {
+        "Position": 18714,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.05"
+        }
+      },
+      "DevComment": {
+        "Position": 18747,
+        "Value": null
+      }
+    },
+    "239": {
+      "Tag": {
+        "Position": 18792,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.06"
+        }
+      },
+      "DevComment": {
+        "Position": 18825,
+        "Value": null
+      }
+    },
+    "240": {
+      "Tag": {
+        "Position": 18870,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.07"
+        }
+      },
+      "DevComment": {
+        "Position": 18903,
+        "Value": null
+      }
+    },
+    "241": {
+      "Tag": {
+        "Position": 18948,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.08"
+        }
+      },
+      "DevComment": {
+        "Position": 18981,
+        "Value": null
+      }
+    },
+    "242": {
+      "Tag": {
+        "Position": 19026,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.09"
+        }
+      },
+      "DevComment": {
+        "Position": 19059,
+        "Value": null
+      }
+    },
+    "243": {
+      "Tag": {
+        "Position": 19104,
+        "Value": {
+          "String": "Athena.Location.Meta.BirthdayCake.10"
+        }
+      },
+      "DevComment": {
+        "Position": 19137,
+        "Value": null
+      }
+    },
+    "244": {
+      "Tag": {
+        "Position": 19182,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.01"
+        }
+      },
+      "DevComment": {
+        "Position": 19215,
+        "Value": null
+      }
+    },
+    "245": {
+      "Tag": {
+        "Position": 19260,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.02"
+        }
+      },
+      "DevComment": {
+        "Position": 19293,
+        "Value": null
+      }
+    },
+    "246": {
+      "Tag": {
+        "Position": 19338,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.03"
+        }
+      },
+      "DevComment": {
+        "Position": 19371,
+        "Value": null
+      }
+    },
+    "247": {
+      "Tag": {
+        "Position": 19416,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.04"
+        }
+      },
+      "DevComment": {
+        "Position": 19449,
+        "Value": null
+      }
+    },
+    "248": {
+      "Tag": {
+        "Position": 19494,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.05"
+        }
+      },
+      "DevComment": {
+        "Position": 19527,
+        "Value": null
+      }
+    },
+    "249": {
+      "Tag": {
+        "Position": 19572,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.06"
+        }
+      },
+      "DevComment": {
+        "Position": 19605,
+        "Value": null
+      }
+    },
+    "250": {
+      "Tag": {
+        "Position": 19650,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.07"
+        }
+      },
+      "DevComment": {
+        "Position": 19683,
+        "Value": null
+      }
+    },
+    "251": {
+      "Tag": {
+        "Position": 19728,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.08"
+        }
+      },
+      "DevComment": {
+        "Position": 19761,
+        "Value": null
+      }
+    },
+    "252": {
+      "Tag": {
+        "Position": 19806,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.09"
+        }
+      },
+      "DevComment": {
+        "Position": 19839,
+        "Value": null
+      }
+    },
+    "253": {
+      "Tag": {
+        "Position": 19884,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.10"
+        }
+      },
+      "DevComment": {
+        "Position": 19917,
+        "Value": null
+      }
+    },
+    "254": {
+      "Tag": {
+        "Position": 19962,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.11"
+        }
+      },
+      "DevComment": {
+        "Position": 19995,
+        "Value": null
+      }
+    },
+    "255": {
+      "Tag": {
+        "Position": 20040,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.12"
+        }
+      },
+      "DevComment": {
+        "Position": 20073,
+        "Value": null
+      }
+    },
+    "256": {
+      "Tag": {
+        "Position": 20118,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.13"
+        }
+      },
+      "DevComment": {
+        "Position": 20151,
+        "Value": null
+      }
+    },
+    "257": {
+      "Tag": {
+        "Position": 20196,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.14"
+        }
+      },
+      "DevComment": {
+        "Position": 20229,
+        "Value": null
+      }
+    },
+    "258": {
+      "Tag": {
+        "Position": 20274,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.15"
+        }
+      },
+      "DevComment": {
+        "Position": 20307,
+        "Value": null
+      }
+    },
+    "259": {
+      "Tag": {
+        "Position": 20352,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.16"
+        }
+      },
+      "DevComment": {
+        "Position": 20385,
+        "Value": null
+      }
+    },
+    "260": {
+      "Tag": {
+        "Position": 20430,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.17"
+        }
+      },
+      "DevComment": {
+        "Position": 20463,
+        "Value": null
+      }
+    },
+    "261": {
+      "Tag": {
+        "Position": 20508,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.18"
+        }
+      },
+      "DevComment": {
+        "Position": 20541,
+        "Value": null
+      }
+    },
+    "262": {
+      "Tag": {
+        "Position": 20586,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.19"
+        }
+      },
+      "DevComment": {
+        "Position": 20619,
+        "Value": null
+      }
+    },
+    "263": {
+      "Tag": {
+        "Position": 20664,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.20"
+        }
+      },
+      "DevComment": {
+        "Position": 20697,
+        "Value": null
+      }
+    },
+    "264": {
+      "Tag": {
+        "Position": 20742,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.21"
+        }
+      },
+      "DevComment": {
+        "Position": 20775,
+        "Value": null
+      }
+    },
+    "265": {
+      "Tag": {
+        "Position": 20820,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.22"
+        }
+      },
+      "DevComment": {
+        "Position": 20853,
+        "Value": null
+      }
+    },
+    "266": {
+      "Tag": {
+        "Position": 20898,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.23"
+        }
+      },
+      "DevComment": {
+        "Position": 20931,
+        "Value": null
+      }
+    },
+    "267": {
+      "Tag": {
+        "Position": 20976,
+        "Value": {
+          "String": "Athena.Location.Meta.RiftPortalLoc.24"
+        }
+      },
+      "DevComment": {
+        "Position": 21009,
+        "Value": null
+      }
+    },
+    "268": {
+      "Tag": {
+        "Position": 21054,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.TiltedTowers"
+        }
+      },
+      "DevComment": {
+        "Position": 21087,
+        "Value": null
+      }
+    },
+    "269": {
+      "Tag": {
+        "Position": 21132,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.ShiftyShafts"
+        }
+      },
+      "DevComment": {
+        "Position": 21165,
+        "Value": null
+      }
+    },
+    "270": {
+      "Tag": {
+        "Position": 21210,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.SaltySprings"
+        }
+      },
+      "DevComment": {
+        "Position": 21243,
+        "Value": null
+      }
+    },
+    "271": {
+      "Tag": {
+        "Position": 21288,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.FatalFields"
+        }
+      },
+      "DevComment": {
+        "Position": 21321,
+        "Value": null
+      }
+    },
+    "272": {
+      "Tag": {
+        "Position": 21366,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.AnarchyAcres"
+        }
+      },
+      "DevComment": {
+        "Position": 21399,
+        "Value": null
+      }
+    },
+    "273": {
+      "Tag": {
+        "Position": 21444,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.GreasyGrove"
+        }
+      },
+      "DevComment": {
+        "Position": 21477,
+        "Value": null
+      }
+    },
+    "274": {
+      "Tag": {
+        "Position": 21522,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.RetailRow"
+        }
+      },
+      "DevComment": {
+        "Position": 21555,
+        "Value": null
+      }
+    },
+    "275": {
+      "Tag": {
+        "Position": 21600,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.TomatoTown"
+        }
+      },
+      "DevComment": {
+        "Position": 21633,
+        "Value": null
+      }
+    },
+    "276": {
+      "Tag": {
+        "Position": 21678,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.TomatoTemple"
+        }
+      },
+      "DevComment": {
+        "Position": 21711,
+        "Value": null
+      }
+    },
+    "277": {
+      "Tag": {
+        "Position": 21756,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.PleasantPark"
+        }
+      },
+      "DevComment": {
+        "Position": 21789,
+        "Value": null
+      }
+    },
+    "278": {
+      "Tag": {
+        "Position": 21834,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.WailingWoods"
+        }
+      },
+      "DevComment": {
+        "Position": 21867,
+        "Value": null
+      }
+    },
+    "279": {
+      "Tag": {
+        "Position": 21912,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.LonelyLodge"
+        }
+      },
+      "DevComment": {
+        "Position": 21945,
+        "Value": null
+      }
+    },
+    "280": {
+      "Tag": {
+        "Position": 21990,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.SnobbyShores"
+        }
+      },
+      "DevComment": {
+        "Position": 22023,
+        "Value": null
+      }
+    },
+    "281": {
+      "Tag": {
+        "Position": 22068,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.DustyDepot"
+        }
+      },
+      "DevComment": {
+        "Position": 22101,
+        "Value": null
+      }
+    },
+    "282": {
+      "Tag": {
+        "Position": 22146,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.DustyDivot"
+        }
+      },
+      "DevComment": {
+        "Position": 22179,
+        "Value": null
+      }
+    },
+    "283": {
+      "Tag": {
+        "Position": 22224,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.FlushFactory"
+        }
+      },
+      "DevComment": {
+        "Position": 22257,
+        "Value": null
+      }
+    },
+    "284": {
+      "Tag": {
+        "Position": 22302,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.JunkJunction"
+        }
+      },
+      "DevComment": {
+        "Position": 22335,
+        "Value": null
+      }
+    },
+    "285": {
+      "Tag": {
+        "Position": 22380,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.MoistyMire"
+        }
+      },
+      "DevComment": {
+        "Position": 22413,
+        "Value": null
+      }
+    },
+    "286": {
+      "Tag": {
+        "Position": 22458,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.LootLake"
+        }
+      },
+      "DevComment": {
+        "Position": 22491,
+        "Value": null
+      }
+    },
+    "287": {
+      "Tag": {
+        "Position": 22536,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.HauntedHills"
+        }
+      },
+      "DevComment": {
+        "Position": 22569,
+        "Value": null
+      }
+    },
+    "288": {
+      "Tag": {
+        "Position": 22614,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.LuckyLanding"
+        }
+      },
+      "DevComment": {
+        "Position": 22647,
+        "Value": null
+      }
+    },
+    "289": {
+      "Tag": {
+        "Position": 22692,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.RiskyReels"
+        }
+      },
+      "DevComment": {
+        "Position": 22725,
+        "Value": null
+      }
+    },
+    "290": {
+      "Tag": {
+        "Position": 22770,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.ParadisePalms"
+        }
+      },
+      "DevComment": {
+        "Position": 22803,
+        "Value": null
+      }
+    },
+    "291": {
+      "Tag": {
+        "Position": 22848,
+        "Value": {
+          "String": "Athena.Location.FishTrophy.LazyLinks"
+        }
+      },
+      "DevComment": {
+        "Position": 22881,
+        "Value": null
+      }
+    }
+  }
+]

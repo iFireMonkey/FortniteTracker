@@ -1,0 +1,2404 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "Abilities.Ninja.Assassination.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": null
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 156,
+        "Value": {
+          "String": "Abilities.Ninja.Assassination.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 189,
+        "Value": null
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 234,
+        "Value": {
+          "String": "Abilities.Ninja.Assassination.IsActive"
+        }
+      },
+      "DevComment": {
+        "Position": 267,
+        "Value": "Assassination Buff Duration"
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 340,
+        "Value": {
+          "String": "Abilities.Ninja.Cooldowns.DragonSlash"
+        }
+      },
+      "DevComment": {
+        "Position": 373,
+        "Value": "Cooldown : Dragon Slash"
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 442,
+        "Value": {
+          "String": "Abilities.Ninja.Cooldowns.SmokeBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 475,
+        "Value": "Cooldown : Smoke Bomb"
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 542,
+        "Value": {
+          "String": "Abilities.Ninja.Cooldowns.ThrowingStars"
+        }
+      },
+      "DevComment": {
+        "Position": 575,
+        "Value": "Cooldown : Throwing Stars"
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 646,
+        "Value": {
+          "String": "Abilities.Ninja.Costs.DragonSlash"
+        }
+      },
+      "DevComment": {
+        "Position": 679,
+        "Value": null
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 724,
+        "Value": {
+          "String": "Abilities.Ninja.Costs.MantisLeap"
+        }
+      },
+      "DevComment": {
+        "Position": 757,
+        "Value": null
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 802,
+        "Value": {
+          "String": "Abilities.Ninja.Costs.SmokeBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 835,
+        "Value": null
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 880,
+        "Value": {
+          "String": "Abilities.Ninja.Costs.ThrowingStars"
+        }
+      },
+      "DevComment": {
+        "Position": 913,
+        "Value": null
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 958,
+        "Value": {
+          "String": "Abilities.Ninja.DimMak.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 991,
+        "Value": null
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 1036,
+        "Value": {
+          "String": "Abilities.Ninja.DimMak.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 1069,
+        "Value": null
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 1114,
+        "Value": {
+          "String": "Abilities.Ninja.DimMak.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 1147,
+        "Value": null
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 1192,
+        "Value": {
+          "String": "Abilities.Ninja.DragonSlash"
+        }
+      },
+      "DevComment": {
+        "Position": 1225,
+        "Value": "Dragon Slash"
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 1283,
+        "Value": {
+          "String": "Abilities.Ninja.DragonSlash.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 1316,
+        "Value": null
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 1361,
+        "Value": {
+          "String": "Abilities.Ninja.DragonSlash.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 1394,
+        "Value": null
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 1439,
+        "Value": {
+          "String": "Abilities.Ninja.DragonSlash.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 1472,
+        "Value": null
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 1517,
+        "Value": {
+          "String": "Abilities.Ninja.FireAndSmoke"
+        }
+      },
+      "DevComment": {
+        "Position": 1550,
+        "Value": "Fire and Smoke : Activating Smoke Bomb now triggers Shadow Stance."
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 1662,
+        "Value": {
+          "String": "Abilities.Ninja.MantisLeap"
+        }
+      },
+      "DevComment": {
+        "Position": 1695,
+        "Value": "Mantis Leap"
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 1752,
+        "Value": {
+          "String": "Abilities.Ninja.MantisLeap.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 1785,
+        "Value": null
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 1830,
+        "Value": {
+          "String": "Abilities.Ninja.MantisLeap.CanExecute"
+        }
+      },
+      "DevComment": {
+        "Position": 1863,
+        "Value": null
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 1908,
+        "Value": {
+          "String": "Abilities.Ninja.MantisLeap.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 1941,
+        "Value": null
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 1986,
+        "Value": {
+          "String": "Abilities.Ninja.MoveLikeShadow"
+        }
+      },
+      "DevComment": {
+        "Position": 2019,
+        "Value": null
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 2064,
+        "Value": {
+          "String": "Abilities.Ninja.OnCooldown.DragonSlash"
+        }
+      },
+      "DevComment": {
+        "Position": 2097,
+        "Value": null
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 2142,
+        "Value": {
+          "String": "Abilities.Ninja.OnCooldown.SmokeBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 2175,
+        "Value": null
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 2220,
+        "Value": {
+          "String": "Abilities.Ninja.OnCooldown.ThrowingStars"
+        }
+      },
+      "DevComment": {
+        "Position": 2253,
+        "Value": null
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 2298,
+        "Value": {
+          "String": "Abilities.Ninja.PainMastery"
+        }
+      },
+      "DevComment": {
+        "Position": 2331,
+        "Value": "Pain Mastery : Stacks of Assassination increase critical hit chance of Swords by 5% per stack."
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 2471,
+        "Value": {
+          "String": "Abilities.Ninja.PoisonedBlade.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 2504,
+        "Value": null
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 2549,
+        "Value": {
+          "String": "Abilities.Ninja.PoisonedBlade.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 2582,
+        "Value": null
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 2627,
+        "Value": {
+          "String": "Abilities.Ninja.PoisonedBlade.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 2660,
+        "Value": null
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 2705,
+        "Value": {
+          "String": "Abilities.Ninja.PrayingMantis"
+        }
+      },
+      "DevComment": {
+        "Position": 2738,
+        "Value": "Praying Mantis : Increases the jump height of Mantis Leap by 50%."
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 2849,
+        "Value": {
+          "String": "Abilities.Ninja.ReturnOfTheDragon"
+        }
+      },
+      "DevComment": {
+        "Position": 2882,
+        "Value": null
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 2927,
+        "Value": {
+          "String": "Abilities.Ninja.RunSpeed.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 2960,
+        "Value": null
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 3005,
+        "Value": {
+          "String": "Abilities.Ninja.RunSpeed.DeActivate"
+        }
+      },
+      "DevComment": {
+        "Position": 3038,
+        "Value": null
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 3083,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowStance.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 3116,
+        "Value": "Activate Shadow Stance"
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 3184,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowStance.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 3217,
+        "Value": "Deactivate Shadow Stance"
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 3287,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowStance.IsActive.Default"
+        }
+      },
+      "DevComment": {
+        "Position": 3320,
+        "Value": "Shadow Stance"
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 3379,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowStance.isActive.FireAndSmoke"
+        }
+      },
+      "DevComment": {
+        "Position": 3412,
+        "Value": "Fire and Smoke Active"
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 3479,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 3512,
+        "Value": "Smoke Bomb"
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 3568,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 3601,
+        "Value": null
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 3646,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.Cloud.Snare"
+        }
+      },
+      "DevComment": {
+        "Position": 3679,
+        "Value": null
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 3724,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 3757,
+        "Value": null
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 3802,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.ImpactFX"
+        }
+      },
+      "DevComment": {
+        "Position": 3835,
+        "Value": null
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 3880,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.PostActivate"
+        }
+      },
+      "DevComment": {
+        "Position": 3913,
+        "Value": null
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 3958,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.RunSpeed.Default"
+        }
+      },
+      "DevComment": {
+        "Position": 3991,
+        "Value": "Smoke Bomb Run Speed Boost"
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 4063,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.Runspeed.UpInSmoke"
+        }
+      },
+      "DevComment": {
+        "Position": 4096,
+        "Value": "Smoke Bomb Run Speed Boost"
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 4168,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.Stunned"
+        }
+      },
+      "DevComment": {
+        "Position": 4201,
+        "Value": null
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 4246,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars"
+        }
+      },
+      "DevComment": {
+        "Position": 4279,
+        "Value": "Throwing Stars"
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 4339,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 4372,
+        "Value": null
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 4417,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 4450,
+        "Value": null
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 4495,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.PostActivate"
+        }
+      },
+      "DevComment": {
+        "Position": 4528,
+        "Value": null
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 4573,
+        "Value": {
+          "String": "Abilities.Ninja.Triggered.EnterShadowStance"
+        }
+      },
+      "DevComment": {
+        "Position": 4606,
+        "Value": null
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 4651,
+        "Value": {
+          "String": "Abilities.Ninja.Triggered.RunSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 4684,
+        "Value": null
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 4729,
+        "Value": {
+          "String": "Abilities.Ninja.WindAndStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 4762,
+        "Value": "Wind and Storm : Stacks of Assassination increase move speed by 5% per stack."
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 4885,
+        "Value": {
+          "String": "GameplayCue.Ninja.Assassination.ActiveFX"
+        }
+      },
+      "DevComment": {
+        "Position": 4918,
+        "Value": null
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 4963,
+        "Value": {
+          "String": "GameplayCue.Ninja.DimMak.ActiveFX"
+        }
+      },
+      "DevComment": {
+        "Position": 4996,
+        "Value": null
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 5041,
+        "Value": {
+          "String": "GameplayCue.Ninja.MantisLeap.ActivationFX"
+        }
+      },
+      "DevComment": {
+        "Position": 5074,
+        "Value": null
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 5119,
+        "Value": {
+          "String": "GameplayCue.Ninja.SmokeBomb.ImpactFX"
+        }
+      },
+      "DevComment": {
+        "Position": 5152,
+        "Value": null
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 5197,
+        "Value": {
+          "String": "ImportTest.Ninja"
+        }
+      },
+      "DevComment": {
+        "Position": 5230,
+        "Value": "DefaultText"
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 5287,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowStance.IsActive"
+        }
+      },
+      "DevComment": {
+        "Position": 5320,
+        "Value": "While in Shadow Stance"
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 5388,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.RunSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 5421,
+        "Value": "Smoke Bomb Run Speed Boost"
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 5493,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowStance.GE"
+        }
+      },
+      "DevComment": {
+        "Position": 5526,
+        "Value": "Shadow Stance"
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 5585,
+        "Value": {
+          "String": "Abilities.Ninja.Training.1"
+        }
+      },
+      "DevComment": {
+        "Position": 5618,
+        "Value": "Ninja Training I"
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 5680,
+        "Value": {
+          "String": "Abilities.Ninja.Training.2"
+        }
+      },
+      "DevComment": {
+        "Position": 5713,
+        "Value": "Ninja Training II"
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 5776,
+        "Value": {
+          "String": "Abilities.Ninja.Training.3"
+        }
+      },
+      "DevComment": {
+        "Position": 5809,
+        "Value": "Ninja Training III"
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 5873,
+        "Value": {
+          "String": "Abilities.Ninja.Training.4"
+        }
+      },
+      "DevComment": {
+        "Position": 5906,
+        "Value": "Ninja Training IV"
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 5969,
+        "Value": {
+          "String": "Abilities.Ninja.Training.5"
+        }
+      },
+      "DevComment": {
+        "Position": 6002,
+        "Value": "Ninja Training V"
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 6064,
+        "Value": {
+          "String": "Abilities.Ninja.AbilityFatigue.NinjaAbility"
+        }
+      },
+      "DevComment": {
+        "Position": 6097,
+        "Value": null
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 6142,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.DefaultEffect"
+        }
+      },
+      "DevComment": {
+        "Position": 6175,
+        "Value": null
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 6220,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.ApplyAffliction"
+        }
+      },
+      "DevComment": {
+        "Position": 6253,
+        "Value": null
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 6298,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.TriggerSmokeBomb"
+        }
+      },
+      "DevComment": {
+        "Position": 6331,
+        "Value": null
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 6376,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.PoisonDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 6409,
+        "Value": "Throwing Star Poison Damage"
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 6482,
+        "Value": {
+          "String": "Abilities.Ninja.RainOfDeath"
+        }
+      },
+      "DevComment": {
+        "Position": 6515,
+        "Value": null
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 6560,
+        "Value": {
+          "String": "Abilities.Ninja.WingsOfTheDragon"
+        }
+      },
+      "DevComment": {
+        "Position": 6593,
+        "Value": null
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 6638,
+        "Value": {
+          "String": "Abilities.Ninja.TailOfTheDragon"
+        }
+      },
+      "DevComment": {
+        "Position": 6671,
+        "Value": null
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 6716,
+        "Value": {
+          "String": "Abilities.Ninja.ShroudOfTheDragon"
+        }
+      },
+      "DevComment": {
+        "Position": 6749,
+        "Value": null
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 6794,
+        "Value": {
+          "String": "Abilities.Ninja.BreathOfTheDragon"
+        }
+      },
+      "DevComment": {
+        "Position": 6827,
+        "Value": null
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 6872,
+        "Value": {
+          "String": "Abilities.Ninja.MantisStrike.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 6905,
+        "Value": "Mantis Strike Damage"
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 6971,
+        "Value": {
+          "String": "Abilities.Ninja.MantisStrike"
+        }
+      },
+      "DevComment": {
+        "Position": 7004,
+        "Value": "Mantis Strike"
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 7063,
+        "Value": {
+          "String": "Abilities.Ninja.Cascade"
+        }
+      },
+      "DevComment": {
+        "Position": 7096,
+        "Value": null
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 7141,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding1.1"
+        }
+      },
+      "DevComment": {
+        "Position": 7174,
+        "Value": null
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 7219,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding1.2"
+        }
+      },
+      "DevComment": {
+        "Position": 7252,
+        "Value": null
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 7297,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding1.3"
+        }
+      },
+      "DevComment": {
+        "Position": 7330,
+        "Value": null
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 7375,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding1.4"
+        }
+      },
+      "DevComment": {
+        "Position": 7408,
+        "Value": null
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 7453,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding1.5"
+        }
+      },
+      "DevComment": {
+        "Position": 7486,
+        "Value": null
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 7531,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding2.1"
+        }
+      },
+      "DevComment": {
+        "Position": 7564,
+        "Value": null
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 7609,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding2.2"
+        }
+      },
+      "DevComment": {
+        "Position": 7642,
+        "Value": "Throwing Stars : Throws one additional star during throw two and three. "
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 7760,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding2.3"
+        }
+      },
+      "DevComment": {
+        "Position": 7793,
+        "Value": "Shadow Stance : Increases Shadow Stance's duration based on Ninja Rating."
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 7912,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding2.4"
+        }
+      },
+      "DevComment": {
+        "Position": 7945,
+        "Value": "Throwing Stars : Throws two additional stars during throw two and three. "
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 8064,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding2.5"
+        }
+      },
+      "DevComment": {
+        "Position": 8097,
+        "Value": "Throwing Stars : Increases Throwing Star's damage based on Ninja Lair Rating. "
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 8221,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding3.1"
+        }
+      },
+      "DevComment": {
+        "Position": 8254,
+        "Value": null
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 8299,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding3.2"
+        }
+      },
+      "DevComment": {
+        "Position": 8332,
+        "Value": null
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 8377,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding3.3"
+        }
+      },
+      "DevComment": {
+        "Position": 8410,
+        "Value": null
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 8455,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding3.4"
+        }
+      },
+      "DevComment": {
+        "Position": 8488,
+        "Value": null
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 8533,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding3.5"
+        }
+      },
+      "DevComment": {
+        "Position": 8566,
+        "Value": null
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 8611,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding4.1"
+        }
+      },
+      "DevComment": {
+        "Position": 8644,
+        "Value": null
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 8689,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding4.2"
+        }
+      },
+      "DevComment": {
+        "Position": 8722,
+        "Value": null
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 8767,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding4.3"
+        }
+      },
+      "DevComment": {
+        "Position": 8800,
+        "Value": null
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 8845,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding4.4"
+        }
+      },
+      "DevComment": {
+        "Position": 8878,
+        "Value": null
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 8923,
+        "Value": {
+          "String": "Abilities.Ninja.SubBuilding4.5"
+        }
+      },
+      "DevComment": {
+        "Position": 8956,
+        "Value": null
+      }
+    },
+    "100": {
+      "Tag": {
+        "Position": 9001,
+        "Value": {
+          "String": "Abilities.Ninja.Debuffs.TailOfTheDragon.AOE"
+        }
+      },
+      "DevComment": {
+        "Position": 9034,
+        "Value": null
+      }
+    },
+    "101": {
+      "Tag": {
+        "Position": 9079,
+        "Value": {
+          "String": "Abilities.Ninja.Debuffs.TailOfTheDragon.ReEntryBuffer"
+        }
+      },
+      "DevComment": {
+        "Position": 9112,
+        "Value": null
+      }
+    },
+    "102": {
+      "Tag": {
+        "Position": 9157,
+        "Value": {
+          "String": "Abilities.Ninja.TailOfTheDragon.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 9190,
+        "Value": "Tail of the Dragon Damage"
+      }
+    },
+    "103": {
+      "Tag": {
+        "Position": 9261,
+        "Value": {
+          "String": "Abilities.Ninja.PoisonedBlade.Unlocked"
+        }
+      },
+      "DevComment": {
+        "Position": 9294,
+        "Value": "Poison Blade : Sword Critical Hits cause the target to become Afflicted with poison, dealing damage over time."
+      }
+    },
+    "104": {
+      "Tag": {
+        "Position": 9450,
+        "Value": {
+          "String": "Abilities.Ninja.Assassination.AppliedDuration"
+        }
+      },
+      "DevComment": {
+        "Position": 9483,
+        "Value": "Assassination Stack Duration"
+      }
+    },
+    "105": {
+      "Tag": {
+        "Position": 9557,
+        "Value": {
+          "String": "Abilities.Ninja.SmokeBomb.SlowEffect"
+        }
+      },
+      "DevComment": {
+        "Position": 9590,
+        "Value": "Smoke Bomb Slow Duration"
+      }
+    },
+    "106": {
+      "Tag": {
+        "Position": 9660,
+        "Value": {
+          "String": "Gameplaycue.Ninja.MantisLeap.MantisStrikeFX"
+        }
+      },
+      "DevComment": {
+        "Position": 9693,
+        "Value": null
+      }
+    },
+    "107": {
+      "Tag": {
+        "Position": 9738,
+        "Value": {
+          "String": "Abilities.Ninja.MantisShroud"
+        }
+      },
+      "DevComment": {
+        "Position": 9771,
+        "Value": "Mantis Shroud"
+      }
+    },
+    "108": {
+      "Tag": {
+        "Position": 9830,
+        "Value": {
+          "String": "Abilities.Ninja.PiercingStars"
+        }
+      },
+      "DevComment": {
+        "Position": 9863,
+        "Value": null
+      }
+    },
+    "109": {
+      "Tag": {
+        "Position": 9908,
+        "Value": {
+          "String": "Abilities.Ninja.7Points"
+        }
+      },
+      "DevComment": {
+        "Position": 9941,
+        "Value": null
+      }
+    },
+    "110": {
+      "Tag": {
+        "Position": 9986,
+        "Value": {
+          "String": "Abilities.Ninja.ExtraLongFuse"
+        }
+      },
+      "DevComment": {
+        "Position": 10019,
+        "Value": null
+      }
+    },
+    "111": {
+      "Tag": {
+        "Position": 10064,
+        "Value": {
+          "String": "Abilities.Ninja.PoisonStars"
+        }
+      },
+      "DevComment": {
+        "Position": 10097,
+        "Value": null
+      }
+    },
+    "112": {
+      "Tag": {
+        "Position": 10142,
+        "Value": {
+          "String": "Abilities.Ninja.NowYouSeeMe"
+        }
+      },
+      "DevComment": {
+        "Position": 10175,
+        "Value": null
+      }
+    },
+    "113": {
+      "Tag": {
+        "Position": 10220,
+        "Value": {
+          "String": "Abilities.Ninja.ShadowierStance"
+        }
+      },
+      "DevComment": {
+        "Position": 10253,
+        "Value": null
+      }
+    },
+    "114": {
+      "Tag": {
+        "Position": 10298,
+        "Value": {
+          "String": "Abilities.Ninja.LongSassin"
+        }
+      },
+      "DevComment": {
+        "Position": 10331,
+        "Value": null
+      }
+    },
+    "115": {
+      "Tag": {
+        "Position": 10376,
+        "Value": {
+          "String": "Abilities.Ninja.ThreeMantisStyle"
+        }
+      },
+      "DevComment": {
+        "Position": 10409,
+        "Value": null
+      }
+    },
+    "116": {
+      "Tag": {
+        "Position": 10454,
+        "Value": {
+          "String": "Abilities.Ninja.UtilityBelt"
+        }
+      },
+      "DevComment": {
+        "Position": 10487,
+        "Value": null
+      }
+    },
+    "117": {
+      "Tag": {
+        "Position": 10532,
+        "Value": {
+          "String": "Abilities.Ninja.DeepPockets"
+        }
+      },
+      "DevComment": {
+        "Position": 10565,
+        "Value": null
+      }
+    },
+    "118": {
+      "Tag": {
+        "Position": 10610,
+        "Value": {
+          "String": "Abilities.Ninja.TrainedThrow"
+        }
+      },
+      "DevComment": {
+        "Position": 10643,
+        "Value": null
+      }
+    },
+    "119": {
+      "Tag": {
+        "Position": 10688,
+        "Value": {
+          "String": "Abilities.Ninja.RapidFire"
+        }
+      },
+      "DevComment": {
+        "Position": 10721,
+        "Value": null
+      }
+    },
+    "120": {
+      "Tag": {
+        "Position": 10766,
+        "Value": {
+          "String": "Abilities.Ninja.Stormborne"
+        }
+      },
+      "DevComment": {
+        "Position": 10799,
+        "Value": "Tactical Perk"
+      }
+    },
+    "121": {
+      "Tag": {
+        "Position": 10858,
+        "Value": {
+          "String": "Abilities.Ninja.EscapeArtist"
+        }
+      },
+      "DevComment": {
+        "Position": 10891,
+        "Value": "Tactical Perk"
+      }
+    },
+    "122": {
+      "Tag": {
+        "Position": 10950,
+        "Value": {
+          "String": "Abilities.Ninja.ThreeRiversTechnique"
+        }
+      },
+      "DevComment": {
+        "Position": 10983,
+        "Value": null
+      }
+    },
+    "123": {
+      "Tag": {
+        "Position": 11028,
+        "Value": {
+          "String": "Abilities.Ninja.LegendarySword"
+        }
+      },
+      "DevComment": {
+        "Position": 11061,
+        "Value": "Normal Perk and Tactical Perk"
+      }
+    },
+    "124": {
+      "Tag": {
+        "Position": 11136,
+        "Value": {
+          "String": "Abilities.Ninja.Poisoner"
+        }
+      },
+      "DevComment": {
+        "Position": 11169,
+        "Value": "Tactical Perk"
+      }
+    },
+    "125": {
+      "Tag": {
+        "Position": 11228,
+        "Value": {
+          "String": "Abilities.Ninja.PressurePoints"
+        }
+      },
+      "DevComment": {
+        "Position": 11261,
+        "Value": "Tactical Perk"
+      }
+    },
+    "126": {
+      "Tag": {
+        "Position": 11320,
+        "Value": {
+          "String": "Abilities.Ninja.BloodyBull"
+        }
+      },
+      "DevComment": {
+        "Position": 11353,
+        "Value": "Tactical Perk"
+      }
+    },
+    "127": {
+      "Tag": {
+        "Position": 11412,
+        "Value": {
+          "String": "Abilities.Ninja.EasySword"
+        }
+      },
+      "DevComment": {
+        "Position": 11445,
+        "Value": "Normal Perk. Used to make Easier Sword work right, and make sure Easy Melee/Sword don't stack."
+      }
+    },
+    "128": {
+      "Tag": {
+        "Position": 11585,
+        "Value": {
+          "String": "Abilities.Ninja.DragonSlash.TooltipContainer"
+        }
+      },
+      "DevComment": {
+        "Position": 11618,
+        "Value": "Dummy container used to pass damage values to the tooltip"
+      }
+    },
+    "129": {
+      "Tag": {
+        "Position": 11721,
+        "Value": {
+          "String": "Abilities.Ninja.OnCooldown.CrescentKick"
+        }
+      },
+      "DevComment": {
+        "Position": 11754,
+        "Value": null
+      }
+    },
+    "130": {
+      "Tag": {
+        "Position": 11799,
+        "Value": {
+          "String": "Abilities.Ninja.Cooldowns.CrescentKick"
+        }
+      },
+      "DevComment": {
+        "Position": 11832,
+        "Value": null
+      }
+    },
+    "131": {
+      "Tag": {
+        "Position": 11877,
+        "Value": {
+          "String": "Abilities.Ninja.CrescentKick"
+        }
+      },
+      "DevComment": {
+        "Position": 11910,
+        "Value": null
+      }
+    },
+    "132": {
+      "Tag": {
+        "Position": 11955,
+        "Value": {
+          "String": "Abilities.Ninja.CrescentKick.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 11988,
+        "Value": null
+      }
+    },
+    "133": {
+      "Tag": {
+        "Position": 12033,
+        "Value": {
+          "String": "Abilities.Ninja.CrescentKick.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 12066,
+        "Value": null
+      }
+    },
+    "134": {
+      "Tag": {
+        "Position": 12111,
+        "Value": {
+          "String": "Abilities.Ninja.CrescentKick.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 12144,
+        "Value": null
+      }
+    },
+    "135": {
+      "Tag": {
+        "Position": 12189,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.ReduceCooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 12222,
+        "Value": null
+      }
+    },
+    "136": {
+      "Tag": {
+        "Position": 12267,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.Cost"
+        }
+      },
+      "DevComment": {
+        "Position": 12300,
+        "Value": null
+      }
+    },
+    "137": {
+      "Tag": {
+        "Position": 12345,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 12378,
+        "Value": null
+      }
+    },
+    "138": {
+      "Tag": {
+        "Position": 12423,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.EnergyDamage"
+        }
+      },
+      "DevComment": {
+        "Position": 12456,
+        "Value": null
+      }
+    },
+    "139": {
+      "Tag": {
+        "Position": 12501,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.Impact"
+        }
+      },
+      "DevComment": {
+        "Position": 12534,
+        "Value": null
+      }
+    },
+    "140": {
+      "Tag": {
+        "Position": 12579,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.ShadowStance"
+        }
+      },
+      "DevComment": {
+        "Position": 12612,
+        "Value": null
+      }
+    },
+    "141": {
+      "Tag": {
+        "Position": 12657,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.Stun"
+        }
+      },
+      "DevComment": {
+        "Position": 12690,
+        "Value": null
+      }
+    },
+    "142": {
+      "Tag": {
+        "Position": 12735,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.Vulnerability"
+        }
+      },
+      "DevComment": {
+        "Position": 12768,
+        "Value": null
+      }
+    },
+    "143": {
+      "Tag": {
+        "Position": 12813,
+        "Value": {
+          "String": "Abilities.Ninja.Tactical.WarCryMaxShield"
+        }
+      },
+      "DevComment": {
+        "Position": 12846,
+        "Value": "Tactical Perk that gives War Cry a shield boosting effect."
+      }
+    },
+    "144": {
+      "Tag": {
+        "Position": 12950,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Fleetfoot"
+        }
+      },
+      "DevComment": {
+        "Position": 12983,
+        "Value": "Fleetfoot Ninja"
+      }
+    },
+    "145": {
+      "Tag": {
+        "Position": 13044,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Assassin"
+        }
+      },
+      "DevComment": {
+        "Position": 13077,
+        "Value": "Assassin"
+      }
+    },
+    "146": {
+      "Tag": {
+        "Position": 13131,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Dragon"
+        }
+      },
+      "DevComment": {
+        "Position": 13164,
+        "Value": "Dragon Ninja"
+      }
+    },
+    "147": {
+      "Tag": {
+        "Position": 13222,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.DimMak"
+        }
+      },
+      "DevComment": {
+        "Position": 13255,
+        "Value": "Dim Mak Ninja"
+      }
+    },
+    "148": {
+      "Tag": {
+        "Position": 13314,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Shuriken"
+        }
+      },
+      "DevComment": {
+        "Position": 13347,
+        "Value": "Shuriken Master"
+      }
+    },
+    "149": {
+      "Tag": {
+        "Position": 13408,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.LegendarySwordmaster"
+        }
+      },
+      "DevComment": {
+        "Position": 13441,
+        "Value": "Legendary Swordmaster"
+      }
+    },
+    "150": {
+      "Tag": {
+        "Position": 13508,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Brawler"
+        }
+      },
+      "DevComment": {
+        "Position": 13541,
+        "Value": "Brawler"
+      }
+    },
+    "151": {
+      "Tag": {
+        "Position": 13594,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.StonefootNinja"
+        }
+      },
+      "DevComment": {
+        "Position": 13627,
+        "Value": "Stonefoot Ninja"
+      }
+    },
+    "152": {
+      "Tag": {
+        "Position": 13688,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Skirmisher"
+        }
+      },
+      "DevComment": {
+        "Position": 13721,
+        "Value": "Skirmisher"
+      }
+    },
+    "153": {
+      "Tag": {
+        "Position": 13777,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Poisoner"
+        }
+      },
+      "DevComment": {
+        "Position": 13810,
+        "Value": "Poisoner"
+      }
+    },
+    "154": {
+      "Tag": {
+        "Position": 13864,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.ThunderStrike"
+        }
+      },
+      "DevComment": {
+        "Position": 13897,
+        "Value": "ThunderStrike"
+      }
+    },
+    "155": {
+      "Tag": {
+        "Position": 13956,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Alchemist"
+        }
+      },
+      "DevComment": {
+        "Position": 13989,
+        "Value": "Alchemist"
+      }
+    },
+    "156": {
+      "Tag": {
+        "Position": 14044,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.CrescentKick.EnergyReturn"
+        }
+      },
+      "DevComment": {
+        "Position": 14077,
+        "Value": "Crescent kick returns energy for each enemy hit"
+      }
+    },
+    "157": {
+      "Tag": {
+        "Position": 14170,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.EnergyThief"
+        }
+      },
+      "DevComment": {
+        "Position": 14203,
+        "Value": "EnergyThief Ninja"
+      }
+    },
+    "158": {
+      "Tag": {
+        "Position": 14266,
+        "Value": {
+          "String": "Abilities.Ninja.Tactical.MeleeEnergyReturn"
+        }
+      },
+      "DevComment": {
+        "Position": 14299,
+        "Value": "melee tactical perk that returns stamina every 4 hits"
+      }
+    },
+    "159": {
+      "Tag": {
+        "Position": 14398,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SmokeBombHeals"
+        }
+      },
+      "DevComment": {
+        "Position": 14431,
+        "Value": null
+      }
+    },
+    "160": {
+      "Tag": {
+        "Position": 14476,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SwordHitsHeal.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 14509,
+        "Value": null
+      }
+    },
+    "161": {
+      "Tag": {
+        "Position": 14554,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SwordHitsHeal.Activated"
+        }
+      },
+      "DevComment": {
+        "Position": 14587,
+        "Value": null
+      }
+    },
+    "162": {
+      "Tag": {
+        "Position": 14632,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SwordHitsHeal.Deactivated"
+        }
+      },
+      "DevComment": {
+        "Position": 14665,
+        "Value": null
+      }
+    },
+    "163": {
+      "Tag": {
+        "Position": 14710,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SwordHitsHeal.Cooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 14743,
+        "Value": null
+      }
+    },
+    "164": {
+      "Tag": {
+        "Position": 14788,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SwordHitsHeal.Assigned"
+        }
+      },
+      "DevComment": {
+        "Position": 14821,
+        "Value": null
+      }
+    },
+    "165": {
+      "Tag": {
+        "Position": 14866,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Tactical.MeleeHitsHeal.Activated"
+        }
+      },
+      "DevComment": {
+        "Position": 14899,
+        "Value": null
+      }
+    },
+    "166": {
+      "Tag": {
+        "Position": 14944,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Tactical.MeleeHitsHeal.Deactivated"
+        }
+      },
+      "DevComment": {
+        "Position": 14977,
+        "Value": null
+      }
+    },
+    "167": {
+      "Tag": {
+        "Position": 15022,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Tactical.MeleeHitsHeal.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 15055,
+        "Value": null
+      }
+    },
+    "168": {
+      "Tag": {
+        "Position": 15100,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Tactical.MeleeHitsHeal.Cooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 15133,
+        "Value": null
+      }
+    },
+    "169": {
+      "Tag": {
+        "Position": 15178,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SluggishStrikes.Applied"
+        }
+      },
+      "DevComment": {
+        "Position": 15211,
+        "Value": null
+      }
+    },
+    "170": {
+      "Tag": {
+        "Position": 15256,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.LateArrival"
+        }
+      },
+      "DevComment": {
+        "Position": 15289,
+        "Value": null
+      }
+    },
+    "171": {
+      "Tag": {
+        "Position": 15334,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.Reaper"
+        }
+      },
+      "DevComment": {
+        "Position": 15367,
+        "Value": "Reaper Ninja"
+      }
+    },
+    "172": {
+      "Tag": {
+        "Position": 15425,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SluggishStrikes.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 15458,
+        "Value": null
+      }
+    },
+    "173": {
+      "Tag": {
+        "Position": 15503,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SluggishStrikes.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 15536,
+        "Value": null
+      }
+    },
+    "174": {
+      "Tag": {
+        "Position": 15581,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.ThrowingStars.FanOfStars"
+        }
+      },
+      "DevComment": {
+        "Position": 15614,
+        "Value": "Throwing Stars throws seven stars in a fan on its first throw, does not throw any other stars."
+      }
+    },
+    "175": {
+      "Tag": {
+        "Position": 15754,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.PiercingLotus"
+        }
+      },
+      "DevComment": {
+        "Position": 15787,
+        "Value": "PiercingLotus Ninja"
+      }
+    },
+    "176": {
+      "Tag": {
+        "Position": 15852,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.ShadowStar"
+        }
+      },
+      "DevComment": {
+        "Position": 15885,
+        "Value": "ShadowStar Ninja"
+      }
+    },
+    "177": {
+      "Tag": {
+        "Position": 15947,
+        "Value": {
+          "String": "Granted.Abilities.Ninja.Perks.Tactical.ThrowingStars.FanOfStars"
+        }
+      },
+      "DevComment": {
+        "Position": 15980,
+        "Value": "Tactical Perk Turning Throwing Stars into A Fan Shape"
+      }
+    },
+    "178": {
+      "Tag": {
+        "Position": 16079,
+        "Value": {
+          "String": "Granted.Abilities.Ninja.ThrowingStars.InstantArc"
+        }
+      },
+      "DevComment": {
+        "Position": 16112,
+        "Value": "Changes Throwing Stars to throw all stars at once in a spreading arc."
+      }
+    },
+    "179": {
+      "Tag": {
+        "Position": 16227,
+        "Value": {
+          "String": "Granted.Abilities.Ninja.ThrowingStars.AdditionalStar"
+        }
+      },
+      "DevComment": {
+        "Position": 16260,
+        "Value": "Adds one additional star to be thrown."
+      }
+    },
+    "180": {
+      "Tag": {
+        "Position": 16344,
+        "Value": {
+          "String": "Abilities.Ninja.ThrowingStars.AdditionalStar"
+        }
+      },
+      "DevComment": {
+        "Position": 16377,
+        "Value": "Adds one additional star to be thrown."
+      }
+    },
+    "181": {
+      "Tag": {
+        "Position": 16461,
+        "Value": {
+          "String": "Granted.Abilities.Ninja.Perks.Smokebomb.EndlessSmoke"
+        }
+      },
+      "DevComment": {
+        "Position": 16494,
+        "Value": "Endless Smoke Perk Granted"
+      }
+    },
+    "182": {
+      "Tag": {
+        "Position": 16566,
+        "Value": {
+          "String": "Granted.Abilities.Ninja.Perks.SmokeBomb.AssassinationJuice"
+        }
+      },
+      "DevComment": {
+        "Position": 16599,
+        "Value": "Assassination Juice Perk Granted"
+      }
+    },
+    "183": {
+      "Tag": {
+        "Position": 16677,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SmokeBomb.AssassinationJuice.Targeting1"
+        }
+      },
+      "DevComment": {
+        "Position": 16710,
+        "Value": "Assassination Juice targeting container"
+      }
+    },
+    "184": {
+      "Tag": {
+        "Position": 16795,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.SmokeBomb.AssassinationJuice.Heal.Targeting1"
+        }
+      },
+      "DevComment": {
+        "Position": 16828,
+        "Value": "Assassination and Heal targeting container"
+      }
+    },
+    "185": {
+      "Tag": {
+        "Position": 16916,
+        "Value": {
+          "String": "Granted.Abilities.Ninja.Perks.AssassinationDischarge"
+        }
+      },
+      "DevComment": {
+        "Position": 16949,
+        "Value": "Assassination Discharge Perk Granted"
+      }
+    },
+    "186": {
+      "Tag": {
+        "Position": 17031,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Assassination.Overflow"
+        }
+      },
+      "DevComment": {
+        "Position": 17064,
+        "Value": "Assassination Overflow"
+      }
+    },
+    "187": {
+      "Tag": {
+        "Position": 17132,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Assassination.Overflow.Targeting1"
+        }
+      },
+      "DevComment": {
+        "Position": 17165,
+        "Value": "Assassination Overflow Targeting"
+      }
+    },
+    "188": {
+      "Tag": {
+        "Position": 17243,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.Assassination.Overflow.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 17276,
+        "Value": "Assassination Overflow Damage"
+      }
+    },
+    "189": {
+      "Tag": {
+        "Position": 17351,
+        "Value": {
+          "String": "Abilities.Ninja.OnCooldown.AssassinationDischarge"
+        }
+      },
+      "DevComment": {
+        "Position": 17384,
+        "Value": "Assassination Discharge Cooldown"
+      }
+    },
+    "190": {
+      "Tag": {
+        "Position": 17462,
+        "Value": {
+          "String": "Homebase.Class.IsNinja.ExplosiveAssassin"
+        }
+      },
+      "DevComment": {
+        "Position": 17495,
+        "Value": "Explosive Assassin Ninja"
+      }
+    },
+    "191": {
+      "Tag": {
+        "Position": 17565,
+        "Value": {
+          "String": "Abilities.Ninja.KunaiStorm.Activate"
+        }
+      },
+      "DevComment": {
+        "Position": 17598,
+        "Value": "Kunai Storm Activate"
+      }
+    },
+    "192": {
+      "Tag": {
+        "Position": 17664,
+        "Value": {
+          "String": "Abilities.Ninja.KunaiStorm.Deactivate"
+        }
+      },
+      "DevComment": {
+        "Position": 17697,
+        "Value": "Kunai Storm Deactivate"
+      }
+    },
+    "193": {
+      "Tag": {
+        "Position": 17765,
+        "Value": {
+          "String": "Abilities.Ninja.KunaiStorm.DefaultTargeting"
+        }
+      },
+      "DevComment": {
+        "Position": 17798,
+        "Value": "Kunai Storm DefaultTargeting"
+      }
+    },
+    "194": {
+      "Tag": {
+        "Position": 17872,
+        "Value": {
+          "String": "Abilities.Ninja.KunaiStorm.KunaiBombTargeting"
+        }
+      },
+      "DevComment": {
+        "Position": 17905,
+        "Value": "Kunai Storm Kunai BombTargeting"
+      }
+    },
+    "195": {
+      "Tag": {
+        "Position": 17982,
+        "Value": {
+          "String": "Abilities.Ninja.KunaiStorm.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 18015,
+        "Value": "Kunai Storm Damage"
+      }
+    },
+    "196": {
+      "Tag": {
+        "Position": 18079,
+        "Value": {
+          "String": "Abilities.Ninja.Cooldowns.KunaiStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 18112,
+        "Value": "Cooldowns Kunai KunaiStorm"
+      }
+    },
+    "197": {
+      "Tag": {
+        "Position": 18184,
+        "Value": {
+          "String": "Abilities.Ninja.Oncooldown.KunaiStorm"
+        }
+      },
+      "DevComment": {
+        "Position": 18217,
+        "Value": "Oncooldown Kunai KunaiStorm"
+      }
+    },
+    "198": {
+      "Tag": {
+        "Position": 18290,
+        "Value": {
+          "String": "Abilities.Ninja.Perks.KunaiBomb.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 18323,
+        "Value": "Kunai Bomb Damage"
+      }
+    },
+    "199": {
+      "Tag": {
+        "Position": 18386,
+        "Value": {
+          "String": "GameplayCue.Ninja.DragonSlash.DamageFX"
+        }
+      },
+      "DevComment": {
+        "Position": 18419,
+        "Value": "GC for Dragon Slash"
+      }
+    }
+  }
+]

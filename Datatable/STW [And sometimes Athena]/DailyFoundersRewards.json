@@ -1,0 +1,3658 @@
+[
+  {
+    "0": {
+      "ItemDefinition": {
+        "Position": 78,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 115,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 144,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "9A77F38C4B95EF8D6E4050AF5793207A",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 240,
+        "Value": false
+      }
+    },
+    "1": {
+      "ItemDefinition": {
+        "Position": 283,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 320,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 349,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "80FD0FFC4CB23CD6A2CC56B70643D740",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 445,
+        "Value": false
+      }
+    },
+    "2": {
+      "ItemDefinition": {
+        "Position": 488,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 525,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 554,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C11337FE4BC66FF4AEE3D5937A34C52C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 650,
+        "Value": false
+      }
+    },
+    "3": {
+      "ItemDefinition": {
+        "Position": 693,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 730,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 759,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A54F009D45571F5A384427BF0B231D32",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 855,
+        "Value": false
+      }
+    },
+    "4": {
+      "ItemDefinition": {
+        "Position": 898,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 935,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 964,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "ACFFF11C4454C8721E4238A4E84D8CC8",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 1060,
+        "Value": false
+      }
+    },
+    "5": {
+      "ItemDefinition": {
+        "Position": 1103,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 1140,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 1169,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C20625AC4618761B84A199A2C4173C0E",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 1265,
+        "Value": false
+      }
+    },
+    "6": {
+      "ItemDefinition": {
+        "Position": 1308,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 1345,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 1374,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3B302BF74B59D39114D214A3787076E4",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 1472,
+        "Value": true
+      }
+    },
+    "7": {
+      "ItemDefinition": {
+        "Position": 1515,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 1552,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 1581,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4A29E2E04F99816706D0F5A43AC3B1CE",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 1677,
+        "Value": false
+      }
+    },
+    "8": {
+      "ItemDefinition": {
+        "Position": 1720,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 1757,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 1786,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5C36174243787D1DFCE662AAF8C4A64A",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 1882,
+        "Value": false
+      }
+    },
+    "9": {
+      "ItemDefinition": {
+        "Position": 1925,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 1962,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 1991,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "97D53A374F33DAAA4ED087A69A884AB1",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 2087,
+        "Value": false
+      }
+    },
+    "10": {
+      "ItemDefinition": {
+        "Position": 2130,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 2167,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 2196,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "AEC4744A45D79F2B5BFB4A93D6ACC86F",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 2292,
+        "Value": false
+      }
+    },
+    "11": {
+      "ItemDefinition": {
+        "Position": 2335,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 2372,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 2401,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8395C27F4BE4AC41D7A23AA7527218A7",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 2497,
+        "Value": false
+      }
+    },
+    "12": {
+      "ItemDefinition": {
+        "Position": 2540,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 2577,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 2606,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4D90B3AB4B32A3DCE8935685D7CE0966",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 2702,
+        "Value": false
+      }
+    },
+    "13": {
+      "ItemDefinition": {
+        "Position": 2745,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 2782,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 2811,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5BA3C4AC41F00EDA7605AEAE9D0EDC59",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 2909,
+        "Value": true
+      }
+    },
+    "14": {
+      "ItemDefinition": {
+        "Position": 2952,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 2989,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 3018,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C2D8A2974A49909484531A8D1088948C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 3114,
+        "Value": false
+      }
+    },
+    "15": {
+      "ItemDefinition": {
+        "Position": 3157,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 3194,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 3223,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6EB283FD4495AD5C9A2BB1AEBCF01F9D",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 3319,
+        "Value": false
+      }
+    },
+    "16": {
+      "ItemDefinition": {
+        "Position": 3362,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 3399,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 3428,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8094CA30401FD76434D63092EA879DDC",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 3524,
+        "Value": false
+      }
+    },
+    "17": {
+      "ItemDefinition": {
+        "Position": 3567,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 3604,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 3633,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "B4D3605B499897A558DD3899B1392E65",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 3729,
+        "Value": false
+      }
+    },
+    "18": {
+      "ItemDefinition": {
+        "Position": 3772,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 3809,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 3838,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A9C50B6E4982A013D0C8CF9B3C15E04B",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 3934,
+        "Value": false
+      }
+    },
+    "19": {
+      "ItemDefinition": {
+        "Position": 3977,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 4014,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 4043,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8C0576D4442D852C5D55D89BDD76A6AC",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 4139,
+        "Value": false
+      }
+    },
+    "20": {
+      "ItemDefinition": {
+        "Position": 4182,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 4219,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 4248,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8CF084D04CEB84D68CA9AE97DCA7E79F",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 4346,
+        "Value": true
+      }
+    },
+    "21": {
+      "ItemDefinition": {
+        "Position": 4389,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 4426,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 4455,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6216CE93474F5E48D5F7739C48C7E1C4",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 4551,
+        "Value": false
+      }
+    },
+    "22": {
+      "ItemDefinition": {
+        "Position": 4594,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 4631,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 4660,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4E3874BE44C98C41EB7342A8F0A18B1C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 4756,
+        "Value": false
+      }
+    },
+    "23": {
+      "ItemDefinition": {
+        "Position": 4799,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 4836,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 4865,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3F8EB4754D8B4DB5AC29C69298BC707A",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 4961,
+        "Value": false
+      }
+    },
+    "24": {
+      "ItemDefinition": {
+        "Position": 5004,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 5041,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 5070,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "68180EE64B4DBCB5D59B56BCFC585198",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 5166,
+        "Value": false
+      }
+    },
+    "25": {
+      "ItemDefinition": {
+        "Position": 5209,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 5246,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 5275,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "01390D7C4813C011BBA385B3C172FA2C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 5371,
+        "Value": false
+      }
+    },
+    "26": {
+      "ItemDefinition": {
+        "Position": 5414,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 5451,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 5480,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "657E46B94A071A3EE1B216A21839D193",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 5576,
+        "Value": false
+      }
+    },
+    "27": {
+      "ItemDefinition": {
+        "Position": 5619,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 5656,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 5685,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "23D2EA784101CE42C036ABAE089E6F1F",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 5783,
+        "Value": true
+      }
+    },
+    "28": {
+      "ItemDefinition": {
+        "Position": 5826,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 5863,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 5892,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "10BB7B4947C90D9297026C9C911F837F",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 5988,
+        "Value": false
+      }
+    },
+    "29": {
+      "ItemDefinition": {
+        "Position": 6031,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 6068,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 6097,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4B9C2DE24D074F6BBF787992CD687C8A",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 6193,
+        "Value": false
+      }
+    },
+    "30": {
+      "ItemDefinition": {
+        "Position": 6236,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 6273,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 6302,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "7BF644C54DD7C4D21027FDACAE61DF34",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 6398,
+        "Value": false
+      }
+    },
+    "31": {
+      "ItemDefinition": {
+        "Position": 6441,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 6478,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 6507,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "D8C69D4A449F26681CE82286FDB8C79B",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 6603,
+        "Value": false
+      }
+    },
+    "32": {
+      "ItemDefinition": {
+        "Position": 6646,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 6683,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 6712,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8E8B95854AA1E3CF1F5DFDB98E59E6A5",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 6808,
+        "Value": false
+      }
+    },
+    "33": {
+      "ItemDefinition": {
+        "Position": 6851,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 6888,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 6917,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C9BC0FB1489FA4AF662E89AB00AAB67F",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 7013,
+        "Value": false
+      }
+    },
+    "34": {
+      "ItemDefinition": {
+        "Position": 7056,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 7093,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 7122,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6808865B4F80184AAAE3B68AC9CDA820",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 7220,
+        "Value": true
+      }
+    },
+    "35": {
+      "ItemDefinition": {
+        "Position": 7263,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 7300,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 7329,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A88E85DA4EC370D32E936C8ACD995BF8",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 7425,
+        "Value": false
+      }
+    },
+    "36": {
+      "ItemDefinition": {
+        "Position": 7468,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 7505,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 7534,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "0E2671A0409C377CF1619C8267717EF3",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 7630,
+        "Value": false
+      }
+    },
+    "37": {
+      "ItemDefinition": {
+        "Position": 7673,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 7710,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 7739,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F64BE0E845DBCB4AB694D382DDF72768",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 7835,
+        "Value": false
+      }
+    },
+    "38": {
+      "ItemDefinition": {
+        "Position": 7878,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 7915,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 7944,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "EEC1862F4C3327B86E96BF8125AFC565",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 8040,
+        "Value": false
+      }
+    },
+    "39": {
+      "ItemDefinition": {
+        "Position": 8083,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 8120,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 8149,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "EE1DBC074D4F92DBAA82039B250BE1E2",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 8245,
+        "Value": false
+      }
+    },
+    "40": {
+      "ItemDefinition": {
+        "Position": 8288,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 8325,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 8354,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3CEC6E5A4CE5026460A1D6A640E45EB7",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 8450,
+        "Value": false
+      }
+    },
+    "41": {
+      "ItemDefinition": {
+        "Position": 8493,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 8530,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 8559,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "11519B2E477468F096C5F89476BBE25C",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 8657,
+        "Value": true
+      }
+    },
+    "42": {
+      "ItemDefinition": {
+        "Position": 8700,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 8737,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 8766,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C475681141F602AB655D31964F5D9A85",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 8862,
+        "Value": false
+      }
+    },
+    "43": {
+      "ItemDefinition": {
+        "Position": 8905,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 8942,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 8971,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6FE07DC6476A1BA8AF9C41A833E4F55C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 9067,
+        "Value": false
+      }
+    },
+    "44": {
+      "ItemDefinition": {
+        "Position": 9110,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 9147,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 9176,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5E4F89C347F6E8BCF3AA4384DBBABDD1",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 9272,
+        "Value": false
+      }
+    },
+    "45": {
+      "ItemDefinition": {
+        "Position": 9315,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 9352,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 9381,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "85743A5D4EA0514CE057D0BC4080EFE3",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 9477,
+        "Value": false
+      }
+    },
+    "46": {
+      "ItemDefinition": {
+        "Position": 9520,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 9557,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 9586,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "7CFE6CDE40950CC1D81C9A80704EE960",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 9682,
+        "Value": false
+      }
+    },
+    "47": {
+      "ItemDefinition": {
+        "Position": 9725,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 9762,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 9791,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "9490C5E14F13FA348FB2688F02ED2A40",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 9887,
+        "Value": false
+      }
+    },
+    "48": {
+      "ItemDefinition": {
+        "Position": 9930,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 9967,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 9996,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "72FD4B73491811882E95E09030487FEE",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 10094,
+        "Value": true
+      }
+    },
+    "49": {
+      "ItemDefinition": {
+        "Position": 10137,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 10174,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 10203,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A63CAEE4484814A9AD52DCA04775DB08",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 10299,
+        "Value": false
+      }
+    },
+    "50": {
+      "ItemDefinition": {
+        "Position": 10342,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 10379,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 10408,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5F50619142B19F082CA0689A82414E04",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 10504,
+        "Value": false
+      }
+    },
+    "51": {
+      "ItemDefinition": {
+        "Position": 10547,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 10584,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 10613,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "84E592184C062346C2A47BBA6EBBBFA4",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 10709,
+        "Value": false
+      }
+    },
+    "52": {
+      "ItemDefinition": {
+        "Position": 10752,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 10789,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 10818,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "054B3BF04772A969F83837879ED28052",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 10914,
+        "Value": false
+      }
+    },
+    "53": {
+      "ItemDefinition": {
+        "Position": 10957,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 10994,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 11023,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8A2969B7458AB8F5A2B7F8A7AF395EFC",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 11119,
+        "Value": false
+      }
+    },
+    "54": {
+      "ItemDefinition": {
+        "Position": 11162,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 11199,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 11228,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "380CFB14474F80FCC44206B8E4DCBD64",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 11324,
+        "Value": false
+      }
+    },
+    "55": {
+      "ItemDefinition": {
+        "Position": 11367,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 11404,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 11433,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "CF047EAB41E3CD8BDB665F9DA43944C9",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 11531,
+        "Value": true
+      }
+    },
+    "56": {
+      "ItemDefinition": {
+        "Position": 11574,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 11611,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 11640,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "BF9FBA9C468CDD682A70929B7B61CCCF",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 11736,
+        "Value": false
+      }
+    },
+    "57": {
+      "ItemDefinition": {
+        "Position": 11779,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 11816,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 11845,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "78C3274242C41B3D040B70B70DF21C8B",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 11941,
+        "Value": false
+      }
+    },
+    "58": {
+      "ItemDefinition": {
+        "Position": 11984,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 12021,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 12050,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "38F09E214A169F113C393E8BDECD83E1",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 12146,
+        "Value": false
+      }
+    },
+    "59": {
+      "ItemDefinition": {
+        "Position": 12189,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 12226,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 12255,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "853B9908476D222B6D7191AD9D2C8621",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 12351,
+        "Value": false
+      }
+    },
+    "60": {
+      "ItemDefinition": {
+        "Position": 12394,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 12431,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 12460,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "12250138491201F798B432BAAEB486AF",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 12556,
+        "Value": false
+      }
+    },
+    "61": {
+      "ItemDefinition": {
+        "Position": 12599,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 12636,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 12665,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "BD1D18AA42DF0301D9C6E2996E648E60",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 12761,
+        "Value": false
+      }
+    },
+    "62": {
+      "ItemDefinition": {
+        "Position": 12804,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 12841,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 12870,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "93DE456B4A0FCAADDA5740AC21A5FE83",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 12968,
+        "Value": true
+      }
+    },
+    "63": {
+      "ItemDefinition": {
+        "Position": 13011,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 13048,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 13077,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "595D50E949D2B6FB57EE03BB3F6677D1",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 13173,
+        "Value": false
+      }
+    },
+    "64": {
+      "ItemDefinition": {
+        "Position": 13216,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 13253,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 13282,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "E079E64A4444BB5DEC52C88904E183E1",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 13378,
+        "Value": false
+      }
+    },
+    "65": {
+      "ItemDefinition": {
+        "Position": 13421,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 13458,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 13487,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "950B60664E9E9AAFC70679A16B5775D3",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 13583,
+        "Value": false
+      }
+    },
+    "66": {
+      "ItemDefinition": {
+        "Position": 13626,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 13663,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 13692,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4AFEC0C04B1D11E6AF54B3824158EC8F",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 13788,
+        "Value": false
+      }
+    },
+    "67": {
+      "ItemDefinition": {
+        "Position": 13831,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 13868,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 13897,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "D877F39B49B894FD3AED1D85051867C8",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 13993,
+        "Value": false
+      }
+    },
+    "68": {
+      "ItemDefinition": {
+        "Position": 14036,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 14073,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 14102,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F42FFE534C2391EE61FB95B1CA0FFC8D",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 14198,
+        "Value": false
+      }
+    },
+    "69": {
+      "ItemDefinition": {
+        "Position": 14241,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 14278,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 14307,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "ABD2C2AF441170CB92E73B8B58D115E0",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 14405,
+        "Value": true
+      }
+    },
+    "70": {
+      "ItemDefinition": {
+        "Position": 14448,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 14485,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 14514,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4978E072400AF4292A1AF2A0114AE5B2",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 14610,
+        "Value": false
+      }
+    },
+    "71": {
+      "ItemDefinition": {
+        "Position": 14653,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 14690,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 14719,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "25ECCECD4C7FC83BB78A29ABF6390039",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 14815,
+        "Value": false
+      }
+    },
+    "72": {
+      "ItemDefinition": {
+        "Position": 14858,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 14895,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 14924,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "73EFE12141930E3369E52DB459E6979D",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 15020,
+        "Value": false
+      }
+    },
+    "73": {
+      "ItemDefinition": {
+        "Position": 15063,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 15100,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 15129,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "34C7E8744A41448A2B188691F1D25BF5",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 15225,
+        "Value": false
+      }
+    },
+    "74": {
+      "ItemDefinition": {
+        "Position": 15268,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 15305,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 15334,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "0C3A3ACB42104EE006E893A1C10E652D",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 15430,
+        "Value": false
+      }
+    },
+    "75": {
+      "ItemDefinition": {
+        "Position": 15473,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 15510,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 15539,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "81D6A52C4D97D3526EBD8686E6421095",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 15635,
+        "Value": false
+      }
+    },
+    "76": {
+      "ItemDefinition": {
+        "Position": 15678,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 15715,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 15744,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C03EF10F48B38AA7854E5B9AC41AACFD",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 15842,
+        "Value": true
+      }
+    },
+    "77": {
+      "ItemDefinition": {
+        "Position": 15885,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 15922,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 15951,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "63EDA5AC46E594C8B6A666BC09C7723C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 16047,
+        "Value": false
+      }
+    },
+    "78": {
+      "ItemDefinition": {
+        "Position": 16090,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 16127,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 16156,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4E2142F84452B15679A65EA9A2EC41DD",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 16252,
+        "Value": false
+      }
+    },
+    "79": {
+      "ItemDefinition": {
+        "Position": 16295,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 16332,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 16361,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F8A5DDD74C84B1083CB97394CAF1778C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 16457,
+        "Value": false
+      }
+    },
+    "80": {
+      "ItemDefinition": {
+        "Position": 16500,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 16537,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 16566,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2ED2C4AE4CB1E3AFE7B729BDB75B4088",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 16662,
+        "Value": false
+      }
+    },
+    "81": {
+      "ItemDefinition": {
+        "Position": 16705,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 16742,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 16771,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "272E31824C44596F33AE45AACE332EC0",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 16867,
+        "Value": false
+      }
+    },
+    "82": {
+      "ItemDefinition": {
+        "Position": 16910,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 16947,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 16976,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C89220694A6EE3F552A543B49EA35CED",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 17072,
+        "Value": false
+      }
+    },
+    "83": {
+      "ItemDefinition": {
+        "Position": 17115,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 17152,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 17181,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "CFAEFC83470513042ADA5DA5270FBA0F",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 17279,
+        "Value": true
+      }
+    },
+    "84": {
+      "ItemDefinition": {
+        "Position": 17322,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 17359,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 17388,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "FF12696D47C778A2C2D581A072C12594",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 17484,
+        "Value": false
+      }
+    },
+    "85": {
+      "ItemDefinition": {
+        "Position": 17527,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 17564,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 17593,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "78FAFB5F47C052A71EB600940EA500E5",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 17689,
+        "Value": false
+      }
+    },
+    "86": {
+      "ItemDefinition": {
+        "Position": 17732,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 17769,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 17798,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "DA949B7F4E6B21BC18DBED8F13DB1E4E",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 17894,
+        "Value": false
+      }
+    },
+    "87": {
+      "ItemDefinition": {
+        "Position": 17937,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 17974,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 18003,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "D2DF41E4487992544F7ED0B589D379C4",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 18099,
+        "Value": false
+      }
+    },
+    "88": {
+      "ItemDefinition": {
+        "Position": 18142,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 18179,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 18208,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2B9295C64FA19289462FE1AAB0AAC745",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 18304,
+        "Value": false
+      }
+    },
+    "89": {
+      "ItemDefinition": {
+        "Position": 18347,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 18384,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 18413,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "AF6986BC4674188C0C5EDE950B94A156",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 18509,
+        "Value": false
+      }
+    },
+    "90": {
+      "ItemDefinition": {
+        "Position": 18552,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 18589,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 18618,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "FB993893430A4B2D29D381B604C0C10F",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 18716,
+        "Value": true
+      }
+    },
+    "91": {
+      "ItemDefinition": {
+        "Position": 18759,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 18796,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 18825,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "7C1FEC754881E5247C86E4988A937E2A",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 18921,
+        "Value": false
+      }
+    },
+    "92": {
+      "ItemDefinition": {
+        "Position": 18964,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 19001,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 19030,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "BE31212449DC55E3AC9D6DBC38BEC20B",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 19126,
+        "Value": false
+      }
+    },
+    "93": {
+      "ItemDefinition": {
+        "Position": 19169,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 19206,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 19235,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "D7AEE75A470CC593D602F6BD1E65FF13",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 19331,
+        "Value": false
+      }
+    },
+    "94": {
+      "ItemDefinition": {
+        "Position": 19374,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 19411,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 19440,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "80A88954485D031841B9FD91F2D91243",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 19536,
+        "Value": false
+      }
+    },
+    "95": {
+      "ItemDefinition": {
+        "Position": 19579,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 19616,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 19645,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "069008EC426D6896EB9640B52BF6B6F5",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 19741,
+        "Value": false
+      }
+    },
+    "96": {
+      "ItemDefinition": {
+        "Position": 19784,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 19821,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 19850,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F2FB84DA43DD3EF47202C39F888E8CA0",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 19946,
+        "Value": false
+      }
+    },
+    "97": {
+      "ItemDefinition": {
+        "Position": 19989,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 20026,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 20055,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "ED19329B464A9C29FD2023B63B0AB623",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 20153,
+        "Value": true
+      }
+    },
+    "98": {
+      "ItemDefinition": {
+        "Position": 20196,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 20233,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 20262,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "31B88A10436CC8BCCBFA268531838D3C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 20358,
+        "Value": false
+      }
+    },
+    "99": {
+      "ItemDefinition": {
+        "Position": 20401,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 20438,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 20467,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "02AD0CA14E44D1F50BD43E84F1461B17",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 20563,
+        "Value": false
+      }
+    },
+    "100": {
+      "ItemDefinition": {
+        "Position": 20606,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 20643,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 20672,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "B84E1F90412576C5F0106696396FE056",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 20768,
+        "Value": false
+      }
+    },
+    "101": {
+      "ItemDefinition": {
+        "Position": 20811,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 20848,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 20877,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2332BA6F4D97044476476886495B9980",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 20973,
+        "Value": false
+      }
+    },
+    "102": {
+      "ItemDefinition": {
+        "Position": 21016,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 21053,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 21082,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8D40EE6D4BDB1EA4DFFD0B99CCF24922",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 21178,
+        "Value": false
+      }
+    },
+    "103": {
+      "ItemDefinition": {
+        "Position": 21221,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 21258,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 21287,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "BBA2B6D1446EC2D69100FBBE136E4C61",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 21383,
+        "Value": false
+      }
+    },
+    "104": {
+      "ItemDefinition": {
+        "Position": 21426,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 21463,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 21492,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "DD33CEEE4AA46A7E8FCBAE9C85F52D2F",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 21590,
+        "Value": true
+      }
+    },
+    "105": {
+      "ItemDefinition": {
+        "Position": 21633,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 21670,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 21699,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4DF255514B946CB6112F42820E293B11",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 21795,
+        "Value": false
+      }
+    },
+    "106": {
+      "ItemDefinition": {
+        "Position": 21838,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 21875,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 21904,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "FC656DF14FA993FE188D8D9D6EB79495",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 22000,
+        "Value": false
+      }
+    },
+    "107": {
+      "ItemDefinition": {
+        "Position": 22043,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 22080,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 22109,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "25E8FEAC40096C92B93761A86605FEA4",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 22205,
+        "Value": false
+      }
+    },
+    "108": {
+      "ItemDefinition": {
+        "Position": 22248,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 22285,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 22314,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3F0E5252424C13DF2E70799AF71F7291",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 22410,
+        "Value": false
+      }
+    },
+    "109": {
+      "ItemDefinition": {
+        "Position": 22453,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 22490,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 22519,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "712FF2564313758BD0934BA428260888",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 22615,
+        "Value": false
+      }
+    },
+    "110": {
+      "ItemDefinition": {
+        "Position": 22658,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 22695,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 22724,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "1648F0AA47F5B74091118095FC0861DD",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 22820,
+        "Value": false
+      }
+    },
+    "111": {
+      "ItemDefinition": {
+        "Position": 22863,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 22900,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 22929,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2247DDD64FAEE21CECA529AF2AF5779F",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 23027,
+        "Value": true
+      }
+    },
+    "112": {
+      "ItemDefinition": {
+        "Position": 23070,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 23107,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 23136,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5AF870B14F4684565B49D49D11A7B092",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 23232,
+        "Value": false
+      }
+    },
+    "113": {
+      "ItemDefinition": {
+        "Position": 23275,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 23312,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 23341,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A81D0DB1478B674A1303F0869B6BE6FF",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 23437,
+        "Value": false
+      }
+    },
+    "114": {
+      "ItemDefinition": {
+        "Position": 23480,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 23517,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 23546,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "ECC69ADA4CD8B9CC3A3B878B7584EE86",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 23642,
+        "Value": false
+      }
+    },
+    "115": {
+      "ItemDefinition": {
+        "Position": 23685,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 23722,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 23751,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A62742CC45264AA5AC7EA5B30BCEE5F7",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 23847,
+        "Value": false
+      }
+    },
+    "116": {
+      "ItemDefinition": {
+        "Position": 23890,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 23927,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 23956,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F6B2D60F47F318A55395E79D0A2BE8FC",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 24052,
+        "Value": false
+      }
+    },
+    "117": {
+      "ItemDefinition": {
+        "Position": 24095,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 24132,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 24161,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "229CEA5C44DD7E50182F068E4EE109A0",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 24257,
+        "Value": false
+      }
+    },
+    "118": {
+      "ItemDefinition": {
+        "Position": 24300,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 24337,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 24366,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "DB23AF4A43855ECA0C00D08D15154A07",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 24464,
+        "Value": true
+      }
+    },
+    "119": {
+      "ItemDefinition": {
+        "Position": 24507,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 24544,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 24573,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C33241114A04D4C47D17689385D10BF6",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 24669,
+        "Value": false
+      }
+    },
+    "120": {
+      "ItemDefinition": {
+        "Position": 24712,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 24749,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 24778,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "35B6CE2F4E0BCF14AF8C4F997648FCF2",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 24874,
+        "Value": false
+      }
+    },
+    "121": {
+      "ItemDefinition": {
+        "Position": 24917,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 24954,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 24983,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "E96B55884731224E15A08EAE03EAB714",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 25079,
+        "Value": false
+      }
+    },
+    "122": {
+      "ItemDefinition": {
+        "Position": 25122,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 25159,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 25188,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "935672F546B2262B2EF376B657003D3B",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 25284,
+        "Value": false
+      }
+    },
+    "123": {
+      "ItemDefinition": {
+        "Position": 25327,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 25364,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 25393,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "77354B4B40CC5120BC91148CAA15289C",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 25489,
+        "Value": false
+      }
+    },
+    "124": {
+      "ItemDefinition": {
+        "Position": 25532,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 25569,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 25598,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A3294B2A4BFFC5D55E7D4DA43957BD6B",
+            "SourceString": "A free Upgrade Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 25694,
+        "Value": false
+      }
+    },
+    "125": {
+      "ItemDefinition": {
+        "Position": 25737,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/CardPacks/Events/Release/CardPack_Event_Founders.CardPack_Event_Founders"
+          },
+          "SubPathString": null
+        }
+      },
+      "ItemCount": {
+        "Position": 25774,
+        "Value": 1
+      },
+      "Description": {
+        "Position": 25803,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "B328BC4146C29F559B0C5AA3BF4DB3A6",
+            "SourceString": "A free Founder's Llama!"
+          }
+        }
+      },
+      "bIsMajorReward": {
+        "Position": 25901,
+        "Value": true
+      }
+    }
+  }
+]

@@ -1,0 +1,5104 @@
+[
+  {
+    "GateBadge_BuildLimitedQty": {
+      "ScoreAwarded": {
+        "Position": 78,
+        "Value": 0
+      },
+      "MissionPoints": {
+        "Position": 107,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 144,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 177,
+        "Value": -1
+      }
+    },
+    "GateBadge_Closed1stTry": {
+      "ScoreAwarded": {
+        "Position": 222,
+        "Value": 378000
+      },
+      "MissionPoints": {
+        "Position": 251,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 288,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 321,
+        "Value": -1
+      }
+    },
+    "GateBadge_Closed2Gates": {
+      "ScoreAwarded": {
+        "Position": 366,
+        "Value": 1603000
+      },
+      "MissionPoints": {
+        "Position": 395,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 432,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 465,
+        "Value": -1
+      }
+    },
+    "GateBadge_Closed3Gates": {
+      "ScoreAwarded": {
+        "Position": 510,
+        "Value": 1688000
+      },
+      "MissionPoints": {
+        "Position": 539,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 576,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 609,
+        "Value": -1
+      }
+    },
+    "GateBadge_Closed4Gates": {
+      "ScoreAwarded": {
+        "Position": 654,
+        "Value": 1933000
+      },
+      "MissionPoints": {
+        "Position": 683,
+        "Value": 17
+      },
+      "ScoreCategory": {
+        "Position": 720,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 753,
+        "Value": -1
+      }
+    },
+    "GateBadge_ClosedGate": {
+      "ScoreAwarded": {
+        "Position": 798,
+        "Value": 1518000
+      },
+      "MissionPoints": {
+        "Position": 827,
+        "Value": 10
+      },
+      "ScoreCategory": {
+        "Position": 864,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 897,
+        "Value": -1
+      }
+    },
+    "GateBadge_ClosedMultipleGates": {
+      "ScoreAwarded": {
+        "Position": 942,
+        "Value": 950000
+      },
+      "MissionPoints": {
+        "Position": 971,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 1008,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1041,
+        "Value": -1
+      }
+    },
+    "GateBadge_HalfHealthLeft": {
+      "ScoreAwarded": {
+        "Position": 1086,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 1115,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 1152,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1185,
+        "Value": -1
+      }
+    },
+    "GateBadge_Participation": {
+      "ScoreAwarded": {
+        "Position": 1230,
+        "Value": 152000
+      },
+      "MissionPoints": {
+        "Position": 1259,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 1296,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1329,
+        "Value": -1
+      }
+    },
+    "GateBadge_PlacedQuick": {
+      "ScoreAwarded": {
+        "Position": 1374,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 1403,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 1440,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1473,
+        "Value": -1
+      }
+    },
+    "GeneralBadge": {
+      "ScoreAwarded": {
+        "Position": 1518,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 1547,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 1584,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1617,
+        "Value": -1
+      }
+    },
+    "MissionBadge_AreaDiscovery": {
+      "ScoreAwarded": {
+        "Position": 1662,
+        "Value": 303000
+      },
+      "MissionPoints": {
+        "Position": 1691,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 1728,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1761,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Bronze": {
+      "ScoreAwarded": {
+        "Position": 1806,
+        "Value": 500000
+      },
+      "MissionPoints": {
+        "Position": 1835,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 1872,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 1905,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CriticalMission": {
+      "ScoreAwarded": {
+        "Position": 1950,
+        "Value": 0
+      },
+      "MissionPoints": {
+        "Position": 1979,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 2016,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2049,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Gold": {
+      "ScoreAwarded": {
+        "Position": 2094,
+        "Value": 975000
+      },
+      "MissionPoints": {
+        "Position": 2123,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 2160,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2193,
+        "Value": -1
+      }
+    },
+    "MissionBadge_LTR_Participation": {
+      "ScoreAwarded": {
+        "Position": 2238,
+        "Value": 193000
+      },
+      "MissionPoints": {
+        "Position": 2267,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 2304,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2337,
+        "Value": -1
+      }
+    },
+    "MissionBadge_LTR_Stage1": {
+      "ScoreAwarded": {
+        "Position": 2382,
+        "Value": 120000
+      },
+      "MissionPoints": {
+        "Position": 2411,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 2448,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2481,
+        "Value": -1
+      }
+    },
+    "MissionBadge_LTR_Stage2": {
+      "ScoreAwarded": {
+        "Position": 2526,
+        "Value": 198000
+      },
+      "MissionPoints": {
+        "Position": 2555,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 2592,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2625,
+        "Value": -1
+      }
+    },
+    "MissionBadge_LTR_Stage3": {
+      "ScoreAwarded": {
+        "Position": 2670,
+        "Value": 275000
+      },
+      "MissionPoints": {
+        "Position": 2699,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 2736,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2769,
+        "Value": -1
+      }
+    },
+    "MissionBadge_LTR_Victory": {
+      "ScoreAwarded": {
+        "Position": 2814,
+        "Value": 1933000
+      },
+      "MissionPoints": {
+        "Position": 2843,
+        "Value": 13
+      },
+      "ScoreCategory": {
+        "Position": 2880,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 2913,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTL_Participation": {
+      "ScoreAwarded": {
+        "Position": 2958,
+        "Value": 152000
+      },
+      "MissionPoints": {
+        "Position": 2987,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 3024,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3057,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTL_Stage1": {
+      "ScoreAwarded": {
+        "Position": 3102,
+        "Value": 215000
+      },
+      "MissionPoints": {
+        "Position": 3131,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 3168,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3201,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTL_Stage2": {
+      "ScoreAwarded": {
+        "Position": 3246,
+        "Value": 275000
+      },
+      "MissionPoints": {
+        "Position": 3275,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 3312,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3345,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTL_Victory": {
+      "ScoreAwarded": {
+        "Position": 3390,
+        "Value": 1518000
+      },
+      "MissionPoints": {
+        "Position": 3419,
+        "Value": 10
+      },
+      "ScoreCategory": {
+        "Position": 3456,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3489,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Par": {
+      "ScoreAwarded": {
+        "Position": 3534,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 3563,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 3600,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3633,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Par2": {
+      "ScoreAwarded": {
+        "Position": 3678,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 3707,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 3744,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3777,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Par3": {
+      "ScoreAwarded": {
+        "Position": 3822,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 3851,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 3888,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 3921,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Par4": {
+      "ScoreAwarded": {
+        "Position": 3966,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 3995,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 4032,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4065,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Par5": {
+      "ScoreAwarded": {
+        "Position": 4110,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 4139,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 4176,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4209,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Participation": {
+      "ScoreAwarded": {
+        "Position": 4254,
+        "Value": 152000
+      },
+      "MissionPoints": {
+        "Position": 4283,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 4320,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4353,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Platinum": {
+      "ScoreAwarded": {
+        "Position": 4398,
+        "Value": 1213000
+      },
+      "MissionPoints": {
+        "Position": 4427,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 4464,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4497,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTR_Participation": {
+      "ScoreAwarded": {
+        "Position": 4542,
+        "Value": 180000
+      },
+      "MissionPoints": {
+        "Position": 4571,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 4608,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4641,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTR_Victory": {
+      "ScoreAwarded": {
+        "Position": 4686,
+        "Value": 1798000
+      },
+      "MissionPoints": {
+        "Position": 4715,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 4752,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4785,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTD_Bronze": {
+      "ScoreAwarded": {
+        "Position": 4830,
+        "Value": 953000
+      },
+      "MissionPoints": {
+        "Position": 4859,
+        "Value": 9
+      },
+      "ScoreCategory": {
+        "Position": 4896,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 4929,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTD_Gold": {
+      "ScoreAwarded": {
+        "Position": 4974,
+        "Value": 1190000
+      },
+      "MissionPoints": {
+        "Position": 5003,
+        "Value": 11
+      },
+      "ScoreCategory": {
+        "Position": 5040,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5073,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTD_Participation": {
+      "ScoreAwarded": {
+        "Position": 5118,
+        "Value": 95000
+      },
+      "MissionPoints": {
+        "Position": 5147,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 5184,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5217,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTD_Platinum": {
+      "ScoreAwarded": {
+        "Position": 5262,
+        "Value": 1238000
+      },
+      "MissionPoints": {
+        "Position": 5291,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 5328,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5361,
+        "Value": -1
+      }
+    },
+    "MissionBadge_RTD_Silver": {
+      "ScoreAwarded": {
+        "Position": 5406,
+        "Value": 1143000
+      },
+      "MissionPoints": {
+        "Position": 5435,
+        "Value": 10
+      },
+      "ScoreCategory": {
+        "Position": 5472,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5505,
+        "Value": -1
+      }
+    },
+    "MissionBadge_SatelliteRecovered": {
+      "ScoreAwarded": {
+        "Position": 5550,
+        "Value": 913000
+      },
+      "MissionPoints": {
+        "Position": 5579,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 5616,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5649,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Silver": {
+      "ScoreAwarded": {
+        "Position": 5694,
+        "Value": 543000
+      },
+      "MissionPoints": {
+        "Position": 5723,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 5760,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5793,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Survive_ProtectedTarget": {
+      "ScoreAwarded": {
+        "Position": 5838,
+        "Value": 1018000
+      },
+      "MissionPoints": {
+        "Position": 5867,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 5904,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 5937,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Survive_SurvivedTheStorm": {
+      "ScoreAwarded": {
+        "Position": 5982,
+        "Value": 1018000
+      },
+      "MissionPoints": {
+        "Position": 6011,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 6048,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6081,
+        "Value": -1
+      }
+    },
+    "OBBadge_1stMissionComplete": {
+      "ScoreAwarded": {
+        "Position": 6126,
+        "Value": 0
+      },
+      "MissionPoints": {
+        "Position": 6155,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 6192,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6225,
+        "Value": -1
+      }
+    },
+    "OBBadge_RetrievedPart": {
+      "ScoreAwarded": {
+        "Position": 6270,
+        "Value": 0
+      },
+      "MissionPoints": {
+        "Position": 6299,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 6336,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6369,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Outpost": {
+      "ScoreAwarded": {
+        "Position": 6414,
+        "Value": 1300000
+      },
+      "MissionPoints": {
+        "Position": 6443,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 6480,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6513,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Bonus": {
+      "ScoreAwarded": {
+        "Position": 6558,
+        "Value": 10000
+      },
+      "MissionPoints": {
+        "Position": 6587,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 6624,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6657,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense1": {
+      "ScoreAwarded": {
+        "Position": 6702,
+        "Value": 1350000
+      },
+      "MissionPoints": {
+        "Position": 6731,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 6768,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6801,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense2": {
+      "ScoreAwarded": {
+        "Position": 6846,
+        "Value": 1400000
+      },
+      "MissionPoints": {
+        "Position": 6875,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 6912,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 6945,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense3": {
+      "ScoreAwarded": {
+        "Position": 6990,
+        "Value": 1410000
+      },
+      "MissionPoints": {
+        "Position": 7019,
+        "Value": 13
+      },
+      "ScoreCategory": {
+        "Position": 7056,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7089,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense4": {
+      "ScoreAwarded": {
+        "Position": 7134,
+        "Value": 1420000
+      },
+      "MissionPoints": {
+        "Position": 7163,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 7200,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7233,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense5": {
+      "ScoreAwarded": {
+        "Position": 7278,
+        "Value": 1430000
+      },
+      "MissionPoints": {
+        "Position": 7307,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 7344,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7377,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense6": {
+      "ScoreAwarded": {
+        "Position": 7422,
+        "Value": 1440000
+      },
+      "MissionPoints": {
+        "Position": 7451,
+        "Value": 16
+      },
+      "ScoreCategory": {
+        "Position": 7488,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7521,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense7": {
+      "ScoreAwarded": {
+        "Position": 7566,
+        "Value": 1450000
+      },
+      "MissionPoints": {
+        "Position": 7595,
+        "Value": 17
+      },
+      "ScoreCategory": {
+        "Position": 7632,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7665,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense8": {
+      "ScoreAwarded": {
+        "Position": 7710,
+        "Value": 1460000
+      },
+      "MissionPoints": {
+        "Position": 7739,
+        "Value": 18
+      },
+      "ScoreCategory": {
+        "Position": 7776,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7809,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense9": {
+      "ScoreAwarded": {
+        "Position": 7854,
+        "Value": 1470000
+      },
+      "MissionPoints": {
+        "Position": 7883,
+        "Value": 18
+      },
+      "ScoreCategory": {
+        "Position": 7920,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 7953,
+        "Value": -1
+      }
+    },
+    "OutpostBadge_Defense10": {
+      "ScoreAwarded": {
+        "Position": 7998,
+        "Value": 1480000
+      },
+      "MissionPoints": {
+        "Position": 8027,
+        "Value": 18
+      },
+      "ScoreCategory": {
+        "Position": 8064,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8097,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTG_ParticipationFailure1": {
+      "ScoreAwarded": {
+        "Position": 8142,
+        "Value": 123000
+      },
+      "MissionPoints": {
+        "Position": 8171,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 8208,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8241,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTG_ParticipationFailure2": {
+      "ScoreAwarded": {
+        "Position": 8286,
+        "Value": 123000
+      },
+      "MissionPoints": {
+        "Position": 8315,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 8352,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8385,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTG_Bronze": {
+      "ScoreAwarded": {
+        "Position": 8430,
+        "Value": 1233000
+      },
+      "MissionPoints": {
+        "Position": 8459,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 8496,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8529,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTG_Silver": {
+      "ScoreAwarded": {
+        "Position": 8574,
+        "Value": 1423000
+      },
+      "MissionPoints": {
+        "Position": 8603,
+        "Value": 10
+      },
+      "ScoreCategory": {
+        "Position": 8640,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8673,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTG_Gold": {
+      "ScoreAwarded": {
+        "Position": 8718,
+        "Value": 1470000
+      },
+      "MissionPoints": {
+        "Position": 8747,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 8784,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8817,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTG_Platinum": {
+      "ScoreAwarded": {
+        "Position": 8862,
+        "Value": 1518000
+      },
+      "MissionPoints": {
+        "Position": 8891,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 8928,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 8961,
+        "Value": -1
+      }
+    },
+    "RescueBadge_Bronze": {
+      "ScoreAwarded": {
+        "Position": 9006,
+        "Value": 23000
+      },
+      "MissionPoints": {
+        "Position": 9035,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 9072,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9105,
+        "Value": -1
+      }
+    },
+    "RescueBadge_Silver": {
+      "ScoreAwarded": {
+        "Position": 9150,
+        "Value": 33000
+      },
+      "MissionPoints": {
+        "Position": 9179,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 9216,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9249,
+        "Value": -1
+      }
+    },
+    "RescueBadge_Gold": {
+      "ScoreAwarded": {
+        "Position": 9294,
+        "Value": 40000
+      },
+      "MissionPoints": {
+        "Position": 9323,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 9360,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9393,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTE_Victory": {
+      "ScoreAwarded": {
+        "Position": 9438,
+        "Value": 815000
+      },
+      "MissionPoints": {
+        "Position": 9467,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 9504,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9537,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTE_Participation": {
+      "ScoreAwarded": {
+        "Position": 9582,
+        "Value": 82000
+      },
+      "MissionPoints": {
+        "Position": 9611,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 9648,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9681,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTE_Bronze": {
+      "ScoreAwarded": {
+        "Position": 9726,
+        "Value": 648000
+      },
+      "MissionPoints": {
+        "Position": 9755,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 9792,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9825,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTE_Silver": {
+      "ScoreAwarded": {
+        "Position": 9870,
+        "Value": 838000
+      },
+      "MissionPoints": {
+        "Position": 9899,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 9936,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 9969,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTE_Gold": {
+      "ScoreAwarded": {
+        "Position": 10014,
+        "Value": 885000
+      },
+      "MissionPoints": {
+        "Position": 10043,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 10080,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10113,
+        "Value": -1
+      }
+    },
+    "MissionBadge_DTE_Platinum": {
+      "ScoreAwarded": {
+        "Position": 10158,
+        "Value": 933000
+      },
+      "MissionPoints": {
+        "Position": 10187,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 10224,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10257,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ETS_Victory": {
+      "ScoreAwarded": {
+        "Position": 10302,
+        "Value": 933000
+      },
+      "MissionPoints": {
+        "Position": 10331,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 10368,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10401,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ETS_Participation": {
+      "ScoreAwarded": {
+        "Position": 10446,
+        "Value": 93000
+      },
+      "MissionPoints": {
+        "Position": 10475,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 10512,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10545,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ETS_Bronze": {
+      "ScoreAwarded": {
+        "Position": 10590,
+        "Value": 648000
+      },
+      "MissionPoints": {
+        "Position": 10619,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 10656,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10689,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ETS_Silver": {
+      "ScoreAwarded": {
+        "Position": 10734,
+        "Value": 838000
+      },
+      "MissionPoints": {
+        "Position": 10763,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 10800,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10833,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ETS_Gold": {
+      "ScoreAwarded": {
+        "Position": 10878,
+        "Value": 885000
+      },
+      "MissionPoints": {
+        "Position": 10907,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 10944,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 10977,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ETS_Platinum": {
+      "ScoreAwarded": {
+        "Position": 11022,
+        "Value": 933000
+      },
+      "MissionPoints": {
+        "Position": 11051,
+        "Value": 7
+      },
+      "ScoreCategory": {
+        "Position": 11088,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11121,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CTR_Victory": {
+      "ScoreAwarded": {
+        "Position": 11166,
+        "Value": 933000
+      },
+      "MissionPoints": {
+        "Position": 11195,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 11232,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11265,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CTR_Participation": {
+      "ScoreAwarded": {
+        "Position": 11310,
+        "Value": 93000
+      },
+      "MissionPoints": {
+        "Position": 11339,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 11376,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11409,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CTR_Bronze": {
+      "ScoreAwarded": {
+        "Position": 11454,
+        "Value": 648000
+      },
+      "MissionPoints": {
+        "Position": 11483,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 11520,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11553,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CTR_Silver": {
+      "ScoreAwarded": {
+        "Position": 11598,
+        "Value": 838000
+      },
+      "MissionPoints": {
+        "Position": 11627,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 11664,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11697,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CTR_Gold": {
+      "ScoreAwarded": {
+        "Position": 11742,
+        "Value": 885000
+      },
+      "MissionPoints": {
+        "Position": 11771,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 11808,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11841,
+        "Value": -1
+      }
+    },
+    "MissionBadge_CTR_Platinum": {
+      "ScoreAwarded": {
+        "Position": 11886,
+        "Value": 933000
+      },
+      "MissionPoints": {
+        "Position": 11915,
+        "Value": 7
+      },
+      "ScoreCategory": {
+        "Position": 11952,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 11985,
+        "Value": -1
+      }
+    },
+    "MissionBadge_BTRT_Victory": {
+      "ScoreAwarded": {
+        "Position": 12030,
+        "Value": 1128000
+      },
+      "MissionPoints": {
+        "Position": 12059,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 12096,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12129,
+        "Value": -1
+      }
+    },
+    "MissionBadge_BTRT_Participation": {
+      "ScoreAwarded": {
+        "Position": 12174,
+        "Value": 113000
+      },
+      "MissionPoints": {
+        "Position": 12203,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 12240,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12273,
+        "Value": -1
+      }
+    },
+    "MissionBadge_BTRT_Bronze": {
+      "ScoreAwarded": {
+        "Position": 12318,
+        "Value": 843000
+      },
+      "MissionPoints": {
+        "Position": 12347,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 12384,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12417,
+        "Value": -1
+      }
+    },
+    "MissionBadge_BTRT_Silver": {
+      "ScoreAwarded": {
+        "Position": 12462,
+        "Value": 1033000
+      },
+      "MissionPoints": {
+        "Position": 12491,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 12528,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12561,
+        "Value": -1
+      }
+    },
+    "MissionBadge_BTRT_Gold": {
+      "ScoreAwarded": {
+        "Position": 12606,
+        "Value": 1080000
+      },
+      "MissionPoints": {
+        "Position": 12635,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 12672,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12705,
+        "Value": -1
+      }
+    },
+    "MissionBadge_BTRT_Platinum": {
+      "ScoreAwarded": {
+        "Position": 12750,
+        "Value": 1128000
+      },
+      "MissionPoints": {
+        "Position": 12779,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 12816,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12849,
+        "Value": -1
+      }
+    },
+    "CategoricalTeamScoringBadge_CombatScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 12894,
+        "Value": 85000
+      },
+      "MissionPoints": {
+        "Position": 12923,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 12960,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 12993,
+        "Value": 25000
+      }
+    },
+    "CategoricalTeamScoringBadge_CombatScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 13038,
+        "Value": 140000
+      },
+      "MissionPoints": {
+        "Position": 13067,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 13104,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 13137,
+        "Value": 77500
+      }
+    },
+    "CategoricalTeamScoringBadge_CombatScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 13182,
+        "Value": 155000
+      },
+      "MissionPoints": {
+        "Position": 13211,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 13248,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 13281,
+        "Value": 162500
+      }
+    },
+    "CategoricalTeamScoringBadge_CombatScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 13326,
+        "Value": 175000
+      },
+      "MissionPoints": {
+        "Position": 13355,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 13392,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 13425,
+        "Value": 207500
+      }
+    },
+    "CategoricalTeamScoringBadge_UtilityScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 13470,
+        "Value": 100000
+      },
+      "MissionPoints": {
+        "Position": 13499,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 13536,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 13569,
+        "Value": 30000
+      }
+    },
+    "CategoricalTeamScoringBadge_UtilityScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 13614,
+        "Value": 160000
+      },
+      "MissionPoints": {
+        "Position": 13643,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 13680,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 13713,
+        "Value": 90000
+      }
+    },
+    "CategoricalTeamScoringBadge_UtilityScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 13758,
+        "Value": 180000
+      },
+      "MissionPoints": {
+        "Position": 13787,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 13824,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 13857,
+        "Value": 190000
+      }
+    },
+    "CategoricalTeamScoringBadge_UtilityScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 13902,
+        "Value": 200000
+      },
+      "MissionPoints": {
+        "Position": 13931,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 13968,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14001,
+        "Value": 240000
+      }
+    },
+    "CategoricalTeamScoringBadge_BuildingScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 14046,
+        "Value": 75000
+      },
+      "MissionPoints": {
+        "Position": 14075,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 14112,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14145,
+        "Value": 22500
+      }
+    },
+    "CategoricalTeamScoringBadge_BuildingScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 14190,
+        "Value": 115000
+      },
+      "MissionPoints": {
+        "Position": 14219,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 14256,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14289,
+        "Value": 65000
+      }
+    },
+    "CategoricalTeamScoringBadge_BuildingScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 14334,
+        "Value": 130000
+      },
+      "MissionPoints": {
+        "Position": 14363,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 14400,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14433,
+        "Value": 137500
+      }
+    },
+    "CategoricalTeamScoringBadge_BuildingScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 14478,
+        "Value": 145000
+      },
+      "MissionPoints": {
+        "Position": 14507,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 14544,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14577,
+        "Value": 172500
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeCombatScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 14622,
+        "Value": 130000
+      },
+      "MissionPoints": {
+        "Position": 14651,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 14688,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14721,
+        "Value": 85000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeCombatScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 14766,
+        "Value": 210000
+      },
+      "MissionPoints": {
+        "Position": 14795,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 14832,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 14865,
+        "Value": 255000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeCombatScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 14910,
+        "Value": 235000
+      },
+      "MissionPoints": {
+        "Position": 14939,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 14976,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15009,
+        "Value": 540000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeCombatScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 15054,
+        "Value": 295000
+      },
+      "MissionPoints": {
+        "Position": 15083,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15120,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15153,
+        "Value": 775000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeUtilityScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 15198,
+        "Value": 150000
+      },
+      "MissionPoints": {
+        "Position": 15227,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15264,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15297,
+        "Value": 100000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeUtilityScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 15342,
+        "Value": 240000
+      },
+      "MissionPoints": {
+        "Position": 15371,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15408,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15441,
+        "Value": 297500
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeUtilityScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 15486,
+        "Value": 270000
+      },
+      "MissionPoints": {
+        "Position": 15515,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15552,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15585,
+        "Value": 627500
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeUtilityScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 15630,
+        "Value": 340000
+      },
+      "MissionPoints": {
+        "Position": 15659,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15696,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15729,
+        "Value": 900000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeBuildingScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 15774,
+        "Value": 110000
+      },
+      "MissionPoints": {
+        "Position": 15803,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15840,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 15873,
+        "Value": 72500
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeBuildingScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 15918,
+        "Value": 175000
+      },
+      "MissionPoints": {
+        "Position": 15947,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 15984,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16017,
+        "Value": 215000
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeBuildingScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 16062,
+        "Value": 195000
+      },
+      "MissionPoints": {
+        "Position": 16091,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16128,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16161,
+        "Value": 452500
+      }
+    },
+    "CategoricalTeamScoringBadge_HordeBuildingScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 16206,
+        "Value": 245000
+      },
+      "MissionPoints": {
+        "Position": 16235,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16272,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16305,
+        "Value": 647500
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessCombatScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 16350,
+        "Value": 130000
+      },
+      "MissionPoints": {
+        "Position": 16379,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16416,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16449,
+        "Value": 85000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessCombatScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 16494,
+        "Value": 210000
+      },
+      "MissionPoints": {
+        "Position": 16523,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16560,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16593,
+        "Value": 255000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessCombatScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 16638,
+        "Value": 235000
+      },
+      "MissionPoints": {
+        "Position": 16667,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16704,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16737,
+        "Value": 540000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessCombatScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 16782,
+        "Value": 295000
+      },
+      "MissionPoints": {
+        "Position": 16811,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16848,
+        "Value": {
+          "String": "EStatCategory::Combat"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 16881,
+        "Value": 775000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessUtilityScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 16926,
+        "Value": 150000
+      },
+      "MissionPoints": {
+        "Position": 16955,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 16992,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17025,
+        "Value": 100000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessUtilityScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 17070,
+        "Value": 240000
+      },
+      "MissionPoints": {
+        "Position": 17099,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 17136,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17169,
+        "Value": 297500
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessUtilityScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 17214,
+        "Value": 270000
+      },
+      "MissionPoints": {
+        "Position": 17243,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 17280,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17313,
+        "Value": 627500
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessUtilityScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 17358,
+        "Value": 340000
+      },
+      "MissionPoints": {
+        "Position": 17387,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 17424,
+        "Value": {
+          "String": "EStatCategory::Utility"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17457,
+        "Value": 900000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessBuildingScore_Bronze": {
+      "ScoreAwarded": {
+        "Position": 17502,
+        "Value": 110000
+      },
+      "MissionPoints": {
+        "Position": 17531,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 17568,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17601,
+        "Value": 72500
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessBuildingScore_Silver": {
+      "ScoreAwarded": {
+        "Position": 17646,
+        "Value": 175000
+      },
+      "MissionPoints": {
+        "Position": 17675,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 17712,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17745,
+        "Value": 215000
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessBuildingScore_Gold": {
+      "ScoreAwarded": {
+        "Position": 17790,
+        "Value": 195000
+      },
+      "MissionPoints": {
+        "Position": 17819,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 17856,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 17889,
+        "Value": 452500
+      }
+    },
+    "CategoricalTeamScoringBadge_EndlessBuildingScore_Platinum": {
+      "ScoreAwarded": {
+        "Position": 17934,
+        "Value": 245000
+      },
+      "MissionPoints": {
+        "Position": 17963,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 18000,
+        "Value": {
+          "String": "EStatCategory::Building"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18033,
+        "Value": 647500
+      }
+    },
+    "MissionBadge_NeighborhoodSuccess_T01": {
+      "ScoreAwarded": {
+        "Position": 18078,
+        "Value": 793000
+      },
+      "MissionPoints": {
+        "Position": 18107,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 18144,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18177,
+        "Value": -1
+      }
+    },
+    "MissionBadge_NeighborhoodSuccess_T02": {
+      "ScoreAwarded": {
+        "Position": 18222,
+        "Value": 793000
+      },
+      "MissionPoints": {
+        "Position": 18251,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 18288,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18321,
+        "Value": -1
+      }
+    },
+    "MissionBadge_NeighborhoodSuccess_T03": {
+      "ScoreAwarded": {
+        "Position": 18366,
+        "Value": 793000
+      },
+      "MissionPoints": {
+        "Position": 18395,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 18432,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18465,
+        "Value": -1
+      }
+    },
+    "MissionBadge_NeighborhoodSuccess_T04": {
+      "ScoreAwarded": {
+        "Position": 18510,
+        "Value": 793000
+      },
+      "MissionPoints": {
+        "Position": 18539,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 18576,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18609,
+        "Value": -1
+      }
+    },
+    "TertiaryBadge_Exploration": {
+      "ScoreAwarded": {
+        "Position": 18654,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 18683,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 18720,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18753,
+        "Value": -1
+      }
+    },
+    "TertiaryBadge_Exploration_No_MP": {
+      "ScoreAwarded": {
+        "Position": 18798,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 18827,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 18864,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 18897,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay1": {
+      "ScoreAwarded": {
+        "Position": 18942,
+        "Value": 700000
+      },
+      "MissionPoints": {
+        "Position": 18971,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 19008,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19041,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay2": {
+      "ScoreAwarded": {
+        "Position": 19086,
+        "Value": 1100000
+      },
+      "MissionPoints": {
+        "Position": 19115,
+        "Value": 9
+      },
+      "ScoreCategory": {
+        "Position": 19152,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19185,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay3": {
+      "ScoreAwarded": {
+        "Position": 19230,
+        "Value": 1600000
+      },
+      "MissionPoints": {
+        "Position": 19259,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 19296,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19329,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay4": {
+      "ScoreAwarded": {
+        "Position": 19374,
+        "Value": 2250000
+      },
+      "MissionPoints": {
+        "Position": 19403,
+        "Value": 17
+      },
+      "ScoreCategory": {
+        "Position": 19440,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19473,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay5": {
+      "ScoreAwarded": {
+        "Position": 19518,
+        "Value": 2703000
+      },
+      "MissionPoints": {
+        "Position": 19547,
+        "Value": 19
+      },
+      "ScoreCategory": {
+        "Position": 19584,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19617,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay6": {
+      "ScoreAwarded": {
+        "Position": 19662,
+        "Value": 3245000
+      },
+      "MissionPoints": {
+        "Position": 19691,
+        "Value": 21
+      },
+      "ScoreCategory": {
+        "Position": 19728,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19761,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay7": {
+      "ScoreAwarded": {
+        "Position": 19806,
+        "Value": 3500000
+      },
+      "MissionPoints": {
+        "Position": 19835,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 19872,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 19905,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay8": {
+      "ScoreAwarded": {
+        "Position": 19950,
+        "Value": 4088000
+      },
+      "MissionPoints": {
+        "Position": 19979,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20016,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20049,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay9": {
+      "ScoreAwarded": {
+        "Position": 20094,
+        "Value": 4570000
+      },
+      "MissionPoints": {
+        "Position": 20123,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20160,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20193,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay10": {
+      "ScoreAwarded": {
+        "Position": 20238,
+        "Value": 5110000
+      },
+      "MissionPoints": {
+        "Position": 20267,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20304,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20337,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay11": {
+      "ScoreAwarded": {
+        "Position": 20382,
+        "Value": 5653000
+      },
+      "MissionPoints": {
+        "Position": 20411,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20448,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20481,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay12": {
+      "ScoreAwarded": {
+        "Position": 20526,
+        "Value": 6193000
+      },
+      "MissionPoints": {
+        "Position": 20555,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20592,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20625,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay13": {
+      "ScoreAwarded": {
+        "Position": 20670,
+        "Value": 6735000
+      },
+      "MissionPoints": {
+        "Position": 20699,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20736,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20769,
+        "Value": -1
+      }
+    },
+    "SurvivorMode3Day_Badge_ParticipationDay14": {
+      "ScoreAwarded": {
+        "Position": 20814,
+        "Value": 7645000
+      },
+      "MissionPoints": {
+        "Position": 20843,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 20880,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 20913,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay1": {
+      "ScoreAwarded": {
+        "Position": 20958,
+        "Value": 700000
+      },
+      "MissionPoints": {
+        "Position": 20987,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 21024,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21057,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay2": {
+      "ScoreAwarded": {
+        "Position": 21102,
+        "Value": 1100000
+      },
+      "MissionPoints": {
+        "Position": 21131,
+        "Value": 9
+      },
+      "ScoreCategory": {
+        "Position": 21168,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21201,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay3": {
+      "ScoreAwarded": {
+        "Position": 21246,
+        "Value": 1600000
+      },
+      "MissionPoints": {
+        "Position": 21275,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 21312,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21345,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay4": {
+      "ScoreAwarded": {
+        "Position": 21390,
+        "Value": 2250000
+      },
+      "MissionPoints": {
+        "Position": 21419,
+        "Value": 17
+      },
+      "ScoreCategory": {
+        "Position": 21456,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21489,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay5": {
+      "ScoreAwarded": {
+        "Position": 21534,
+        "Value": 2703000
+      },
+      "MissionPoints": {
+        "Position": 21563,
+        "Value": 19
+      },
+      "ScoreCategory": {
+        "Position": 21600,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21633,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay6": {
+      "ScoreAwarded": {
+        "Position": 21678,
+        "Value": 3245000
+      },
+      "MissionPoints": {
+        "Position": 21707,
+        "Value": 21
+      },
+      "ScoreCategory": {
+        "Position": 21744,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21777,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay7": {
+      "ScoreAwarded": {
+        "Position": 21822,
+        "Value": 3500000
+      },
+      "MissionPoints": {
+        "Position": 21851,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 21888,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 21921,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay8": {
+      "ScoreAwarded": {
+        "Position": 21966,
+        "Value": 4088000
+      },
+      "MissionPoints": {
+        "Position": 21995,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22032,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22065,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay9": {
+      "ScoreAwarded": {
+        "Position": 22110,
+        "Value": 4570000
+      },
+      "MissionPoints": {
+        "Position": 22139,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22176,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22209,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay10": {
+      "ScoreAwarded": {
+        "Position": 22254,
+        "Value": 5110000
+      },
+      "MissionPoints": {
+        "Position": 22283,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22320,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22353,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay11": {
+      "ScoreAwarded": {
+        "Position": 22398,
+        "Value": 5653000
+      },
+      "MissionPoints": {
+        "Position": 22427,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22464,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22497,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay12": {
+      "ScoreAwarded": {
+        "Position": 22542,
+        "Value": 6193000
+      },
+      "MissionPoints": {
+        "Position": 22571,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22608,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22641,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay13": {
+      "ScoreAwarded": {
+        "Position": 22686,
+        "Value": 6735000
+      },
+      "MissionPoints": {
+        "Position": 22715,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22752,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22785,
+        "Value": -1
+      }
+    },
+    "SurvivorMode7Day_Badge_ParticipationDay14": {
+      "ScoreAwarded": {
+        "Position": 22830,
+        "Value": 7645000
+      },
+      "MissionPoints": {
+        "Position": 22859,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 22896,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 22929,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay1": {
+      "ScoreAwarded": {
+        "Position": 22974,
+        "Value": 700000
+      },
+      "MissionPoints": {
+        "Position": 23003,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 23040,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23073,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay2": {
+      "ScoreAwarded": {
+        "Position": 23118,
+        "Value": 1100000
+      },
+      "MissionPoints": {
+        "Position": 23147,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 23184,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23217,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay3": {
+      "ScoreAwarded": {
+        "Position": 23262,
+        "Value": 1600000
+      },
+      "MissionPoints": {
+        "Position": 23291,
+        "Value": 13
+      },
+      "ScoreCategory": {
+        "Position": 23328,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23361,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay4": {
+      "ScoreAwarded": {
+        "Position": 23406,
+        "Value": 2250000
+      },
+      "MissionPoints": {
+        "Position": 23435,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 23472,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23505,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay5": {
+      "ScoreAwarded": {
+        "Position": 23550,
+        "Value": 2703000
+      },
+      "MissionPoints": {
+        "Position": 23579,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 23616,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23649,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay6": {
+      "ScoreAwarded": {
+        "Position": 23694,
+        "Value": 3245000
+      },
+      "MissionPoints": {
+        "Position": 23723,
+        "Value": 16
+      },
+      "ScoreCategory": {
+        "Position": 23760,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23793,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay7": {
+      "ScoreAwarded": {
+        "Position": 23838,
+        "Value": 3500000
+      },
+      "MissionPoints": {
+        "Position": 23867,
+        "Value": 17
+      },
+      "ScoreCategory": {
+        "Position": 23904,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 23937,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay8": {
+      "ScoreAwarded": {
+        "Position": 23982,
+        "Value": 4088000
+      },
+      "MissionPoints": {
+        "Position": 24011,
+        "Value": 18
+      },
+      "ScoreCategory": {
+        "Position": 24048,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24081,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay9": {
+      "ScoreAwarded": {
+        "Position": 24126,
+        "Value": 4570000
+      },
+      "MissionPoints": {
+        "Position": 24155,
+        "Value": 19
+      },
+      "ScoreCategory": {
+        "Position": 24192,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24225,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay10": {
+      "ScoreAwarded": {
+        "Position": 24270,
+        "Value": 5110000
+      },
+      "MissionPoints": {
+        "Position": 24299,
+        "Value": 20
+      },
+      "ScoreCategory": {
+        "Position": 24336,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24369,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay11": {
+      "ScoreAwarded": {
+        "Position": 24414,
+        "Value": 5653000
+      },
+      "MissionPoints": {
+        "Position": 24443,
+        "Value": 21
+      },
+      "ScoreCategory": {
+        "Position": 24480,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24513,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay12": {
+      "ScoreAwarded": {
+        "Position": 24558,
+        "Value": 6193000
+      },
+      "MissionPoints": {
+        "Position": 24587,
+        "Value": 22
+      },
+      "ScoreCategory": {
+        "Position": 24624,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24657,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay13": {
+      "ScoreAwarded": {
+        "Position": 24702,
+        "Value": 6735000
+      },
+      "MissionPoints": {
+        "Position": 24731,
+        "Value": 23
+      },
+      "ScoreCategory": {
+        "Position": 24768,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24801,
+        "Value": -1
+      }
+    },
+    "SurvivorMode14Day_Badge_ParticipationDay14": {
+      "ScoreAwarded": {
+        "Position": 24846,
+        "Value": 2408000
+      },
+      "MissionPoints": {
+        "Position": 24875,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 24912,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 24945,
+        "Value": -1
+      }
+    },
+    "HordeMode_TierComplete": {
+      "ScoreAwarded": {
+        "Position": 24990,
+        "Value": 1425000
+      },
+      "MissionPoints": {
+        "Position": 25019,
+        "Value": 20
+      },
+      "ScoreCategory": {
+        "Position": 25056,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25089,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave1": {
+      "ScoreAwarded": {
+        "Position": 25134,
+        "Value": 380000
+      },
+      "MissionPoints": {
+        "Position": 25163,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 25200,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25233,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave2": {
+      "ScoreAwarded": {
+        "Position": 25278,
+        "Value": 505000
+      },
+      "MissionPoints": {
+        "Position": 25307,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 25344,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25377,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave3": {
+      "ScoreAwarded": {
+        "Position": 25422,
+        "Value": 635000
+      },
+      "MissionPoints": {
+        "Position": 25451,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 25488,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25521,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave4": {
+      "ScoreAwarded": {
+        "Position": 25566,
+        "Value": 760000
+      },
+      "MissionPoints": {
+        "Position": 25595,
+        "Value": 10
+      },
+      "ScoreCategory": {
+        "Position": 25632,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25665,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave5": {
+      "ScoreAwarded": {
+        "Position": 25710,
+        "Value": 885000
+      },
+      "MissionPoints": {
+        "Position": 25739,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 25776,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25809,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave6": {
+      "ScoreAwarded": {
+        "Position": 25854,
+        "Value": 1015000
+      },
+      "MissionPoints": {
+        "Position": 25883,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 25920,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 25953,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave7": {
+      "ScoreAwarded": {
+        "Position": 25998,
+        "Value": 1140000
+      },
+      "MissionPoints": {
+        "Position": 26027,
+        "Value": 16
+      },
+      "ScoreCategory": {
+        "Position": 26064,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26097,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave8": {
+      "ScoreAwarded": {
+        "Position": 26142,
+        "Value": 0
+      },
+      "MissionPoints": {
+        "Position": 26171,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 26208,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26241,
+        "Value": -1
+      }
+    },
+    "HordeMode_PartialCompletion_Wave9": {
+      "ScoreAwarded": {
+        "Position": 26286,
+        "Value": 0
+      },
+      "MissionPoints": {
+        "Position": 26315,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 26352,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26385,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PtS_Victory": {
+      "ScoreAwarded": {
+        "Position": 26430,
+        "Value": 1798000
+      },
+      "MissionPoints": {
+        "Position": 26459,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 26496,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26529,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PtS_Participation": {
+      "ScoreAwarded": {
+        "Position": 26574,
+        "Value": 180000
+      },
+      "MissionPoints": {
+        "Position": 26603,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 26640,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26673,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PtS_Bonus": {
+      "ScoreAwarded": {
+        "Position": 26718,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 26747,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 26784,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26817,
+        "Value": -1
+      }
+    },
+    "MissionBadge_EtM_Victory": {
+      "ScoreAwarded": {
+        "Position": 26862,
+        "Value": 1798000
+      },
+      "MissionPoints": {
+        "Position": 26891,
+        "Value": 13
+      },
+      "ScoreCategory": {
+        "Position": 26928,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 26961,
+        "Value": -1
+      }
+    },
+    "MissionBadge_EtM_Participation": {
+      "ScoreAwarded": {
+        "Position": 27006,
+        "Value": 180000
+      },
+      "MissionPoints": {
+        "Position": 27035,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 27072,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27105,
+        "Value": -1
+      }
+    },
+    "MissionBadge_EtM_Bonus": {
+      "ScoreAwarded": {
+        "Position": 27150,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 27179,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 27216,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27249,
+        "Value": -1
+      }
+    },
+    "MissionBadge_TtS_Victory": {
+      "ScoreAwarded": {
+        "Position": 27294,
+        "Value": 1773000
+      },
+      "MissionPoints": {
+        "Position": 27323,
+        "Value": 19
+      },
+      "ScoreCategory": {
+        "Position": 27360,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27393,
+        "Value": -1
+      }
+    },
+    "MissionBadge_TtS_Participation": {
+      "ScoreAwarded": {
+        "Position": 27438,
+        "Value": 177000
+      },
+      "MissionPoints": {
+        "Position": 27467,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 27504,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27537,
+        "Value": -1
+      }
+    },
+    "Starlight_UpperFloorsCompleted": {
+      "ScoreAwarded": {
+        "Position": 27582,
+        "Value": 390000
+      },
+      "MissionPoints": {
+        "Position": 27611,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 27648,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27681,
+        "Value": -1
+      }
+    },
+    "Starlight_MiddleFloorsCompleted": {
+      "ScoreAwarded": {
+        "Position": 27726,
+        "Value": 390000
+      },
+      "MissionPoints": {
+        "Position": 27755,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 27792,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27825,
+        "Value": -1
+      }
+    },
+    "Starlight_LowerFloorsCompleted": {
+      "ScoreAwarded": {
+        "Position": 27870,
+        "Value": 575000
+      },
+      "MissionPoints": {
+        "Position": 27899,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 27936,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 27969,
+        "Value": -1
+      }
+    },
+    "Starlight_Keymaster": {
+      "ScoreAwarded": {
+        "Position": 28014,
+        "Value": 220000
+      },
+      "MissionPoints": {
+        "Position": 28043,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 28080,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28113,
+        "Value": -1
+      }
+    },
+    "Starlight_DungeonBossDead": {
+      "ScoreAwarded": {
+        "Position": 28158,
+        "Value": 785000
+      },
+      "MissionPoints": {
+        "Position": 28187,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 28224,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28257,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave1": {
+      "ScoreAwarded": {
+        "Position": 28302,
+        "Value": 70000
+      },
+      "MissionPoints": {
+        "Position": 28331,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 28368,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28401,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave2": {
+      "ScoreAwarded": {
+        "Position": 28446,
+        "Value": 145000
+      },
+      "MissionPoints": {
+        "Position": 28475,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 28512,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28545,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave3": {
+      "ScoreAwarded": {
+        "Position": 28590,
+        "Value": 220000
+      },
+      "MissionPoints": {
+        "Position": 28619,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 28656,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28689,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave4": {
+      "ScoreAwarded": {
+        "Position": 28734,
+        "Value": 305000
+      },
+      "MissionPoints": {
+        "Position": 28763,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 28800,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28833,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave5": {
+      "ScoreAwarded": {
+        "Position": 28878,
+        "Value": 390000
+      },
+      "MissionPoints": {
+        "Position": 28907,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 28944,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 28977,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave6": {
+      "ScoreAwarded": {
+        "Position": 29022,
+        "Value": 480000
+      },
+      "MissionPoints": {
+        "Position": 29051,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 29088,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29121,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave7": {
+      "ScoreAwarded": {
+        "Position": 29166,
+        "Value": 575000
+      },
+      "MissionPoints": {
+        "Position": 29195,
+        "Value": 7
+      },
+      "ScoreCategory": {
+        "Position": 29232,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29265,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave8": {
+      "ScoreAwarded": {
+        "Position": 29310,
+        "Value": 680000
+      },
+      "MissionPoints": {
+        "Position": 29339,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 29376,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29409,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave9": {
+      "ScoreAwarded": {
+        "Position": 29454,
+        "Value": 785000
+      },
+      "MissionPoints": {
+        "Position": 29483,
+        "Value": 9
+      },
+      "ScoreCategory": {
+        "Position": 29520,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29553,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave10": {
+      "ScoreAwarded": {
+        "Position": 29598,
+        "Value": 900000
+      },
+      "MissionPoints": {
+        "Position": 29627,
+        "Value": 10
+      },
+      "ScoreCategory": {
+        "Position": 29664,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29697,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave11": {
+      "ScoreAwarded": {
+        "Position": 29742,
+        "Value": 1020000
+      },
+      "MissionPoints": {
+        "Position": 29771,
+        "Value": 11
+      },
+      "ScoreCategory": {
+        "Position": 29808,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29841,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave12": {
+      "ScoreAwarded": {
+        "Position": 29886,
+        "Value": 1145000
+      },
+      "MissionPoints": {
+        "Position": 29915,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 29952,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 29985,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave13": {
+      "ScoreAwarded": {
+        "Position": 30030,
+        "Value": 1280000
+      },
+      "MissionPoints": {
+        "Position": 30059,
+        "Value": 13
+      },
+      "ScoreCategory": {
+        "Position": 30096,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30129,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave14": {
+      "ScoreAwarded": {
+        "Position": 30174,
+        "Value": 1420000
+      },
+      "MissionPoints": {
+        "Position": 30203,
+        "Value": 14
+      },
+      "ScoreCategory": {
+        "Position": 30240,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30273,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave15": {
+      "ScoreAwarded": {
+        "Position": 30318,
+        "Value": 1570000
+      },
+      "MissionPoints": {
+        "Position": 30347,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 30384,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30417,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave16": {
+      "ScoreAwarded": {
+        "Position": 30462,
+        "Value": 1725000
+      },
+      "MissionPoints": {
+        "Position": 30491,
+        "Value": 16
+      },
+      "ScoreCategory": {
+        "Position": 30528,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30561,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave17": {
+      "ScoreAwarded": {
+        "Position": 30606,
+        "Value": 1890000
+      },
+      "MissionPoints": {
+        "Position": 30635,
+        "Value": 17
+      },
+      "ScoreCategory": {
+        "Position": 30672,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30705,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave18": {
+      "ScoreAwarded": {
+        "Position": 30750,
+        "Value": 2065000
+      },
+      "MissionPoints": {
+        "Position": 30779,
+        "Value": 18
+      },
+      "ScoreCategory": {
+        "Position": 30816,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30849,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave19": {
+      "ScoreAwarded": {
+        "Position": 30894,
+        "Value": 2245000
+      },
+      "MissionPoints": {
+        "Position": 30923,
+        "Value": 19
+      },
+      "ScoreCategory": {
+        "Position": 30960,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 30993,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave20": {
+      "ScoreAwarded": {
+        "Position": 31038,
+        "Value": 2440000
+      },
+      "MissionPoints": {
+        "Position": 31067,
+        "Value": 20
+      },
+      "ScoreCategory": {
+        "Position": 31104,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 31137,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave21": {
+      "ScoreAwarded": {
+        "Position": 31182,
+        "Value": 2645000
+      },
+      "MissionPoints": {
+        "Position": 31211,
+        "Value": 21
+      },
+      "ScoreCategory": {
+        "Position": 31248,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 31281,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave22": {
+      "ScoreAwarded": {
+        "Position": 31326,
+        "Value": 2860000
+      },
+      "MissionPoints": {
+        "Position": 31355,
+        "Value": 22
+      },
+      "ScoreCategory": {
+        "Position": 31392,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 31425,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave23": {
+      "ScoreAwarded": {
+        "Position": 31470,
+        "Value": 3090000
+      },
+      "MissionPoints": {
+        "Position": 31499,
+        "Value": 23
+      },
+      "ScoreCategory": {
+        "Position": 31536,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 31569,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave24": {
+      "ScoreAwarded": {
+        "Position": 31614,
+        "Value": 3330000
+      },
+      "MissionPoints": {
+        "Position": 31643,
+        "Value": 24
+      },
+      "ScoreCategory": {
+        "Position": 31680,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 31713,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave25": {
+      "ScoreAwarded": {
+        "Position": 31758,
+        "Value": 3580000
+      },
+      "MissionPoints": {
+        "Position": 31787,
+        "Value": 25
+      },
+      "ScoreCategory": {
+        "Position": 31824,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 31857,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave26": {
+      "ScoreAwarded": {
+        "Position": 31902,
+        "Value": 3850000
+      },
+      "MissionPoints": {
+        "Position": 31931,
+        "Value": 26
+      },
+      "ScoreCategory": {
+        "Position": 31968,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32001,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave27": {
+      "ScoreAwarded": {
+        "Position": 32046,
+        "Value": 4130000
+      },
+      "MissionPoints": {
+        "Position": 32075,
+        "Value": 27
+      },
+      "ScoreCategory": {
+        "Position": 32112,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32145,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave28": {
+      "ScoreAwarded": {
+        "Position": 32190,
+        "Value": 4430000
+      },
+      "MissionPoints": {
+        "Position": 32219,
+        "Value": 28
+      },
+      "ScoreCategory": {
+        "Position": 32256,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32289,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave29": {
+      "ScoreAwarded": {
+        "Position": 32334,
+        "Value": 4745000
+      },
+      "MissionPoints": {
+        "Position": 32363,
+        "Value": 29
+      },
+      "ScoreCategory": {
+        "Position": 32400,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32433,
+        "Value": -1
+      }
+    },
+    "EndlessMode_PartialCompletion_Wave30": {
+      "ScoreAwarded": {
+        "Position": 32478,
+        "Value": 5065000
+      },
+      "MissionPoints": {
+        "Position": 32507,
+        "Value": 30
+      },
+      "ScoreCategory": {
+        "Position": 32544,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32577,
+        "Value": -1
+      }
+    },
+    "Dudebro_Victory": {
+      "ScoreAwarded": {
+        "Position": 32622,
+        "Value": 1350000
+      },
+      "MissionPoints": {
+        "Position": 32651,
+        "Value": 11
+      },
+      "ScoreCategory": {
+        "Position": 32688,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32721,
+        "Value": -1
+      }
+    },
+    "Dudebro_Participation": {
+      "ScoreAwarded": {
+        "Position": 32766,
+        "Value": 135000
+      },
+      "MissionPoints": {
+        "Position": 32795,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 32832,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 32865,
+        "Value": -1
+      }
+    },
+    "MissionBadge_Resupply_Victory": {
+      "ScoreAwarded": {
+        "Position": 32910,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 32939,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 32976,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33009,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ElimCollect_Bronze": {
+      "ScoreAwarded": {
+        "Position": 33054,
+        "Value": 383000
+      },
+      "MissionPoints": {
+        "Position": 33083,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 33120,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33153,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ElimCollect_Silver": {
+      "ScoreAwarded": {
+        "Position": 33198,
+        "Value": 478000
+      },
+      "MissionPoints": {
+        "Position": 33227,
+        "Value": 3
+      },
+      "ScoreCategory": {
+        "Position": 33264,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33297,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ElimCollect_Gold": {
+      "ScoreAwarded": {
+        "Position": 33342,
+        "Value": 763000
+      },
+      "MissionPoints": {
+        "Position": 33371,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 33408,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33441,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ElimCollect_Platinum": {
+      "ScoreAwarded": {
+        "Position": 33486,
+        "Value": 858000
+      },
+      "MissionPoints": {
+        "Position": 33515,
+        "Value": 5
+      },
+      "ScoreCategory": {
+        "Position": 33552,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33585,
+        "Value": -1
+      }
+    },
+    "MissionBadge_ElimCollect_Participation": {
+      "ScoreAwarded": {
+        "Position": 33630,
+        "Value": 38000
+      },
+      "MissionPoints": {
+        "Position": 33659,
+        "Value": 0
+      },
+      "ScoreCategory": {
+        "Position": 33696,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33729,
+        "Value": -1
+      }
+    },
+    "BonusBadge_CollectBluGlo": {
+      "ScoreAwarded": {
+        "Position": 33774,
+        "Value": 298000
+      },
+      "MissionPoints": {
+        "Position": 33803,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 33840,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 33873,
+        "Value": -1
+      }
+    },
+    "BonusBadge_CompleteAnomalies": {
+      "ScoreAwarded": {
+        "Position": 33918,
+        "Value": 298000
+      },
+      "MissionPoints": {
+        "Position": 33947,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 33984,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34017,
+        "Value": -1
+      }
+    },
+    "BonusBadge_CompleteEncampments": {
+      "ScoreAwarded": {
+        "Position": 34062,
+        "Value": 298000
+      },
+      "MissionPoints": {
+        "Position": 34091,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 34128,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34161,
+        "Value": -1
+      }
+    },
+    "BonusBadge_EliminateHusks": {
+      "ScoreAwarded": {
+        "Position": 34206,
+        "Value": 298000
+      },
+      "MissionPoints": {
+        "Position": 34235,
+        "Value": 1
+      },
+      "ScoreCategory": {
+        "Position": 34272,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34305,
+        "Value": -1
+      }
+    },
+    "WarGames_MissionCompletion": {
+      "ScoreAwarded": {
+        "Position": 34350,
+        "Value": 730000
+      },
+      "MissionPoints": {
+        "Position": 34379,
+        "Value": 15
+      },
+      "ScoreCategory": {
+        "Position": 34416,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34449,
+        "Value": -1
+      }
+    },
+    "WarGames_ChallengeCompletion": {
+      "ScoreAwarded": {
+        "Position": 34494,
+        "Value": 270000
+      },
+      "MissionPoints": {
+        "Position": 34523,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 34560,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34593,
+        "Value": -1
+      }
+    },
+    "Mayday_BridgeOutCompletion": {
+      "ScoreAwarded": {
+        "Position": 34638,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 34667,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 34704,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34737,
+        "Value": -1
+      }
+    },
+    "Mayday_MinorDelayCompletion": {
+      "ScoreAwarded": {
+        "Position": 34782,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 34811,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 34848,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 34881,
+        "Value": -1
+      }
+    },
+    "Mayday_FeelinBluCompletion": {
+      "ScoreAwarded": {
+        "Position": 34926,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 34955,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 34992,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35025,
+        "Value": -1
+      }
+    },
+    "Mayday_PitStopCompletion": {
+      "ScoreAwarded": {
+        "Position": 35070,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 35099,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 35136,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35169,
+        "Value": -1
+      }
+    },
+    "Mayday_OverheatCompletion": {
+      "ScoreAwarded": {
+        "Position": 35214,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 35243,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 35280,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35313,
+        "Value": -1
+      }
+    },
+    "Mayday_SignalBoostCompletion": {
+      "ScoreAwarded": {
+        "Position": 35358,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 35387,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 35424,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35457,
+        "Value": -1
+      }
+    },
+    "Mayday_PartyPlannerCompletion": {
+      "ScoreAwarded": {
+        "Position": 35502,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 35531,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 35568,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35601,
+        "Value": -1
+      }
+    },
+    "Mayday_BugHuntCompletion": {
+      "ScoreAwarded": {
+        "Position": 35646,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 35675,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 35712,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35745,
+        "Value": -1
+      }
+    },
+    "Mayday_StrangelandsCompletion": {
+      "ScoreAwarded": {
+        "Position": 35790,
+        "Value": 645000
+      },
+      "MissionPoints": {
+        "Position": 35819,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 35856,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 35889,
+        "Value": -1
+      }
+    },
+    "Mayday_RadioStationCompletion": {
+      "ScoreAwarded": {
+        "Position": 35934,
+        "Value": 2545000
+      },
+      "MissionPoints": {
+        "Position": 35963,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 36000,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 36033,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTP_Victory_Bronze": {
+      "ScoreAwarded": {
+        "Position": 36078,
+        "Value": 493000
+      },
+      "MissionPoints": {
+        "Position": 36107,
+        "Value": 4
+      },
+      "ScoreCategory": {
+        "Position": 36144,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 36177,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTP_Victory_Silver": {
+      "ScoreAwarded": {
+        "Position": 36222,
+        "Value": 283000
+      },
+      "MissionPoints": {
+        "Position": 36251,
+        "Value": 6
+      },
+      "ScoreCategory": {
+        "Position": 36288,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 36321,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTP_Victory_Gold": {
+      "ScoreAwarded": {
+        "Position": 36366,
+        "Value": 280000
+      },
+      "MissionPoints": {
+        "Position": 36395,
+        "Value": 8
+      },
+      "ScoreCategory": {
+        "Position": 36432,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 36465,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTP_Victory_Platinum": {
+      "ScoreAwarded": {
+        "Position": 36510,
+        "Value": 280000
+      },
+      "MissionPoints": {
+        "Position": 36539,
+        "Value": 12
+      },
+      "ScoreCategory": {
+        "Position": 36576,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 36609,
+        "Value": -1
+      }
+    },
+    "MissionBadge_PTP_Participation": {
+      "ScoreAwarded": {
+        "Position": 36654,
+        "Value": 38000
+      },
+      "MissionPoints": {
+        "Position": 36683,
+        "Value": 2
+      },
+      "ScoreCategory": {
+        "Position": 36720,
+        "Value": {
+          "String": "EStatCategory::Max_None"
+        }
+      },
+      "ScoreThreshold": {
+        "Position": 36753,
+        "Value": -1
+      }
+    }
+  }
+]

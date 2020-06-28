@@ -1,0 +1,1632 @@
+[
+  {
+    "AthenaPlayerBuildingMetal1.FortBuildingActorSet.BuildTime": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 25.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 193,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 230,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 271,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.FortBuildingActorSet.BuildTime": {
+      "InterpMode": {
+        "Position": 328,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 369,
+        "Value": [
+          {
+            "Position": 422,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 12.0
+            }
+          },
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 12.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 463,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 500,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 541,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.FortBuildingActorSet.BuildTime": {
+      "InterpMode": {
+        "Position": 598,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 639,
+        "Value": [
+          {
+            "Position": 692,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 700,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 733,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 770,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 811,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.FortBuildingActorSet.BuildTime": {
+      "InterpMode": {
+        "Position": 868,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 909,
+        "Value": [
+          {
+            "Position": 962,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 970,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1003,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1040,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 1081,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.FortBuildingActorSet.RepairTime": {
+      "InterpMode": {
+        "Position": 1138,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 1179,
+        "Value": [
+          {
+            "Position": 1232,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 1240,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 25.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1273,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1310,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 1351,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.FortBuildingActorSet.RepairTime": {
+      "InterpMode": {
+        "Position": 1408,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 1449,
+        "Value": [
+          {
+            "Position": 1502,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 12.0
+            }
+          },
+          {
+            "Position": 1510,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 12.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1543,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1580,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 1621,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.FortBuildingActorSet.RepairTime": {
+      "InterpMode": {
+        "Position": 1678,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 1719,
+        "Value": [
+          {
+            "Position": 1772,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 1780,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 4.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1813,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1850,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 1891,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.FortBuildingActorSet.RepairTime": {
+      "InterpMode": {
+        "Position": 1948,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 1989,
+        "Value": [
+          {
+            "Position": 2042,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 2050,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 20.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2083,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2120,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 2161,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size1.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 2218,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 2259,
+        "Value": [
+          {
+            "Position": 2312,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 200.0
+            }
+          },
+          {
+            "Position": 2320,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 200.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2353,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2390,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 2431,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size2.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 2488,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 2529,
+        "Value": [
+          {
+            "Position": 2582,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 220.0
+            }
+          },
+          {
+            "Position": 2590,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 220.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2623,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2660,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 2701,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size3.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 2758,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 2799,
+        "Value": [
+          {
+            "Position": 2852,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 240.0
+            }
+          },
+          {
+            "Position": 2860,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 240.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2893,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2930,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 2971,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size4.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 3028,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 3069,
+        "Value": [
+          {
+            "Position": 3122,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 330.0
+            }
+          },
+          {
+            "Position": 3130,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 330.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3200,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 3241,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size5.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 3298,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 3339,
+        "Value": [
+          {
+            "Position": 3392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 350.0
+            }
+          },
+          {
+            "Position": 3400,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 350.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3433,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3470,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 3511,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size6.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 3568,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 3609,
+        "Value": [
+          {
+            "Position": 3662,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 370.0
+            }
+          },
+          {
+            "Position": 3670,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 370.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3703,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3740,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 3781,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size7.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 3838,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 3879,
+        "Value": [
+          {
+            "Position": 3932,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 460.0
+            }
+          },
+          {
+            "Position": 3940,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 460.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3973,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4010,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 4051,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size8.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 4108,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 4149,
+        "Value": [
+          {
+            "Position": 4202,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 480.0
+            }
+          },
+          {
+            "Position": 4210,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 480.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4243,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4280,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 4321,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingMetal1.Size9.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 4378,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 4419,
+        "Value": [
+          {
+            "Position": 4472,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 4480,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 500.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4513,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4550,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 4591,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size1.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 4648,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 4689,
+        "Value": [
+          {
+            "Position": 4742,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 140.0
+            }
+          },
+          {
+            "Position": 4750,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 140.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4783,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4820,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 4861,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size2.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 4918,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 4959,
+        "Value": [
+          {
+            "Position": 5012,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.0
+            }
+          },
+          {
+            "Position": 5020,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 150.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5053,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5090,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 5131,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size3.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 5188,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 5229,
+        "Value": [
+          {
+            "Position": 5282,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 160.0
+            }
+          },
+          {
+            "Position": 5290,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 160.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5323,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5360,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 5401,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size4.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 5458,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 5499,
+        "Value": [
+          {
+            "Position": 5552,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 210.0
+            }
+          },
+          {
+            "Position": 5560,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 210.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5593,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5630,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 5671,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size5.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 5728,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 5769,
+        "Value": [
+          {
+            "Position": 5822,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 220.0
+            }
+          },
+          {
+            "Position": 5830,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 220.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5863,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5900,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 5941,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size6.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 5998,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 6039,
+        "Value": [
+          {
+            "Position": 6092,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 230.0
+            }
+          },
+          {
+            "Position": 6100,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 230.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6133,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6170,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 6211,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size7.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 6268,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 6309,
+        "Value": [
+          {
+            "Position": 6362,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 280.0
+            }
+          },
+          {
+            "Position": 6370,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 280.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6403,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6440,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 6481,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size8.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 6538,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 6579,
+        "Value": [
+          {
+            "Position": 6632,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 290.0
+            }
+          },
+          {
+            "Position": 6640,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 290.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6673,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6710,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 6751,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingStone1.Size9.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 6808,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 6849,
+        "Value": [
+          {
+            "Position": 6902,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 300.0
+            }
+          },
+          {
+            "Position": 6910,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 300.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6943,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6980,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 7021,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size1.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 7078,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 7119,
+        "Value": [
+          {
+            "Position": 7172,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 90.0
+            }
+          },
+          {
+            "Position": 7180,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 90.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7213,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7250,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 7291,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size2.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 7348,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 7389,
+        "Value": [
+          {
+            "Position": 7442,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 95.0
+            }
+          },
+          {
+            "Position": 7450,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 95.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7483,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7520,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 7561,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size3.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 7618,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 7659,
+        "Value": [
+          {
+            "Position": 7712,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 7720,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 100.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7753,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7790,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 7831,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size4.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 7888,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 7929,
+        "Value": [
+          {
+            "Position": 7982,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 115.0
+            }
+          },
+          {
+            "Position": 7990,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 115.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8023,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8060,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 8101,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size5.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 8158,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 8199,
+        "Value": [
+          {
+            "Position": 8252,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 120.0
+            }
+          },
+          {
+            "Position": 8260,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 120.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8293,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8330,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 8371,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size6.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 8428,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 8469,
+        "Value": [
+          {
+            "Position": 8522,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 125.0
+            }
+          },
+          {
+            "Position": 8530,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 125.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8563,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8600,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 8641,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size7.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 8698,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 8739,
+        "Value": [
+          {
+            "Position": 8792,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 140.0
+            }
+          },
+          {
+            "Position": 8800,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 140.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8833,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8870,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 8911,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size8.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 8968,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 9009,
+        "Value": [
+          {
+            "Position": 9062,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 145.0
+            }
+          },
+          {
+            "Position": 9070,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 145.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9103,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9140,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 9181,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingWood1.Size9.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 9238,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 9279,
+        "Value": [
+          {
+            "Position": 9332,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.0
+            }
+          },
+          {
+            "Position": 9340,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 150.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9373,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9410,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 9451,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size1.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 9508,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 9549,
+        "Value": [
+          {
+            "Position": 9602,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 9610,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9643,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9680,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 9721,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size2.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 9778,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 9819,
+        "Value": [
+          {
+            "Position": 9872,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 9880,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9913,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9950,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 9991,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size3.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 10048,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 10089,
+        "Value": [
+          {
+            "Position": 10142,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 10150,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10183,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10220,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 10261,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size4.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 10318,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 10359,
+        "Value": [
+          {
+            "Position": 10412,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 10420,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10453,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10490,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 10531,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size5.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 10588,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 10629,
+        "Value": [
+          {
+            "Position": 10682,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 10690,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10723,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10760,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 10801,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size6.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 10858,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 10899,
+        "Value": [
+          {
+            "Position": 10952,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 10960,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10993,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11030,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 11071,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size7.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 11128,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 11169,
+        "Value": [
+          {
+            "Position": 11222,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 11230,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11263,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11300,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 11341,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size8.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 11398,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 11439,
+        "Value": [
+          {
+            "Position": 11492,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 11500,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11533,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11570,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 11611,
+        "Value": 63
+      }
+    },
+    "AthenaPlayerBuildingPermanite1.Size9.FortHealthSet.MaxHealth": {
+      "InterpMode": {
+        "Position": 11668,
+        "Value": 64
+      },
+      "Keys": {
+        "Position": 11709,
+        "Value": [
+          {
+            "Position": 11762,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 11770,
+            "Value": {
+              "KeyTime": 250.0,
+              "KeyValue": 1000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11803,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11840,
+        "Value": 63
+      },
+      "PostInfinityExtrap": {
+        "Position": 11881,
+        "Value": 63
+      }
+    }
+  }
+]

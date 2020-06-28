@@ -1,0 +1,5404 @@
+[
+  {
+    "GameplayStat.BR.PlaceTop1": {
+      "BackendName": {
+        "Position": 78,
+        "Value": "br_placetop1"
+      },
+      "DisplayName": {
+        "Position": 120,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "39FF23954A07760F57A964A1FA9620CA",
+            "SourceString": "Wins (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 215,
+        "Value": [
+          {
+            "Position": 219,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 227,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 268,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 309,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 341,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 368,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 396,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 422,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 473,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop10": {
+      "BackendName": {
+        "Position": 522,
+        "Value": "br_placetop10"
+      },
+      "DisplayName": {
+        "Position": 565,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "AD86206C446AE3A6625197A6549C43EF",
+            "SourceString": "Top 10 finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 671,
+        "Value": [
+          {
+            "Position": 675,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 683,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 724,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 765,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 797,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 824,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 852,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 878,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 929,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop25": {
+      "BackendName": {
+        "Position": 978,
+        "Value": "br_placetop25"
+      },
+      "DisplayName": {
+        "Position": 1021,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "73C74B8748368275D6D46FBAF410E39B",
+            "SourceString": "Top 25 finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 1127,
+        "Value": [
+          {
+            "Position": 1131,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 1139,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 1180,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 1221,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 1253,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 1280,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 1308,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 1334,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 1385,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop5": {
+      "BackendName": {
+        "Position": 1434,
+        "Value": "br_placetop5"
+      },
+      "DisplayName": {
+        "Position": 1476,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "DE2D52F74E6AB1B34230AFA24079422C",
+            "SourceString": "Top 5 finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 1580,
+        "Value": [
+          {
+            "Position": 1584,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 1592,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 1633,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 1674,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 1706,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 1733,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 1761,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 1787,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 1838,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop12": {
+      "BackendName": {
+        "Position": 1887,
+        "Value": "br_placetop12"
+      },
+      "DisplayName": {
+        "Position": 1930,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "0CABD93F4BD3FD641D6FCE9E2A428E86",
+            "SourceString": "Top 12 finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 2035,
+        "Value": [
+          {
+            "Position": 2039,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 2047,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 2088,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 2129,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 2161,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 2188,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 2216,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 2242,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 2293,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop3": {
+      "BackendName": {
+        "Position": 2342,
+        "Value": "br_placetop3"
+      },
+      "DisplayName": {
+        "Position": 2384,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8C7A3D054D01209CB26BBBB23533044B",
+            "SourceString": "Top 3 finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 2490,
+        "Value": [
+          {
+            "Position": 2494,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 2502,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 2543,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 2584,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 2616,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 2643,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 2671,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 2697,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 2748,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop6": {
+      "BackendName": {
+        "Position": 2797,
+        "Value": "br_placetop6"
+      },
+      "DisplayName": {
+        "Position": 2839,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4DF88B004BF9933385CE5599537300F9",
+            "SourceString": "Top 6 finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 2945,
+        "Value": [
+          {
+            "Position": 2949,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 2957,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 2998,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 3039,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 3071,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 3098,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 3126,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 3152,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 3203,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills": {
+      "BackendName": {
+        "Position": 3252,
+        "Value": "br_kills"
+      },
+      "DisplayName": {
+        "Position": 3290,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "ED51ADEE41023C9FF761379B8C5EE339",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 3379,
+        "Value": [
+          {
+            "Position": 3383,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 3391,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 3432,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 3473,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 3505,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 3532,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 3560,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 3586,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 3637,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed": {
+      "BackendName": {
+        "Position": 3686,
+        "Value": "br_matchesplayed"
+      },
+      "DisplayName": {
+        "Position": 3732,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "39B987AA4DA9AD1C5F7B6681FE7C42FE",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 3830,
+        "Value": [
+          {
+            "Position": 3834,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 3842,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 3883,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 3924,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 3956,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 3983,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 4011,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 4037,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 4088,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed": {
+      "BackendName": {
+        "Position": 4137,
+        "Value": "br_minutesplayed"
+      },
+      "DisplayName": {
+        "Position": 4183,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A8077A884EE2AA9682C00299F544B107",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 4278,
+        "Value": [
+          {
+            "Position": 4282,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 4290,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 4331,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 4372,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 4404,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 4431,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 4459,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 4485,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 4536,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.pc.m0.p2": {
+      "BackendName": {
+        "Position": 4585,
+        "Value": "br_placetop1_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 4636,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "AFECB5BF403FEA0D5BA6FA8D89B13BE2",
+            "SourceString": "Wins (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 4731,
+        "Value": [
+          {
+            "Position": 4735,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 4743,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 4784,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 4825,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 4857,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 4884,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 4912,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 4938,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 4989,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop10.pc.m0.p2": {
+      "BackendName": {
+        "Position": 5038,
+        "Value": "br_placetop10_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 5090,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "099AE9CC4C45AC1929D26EAD615F1E57",
+            "SourceString": "Top 10 finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 5196,
+        "Value": [
+          {
+            "Position": 5200,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 5208,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 5249,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 5290,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 5322,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 5349,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 5377,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 5403,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 5454,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop25.pc.m0.p2": {
+      "BackendName": {
+        "Position": 5503,
+        "Value": "br_placetop25_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 5555,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "D075336C4AE1A85B46CD4FA49E9DE4E4",
+            "SourceString": "Top 25 finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 5661,
+        "Value": [
+          {
+            "Position": 5665,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 5673,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 5714,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 5755,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 5787,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 5814,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 5842,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 5868,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 5919,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.pc.m0.p2": {
+      "BackendName": {
+        "Position": 5968,
+        "Value": "br_kills_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 6015,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "BFDDC36946C1AED88D513BBA848B3FC0",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 6104,
+        "Value": [
+          {
+            "Position": 6108,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 6116,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 6157,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 6198,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 6230,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 6257,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 6285,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 6311,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 6362,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.pc.m0.p2": {
+      "BackendName": {
+        "Position": 6411,
+        "Value": "br_matchesplayed_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 6466,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F7682B8746E57318877E56BF3D7AD7E8",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 6564,
+        "Value": [
+          {
+            "Position": 6568,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 6576,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 6617,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 6658,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 6690,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 6717,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 6745,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 6771,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 6822,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.pc.m0.p2": {
+      "BackendName": {
+        "Position": 6871,
+        "Value": "br_minutesplayed_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 6926,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6FC7E6264081BF348004048CE05FF55D",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 7021,
+        "Value": [
+          {
+            "Position": 7025,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 7033,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 7074,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 7115,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 7147,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 7174,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 7202,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 7228,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 7279,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 7328,
+        "Value": "br_placetop1_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 7380,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A79696004DD2A299DC042ABFEF095875",
+            "SourceString": "Wins (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 7475,
+        "Value": [
+          {
+            "Position": 7479,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 7487,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 7528,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 7569,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 7601,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 7628,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 7656,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 7682,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 7733,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop10.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 7782,
+        "Value": "br_placetop10_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 7835,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "294D4B7248FAE4693EEA8BB281BCD71D",
+            "SourceString": "Top 10 Finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 7941,
+        "Value": [
+          {
+            "Position": 7945,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 7953,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 7994,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 8035,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 8067,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 8094,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 8122,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 8148,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 8199,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop25.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 8248,
+        "Value": "br_placetop25_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 8301,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "7E16DCEE4D104210B07A62AE15142898",
+            "SourceString": "Top 25 Finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 8407,
+        "Value": [
+          {
+            "Position": 8411,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 8419,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 8460,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 8501,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 8533,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 8560,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 8588,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 8614,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 8665,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 8714,
+        "Value": "br_kills_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 8762,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3AFFD53147B7FD9A9416218FCE98E1F6",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 8851,
+        "Value": [
+          {
+            "Position": 8855,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 8863,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 8904,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 8945,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 8977,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 9004,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 9032,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 9058,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 9109,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 9158,
+        "Value": "br_matchesplayed_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 9214,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "0B876A2F40551FD4131665A08D33C5FE",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 9312,
+        "Value": [
+          {
+            "Position": 9316,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 9324,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 9365,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 9406,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 9438,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 9465,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 9493,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 9519,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 9570,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 9619,
+        "Value": "br_minutesplayed_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 9675,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "55D0554F47DFDC68404838B9B85BB55E",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 9770,
+        "Value": [
+          {
+            "Position": 9774,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 9782,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 9823,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 9864,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 9896,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 9923,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 9951,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 9977,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 10028,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 10077,
+        "Value": "br_placetop1_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 10129,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6833F09E4C8D06C5719356800B6F7276",
+            "SourceString": "Wins (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 10224,
+        "Value": [
+          {
+            "Position": 10228,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 10236,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 10277,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 10318,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 10350,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 10377,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 10405,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 10431,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 10482,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop10.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 10531,
+        "Value": "br_placetop10_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 10584,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4079F913420884A8F18E40843AE0A562",
+            "SourceString": "Top 10 Finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 10690,
+        "Value": [
+          {
+            "Position": 10694,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 10702,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 10743,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 10784,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 10816,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 10843,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 10871,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 10897,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 10948,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop25.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 10997,
+        "Value": "br_placetop25_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 11050,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "748BF4BE4C715CA6736C548E4B569914",
+            "SourceString": "Top 25 Finishes (Solo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 11156,
+        "Value": [
+          {
+            "Position": 11160,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 11168,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 11209,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 11250,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 11282,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 11309,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 11337,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 11363,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 11414,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 11463,
+        "Value": "br_kills_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 11511,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "B736489E427EBB54074B9C8689BF4AC9",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 11600,
+        "Value": [
+          {
+            "Position": 11604,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 11612,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 11653,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 11694,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 11726,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 11753,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 11781,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 11807,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 11858,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 11907,
+        "Value": "br_matchesplayed_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 11963,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4714B3D040529479115723BBCC962A3C",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 12061,
+        "Value": [
+          {
+            "Position": 12065,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 12073,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 12114,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 12155,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 12187,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 12214,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 12242,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 12268,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 12319,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 12368,
+        "Value": "br_minutesplayed_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 12424,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "38AD808A4D7BDC54CFF31CAC404FAF31",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 12519,
+        "Value": [
+          {
+            "Position": 12523,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 12531,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 12572,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 12613,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 12645,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 12672,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 12700,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 12726,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 12777,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.pc.m0.p10": {
+      "BackendName": {
+        "Position": 12826,
+        "Value": "br_placetop1_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 12878,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "F48B248F498074CA1E1448AA5FA4FBA4",
+            "SourceString": "Wins (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 12972,
+        "Value": [
+          {
+            "Position": 12976,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 12984,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 13025,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 13066,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 13098,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 13125,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 13153,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 13179,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 13230,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop5.pc.m0.p10": {
+      "BackendName": {
+        "Position": 13279,
+        "Value": "br_placetop5_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 13331,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C9DA1B8E48541FCED0700AA7BBB00E40",
+            "SourceString": "Top 5 Finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 13435,
+        "Value": [
+          {
+            "Position": 13439,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 13447,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 13488,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 13529,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 13561,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 13588,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 13616,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 13642,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 13693,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop12.pc.m0.p10": {
+      "BackendName": {
+        "Position": 13742,
+        "Value": "br_placetop12_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 13795,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "ED32B75E444736452E6AC3A1E3FA26CF",
+            "SourceString": "Top 12 Finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 13900,
+        "Value": [
+          {
+            "Position": 13904,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 13912,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 13953,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 13994,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 14026,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 14053,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 14081,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 14107,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 14158,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.pc.m0.p10": {
+      "BackendName": {
+        "Position": 14207,
+        "Value": "br_kills_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 14255,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "54AFCA0B4A173E866B55719F8ECE0B69",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 14344,
+        "Value": [
+          {
+            "Position": 14348,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 14356,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 14397,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 14438,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 14470,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 14497,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 14525,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 14551,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 14602,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.pc.m0.p10": {
+      "BackendName": {
+        "Position": 14651,
+        "Value": "br_matchesplayed_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 14707,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3D41B76D4ACF39A4CB7BD7B3ECA120EE",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 14805,
+        "Value": [
+          {
+            "Position": 14809,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 14817,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 14858,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 14899,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 14931,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 14958,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 14986,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 15012,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 15063,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.pc.m0.p10": {
+      "BackendName": {
+        "Position": 15112,
+        "Value": "br_minutesplayed_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 15168,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5C551CC44CE54E15693B1C99B61784A0",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 15263,
+        "Value": [
+          {
+            "Position": 15267,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 15275,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 15316,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 15357,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 15389,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 15416,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 15444,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 15470,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 15521,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 15570,
+        "Value": "br_placetop1_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 15623,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "3D94891744C6D8ACB628F1B5DECA3D26",
+            "SourceString": "Wins (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 15717,
+        "Value": [
+          {
+            "Position": 15721,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 15729,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 15770,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 15811,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 15843,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 15870,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 15898,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 15924,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 15975,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop5.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 16024,
+        "Value": "br_placetop5_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 16077,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "86C58BAC4DBFEC3037BC9D9377C3E14A",
+            "SourceString": "Top 5 Finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 16181,
+        "Value": [
+          {
+            "Position": 16185,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 16193,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 16234,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 16275,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 16307,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 16334,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 16362,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 16388,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 16439,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop12.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 16488,
+        "Value": "br_placetop12_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 16542,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "0687A29143F2BF997E4CEDA415B7E2BE",
+            "SourceString": "Top 12 Finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 16647,
+        "Value": [
+          {
+            "Position": 16651,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 16659,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 16700,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 16741,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 16773,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 16800,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 16828,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 16854,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 16905,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 16954,
+        "Value": "br_kills_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 17003,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "E6006FF64F4E502A738AA0A86B4BF7EA",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 17092,
+        "Value": [
+          {
+            "Position": 17096,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 17104,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 17145,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 17186,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 17218,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 17245,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 17273,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 17299,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 17350,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 17399,
+        "Value": "br_matchesplayed_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 17456,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "E4C343524735D8E472857FB564A42B2E",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 17554,
+        "Value": [
+          {
+            "Position": 17558,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 17566,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 17607,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 17648,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 17680,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 17707,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 17735,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 17761,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 17812,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 17861,
+        "Value": "br_minutesplayed_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 17918,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2E47C7504FAC8252CF47E3B1422A4599",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 18013,
+        "Value": [
+          {
+            "Position": 18017,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 18025,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 18066,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 18107,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 18139,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 18166,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 18194,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 18220,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 18271,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 18320,
+        "Value": "br_placetop1_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 18373,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "B3C3F5134D1BDF683B53BF85019619F4",
+            "SourceString": "Wins (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 18467,
+        "Value": [
+          {
+            "Position": 18471,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 18479,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 18520,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 18561,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 18593,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 18620,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 18648,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 18674,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 18725,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop5.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 18774,
+        "Value": "br_placetop5_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 18827,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "0176288445CD297C327BF29262FF9E0E",
+            "SourceString": "Top 5 Finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 18931,
+        "Value": [
+          {
+            "Position": 18935,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 18943,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 18984,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 19025,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 19057,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 19084,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 19112,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 19138,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 19189,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop12.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 19238,
+        "Value": "br_placetop12_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 19292,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "5C79261E4E803EE886C90EA3F759A70E",
+            "SourceString": "Top 12 Finishes (Duo)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 19397,
+        "Value": [
+          {
+            "Position": 19401,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 19409,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 19450,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 19491,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 19523,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 19550,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 19578,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 19604,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 19655,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 19704,
+        "Value": "br_kills_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 19753,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A7B6C87E44BA052252A945BA17F5A2D5",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 19842,
+        "Value": [
+          {
+            "Position": 19846,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 19854,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 19895,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 19936,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 19968,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 19995,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 20023,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 20049,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 20100,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 20149,
+        "Value": "br_matchesplayed_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 20206,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "CD0021D1432DD958A9D30BAF779577DC",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 20304,
+        "Value": [
+          {
+            "Position": 20308,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 20316,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 20357,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 20398,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 20430,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 20457,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 20485,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 20511,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 20562,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 20611,
+        "Value": "br_minutesplayed_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 20668,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C51BE3C64D915EDF2B07EABFCDE3E82D",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 20763,
+        "Value": [
+          {
+            "Position": 20767,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 20775,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 20816,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 20857,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 20889,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 20916,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 20944,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 20970,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 21021,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.pc.m0.p9": {
+      "BackendName": {
+        "Position": 21070,
+        "Value": "br_placetop1_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 21121,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "280922F746BAD585896FBFBACED32998",
+            "SourceString": "Wins (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 21217,
+        "Value": [
+          {
+            "Position": 21221,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 21229,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 21270,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 21311,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 21343,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 21370,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 21398,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 21424,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 21475,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop3.pc.m0.p9": {
+      "BackendName": {
+        "Position": 21524,
+        "Value": "br_placetop3_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 21575,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "CAEDB88646B7819D85E255A39E1D5182",
+            "SourceString": "Top 3 Finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 21681,
+        "Value": [
+          {
+            "Position": 21685,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 21693,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 21734,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 21775,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 21807,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 21834,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 21862,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 21888,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 21939,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop6.pc.m0.p9": {
+      "BackendName": {
+        "Position": 21988,
+        "Value": "br_placetop6_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 22039,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "654A5C8E45C1EA7FA39BA9B5C6591DFD",
+            "SourceString": "Top 5 Finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 22145,
+        "Value": [
+          {
+            "Position": 22149,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 22157,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 22198,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 22239,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 22271,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 22298,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 22326,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 22352,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 22403,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.pc.m0.p9": {
+      "BackendName": {
+        "Position": 22452,
+        "Value": "br_kills_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 22499,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "99FBBC184D6C2EC3CD3884AAA0BB6459",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 22588,
+        "Value": [
+          {
+            "Position": 22592,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 22600,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 22641,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 22682,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 22714,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 22741,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 22769,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 22795,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 22846,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.pc.m0.p9": {
+      "BackendName": {
+        "Position": 22895,
+        "Value": "br_matchesplayed_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 22950,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8C77898D4FE6856D4C79AB93E8302FCF",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 23048,
+        "Value": [
+          {
+            "Position": 23052,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 23060,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 23101,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 23142,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 23174,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 23201,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 23229,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 23255,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 23306,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.pc.m0.p9": {
+      "BackendName": {
+        "Position": 23355,
+        "Value": "br_minutesplayed_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 23410,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "28E4A59846C72C787A1ED3B520462B9E",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 23505,
+        "Value": [
+          {
+            "Position": 23509,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 23517,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 23558,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 23599,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 23631,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 23658,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 23686,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 23712,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 23763,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 23812,
+        "Value": "br_placetop1_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 23864,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8BDEA54242E66C8EC2E1DC91F0B4B852",
+            "SourceString": "Wins (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 23960,
+        "Value": [
+          {
+            "Position": 23964,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 23972,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 24013,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 24054,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 24086,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 24113,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 24141,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 24167,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 24218,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop3.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 24267,
+        "Value": "br_placetop3_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 24319,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "86DACBD242C4D582C751CEB988089522",
+            "SourceString": "Top 3 Finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 24425,
+        "Value": [
+          {
+            "Position": 24429,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 24437,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 24478,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 24519,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 24551,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 24578,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 24606,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 24632,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 24683,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop6.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 24732,
+        "Value": "br_placetop6_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 24784,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2752D69940B1EFA0F67792AC11B61511",
+            "SourceString": "Top 6 Finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 24890,
+        "Value": [
+          {
+            "Position": 24894,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 24902,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 24943,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 24984,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 25016,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 25043,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 25071,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 25097,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 25148,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 25197,
+        "Value": "br_kills_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 25245,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "97C5F22A4254751DD35E129AA5CF060E",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 25334,
+        "Value": [
+          {
+            "Position": 25338,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 25346,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 25387,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 25428,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 25460,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 25487,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 25515,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 25541,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 25592,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 25641,
+        "Value": "br_matchesplayed_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 25697,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "9738DF0944BBE8E9D8B5459256ABB2B4",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 25795,
+        "Value": [
+          {
+            "Position": 25799,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 25807,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 25848,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 25889,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 25921,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 25948,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 25976,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 26002,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 26053,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 26102,
+        "Value": "br_minutesplayed_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 26158,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A830930B420068DA04A245BDFDA5F239",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 26253,
+        "Value": [
+          {
+            "Position": 26257,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 26265,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 26306,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 26347,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 26379,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 26406,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 26434,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 26460,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 26511,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop1.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 26560,
+        "Value": "br_placetop1_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 26612,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6679062D4C653B8E1CB4568148880984",
+            "SourceString": "Wins (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 26708,
+        "Value": [
+          {
+            "Position": 26712,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 26720,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 26761,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 26802,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 26834,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 26861,
+        "Value": 60
+      },
+      "bExportToBackEnd": {
+        "Position": 26889,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 26915,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 26966,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop3.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 27015,
+        "Value": "br_placetop3_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 27067,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "D637165F455BA8FEF1F5058F30EEDF01",
+            "SourceString": "Top 3 Finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 27173,
+        "Value": [
+          {
+            "Position": 27177,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 27185,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 27226,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 27267,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 27299,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 27326,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 27354,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 27380,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 27431,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.PlaceTop6.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 27480,
+        "Value": "br_placetop6_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 27532,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "4E164E46466EC5965FD4D2AD26012FCE",
+            "SourceString": "Top 6 Finishes (Squad)"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 27638,
+        "Value": [
+          {
+            "Position": 27642,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 27650,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 27691,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 27732,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 27764,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 27791,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 27819,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 27845,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 27896,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Kills.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 27945,
+        "Value": "br_kills_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 27993,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "1DDA79A64830CF48D6E6AFBC7C9221CB",
+            "SourceString": "Kills"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 28082,
+        "Value": [
+          {
+            "Position": 28086,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 28094,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 28135,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 28176,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 28208,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 28235,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 28263,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 28289,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 28340,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MatchesPlayed.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 28389,
+        "Value": "br_matchesplayed_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 28445,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "80C33DE245B46DADD5AF64BE215C3904",
+            "SourceString": "Matches Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 28543,
+        "Value": [
+          {
+            "Position": 28547,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 28555,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 28596,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 28637,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 28669,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 28696,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 28724,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 28750,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 28801,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.MinutesPlayed.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 28850,
+        "Value": "br_minutesplayed_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 28906,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2CD43CEF4DA342913C8D01B45E4F9F01",
+            "SourceString": "Time Played"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 29001,
+        "Value": [
+          {
+            "Position": 29005,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 29013,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 29054,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 29095,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 29127,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 29154,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 29182,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 29208,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 29259,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified": {
+      "BackendName": {
+        "Position": 29308,
+        "Value": "br_lastmodified"
+      },
+      "DisplayName": {
+        "Position": 29353,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "8166E2AE499FF92B173E2882B7F30BBE",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 29450,
+        "Value": [
+          {
+            "Position": 29454,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 29495,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 29536,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 29568,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 29595,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 29623,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 29649,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 29700,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.pc.m0.p2": {
+      "BackendName": {
+        "Position": 29749,
+        "Value": "br_lastmodified_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 29803,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C73972354EFE90DC6EF78DBD13B59A62",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 29900,
+        "Value": [
+          {
+            "Position": 29904,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 29945,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 29986,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 30018,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 30045,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 30073,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 30099,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 30150,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.pc.m0.p9": {
+      "BackendName": {
+        "Position": 30199,
+        "Value": "br_lastmodified_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 30253,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "9A82649847F9EEED8C1D789E37F3EA4A",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 30350,
+        "Value": [
+          {
+            "Position": 30354,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 30395,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 30436,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 30468,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 30495,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 30523,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 30549,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 30600,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.pc.m0.p10": {
+      "BackendName": {
+        "Position": 30649,
+        "Value": "br_lastmodified_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 30704,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "A63019C348438C2CAF2E99A41934AAD0",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 30801,
+        "Value": [
+          {
+            "Position": 30805,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 30846,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 30887,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 30919,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 30946,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 30974,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 31000,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 31051,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 31100,
+        "Value": "br_lastmodified_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 31155,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "E98A235B44C3AF4C9F31F3A5155B93D9",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 31252,
+        "Value": [
+          {
+            "Position": 31256,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 31297,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 31338,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 31370,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 31397,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 31425,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 31451,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 31502,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 31551,
+        "Value": "br_lastmodified_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 31606,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "B5D11B044D38DF81AAF93EA56F158582",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 31703,
+        "Value": [
+          {
+            "Position": 31707,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 31748,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 31789,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 31821,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 31848,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 31876,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 31902,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 31953,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 32002,
+        "Value": "br_lastmodified_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 32058,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2D35148A486C5B0C97631EA580885D8A",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 32155,
+        "Value": [
+          {
+            "Position": 32159,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 32200,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 32241,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 32273,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 32300,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 32328,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 32354,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 32405,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 32454,
+        "Value": "br_lastmodified_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 32509,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C3203C164C3D8F3ABAB3CA8CCE80496D",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 32606,
+        "Value": [
+          {
+            "Position": 32610,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 32651,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 32692,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 32724,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 32751,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 32779,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 32805,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 32856,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 32905,
+        "Value": "br_lastmodified_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 32960,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "82D4ECD843F69F58853652B77AF57FA8",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 33057,
+        "Value": [
+          {
+            "Position": 33061,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 33102,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 33143,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 33175,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 33202,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 33230,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 33256,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 33307,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.LastModified.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 33356,
+        "Value": "br_lastmodified_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 33412,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "CCE9CDCA4A9083304A13AA89A02D1C95",
+            "SourceString": "Last Modified"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 33509,
+        "Value": [
+          {
+            "Position": 33513,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 33554,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::MostRecent"
+        }
+      },
+      "DataType": {
+        "Position": 33595,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 33627,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 33654,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 33682,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 33708,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 33759,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score": {
+      "BackendName": {
+        "Position": 33808,
+        "Value": "br_score"
+      },
+      "DisplayName": {
+        "Position": 33846,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "C8BA53D642C73D9EBAEF459627BA8FA9",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 33935,
+        "Value": [
+          {
+            "Position": 33939,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 33947,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 33988,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 34029,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 34061,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 34088,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 34116,
+        "Value": false
+      },
+      "bShowInFrontEnd": {
+        "Position": 34142,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 34193,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.pc.m0.p2": {
+      "BackendName": {
+        "Position": 34242,
+        "Value": "br_score_pc_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 34289,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "02A67E2D4134E4A9369102852CDF6A8A",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 34378,
+        "Value": [
+          {
+            "Position": 34382,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 34390,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 34431,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 34472,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 34504,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 34531,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 34559,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 34585,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 34636,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.pc.m0.p9": {
+      "BackendName": {
+        "Position": 34685,
+        "Value": "br_score_pc_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 34732,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "55278EB147E7602A756C68A6EEE9F16A",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 34821,
+        "Value": [
+          {
+            "Position": 34825,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 34833,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 34874,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 34915,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 34947,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 34974,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 35002,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 35028,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 35079,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.pc.m0.p10": {
+      "BackendName": {
+        "Position": 35128,
+        "Value": "br_score_pc_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 35176,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6F3B502647646737D951228DCF920B82",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 35265,
+        "Value": [
+          {
+            "Position": 35269,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 35277,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 35318,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 35359,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 35391,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 35418,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 35446,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 35472,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 35523,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.ps4.m0.p2": {
+      "BackendName": {
+        "Position": 35572,
+        "Value": "br_score_ps4_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 35620,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6E6B3F914B4C29B239B56BBD695C73DD",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 35709,
+        "Value": [
+          {
+            "Position": 35713,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 35721,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 35762,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 35803,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 35835,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 35862,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 35890,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 35916,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 35967,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.ps4.m0.p9": {
+      "BackendName": {
+        "Position": 36016,
+        "Value": "br_score_ps4_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 36064,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "2CDE8424490A834E82BDBA9A31B2069C",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 36153,
+        "Value": [
+          {
+            "Position": 36157,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 36165,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 36206,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 36247,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 36279,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 36306,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 36334,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 36360,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 36411,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.ps4.m0.p10": {
+      "BackendName": {
+        "Position": 36460,
+        "Value": "br_score_ps4_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 36509,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "E86154024C6B57863469178D39AC2B10",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 36598,
+        "Value": [
+          {
+            "Position": 36602,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 36610,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 36651,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 36692,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 36724,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 36751,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 36779,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 36805,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 36856,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.xb1.m0.p2": {
+      "BackendName": {
+        "Position": 36905,
+        "Value": "br_score_xb1_m0_p2"
+      },
+      "DisplayName": {
+        "Position": 36953,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "6FDA5E1E4F52F864AB1161852109735C",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 37042,
+        "Value": [
+          {
+            "Position": 37046,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 37054,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 37095,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 37136,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 37168,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 37195,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 37223,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 37249,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 37300,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.xb1.m0.p9": {
+      "BackendName": {
+        "Position": 37349,
+        "Value": "br_score_xb1_m0_p9"
+      },
+      "DisplayName": {
+        "Position": 37397,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "538568674CB829303E1C6BBD4E34CC5D",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 37486,
+        "Value": [
+          {
+            "Position": 37490,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 37498,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 37539,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 37580,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 37612,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 37639,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 37667,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 37693,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 37744,
+        "Value": {}
+      }
+    },
+    "GameplayStat.BR.Score.xb1.m0.p10": {
+      "BackendName": {
+        "Position": 37793,
+        "Value": "br_score_xb1_m0_p10"
+      },
+      "DisplayName": {
+        "Position": 37842,
+        "Value": {
+          "Text": {
+            "Namespace": "",
+            "Key": "45E7D5154CDEEFFC828226B4A2EE20AC",
+            "SourceString": "Score"
+          }
+        }
+      },
+      "Windows": {
+        "Position": 37931,
+        "Value": [
+          {
+            "Position": 37935,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::Weekly"
+            }
+          },
+          {
+            "Position": 37943,
+            "Value": {
+              "String": "EEpicLeaderboardTimeWindow::AllTime"
+            }
+          }
+        ]
+      },
+      "Metric": {
+        "Position": 37984,
+        "Value": {
+          "String": "EEpicLeaderboardUpdateFunction::Sum"
+        }
+      },
+      "DataType": {
+        "Position": 38025,
+        "Value": {
+          "String": "EEpicLeaderboardDataType::Integer"
+        }
+      },
+      "bPublish": {
+        "Position": 38057,
+        "Value": false
+      },
+      "WeeklyRefreshInterval": {
+        "Position": 38084,
+        "Value": 0
+      },
+      "bExportToBackEnd": {
+        "Position": 38112,
+        "Value": true
+      },
+      "bShowInFrontEnd": {
+        "Position": 38138,
+        "Value": true
+      },
+      "ReferenceHelper": {
+        "Position": 38189,
+        "Value": {}
+      }
+    }
+  }
+]

@@ -1,0 +1,469 @@
+[
+  {
+    "Tips": {
+      "Position": 33,
+      "Value": [
+        {
+          "Position": 37,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "8D1FD54B4F5102470FD7338212C05600",
+              "SourceString": "You can shoot at trees, rocks, and structures to destroy them."
+            }
+          }
+        },
+        {
+          "Position": 151,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "12C865354E78E7ED97AADC96C0FC8E70",
+              "SourceString": "Players hiding in a building? Knock it down."
+            }
+          }
+        },
+        {
+          "Position": 247,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "241AA00F4BBBFA42A302A3AB286B57FF",
+              "SourceString": "Explosive weapons do significant damage to structures."
+            }
+          }
+        },
+        {
+          "Position": 353,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "8D71E4BE45984C9ACCA63BAA1D238C55",
+              "SourceString": "Explore quickly by building your own stairs and bridges."
+            }
+          }
+        },
+        {
+          "Position": 461,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "8582B6BF45BC20383D0F83B6AC522FE7",
+              "SourceString": "As the eye of the storm shrinks, storm damage increases!"
+            }
+          }
+        },
+        {
+          "Position": 569,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "F510BB8646A3364E481D8C87F8D38425",
+              "SourceString": "Watch out! The storm closes in as the match progresses."
+            }
+          }
+        },
+        {
+          "Position": 676,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "9842E9A64552B80E54CBACB9DCECBA59",
+              "SourceString": "The majority of items & gear can be found inside buildings."
+            }
+          }
+        },
+        {
+          "Position": 787,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "625C605044262E51C5167EB0DC5636D2",
+              "SourceString": "Patch yourself up with Bandages. Use Med Kits to restore full health."
+            }
+          }
+        },
+        {
+          "Position": 908,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "534B47834656CD10DE988EA6A23A80DA",
+              "SourceString": "Use Shield Potions to increase the total amount of damage you can take."
+            }
+          }
+        },
+        {
+          "Position": 1031,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "5C5B5FB34DEF7ECD398304B329575A9F",
+              "SourceString": "Shields will not protect you from falling damage, or the storm."
+            }
+          }
+        },
+        {
+          "Position": 1146,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "236BEEC0428C7E07D0F7DD90C6B0BF49",
+              "SourceString": "Open doors and looted treasure chests could mean other players are near."
+            }
+          }
+        },
+        {
+          "Position": 1270,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "B1DF088A4622B7C68D67CFBD8997E4D8",
+              "SourceString": "Use the map to see where you are, and where the storm is headed."
+            }
+          }
+        },
+        {
+          "Position": 1386,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "79A99D86421F77511F7A099F89E0DD75",
+              "SourceString": "Headshots do significant damage. Aim for the head!"
+            }
+          }
+        },
+        {
+          "Position": 1488,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "388330414546BA61F46AC0BC99E0BD75",
+              "SourceString": "Shotguns, SMGs, and Pistols are effective at close range."
+            }
+          }
+        },
+        {
+          "Position": 1597,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "997807D8415CCC8E255C3090853CB425",
+              "SourceString": "Assault Rifles are effective at medium range."
+            }
+          }
+        },
+        {
+          "Position": 1694,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "4248E0904591CC6FF8A6F4AAC5EBC73E",
+              "SourceString": "Sniper Rifles are effective at long range."
+            }
+          }
+        },
+        {
+          "Position": 1788,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "CC53D6BD47A4C450DC66B2BEA7D7C1D1",
+              "SourceString": "Place traps in places where other players won’t see them."
+            }
+          }
+        },
+        {
+          "Position": 1955,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "1E41BAE945413302F19C53AD797BEBCE",
+              "SourceString": "Listen carefully! You may hear an approaching player’s footsteps."
+            }
+          }
+        },
+        {
+          "Position": 2138,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "282585074F9C7E04391A1B9E4C93A262",
+              "SourceString": "Making too much noise can alert others to your position."
+            }
+          }
+        },
+        {
+          "Position": 2246,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "1F04B7554407DED999C4D48658A1001D",
+              "SourceString": "Moving while shooting will decrease weapon accuracy."
+            }
+          }
+        },
+        {
+          "Position": 2350,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "00099F2E4B0E8E825E6BF2B29AB52694",
+              "SourceString": "Use crouch to reduce your profile, or to hide behind smaller objects."
+            }
+          }
+        },
+        {
+          "Position": 2471,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "442C492A4329BA3B8F46B4AF6A372ECD",
+              "SourceString": "Doors stay open until closed. Hide your tracks by closing doors."
+            }
+          }
+        },
+        {
+          "Position": 2587,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "6F5CB8E648CD715B98164FB62D5017C7",
+              "SourceString": "Finding an open door means someone else has already been there."
+            }
+          }
+        },
+        {
+          "Position": 2702,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "787D94CE4ACF92343A883BA2917A4AEF",
+              "SourceString": "Inventory space is limited - choose your loadout wisely."
+            }
+          }
+        },
+        {
+          "Position": 2810,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "674CEA324A6FEC0921BB59BCA386BA6E",
+              "SourceString": "When your inventory is full, picking up an item will swap it with what is currently equipped."
+            }
+          }
+        },
+        {
+          "Position": 2955,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "9842663F4D5641478260D9AB9F07E65B",
+              "SourceString": "Ammo, building resources, and traps do not take inventory space. Pick up as many as you like!"
+            }
+          }
+        },
+        {
+          "Position": 3100,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "E4EFCDE041C290380ABF3095D5F79BB5",
+              "SourceString": "You can change which slots your items are assigned to in the inventory screen."
+            }
+          }
+        },
+        {
+          "Position": 3230,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "7C2FC1C24FC3A13DD408AEA3F5E9C4AC",
+              "SourceString": "While skydiving, hold forward to get to your destination faster."
+            }
+          }
+        },
+        {
+          "Position": 3346,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "81A9932C4ED59425E574BF83AF9BA097",
+              "SourceString": "The first thing to do in a fight is place a few walls between you and your opponent."
+            }
+          }
+        },
+        {
+          "Position": 3482,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "A51699564475BC5F794569BCFC75596F",
+              "SourceString": "In a fight, staying higher than your opponent is a key ingredient to winning. "
+            }
+          }
+        },
+        {
+          "Position": 3612,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "28DE3A034A25F92E04DE0697B7E3E9AF",
+              "SourceString": "Hit trees, rocks and other objects with your pickaxe to gain materials for building.  "
+            }
+          }
+        },
+        {
+          "Position": 3750,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "E0F09A794C10C24675192FABAD07929C",
+              "SourceString": "Look and listen for treasure chests. They always contain weapons and items."
+            }
+          }
+        },
+        {
+          "Position": 3877,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "9407C5CC4ECFBF86A357B48E5673485B",
+              "SourceString": "Keep an eye out for Supply Drops, they fall from the sky and carry some of the best items. "
+            }
+          }
+        },
+        {
+          "Position": 4020,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "B406C9A2494AAF4DC93422BC00442E61",
+              "SourceString": "Use vehicles to get around the map more quickly. "
+            }
+          }
+        },
+        {
+          "Position": 4121,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "A647548947B721A0EF81BCAA333A379F",
+              "SourceString": "Landing near the edge of the island usually means fewer enemies but more running from the storm. "
+            }
+          }
+        },
+        {
+          "Position": 4270,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "3182F2F84B548894C7FAFFB0B988A98C",
+              "SourceString": "If you're looking for a fight, jump off the bus as soon as you can and follow the other players!"
+            }
+          }
+        },
+        {
+          "Position": 4418,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "2228685A40647F0FAA4CB6AC0DD17E14",
+              "SourceString": "Taking enemy fire? Remember to build some cover!"
+            }
+          }
+        },
+        {
+          "Position": 4518,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "F09AE43E4B35C6700F75C5939DEEAC63",
+              "SourceString": "To play it safe, land with teammates and stay away from enemy players. "
+            }
+          }
+        },
+        {
+          "Position": 4641,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "288065494006DB7BF7F97A9D6EC5CF2B",
+              "SourceString": "When you get to the ground, search for a weapon!"
+            }
+          }
+        },
+        {
+          "Position": 4741,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "BDF4B4B74F5EEB84D721488D4D10B99F",
+              "SourceString": "The white line on the map shows the most direct route away from the storm."
+            }
+          }
+        },
+        {
+          "Position": 4867,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "030187B74E8D34F6F8531B9EA501F14A",
+              "SourceString": "Try to land on rooftops and break into buildings using your pickaxe."
+            }
+          }
+        },
+        {
+          "Position": 4987,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "8AFEAA354D98D61A704062B395238341",
+              "SourceString": "When harvesting, aim for the blue circles to break items more quickly."
+            }
+          }
+        },
+        {
+          "Position": 5109,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "E547AB9F41A41BB99680A6B757BA978A",
+              "SourceString": "When standing still your first shot is more accurate. "
+            }
+          }
+        },
+        {
+          "Position": 5215,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "4B0AAB80473D24B6360366A929D8D64E",
+              "SourceString": "You can use the Ping button to mark locations and items to alert squadmates."
+            }
+          }
+        },
+        {
+          "Position": 5343,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "75923C7B48A996F647DE45A73579A64A",
+              "SourceString": "Using the ping button while targeting a weapon will signal squadmates that you've spotted an enemy."
+            }
+          }
+        },
+        {
+          "Position": 5494,
+          "Value": {
+            "Text": {
+              "Namespace": "",
+              "Key": "229754C64147301DE0386EA84395E371",
+              "SourceString": "Double-Clicking the Ping Button will signal to squadmates that you've spotted an enemy."
+            }
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,4456 @@
+[
+  {
+    "0": {
+      "Tag": {
+        "Position": 78,
+        "Value": {
+          "String": "Animation.FrontEnd.Inspect"
+        }
+      },
+      "DevComment": {
+        "Position": 111,
+        "Value": "Tag indentifying animation to play in the front end on characters and character parts when they are Inspected.  (NOTE: This should be moved to a new \"Animation\" Gameplay Tag file rather than being jammed in the NPCGameplayTags.)"
+      }
+    },
+    "1": {
+      "Tag": {
+        "Position": 385,
+        "Value": {
+          "String": "Animation.FrontEnd.Lobby"
+        }
+      },
+      "DevComment": {
+        "Position": 418,
+        "Value": "Tag indentifying animation to play in the front end on characters and character parts when they are in the Lobby (not being inspected).  (NOTE: This should be moved to a new \"Animation\" Gameplay Tag file rather than being jammed in the NPCGameplayTags.)"
+      }
+    },
+    "2": {
+      "Tag": {
+        "Position": 717,
+        "Value": {
+          "String": "Encounter.EnemyDifficulty.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 750,
+        "Value": "Increases enemy difficulty to make it appropriate for 2 player groups"
+      }
+    },
+    "3": {
+      "Tag": {
+        "Position": 865,
+        "Value": {
+          "String": "Encounter.EnemyDifficulty.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 898,
+        "Value": "Increases enemy difficulty to make it appropriate for 3 player groups"
+      }
+    },
+    "4": {
+      "Tag": {
+        "Position": 1013,
+        "Value": {
+          "String": "Encounter.EnemyDifficulty.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 1046,
+        "Value": "Increases enemy difficulty to make it appropriate for 4 player groups"
+      }
+    },
+    "5": {
+      "Tag": {
+        "Position": 1161,
+        "Value": {
+          "String": "Encounter.EnemyDifficulty.DUDEBRO.Twine"
+        }
+      },
+      "DevComment": {
+        "Position": 1194,
+        "Value": null
+      }
+    },
+    "6": {
+      "Tag": {
+        "Position": 1239,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 1272,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "7": {
+      "Tag": {
+        "Position": 1441,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Common"
+        }
+      },
+      "DevComment": {
+        "Position": 1474,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "8": {
+      "Tag": {
+        "Position": 1643,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Rare"
+        }
+      },
+      "DevComment": {
+        "Position": 1676,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "9": {
+      "Tag": {
+        "Position": 1845,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Uncommon"
+        }
+      },
+      "DevComment": {
+        "Position": 1878,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "10": {
+      "Tag": {
+        "Position": 2047,
+        "Value": {
+          "String": "Encounter.PopulationCategory.MiniBoss"
+        }
+      },
+      "DevComment": {
+        "Position": 2080,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "11": {
+      "Tag": {
+        "Position": 2249,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Elite"
+        }
+      },
+      "DevComment": {
+        "Position": 2282,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "12": {
+      "Tag": {
+        "Position": 2451,
+        "Value": {
+          "String": "Encounter.PopulationCategory.QuestSpawn"
+        }
+      },
+      "DevComment": {
+        "Position": 2484,
+        "Value": "Will define which AI belong to which category so we can manage spawn group variety per Encounter.Type and per player count."
+      }
+    },
+    "13": {
+      "Tag": {
+        "Position": 2653,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Enable.MiniBoss"
+        }
+      },
+      "DevComment": {
+        "Position": 2686,
+        "Value": "Tags that get applied at a specific time to allow the enabling of this spawn population category. Otherwise, enemies will never spawn in this category."
+      }
+    },
+    "14": {
+      "Tag": {
+        "Position": 2883,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Enable.Elite"
+        }
+      },
+      "DevComment": {
+        "Position": 2916,
+        "Value": "Tags that get applied at a specific time to allow the enabling of this spawn population category. Otherwise, enemies will never spawn in this category."
+      }
+    },
+    "15": {
+      "Tag": {
+        "Position": 3113,
+        "Value": {
+          "String": "Encounter.PopulationCategory.Enable.QuestSpawn"
+        }
+      },
+      "DevComment": {
+        "Position": 3146,
+        "Value": "Tags that get applied at a specific time to allow the enabling of this spawn population category. Otherwise, enemies will never spawn in this category."
+      }
+    },
+    "16": {
+      "Tag": {
+        "Position": 3343,
+        "Value": {
+          "String": "Encounter.Enable.MiniBoss"
+        }
+      },
+      "DevComment": {
+        "Position": 3376,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "17": {
+      "Tag": {
+        "Position": 3574,
+        "Value": {
+          "String": "Encounter.Enable.Horde.MiniBosses2"
+        }
+      },
+      "DevComment": {
+        "Position": 3607,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "18": {
+      "Tag": {
+        "Position": 3805,
+        "Value": {
+          "String": "Encounter.Enable.Horde.MiniBosses3"
+        }
+      },
+      "DevComment": {
+        "Position": 3838,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "19": {
+      "Tag": {
+        "Position": 4036,
+        "Value": {
+          "String": "Encounter.Enable.Horde.MiniBosses4"
+        }
+      },
+      "DevComment": {
+        "Position": 4069,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "20": {
+      "Tag": {
+        "Position": 4267,
+        "Value": {
+          "String": "Encounter.Enable.Horde.MiniBosses5"
+        }
+      },
+      "DevComment": {
+        "Position": 4300,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "21": {
+      "Tag": {
+        "Position": 4498,
+        "Value": {
+          "String": "Encounter.Enable.Horde.MiniBosses6"
+        }
+      },
+      "DevComment": {
+        "Position": 4531,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "22": {
+      "Tag": {
+        "Position": 4729,
+        "Value": {
+          "String": "Encounter.Enable.Elite"
+        }
+      },
+      "DevComment": {
+        "Position": 4762,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "23": {
+      "Tag": {
+        "Position": 4960,
+        "Value": {
+          "String": "Encounter.Enable.QuestSpawn"
+        }
+      },
+      "DevComment": {
+        "Position": 4993,
+        "Value": "Tags that get applied at a higher level to allow MiniBosses and Elites to spawn at all. MUST be combined with the PopulationCategory.Enable tag to work."
+      }
+    },
+    "24": {
+      "Tag": {
+        "Position": 5191,
+        "Value": {
+          "String": "Encounter.Disable.MiniBoss"
+        }
+      },
+      "DevComment": {
+        "Position": 5224,
+        "Value": "Tags that, regardless of other tags, disable all MiniBosses."
+      }
+    },
+    "25": {
+      "Tag": {
+        "Position": 5330,
+        "Value": {
+          "String": "Encounter.Disable.Elite"
+        }
+      },
+      "DevComment": {
+        "Position": 5363,
+        "Value": "Tags that, regardless of other tags, disable all Elites."
+      }
+    },
+    "26": {
+      "Tag": {
+        "Position": 5465,
+        "Value": {
+          "String": "Encounter.Disable.QuestSpawn"
+        }
+      },
+      "DevComment": {
+        "Position": 5498,
+        "Value": "Tags that, regardless of other tags, disable all QuestSpawns."
+      }
+    },
+    "27": {
+      "Tag": {
+        "Position": 5605,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.NonScaling.1Player"
+        }
+      },
+      "DevComment": {
+        "Position": 5638,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "28": {
+      "Tag": {
+        "Position": 5740,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.NonScaling.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 5773,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "29": {
+      "Tag": {
+        "Position": 5875,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.NonScaling.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 5908,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "30": {
+      "Tag": {
+        "Position": 6010,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.NonScaling.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6043,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "31": {
+      "Tag": {
+        "Position": 6145,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.Group.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6178,
+        "Value": "Difficult group content - 4 Player non-scaling"
+      }
+    },
+    "32": {
+      "Tag": {
+        "Position": 6270,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT01.1Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6303,
+        "Value": "Stonewood Outpost - 1 Player non-scaling"
+      }
+    },
+    "33": {
+      "Tag": {
+        "Position": 6389,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT01.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6422,
+        "Value": "Stonewood Outpost - 2 Player non-scaling"
+      }
+    },
+    "34": {
+      "Tag": {
+        "Position": 6508,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT01.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6541,
+        "Value": "Stonewood Outpost - 3 Player non-scaling"
+      }
+    },
+    "35": {
+      "Tag": {
+        "Position": 6627,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT01.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6660,
+        "Value": "Stonewood Outpost - 4 Player non-scaling"
+      }
+    },
+    "36": {
+      "Tag": {
+        "Position": 6746,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT02.1Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6779,
+        "Value": "Plankerton Outpost - 1 Player non-scaling"
+      }
+    },
+    "37": {
+      "Tag": {
+        "Position": 6866,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT02.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 6899,
+        "Value": "Plankerton Outpost - 2 Player non-scaling"
+      }
+    },
+    "38": {
+      "Tag": {
+        "Position": 6986,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT02.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7019,
+        "Value": "Plankerton Outpost - 3 Player non-scaling"
+      }
+    },
+    "39": {
+      "Tag": {
+        "Position": 7106,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT02.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7139,
+        "Value": "Plankerton Outpost - 4 Player non-scaling"
+      }
+    },
+    "40": {
+      "Tag": {
+        "Position": 7226,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT03.1Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7259,
+        "Value": "Canny Valley Outpost - 1 Player non-scaling"
+      }
+    },
+    "41": {
+      "Tag": {
+        "Position": 7348,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT03.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7381,
+        "Value": "Canny Valley Outpost - 2 Player non-scaling"
+      }
+    },
+    "42": {
+      "Tag": {
+        "Position": 7470,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT03.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7503,
+        "Value": "Canny Valley Outpost - 3 Player non-scaling"
+      }
+    },
+    "43": {
+      "Tag": {
+        "Position": 7592,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT03.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7625,
+        "Value": "Canny Valley Outpost - 4 Player non-scaling"
+      }
+    },
+    "44": {
+      "Tag": {
+        "Position": 7714,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT04.1Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7747,
+        "Value": "Twine Peaks Outpost - 1 Player non-scaling"
+      }
+    },
+    "45": {
+      "Tag": {
+        "Position": 7835,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT04.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7868,
+        "Value": "Twine Peaks Outpost - 2 Player non-scaling"
+      }
+    },
+    "46": {
+      "Tag": {
+        "Position": 7956,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT04.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 7989,
+        "Value": "Twine Peaks Outpost - 3 Player non-scaling"
+      }
+    },
+    "47": {
+      "Tag": {
+        "Position": 8077,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.OutpostT04.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 8110,
+        "Value": "Twine Peaks Outpost - 4 Player non-scaling"
+      }
+    },
+    "48": {
+      "Tag": {
+        "Position": 8198,
+        "Value": {
+          "String": "Encounter.Type.PvE.Primary.Standard"
+        }
+      },
+      "DevComment": {
+        "Position": 8231,
+        "Value": "Will define AI min/max points. Scales per player count."
+      }
+    },
+    "49": {
+      "Tag": {
+        "Position": 8332,
+        "Value": {
+          "String": "Encounter.Type.PvE.Secondary.Mimic"
+        }
+      },
+      "DevComment": {
+        "Position": 8365,
+        "Value": "Special non-scaling encounter budget large enough to ensure a Mimic can spawn"
+      }
+    },
+    "50": {
+      "Tag": {
+        "Position": 8488,
+        "Value": {
+          "String": "Encounter.Type.PvE.Secondary.NonScaling.1Player"
+        }
+      },
+      "DevComment": {
+        "Position": 8521,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "51": {
+      "Tag": {
+        "Position": 8623,
+        "Value": {
+          "String": "Encounter.Type.PvE.Secondary.NonScaling.2Player"
+        }
+      },
+      "DevComment": {
+        "Position": 8656,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "52": {
+      "Tag": {
+        "Position": 8758,
+        "Value": {
+          "String": "Encounter.Type.PvE.Secondary.NonScaling.3Player"
+        }
+      },
+      "DevComment": {
+        "Position": 8791,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "53": {
+      "Tag": {
+        "Position": 8893,
+        "Value": {
+          "String": "Encounter.Type.PvE.Secondary.NonScaling.4Player"
+        }
+      },
+      "DevComment": {
+        "Position": 8926,
+        "Value": "Does not scale. Pinned to an expected number of players."
+      }
+    },
+    "54": {
+      "Tag": {
+        "Position": 9028,
+        "Value": {
+          "String": "Encounter.Type.PvE.Secondary.Standard"
+        }
+      },
+      "DevComment": {
+        "Position": 9061,
+        "Value": "Will define AI min/max points. Scales per player count."
+      }
+    },
+    "55": {
+      "Tag": {
+        "Position": 9162,
+        "Value": {
+          "String": "Encounter.Type.PvE.Tertiary.Standard"
+        }
+      },
+      "DevComment": {
+        "Position": 9195,
+        "Value": "Will define AI min/max points. Tertiary budgets do not scale for number of players."
+      }
+    },
+    "56": {
+      "Tag": {
+        "Position": 9324,
+        "Value": {
+          "String": "Encounter.Type.PvP.BluGloCamp"
+        }
+      },
+      "DevComment": {
+        "Position": 9357,
+        "Value": "PvP - Enemies around BluGlo camp"
+      }
+    },
+    "57": {
+      "Tag": {
+        "Position": 9435,
+        "Value": {
+          "String": "Encounter.Type.PvP.DevastatingWave"
+        }
+      },
+      "DevComment": {
+        "Position": 9468,
+        "Value": "PvP - Added enemies if your team does not control the storm"
+      }
+    },
+    "58": {
+      "Tag": {
+        "Position": 9573,
+        "Value": {
+          "String": "Encounter.Type.PvP.LootCamp"
+        }
+      },
+      "DevComment": {
+        "Position": 9606,
+        "Value": "PvP - Enemies around crafting material camp"
+      }
+    },
+    "59": {
+      "Tag": {
+        "Position": 9695,
+        "Value": {
+          "String": "Encounter.Type.PvP.Wave"
+        }
+      },
+      "DevComment": {
+        "Position": 9728,
+        "Value": "PvP - Enemies that attack your base"
+      }
+    },
+    "60": {
+      "Tag": {
+        "Position": 9809,
+        "Value": {
+          "String": "Encounter.Type.PvP.Deimos.ActiveThreat"
+        }
+      },
+      "DevComment": {
+        "Position": 9842,
+        "Value": "Deimos - Enemies spawned to attack the player"
+      }
+    },
+    "61": {
+      "Tag": {
+        "Position": 9933,
+        "Value": {
+          "String": "Encounter.Type.PvP.Deimos.AmbientThreat"
+        }
+      },
+      "DevComment": {
+        "Position": 9966,
+        "Value": "Deimos - Enemies spawned in the world"
+      }
+    },
+    "62": {
+      "Tag": {
+        "Position": 10049,
+        "Value": {
+          "String": "Encounter.Type.ScriptedSpawn"
+        }
+      },
+      "DevComment": {
+        "Position": 10082,
+        "Value": "Just a ton of points so you can pick and choose how many individual pawns you might want to spawn."
+      }
+    },
+    "63": {
+      "Tag": {
+        "Position": 10226,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 10259,
+        "Value": "Generic primary AOE attack"
+      }
+    },
+    "64": {
+      "Tag": {
+        "Position": 10331,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Primary.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 10364,
+        "Value": "Tag grants the use of this ability. Used for special phased behaviors."
+      }
+    },
+    "65": {
+      "Tag": {
+        "Position": 10480,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Bees"
+        }
+      },
+      "DevComment": {
+        "Position": 10513,
+        "Value": "The AoE ability that creates the bee-cloud trails that are left behind as the AI walks.  NOTE: AoE in this context refers to the fact that the ability creates an AoE at a location without being either ranged or melee in the way the damage is sourced.  This does NOT deal with whether damage from an attack is AoE or not (Melee and Ranged can also have Gameplay.AoE tags related to their damage."
+      }
+    },
+    "66": {
+      "Tag": {
+        "Position": 10953,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Explosion"
+        }
+      },
+      "DevComment": {
+        "Position": 10986,
+        "Value": "Generic Gameplay Event tag to use when the AI has one ability to attack and one for an explosion. Used for Sploder."
+      }
+    },
+    "67": {
+      "Tag": {
+        "Position": 11147,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Explosion.InstigatedBy.OtherTeam.HoldingExplosive"
+        }
+      },
+      "DevComment": {
+        "Position": 11180,
+        "Value": "This explosive attack was set off by another team prematurely. For the Sploder this assumes Players and will only damage the instigating Player and no others in order to minimize trolling."
+      }
+    },
+    "68": {
+      "Tag": {
+        "Position": 11414,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Explosion.InstigatedBy.OtherTeam.NotHoldingExplosive"
+        }
+      },
+      "DevComment": {
+        "Position": 11447,
+        "Value": null
+      }
+    },
+    "69": {
+      "Tag": {
+        "Position": 11492,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Explosion.InstigatedBy.OwningTeam.HoldingExplosive"
+        }
+      },
+      "DevComment": {
+        "Position": 11525,
+        "Value": "The team who owns this explosive attack set it off. For the Sploder this will damage everyone and everything."
+      }
+    },
+    "70": {
+      "Tag": {
+        "Position": 11680,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.Explosion.InstigatedBy.OwningTeam.NotHoldingExplosive"
+        }
+      },
+      "DevComment": {
+        "Position": 11713,
+        "Value": null
+      }
+    },
+    "71": {
+      "Tag": {
+        "Position": 11758,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.AcidPools"
+        }
+      },
+      "DevComment": {
+        "Position": 11791,
+        "Value": "AoE Acid Pool trail ability."
+      }
+    },
+    "72": {
+      "Tag": {
+        "Position": 11865,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.SlowPools"
+        }
+      },
+      "DevComment": {
+        "Position": 11898,
+        "Value": "AoE Slow Pool trail ability."
+      }
+    },
+    "73": {
+      "Tag": {
+        "Position": 11972,
+        "Value": {
+          "String": "NPC.Ability.Attack.AoE.BuildingBlocker"
+        }
+      },
+      "DevComment": {
+        "Position": 12005,
+        "Value": "AoE Building Blocker trail ability."
+      }
+    },
+    "74": {
+      "Tag": {
+        "Position": 12086,
+        "Value": {
+          "String": "NPC.Ability.Attack.Approach"
+        }
+      },
+      "DevComment": {
+        "Position": 12119,
+        "Value": "WITH ATTACK: Approach mechanic that layers on top of normal behaviors in the Behavior Tree. Controlled by a Service. EX: Rolling in a ball, digging underground, periodically turning into a ghost state, raising a shield when taking damage, etc."
+      }
+    },
+    "75": {
+      "Tag": {
+        "Position": 12408,
+        "Value": {
+          "String": "NPC.Ability.Attack.Approach.VisibleOrAlwaysPerceivedGoal.True"
+        }
+      },
+      "DevComment": {
+        "Position": 12441,
+        "Value": "WITH ATTACK: Approach mechanic for when the Goal is Visible or the location is always known. EX: Moving to ATLAS, moving to attack a player they see/know, etc."
+      }
+    },
+    "76": {
+      "Tag": {
+        "Position": 12646,
+        "Value": {
+          "String": "NPC.Ability.Attack.Approach.VisibleOrAlwaysPerceivedGoal.False"
+        }
+      },
+      "DevComment": {
+        "Position": 12679,
+        "Value": "WITH ATTACK: Approach mechanic for when the Goal is NOT Visible or the location is NOT always known. EX: Hunting behaviors."
+      }
+    },
+    "77": {
+      "Tag": {
+        "Position": 12848,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Bump"
+        }
+      },
+      "DevComment": {
+        "Position": 12881,
+        "Value": "Damage done when a large NPC (such as the Smasher) bumps into something while moving."
+      }
+    },
+    "78": {
+      "Tag": {
+        "Position": 13012,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Ceiling"
+        }
+      },
+      "DevComment": {
+        "Position": 13045,
+        "Value": "The ceiling melee attack ability of the NPC"
+      }
+    },
+    "79": {
+      "Tag": {
+        "Position": 13134,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Charge"
+        }
+      },
+      "DevComment": {
+        "Position": 13167,
+        "Value": "An attack where the AI charges over a larger distance to melee the enemy.  Ex: Smasher charge."
+      }
+    },
+    "80": {
+      "Tag": {
+        "Position": 13307,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Floor"
+        }
+      },
+      "DevComment": {
+        "Position": 13340,
+        "Value": "The floor melee attack ability of the NPC"
+      }
+    },
+    "81": {
+      "Tag": {
+        "Position": 13427,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Heavy"
+        }
+      },
+      "DevComment": {
+        "Position": 13460,
+        "Value": "A heavy melee attack of the NPC.  Example: The dwarf husk's jump attack."
+      }
+    },
+    "82": {
+      "Tag": {
+        "Position": 13578,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Lunge"
+        }
+      },
+      "DevComment": {
+        "Position": 13611,
+        "Value": "The melee lunge ability of the NPC"
+      }
+    },
+    "83": {
+      "Tag": {
+        "Position": 13691,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 13724,
+        "Value": "The default cooldown for melee abilities"
+      }
+    },
+    "84": {
+      "Tag": {
+        "Position": 13810,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Primary.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 13843,
+        "Value": "Tag grants the use of this ability. Used for special phased behaviors."
+      }
+    },
+    "85": {
+      "Tag": {
+        "Position": 13959,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Radial"
+        }
+      },
+      "DevComment": {
+        "Position": 13992,
+        "Value": "A radial melee attack of the NPC.  Example: Smasher ground-pound."
+      }
+    },
+    "86": {
+      "Tag": {
+        "Position": 14103,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.SoulSuck"
+        }
+      },
+      "DevComment": {
+        "Position": 14136,
+        "Value": "Taker Soul Suck Attack."
+      }
+    },
+    "87": {
+      "Tag": {
+        "Position": 14205,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.SoulSuck.Release"
+        }
+      },
+      "DevComment": {
+        "Position": 14238,
+        "Value": "Taker Soul Suck Attack is ending now."
+      }
+    },
+    "88": {
+      "Tag": {
+        "Position": 14321,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Stun"
+        }
+      },
+      "DevComment": {
+        "Position": 14354,
+        "Value": "A stun attack."
+      }
+    },
+    "89": {
+      "Tag": {
+        "Position": 14414,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Swoop"
+        }
+      },
+      "DevComment": {
+        "Position": 14447,
+        "Value": "The taker's melee swoop ability"
+      }
+    },
+    "90": {
+      "Tag": {
+        "Position": 14524,
+        "Value": {
+          "String": "NPC.Ability.Attack.Melee.Wall"
+        }
+      },
+      "DevComment": {
+        "Position": 14557,
+        "Value": "The wall melee attack ability of the NPC (if it differs from Primary, which is used in many cases)."
+      }
+    },
+    "91": {
+      "Tag": {
+        "Position": 14702,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.ATLASZap"
+        }
+      },
+      "DevComment": {
+        "Position": 14735,
+        "Value": "Used when the ATLAS \"zaps\" an AI; the ability damages the ATLAS and kills the AI."
+      }
+    },
+    "92": {
+      "Tag": {
+        "Position": 14862,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 14895,
+        "Value": "The primary ranged attack ability of the NPC"
+      }
+    },
+    "93": {
+      "Tag": {
+        "Position": 14985,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.Primary.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 15018,
+        "Value": "Tag grants the use of this ability. Used for special phased behaviors."
+      }
+    },
+    "94": {
+      "Tag": {
+        "Position": 15134,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.Sweep"
+        }
+      },
+      "DevComment": {
+        "Position": 15167,
+        "Value": "Tracing beam meant to hit a defined area."
+      }
+    },
+    "95": {
+      "Tag": {
+        "Position": 15254,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.Sweep.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 15287,
+        "Value": "Tag grants the use of this ability. Used for special phased behaviors."
+      }
+    },
+    "96": {
+      "Tag": {
+        "Position": 15403,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.MultiTarget.Throw"
+        }
+      },
+      "DevComment": {
+        "Position": 15436,
+        "Value": "Ranged attack meant to hit multiple targets at one time."
+      }
+    },
+    "97": {
+      "Tag": {
+        "Position": 15538,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.MultiTarget.Throw.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 15571,
+        "Value": "Tag grants the use of this ability. Used for special phased behaviors."
+      }
+    },
+    "98": {
+      "Tag": {
+        "Position": 15687,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.MultiTarget.Split"
+        }
+      },
+      "DevComment": {
+        "Position": 15720,
+        "Value": "MultiTarget attack that, at some point, splits the projectile into multiple pieces. Triggered by the initial projectile or ability most likely."
+      }
+    },
+    "99": {
+      "Tag": {
+        "Position": 15909,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.MultiTarget.Damage"
+        }
+      },
+      "DevComment": {
+        "Position": 15942,
+        "Value": "Damage from MultiTarget attack given through GE in the projectile."
+      }
+    },
+    "100": {
+      "Tag": {
+        "Position": 16054,
+        "Value": {
+          "String": "NPC.Ability.Attack.Ranged.ThrowNPC"
+        }
+      },
+      "DevComment": {
+        "Position": 16087,
+        "Value": "The flinger's throw husk ability"
+      }
+    },
+    "101": {
+      "Tag": {
+        "Position": 16165,
+        "Value": {
+          "String": "NPC.Ability.Attack.Summon.Minions"
+        }
+      },
+      "DevComment": {
+        "Position": 16198,
+        "Value": "Summon ability to spawn allied minions for this enemy."
+      }
+    },
+    "102": {
+      "Tag": {
+        "Position": 16298,
+        "Value": {
+          "String": "NPC.Ability.Attack.Summon.Minions.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 16331,
+        "Value": "Tag grants the use of this ability. Used for special phased behaviors."
+      }
+    },
+    "103": {
+      "Tag": {
+        "Position": 16447,
+        "Value": {
+          "String": "NPC.Ability.Attack.Triggered.Damage.Self"
+        }
+      },
+      "DevComment": {
+        "Position": 16480,
+        "Value": "Triggered scripted ability that damages self."
+      }
+    },
+    "104": {
+      "Tag": {
+        "Position": 16571,
+        "Value": {
+          "String": "NPC.Ability.Attack.Triggered.Damage.Target"
+        }
+      },
+      "DevComment": {
+        "Position": 16604,
+        "Value": "Triggered scripted ability that damages my target."
+      }
+    },
+    "105": {
+      "Tag": {
+        "Position": 16700,
+        "Value": {
+          "String": "NPC.Ability.MaxActualRange"
+        }
+      },
+      "DevComment": {
+        "Position": 16733,
+        "Value": "The max range of this weapon. Not always used. Used for abilities that fire weapon definitions. Abilities that define their own target selection don't need this, since they have decorators and tests to check their max range. Actual weapons need this so the tree knows how to behave."
+      }
+    },
+    "106": {
+      "Tag": {
+        "Position": 17061,
+        "Value": {
+          "String": "NPC.Ability.MaxApproachRange"
+        }
+      },
+      "DevComment": {
+        "Position": 17094,
+        "Value": "Maximum range that an NPC will attempt to close in to use an ability"
+      }
+    },
+    "107": {
+      "Tag": {
+        "Position": 17208,
+        "Value": {
+          "String": "NPC.Ability.MaxPreferredRange"
+        }
+      },
+      "DevComment": {
+        "Position": 17241,
+        "Value": "Maximum range of the ideal distance from a target for an NPC. Used for checking BT distances."
+      }
+    },
+    "108": {
+      "Tag": {
+        "Position": 17380,
+        "Value": {
+          "String": "NPC.Ability.MaxPreferredRangeEQS"
+        }
+      },
+      "DevComment": {
+        "Position": 17413,
+        "Value": "Maximum range of the ideal distance from a target for an NPC. Used by EQS generation to not cause threshold issues using the same distance as above."
+      }
+    },
+    "109": {
+      "Tag": {
+        "Position": 17607,
+        "Value": {
+          "String": "NPC.Ability.MinActualRange"
+        }
+      },
+      "DevComment": {
+        "Position": 17640,
+        "Value": "For ranged attacks. Do not attempt an attack from less than this range."
+      }
+    },
+    "110": {
+      "Tag": {
+        "Position": 17757,
+        "Value": {
+          "String": "NPC.Ability.MinApproachRange"
+        }
+      },
+      "DevComment": {
+        "Position": 17790,
+        "Value": "When an NPC is below this range, it will attempt to move further away to get outside of it"
+      }
+    },
+    "111": {
+      "Tag": {
+        "Position": 17926,
+        "Value": {
+          "String": "NPC.Ability.MinPreferredRange"
+        }
+      },
+      "DevComment": {
+        "Position": 17959,
+        "Value": "Minimum range of the ideal distance from a target for an NPC. Used for checking BT distances."
+      }
+    },
+    "112": {
+      "Tag": {
+        "Position": 18098,
+        "Value": {
+          "String": "NPC.Ability.MinPreferredRangeEQS"
+        }
+      },
+      "DevComment": {
+        "Position": 18131,
+        "Value": "Minimum range of the ideal distance from a target for an NPC. Used by EQS generation to not cause threshold issues using the same distance as above."
+      }
+    },
+    "113": {
+      "Tag": {
+        "Position": 18325,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Approach"
+        }
+      },
+      "DevComment": {
+        "Position": 18358,
+        "Value": "Approach mechanic that layers on top of normal behaviors in the Behavior Tree. Controlled by a Service. EX: Rolling in a ball, digging underground, periodically turning into a ghost state, raising a shield when taking damage, etc."
+      }
+    },
+    "114": {
+      "Tag": {
+        "Position": 18634,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Approach.VisibleOrAlwaysPerceivedGoal.True"
+        }
+      },
+      "DevComment": {
+        "Position": 18667,
+        "Value": "Approach mechanic for when the Goal is Visible or the location is always known. EX: Moving to ATLAS, moving to attack a player they see/know, etc."
+      }
+    },
+    "115": {
+      "Tag": {
+        "Position": 18859,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Approach.VisibleOrAlwaysPerceivedGoal.False"
+        }
+      },
+      "DevComment": {
+        "Position": 18892,
+        "Value": "Approach mechanic for when the Goal is NOT Visible or the location is NOT always known. EX: Hunting behaviors."
+      }
+    },
+    "116": {
+      "Tag": {
+        "Position": 19048,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Avoid.Enemy"
+        }
+      },
+      "DevComment": {
+        "Position": 19081,
+        "Value": "Ability for avoiding an enemy attack."
+      }
+    },
+    "117": {
+      "Tag": {
+        "Position": 19164,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.BecomeChest"
+        }
+      },
+      "DevComment": {
+        "Position": 19197,
+        "Value": "For mimics, makes them turn back into a chest."
+      }
+    },
+    "118": {
+      "Tag": {
+        "Position": 19289,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Charge"
+        }
+      },
+      "DevComment": {
+        "Position": 19322,
+        "Value": "The running/charge part of the Smasher charge sequence.  Not to be confused with Melee.Charge."
+      }
+    },
+    "119": {
+      "Tag": {
+        "Position": 19462,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Cower"
+        }
+      },
+      "DevComment": {
+        "Position": 19495,
+        "Value": "Tag for Cower Ability."
+      }
+    },
+    "120": {
+      "Tag": {
+        "Position": 19563,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Cower.False"
+        }
+      },
+      "DevComment": {
+        "Position": 19596,
+        "Value": "Event to disable Cower."
+      }
+    },
+    "121": {
+      "Tag": {
+        "Position": 19665,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Cower.IndefiniteFalse"
+        }
+      },
+      "DevComment": {
+        "Position": 19698,
+        "Value": "Stop cowering indefinitely"
+      }
+    },
+    "122": {
+      "Tag": {
+        "Position": 19770,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Cower.IndefiniteTrue"
+        }
+      },
+      "DevComment": {
+        "Position": 19803,
+        "Value": "Cower indefinitely until explicitly told to stop."
+      }
+    },
+    "123": {
+      "Tag": {
+        "Position": 19898,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Cower.True"
+        }
+      },
+      "DevComment": {
+        "Position": 19931,
+        "Value": "Event to enable Cower."
+      }
+    },
+    "124": {
+      "Tag": {
+        "Position": 19999,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.DBNO"
+        }
+      },
+      "DevComment": {
+        "Position": 20032,
+        "Value": "Tag for NPC DBNO ability."
+      }
+    },
+    "125": {
+      "Tag": {
+        "Position": 20103,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.DBNO.False"
+        }
+      },
+      "DevComment": {
+        "Position": 20136,
+        "Value": "NPC revived from DBNO."
+      }
+    },
+    "126": {
+      "Tag": {
+        "Position": 20204,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.DBNO.True"
+        }
+      },
+      "DevComment": {
+        "Position": 20237,
+        "Value": "NPC goes DBNO."
+      }
+    },
+    "127": {
+      "Tag": {
+        "Position": 20297,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.DBNORevive"
+        }
+      },
+      "DevComment": {
+        "Position": 20330,
+        "Value": "Ability that occurs while the AI is being revived from DBNO"
+      }
+    },
+    "128": {
+      "Tag": {
+        "Position": 20435,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Decelerate"
+        }
+      },
+      "DevComment": {
+        "Position": 20468,
+        "Value": "Decelerate from speed.  Ex: Smasher decelerate after charging."
+      }
+    },
+    "129": {
+      "Tag": {
+        "Position": 20576,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.DropNPC"
+        }
+      },
+      "DevComment": {
+        "Position": 20609,
+        "Value": "Flinger drops Husk due to interruption or death."
+      }
+    },
+    "130": {
+      "Tag": {
+        "Position": 20703,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Evade"
+        }
+      },
+      "DevComment": {
+        "Position": 20736,
+        "Value": "Evade gameplay ability tag.  Used by Taker Evade ability and (in the future) by ninja or other special husks or AI granted ability through an aura."
+      }
+    },
+    "131": {
+      "Tag": {
+        "Position": 20929,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Frustration"
+        }
+      },
+      "DevComment": {
+        "Position": 20962,
+        "Value": "Express Frustration!  (The husk plays an animation and puts out an exclamation mark effect.)"
+      }
+    },
+    "132": {
+      "Tag": {
+        "Position": 21100,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.GrabPickup"
+        }
+      },
+      "DevComment": {
+        "Position": 21133,
+        "Value": "Grab a pickup!"
+      }
+    },
+    "133": {
+      "Tag": {
+        "Position": 21193,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.HoldNPC"
+        }
+      },
+      "DevComment": {
+        "Position": 21226,
+        "Value": "Flinger holds Husk before throwing."
+      }
+    },
+    "134": {
+      "Tag": {
+        "Position": 21307,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Hunting"
+        }
+      },
+      "DevComment": {
+        "Position": 21340,
+        "Value": "Move to search for a goal"
+      }
+    },
+    "135": {
+      "Tag": {
+        "Position": 21411,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.LockInPlace.False"
+        }
+      },
+      "DevComment": {
+        "Position": 21444,
+        "Value": null
+      }
+    },
+    "136": {
+      "Tag": {
+        "Position": 21489,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.LockInPlace.Indefinite.False"
+        }
+      },
+      "DevComment": {
+        "Position": 21522,
+        "Value": null
+      }
+    },
+    "137": {
+      "Tag": {
+        "Position": 21567,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.LockInPlace.Indefinite.True"
+        }
+      },
+      "DevComment": {
+        "Position": 21600,
+        "Value": null
+      }
+    },
+    "138": {
+      "Tag": {
+        "Position": 21645,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.LockInPlace.True"
+        }
+      },
+      "DevComment": {
+        "Position": 21678,
+        "Value": null
+      }
+    },
+    "139": {
+      "Tag": {
+        "Position": 21723,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.MoveToSpawnSpot"
+        }
+      },
+      "DevComment": {
+        "Position": 21756,
+        "Value": "AI moves to the spawn spot."
+      }
+    },
+    "140": {
+      "Tag": {
+        "Position": 21829,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.NeedsAmmo"
+        }
+      },
+      "DevComment": {
+        "Position": 21862,
+        "Value": "AI needs Ammo."
+      }
+    },
+    "141": {
+      "Tag": {
+        "Position": 21922,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.NotIdle"
+        }
+      },
+      "DevComment": {
+        "Position": 21955,
+        "Value": "AI ability used to simply mark itself as as not needing to despawn from lack of activity."
+      }
+    },
+    "142": {
+      "Tag": {
+        "Position": 22090,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Phoenix.DBNO"
+        }
+      },
+      "DevComment": {
+        "Position": 22123,
+        "Value": "State while MiniBoss is DBNOed before resurrecting."
+      }
+    },
+    "143": {
+      "Tag": {
+        "Position": 22220,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Phoenix.DBNORevive"
+        }
+      },
+      "DevComment": {
+        "Position": 22253,
+        "Value": "State while MiniBoss is recovering from DBNO and regains health, etc."
+      }
+    },
+    "144": {
+      "Tag": {
+        "Position": 22368,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Phoenix.Granted"
+        }
+      },
+      "DevComment": {
+        "Position": 22401,
+        "Value": "AI ability that either temporarily or indefinitely blocks Death. Die and rebirth repeatedly."
+      }
+    },
+    "145": {
+      "Tag": {
+        "Position": 22539,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Phoenix.Active"
+        }
+      },
+      "DevComment": {
+        "Position": 22572,
+        "Value": "Phoenix Ability is currently running."
+      }
+    },
+    "146": {
+      "Tag": {
+        "Position": 22655,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Phoenix.Setup"
+        }
+      },
+      "DevComment": {
+        "Position": 22688,
+        "Value": "Setup Ability for Phoenix to apply correct settings to the MiniBoss."
+      }
+    },
+    "147": {
+      "Tag": {
+        "Position": 22802,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.PickUp"
+        }
+      },
+      "DevComment": {
+        "Position": 22835,
+        "Value": "AI has something he should go pick up. Used for the Sploder getting his Propane Tank."
+      }
+    },
+    "148": {
+      "Tag": {
+        "Position": 22966,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.QuickHealSelf"
+        }
+      },
+      "DevComment": {
+        "Position": 22999,
+        "Value": "Used to heal an AI when it is returning to its spawn location or guardian area to prevent player exploits."
+      }
+    },
+    "149": {
+      "Tag": {
+        "Position": 23151,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.RangedWait"
+        }
+      },
+      "DevComment": {
+        "Position": 23184,
+        "Value": "AI has an ability it can do while waiting to do another ranged attack. This will likely just be an animation or taunt."
+      }
+    },
+    "150": {
+      "Tag": {
+        "Position": 23348,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Reposition.BobAndWeave"
+        }
+      },
+      "DevComment": {
+        "Position": 23381,
+        "Value": "Reposition by moving back and forth"
+      }
+    },
+    "151": {
+      "Tag": {
+        "Position": 23462,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Rescue"
+        }
+      },
+      "DevComment": {
+        "Position": 23495,
+        "Value": "NPC Rescue ability tag."
+      }
+    },
+    "152": {
+      "Tag": {
+        "Position": 23564,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Rescue.False"
+        }
+      },
+      "DevComment": {
+        "Position": 23597,
+        "Value": "Cancel NPC Rescue."
+      }
+    },
+    "153": {
+      "Tag": {
+        "Position": 23661,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Rescue.Finish"
+        }
+      },
+      "DevComment": {
+        "Position": 23694,
+        "Value": "Finishes the NPC Rescue and teleports out."
+      }
+    },
+    "154": {
+      "Tag": {
+        "Position": 23782,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Rescue.Start"
+        }
+      },
+      "DevComment": {
+        "Position": 23815,
+        "Value": "Starts the NPC Rescue."
+      }
+    },
+    "155": {
+      "Tag": {
+        "Position": 23883,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Rescue.True"
+        }
+      },
+      "DevComment": {
+        "Position": 23916,
+        "Value": "Initiate NPC rescue."
+      }
+    },
+    "156": {
+      "Tag": {
+        "Position": 23982,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Roar"
+        }
+      },
+      "DevComment": {
+        "Position": 24015,
+        "Value": "Roar ability for the Flinger, Smasher, etc."
+      }
+    },
+    "157": {
+      "Tag": {
+        "Position": 24104,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Roar.Rampage"
+        }
+      },
+      "DevComment": {
+        "Position": 24137,
+        "Value": "Roar ability for Boss Rampage mission"
+      }
+    },
+    "158": {
+      "Tag": {
+        "Position": 24220,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.SpawnIntro"
+        }
+      },
+      "DevComment": {
+        "Position": 24253,
+        "Value": "Ability activated just after an AI spawns in, such as a special Smasher \"Roar\" (not associated with his Charge)"
+      }
+    },
+    "159": {
+      "Tag": {
+        "Position": 24410,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Summon"
+        }
+      },
+      "DevComment": {
+        "Position": 24443,
+        "Value": "The PATroll's Summon ability, which starts an encounter around a particular player."
+      }
+    },
+    "160": {
+      "Tag": {
+        "Position": 24572,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.SwoopLevitate"
+        }
+      },
+      "DevComment": {
+        "Position": 24605,
+        "Value": "The Taker's levitate ability, which is used at the start of a Swoop attack.  (Levitate->Swoop->SwoopOutro)"
+      }
+    },
+    "161": {
+      "Tag": {
+        "Position": 24757,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.SwoopOutro"
+        }
+      },
+      "DevComment": {
+        "Position": 24790,
+        "Value": "Outro for Taker swoop attack."
+      }
+    },
+    "162": {
+      "Tag": {
+        "Position": 24865,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TeleportIn"
+        }
+      },
+      "DevComment": {
+        "Position": 24898,
+        "Value": "The PATroll's Teleport In ability, which occurs when the PATroll is spawned."
+      }
+    },
+    "163": {
+      "Tag": {
+        "Position": 25020,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TeleportNPC.Drop"
+        }
+      },
+      "DevComment": {
+        "Position": 25053,
+        "Value": "Tunneler was interrupted, drop Husk."
+      }
+    },
+    "164": {
+      "Tag": {
+        "Position": 25135,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TeleportNPC.Hold"
+        }
+      },
+      "DevComment": {
+        "Position": 25168,
+        "Value": "After GAB spawns pawn, match up animations so it looks like Tunneler is holding his spawned Husk."
+      }
+    },
+    "165": {
+      "Tag": {
+        "Position": 25311,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TeleportNPC.Teleport"
+        }
+      },
+      "DevComment": {
+        "Position": 25344,
+        "Value": "Enemy teleports NPC from his location to another chosen location. Used for Tunneler AI who digs a tunnel from himself to a point closer to the ATLAS and spawns enemies through it."
+      }
+    },
+    "166": {
+      "Tag": {
+        "Position": 25569,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TeleportOut"
+        }
+      },
+      "DevComment": {
+        "Position": 25602,
+        "Value": "The PATroll's Teleport Out ability, which occurs when the PATroll is despawned."
+      }
+    },
+    "167": {
+      "Tag": {
+        "Position": 25727,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TeleportToFixNavigationToGoal"
+        }
+      },
+      "DevComment": {
+        "Position": 25760,
+        "Value": "Reverses navigation from Goal to pawn, finds closest navigable point, then teleports pawn there. Used for important AI like MiniBosses so they don't get stuck or despawn."
+      }
+    },
+    "168": {
+      "Tag": {
+        "Position": 25976,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Tired"
+        }
+      },
+      "DevComment": {
+        "Position": 26009,
+        "Value": "Ability played to show an AI is \"tired\".  Example: After the Smasher charges, he becomes \"tired\" briefly."
+      }
+    },
+    "169": {
+      "Tag": {
+        "Position": 26160,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.TurnTransition"
+        }
+      },
+      "DevComment": {
+        "Position": 26193,
+        "Value": "The gameplay ability for doing turn transitions"
+      }
+    },
+    "170": {
+      "Tag": {
+        "Position": 26286,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.Wander"
+        }
+      },
+      "DevComment": {
+        "Position": 26319,
+        "Value": "This NPC can randomly wander. Expected that there is not yet a Goal. Just wander around."
+      }
+    },
+    "171": {
+      "Tag": {
+        "Position": 26453,
+        "Value": {
+          "String": "NPC.Ability.NonAttack.WanderNearGoal"
+        }
+      },
+      "DevComment": {
+        "Position": 26486,
+        "Value": "This NPC is wandering near his Goal. If the NPC cannot reach or attack the Goal, wander around near it instead."
+      }
+    },
+    "172": {
+      "Tag": {
+        "Position": 26643,
+        "Value": {
+          "String": "NPC.Ability.PreferredRangeEQSDensity"
+        }
+      },
+      "DevComment": {
+        "Position": 26676,
+        "Value": "Density of point generation for EQS. Distance between generated points."
+      }
+    },
+    "173": {
+      "Tag": {
+        "Position": 26793,
+        "Value": {
+          "String": "NPC.Assignment.BuildingProps"
+        }
+      },
+      "DevComment": {
+        "Position": 26826,
+        "Value": "Tag for assignments that are building props"
+      }
+    },
+    "174": {
+      "Tag": {
+        "Position": 26915,
+        "Value": {
+          "String": "NPC.Assignment.Decoy"
+        }
+      },
+      "DevComment": {
+        "Position": 26948,
+        "Value": "Tag for assignments that are Decoys. Decoys will temporarily override all other goals."
+      }
+    },
+    "175": {
+      "Tag": {
+        "Position": 27080,
+        "Value": {
+          "String": "NPC.Assignment.Domination"
+        }
+      },
+      "DevComment": {
+        "Position": 27113,
+        "Value": "Tag for assignments that generate a \"domination\" location that AI may be fighting players over."
+      }
+    },
+    "176": {
+      "Tag": {
+        "Position": 27254,
+        "Value": {
+          "String": "NPC.Assignment.Escort"
+        }
+      },
+      "DevComment": {
+        "Position": 27287,
+        "Value": "Tag for assignments that generate escort locations to move to around the primary assignment goals."
+      }
+    },
+    "177": {
+      "Tag": {
+        "Position": 27431,
+        "Value": {
+          "String": "NPC.Assignment.PropaneTanks"
+        }
+      },
+      "DevComment": {
+        "Position": 27464,
+        "Value": "Tag for assignment for Sploders to pick up the propane tanks in the world."
+      }
+    },
+    "178": {
+      "Tag": {
+        "Position": 27584,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.Circle.Blaster"
+        }
+      },
+      "DevComment": {
+        "Position": 27617,
+        "Value": "Tag for assignments that have goal locations around primary assignment goals for Blasters"
+      }
+    },
+    "179": {
+      "Tag": {
+        "Position": 27752,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.Circle.Flinger"
+        }
+      },
+      "DevComment": {
+        "Position": 27785,
+        "Value": "Tag for assignments that have goal locations around primary assignment goals for Flingers"
+      }
+    },
+    "180": {
+      "Tag": {
+        "Position": 27920,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.Circle.Husk.Bombshell"
+        }
+      },
+      "DevComment": {
+        "Position": 27953,
+        "Value": "Tag for assignments that have goal locations around primary assignment goals for Bombshell husks"
+      }
+    },
+    "181": {
+      "Tag": {
+        "Position": 28095,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.Circle.Husk.Bombshell.Poison"
+        }
+      },
+      "DevComment": {
+        "Position": 28128,
+        "Value": "Tag for assignments that have goal locations around primary assignment goals for Poison Bombshell husks"
+      }
+    },
+    "182": {
+      "Tag": {
+        "Position": 28277,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.Circle.MiniBoss"
+        }
+      },
+      "DevComment": {
+        "Position": 28310,
+        "Value": "Tag for assignments that have goal locations around primary assignment goals for MiniBosses."
+      }
+    },
+    "183": {
+      "Tag": {
+        "Position": 28448,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.Circle.Taker"
+        }
+      },
+      "DevComment": {
+        "Position": 28481,
+        "Value": "Tag for assignments that have goal locations around primary assignment goals for Takers"
+      }
+    },
+    "184": {
+      "Tag": {
+        "Position": 28614,
+        "Value": {
+          "String": "NPC.Assignment.RelativeToPrimary.StructuralBuildings"
+        }
+      },
+      "DevComment": {
+        "Position": 28647,
+        "Value": "Tag for assignments that have all Structural Buildings around primary (untagged) Encounter Assignment goals."
+      }
+    },
+    "185": {
+      "Tag": {
+        "Position": 28801,
+        "Value": {
+          "String": "NPC.Assignment.StructuralBuildings"
+        }
+      },
+      "DevComment": {
+        "Position": 28834,
+        "Value": "Tag for assignments that have all Structural Buildings around primary (untagged) assignment goals. OLD - to be replaced"
+      }
+    },
+    "186": {
+      "Tag": {
+        "Position": 28999,
+        "Value": {
+          "String": "NPC.Assignment.Tether"
+        }
+      },
+      "DevComment": {
+        "Position": 29032,
+        "Value": "Tag for assignments that tether the enemy to a specific location."
+      }
+    },
+    "187": {
+      "Tag": {
+        "Position": 29143,
+        "Value": {
+          "String": "NPC.Assignment.TrackEndStations"
+        }
+      },
+      "DevComment": {
+        "Position": 29176,
+        "Value": "Tag for assignments containing the end stations for the track segment in any cart- and track-related encounter."
+      }
+    },
+    "188": {
+      "Tag": {
+        "Position": 29333,
+        "Value": {
+          "String": "NPC.Assignment.Lure"
+        }
+      },
+      "DevComment": {
+        "Position": 29366,
+        "Value": null
+      }
+    },
+    "189": {
+      "Tag": {
+        "Position": 29411,
+        "Value": {
+          "String": "NPC.Assignment.Loot"
+        }
+      },
+      "DevComment": {
+        "Position": 29444,
+        "Value": null
+      }
+    },
+    "190": {
+      "Tag": {
+        "Position": 29489,
+        "Value": {
+          "String": "NPC.Attachment.Behavior.TreatAsPawn"
+        }
+      },
+      "DevComment": {
+        "Position": 29522,
+        "Value": "For things that are attached to pawns (EX: Super Shielder shield) have blueprint logic treat it as if it were a pawn. Example use case is duplicating the behavior of canister grenades from the grenade launcher exploding on impact. Requires a tag check in the BP."
+      }
+    },
+    "191": {
+      "Tag": {
+        "Position": 29830,
+        "Value": {
+          "String": "NPC.Behavior.Advances"
+        }
+      },
+      "DevComment": {
+        "Position": 29863,
+        "Value": "Ranged AI Advances to MinPreferredRange from time to time."
+      }
+    },
+    "192": {
+      "Tag": {
+        "Position": 29967,
+        "Value": {
+          "String": "NPC.Behavior.Cower"
+        }
+      },
+      "DevComment": {
+        "Position": 30000,
+        "Value": "NPC is cowering."
+      }
+    },
+    "193": {
+      "Tag": {
+        "Position": 30062,
+        "Value": {
+          "String": "NPC.Behavior.DBNO"
+        }
+      },
+      "DevComment": {
+        "Position": 30095,
+        "Value": "NPC is Down But Not Out after losing all of its health."
+      }
+    },
+    "194": {
+      "Tag": {
+        "Position": 30196,
+        "Value": {
+          "String": "NPC.Behavior.Disables.Ability.Attack.AoE.Bees"
+        }
+      },
+      "DevComment": {
+        "Position": 30229,
+        "Value": "Disable Bee Trails when this tag is applied to the beehive husk.  Applied when the husk is standing in his own cloud (centrally) so he won't drop a new cloud."
+      }
+    },
+    "195": {
+      "Tag": {
+        "Position": 30433,
+        "Value": {
+          "String": "NPC.Behavior.Disables.Ability.Attack.AoE.AcidPools"
+        }
+      },
+      "DevComment": {
+        "Position": 30466,
+        "Value": "Disable Acid Pools when this tag is applied to the enemy with the ability. Applied when standing in his own AoE cloud so he won't drop a new one."
+      }
+    },
+    "196": {
+      "Tag": {
+        "Position": 30657,
+        "Value": {
+          "String": "NPC.Behavior.Disables.Ability.Attack.AoE.SlowPools"
+        }
+      },
+      "DevComment": {
+        "Position": 30690,
+        "Value": "Disable Slow Pools when this tag is applied to the enemy with the ability. Applied when standing in his own AoE cloud so he won't drop a new one."
+      }
+    },
+    "197": {
+      "Tag": {
+        "Position": 30881,
+        "Value": {
+          "String": "NPC.Behavior.Disables.Ability.Attack.AoE.BuildingBlocker"
+        }
+      },
+      "DevComment": {
+        "Position": 30914,
+        "Value": "Disable Building Blockers when this tag is applied to the enemy with the ability. Applied when standing in his own AoE cloud so he won't drop a new one."
+      }
+    },
+    "198": {
+      "Tag": {
+        "Position": 31112,
+        "Value": {
+          "String": "NPC.Behavior.DoesNotRepositionForRangedAttacks"
+        }
+      },
+      "DevComment": {
+        "Position": 31145,
+        "Value": "This AI does not use repositioning EQS queries to place himself for ranged attacks. Ranged attacks will only happen if he is naturally standing in a suitable location."
+      }
+    },
+    "199": {
+      "Tag": {
+        "Position": 31358,
+        "Value": {
+          "String": "NPC.Behavior.Phase.1"
+        }
+      },
+      "DevComment": {
+        "Position": 31391,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "200": {
+      "Tag": {
+        "Position": 31608,
+        "Value": {
+          "String": "NPC.Behavior.Phase.2"
+        }
+      },
+      "DevComment": {
+        "Position": 31641,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "201": {
+      "Tag": {
+        "Position": 31858,
+        "Value": {
+          "String": "NPC.Behavior.Phase.3"
+        }
+      },
+      "DevComment": {
+        "Position": 31891,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "202": {
+      "Tag": {
+        "Position": 32108,
+        "Value": {
+          "String": "NPC.Behavior.Phase.4"
+        }
+      },
+      "DevComment": {
+        "Position": 32141,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "203": {
+      "Tag": {
+        "Position": 32358,
+        "Value": {
+          "String": "NPC.Behavior.Phase.5"
+        }
+      },
+      "DevComment": {
+        "Position": 32391,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "204": {
+      "Tag": {
+        "Position": 32608,
+        "Value": {
+          "String": "NPC.Behavior.Phase.6"
+        }
+      },
+      "DevComment": {
+        "Position": 32641,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "205": {
+      "Tag": {
+        "Position": 32858,
+        "Value": {
+          "String": "NPC.Behavior.Phase.7"
+        }
+      },
+      "DevComment": {
+        "Position": 32891,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "206": {
+      "Tag": {
+        "Position": 33108,
+        "Value": {
+          "String": "NPC.Behavior.Phase.8"
+        }
+      },
+      "DevComment": {
+        "Position": 33141,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "207": {
+      "Tag": {
+        "Position": 33358,
+        "Value": {
+          "String": "NPC.Behavior.Phase.9"
+        }
+      },
+      "DevComment": {
+        "Position": 33391,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "208": {
+      "Tag": {
+        "Position": 33608,
+        "Value": {
+          "String": "NPC.Behavior.Phase.10"
+        }
+      },
+      "DevComment": {
+        "Position": 33641,
+        "Value": "For tagging AI with Phased behaviors. When they transition from one set of behaviors to another. Can be used to shut down particular Abilities or Behavior Tree selections."
+      }
+    },
+    "209": {
+      "Tag": {
+        "Position": 33858,
+        "Value": {
+          "String": "NPC.Behavior.Prohibits.Ability.Attack.Any"
+        }
+      },
+      "DevComment": {
+        "Position": 33891,
+        "Value": "This GoalActor cannot be attacked by ANY Ability. This check differs from the more specific tag checks. Meant to be a general go/nogo that is gated in the behavior tree."
+      }
+    },
+    "210": {
+      "Tag": {
+        "Position": 34106,
+        "Value": {
+          "String": "NPC.Behavior.Prohibits.Ability.Attack.Melee.Any"
+        }
+      },
+      "DevComment": {
+        "Position": 34139,
+        "Value": "This GoalActor cannot be attacked by ANY MELEE Ability. This check differs from the more specific tag checks. Meant to be a general go/nogo that is gated in the behavior tree."
+      }
+    },
+    "211": {
+      "Tag": {
+        "Position": 34360,
+        "Value": {
+          "String": "NPC.Behavior.Prohibits.Ability.Attack.Melee.Bump"
+        }
+      },
+      "DevComment": {
+        "Position": 34393,
+        "Value": "Prohibits \"bump\" attacks against any actor with this tag (i.e. the ATLAS).  That means the Smasher won't damage actors with this tag as he's approaching them (unlike most small debris, etc.).  Technically, it prohibits any ability that has this tag listed in \"Target Blocked Tags\".  NOTE: Ability.X.Y matches Ability hierarchy above."
+      }
+    },
+    "212": {
+      "Tag": {
+        "Position": 34772,
+        "Value": {
+          "String": "NPC.Behavior.Prohibits.Ability.Attack.Melee.Lunge"
+        }
+      },
+      "DevComment": {
+        "Position": 34805,
+        "Value": "Prohibits lunge attacks against any actor with this tag."
+      }
+    },
+    "213": {
+      "Tag": {
+        "Position": 34907,
+        "Value": {
+          "String": "NPC.Behavior.Prohibits.Ability.Attack.Ranged.Any"
+        }
+      },
+      "DevComment": {
+        "Position": 34940,
+        "Value": "This GoalActor cannot be attacked by ANY RANGED Ability. This check differs from the more specific tag checks. Meant to be a general go/nogo that is gated in the behavior tree."
+      }
+    },
+    "214": {
+      "Tag": {
+        "Position": 35162,
+        "Value": {
+          "String": "NPC.Behavior.Prohibits.Ability.Attack.Ranged.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 35195,
+        "Value": "Prohibits primary ranged attacks against any actor with this tag (i.e. the ATLAS).  Technically, it prohibits any ability that has this tag listed in \"Target Blocked Tags\".  NOTE: Ability.X.Y matches Ability hierarchy above."
+      }
+    },
+    "215": {
+      "Tag": {
+        "Position": 35465,
+        "Value": {
+          "String": "NPC.Behavior.RepositionsLaterally"
+        }
+      },
+      "DevComment": {
+        "Position": 35498,
+        "Value": "Ranged AI Repositions Laterally between each ranged attack volley."
+      }
+    },
+    "216": {
+      "Tag": {
+        "Position": 35610,
+        "Value": {
+          "String": "NPC.Behavior.Rescue"
+        }
+      },
+      "DevComment": {
+        "Position": 35643,
+        "Value": "NPC is currently being rescued."
+      }
+    },
+    "217": {
+      "Tag": {
+        "Position": 35720,
+        "Value": {
+          "String": "NPC.Behavior.Retreats"
+        }
+      },
+      "DevComment": {
+        "Position": 35753,
+        "Value": "Ranged AI Retreats to MaxPreferredRange from time to time."
+      }
+    },
+    "218": {
+      "Tag": {
+        "Position": 35857,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Melee.SlotInUse"
+        }
+      },
+      "DevComment": {
+        "Position": 35890,
+        "Value": "Target has AI slotted into Melee behaviors."
+      }
+    },
+    "219": {
+      "Tag": {
+        "Position": 35979,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Melee.Max"
+        }
+      },
+      "DevComment": {
+        "Position": 36012,
+        "Value": "Target has reached Max AI that can be slotted into Melee behaviors."
+      }
+    },
+    "220": {
+      "Tag": {
+        "Position": 36125,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Melee.AbandonSlot"
+        }
+      },
+      "DevComment": {
+        "Position": 36158,
+        "Value": "This AI Owns a Melee Slot, Slots are Max, and AI should Abandon his Slot. EX: AI has taken massive damage, done a huge impactful move that should allow someone else to slot in for a while, etc."
+      }
+    },
+    "221": {
+      "Tag": {
+        "Position": 36397,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Melee.OverrideSlot"
+        }
+      },
+      "DevComment": {
+        "Position": 36430,
+        "Value": "This AI has been given a TEMPORARY OverrideSlot to enter Melee behaviors, even if TargetSlots are at Max. Used for instances where players run up to AI that are waiting for their turn, for example."
+      }
+    },
+    "222": {
+      "Tag": {
+        "Position": 36673,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Melee.SlotOwner"
+        }
+      },
+      "DevComment": {
+        "Position": 36706,
+        "Value": "This AI Owns a Melee Slot."
+      }
+    },
+    "223": {
+      "Tag": {
+        "Position": 36778,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Ranged.SlotInUse"
+        }
+      },
+      "DevComment": {
+        "Position": 36811,
+        "Value": "Target has AI slotted into Ranged behaviors."
+      }
+    },
+    "224": {
+      "Tag": {
+        "Position": 36901,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Ranged.Max"
+        }
+      },
+      "DevComment": {
+        "Position": 36934,
+        "Value": "Target has reached Max AI that can be slotted into ranged behaviors."
+      }
+    },
+    "225": {
+      "Tag": {
+        "Position": 37048,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Ranged.AbandonSlot"
+        }
+      },
+      "DevComment": {
+        "Position": 37081,
+        "Value": "This AI Owns a Ranged Slot, Slots are Max, and AI should Abandon his Slot. EX: AI has taken massive damage, done a huge impactful move that should allow someone else to slot in for a while, etc."
+      }
+    },
+    "226": {
+      "Tag": {
+        "Position": 37321,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Ranged.OverrideSlot"
+        }
+      },
+      "DevComment": {
+        "Position": 37354,
+        "Value": "This AI has been given a TEMPORARY OverrideSlot to enter Rangede behaviors, even if TargetSlots are at Max. Used for instances where players run up to AI that are waiting for their turn, for example."
+      }
+    },
+    "227": {
+      "Tag": {
+        "Position": 37599,
+        "Value": {
+          "String": "NPC.Behavior.TargetSlots.Ranged.SlotOwner"
+        }
+      },
+      "DevComment": {
+        "Position": 37632,
+        "Value": "This AI Owns a Ranged Slot."
+      }
+    },
+    "228": {
+      "Tag": {
+        "Position": 37705,
+        "Value": {
+          "String": "NPC.Behavior.UsesMeleeOnRangedCooldown"
+        }
+      },
+      "DevComment": {
+        "Position": 37738,
+        "Value": "Ranged AI reverts to Melee behaviors when Ranged Ability is on Cooldown."
+      }
+    },
+    "229": {
+      "Tag": {
+        "Position": 37856,
+        "Value": {
+          "String": "NPC.CharacterType.Blaster.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 37889,
+        "Value": "The basic Blaster."
+      }
+    },
+    "230": {
+      "Tag": {
+        "Position": 37953,
+        "Value": {
+          "String": "NPC.CharacterType.Elite.1P"
+        }
+      },
+      "DevComment": {
+        "Position": 37986,
+        "Value": "1 Player - Generic tag for appending to other CharacterType tags to let you know this is also an Elite type enemy."
+      }
+    },
+    "231": {
+      "Tag": {
+        "Position": 38146,
+        "Value": {
+          "String": "NPC.CharacterType.Elite.4P"
+        }
+      },
+      "DevComment": {
+        "Position": 38179,
+        "Value": "4 Player - Generic tag for appending to other CharacterType tags to let you know this is also an Elite type enemy."
+      }
+    },
+    "232": {
+      "Tag": {
+        "Position": 38339,
+        "Value": {
+          "String": "NPC.CharacterType.Flinger.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 38372,
+        "Value": "The basic Flinger"
+      }
+    },
+    "233": {
+      "Tag": {
+        "Position": 38435,
+        "Value": {
+          "String": "NPC.CharacterType.GhostlyLady.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 38468,
+        "Value": "The basic \"Ghostly Lady\" (used in Transylvania biome)."
+      }
+    },
+    "234": {
+      "Tag": {
+        "Position": 38568,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Armored"
+        }
+      },
+      "DevComment": {
+        "Position": 38601,
+        "Value": "Husk wearing armor that can be knocked off easily with melee strikes."
+      }
+    },
+    "235": {
+      "Tag": {
+        "Position": 38716,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 38749,
+        "Value": "The basic Husk"
+      }
+    },
+    "236": {
+      "Tag": {
+        "Position": 38809,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Beehive"
+        }
+      },
+      "DevComment": {
+        "Position": 38842,
+        "Value": "Beehive Husk? probably tag should change when beehive is removed.  Arguably this should be a status effect instead.  Basic Hish with .Status.Wearing.Beehive"
+      }
+    },
+    "237": {
+      "Tag": {
+        "Position": 39044,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Bombshell"
+        }
+      },
+      "DevComment": {
+        "Position": 39077,
+        "Value": "Bombshell is the \"standard lobber\" husk."
+      }
+    },
+    "238": {
+      "Tag": {
+        "Position": 39163,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Digger"
+        }
+      },
+      "DevComment": {
+        "Position": 39196,
+        "Value": "Husk that digs underground while approaching so it can't be attacked. Cannot dig under destroyable floors."
+      }
+    },
+    "239": {
+      "Tag": {
+        "Position": 39348,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Dwarf"
+        }
+      },
+      "DevComment": {
+        "Position": 39381,
+        "Value": "The dwarf husk."
+      }
+    },
+    "240": {
+      "Tag": {
+        "Position": 39442,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Husky"
+        }
+      },
+      "DevComment": {
+        "Position": 39475,
+        "Value": "Husky (burping) husk"
+      }
+    },
+    "241": {
+      "Tag": {
+        "Position": 39541,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Pitcher"
+        }
+      },
+      "DevComment": {
+        "Position": 39574,
+        "Value": "Pitcher husk"
+      }
+    },
+    "242": {
+      "Tag": {
+        "Position": 39632,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.PoisonLobber"
+        }
+      },
+      "DevComment": {
+        "Position": 39665,
+        "Value": "Poison lobbers.  I think they should be called Belladonna"
+      }
+    },
+    "243": {
+      "Tag": {
+        "Position": 39768,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.RiotShield"
+        }
+      },
+      "DevComment": {
+        "Position": 39801,
+        "Value": "Riot Shield Husky."
+      }
+    },
+    "244": {
+      "Tag": {
+        "Position": 39865,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Sploder"
+        }
+      },
+      "DevComment": {
+        "Position": 39898,
+        "Value": "\"Propane Tank\" husk"
+      }
+    },
+    "245": {
+      "Tag": {
+        "Position": 39963,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Trashman"
+        }
+      },
+      "DevComment": {
+        "Position": 39996,
+        "Value": "Trashman Husk that throws bags of garbage that unleash a bunch of homing and biting skulls."
+      }
+    },
+    "246": {
+      "Tag": {
+        "Position": 40133,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Zapper"
+        }
+      },
+      "DevComment": {
+        "Position": 40166,
+        "Value": "Instant hit ranged attack Husk. Something between a Pitcher and a Blaster."
+      }
+    },
+    "247": {
+      "Tag": {
+        "Position": 40286,
+        "Value": {
+          "String": "NPC.CharacterType.Husk.Zapper.DarkGunslinger"
+        }
+      },
+      "DevComment": {
+        "Position": 40319,
+        "Value": "The Dark Gunslinger Zapper Husk"
+      }
+    },
+    "248": {
+      "Tag": {
+        "Position": 40396,
+        "Value": {
+          "String": "NPC.CharacterType.Mimic.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 40429,
+        "Value": "The basic \"Mimic\", which looks like a treature chest until you try to loot it."
+      }
+    },
+    "249": {
+      "Tag": {
+        "Position": 40553,
+        "Value": {
+          "String": "NPC.CharacterType.MiniBoss.1P"
+        }
+      },
+      "DevComment": {
+        "Position": 40586,
+        "Value": "1 Player - Generic tag for appending to other CharacterType tags to let you know this is also a MiniBoss type enemy."
+      }
+    },
+    "250": {
+      "Tag": {
+        "Position": 40748,
+        "Value": {
+          "String": "NPC.CharacterType.MiniBoss.4P"
+        }
+      },
+      "DevComment": {
+        "Position": 40781,
+        "Value": "4 Player - Generic tag for appending to other CharacterType tags to let you know this is also a MiniBoss type enemy."
+      }
+    },
+    "251": {
+      "Tag": {
+        "Position": 40943,
+        "Value": {
+          "String": "NPC.CharacterType.Boss.1P"
+        }
+      },
+      "DevComment": {
+        "Position": 40976,
+        "Value": "1 Player - Generic tag for appending to other CharacterType tags to let you know this is also a Boss type enemy."
+      }
+    },
+    "252": {
+      "Tag": {
+        "Position": 41134,
+        "Value": {
+          "String": "NPC.CharacterType.Boss.4P"
+        }
+      },
+      "DevComment": {
+        "Position": 41167,
+        "Value": "4 Player - Generic tag for appending to other CharacterType tags to let you know this is also a Boss type enemy."
+      }
+    },
+    "253": {
+      "Tag": {
+        "Position": 41325,
+        "Value": {
+          "String": "NPC.CharacterType.Shielder.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 41358,
+        "Value": "Basic Shielder enemy that attaches itself to other enemies and provides a shield for them."
+      }
+    },
+    "254": {
+      "Tag": {
+        "Position": 41494,
+        "Value": {
+          "String": "NPC.CharacterType.Shielder.Super"
+        }
+      },
+      "DevComment": {
+        "Position": 41527,
+        "Value": "Super Shielder with a giant strong bubble shield."
+      }
+    },
+    "255": {
+      "Tag": {
+        "Position": 41622,
+        "Value": {
+          "String": "NPC.CharacterType.Smasher.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 41655,
+        "Value": "The basic Smasher"
+      }
+    },
+    "256": {
+      "Tag": {
+        "Position": 41718,
+        "Value": {
+          "String": "NPC.CharacterType.Smasher.Onboarding"
+        }
+      },
+      "DevComment": {
+        "Position": 41751,
+        "Value": "Smasher for Onboarding. He acts as an assassin to only attack players and has a much larger sight/charge range to match the map."
+      }
+    },
+    "257": {
+      "Tag": {
+        "Position": 41925,
+        "Value": {
+          "String": "NPC.CharacterType.StormKing"
+        }
+      },
+      "DevComment": {
+        "Position": 41958,
+        "Value": "Storm King tag"
+      }
+    },
+    "258": {
+      "Tag": {
+        "Position": 42018,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor"
+        }
+      },
+      "DevComment": {
+        "Position": 42051,
+        "Value": "The Survivor character type"
+      }
+    },
+    "259": {
+      "Tag": {
+        "Position": 42124,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Defender"
+        }
+      },
+      "DevComment": {
+        "Position": 42157,
+        "Value": "The Defender character type"
+      }
+    },
+    "260": {
+      "Tag": {
+        "Position": 42230,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Defender.AssaultRifle"
+        }
+      },
+      "DevComment": {
+        "Position": 42263,
+        "Value": "The Defender who specializes in Assault Rifles"
+      }
+    },
+    "261": {
+      "Tag": {
+        "Position": 42355,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Defender.Melee"
+        }
+      },
+      "DevComment": {
+        "Position": 42388,
+        "Value": "The Defender who specializes in Melee"
+      }
+    },
+    "262": {
+      "Tag": {
+        "Position": 42471,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Defender.Pistol"
+        }
+      },
+      "DevComment": {
+        "Position": 42504,
+        "Value": "The Defender who specializes in Pistols"
+      }
+    },
+    "263": {
+      "Tag": {
+        "Position": 42589,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Defender.Shotgun"
+        }
+      },
+      "DevComment": {
+        "Position": 42622,
+        "Value": "The Defender who specializes in Shotguns"
+      }
+    },
+    "264": {
+      "Tag": {
+        "Position": 42708,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Defender.Sniper"
+        }
+      },
+      "DevComment": {
+        "Position": 42741,
+        "Value": "The Defender who specializes in Sniper Rifles"
+      }
+    },
+    "265": {
+      "Tag": {
+        "Position": 42832,
+        "Value": {
+          "String": "NPC.CharacterType.Survivor.Harvester"
+        }
+      },
+      "DevComment": {
+        "Position": 42865,
+        "Value": "The harvester survivor"
+      }
+    },
+    "266": {
+      "Tag": {
+        "Position": 42933,
+        "Value": {
+          "String": "NPC.CharacterType.Taker.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 42966,
+        "Value": "The basic Taker"
+      }
+    },
+    "267": {
+      "Tag": {
+        "Position": 43027,
+        "Value": {
+          "String": "NPC.CharacterType.Troll.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 43060,
+        "Value": "The basic Troll"
+      }
+    },
+    "268": {
+      "Tag": {
+        "Position": 43121,
+        "Value": {
+          "String": "NPC.CharacterType.Tunneler"
+        }
+      },
+      "DevComment": {
+        "Position": 43154,
+        "Value": "The basic Tunneler"
+      }
+    },
+    "269": {
+      "Tag": {
+        "Position": 43218,
+        "Value": {
+          "String": "NPC.CharacterType.Werewolf.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 43251,
+        "Value": "The basic \"Werewolf\" (used in Transylvania biome)."
+      }
+    },
+    "270": {
+      "Tag": {
+        "Position": 43347,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.AoE.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 43380,
+        "Value": null
+      }
+    },
+    "271": {
+      "Tag": {
+        "Position": 43425,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee"
+        }
+      },
+      "DevComment": {
+        "Position": 43458,
+        "Value": "Cooldown for the Husk's Generic Melee ability (or, in fact, ANY melee attack).  If you only want to effect Primary Melee, use Melee.Primary instead."
+      }
+    },
+    "272": {
+      "Tag": {
+        "Position": 43652,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 43685,
+        "Value": null
+      }
+    },
+    "273": {
+      "Tag": {
+        "Position": 43730,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Primary.TargetPacing"
+        }
+      },
+      "DevComment": {
+        "Position": 43763,
+        "Value": "General melee attack target pacing to keep too many melee attacks from landing at one time."
+      }
+    },
+    "274": {
+      "Tag": {
+        "Position": 43900,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Charge"
+        }
+      },
+      "DevComment": {
+        "Position": 43933,
+        "Value": "The cooldown for charge melee attacks only.  Does not affect other attacks.  (To do so, apply a Melee cooldown as well.)"
+      }
+    },
+    "275": {
+      "Tag": {
+        "Position": 44099,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Heavy"
+        }
+      },
+      "DevComment": {
+        "Position": 44132,
+        "Value": "Cooldown for the any Heavy Melee ability (such as the Dwarf jump-attack)."
+      }
+    },
+    "276": {
+      "Tag": {
+        "Position": 44251,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Lunge"
+        }
+      },
+      "DevComment": {
+        "Position": 44284,
+        "Value": "The cooldown for lunge melee attacks only.  Does not affect other attacks.  (To do so, apply a Melee cooldown as well.)"
+      }
+    },
+    "277": {
+      "Tag": {
+        "Position": 44449,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Lunge.TargetPacing"
+        }
+      },
+      "DevComment": {
+        "Position": 44482,
+        "Value": "Target pacing for Lunge attacks. Currently shared for all AI that can Lunge."
+      }
+    },
+    "278": {
+      "Tag": {
+        "Position": 44604,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Radial"
+        }
+      },
+      "DevComment": {
+        "Position": 44637,
+        "Value": "The cooldown for radial melee attacks only.  Does not affect other attacks.  (To do so, apply a Melee cooldown as well.)"
+      }
+    },
+    "279": {
+      "Tag": {
+        "Position": 44803,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.SoulSuck"
+        }
+      },
+      "DevComment": {
+        "Position": 44836,
+        "Value": "Cooldown for the Taker Soul Suck attack."
+      }
+    },
+    "280": {
+      "Tag": {
+        "Position": 44922,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Stun"
+        }
+      },
+      "DevComment": {
+        "Position": 44955,
+        "Value": "Cooldown for Stun attack."
+      }
+    },
+    "281": {
+      "Tag": {
+        "Position": 45026,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.Swoop"
+        }
+      },
+      "DevComment": {
+        "Position": 45059,
+        "Value": "Cooldown for the Taker Swoop attack."
+      }
+    },
+    "282": {
+      "Tag": {
+        "Position": 45141,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged"
+        }
+      },
+      "DevComment": {
+        "Position": 45174,
+        "Value": "The default cooldown for ALL ranged abilities"
+      }
+    },
+    "283": {
+      "Tag": {
+        "Position": 45265,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.Primary"
+        }
+      },
+      "DevComment": {
+        "Position": 45298,
+        "Value": null
+      }
+    },
+    "284": {
+      "Tag": {
+        "Position": 45343,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.Primary.TargetPacing"
+        }
+      },
+      "DevComment": {
+        "Position": 45376,
+        "Value": "General ranged attack target pacing to keep too many ranged attacks from landing at one time."
+      }
+    },
+    "285": {
+      "Tag": {
+        "Position": 45515,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.MultiTarget"
+        }
+      },
+      "DevComment": {
+        "Position": 45548,
+        "Value": null
+      }
+    },
+    "286": {
+      "Tag": {
+        "Position": 45593,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.Sweep"
+        }
+      },
+      "DevComment": {
+        "Position": 45626,
+        "Value": null
+      }
+    },
+    "287": {
+      "Tag": {
+        "Position": 45671,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Summon.Minions"
+        }
+      },
+      "DevComment": {
+        "Position": 45704,
+        "Value": null
+      }
+    },
+    "288": {
+      "Tag": {
+        "Position": 45749,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Melee.TargetPacing.DUDEBRO"
+        }
+      },
+      "DevComment": {
+        "Position": 45782,
+        "Value": "Target pacing for DUDEBRO melee damage overlaps."
+      }
+    },
+    "289": {
+      "Tag": {
+        "Position": 45876,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.TargetPacing.Pitcher"
+        }
+      },
+      "DevComment": {
+        "Position": 45909,
+        "Value": "Target pacing for the Pitcher Husk. Don't throw a bunch of bones at once."
+      }
+    },
+    "290": {
+      "Tag": {
+        "Position": 46028,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.TargetPacing.Zapper"
+        }
+      },
+      "DevComment": {
+        "Position": 46061,
+        "Value": "Target pacing for the Zapper Husk."
+      }
+    },
+    "291": {
+      "Tag": {
+        "Position": 46141,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Triggered.OnDmgDealt.SelfHeal"
+        }
+      },
+      "DevComment": {
+        "Position": 46174,
+        "Value": "Rate limiter for \"Heal on Damage Dealt\" abilities"
+      }
+    },
+    "292": {
+      "Tag": {
+        "Position": 46269,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.NonCombat.Evade"
+        }
+      },
+      "DevComment": {
+        "Position": 46302,
+        "Value": "Cooldown for Evade gameplay ability."
+      }
+    },
+    "293": {
+      "Tag": {
+        "Position": 46384,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.NonCombat.Roar"
+        }
+      },
+      "DevComment": {
+        "Position": 46417,
+        "Value": "Cooldown for Roar"
+      }
+    },
+    "294": {
+      "Tag": {
+        "Position": 46480,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.NonCombat.Roar.Rampage"
+        }
+      },
+      "DevComment": {
+        "Position": 46513,
+        "Value": "Cooldown for Rampage Roar"
+      }
+    },
+    "295": {
+      "Tag": {
+        "Position": 46584,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.Advances"
+        }
+      },
+      "DevComment": {
+        "Position": 46617,
+        "Value": "BT cooldown for Advancing within Preferred Range."
+      }
+    },
+    "296": {
+      "Tag": {
+        "Position": 46712,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.ApproachToMaxPreferredRange"
+        }
+      },
+      "DevComment": {
+        "Position": 46745,
+        "Value": "BT cooldown for Approaching to MaxPreferredRange."
+      }
+    },
+    "297": {
+      "Tag": {
+        "Position": 46840,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.ApproachToMinPreferredRange"
+        }
+      },
+      "DevComment": {
+        "Position": 46873,
+        "Value": "BT cooldown for Approaching to MinPreferredRange."
+      }
+    },
+    "298": {
+      "Tag": {
+        "Position": 46968,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.AvoidEnemy"
+        }
+      },
+      "DevComment": {
+        "Position": 47001,
+        "Value": "BT cooldown for Avoiding Enemies"
+      }
+    },
+    "299": {
+      "Tag": {
+        "Position": 47079,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.RepositionForVisibility"
+        }
+      },
+      "DevComment": {
+        "Position": 47112,
+        "Value": "BT cooldown for Repositioning to gain Visibility of GoalActor."
+      }
+    },
+    "300": {
+      "Tag": {
+        "Position": 47220,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.RepositionsLaterally"
+        }
+      },
+      "DevComment": {
+        "Position": 47253,
+        "Value": "BT cooldown for Repositioning Laterally. First implemented for instances where the EQS fails."
+      }
+    },
+    "301": {
+      "Tag": {
+        "Position": 47392,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.RepositionWithinPreferredRange"
+        }
+      },
+      "DevComment": {
+        "Position": 47425,
+        "Value": "BT cooldown for Repositioning within the preferred range between Ranged attacks. This is to find a new place where you can hit the GoalActor from."
+      }
+    },
+    "302": {
+      "Tag": {
+        "Position": 47617,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.Retreats"
+        }
+      },
+      "DevComment": {
+        "Position": 47650,
+        "Value": "BT cooldown for Retreating within Preferred Range."
+      }
+    },
+    "303": {
+      "Tag": {
+        "Position": 47746,
+        "Value": {
+          "String": "NPC.Cooldown.Behavior.SpawnSpot"
+        }
+      },
+      "DevComment": {
+        "Position": 47779,
+        "Value": "BT cooldown for returning to our Spawn Spot"
+      }
+    },
+    "304": {
+      "Tag": {
+        "Position": 47868,
+        "Value": {
+          "String": "NPC.Cooldown.TargetPacing.MiniBoss.Vortex"
+        }
+      },
+      "DevComment": {
+        "Position": 47901,
+        "Value": "Target pacing for Vortex ability so it doesn't target a specific player too often."
+      }
+    },
+    "305": {
+      "Tag": {
+        "Position": 48029,
+        "Value": {
+          "String": "NPC.Elemental.Fire"
+        }
+      },
+      "DevComment": {
+        "Position": 48062,
+        "Value": "Is a Fire Variant"
+      }
+    },
+    "306": {
+      "Tag": {
+        "Position": 48125,
+        "Value": {
+          "String": "NPC.Elemental.Ice"
+        }
+      },
+      "DevComment": {
+        "Position": 48158,
+        "Value": "Is an Ice Variant"
+      }
+    },
+    "307": {
+      "Tag": {
+        "Position": 48221,
+        "Value": {
+          "String": "NPC.Elemental.Lightning"
+        }
+      },
+      "DevComment": {
+        "Position": 48254,
+        "Value": "Is a Lightning Variant"
+      }
+    },
+    "308": {
+      "Tag": {
+        "Position": 48322,
+        "Value": {
+          "String": "NPC.EnemyType.BASE"
+        }
+      },
+      "DevComment": {
+        "Position": 48355,
+        "Value": "Tag to identify actors that pawns who care about the Constructor's BASE should consider enemies.  (I.E. the BASE!)"
+      }
+    },
+    "309": {
+      "Tag": {
+        "Position": 48515,
+        "Value": {
+          "String": "NPC.EnemyType.Cart"
+        }
+      },
+      "DevComment": {
+        "Position": 48548,
+        "Value": "Tag to identify actors that pawns who care about carts should consider to be enemies."
+      }
+    },
+    "310": {
+      "Tag": {
+        "Position": 48679,
+        "Value": {
+          "String": "NPC.EnemyType.Gadget"
+        }
+      },
+      "DevComment": {
+        "Position": 48712,
+        "Value": "Tag to identify actors that pawns who care about gadgets should consider to be enemies."
+      }
+    },
+    "311": {
+      "Tag": {
+        "Position": 48845,
+        "Value": {
+          "String": "NPC.EnemyType.Pawn"
+        }
+      },
+      "DevComment": {
+        "Position": 48878,
+        "Value": "Tag that must go on all pawns (player AND AI) so that AI that care about Pawn enemies can use it."
+      }
+    },
+    "312": {
+      "Tag": {
+        "Position": 49021,
+        "Value": {
+          "String": "NPC.EnemyType.StrategicBuilding"
+        }
+      },
+      "DevComment": {
+        "Position": 49054,
+        "Value": "Tag to identify actors that pawns who care about strategic buildings should consider to be enemies."
+      }
+    },
+    "313": {
+      "Tag": {
+        "Position": 49199,
+        "Value": {
+          "String": "NPC.EnemyType.Trap"
+        }
+      },
+      "DevComment": {
+        "Position": 49232,
+        "Value": "Tag to identify actors that pawns who care about \"traps\" should consider to be enemies."
+      }
+    },
+    "314": {
+      "Tag": {
+        "Position": 49365,
+        "Value": {
+          "String": "NPC.EnemyType.Turret"
+        }
+      },
+      "DevComment": {
+        "Position": 49398,
+        "Value": "Tag to identify actors that pawns who care about turrets should consider to be enemies."
+      }
+    },
+    "315": {
+      "Tag": {
+        "Position": 49531,
+        "Value": {
+          "String": "NPC.GoalSelection.Assassin.Destroyer"
+        }
+      },
+      "DevComment": {
+        "Position": 49564,
+        "Value": "Assassin goal selection that falls back to Destroyer behavior if there are no enemies around. Used for MiniBosses."
+      }
+    },
+    "316": {
+      "Tag": {
+        "Position": 49724,
+        "Value": {
+          "String": "NPC.GoalSelection.Destroyer.Assassin"
+        }
+      },
+      "DevComment": {
+        "Position": 49757,
+        "Value": "Destroyer goal selection that falls back to Assassin behavior if there are no buildings around. Used for MiniBosses."
+      }
+    },
+    "317": {
+      "Tag": {
+        "Position": 49919,
+        "Value": {
+          "String": "NPC.GoalSelection.Wildlife.Default"
+        }
+      },
+      "DevComment": {
+        "Position": 49952,
+        "Value": "Default Goal Selection behavior for Wildlife AI"
+      }
+    },
+    "318": {
+      "Tag": {
+        "Position": 50045,
+        "Value": {
+          "String": "NPC.Status.AOE.Bees"
+        }
+      },
+      "DevComment": {
+        "Position": 50078,
+        "Value": "Pawn is in a Bee cloud."
+      }
+    },
+    "319": {
+      "Tag": {
+        "Position": 50147,
+        "Value": {
+          "String": "NPC.Status.AOE.AcidPools"
+        }
+      },
+      "DevComment": {
+        "Position": 50180,
+        "Value": "Pawn is in an Acid Pool."
+      }
+    },
+    "320": {
+      "Tag": {
+        "Position": 50250,
+        "Value": {
+          "String": "NPC.Status.AOE.SlowPools"
+        }
+      },
+      "DevComment": {
+        "Position": 50283,
+        "Value": "Pawn is in a Slow Pool."
+      }
+    },
+    "321": {
+      "Tag": {
+        "Position": 50352,
+        "Value": {
+          "String": "NPC.Status.AOE.BeesReEntryBuffer"
+        }
+      },
+      "DevComment": {
+        "Position": 50385,
+        "Value": "Stops players from taking too many ticks of damage from bees."
+      }
+    },
+    "322": {
+      "Tag": {
+        "Position": 50492,
+        "Value": {
+          "String": "NPC.Status.AOE.AcidPoolsReEntryBuffer"
+        }
+      },
+      "DevComment": {
+        "Position": 50525,
+        "Value": "Stops players from taking too many ticks of damage."
+      }
+    },
+    "323": {
+      "Tag": {
+        "Position": 50622,
+        "Value": {
+          "String": "NPC.Status.AOE.SlowPoolsReEntryBuffer"
+        }
+      },
+      "DevComment": {
+        "Position": 50655,
+        "Value": "Stops players from taking too many ticks of damage."
+      }
+    },
+    "324": {
+      "Tag": {
+        "Position": 50752,
+        "Value": {
+          "String": "NPC.Status.AOE.Poison"
+        }
+      },
+      "DevComment": {
+        "Position": 50785,
+        "Value": "Pawn is in a Poison cloud."
+      }
+    },
+    "325": {
+      "Tag": {
+        "Position": 50857,
+        "Value": {
+          "String": "NPC.Status.AOE.PoisonReEntryBuffer"
+        }
+      },
+      "DevComment": {
+        "Position": 50890,
+        "Value": "Stops players from taking too many ticks of damage from poison."
+      }
+    },
+    "326": {
+      "Tag": {
+        "Position": 50999,
+        "Value": {
+          "String": "NPC.Status.Armored"
+        }
+      },
+      "DevComment": {
+        "Position": 51032,
+        "Value": "Armored husk has stacks of damage reduction."
+      }
+    },
+    "327": {
+      "Tag": {
+        "Position": 51122,
+        "Value": {
+          "String": "NPC.Status.Carrying.Explosive.Tank"
+        }
+      },
+      "DevComment": {
+        "Position": 51155,
+        "Value": "The Sploder is carrying a propane tank.  If he picks up other things (someday), the hierarchy is obvious.  If that's the only thing ever carried, fine, but at least the hierarchy is established."
+      }
+    },
+    "328": {
+      "Tag": {
+        "Position": 51395,
+        "Value": {
+          "String": "NPC.Status.ControlResistance.Decreased"
+        }
+      },
+      "DevComment": {
+        "Position": 51428,
+        "Value": "The control resistance of the AI has been decreased.  This will allow the AI to be hit reacted or interrupted more easily."
+      }
+    },
+    "329": {
+      "Tag": {
+        "Position": 51596,
+        "Value": {
+          "String": "NPC.Status.ControlResistance.Increased"
+        }
+      },
+      "DevComment": {
+        "Position": 51629,
+        "Value": "The control resistance of the AI has been increased.  This will make the AI more resistant to being hit reacted or interrupted."
+      }
+    },
+    "330": {
+      "Tag": {
+        "Position": 51802,
+        "Value": {
+          "String": "NPC.Status.Faceplanted"
+        }
+      },
+      "DevComment": {
+        "Position": 51835,
+        "Value": "When the Smasher charges hard into an obstacle which he's unable to kill, he \"faceplants\" (actually, he falls on his butt)."
+      }
+    },
+    "331": {
+      "Tag": {
+        "Position": 52004,
+        "Value": {
+          "String": "NPC.Status.Failed.Ability.Attack.Melee"
+        }
+      },
+      "DevComment": {
+        "Position": 52037,
+        "Value": "Used as a stacking result counter for melee attack failures.  NOTE: Ability.X.Y matches ability hierarchy above to indicate failure to whatever level of specificity is desired."
+      }
+    },
+    "332": {
+      "Tag": {
+        "Position": 52259,
+        "Value": {
+          "String": "NPC.Status.Frustration"
+        }
+      },
+      "DevComment": {
+        "Position": 52292,
+        "Value": "Used to indicate that a failure has overflowed into frustration.  Used to trigger Smaher radial ground pound after X melee failures.  If we need it to be more specific, it can add Ability hierarchy afterward."
+      }
+    },
+    "333": {
+      "Tag": {
+        "Position": 52546,
+        "Value": {
+          "String": "NPC.Status.HasStunnedTarget"
+        }
+      },
+      "DevComment": {
+        "Position": 52579,
+        "Value": "Taker has stunned target that is now vulnerable for the Soul Suck attack."
+      }
+    },
+    "334": {
+      "Tag": {
+        "Position": 52698,
+        "Value": {
+          "String": "NPC.Status.LockedInPlace"
+        }
+      },
+      "DevComment": {
+        "Position": 52731,
+        "Value": "The NPC is locked in place and should not move."
+      }
+    },
+    "335": {
+      "Tag": {
+        "Position": 52824,
+        "Value": {
+          "String": "NPC.Status.MarkedForDeath"
+        }
+      },
+      "DevComment": {
+        "Position": 52857,
+        "Value": "Player marked for death by Taker"
+      }
+    },
+    "336": {
+      "Tag": {
+        "Position": 52935,
+        "Value": {
+          "String": "NPC.Status.NoShielders"
+        }
+      },
+      "DevComment": {
+        "Position": 52968,
+        "Value": "Cannot be chosen to be shielded by a Shielder"
+      }
+    },
+    "337": {
+      "Tag": {
+        "Position": 53059,
+        "Value": {
+          "String": "NPC.Status.ReachedChargingSpeed"
+        }
+      },
+      "DevComment": {
+        "Position": 53092,
+        "Value": "Applied to the Smasher when he reaches full charge speed."
+      }
+    },
+    "338": {
+      "Tag": {
+        "Position": 53195,
+        "Value": {
+          "String": "NPC.Status.Wearing.Beehive"
+        }
+      },
+      "DevComment": {
+        "Position": 53228,
+        "Value": "We've discussed a number of future possibilities for AI \"wearing\" various things: Armor, Catcher's Mask, Trash-Can, etc.  If we never fill them in, fine, but at least the example is established."
+      }
+    },
+    "339": {
+      "Tag": {
+        "Position": 53468,
+        "Value": {
+          "String": "NPC.Status.Wearing.Shielder"
+        }
+      },
+      "DevComment": {
+        "Position": 53501,
+        "Value": "There is a Shielder attached to this enemy."
+      }
+    },
+    "340": {
+      "Tag": {
+        "Position": 53590,
+        "Value": {
+          "String": "NPC.Status.AttachedTo.Shield"
+        }
+      },
+      "DevComment": {
+        "Position": 53623,
+        "Value": "NPC is attached to the Bullrush shield"
+      }
+    },
+    "341": {
+      "Tag": {
+        "Position": 53707,
+        "Value": {
+          "String": "NPC.Status.DetachFrom.Shield"
+        }
+      },
+      "DevComment": {
+        "Position": 53740,
+        "Value": "NPC is detaching from Bullrush shield"
+      }
+    },
+    "342": {
+      "Tag": {
+        "Position": 53823,
+        "Value": {
+          "String": "NPC.Status.Enraged"
+        }
+      },
+      "DevComment": {
+        "Position": 53856,
+        "Value": "NPC that has the enraged GE applied to it"
+      }
+    },
+    "343": {
+      "Tag": {
+        "Position": 53943,
+        "Value": {
+          "String": "NPC.Status.ShowSpecialHealthBar"
+        }
+      },
+      "DevComment": {
+        "Position": 53976,
+        "Value": "Show a special scripted health bar for this NPC"
+      }
+    },
+    "344": {
+      "Tag": {
+        "Position": 54069,
+        "Value": {
+          "String": "NPC.Status.Sleeping"
+        }
+      },
+      "DevComment": {
+        "Position": 54102,
+        "Value": "NPC is asleep."
+      }
+    },
+    "345": {
+      "Tag": {
+        "Position": 54162,
+        "Value": {
+          "String": "NPC.Status.SpeedBufff"
+        }
+      },
+      "DevComment": {
+        "Position": 54195,
+        "Value": "NPC that has the Quickened GE applied to it"
+      }
+    },
+    "346": {
+      "Tag": {
+        "Position": 54284,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.Ranged.Volcanic"
+        }
+      },
+      "DevComment": {
+        "Position": 54317,
+        "Value": "Volcanic cooldown placed on player target."
+      }
+    },
+    "347": {
+      "Tag": {
+        "Position": 54405,
+        "Value": {
+          "String": "NPC.Status.AOE.FirePools"
+        }
+      },
+      "DevComment": {
+        "Position": 54438,
+        "Value": "Pawn is in the Fire Pool"
+      }
+    },
+    "348": {
+      "Tag": {
+        "Position": 54508,
+        "Value": {
+          "String": "NPC.Ability.Attack.AOE.FirePools"
+        }
+      },
+      "DevComment": {
+        "Position": 54541,
+        "Value": "AOE pool ability"
+      }
+    },
+    "349": {
+      "Tag": {
+        "Position": 54603,
+        "Value": {
+          "String": "NPC.Cooldown.Ability.Attack.FirePools"
+        }
+      },
+      "DevComment": {
+        "Position": 54636,
+        "Value": "1, 2, Fire! cooldown placed on player target."
+      }
+    },
+    "350": {
+      "Tag": {
+        "Position": 54727,
+        "Value": {
+          "String": "NPC.Behavior.Disables.Ability.Attack.AoE.FirePools"
+        }
+      },
+      "DevComment": {
+        "Position": 54760,
+        "Value": "Disable Fire Pools when this tag is applied to the enemy with the ability. Applied when standing in his own AoE cloud so he won't drop a new one."
+      }
+    },
+    "351": {
+      "Tag": {
+        "Position": 54951,
+        "Value": {
+          "String": "NPC.Status.AOE.FirePoolsReEntryBuffer"
+        }
+      },
+      "DevComment": {
+        "Position": 54984,
+        "Value": "Stops enemy pawns from taking too many ticks of damage."
+      }
+    },
+    "352": {
+      "Tag": {
+        "Position": 55085,
+        "Value": {
+          "String": "NPC.Status.Test.Test"
+        }
+      },
+      "DevComment": {
+        "Position": 55118,
+        "Value": "Test"
+      }
+    },
+    "353": {
+      "Tag": {
+        "Position": 55168,
+        "Value": {
+          "String": "NPC.Miniboss.Cooldown.Modifier.DamagePulse"
+        }
+      },
+      "DevComment": {
+        "Position": 55201,
+        "Value": "Used as an asset tag for the Damage Pulse miniboss modifier."
+      }
+    },
+    "354": {
+      "Tag": {
+        "Position": 55307,
+        "Value": {
+          "String": "NPC.Miniboss.OnCooldown.Modifier.DamagePulse"
+        }
+      },
+      "DevComment": {
+        "Position": 55340,
+        "Value": "Used as the granted on cooldown tag for the Damage Pulse miniboss modifier."
+      }
+    },
+    "355": {
+      "Tag": {
+        "Position": 55461,
+        "Value": {
+          "String": "NPC.Miniboss.Cooldown.Modifier.Volcanic"
+        }
+      },
+      "DevComment": {
+        "Position": 55494,
+        "Value": "Used as an asset tag for the Volcanic miniboss modifier."
+      }
+    },
+    "356": {
+      "Tag": {
+        "Position": 55596,
+        "Value": {
+          "String": "NPC.Miniboss.OnCooldown.Modifier.Volcanic"
+        }
+      },
+      "DevComment": {
+        "Position": 55629,
+        "Value": "Used as the granted on cooldown tag for the Volcanic miniboss modifier."
+      }
+    },
+    "357": {
+      "Tag": {
+        "Position": 55746,
+        "Value": {
+          "String": "NPC.Miniboss.Cooldown.Modifier.Vampiric"
+        }
+      },
+      "DevComment": {
+        "Position": 55779,
+        "Value": "Used as an asset tag for the Vampiric miniboss modifier."
+      }
+    },
+    "358": {
+      "Tag": {
+        "Position": 55881,
+        "Value": {
+          "String": "NPC.Miniboss.OnCooldown.Modifier.Vampiric"
+        }
+      },
+      "DevComment": {
+        "Position": 55914,
+        "Value": "Used as the granted on cooldown tag for the Vampiric miniboss modifier."
+      }
+    },
+    "359": {
+      "Tag": {
+        "Position": 56031,
+        "Value": {
+          "String": "NPC.Miniboss.Cooldown.Modifier.HealPulse"
+        }
+      },
+      "DevComment": {
+        "Position": 56064,
+        "Value": "Used as an asset tag for the Heal Pulse miniboss modifier."
+      }
+    },
+    "360": {
+      "Tag": {
+        "Position": 56168,
+        "Value": {
+          "String": "NPC.Miniboss.OnCooldown.Modifier.HealPulse"
+        }
+      },
+      "DevComment": {
+        "Position": 56201,
+        "Value": "Used as the granted on cooldown tag for the Heal Pulse miniboss modifier."
+      }
+    },
+    "361": {
+      "Tag": {
+        "Position": 56320,
+        "Value": {
+          "String": "NPC.Miniboss.Cooldown.Modifier.AcidPools"
+        }
+      },
+      "DevComment": {
+        "Position": 56353,
+        "Value": "Used as an asset tag for the Acid Pools miniboss modifier."
+      }
+    },
+    "362": {
+      "Tag": {
+        "Position": 56457,
+        "Value": {
+          "String": "NPC.Miniboss.OnCooldown.Modifier.AcidPools"
+        }
+      },
+      "DevComment": {
+        "Position": 56490,
+        "Value": "Used as the granted on cooldown tag for the Acid Pools miniboss modifier."
+      }
+    },
+    "363": {
+      "Tag": {
+        "Position": 56609,
+        "Value": {
+          "String": "NPC.Mist.Small"
+        }
+      },
+      "DevComment": {
+        "Position": 56642,
+        "Value": "Mist monsters with low quest contribution"
+      }
+    },
+    "364": {
+      "Tag": {
+        "Position": 56729,
+        "Value": {
+          "String": "NPC.Mist.Large"
+        }
+      },
+      "DevComment": {
+        "Position": 56762,
+        "Value": "Mist monsters with high quest contribution"
+      }
+    },
+    "365": {
+      "Tag": {
+        "Position": 56850,
+        "Value": {
+          "String": "NPC.CharacterType.Fiend.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 56883,
+        "Value": null
+      }
+    },
+    "366": {
+      "Tag": {
+        "Position": 56928,
+        "Value": {
+          "String": "NPC.CharacterType.Fiend.Major"
+        }
+      },
+      "DevComment": {
+        "Position": 56961,
+        "Value": null
+      }
+    },
+    "367": {
+      "Tag": {
+        "Position": 57006,
+        "Value": {
+          "String": "NPC.CharacterType.Brute.Basic"
+        }
+      },
+      "DevComment": {
+        "Position": 57039,
+        "Value": null
+      }
+    },
+    "368": {
+      "Tag": {
+        "Position": 57084,
+        "Value": {
+          "String": "NPC.CharacterType.Brute.Major"
+        }
+      },
+      "DevComment": {
+        "Position": 57117,
+        "Value": null
+      }
+    },
+    "369": {
+      "Tag": {
+        "Position": 57162,
+        "Value": {
+          "String": "NPC.CharacterType.Brute.Mega"
+        }
+      },
+      "DevComment": {
+        "Position": 57195,
+        "Value": null
+      }
+    },
+    "370": {
+      "Tag": {
+        "Position": 57240,
+        "Value": {
+          "String": "NPC.Status.ProtectedByPylonShield"
+        }
+      },
+      "DevComment": {
+        "Position": 57273,
+        "Value": null
+      }
+    }
+  }
+]

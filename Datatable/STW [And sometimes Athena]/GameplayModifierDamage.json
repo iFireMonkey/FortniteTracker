@@ -1,0 +1,5700 @@
+[
+  {
+    "DummyEntry": {
+      "BaseLevel": {
+        "Position": 78,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 107,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 140,
+        "Value": 28.0
+      },
+      "DmgMid": {
+        "Position": 169,
+        "Value": 28.0
+      },
+      "DmgLong": {
+        "Position": 198,
+        "Value": 28.0
+      },
+      "DmgMaxRange": {
+        "Position": 227,
+        "Value": 28.0
+      },
+      "EnvDmgPB": {
+        "Position": 256,
+        "Value": 3.0
+      },
+      "EnvDmgMid": {
+        "Position": 285,
+        "Value": 3.0
+      },
+      "EnvDmgLong": {
+        "Position": 314,
+        "Value": 3.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 343,
+        "Value": 3.0
+      },
+      "ImpactDmgPB": {
+        "Position": 372,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 401,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 430,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 459,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 487,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 514,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 543,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 572,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 601,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 630,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 659,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 692,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 721,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 750,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 783,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 812,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 841,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 874,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 903,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 936,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 965,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 994,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 1023,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 1052,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 1081,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 1110,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 1139,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 1168,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 1197,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 1226,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 1255,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 1288,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 1317,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 1346,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 1375,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 1404,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 1433,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 1462,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 1499,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 1531,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 1557,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 1584,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 1613,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 1642,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 1671,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 1700,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 1729,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 1758,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 1787,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 1816,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 1845,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 1873,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 1900,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 1929,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 1958,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 1987,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 2016,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 2045,
+        "Value": 0.0
+      }
+    },
+    "BGA_GM_EffectPool_DOT": {
+      "BaseLevel": {
+        "Position": 2090,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 2119,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 2152,
+        "Value": 21.0
+      },
+      "DmgMid": {
+        "Position": 2181,
+        "Value": 21.0
+      },
+      "DmgLong": {
+        "Position": 2210,
+        "Value": 21.0
+      },
+      "DmgMaxRange": {
+        "Position": 2239,
+        "Value": 21.0
+      },
+      "EnvDmgPB": {
+        "Position": 2268,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 2297,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 2326,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 2355,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 2384,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 2413,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 2442,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 2471,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 2499,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 2526,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 2555,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 2584,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 2613,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 2642,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 2671,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 2704,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 2733,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 2762,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 2795,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 2824,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 2853,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 2886,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 2915,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 2948,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 2977,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 3006,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 3035,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 3064,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 3093,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 3122,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 3151,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 3180,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 3209,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 3238,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 3267,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 3300,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 3329,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 3358,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 3387,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 3416,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 3445,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 3474,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 3511,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 3543,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 3569,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 3596,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 3625,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 3654,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 3683,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 3712,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 3741,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 3770,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 3799,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 3828,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 3857,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 3885,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 3912,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 3941,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 3970,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 3999,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 4028,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 4057,
+        "Value": 0.0
+      }
+    },
+    "GA_GM_OnDmgDealt_DOT": {
+      "BaseLevel": {
+        "Position": 4102,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 4131,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 4164,
+        "Value": 14.0
+      },
+      "DmgMid": {
+        "Position": 4193,
+        "Value": 14.0
+      },
+      "DmgLong": {
+        "Position": 4222,
+        "Value": 14.0
+      },
+      "DmgMaxRange": {
+        "Position": 4251,
+        "Value": 14.0
+      },
+      "EnvDmgPB": {
+        "Position": 4280,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 4309,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 4338,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 4367,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 4396,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 4425,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 4454,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 4483,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 4511,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 4538,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 4567,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 4596,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 4625,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 4654,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 4683,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 4716,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 4745,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 4774,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 4807,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 4836,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 4865,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 4898,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 4927,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 4960,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 4989,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 5018,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 5047,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 5076,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 5105,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 5134,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 5163,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 5192,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 5221,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 5250,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 5279,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 5312,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 5341,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 5370,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 5399,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 5428,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 5457,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 5486,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 5523,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 5555,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 5581,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 5608,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 5637,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 5666,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 5695,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 5724,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 5753,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 5782,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 5811,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 5840,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 5869,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 5897,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 5924,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 5953,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 5982,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 6011,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 6040,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 6069,
+        "Value": 0.0
+      }
+    },
+    "GE_GM_Knockback": {
+      "BaseLevel": {
+        "Position": 6114,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 6143,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 6176,
+        "Value": 1.0
+      },
+      "DmgMid": {
+        "Position": 6205,
+        "Value": 1.0
+      },
+      "DmgLong": {
+        "Position": 6234,
+        "Value": 1.0
+      },
+      "DmgMaxRange": {
+        "Position": 6263,
+        "Value": 1.0
+      },
+      "EnvDmgPB": {
+        "Position": 6292,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 6321,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 6350,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 6379,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 6408,
+        "Value": 800.0
+      },
+      "ImpactDmgMid": {
+        "Position": 6437,
+        "Value": 800.0
+      },
+      "ImpactDmgLong": {
+        "Position": 6466,
+        "Value": 800.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 6495,
+        "Value": 800.0
+      },
+      "bForceControl": {
+        "Position": 6523,
+        "Value": true
+      },
+      "RngPB": {
+        "Position": 6550,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 6579,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 6608,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 6637,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 6666,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 6695,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 6728,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 6757,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 6786,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 6819,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 6848,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 6877,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 6910,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 6939,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 6972,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 7001,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 7030,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 7059,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 7088,
+        "Value": 500.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 7117,
+        "Value": 500.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 7146,
+        "Value": 500.0
+      },
+      "KnockbackZAngle": {
+        "Position": 7175,
+        "Value": 45.0
+      },
+      "StunTime": {
+        "Position": 7204,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 7233,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 7262,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 7291,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 7324,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 7353,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 7382,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 7411,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 7440,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 7469,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 7498,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 7535,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 7567,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 7593,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 7620,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 7649,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 7678,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 7707,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 7736,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 7765,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 7794,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 7823,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 7852,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 7881,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 7909,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 7936,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 7965,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 7994,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 8023,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 8052,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 8081,
+        "Value": 0.0
+      }
+    },
+    "GE_GM_RepairDamage": {
+      "BaseLevel": {
+        "Position": 8126,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 8155,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 8188,
+        "Value": 55.0
+      },
+      "DmgMid": {
+        "Position": 8217,
+        "Value": 55.0
+      },
+      "DmgLong": {
+        "Position": 8246,
+        "Value": 55.0
+      },
+      "DmgMaxRange": {
+        "Position": 8275,
+        "Value": 55.0
+      },
+      "EnvDmgPB": {
+        "Position": 8304,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 8333,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 8362,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 8391,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 8420,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 8449,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 8478,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 8507,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 8535,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 8562,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 8591,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 8620,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 8649,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 8678,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 8707,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 8740,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 8769,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 8798,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 8831,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 8860,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 8889,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 8922,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 8951,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 8984,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 9013,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 9042,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 9071,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 9100,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 9129,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 9158,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 9187,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 9216,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 9245,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 9274,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 9303,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 9336,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 9365,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 9394,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 9423,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 9452,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 9481,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 9510,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 9547,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 9579,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 9605,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 9632,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 9661,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 9690,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 9719,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 9748,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 9777,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 9806,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 9835,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 9864,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 9893,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 9921,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 9948,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 9977,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 10006,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 10035,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 10064,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 10093,
+        "Value": 0.0
+      }
+    },
+    "GE_Enemy_ThornsDamage": {
+      "BaseLevel": {
+        "Position": 10138,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 10167,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 10200,
+        "Value": 28.0
+      },
+      "DmgMid": {
+        "Position": 10229,
+        "Value": 28.0
+      },
+      "DmgLong": {
+        "Position": 10258,
+        "Value": 28.0
+      },
+      "DmgMaxRange": {
+        "Position": 10287,
+        "Value": 28.0
+      },
+      "EnvDmgPB": {
+        "Position": 10316,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 10345,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 10374,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 10403,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 10432,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 10461,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 10490,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 10519,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 10547,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 10574,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 10603,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 10632,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 10661,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 10690,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 10719,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 10752,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 10781,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 10810,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 10843,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 10872,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 10901,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 10934,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 10963,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 10996,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 11025,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 11054,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 11083,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 11112,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 11141,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 11170,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 11199,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 11228,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 11257,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 11286,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 11315,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 11348,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 11377,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 11406,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 11435,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 11464,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 11493,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 11522,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 11559,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 11591,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 11617,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 11644,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 11673,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 11702,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 11731,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 11760,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 11789,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 11818,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 11847,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 11876,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 11905,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 11933,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 11960,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 11989,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 12018,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 12047,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 12076,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 12105,
+        "Value": 0.0
+      }
+    },
+    "GE_Death_AOE": {
+      "BaseLevel": {
+        "Position": 12150,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 12179,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 12212,
+        "Value": 173.0
+      },
+      "DmgMid": {
+        "Position": 12241,
+        "Value": 173.0
+      },
+      "DmgLong": {
+        "Position": 12270,
+        "Value": 173.0
+      },
+      "DmgMaxRange": {
+        "Position": 12299,
+        "Value": 173.0
+      },
+      "EnvDmgPB": {
+        "Position": 12328,
+        "Value": 43.0
+      },
+      "EnvDmgMid": {
+        "Position": 12357,
+        "Value": 43.0
+      },
+      "EnvDmgLong": {
+        "Position": 12386,
+        "Value": 43.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 12415,
+        "Value": 43.0
+      },
+      "ImpactDmgPB": {
+        "Position": 12444,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 12473,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 12502,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 12531,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 12559,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 12586,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 12615,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 12644,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 12673,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 12702,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 12731,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 12764,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 12793,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 12822,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 12855,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 12884,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 12913,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 12946,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 12975,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 13008,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 13037,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 13066,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 13095,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 13124,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 13153,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 13182,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 13211,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 13240,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 13269,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 13298,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 13327,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 13360,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 13389,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 13418,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 13447,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 13476,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 13505,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 13534,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 13571,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 13603,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 13629,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 13656,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 13685,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 13714,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 13743,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 13772,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 13801,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 13830,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 13859,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 13888,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 13917,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 13945,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 13972,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 14001,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 14030,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 14059,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 14088,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 14117,
+        "Value": 0.0
+      }
+    },
+    "GE_Pulse_Damage": {
+      "BaseLevel": {
+        "Position": 14162,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 14191,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 14224,
+        "Value": 34.0
+      },
+      "DmgMid": {
+        "Position": 14253,
+        "Value": 34.0
+      },
+      "DmgLong": {
+        "Position": 14282,
+        "Value": 34.0
+      },
+      "DmgMaxRange": {
+        "Position": 14311,
+        "Value": 34.0
+      },
+      "EnvDmgPB": {
+        "Position": 14340,
+        "Value": 30.0
+      },
+      "EnvDmgMid": {
+        "Position": 14369,
+        "Value": 30.0
+      },
+      "EnvDmgLong": {
+        "Position": 14398,
+        "Value": 30.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 14427,
+        "Value": 30.0
+      },
+      "ImpactDmgPB": {
+        "Position": 14456,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 14485,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 14514,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 14543,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 14571,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 14598,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 14627,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 14656,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 14685,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 14714,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 14743,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 14776,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 14805,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 14834,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 14867,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 14896,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 14925,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 14958,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 14987,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 15020,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 15049,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 15078,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 15107,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 15136,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 15165,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 15194,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 15223,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 15252,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 15281,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 15310,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 15339,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 15372,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 15401,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 15430,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 15459,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 15488,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 15517,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 15546,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 15583,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 15615,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 15641,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 15668,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 15697,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 15726,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 15755,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 15784,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 15813,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 15842,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 15871,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 15900,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 15929,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 15957,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 15984,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 16013,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 16042,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 16071,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 16100,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 16129,
+        "Value": 0.0
+      }
+    },
+    "GE_Player_ThornsDamage": {
+      "BaseLevel": {
+        "Position": 16174,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 16203,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 16236,
+        "Value": 28.0
+      },
+      "DmgMid": {
+        "Position": 16265,
+        "Value": 28.0
+      },
+      "DmgLong": {
+        "Position": 16294,
+        "Value": 28.0
+      },
+      "DmgMaxRange": {
+        "Position": 16323,
+        "Value": 28.0
+      },
+      "EnvDmgPB": {
+        "Position": 16352,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 16381,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 16410,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 16439,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 16468,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 16497,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 16526,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 16555,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 16583,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 16610,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 16639,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 16668,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 16697,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 16726,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 16755,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 16788,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 16817,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 16846,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 16879,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 16908,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 16937,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 16970,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 16999,
+        "Value": {
+          "String": "All"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 17032,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 17061,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 17090,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 17119,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 17148,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 17177,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 17206,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 17235,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 17264,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 17293,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 17322,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 17351,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 17384,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 17413,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 17442,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 17471,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 17500,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 17529,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 17558,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 17595,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 17627,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 17653,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 17680,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 17709,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 17738,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 17767,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 17796,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 17825,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 17854,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 17883,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 17912,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 17941,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 17969,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 17996,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 18025,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 18054,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 18083,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 18112,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 18141,
+        "Value": 0.0
+      }
+    },
+    "BGA_GM_EffectPool_Bldg_DOT": {
+      "BaseLevel": {
+        "Position": 18186,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 18215,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 18248,
+        "Value": 0.0
+      },
+      "DmgMid": {
+        "Position": 18277,
+        "Value": 0.0
+      },
+      "DmgLong": {
+        "Position": 18306,
+        "Value": 0.0
+      },
+      "DmgMaxRange": {
+        "Position": 18335,
+        "Value": 0.0
+      },
+      "EnvDmgPB": {
+        "Position": 18364,
+        "Value": 6.0
+      },
+      "EnvDmgMid": {
+        "Position": 18393,
+        "Value": 6.0
+      },
+      "EnvDmgLong": {
+        "Position": 18422,
+        "Value": 6.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 18451,
+        "Value": 6.0
+      },
+      "ImpactDmgPB": {
+        "Position": 18480,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 18509,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 18538,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 18567,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 18595,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 18622,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 18651,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 18680,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 18709,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 18738,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 18767,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 18800,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 18829,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 18858,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 18891,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 18920,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 18949,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 18982,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 19011,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 19044,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 19073,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 19102,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 19131,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 19160,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 19189,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 19218,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 19247,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 19276,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 19305,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 19334,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 19363,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 19396,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 19425,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 19454,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 19483,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 19512,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 19541,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 19570,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 19607,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 19639,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 19665,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 19692,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 19721,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 19750,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 19779,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 19808,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 19837,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 19866,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 19895,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 19924,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 19953,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 19981,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 20008,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 20037,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 20066,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 20095,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 20124,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 20153,
+        "Value": 0.0
+      }
+    },
+    "GE_GM_ShieldExplodeDamage": {
+      "BaseLevel": {
+        "Position": 20198,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 20227,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 20260,
+        "Value": 40.0
+      },
+      "DmgMid": {
+        "Position": 20289,
+        "Value": 40.0
+      },
+      "DmgLong": {
+        "Position": 20318,
+        "Value": 40.0
+      },
+      "DmgMaxRange": {
+        "Position": 20347,
+        "Value": 40.0
+      },
+      "EnvDmgPB": {
+        "Position": 20376,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 20405,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 20434,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 20463,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 20492,
+        "Value": 750.0
+      },
+      "ImpactDmgMid": {
+        "Position": 20521,
+        "Value": 750.0
+      },
+      "ImpactDmgLong": {
+        "Position": 20550,
+        "Value": 750.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 20579,
+        "Value": 750.0
+      },
+      "bForceControl": {
+        "Position": 20607,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 20634,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 20663,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 20692,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 20721,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 20750,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 20779,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 20812,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 20841,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 20870,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 20903,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 20932,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 20961,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 20994,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 21023,
+        "Value": {
+          "String": "All"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 21056,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 21085,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 21114,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 21143,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 21172,
+        "Value": 600.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 21201,
+        "Value": 600.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 21230,
+        "Value": 600.0
+      },
+      "KnockbackZAngle": {
+        "Position": 21259,
+        "Value": 45.0
+      },
+      "StunTime": {
+        "Position": 21288,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 21317,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 21346,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 21375,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 21408,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 21437,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 21466,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 21495,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 21524,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 21553,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 21582,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 21619,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 21651,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 21677,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 21704,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 21733,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 21762,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 21791,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 21820,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 21849,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 21878,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 21907,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 21936,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 21965,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 21993,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 22020,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 22049,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 22078,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 22107,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 22136,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 22165,
+        "Value": 0.0
+      }
+    },
+    "GE_GM_Corrosion_Bldg_DOT": {
+      "BaseLevel": {
+        "Position": 22210,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 22239,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 22272,
+        "Value": 0.0
+      },
+      "DmgMid": {
+        "Position": 22301,
+        "Value": 0.0
+      },
+      "DmgLong": {
+        "Position": 22330,
+        "Value": 0.0
+      },
+      "DmgMaxRange": {
+        "Position": 22359,
+        "Value": 0.0
+      },
+      "EnvDmgPB": {
+        "Position": 22388,
+        "Value": 54.0
+      },
+      "EnvDmgMid": {
+        "Position": 22417,
+        "Value": 54.0
+      },
+      "EnvDmgLong": {
+        "Position": 22446,
+        "Value": 54.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 22475,
+        "Value": 54.0
+      },
+      "ImpactDmgPB": {
+        "Position": 22504,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 22533,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 22562,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 22591,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 22619,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 22646,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 22675,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 22704,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 22733,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 22762,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 22791,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 22824,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 22853,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 22882,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 22915,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 22944,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 22973,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 23006,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 23035,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 23068,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 23097,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 23126,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 23155,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 23184,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 23213,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 23242,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 23271,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 23300,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 23329,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 23358,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 23387,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 23420,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 23449,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 23478,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 23507,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 23536,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 23565,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 23594,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 23631,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 23663,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 23689,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 23716,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 23745,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 23774,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 23803,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 23832,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 23861,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 23890,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 23919,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 23948,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 23977,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 24005,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 24032,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 24061,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 24090,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 24119,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 24148,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 24177,
+        "Value": 0.0
+      }
+    },
+    "GE_Enemy_RicochetDamage": {
+      "BaseLevel": {
+        "Position": 24222,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 24251,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 24284,
+        "Value": 55.0
+      },
+      "DmgMid": {
+        "Position": 24313,
+        "Value": 55.0
+      },
+      "DmgLong": {
+        "Position": 24342,
+        "Value": 55.0
+      },
+      "DmgMaxRange": {
+        "Position": 24371,
+        "Value": 55.0
+      },
+      "EnvDmgPB": {
+        "Position": 24400,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 24429,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 24458,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 24487,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 24516,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 24545,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 24574,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 24603,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 24631,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 24658,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 24687,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 24716,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 24745,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 24774,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 24803,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 24836,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 24865,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 24894,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 24927,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 24956,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 24985,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 25018,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 25047,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 25080,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 25109,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 25138,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 25167,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 25196,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 25225,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 25254,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 25283,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 25312,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 25341,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 25370,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 25399,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 25432,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 25461,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 25490,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 25519,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 25548,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 25577,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 25606,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 25643,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 25675,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 25701,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 25728,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 25757,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 25786,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 25815,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 25844,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 25873,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 25902,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 25931,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 25960,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 25989,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 26017,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 26044,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 26073,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 26102,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 26131,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 26160,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 26189,
+        "Value": 0.0
+      }
+    },
+    "GE_GM_MantisLeapOnLand_AoEDamage": {
+      "BaseLevel": {
+        "Position": 26234,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 26263,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 26296,
+        "Value": 22.0
+      },
+      "DmgMid": {
+        "Position": 26325,
+        "Value": 22.0
+      },
+      "DmgLong": {
+        "Position": 26354,
+        "Value": 22.0
+      },
+      "DmgMaxRange": {
+        "Position": 26383,
+        "Value": 22.0
+      },
+      "EnvDmgPB": {
+        "Position": 26412,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 26441,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 26470,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 26499,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 26528,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 26557,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 26586,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 26615,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 26643,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 26670,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 26699,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 26728,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 26757,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 26786,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 26815,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 26848,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 26877,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 26906,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 26939,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 26968,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 26997,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 27030,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 27059,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 27092,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 27121,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 27150,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 27179,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 27208,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 27237,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 27266,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 27295,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 27324,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 27353,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 27382,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 27411,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 27444,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 27473,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 27502,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 27531,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 27560,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 27589,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 27618,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 27655,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 27687,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 27713,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 27740,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 27769,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 27798,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 27827,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 27856,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 27885,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 27914,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 27943,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 27972,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 28001,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 28029,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 28056,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 28085,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 28114,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 28143,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 28172,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 28201,
+        "Value": 0.0
+      }
+    },
+    "GE_UG_Knockback": {
+      "BaseLevel": {
+        "Position": 28246,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 28275,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 28308,
+        "Value": 1.0
+      },
+      "DmgMid": {
+        "Position": 28337,
+        "Value": 1.0
+      },
+      "DmgLong": {
+        "Position": 28366,
+        "Value": 1.0
+      },
+      "DmgMaxRange": {
+        "Position": 28395,
+        "Value": 1.0
+      },
+      "EnvDmgPB": {
+        "Position": 28424,
+        "Value": 0.0
+      },
+      "EnvDmgMid": {
+        "Position": 28453,
+        "Value": 0.0
+      },
+      "EnvDmgLong": {
+        "Position": 28482,
+        "Value": 0.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 28511,
+        "Value": 0.0
+      },
+      "ImpactDmgPB": {
+        "Position": 28540,
+        "Value": 800.0
+      },
+      "ImpactDmgMid": {
+        "Position": 28569,
+        "Value": 800.0
+      },
+      "ImpactDmgLong": {
+        "Position": 28598,
+        "Value": 800.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 28627,
+        "Value": 800.0
+      },
+      "bForceControl": {
+        "Position": 28655,
+        "Value": true
+      },
+      "RngPB": {
+        "Position": 28682,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 28711,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 28740,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 28769,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 28798,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 28827,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 28860,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 28889,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 28918,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 28951,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 28980,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 29009,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 29042,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 29071,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 29104,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 29133,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 29162,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 29191,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 29220,
+        "Value": 1200.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 29249,
+        "Value": 1200.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 29278,
+        "Value": 1200.0
+      },
+      "KnockbackZAngle": {
+        "Position": 29307,
+        "Value": 45.0
+      },
+      "StunTime": {
+        "Position": 29336,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 29365,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 29394,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 29423,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 29456,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 29485,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 29514,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 29543,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 29572,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 29601,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 29630,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 29667,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 29699,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 29725,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 29752,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 29781,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 29810,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 29839,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 29868,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 29897,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 29926,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 29955,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 29984,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 30013,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 30041,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 30068,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 30097,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 30126,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 30155,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 30184,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 30213,
+        "Value": 0.0
+      }
+    },
+    "GE_UG_Pulse_Heal": {
+      "BaseLevel": {
+        "Position": 30258,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 30287,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 30320,
+        "Value": 25.0
+      },
+      "DmgMid": {
+        "Position": 30349,
+        "Value": 25.0
+      },
+      "DmgLong": {
+        "Position": 30378,
+        "Value": 25.0
+      },
+      "DmgMaxRange": {
+        "Position": 30407,
+        "Value": 25.0
+      },
+      "EnvDmgPB": {
+        "Position": 30436,
+        "Value": 5.0
+      },
+      "EnvDmgMid": {
+        "Position": 30465,
+        "Value": 5.0
+      },
+      "EnvDmgLong": {
+        "Position": 30494,
+        "Value": 5.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 30523,
+        "Value": 5.0
+      },
+      "ImpactDmgPB": {
+        "Position": 30552,
+        "Value": 800.0
+      },
+      "ImpactDmgMid": {
+        "Position": 30581,
+        "Value": 800.0
+      },
+      "ImpactDmgLong": {
+        "Position": 30610,
+        "Value": 800.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 30639,
+        "Value": 800.0
+      },
+      "bForceControl": {
+        "Position": 30667,
+        "Value": true
+      },
+      "RngPB": {
+        "Position": 30694,
+        "Value": 10.0
+      },
+      "RngMid": {
+        "Position": 30723,
+        "Value": 10.0
+      },
+      "RngLong": {
+        "Position": 30752,
+        "Value": 10.0
+      },
+      "RngMax": {
+        "Position": 30781,
+        "Value": 10.0
+      },
+      "DmgScaleTable": {
+        "Position": 30810,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 30839,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 30872,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 30901,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 30930,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 30963,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 30992,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 31021,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 31054,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 31083,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 31116,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 31145,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 31174,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 31203,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 31232,
+        "Value": 1200.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 31261,
+        "Value": 1200.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 31290,
+        "Value": 1200.0
+      },
+      "KnockbackZAngle": {
+        "Position": 31319,
+        "Value": 45.0
+      },
+      "StunTime": {
+        "Position": 31348,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 31377,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 31406,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 31435,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 31468,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 31497,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 31526,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 31555,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 31584,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 31613,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 31642,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 31679,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 31711,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 31737,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 31764,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 31793,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 31822,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 31851,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 31880,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 31909,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 31938,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 31967,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 31996,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 32025,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 32053,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 32080,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 32109,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 32138,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 32167,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 32196,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 32225,
+        "Value": 0.0
+      }
+    },
+    "GE_Volcanic_AOE": {
+      "BaseLevel": {
+        "Position": 32270,
+        "Value": 0
+      },
+      "NamedWeightRow": {
+        "Position": 32299,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 32332,
+        "Value": 400.0
+      },
+      "DmgMid": {
+        "Position": 32361,
+        "Value": 60.0
+      },
+      "DmgLong": {
+        "Position": 32390,
+        "Value": 60.0
+      },
+      "DmgMaxRange": {
+        "Position": 32419,
+        "Value": 60.0
+      },
+      "EnvDmgPB": {
+        "Position": 32448,
+        "Value": 15.0
+      },
+      "EnvDmgMid": {
+        "Position": 32477,
+        "Value": 2.0
+      },
+      "EnvDmgLong": {
+        "Position": 32506,
+        "Value": 2.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 32535,
+        "Value": 2.0
+      },
+      "ImpactDmgPB": {
+        "Position": 32564,
+        "Value": 0.0
+      },
+      "ImpactDmgMid": {
+        "Position": 32593,
+        "Value": 0.0
+      },
+      "ImpactDmgLong": {
+        "Position": 32622,
+        "Value": 0.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 32651,
+        "Value": 0.0
+      },
+      "bForceControl": {
+        "Position": 32679,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 32706,
+        "Value": 128.0
+      },
+      "RngMid": {
+        "Position": 32735,
+        "Value": 256.0
+      },
+      "RngLong": {
+        "Position": 32764,
+        "Value": 256.0
+      },
+      "RngMax": {
+        "Position": 32793,
+        "Value": 256.0
+      },
+      "DmgScaleTable": {
+        "Position": 32822,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIDamageSourceLevels"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/AIDamageSourceLevels"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 32851,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "DmgScale": {
+        "Position": 32884,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 32913,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "AIEnvironmentDamage"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Balance/DataTables/AIEnvironmentDamage"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 32942,
+        "Value": {
+          "String": "HuskGeneric"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 32975,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 33004,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "EnemyScaling"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Characters/Enemies/DataTables/EnemyScaling"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 33033,
+        "Value": {
+          "String": "ControlResistScale"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 33066,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 33095,
+        "Value": {
+          "String": "EnemyDefault"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 33128,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 33157,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 33186,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 33215,
+        "Value": 5.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 33244,
+        "Value": 0.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 33273,
+        "Value": 0.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 33302,
+        "Value": 0.0
+      },
+      "KnockbackZAngle": {
+        "Position": 33331,
+        "Value": 0.0
+      },
+      "StunTime": {
+        "Position": 33360,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 33389,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 33418,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 33447,
+        "Value": {
+          "String": "Default_Melee"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 33480,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 33509,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 33538,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 33567,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 33596,
+        "Value": 0.5
+      },
+      "ReloadTime": {
+        "Position": 33625,
+        "Value": 0.0
+      },
+      "ReloadScale": {
+        "Position": 33654,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 33691,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 33723,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 33749,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 33776,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 33805,
+        "Value": 0
+      },
+      "ClipScale": {
+        "Position": 33834,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 33863,
+        "Value": 0
+      },
+      "CartridgePerFire": {
+        "Position": 33892,
+        "Value": 0
+      },
+      "AmmoCostPerFire": {
+        "Position": 33921,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 33950,
+        "Value": 0
+      },
+      "MinChargeTime": {
+        "Position": 33979,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 34008,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 34037,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 34065,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 34092,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 34121,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 34150,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 34179,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 34208,
+        "Value": 0.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 34237,
+        "Value": 0.0
+      }
+    }
+  }
+]

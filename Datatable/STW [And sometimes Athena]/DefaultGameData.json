@@ -1,0 +1,1690 @@
+[
+  {
+    "BuildingExcessDamageRewardTimeout": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 193,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 230,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 271,
+        "Value": 61
+      }
+    },
+    "BuildingBaseHealth_Wood": {
+      "InterpMode": {
+        "Position": 328,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 369,
+        "Value": [
+          {
+            "Position": 422,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 200.0
+            }
+          },
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 400.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 463,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 500,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 541,
+        "Value": 61
+      }
+    },
+    "BuildingBaseHealth_Stone": {
+      "InterpMode": {
+        "Position": 598,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 639,
+        "Value": [
+          {
+            "Position": 692,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 300.0
+            }
+          },
+          {
+            "Position": 700,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 600.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 733,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 770,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 811,
+        "Value": 61
+      }
+    },
+    "BuildingBaseHealth_Metal": {
+      "InterpMode": {
+        "Position": 868,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 909,
+        "Value": [
+          {
+            "Position": 962,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400.0
+            }
+          },
+          {
+            "Position": 970,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 800.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1003,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1040,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 1081,
+        "Value": 61
+      }
+    },
+    "BuildingConstructionTime_Wood": {
+      "InterpMode": {
+        "Position": 1138,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 1179,
+        "Value": [
+          {
+            "Position": 1232,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 1240,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 8.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1273,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1310,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 1351,
+        "Value": 61
+      }
+    },
+    "BuildingConstructionTime_Stone": {
+      "InterpMode": {
+        "Position": 1408,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 1449,
+        "Value": [
+          {
+            "Position": 1502,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 12.0
+            }
+          },
+          {
+            "Position": 1510,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 20.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1543,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1580,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 1621,
+        "Value": 61
+      }
+    },
+    "BuildingConstructionTime_Metal": {
+      "InterpMode": {
+        "Position": 1678,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 1719,
+        "Value": [
+          {
+            "Position": 1772,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 1780,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 36.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1813,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1850,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 1891,
+        "Value": 61
+      }
+    },
+    "BuildingCost_Wood": {
+      "InterpMode": {
+        "Position": 1948,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 1989,
+        "Value": [
+          {
+            "Position": 2042,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 2050,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2083,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2120,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 2161,
+        "Value": 61
+      }
+    },
+    "BuildingCost_Stone": {
+      "InterpMode": {
+        "Position": 2218,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 2259,
+        "Value": [
+          {
+            "Position": 2312,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 2320,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2353,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2390,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 2431,
+        "Value": 61
+      }
+    },
+    "BuildingCost_Metal": {
+      "InterpMode": {
+        "Position": 2488,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 2529,
+        "Value": [
+          {
+            "Position": 2582,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 2590,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2623,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2660,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 2701,
+        "Value": 61
+      }
+    },
+    "BuildingDeconCostMult_Wood": {
+      "InterpMode": {
+        "Position": 2758,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 2799,
+        "Value": [
+          {
+            "Position": 2852,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 2860,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2893,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2930,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 2971,
+        "Value": 61
+      }
+    },
+    "BuildingDeconCostMult_Stone": {
+      "InterpMode": {
+        "Position": 3028,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 3069,
+        "Value": [
+          {
+            "Position": 3122,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 3130,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3200,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 3241,
+        "Value": 61
+      }
+    },
+    "BuildingDeconCostMult_Metal": {
+      "InterpMode": {
+        "Position": 3298,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 3339,
+        "Value": [
+          {
+            "Position": 3392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 3400,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3433,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3470,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 3511,
+        "Value": 61
+      }
+    },
+    "PlayerBuildingDeconCostMult_Wood": {
+      "InterpMode": {
+        "Position": 3568,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 3609,
+        "Value": [
+          {
+            "Position": 3662,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3670,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3703,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3740,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 3781,
+        "Value": 61
+      }
+    },
+    "PlayerBuildingDeconCostMult_Stone": {
+      "InterpMode": {
+        "Position": 3838,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 3879,
+        "Value": [
+          {
+            "Position": 3932,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3940,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3973,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4010,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 4051,
+        "Value": 61
+      }
+    },
+    "PlayerBuildingDeconCostMult_Metal": {
+      "InterpMode": {
+        "Position": 4108,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 4149,
+        "Value": [
+          {
+            "Position": 4202,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4210,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4243,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4280,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 4321,
+        "Value": 61
+      }
+    },
+    "BuildingInitialHealthPercent_Wood": {
+      "InterpMode": {
+        "Position": 4378,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 4419,
+        "Value": [
+          {
+            "Position": 4472,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 4480,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.445
+            }
+          },
+          {
+            "Position": 4488,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.645
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4521,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4558,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 4599,
+        "Value": 61
+      }
+    },
+    "BuildingInitialHealthPercent_Stone": {
+      "InterpMode": {
+        "Position": 4656,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 4697,
+        "Value": [
+          {
+            "Position": 4750,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.3
+            }
+          },
+          {
+            "Position": 4758,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.445
+            }
+          },
+          {
+            "Position": 4766,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.645
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4799,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4836,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 4877,
+        "Value": 61
+      }
+    },
+    "BuildingInitialHealthPercent_Metal": {
+      "InterpMode": {
+        "Position": 4934,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 4975,
+        "Value": [
+          {
+            "Position": 5028,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 5036,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.445
+            }
+          },
+          {
+            "Position": 5044,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.645
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5077,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5114,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 5155,
+        "Value": 61
+      }
+    },
+    "BuildingBreakAnimDuration_Wood": {
+      "InterpMode": {
+        "Position": 5212,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 5253,
+        "Value": [
+          {
+            "Position": 5306,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 5314,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5347,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5384,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 5425,
+        "Value": 61
+      }
+    },
+    "BuildingBreakAnimDuration_Stone": {
+      "InterpMode": {
+        "Position": 5482,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 5523,
+        "Value": [
+          {
+            "Position": 5576,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 5584,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5617,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5654,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 5695,
+        "Value": 61
+      }
+    },
+    "BuildingBreakAnimDuration_Metal": {
+      "InterpMode": {
+        "Position": 5752,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 5793,
+        "Value": [
+          {
+            "Position": 5846,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 5854,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5887,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5924,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 5965,
+        "Value": 61
+      }
+    },
+    "BuildingDestroyAnimDuration_Wood": {
+      "InterpMode": {
+        "Position": 6022,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 6063,
+        "Value": [
+          {
+            "Position": 6116,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.5
+            }
+          },
+          {
+            "Position": 6124,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6157,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6194,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 6235,
+        "Value": 61
+      }
+    },
+    "BuildingDestroyAnimDuration_Stone": {
+      "InterpMode": {
+        "Position": 6292,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 6333,
+        "Value": [
+          {
+            "Position": 6386,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.5
+            }
+          },
+          {
+            "Position": 6394,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6427,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6464,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 6505,
+        "Value": 61
+      }
+    },
+    "BuildingDestroyAnimDuration_Metal": {
+      "InterpMode": {
+        "Position": 6562,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 6603,
+        "Value": [
+          {
+            "Position": 6656,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.5
+            }
+          },
+          {
+            "Position": 6664,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 1.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6697,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6734,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 6775,
+        "Value": 61
+      }
+    },
+    "BuildingPlaceAnimDuration_Wood": {
+      "InterpMode": {
+        "Position": 6832,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 6873,
+        "Value": [
+          {
+            "Position": 6926,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.35
+            }
+          },
+          {
+            "Position": 6934,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.35
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6967,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7004,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 7045,
+        "Value": 61
+      }
+    },
+    "BuildingPlaceAnimDuration_Stone": {
+      "InterpMode": {
+        "Position": 7102,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 7143,
+        "Value": [
+          {
+            "Position": 7196,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.35
+            }
+          },
+          {
+            "Position": 7204,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.35
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7237,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7274,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 7315,
+        "Value": 61
+      }
+    },
+    "BuildingPlaceAnimDuration_Metal": {
+      "InterpMode": {
+        "Position": 7372,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 7413,
+        "Value": [
+          {
+            "Position": 7466,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.35
+            }
+          },
+          {
+            "Position": 7474,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.35
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7507,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7544,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 7585,
+        "Value": 61
+      }
+    },
+    "BuildingCritDamagePct_Wood": {
+      "InterpMode": {
+        "Position": 7642,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 7683,
+        "Value": [
+          {
+            "Position": 7736,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.6
+            }
+          },
+          {
+            "Position": 7744,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7777,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7814,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 7855,
+        "Value": 61
+      }
+    },
+    "BuildingCritDamagePct_Stone": {
+      "InterpMode": {
+        "Position": 7912,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 7953,
+        "Value": [
+          {
+            "Position": 8006,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.6
+            }
+          },
+          {
+            "Position": 8014,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8047,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8084,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 8125,
+        "Value": 61
+      }
+    },
+    "BuildingCritDamagePct_Metal": {
+      "InterpMode": {
+        "Position": 8182,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 8223,
+        "Value": [
+          {
+            "Position": 8276,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.6
+            }
+          },
+          {
+            "Position": 8284,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.6
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8317,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8354,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 8395,
+        "Value": 61
+      }
+    },
+    "BuildingCritDestroyAnimScaleCap_Wood": {
+      "InterpMode": {
+        "Position": 8452,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 8493,
+        "Value": [
+          {
+            "Position": 8546,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 8554,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8587,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8624,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 8665,
+        "Value": 61
+      }
+    },
+    "BuildingCritDestroyAnimScaleCap_Stone": {
+      "InterpMode": {
+        "Position": 8722,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 8763,
+        "Value": [
+          {
+            "Position": 8816,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 8824,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8857,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8894,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 8935,
+        "Value": 61
+      }
+    },
+    "BuildingCritDestroyAnimScaleCap_Metal": {
+      "InterpMode": {
+        "Position": 8992,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 9033,
+        "Value": [
+          {
+            "Position": 9086,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 9094,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9127,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9164,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 9205,
+        "Value": 61
+      }
+    },
+    "BuildingRecentlyDamagedTimeout": {
+      "InterpMode": {
+        "Position": 9262,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 9303,
+        "Value": [
+          {
+            "Position": 9356,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 9364,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 3.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9397,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9434,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 9475,
+        "Value": 61
+      }
+    },
+    "BuildingRepairCostMult_Wood": {
+      "InterpMode": {
+        "Position": 9532,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 9573,
+        "Value": [
+          {
+            "Position": 9626,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.75
+            }
+          },
+          {
+            "Position": 9634,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.75
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9667,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9704,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 9745,
+        "Value": 61
+      }
+    },
+    "BuildingRepairCostMult_Stone": {
+      "InterpMode": {
+        "Position": 9802,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 9843,
+        "Value": [
+          {
+            "Position": 9896,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.75
+            }
+          },
+          {
+            "Position": 9904,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.75
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9937,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9974,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 10015,
+        "Value": 61
+      }
+    },
+    "BuildingRepairCostMult_Metal": {
+      "InterpMode": {
+        "Position": 10072,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 10113,
+        "Value": [
+          {
+            "Position": 10166,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.75
+            }
+          },
+          {
+            "Position": 10174,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.75
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10207,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10244,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 10285,
+        "Value": 61
+      }
+    },
+    "ContainerSpawnChance": {
+      "InterpMode": {
+        "Position": 10342,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 10383,
+        "Value": [
+          {
+            "Position": 10436,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 10444,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10477,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10514,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 10555,
+        "Value": 61
+      }
+    },
+    "RelicBaseHealth": {
+      "InterpMode": {
+        "Position": 10612,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 10653,
+        "Value": [
+          {
+            "Position": 10706,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 10714,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 5000.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10747,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10784,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 10825,
+        "Value": 61
+      }
+    },
+    "BuildingWeakPointDamageMultiplier": {
+      "InterpMode": {
+        "Position": 10882,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 10923,
+        "Value": [
+          {
+            "Position": 10976,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.5
+            }
+          },
+          {
+            "Position": 10984,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 4.5
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11017,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11054,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 11095,
+        "Value": 61
+      }
+    },
+    "CrateReturnBaseHealth": {
+      "InterpMode": {
+        "Position": 11152,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 11193,
+        "Value": [
+          {
+            "Position": 11246,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 800.0
+            }
+          },
+          {
+            "Position": 11254,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 800.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11287,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11324,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 11365,
+        "Value": 61
+      }
+    },
+    "SignalToCrateTimerRange": {
+      "InterpMode": {
+        "Position": 11422,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 11463,
+        "Value": [
+          {
+            "Position": 11516,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 11524,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 60.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11557,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11594,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 11635,
+        "Value": 61
+      }
+    },
+    "TimeBetweenCrateSpawns": {
+      "InterpMode": {
+        "Position": 11692,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 11733,
+        "Value": [
+          {
+            "Position": 11786,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 11794,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 40.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11827,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11864,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 11905,
+        "Value": 61
+      }
+    },
+    "BuildingCost_Neighborhood": {
+      "InterpMode": {
+        "Position": 11962,
+        "Value": 62
+      },
+      "Keys": {
+        "Position": 12003,
+        "Value": [
+          {
+            "Position": 12056,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 12064,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 40.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12097,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12134,
+        "Value": 61
+      },
+      "PostInfinityExtrap": {
+        "Position": 12175,
+        "Value": 61
+      }
+    }
+  }
+]
