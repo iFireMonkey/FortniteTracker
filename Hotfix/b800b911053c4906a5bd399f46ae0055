@@ -2,3 +2,10 @@
 bEnableStreamingReplayViewingUI=true
 bAllowInGameStore=true
 bFixAimAssistDeadzoneExploit=true
++ExperimentalCohortPercent=(CohortPercent=40,ExperimentNum=11)
++ExperimentalCohortPercent=(CohortPercent=50,ExperimentNum=12)
++ExperimentalCohortPercent=(CohortPercent=50,ExperimentNum=13)
+bEnableReloadMtx = true
+bEnableDynamicReloadMtx = true
+!ReloadMtxExclusiveCountryCodes=ClearArray
++ReloadMtxExclusiveCountryCodes = "IT"
