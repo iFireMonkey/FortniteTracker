@@ -29,9 +29,10 @@ Athena.AllowBeaconCheckWithCreativeTeamSwitching=0
 au.BypassAllSubmixEffects=0
 Athena.EnableSocialInteractionOnPlayerPawn=0
 Papaya.ServerShutdownInMinutes=240
+Papaya.EventEstimatedTimeInMinutes=30
 SocialInspector.EnableSocialInspectorComponent=0
 Fort.LTM.Inf.OverridePerkLevel=50
-Papaya.EventEstimatedTimeInMinutes=30
+Curie.Fire.FirePropagationDelay=1
 [OnlineSubsystemMcp.OnlineStatsMcp]
 bUpdatesConnectionStatus=false
 Domain="statsproxy-public-service-live.ol.epicgames.com"
