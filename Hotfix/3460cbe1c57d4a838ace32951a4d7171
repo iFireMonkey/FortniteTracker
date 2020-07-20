@@ -26,6 +26,7 @@ Fort.ReleaseUseIfNotInteracting=0
 AimAssist2D.TargetProjectionMaxTickRate=70
 fort.BeaconCheckOnMembers=0
 Athena.AllowBeaconCheckWithCreativeTeamSwitching=0
+Athena.DisableOverlapsWhenNotInVehicleOptimization=0
 au.BypassAllSubmixEffects=0
 Athena.EnableSocialInteractionOnPlayerPawn=0
 Papaya.ServerShutdownInMinutes=240
