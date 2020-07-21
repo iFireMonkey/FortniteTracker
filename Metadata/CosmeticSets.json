@@ -5994,7 +5994,7 @@
           "Text": {
             "Namespace": "CosmeticSets",
             "Key": "Cosmetics.Set.TenderMonarch_DisplayName",
-            "SourceString": "Set_01"
+            "SourceString": "Black Manta"
           }
         },
         "Description": {
@@ -6148,6 +6148,159 @@
             "Namespace": "CosmeticSets",
             "Key": "Cosmetics.Set.LadyTreat_DisplayName",
             "SourceString": "Ms. Whip"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.SillyTeam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SillyTeam"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.SillyTeam_DisplayName",
+            "SourceString": "Dummy Brigade"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.CosmoBunch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CosmoBunch"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.CosmoBunch_DisplayName",
+            "SourceString": "Galaxy Pack"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.VacationFable": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.VacationFable"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.VacationFable_DisplayName",
+            "SourceString": "Summer Legends"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.FishyParadise": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FishyParadise"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.FishyParadise_DisplayName",
+            "SourceString": "Fishlantis"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.OceanAttack": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OceanAttack"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.OceanAttack_DisplayName",
+            "SourceString": "Saltwater Strike"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.FNOriginals": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FNOriginals"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.FNOriginals_DisplayName",
+            "SourceString": "Fortnite Classics"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.ForemanSquad": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ForemanSquad"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.ForemanSquad_DisplayName",
+            "SourceString": "Constructor Crew"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.HeftyUnit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HeftyUnit"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.HeftyUnit_DisplayName",
+            "SourceString": "Tank Squadron"
+          }
+        },
+        "Description": {
+          "Text": {
+            "CultureInvariantString": null
+          }
+        }
+      },
+      "Cosmetics.Set.FiestaDesign": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FiestaDesign"
+        },
+        "DisplayName": {
+          "Text": {
+            "Namespace": "CosmeticSets",
+            "Key": "Cosmetics.Set.FiestaDesign_DisplayName",
+            "SourceString": "Party Style"
           }
         },
         "Description": {
