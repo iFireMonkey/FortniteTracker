@@ -1,5 +1,3 @@
-[Core.System]
-GameThreadHeartBeatStackWalk = false
 [SystemSettings]
 Fort.ItemWrapOverride.DelayWhenMeshIsntReady=1
 Fort.ItemWrapOverride.MaxDelaysWhenMeshIsntReady=3
@@ -20,7 +18,9 @@ Papaya.ServerShutdownInMinutes=240
 Papaya.EventEstimatedTimeInMinutes=30
 SocialInspector.EnableSocialInspectorComponent=0
 Fort.LTM.Inf.OverridePerkLevel=50
-Curie.Fire.FirePropagationDelay=1
+Athena.bEnableBackfillDuringWarmupPhase=false
+[GameFeedback]
+EnabledFeedbackBackends="mcp"
 [OnlineSubsystemMcp.OnlineStatsMcp]
 Domain="statsproxy-public-service-live.ol.epicgames.com"
 BasePath="statsproxy"
@@ -70,13 +70,6 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="tg_mumbai", RegionId="UND", bEnabled=true, Servers[0]=(Address="35.200.145.197", Port=22222), Servers[1]=(Address="35.200.131.39", Port=22222), Servers[2]=(Address="35.200.143.52", Port=22222))
 +DatacenterDefinitions=(Id="tg_zurich", RegionId="UND", bEnabled=true, Servers[0]=(Address="34.65.48.90", Port=22222), Servers[1]=(Address="34.65.140.229", Port=22222), Servers[2]=(Address="34.65.246.188", Port=22222), Servers[3]=(Address="34.65.55.156", Port=22222))
 +DatacenterDefinitions=(Id="tg_mumbai_s", RegionId="UND", bEnabled=true, Servers[0]=(Address="170.52.0.15", Port=22222), Servers[1]=(Address="170.52.0.16", Port=22222), Servers[2]=(Address="170.52.1.17", Port=22222), Servers[3]=(Address="170.52.1.18", Port=22222))
-+DatacenterDefinitions=(Id="DE_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.248.143.47", Port=22222), Servers[1]=(Address="76.223.16.147", Port=22222))
-+DatacenterDefinitions=(Id="SAO_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.10.61", Port=22222), Servers[1]=(Address="99.83.171.153", Port=22222))
-+DatacenterDefinitions=(Id="OR_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.47.54", Port=22222), Servers[1]=(Address="99.83.210.169", Port=22222))
-+DatacenterDefinitions=(Id="NCAL_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.65.44", Port=22222), Servers[1]=(Address="99.83.214.188", Port=22222))
-+DatacenterDefinitions=(Id="VA_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.102.49", Port=22222), Servers[1]=(Address="99.83.150.145", Port=22222))
-+DatacenterDefinitions=(Id="OH_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.16.60", Port=22222), Servers[1]=(Address="99.83.211.163", Port=22222))
-+DatacenterDefinitions=(Id="TOK_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.63.31", Port=22222), Servers[1]=(Address="99.83.165.148", Port=22222))
 +DatacenterDefinitions=(Id="LON_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.176.4", Port=22222), Servers[1]=(Address="143.131.176.5", Port=22222), Servers[2]=(Address="143.131.177.4", Port=22222), Servers[3]=(Address="143.131.177.5", Port=22222))
 +DatacenterDefinitions=(Id="DE_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.178.4", Port=22222), Servers[1]=(Address="143.131.178.5", Port=22222), Servers[2]=(Address="143.131.179.4", Port=22222), Servers[3]=(Address="143.131.179.5", Port=22222))
 +DatacenterDefinitions=(Id="FR_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.180.4", Port=22222), Servers[1]=(Address="143.131.180.5", Port=22222), Servers[2]=(Address="143.131.181.4", Port=22222), Servers[3]=(Address="143.131.181.5", Port=22222))
@@ -84,6 +77,13 @@ PingTimeout=3.0
 +DatacenterDefinitions=(Id="EDG2_S", RegionId="UND", bEnabled=true, Servers[0]=(Address="143.131.175.4", Port=22222), Servers[1]=(Address="143.131.175.5", Port=22222), Servers[2]=(Address="143.131.175.4", Port=22222), Servers[3]=(Address="143.131.175.5", Port=22222))
 +DatacenterDefinitions=(Id="ta_safrica", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.244.37.77", Port=22222), Servers[1]=(Address="13.245.24.37", Port=22222), Servers[2]=(Address="13.244.57.56", Port=22222), Servers[3]=(Address="13.245.26.167", Port=22222))
 +DatacenterDefinitions=(Id="ta_it", RegionId="UND", bEnabled=true, Servers[0]=(Address="15.161.10.33", Port=22222), Servers[1]=(Address="15.161.0.172", Port=22222), Servers[2]=(Address="15.161.80.56", Port=22222), Servers[3]=(Address="15.161.167.210", Port=22222))
++DatacenterDefinitions=(Id="DE_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="13.248.143.47", Port=22222), Servers[1]=(Address="76.223.16.147", Port=22222))
++DatacenterDefinitions=(Id="SAO_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.10.61", Port=22222), Servers[1]=(Address="99.83.171.153", Port=22222))
++DatacenterDefinitions=(Id="OR_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.47.54", Port=22222), Servers[1]=(Address="99.83.210.169", Port=22222))
++DatacenterDefinitions=(Id="NCAL_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.65.44", Port=22222), Servers[1]=(Address="99.83.214.188", Port=22222))
++DatacenterDefinitions=(Id="VA_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.102.49", Port=22222), Servers[1]=(Address="99.83.150.145", Port=22222))
++DatacenterDefinitions=(Id="OH_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.16.60", Port=22222), Servers[1]=(Address="99.83.211.163", Port=22222))
++DatacenterDefinitions=(Id="TOK_AGA", RegionId="UND", bEnabled=true, Servers[0]=(Address="75.2.63.31", Port=22222), Servers[1]=(Address="99.83.165.148", Port=22222))
 [OnlineSubsystemMcp.OnlineEventsServiceMcp]
 HttpRetryLimit=1
 [OnlineSubsystemMcp.OnlineIdentityMcp]

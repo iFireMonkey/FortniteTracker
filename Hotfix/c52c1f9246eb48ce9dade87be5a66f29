@@ -1,5 +1,5 @@
 ﻿[/Script/FortniteGame.FortRuntimeOptions]
-PreloadRevision=0
+PreloadRevision=1
 TotalPlayerTechLevelsToShow=50
 bUseNewLookAccel=false
 bUseEventsService=true
@@ -20,6 +20,7 @@ bHiddenButEnabledLiveStreamInMatch=false
 bReplayGoToTimeEnabled=true
 bEnableAddFriendUserSearchDarkTraffic=false
 EventServicePayoutRefreshRateSeconds=1200
+PlaylistCuratedContent=(("Playlist_Showdown_BlueFlatline_1v1",(CuratedLinkCodes=("6266-7291-7627"))))
 ContentControlsMoreInfoURL="https://epicgames.com/fortnite/parental-controls"
 ContentControlsForgotPinURL="https://epicgames.helpshift.com/a/fortnite/"
 ContentControlsVerifyEmailURL="https://www.epicgames.com/account/personal"
