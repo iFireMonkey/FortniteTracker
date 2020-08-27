@@ -15,10 +15,11 @@ Athena.AllowBeaconCheckWithCreativeTeamSwitching=0
 au.BypassAllSubmixEffects=0
 Athena.EnableSocialInteractionOnPlayerPawn=0
 Papaya.ServerShutdownInMinutes=240
-Papaya.EventEstimatedTimeInMinutes=30
+Papaya.EventEstimatedTimeInMinutes=55
 SocialInspector.EnableSocialInspectorComponent=0
 Fort.LTM.Inf.OverridePerkLevel=50
 Athena.bEnableBackfillDuringWarmupPhase=false
+CMS.StreamOutIfNotRendered=false
 [GameFeedback]
 EnabledFeedbackBackends="mcp"
 [OnlineSubsystemMcp.OnlineStatsMcp]

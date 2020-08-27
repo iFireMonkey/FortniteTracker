@@ -1,3 +1,5 @@
+[VoiceChatManager]
+VoiceChatAlternateImplementationPercent=100.0
 [AssetHotfix]
 +CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullInnerStrengthHip;0;0.3
 +CurveTable=/Game/Input/InputData;RowUpdate;Gamepad.AimAssist.PullOuterStrengthHip;0;0.25
