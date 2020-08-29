@@ -1,0 +1,7 @@
+[ConsoleVariables]
+au.DisableDeviceSwap=1
+TaskGraph.RenderThreadPollPeriodMs=-1
+FortMatchmakingV2.EnableContentBeacon=0
+FortMatchmakingV2.ContentBeaconFailureCancelsMatchmaking=0
+Fort.ShutdownWhenContentBeaconFails=0
+AimAssist2D.CompetitiveSlowStrengthScale = 1.0
