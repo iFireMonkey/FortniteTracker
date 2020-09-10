@@ -15,11 +15,13 @@ Athena.AllowBeaconCheckWithCreativeTeamSwitching=0
 au.BypassAllSubmixEffects=0
 Athena.DontLaunchPlayersWhenPositivePhi=1
 Athena.EnableSocialInteractionOnPlayerPawn=0
+r.MeshDrawCommands.AllowOnDemandShaderCreation=0
 Papaya.ServerShutdownInMinutes=240
 Papaya.EventEstimatedTimeInMinutes=60
 SocialInspector.EnableSocialInspectorComponent=0
 Athena.bEnableBackfillDuringWarmupPhase=false
 CMS.StreamOutIfNotRendered=false
+Fort.SpecialActor.AwakeTime=15.0
 [OnlineSubsystemMcp.OnlineStatsMcp]
 Domain="statsproxy-public-service-live.ol.epicgames.com"
 BasePath="statsproxy"
