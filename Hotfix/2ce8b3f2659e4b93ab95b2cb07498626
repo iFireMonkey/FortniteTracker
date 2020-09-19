@@ -1,0 +1,4 @@
+﻿[/Script/FortniteGame.FortTextHotfixConfig]
++TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="", Key="5D670D5242DDA76BC82281A16038C85C", NativeString="Lorem Ipsum Dolar",LocalizedStrings=(("ar","أسعار منخفضة جديدة!"),("en","NEW LOWER PRICES!"),("de","NEUE GESENKTE PREISE!"),("es","¡NUEVOS PRECIOS REBAJADOS!"),("es-419","¡NUEVOS PRECIOS MÁS BAJOS!"),("fr","NOUVEAUX PRIX RÉDUITS !"),("it","NUOVI PREZZI RIDOTTI!"),("ja","新 値下げ価格！"),("ko","가격 추가 인하!"),("pl","NOWE, NIŻSZE CENY!"),("pt-BR","NOVOS PREÇOS BAIXOS!"),("ru","ЦЕНЫ СНИЖЕНЫ!"),("tr","YEPYENİ DÜŞÜK FİYATLAR!")))
+[VoiceChatManager]
+VoiceChatAlternateImplementationPercent=0.0

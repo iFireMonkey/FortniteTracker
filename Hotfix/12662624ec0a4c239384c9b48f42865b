@@ -1,0 +1,5 @@
+[/Script/FortniteGame.FortRuntimeOptions]
+bEnableStreamingReplayViewingUI=true
+bShowStoreBanner=true
++ExperimentalCohortPercent=(CohortPercent=5,ExperimentNum=14)
++ExperimentalCohortPercent=(CohortPercent=50,ExperimentNum=15)
