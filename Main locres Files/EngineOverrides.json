@@ -661,7 +661,7 @@
     "SlashCommand_PrivateMessage": "whisper"
   },
   "WindowsDynamicRHI": {
-    "RequiredDX11Feature": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine.",
+    "RequiredDX11Feature_11_SM5": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine.",
     "RequiredDX12": "DX12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
     "UseExpressionEncoderDX11": "Fraps has been known to crash D3D11. Please use Microsoft Expression Encoder instead for capturing.",
     "UseExpressionEncoder": "Fraps has been known to crash D3D12. Please use Microsoft Expression Encoder instead for capturing.",
