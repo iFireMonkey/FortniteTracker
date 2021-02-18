@@ -1,0 +1,504 @@
+[
+  {
+    "ExportType": "DataTable",
+    "ExportValue": {
+      "builtinemote": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A3350E5140D3943AAE94CDA594CC22FA",
+          "SourceString": "Use the <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE</> to <text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> in matches!"
+        }
+      },
+      "neonanimals": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F69369BB4AD4D2F61E238FB7DE237E3E",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> by changing between <text color=\"FFFFFFFF\" fontface=\"black\">HARVESTING TOOL</> and <text color=\"FFFFFFFF\" fontface=\"black\"> WEAPON.</> "
+        }
+      },
+      "reactivewraps": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CA84BB394B64F7D9C184EE8212D0F639",
+          "SourceString": "Reactive wrap <text color=\"FFFFFFFF\" fontface=\"black\">ANIMATES</> when firing weapons."
+        }
+      },
+      "reactiveslurp": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2F9E2BBD41C89AC0478B3296911BD0A1",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Head transforms with higher shields"
+        }
+      },
+      "reactivetailor": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "56932CFC4BB6D3DEC556FB8C9275CA78",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Unique light patterns on eliminations, damage, health, and shields!"
+        }
+      },
+      "reactivekomplex": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1B4C58AA4D735CC907D162968A1CB5D2",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Glows at night!"
+        }
+      },
+      "reactivekomplexglider": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E3F6A3E54C3BD26C9F56FDBC09120597",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Glider:</> Glows at night!"
+        }
+      },
+      "reactivedamage": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6FC796954BF78141BC888B8800745374",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to damage!"
+        }
+      },
+      "reactiveraveninjabackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A69BB6AC46B75A1FDD0A4B8A62C55F57",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Scratch the record and flash the lights with each elimination!"
+        }
+      },
+      "reactivetightsuitoutfit": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D780B8EB44A40BA391F795A7B4481D5F",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Patterns change when music plays!"
+        }
+      },
+      "builtinspymaleemote": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1598195140DF2CB2662FCA804C399912",
+          "SourceString": "Show your skills with the Butterfly Knife <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>"
+        }
+      },
+      "reactiveneonpulsewrap": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9F8ACB08413D00F1AC6ADE88E64B5C51",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Responds to in-game music!"
+        }
+      },
+      "reactiveneoncatspybackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F63B5EB2471A26C8A134FF9C600BDFC7",
+          "SourceString": "Switch styles in matches when you use Vix's <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>"
+        }
+      },
+      "reactivebeacon": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "7C9148294348464942B40FAB142D4EBA",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Eyes light up at night!"
+        }
+      },
+      "reactivecapshield": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C14AF18746E7F008364608BEA9717D26",
+          "SourceString": "Equip the Proto-Adamantium Shield as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>"
+        }
+      },
+      "reactiveelimbackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2C91CA604DE75A5F19987FA1CC754A0F",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Animates with eliminations!"
+        }
+      },
+      "reactiveelimpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FCA84770400952E6F1F78FA7EF26CE12",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Animates with eliminations!"
+        }
+      },
+      "surfingglider": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4E19350841887D4E60555292BB5AB40F",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Surfing Glider!</>"
+        }
+      },
+      "reactiveloofahpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3CAF7D1F4DF66C1FFB862EBC0AB0FDB6",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Fruit breaks away on impact!"
+        }
+      },
+      "reactiverobrobackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AADF898542A90166A3ED15BD9D7F306E",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Equalizer reacts to music!"
+        }
+      },
+      "reactivetvbackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "8A9293F24C7173B5DB6588857182F362",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> TV flickers when taking damage!"
+        }
+      },
+      "reactiveelimloot": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C3D66B8E4BD057E45F8DCFADAC00FE0D",
+          "SourceString": "Reacts to eliminations and loot!"
+        }
+      },
+      "reactivepickaxeelimloot": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0D1662AE41992B7EAB99588AD9D3E0A4",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Reacts to eliminations and loot!"
+        }
+      },
+      "reactiveoutfitelimloot": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1790E9C94A8E50115126C2A659A217B7",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to eliminations and loot!"
+        }
+      },
+      "reactivebackblingelimloot": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "41D9B24240F4C89154366FAEB4B40FD7",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Reacts to eliminations and loot!"
+        }
+      },
+      "reactivedreadstrikers": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C000B1EA4F1AC3B94C0DAF810574481C",
+          "SourceString": "Unsheathe the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE</> from the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING!</>"
+        }
+      },
+      "reactivecorrupted": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "743CE1194B97E7607AD38A85EA5A6E62",
+          "SourceString": "Set <text color=\"FFFFFFFF\" fontface=\"black\">CORRUPTION LEVEL</> for each outfit."
+        }
+      },
+      "emoticonlocker": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6933F24E4496532E3BAFFABC0C4F0098",
+          "SourceString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!"
+        }
+      },
+      "createhero1": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F5BE23574D1D6008C4742AA37F6E1E7C",
+          "SourceString": "Create your own hero! Over a dozen customizable components!"
+        }
+      },
+      "createhero2": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E9F383A04C12731B9A63BB8991633328",
+          "SourceString": "Create your own hero! A dozen customizable components!"
+        }
+      },
+      "reactiveemoticape": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "00F393C54A794BEAF6892F8E25641C72",
+          "SourceString": "Use the Emoticape as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">GLIDER!</> Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your Locker!"
+        }
+      },
+      "reactiveoutfitelim": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "543C19604268AFDF35756794FD422526",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Animates with eliminations!"
+        }
+      },
+      "reactiveelim": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D35A420E4B48981B50EBBEBB40CB7BA1",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Animates with eliminations!"
+        }
+      },
+      "reactivewrapmusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F403BF27441068529A3C04AD440A7FA0",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Animates to in-game music!"
+        }
+      },
+      "reactivebackspinsword": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9286EDD54F3EA943B8B2998AEF1021D9",
+          "SourceString": "Equip the <text color=\"FFFFFFFF\" fontface=\"black\">SWORD OF THE DAYWALKER</> as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>"
+        }
+      },
+      "reactiveelimshort": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C7FE13A747B5204C4FB8B48CC895D913",
+          "SourceString": "Reacts to eliminations!"
+        }
+      },
+      "reactiveharvestweak": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AAE8184F4B921D998EC347B59BF6EA81",
+          "SourceString": "Hit weak points while harvesting to activate!"
+        }
+      },
+      "papayaconcertstyle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C7EC05354C4B33104221AE915A1A7A07",
+          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending one of his Party Royale concerts!"
+        }
+      },
+      "unlockjbalvinstyledate": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "640C6A7C4FEA1AA234A054A141D3DE11",
+          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party on Oct 31 or Nov 1!"
+        }
+      },
+      "unlockjbalvinstyleafterlife": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9793C88C44901EAB4261878BBD6F7E2A",
+          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party!"
+        }
+      },
+      "reactivejekyllemote": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "094620A34307DD423074EEADC5AA7E88",
+          "SourceString": "Use the built-in <text color=\"FFFFFFFF\" fontface=\"black\">MORPH JUICE</> emote to switch styles in-game!"
+        }
+      },
+      "reactivepumpkinpunkpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CD6424A543D6ABFF629D2A87068EA6AE",
+          "SourceString": "Pull the <text color=\"FFFFFFFF\" fontface=\"black\">BASH BURNER</> pickaxe off of the <text color=\"FFFFFFFF\" fontface=\"black\">SQUASH BATS</> back bling when both are equipped!"
+        }
+      },
+      "unlockjbalvinstylenow": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D6E638B346C2B3701C9B0A93DF6C7ABD",
+          "SourceString": "Loading Screen Included!"
+        }
+      },
+      "unlockjbalvinstyleattenddate": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FBF462BC4B6D48618B4CF2A8DB903C04",
+          "SourceString": "Attend the Afterlife Party on October 31 or November 1, and unlock the exclusive J Balvin style for Party Trooper!"
+        }
+      },
+      "unlockjbalvinattend": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CBA000A34882B5E3F542278F1927B3EA",
+          "SourceString": "Attend the Afterlife Party in Party Royale and unlock the exclusive J Balvin style for Party Trooper!"
+        }
+      },
+      "reactiveyorkbackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2895747A461B8080FCE320A81ECFE511",
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">REACTIVE:</> Earn eliminations to charge up the <text color=\"FFFFFFFF\" fontface=\"black\">PROTON PACK!</>"
+        }
+      },
+      "jbalvinenjoy": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "79D1E6224AFECDD001AFA1813ECF26A5",
+          "SourceString": "Unlock the J Balvin style for Party Trooper with your purchase. Enjoy the Afterlife show in Party Royale!"
+        }
+      },
+      "reactivewraplight": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C788811E43E07E94F09662A51F5D6A1F",
+          "SourceString": "Reactive Wrap: <text color=\"FFFFFFFF\" fontface=\"black\">LIGHTS UP</> when firing weapon!"
+        }
+      },
+      "reactiveweaponfire": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "99A7F48447802A3987DB2CB89B56C387",
+          "SourceString": "Reacts to weapon fire!"
+        }
+      },
+      "reactiveoutfitbackblingelim": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "31E51F844C5A5A38C0359883BA2465A9",
+          "SourceString": "<text color=\"FFFFFFFF\">OUTFIT</> and <text color=\"FFFFFFFF\">BACK BLING</> react to eliminations!"
+        }
+      },
+      "vertigoexclusivepickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AB5B820F4B202F510060618B02801100",
+          "SourceString": "Only Venom can wield the mighty Symbiote Slasher!"
+        }
+      },
+      "pickthreeteam": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6CB3CAB84677205AE82D8BB27D82BB5E",
+          "SourceString": "Pick your favorite NFL team, select your number, and choose your visor style!"
+        }
+      },
+      "reactivecorny": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D7AA9052429724896620DA995DF93B30",
+          "SourceString": "Corn pops with damage!"
+        }
+      },
+      "promodesc1": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
+          "SourceString": "Kratos has arrived on the island."
+        }
+      },
+      "promodesc2": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "45B2D0C548992CF87F317FBE530975AA",
+          "SourceString": "Drop in with the Master Chief and finish the fight."
+        }
+      },
+      "historianpickaxedesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3DD9AE60494FA3C1163671B7E05EB1BA",
+          "SourceString": "<text color=\"FFFFFFFF\">LEVIATHAN AXE</> freezes as you harvest. Includes custom built-in emote!"
+        }
+      },
+      "reactivebittersweets": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "EA294E1A4622381E7299FF800418869E",
+          "SourceString": "Bitter Sweets Back Bling reacts to eliminations!"
+        }
+      },
+      "syncedsingalong": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "70EF5B1D4F926DFCD1A42C99D1089F23",
+          "SourceString": "Join a chorus with other players who are using the Sing Along emote!"
+        }
+      },
+      "wombatmaledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0EEE3F8341B2D145BBC70BADD18BE13F",
+          "SourceString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
+        }
+      },
+      "wombatfemaledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D3E4155840FA5FF439D65680F8817AAD",
+          "SourceString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
+        }
+      },
+      "reactiveneonfemaledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B91D1C3A445DD6E86FF68C84DDF24DDE",
+          "SourceString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">VIBE STAR's</> face changes as you play!"
+        }
+      },
+      "reactiveneonmaledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FB735D234D9978D458F882B3B57E8D41",
+          "SourceString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">GLOW GRIN's</> face changes as you play!"
+        }
+      },
+      "reactivemusicplaydesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "988F970F4C601AA3A27F729C7A8CE001",
+          "SourceString": "Reactive: Animates when music plays!"
+        }
+      },
+      "syncedfavordesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E476691044B4E65E1ADE13AA910112A5",
+          "SourceString": "<text color=\"FFFFFFFF\">SYNCED EMOTE</>: Set off the <text color=\"FFFFFFFF\">PARTY FAVOR</> with a friend!"
+        }
+      },
+      "reactiveneonbundledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9E600B884159C5AF18BE5C8AD4EFDE3A",
+          "SourceString": "Reactive outfits and back blings! The <text color=\"FFFFFFFF\">VIBE STAR</> and <text color=\"FFFFFFFF\">GLOW GRIN</> change faces as you play!"
+        }
+      },
+      "reactivefemaletyphoondesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CCFA9EAE478F5097A0B0F6BA4989FDBE",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">COMBAT KNIFE PICKAXE</> from <text color=\"FFFFFFFF\">SARAH CONNOR'S</> holster when both are equipped!"
+        }
+      },
+      "reactiveconvoytarantuladesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0D16CEF04B49FF1B213BB6BF9A3B9E14",
+          "SourceString": "Equip <text color=\"FFFFFFFF\">SNAKE EYE'S KATANA</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!"
+        }
+      },
+      "pickclubstyle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "46A3D53E408F2B7E22319ABAFB4F063E",
+          "SourceString": "Pick from 23 club styles!"
+        }
+      },
+      "reactivefuseslight": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4E34E9744966E7863D3C6BAF08131EEE",
+          "SourceString": "Fuses light during emotes!"
+        }
+      },
+      "equipmainframe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D2BE4F0F41D006E515010C8AFD2B7409",
+          "SourceString": "Inspect_Banner_01"
+        }
+      },
+      "loadingscreenincluded": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AAFDCFA646998577DCC806AA97145109",
+          "SourceString": "Loading Screen Included!"
+        }
+      }
+    }
+  }
+]
