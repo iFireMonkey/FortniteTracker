@@ -1,0 +1,4157 @@
+[
+  {
+    "ExportType": "FortDeathCauseData",
+    "ExportValue": {
+      "DeathCauseInfos": [
+        {
+          "DisplayText": "AIrStrike",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.AppleSauce"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "44F7ACD349E4347E6CF064BB410C9658",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by their own Air Strike"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "52FBB93D477AFC3CC4AE1C84BC178E69",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own Air Strike"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "42AB2183448EE1AD635E25A01A7562D0",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an Air Strike"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "917FA02F40A542A43D3C31BF607DCECB",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an Air Strike"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Ashton Chicago",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Chicago"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "085907C240F48D6B02748E8C79B270A2",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with <Sarcasm>Cap's Shield</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "834698834A5E12C98D7F2CB753BFEE21",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with <Sarcasm>Cap's Shield</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Ashton Hippo",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Hippo"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "410E7DEB4AE8181D7E2A84B994FF1434",
+              "SourceString": "<{KillerStyle}>{Killer}</> trick shot <{VictimStyle}>{PlayerName}</> with <Sarcasm>Hawkeye's Bow</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "09FECCC14757E85BBDF6BCA60E88C2F9",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with <Sarcasm>Hawkeye's Bow</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Ashton Indigo",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Indigo"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "11BEF0C84BEFD875F78C35A6B6EDB7FE",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with <Sarcasm>Iron Man's Repulsors</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "6F7B69E14D3F36751585C096D606F581",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with <Sarcasm>Iron Man's Repulsors</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Ashton Milo (Launcher)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Milo.Launcher"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F877437C42F90F343C95329A6B6B4F8B",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "AA634C914672ECAA55C83991D6440F07",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</> with a <Sarcasm>Chitauri Energy Launcher</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A0980B464E766B27DF25349AE7D41A57",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</> with a <Sarcasm>Chitauri Energy Launcher</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Ashton Milo (Rifle)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Milo.Rifle"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "ABCF523B470F3E3A2C7A91B7BE0FC6C8",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a <Sarcasm>Chitauri Laser Rifle</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "35FC0FF1494ACAB298DD5690E86157B8",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with a <Sarcasm>Chitauri Laser Rifle</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "B.R.U.T.E. Missiles",
+          "DeathCauseTag": {
+            "TagName": "Athena.Ostrich.Missiles"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "5E7CF06E414BCC3D062AA18EEB29B7D2",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by their own B.R.U.T.E."
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "89A6969646D97F402479E4953884918F",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own B.R.U.T.E."
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E78A5B2C452987CC7B98D1AF643ACDEE",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with B.R.U.T.E. Missiles"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "013FBA3340C6A385DA1E4FB0BA254A86",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with B.R.U.T.E. Missiles"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "B.R.U.T.E. Self Destruct",
+          "DeathCauseTag": {
+            "TagName": "Athena.Ostrich.SelfDestruct"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "5E7CF06E414BCC3D062AA18EEB29B7D2",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by their own B.R.U.T.E."
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "89A6969646D97F402479E4953884918F",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own B.R.U.T.E."
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "4403213C42F06FA99156B6A000B303DA",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by a B.R.U.T.E Detonation "
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "87BECF9F4DF85C64E42231AE009DAB7E",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by a B.R.U.T.E Detonation"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "B.R.U.T.E. Shotgun",
+          "DeathCauseTag": {
+            "TagName": "Athena.Ostrich.Shotgun"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "48A3213246834ABBF72D87861C6BF574",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by their own B.R.U.T.E."
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "ED9B98AB45ECCF6DE9895982810F05BC",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own B.R.U.T.E."
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "DDD1130B4FFACE7AE8AE4BBF42E1FEFD",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a B.R.U.T.E. Shotgun"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "6E8CE79B457192FEFDCDA5BCAB05A1CB",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with a B.R.U.T.E. Shotgun"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "B.R.U.T.E. Stomp",
+          "DeathCauseTag": {
+            "TagName": "Athena.Ostrich.KickStomp"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "7B1633CA44E025B77E2FB4BAC9DD7CC9",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by their own B.R.U.T.E."
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A88E56DC41937D32F69C3EB1DDAD294F",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own B.R.U.T.E."
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "9E957729431BD7D3FE3A799A0B71E04E",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a B.R.U.T.E. Stomp"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "D2A719EF40B8EDB1D99C3187A4D23B92",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked down <{VictimStyle}>{PlayerName}</> with a B.R.U.T.E. Stomp"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Ban Hammer",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.BanHammer"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "4E47AF3842D61863F5D7999CAC2E80A5",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was struck by the banhammer"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Batarang",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.BadgerBangs"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "448BE9EB44017471B78723A8E7FCEADC",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> eliminated themselves with an Explosive Batarang!"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "BDD8E70D447618C5A1805796C66E294D",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> knocked themselves out with an Explosive Batarang!"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "7E70B1F94C3BA68A91812893BFEECD77",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an Explosive Batarang!"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "6CFE6D3F4E68566E36492D87BE94E92B",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an Explosive Batarang!"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Brute (Basic)",
+          "DeathCauseTag": {
+            "TagName": "NPC.CharacterType.Brute.Basic"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A5CF876D40B70B69E563499BCEBBD5C0",
+              "SourceString": "Brute finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "0388B0B74CB4A4F49B1B999C1A7C92B7",
+              "SourceString": "Brute eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "5D15C92646A0C1C0564BDC91F7CCF16D",
+              "SourceString": "Brute knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Brute (Basic Exploding)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Brute.Basic.Exploding"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "8A4A3D544C3A6C0E60C222B6FE50E3F0",
+                  "SourceString": "Exploding Brute finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "BEA31DC34CFEF41563424AB950BADFBF",
+                  "SourceString": "Exploding Brute eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E78E6F3B4B597EAAC99DDB8D17F2AEF3",
+                  "SourceString": "Exploding Brute knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Brute (Basic Winter)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Brute.Basic.Winter"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "16674226470226108DEFABB4827B0AD1",
+                  "SourceString": "Ice Brute finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F2B133BC4DCB67653A5A06B8E1220450",
+                  "SourceString": "Ice Brute eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "4F3C5641495C9D9EB875CA8B223AB1A2",
+                  "SourceString": "Ice Brute knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Brute (Major)",
+          "DeathCauseTag": {
+            "TagName": "NPC.CharacterType.Brute.Major"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "32806F884011F0418E817CBED9105940",
+              "SourceString": "Elite Brute finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D850162F49F1DAFEA81229B1FC9C95EF",
+              "SourceString": "Elite Brute eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "2FF0D8A342118BB7073425A2BD06E52A",
+              "SourceString": "Elite Brute knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Brute (Major Winter)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Brute.Major.Winter"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C29A2A7C4BC603D7E8E25B8F4BDE6F97",
+                  "SourceString": "Elite Ice Brute finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "9C03A9F8488A52EDC48021B0B1D36450",
+                  "SourceString": "Elite Ice Brute eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B437198A4E4B04EC7BC92796F5223DF2",
+                  "SourceString": "Elite Ice Brute knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Brute (Mega)",
+          "DeathCauseTag": {
+            "TagName": "NPC.CharacterType.Brute.Mega"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "34D801BB449A3E8E148E169DC44E490D",
+              "SourceString": "Mega Ice Brute finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "AEF41350472F3A0BBB98A3AFE3FD0513",
+              "SourceString": "Mega Ice Brute eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "940BF478418AE3D69EF393BC9DB50C75",
+              "SourceString": "Mega Ice Brute knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Bucket Nice",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.Bucket.Nice"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A55EEDFC4CF69FC6404770A3CE777AF0",
+              "SourceString": "<{KillerStyle}>{Killer}</> smote <{VictimStyle}>{PlayerName}</> with the Mythic Goldfish{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "0851229E4EC1D2B4D192A9BE3FFEE4A9",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked <{VictimStyle}>{PlayerName}</> with the Mythic Goldfish{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Bucket Old",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.Bucket.Old"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "7BE7583344FF7D5D67C1E58D48B42768",
+              "SourceString": "<{KillerStyle}>{Killer}</> CANcelled <{VictimStyle}>{PlayerName}</> with a Rusty Can{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E0D906C440FA2219DD807AA7B36E9095",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked <{VictimStyle}>{PlayerName}</> with a Rusty Can{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Changed Teams",
+          "DeathCauseTag": {
+            "TagName": "Athena.LTM.Tag.ChangeTeam"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "5C0847044047438EC0092A81052C629F",
+              "SourceString": "<{KillerStyle}>{Killer}</> brought <{VictimStyle}>{PlayerName}</> over to their team"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Cube",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Environment.Cube"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "B569FCCA402FB39ADAE91AA2270569A8",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> got too close to {Cube}"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3F05684C4E3BBCF1A5867E8D61D5E470",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by {Cube}"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "23D2D4C948942DC748F8AC932044C164",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with {Cube}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "8D20426E41757283ADFBBE83AB3D0B04",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with {Cube}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Default (Eliminated By AI)",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.EliminatedByAI"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "8BE4E8094D2C149FA8A6F39F1254EB2E",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Default (Eliminated DBNO By AI)",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.EliminatedDBNOByAI"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "F2661A9B4793639B27D74693FBB828B6",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Default (Eliminated DBNO)",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.EliminatedDBNO"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "727F9CE34D33D0531AC9DEB71DDF376D",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Default (Eliminated)",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.Eliminated"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E63D123240D59BC83B2F49A1B4A22F37",
+              "SourceString": "<{KillerStyle}>{Killer}</> finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Default (Self Inflicted DBNO)",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.SelfInflictedDBNO"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "6ABC2DA34CBCB2F88DB3A988E6C94BE8",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> knocked themself out"
+            }
+          ],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Default (Self Inflicted)",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.SelfInflicted"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E59FB33A48DEAA59E89763A11F96959A",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> checked out early"
+            },
+            {
+              "Namespace": "",
+              "Key": "0ACAE2B346F522465913F3A1AD1A5B97",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> took the L"
+            },
+            {
+              "Namespace": "",
+              "Key": "D592E1ED440803D7F9E690A43355B307",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> played themselves"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Dog Sweater",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.DogSweater"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "DB7691C84CCD81E8CBB67A8F42E54561",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was lost in their own Storm"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "CC1D4BED40792AD236A15381BF9AE678",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own Storm"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C57FDC0140F073626BEF60B7795D772E",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Storm Flip"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "8F360468486764E046032981BA23994D",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Storm Flip"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Falling",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Environment.Falling"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "8462D3254A8FC13DEAFE2C8E981C3F3D",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> didn't stick the landing{DistanceText}"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "7C03E6C04A87FB24FD781FA164F6F252",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> got knocked out by a fall{DistanceText}"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "2B8D5A3344D6E4F087AE739F85846AED",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a great fall{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "AB7BE6BE48A94EDB4011A5AC9CA14793",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a great fall{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Balloon",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Damage.Environment.Falling.Balloons"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F011B79C4D7DF581B45F08ABFF597107",
+                  "SourceString": "<{KillerStyle}>{Killer}</> burst <{VictimStyle}>{PlayerName}</>'s bubble{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "DE88CB044EA95386FE5A3EA9ACFFA00A",
+                  "SourceString": "<{KillerStyle}>{Killer}</> burst <{VictimStyle}>{PlayerName}</>'s bubble{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Golf Cart",
+              "DeathCauseTag": {
+                "TagName": "Vehicle.GolfCart"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "03C43BA24B8D5893861013882DDEB1A5",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</>'s landing was below par{DistanceText}"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A457B8234B2E14F8F5C59D8FAF985406",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> needs a mulligan"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "88D8A96044B63969008B6D9F5B16CB9F",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> skipped the driving range"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "8A4124DB4863DA8D93A401BCBC49017A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> is stuck in the rough"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "C0898030469F2B33FE951A9F722290CD",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> broke their driver"
+                }
+              ],
+              "EliminatedMessages": [],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Shopping Cart",
+              "DeathCauseTag": {
+                "TagName": "Vehicle.ShoppingCart"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B402E27C42B550C9B293DBAE7329E04B",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> shopped till they dropped{DistanceText}"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "3C8A201F4F97712F2FE603ACC2F8802A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> needs a cleanup in aisle 3"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "32DAA37140EB98EB6823859669FBC9C0",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> needs assistance in sporting goods"
+                }
+              ],
+              "EliminatedMessages": [],
+              "EliminatedDBNOMessages": []
+            }
+          ]
+        },
+        {
+          "DisplayText": "Falling (Sneaky Snowmando)",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Environment.Falling.SneakySnowmando"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "60DF97F84F0EB612BF414E802DBDCE09",
+              "SourceString": "A Sneaky Snowmando got the drop on <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "D7A7A8A94DD604A289DA56B8484EA58A",
+              "SourceString": "A Sneaky Snowmando knocked out <{VictimStyle}>{PlayerName}</> with a great fall{DistanceText}"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "57793C514CF62C5D7F76468084799060",
+              "SourceString": "<{KillerStyle}>{Killer}</> sent <{VictimStyle}>{PlayerName}</> sliding off a cliff{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "5822BFA74D5F664CB1EE05A82E8B891A",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a great fall{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Balloon",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Damage.Environment.Falling.Balloons"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F011B79C4D7DF581B45F08ABFF597107",
+                  "SourceString": "<{KillerStyle}>{Killer}</> burst <{VictimStyle}>{PlayerName}</>'s bubble{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "DE88CB044EA95386FE5A3EA9ACFFA00A",
+                  "SourceString": "<{KillerStyle}>{Killer}</> burst <{VictimStyle}>{PlayerName}</>'s bubble{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Golf Cart",
+              "DeathCauseTag": {
+                "TagName": "Vehicle.GolfCart"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "03C43BA24B8D5893861013882DDEB1A5",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</>'s landing was below par{DistanceText}"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A457B8234B2E14F8F5C59D8FAF985406",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> needs a mulligan"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "88D8A96044B63969008B6D9F5B16CB9F",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> skipped the driving range"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "8A4124DB4863DA8D93A401BCBC49017A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> is stuck in the rough"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "C0898030469F2B33FE951A9F722290CD",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> broke their driver"
+                }
+              ],
+              "EliminatedMessages": [],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Shopping Cart",
+              "DeathCauseTag": {
+                "TagName": "Vehicle.ShoppingCart"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B402E27C42B550C9B293DBAE7329E04B",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> shopped till they dropped{DistanceText}"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "3C8A201F4F97712F2FE603ACC2F8802A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> needs a cleanup in aisle 3"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "32DAA37140EB98EB6823859669FBC9C0",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> needs assistance in sporting goods"
+                }
+              ],
+              "EliminatedMessages": [],
+              "EliminatedDBNOMessages": []
+            }
+          ]
+        },
+        {
+          "DisplayText": "Fiend (Basic)",
+          "DeathCauseTag": {
+            "TagName": "NPC.CharacterType.Fiend.Basic"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E583F4B04F817982716D7E9338AC5EDC",
+              "SourceString": "Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A4F94DAD4F1B3EEFF2CFF8AC51A269C0",
+              "SourceString": "Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "24584A7B4CAAF548CF1914B19B3EBBBC",
+              "SourceString": "Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Fiend (Basic Poison)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Fiend.Basic.Poison"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "ECA778314216076491DBC6ABE37AD1C8",
+                  "SourceString": "Poison Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "DC3E0D734CD0BB3467715DAE788C6D24",
+                  "SourceString": "Poison Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "259AEB5D48C7D095DFCCF6952B8ED441",
+                  "SourceString": "Poison Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Fiend (Basic Winter)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Fiend.Basic.Winter"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "9DFB8EAF48D54718F606D3A8C6EA8B99",
+                  "SourceString": "Ice Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "83B678654E3FF23367858399C9911D9A",
+                  "SourceString": "Ice Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "907F666943B1F18685AED992122BB27B",
+                  "SourceString": "Ice Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Fiend (Major)",
+          "DeathCauseTag": {
+            "TagName": "NPC.CharacterType.Fiend.Major"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "37F8F5C74B6CF5AFD7BF34910CDFB93C",
+              "SourceString": "Elite Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F758AED04773A0F519A1A3B6CFE21E76",
+              "SourceString": "Elite Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "0A69FAA341B26285FCB1598A14D853D5",
+              "SourceString": "Elite Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Fiend (Major Winter)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Fiend.Major.Winter"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "07EAC24D44468CA9D49C438452AF3F9D",
+                  "SourceString": "Elite Ice Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "1B203C40479C9152988542A9A21A97F9",
+                  "SourceString": "Elite Ice Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "71B01A454220FB96947D61839FB587CA",
+                  "SourceString": "Elite Ice Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Fiend (Ranged)",
+          "DeathCauseTag": {
+            "TagName": "NPC.CharacterType.Fiend.Ranged"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "30AED19C4EE00A60E74729AE3D17F562",
+              "SourceString": "Ranged Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "36C6CDFE47FAB1F43796E69650502096",
+              "SourceString": "Ranged Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "4A2472B0492D26E16DB501A5863BE3B3",
+              "SourceString": "Ranged Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Fiend (Ranged Chill)",
+              "DeathCauseTag": {
+                "TagName": "NPC.CharacterType.Fiend.Ranged.Chill"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "112584A04D32FDFA5827008306401900",
+                  "SourceString": "Ranged Ice Fiend finally eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C35842464435C587358793B4C817D654",
+                  "SourceString": "Ranged Ice Fiend eliminated <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "4B01CFC44A65E5699A8B35ABB6165495",
+                  "SourceString": "Ranged Ice Fiend knocked out <{VictimStyle}>{PlayerName}</>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Fire",
+          "DeathCauseTag": {
+            "TagName": "Curie.Asset.State.ElementalStatus.Burning"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "0C93E4A14742814A422EF2BB1F40A4A3",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was feelin' crispy"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "32F8B4A346D141D120D26CA621759ED4",
+              "SourceString": "<{KillerStyle}>{Killer}</> thought <{VictimStyle}>{PlayerName}</> was hot stuff"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Firefly Jar",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Grenade.Molotov"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C96D40864FCB2EA3843C099630F63374",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Firefly Jar{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "2F7296904763D9917AAEBAB03B801FF5",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Firefly Jar{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Flare Gun",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.FlareGun"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "73A9945545676234AA5682BF180A25E0",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> shouldn't play with fire."
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "5F6CD7C148596578FC5BFCA5431B8AF1",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> knocked themselves out with a Flare Gun!"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "175C4DC54A6961408E4304826821B664",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> just got burned by <{KillerStyle}>{Killer}</>!"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A0AC2D5C4E022EE9C9CE4C93B8E031FE",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Flare Gun!"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Gas Can",
+          "DeathCauseTag": {
+            "TagName": "Item.Fuel.PetrolPickup"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "79A0D0D2496EE8FE9302D1BA4C9E9E47",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BOOM!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "6B0C02DD48718D378D348792BB336818",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText} with a Gas Can"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "EC4CB7DF4302EA74262F9AB2F940702C",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText} with a Gas Can"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Gas Pump",
+          "DeathCauseTag": {
+            "TagName": "EnvItem.ReactiveProp.GasPump"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "79A0D0D2496EE8FE9302D1BA4C9E9E47",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BOOM!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "B013336F4E2650CBEA4AC3B3C1DF6B2E",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText} with a Gas Pump"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E5F74E944BE703ACE54CA787E376CD5E",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText} with a Gas Pump"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Happy Ghost",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.HappyGhost"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "0ECABAB8481AA68001D703B0CB6B9EC4",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Harpoon Gun{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "465124AA488BFC126DDDD4A21788D8CC",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Harpoon Gun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Infinity Blade",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Melee.InfinityBlade"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "53D63986469B51E2BDFB3F964C7270AC",
+              "SourceString": "<{KillerStyle}>{Killer}</>'s <Sarcasm>Infinity Blade</> erased <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "61866766406E5F288EDC6DB2C7C15521",
+              "SourceString": "<{KillerStyle}>{Killer}</>'s <Sarcasm>Infinity Blade</> knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Jolly Rascal",
+          "DeathCauseTag": {
+            "TagName": "Asset.Athena.Item.JollyRascal.Damage"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F10C69744AC0026C49D542AF22BDE033",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> crushed themselves with some Junk"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "B466504948B8C1EC1A9AE7BC4C9DCE77",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> knocked out themselves with some Junk"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "EFD162F347DA7367D6615E8106B26B7C",
+              "SourceString": "<{KillerStyle}>{Killer}</> crushed <{VictimStyle}>{PlayerName}</> with some Junk"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "1014B5224BA9CBAA63745BAF2B63D4CE",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with some Junk"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Anchor",
+              "DeathCauseTag": {
+                "TagName": "Asset.Athena.Item.JollyRascal.Damage.Anch"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E740844E4FE605783281989E1D792353",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> dropped anchor on themselves"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B16FB6F64B91826EA74F4EBB5F72D684",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> knocked out themselves with an Anchor"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "FA4B08654B3A824210858C9D7F0C4856",
+                  "SourceString": "<{KillerStyle}>{Killer}</> dropped anchor on <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "651DBD4949F2D40E0892EEB61E2531C3",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an Anchor"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Car",
+              "DeathCauseTag": {
+                "TagName": "Asset.Athena.Item.JollyRascal.Damage.Car"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "926B4FDD42DA1EC5DE029AA3ABB11AD7",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> arrested themselves"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "39F333A74914DB8DEDDABFB6D4FAB9D7",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</>  knocked out themselves with a Squad Car"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C905894E42BF5FEF95A198809992952C",
+                  "SourceString": "<{KillerStyle}>{Killer}</> arrested <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F31D29CA4D993906FEB202B41E8B193E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Squad Car"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Dino",
+              "DeathCauseTag": {
+                "TagName": "Asset.Athena.Item.JollyRascal.Damage.Dino"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B716D8FA44FAA35583150DAF4ADD4472",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> sent themselves to the cretaceous period"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B790BB444D0ABB054EF5B8B3764FDCDC",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> knocked out themselves with a Triceratops"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C1F3E28944C82113E3701AA07921C67A",
+                  "SourceString": "<{KillerStyle}>{Killer}</> sent <{VictimStyle}>{PlayerName}</> to the cretaceous period"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "BB6415814B75647F149317BF2E69B002",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Triceratops"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Porta",
+              "DeathCauseTag": {
+                "TagName": "Asset.Athena.Item.JollyRascal.Damage.Porta"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "65C00B1A4223CE6652AB44A02233C98C",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> flushed themselves"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E1E8F65647A42EAAE8ABFBB9663900B7",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> knocked out themselves with a Porta Potty"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F2AB8FF245FDFC4A096739BADF192E99",
+                  "SourceString": "<{KillerStyle}>{Killer}</> flushed <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "68D07E7F41F4D94ED0DD2480DFB80DC4",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Porta Potty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Lava",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Status.HotFeet"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "6E59773A4DD780F7397CD7A2F3B87A5B",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> couldn't take the heat"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "D70C04054CF59D0C9AD0CEA8AF5E9FB7",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> touched the stove too many times"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "254DF7B24E4E2A1FDB0D12B17C0B0EE4",
+              "SourceString": "<{KillerStyle}>{Killer}</> dropped <{VictimStyle}>{PlayerName}</> in lava"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C3AD46DD41C8A456236AD5A19E186F78",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> in the lava"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Left Behind",
+          "DeathCauseTag": {
+            "TagName": "LTM.Behind.Damage.Tag"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F22AE63C4F16B07251A069A6242947D4",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> tried to leave someone behind"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "521A17DA4BE767DF319742A78F1600C6",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> tried to leave someone behind"
+            }
+          ],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Level Up",
+          "DeathCauseTag": {
+            "TagName": "Athena.Event.NewLevel"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D92CBDEA4DEA1B23AE91F09A053DBAE9",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> is now level {Level}!"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Lobster Reflect Projectile",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Galileo.Lobster.Reflect"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F6D395DE490AF99BFFE3298DC6A9A804",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a deflected blaster shot"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "5C2AF1EC4B8BBE05A858ACB50C08E529",
+              "SourceString": "<{KillerStyle}>{Killer}</> downed <{VictimStyle}>{PlayerName}</> with a deflected blaster shot"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Lock Scanner (Spy)",
+          "DeathCauseTag": {
+            "TagName": "Asset.Athena.EnvItem.Lock.Scanner.Damage"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F6B349FD4A5E0FD0D5CAE59E9E91C4CE",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by a ID Scanner"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "41D16092418C7A05E03103BFC209F162",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by a ID Scanner"
+            }
+          ],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Lump of Coal",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.Coal"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D463F1904B2807A0E5AE2D907C3614F4",
+              "SourceString": "<{KillerStyle}>{Killer}</> Added <{VictimStyle}>{PlayerName}</> to the Naughty List{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "0480D35B4F417145A54B58A3243A569D",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked <{VictimStyle}>{PlayerName}</> with a Lump of Coal{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Outside Safe Zone",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.OutsideSafeZone"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E0C49A3349F3C37EE8F22CABEE12E1D0",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was lost in the storm"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "5DB7FBFE4EBD5587C5A5209F18A681BD",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by the storm"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "73DD96E340BCB47880A6959099545477",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> in the storm"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A676C8CF46F1555E35528D863E2B2143",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> in the storm"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Propane Tank",
+          "DeathCauseTag": {
+            "TagName": "EnvItem.ReactiveProp.PropaneTank"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "79A0D0D2496EE8FE9302D1BA4C9E9E47",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BOOM!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "09250A4D429B553B189DB980A8AACBAB",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText} with a Propane Tank"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "538BA2594B841DE25489EEADAF0B27C6",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText} with a Propane Tank"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Removed From Game",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.RemovedFromGame"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Sentry (Creative)",
+          "DeathCauseTag": {
+            "TagName": "NPC.EnemyType.Turret"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "0DDBB40B466344495ED93DB62EAEA3C5",
+              "SourceString": "Sentry finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "B7AAE5C84AF3687E43BD259877D99043",
+              "SourceString": "Sentry eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "02A54472490171C856C8D8BCF48ED847",
+              "SourceString": "Sentry knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Sentry Turret (Spy)",
+          "DeathCauseTag": {
+            "TagName": "Asset.Athena.EnvItem.Sentry.Turret.Damage"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "233807F342B05865F19064944810153C",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by a Security Turret"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "6B6F729049B5249DA33ADEAC3EB2DA7D",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by a Security Turret"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Snowball",
+          "DeathCauseTag": {
+            "TagName": "HeldObject.Athena.Generic.SnowBall"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "4E3F19CA4F7D0CD6F4F422B50E46EB0E",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was flattened by their own Snowball!"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "016D7E1841B074906DF62DBF385A0A66",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked themselves out with a Snowball!"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "15730F5849B850754C118EBC1B112C16",
+              "SourceString": "<{KillerStyle}>{Killer}</> flattened <{VictimStyle}>{PlayerName}</> with a Snowball!"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "877E40404936368A8FEF8EADB93E95D8",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Snowball!"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Storm Surge",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Environment.StormSurge"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "612F1B154BD3D0CA1D167887FB32C7C5",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by the Storm Surge"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Switched Team",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.TeamSwitchSuicide"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E691C5394C06EFC2F16C778B58086FE1",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> switched teams"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Switched To Spectate",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Effect.InstantDeath.Silent.SwitchingToSpectate"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E4952AE74011C5A5376969BE9A96BFC7",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> is switching to spectate"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Thanos (Beam)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Massive"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "4201EC6948F1CDE4FE7CBA867CE0EA21",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> yielded to the <Sarcasm>POWER</> of Thanos (<{KillerStyle}>{Killer}</>)"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3EA6F4AF4D77858A343A588CA7E9E8E8",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> yielded to the <Sarcasm>POWER</> of Thanos (<{KillerStyle}>{Killer}</>)"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Thanos (Dive Bomb)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Melee.Massive.Divebomb"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D9068A1247328B31E74BD1BDED97886A",
+              "SourceString": "Thanos (<{KillerStyle}>{Killer}</>) blasted <{VictimStyle}>{PlayerName}</> into <Sarcasm>SPACE</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "BE55C1704B1516527EC8BDA4070518C1",
+              "SourceString": "Thanos (<{KillerStyle}>{Killer}</>) blasted <{VictimStyle}>{PlayerName}</> into <Sarcasm>SPACE</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Thanos (Punch)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Melee.Massive.Charge"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FA3B492643585D307FD3DD81A109DB3B",
+              "SourceString": "Thanos (<{KillerStyle}>{Killer}</>) punched <{VictimStyle}>{PlayerName}</> into a new <Sarcasm>TIME</> zone"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C89896E64EB27951C84581961CEEEE1B",
+              "SourceString": "Thanos (<{KillerStyle}>{Killer}</>) punched <{VictimStyle}>{PlayerName}</> into a new <Sarcasm>TIME</> zone"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Touched Ground (Goose)",
+          "DeathCauseTag": {
+            "TagName": "Athena.LTM.Goose.TouchedGround"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FF39AC2749BBFDBC9C8F9C9374A8ECFE",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> should have stayed in the plane{DistanceText}"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "3F41BE164F509A66439802A19DA74C0B",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> by stripping their wings{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Tournament",
+          "DeathCauseTag": {
+            "TagName": "DeathCause.EliminatedInTournament"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FC11B28F4ABC650626326FBCEACBFDBC",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Trap",
+          "DeathCauseTag": {
+            "TagName": "Trap"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FCC396654D3930404DF7B68C83AE6D5F",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a trap"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "BCF9BA6747E9D09C9972E9B724E72ABC",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a trap"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "ZippyTrout",
+              "DeathCauseTag": {
+                "TagName": "Item.Trap.ZippyTrout"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F5A037F44D7A1A09C25C6EB52F3B98EA",
+                  "SourceString": "<{KillerStyle}>{Killer}</>  <Sarcasm>ZAPPED</>  <{VictimStyle}>{PlayerName}</> "
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "13E1521249AF67928AEA09932877B1FB",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Zapper Trap"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Underwater",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Underwater"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "57A5B55D40CAB498A2CD858B84156F52",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by water"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "8A929D84434DF064552FFB9CA9AFE363",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by water"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C4B00BDE4DDAC74D4C3F09B726A7CB35",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by water"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "0236DBFB4E5D6FDC6FC0E4A562F811E5",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by water"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Vehicle",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Vehicle"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A7C814C84CE31C58540C29BAB28F62B3",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "07AC93DA4A2120363114988B68E9821E",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "854E8795428F17478170519579FFBD7A",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a vehicle"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "8F79DDD546AD90865816FDB5B7B3068B",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a vehicle"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Vehicle (Biplane)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Biplane"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "0FBBE6B24E3F72D32D5716AD88FDF4BC",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "D7DF5E5C480B7EAC691B28A8FF908388",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "7192A8AD4E0591020F18C0B78BBFD869",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a biplane"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A182AC46406F7D9FBC3CE9A5E82EADC0",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a biplane"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Choppa)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Hoagie"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "5F0CD81D4B5F77CEB1600F970A972C7E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Choppa"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "AD4338C54F4A3EBF9AA9ACBD36885916",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Choppa"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Golf Cart)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.GolfCart"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "680BC35A43EBE0A1FBD66AB7E988BC79",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2EBCF74A440C7FB3F0360B97360BBBB3",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "78FBBC234273009C0ABDEA8CEB82C825",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an ATK"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2ECFD8F143A8D8CE45ACFC836E9FA831",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an ATK"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Motorboat)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Meatball"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "57DE412243F99078392FCA9D68F508F6",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> ran themself over with a Motorboat"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A438E3344762C40DD3614F97CD2A14A3",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> ran themself over with a Motorboat"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "512F31084772DD8880F80F8E34B44E4E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Motorboat"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "1AF89EB84739FBD25CE7B997E01AAB31",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Motorboat"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Pickup)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Valet.BasicPickup"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F7A18A4340A65E3B43F27580F8B4901E",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E329AE82411EB6312ADE95BB48B5C7CF",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "65C1DC1742C26188A48E01B7E7F784CC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a BEAR"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2D4CF88A4B7E39F54EF1249C5B121E96",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a BEAR"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Quad Crasher)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Antelope"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E91A355C449B4F1033868299AF54EEDD",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A76C777543D2D00E53E19195348C3413",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "4EFADADF4BC9D641217DD8B041C1A9F8",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a quad crasher"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E13D21684C34D383643B4D902337DCB5",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a quad crasher"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Sedan)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Valet.BasicSedan"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "680BC35A43EBE0A1FBD66AB7E988BC79",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2EBCF74A440C7FB3F0360B97360BBBB3",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "4CF941184415A9EAA718F19D5426FAE3",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Sedan"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "983FA99B49E3B7FBDB5F15BE8576DC29",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Sedan."
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Semi)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Valet.Semi"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "680BC35A43EBE0A1FBD66AB7E988BC79",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2EBCF74A440C7FB3F0360B97360BBBB3",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A63D12FA49146C11D11400B325E18025",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Mudflap"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "BD71551B4B45BD0684B4EF912933F891",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Mudflap"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Shopping Cart)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.ShoppingCart"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2EE9798E4386ECB46B4F7DBBF321DE80",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "188CDCAF4719AFB4C19522AD08FCB5B1",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "8DF9FDD5417737FF33C3A6A4F66391DC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a shopping cart"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E9D39FF844DAEFE536DEDBA58EE37F41",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a shopping cart"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Sports Car)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Valet.SportsCar"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "680BC35A43EBE0A1FBD66AB7E988BC79",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2EBCF74A440C7FB3F0360B97360BBBB3",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "3CDF468F421FA071CDFC02B08AF49E91",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Whiplash"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F0B1A8594C5D33C6F098AE8EDF6E1A57",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Whiplash"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Vehicle (Taxi)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Valet.Taxi"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "680BC35A43EBE0A1FBD66AB7E988BC79",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2EBCF74A440C7FB3F0360B97360BBBB3",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "41D9598B472A554ACC90B59908510307",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Taxi"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "BF749E2141299642B4F1B0B315850BB7",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Taxi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Vehicle (Biplane Gun)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Biplane"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "CAC349734B9DA0531F5DDAA7114B8C6A",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a biplane gun"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "404E9E17472CBF267A54B0AD1A45937E",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a biplane gun"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Goose LTM bomb weapon",
+              "DeathCauseTag": {
+                "TagName": "Athena.LTM.Goose.Weapon.C"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "766FCE374B3E0FAC5E79398FE6067F1E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> dropped some bombs on <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Goose LTM fire weapon",
+              "DeathCauseTag": {
+                "TagName": "Athena.LTM.Goose.Weapon.R"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "44DE8C5C4256DBC86DB088A353986071",
+                  "SourceString": "<{KillerStyle}>{Killer}</> unleashed an inferno on <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Goose LTM ice weapon",
+              "DeathCauseTag": {
+                "TagName": "Athena.LTM.Goose.Weapon.UC"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "1886DFF4458059EBF83EA8BC8F091B19",
+                  "SourceString": "<{KillerStyle}>{Killer}</> gave <{VictimStyle}>{PlayerName}</> a chill"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Goose LTM laser weapon",
+              "DeathCauseTag": {
+                "TagName": "Athena.LTM.Goose.Weapon.SR"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F6409BF74C58BE86DD8944B790E19B1F",
+                  "SourceString": "<{KillerStyle}>{Killer}</> zapped <{VictimStyle}>{PlayerName}</> out of the sky"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Goose LTM rocket weapon",
+              "DeathCauseTag": {
+                "TagName": "Athena.LTM.Goose.Weapon.VR"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "34BAE8BD4CBE94E8182DA7A46CBCB996",
+                  "SourceString": "<{KillerStyle}>{Killer}</> took down <{VictimStyle}>{PlayerName}</> with a rocket"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            }
+          ]
+        },
+        {
+          "DisplayText": "Vehicle (Choppa)",
+          "DeathCauseTag": {
+            "TagName": "Athena.Vehicle.Hoagie"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "73E7AE324FDDEDBCF3E527A430DCA19E",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Choppa"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E0AC99FB46CD99D8BC6471BDEF9EFF21",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Choppa"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Vehicle (Motorboat Missile)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Vehicle.Meatball"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "3BBA991241239F7EAC1DCB86F80248DE",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> eliminated themself with a Motorboat Missile"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E367917E4A4C94A4D8F673A708060C0B",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> knocked themself out with a Motorboat Missile"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "437E0E46429004D66F3374931E181CA4",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Motorboat Missile"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C4719DF5412DB247B5B2978DD4049493",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Motorboat Missile"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Vehicle (ValetExplode)",
+          "DeathCauseTag": {
+            "TagName": "Athena.Valet.ExplodeDamage"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "31FAE9FF40422CB7EE1C59B5C857283B",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> took the L"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "7899BCA74614DF3B2EFEE185DCB3B58D",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> knocked themself out"
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "3B00AB644F573D664303F3940F266183",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a vehicle explosion"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "267DF70B4051DC7382F8BFA61E8B1BD8",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a vehicle explosion"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Bow)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "73ECC1914BC0F8332EA033A8A1EC4D5A",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "21943021461FED9239AC2ABD04599E41",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Weapon (Boom Bow)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Bow.Explosive"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "6257A0DD4D210B27FA203491C51EA5CC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Boom Bow!{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C6FB488249505DCDAC5944A4A345658F",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Boom Bow!{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Weapon (FiendCrossBow)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Bow.FiendHunter"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "8862F7B4469D1C0E65A2CE9585EC96CD",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Fiend Hunter Crossbow{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "5B1A663B41A7BB1BAFE9A8A36D37CEDC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Fiend Hunter Crossbow{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Weapon (Kaboom Bow)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Bow.Explosive.TNTina"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "AC24755F42C98DD99450AE9CF7198760",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with TNTina's Ka-Boom Bow!{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "3D8DDE154577AE42B618C29CDA52B955",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with TNTina's Ka-Boom Bow!{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Weapon (ValentinesCrossBow)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Bow.Valentine"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2B319C4C42B7B64BA6001B93738785F6",
+                  "SourceString": "<{KillerStyle}>{Killer}</> enchanted <{VictimStyle}>{PlayerName}</> with Cupid's Crossbow{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "D797565C4A3D47233F03068D50A2E83D",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Cupid's Crossbow{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Bow) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Crossbow"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "73ECC1914BC0F8332EA033A8A1EC4D5A",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "21943021461FED9239AC2ABD04599E41",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Weapon (Boom Bow)",
+              "DeathCauseTag": {
+                "TagName": "Weapon.Ranged.Crossbow.Explosive"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "6257A0DD4D210B27FA203491C51EA5CC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Boom Bow!{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C6FB488249505DCDAC5944A4A345658F",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Boom Bow!{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Brutus' Minigun)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault.Minigun.Brutus"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "20E1D5BB4133B9C9C55DD2B55691EAE7",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with Brutus' Minigun{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C16D014E4C16547F9416FF83AAFA8F72",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Brutus' Minigun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (C4)",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.RemoteExplosives"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "80E6A37A42EFFA9BA19F758D2B02D08B",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F758008B4C37A74BAA7EC286B3E8B6F9",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C7EF8B424A6242B84FF12B842182312E",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (C4) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Heavy.C4"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "80E6A37A42EFFA9BA19F758D2B02D08B",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F758008B4C37A74BAA7EC286B3E8B6F9",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C7EF8B424A6242B84FF12B842182312E",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Donut Pistols)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Pistol.Donut"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "9A7EE5CA45322B3310A419AD0BAC9519",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with Deadpool's Hand Cannons{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "96CFFD3F435F587461F34C8822E7716B",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Deadpool's Hand Cannons{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Dub)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Shotgun.Dub"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "DE38487E48ED4ED9A2F649A69A72E70F",
+              "SourceString": "<{KillerStyle}>{Killer}</> just dropped a Dub on <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E54B90F24EE8901B61010491CBCC977B",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Dub{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Galileo Bun)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Galileo.Bun"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D9F116CD411A7DE21F2EC39D9357EDC9",
+              "SourceString": "<{KillerStyle}>{Killer}</> blasted <{VictimStyle}>{PlayerName}</> with a First Order Blaster Rifle {DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C368F6AF4B64DED2A51D9AA6C91BB360",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a First Order Blaster Rifle {DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Weapon (Galileo Bun Cosmos)",
+              "DeathCauseTag": {
+                "TagName": "Item.weapon.Galileo.Bun.Cosmos"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E56B86B846B6420B2AA9599644A8DA21",
+                  "SourceString": "<{KillerStyle}>{Killer}</> blasted <{VictimStyle}>{PlayerName}</> with a E-11 Blaster Rifle {DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "08AE28574D2EB9B5E2C41AAE87FFCBA7",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a E-11 Blaster Rifle {DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Gas Grenade)",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.StinkBomb"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "BD83A94044CBF8A6A75FE4BA98CDA790",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> couldn't stand their own stink"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E8C7304B4EAC2BA9A8FA8EAE1689E5D4",
+              "SourceString": "<{KillerStyle}>{Killer}</> dealt it and <{VictimStyle}>{PlayerName}</> smelt it.{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "ED714484423C324AE40C448187A565B0",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly cleared out <{VictimStyle}>{PlayerName}</>.{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Gas Grenade) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Grenade.Gas"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "BD83A94044CBF8A6A75FE4BA98CDA790",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> couldn't stand their own stink"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E8C7304B4EAC2BA9A8FA8EAE1689E5D4",
+              "SourceString": "<{KillerStyle}>{Killer}</> dealt it and <{VictimStyle}>{PlayerName}</> smelt it.{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "ED714484423C324AE40C448187A565B0",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly cleared out <{VictimStyle}>{PlayerName}</>.{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Grenade Launcher)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Launcher.Grenade"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "622622FA4994EBA4E6D8AC9CB3415CDB",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "502F128249708D26619777922DCA91B3",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "F28C9888425C7687656526B4B9C4BD8B",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Grenade Launcher) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Heavy.Grenade_Launcher"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "622622FA4994EBA4E6D8AC9CB3415CDB",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "502F128249708D26619777922DCA91B3",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "F28C9888425C7687656526B4B9C4BD8B",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Grenade)",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.Grenade"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C372E195419815A035AD159B066B5E94",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FF5C5DFD41C9BDCD23F2B19917C6E208",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "DA6CFA0449BD7D107F7FFD952D19B309",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Grenade) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Heavy.Grenade"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C372E195419815A035AD159B066B5E94",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FF5C5DFD41C9BDCD23F2B19917C6E208",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "DA6CFA0449BD7D107F7FFD952D19B309",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Jules Drumgun)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault.Drum.Midas"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "0E36980F46F0B76B40A0CB9B3A8BF8B4",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with Jules' Drum Gun{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "47AB8865470B42A69F7155A917344B0B",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Jules' Drum Gun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Kits Shotgun)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Shotgun.Charge.RoboMeow"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "60E87FFC41C397A4E8B2ACA4E312390B",
+              "SourceString": "<{KillerStyle}>{Killer}</> shotgunned <{VictimStyle}>{PlayerName}</> with Kit's Charge Shotgun{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3540A04740AD8ECADE5AF091C3597FD8",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Kit's Charge Shotgun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (LMG)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault.LMG"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "1DB725A044C8F35E97E7BE82A0F2A139",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an LMG{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A7B67ED24FBC81667E646282902A9D23",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an LMG{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (LMG) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.LMG"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "1DB725A044C8F35E97E7BE82A0F2A139",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an LMG{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A7B67ED24FBC81667E646282902A9D23",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an LMG{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Melee)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Melee"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "BD26215441700CA6829D62ACAB5A7AF5",
+              "SourceString": "<{KillerStyle}>{Killer}</> bludgeoned <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Galileo Lobster",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Galileo.Lobster"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C7F59B114CDE119D33014FB66D00F757",
+                  "SourceString": "<{KillerStyle}>{Killer}</> had the high ground against <{VictimStyle}>{PlayerName}</>"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "96F7E3E946204D855D1694BAEBEEBB9B",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName} </>with an elegant weapon for a more civilized age"
+                },
+                {
+                  "Namespace": "",
+                  "Key": "0AD85C964D12579CD0E12FB652706494",
+                  "SourceString": "<{KillerStyle}>{Killer}</> struck down <{VictimStyle}>{PlayerName} </>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "21C3AC2242B655876B8B4098BFB5E82E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked <{VictimStyle}>{PlayerName}</> from the highground"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Nightmare (Melee)",
+              "DeathCauseTag": {
+                "TagName": "Cosmetics.Pickaxe.Nightmare"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "0C8B88D84E34A8F66A03B9A1EBA3A7CC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> hunted <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            },
+            {
+              "DisplayText": "Turbo (Melee)",
+              "DeathCauseTag": {
+                "TagName": "Weapon.Melee.Turbo.AxeMelee"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "EF3B7B7B4B29444D85ABF99AFE9304CD",
+                  "SourceString": "<{KillerStyle}>{Killer}</> chopped down <{VictimStyle}>{PlayerName}</> with <Sarcasm>Stormbreaker</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "67ECB4C74E368771547D4D9FB71C13CD",
+                  "SourceString": "<{KillerStyle}>{Killer}</> chopped down <{VictimStyle}>{PlayerName}</> with <Sarcasm>Stormbreaker</>"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Turbo (Ranged)",
+              "DeathCauseTag": {
+                "TagName": "Weapon.Melee.Turbo.AxeRanged"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F9F54FDC41354A3BD8268E83E18D1EAB",
+                  "SourceString": "<{KillerStyle}>{Killer}</> went for the head of <{VictimStyle}>{PlayerName}</> with <Sarcasm>Stormbreaker</>{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "34FBC5784213392D2AD05AB421C78721",
+                  "SourceString": "<{KillerStyle}>{Killer}</> went for the head of <{VictimStyle}>{PlayerName}</> with <Sarcasm>Stormbreaker</>{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Turbo (Slam)",
+              "DeathCauseTag": {
+                "TagName": "Weapon.Melee.Turbo.AxeSlam"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "861B7F574F1520B565A994AA7933F019",
+                  "SourceString": "<{KillerStyle}>{Killer}</> smashed <{VictimStyle}>{PlayerName}</> with <Sarcasm>Stormbreaker</>"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "E4C268A14DAFBF2FF3305A8C3C6CA6A0",
+                  "SourceString": "<{KillerStyle}>{Killer}</> smashed <{VictimStyle}>{PlayerName}</> with <Sarcasm>Stormbreaker</>"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Wasabi (Melee)",
+              "DeathCauseTag": {
+                "TagName": "Cosmetics.Pickaxe.HightowerWasabi"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "68C269C3450041718110A8A52A2B55E2",
+                  "SourceString": "<{KillerStyle}>{Killer}</> sliced <{VictimStyle}>{PlayerName}</>"
+                }
+              ],
+              "EliminatedDBNOMessages": []
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Meowscle's Rifle)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault.Heavy.Meowscles"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "25F2AD3640EA73A950D9D4BCB43AAC55",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with Meowscle's Peow Peow Rifle{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3B636A6344041793CCB1C28FC74C80E8",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Meowscle's Peow Peow Rifle{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Minigun)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault.Minigun"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A172E67148192D9B808B90AC458DD7D2",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a minigun{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "9293C99A44E30483649847B0971D2646",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a minigun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Minigun) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Minigun"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A172E67148192D9B808B90AC458DD7D2",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a minigun{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "9293C99A44E30483649847B0971D2646",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a minigun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Oceans BurstAR)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault.Burst.NeonGirl"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "AC267A6B458480DD20DED586AC0E2BF9",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with Ocean's Burst Assault Rifle{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3F30709747731FB72E9B7982F4F7EF44",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Ocean's Burst Assault Rifle{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Pistol)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Pistol"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "11EE8C3048DEF8745B996E9DF032327F",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a pistol{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "9DD1B17449909C44A7361A822EE62E78",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a pistol{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Weapon (Hop Rock Dualies)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Pistol.DualPistols.HopRock"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "789ED6F649BC94AEA670479140748EAB",
+                  "SourceString": "<{KillerStyle}>{Killer}</> rocked <{VictimStyle}>{PlayerName}</> with the Hop Rock Dualies{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "4D55EDAF47EBE36E87B71BAE76460133",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Hop Rock Dualies{DistanceText1}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Weapon (Night Hawk)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Pistol.Thermal"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "98113A0B4E56F0DDC85B9D8A21890E0D",
+                  "SourceString": "<{KillerStyle}>{Killer}</> hunted down <{VictimStyle}>{PlayerName}</> with the Night Hawk{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "193DC1E7417E5CD21F3802B4A31F9F42",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Night Hawk{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Weapon (Shadow Tracker)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Pistol.Tracker"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "0C5C71DD42489947BC40BDA199722B97",
+                  "SourceString": "<{KillerStyle}>{Killer}</> tracked down <{VictimStyle}>{PlayerName}</> with the Shadow Tracker{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "3CE01DD24BC82A41D369409243716153",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Shadow Tracker{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Pistol) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Pistol"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "11EE8C3048DEF8745B996E9DF032327F",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a pistol{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "9DD1B17449909C44A7361A822EE62E78",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a pistol{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Rifle)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Assault"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "029A2B5C4CD33600B0E5E2A7F0F985E1",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a rifle{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "23585BF34137828DA333DBB38510AC42",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a rifle{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Weapon (Ghost Midas Drumgun)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Assault.Drum.GhostMidas"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "0062E378423E8BBF0955CCA1F2778902",
+                  "SourceString": "<{KillerStyle}>{Killer}</> ghosted <{VictimStyle}>{PlayerName}</> with Ghost Midas' Drum Gun{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "8B109A0C49585E44BFE04EA485A17535",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Ghost Midas' Drum Gun{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Weapon (Skye's Assault Rifle)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Assault.Auto.Jas"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "54C2B7FC496707F41534A593E854BE95",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with Skye's Assault Rifle{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "53172EA648E50B5B95E3FFB75E410287",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Skye's Assault Rifle{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Rifle) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Assault"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "029A2B5C4CD33600B0E5E2A7F0F985E1",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a rifle{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "23585BF34137828DA333DBB38510AC42",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a rifle{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Rocket Launcher)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Launcher.Rocket"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "719C970A45BE93E912FC539875818A13",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "7992813B453241AFC33649BAF0000DC2",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E95C0A7D4EC9DDB72818809AEBC25E41",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Weapon (Burst Quad Launcher)",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Launcher.Rocket.Burst"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "9AA1B5104FE43F546C56819DC4549E61",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "7772577F47AA09C6364AEC94621D2950",
+                  "SourceString": "<{KillerStyle}>{Killer}</> 'sploded with a burst of rockets <{VictimStyle}>{PlayerName}</>{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "CA5B5EB64AFBFDCBAE7032AA2008B1EF",
+                  "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Rocket Launcher) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Heavy.Rocket_Launcher"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "719C970A45BE93E912FC539875818A13",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "2E2348F041AF806FC10AEC92131FBB35",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "26A7398844BD487262DF589E554AD3B5",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Ship Cannon)",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.PirateCannon"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "782FDA7E4834411B4AC3F7A7ECBFF530",
+              "SourceString": "<{KillerStyle}>{Killer}</> shivered <{VictimStyle}>{PlayerName}</>'s timbers{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "5DA9C5624F2F87D4BFFF7C988EA33542",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a pirate cannon{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Shotgun)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Shotgun"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "AC4FAA6C4C5C334E02E1A2A2946A9ADF",
+              "SourceString": "<{KillerStyle}>{Killer}</> shotgunned <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A74EFE9E4DE99AD1A0AC8685FDCF0010",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a shotgun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Shotgun) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Shotgun"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "AC4FAA6C4C5C334E02E1A2A2946A9ADF",
+              "SourceString": "<{KillerStyle}>{Killer}</> shotgunned <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "A74EFE9E4DE99AD1A0AC8685FDCF0010",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a shotgun{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (SMG)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.SMG"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "235E1622418DDD2C7AA227907984286D",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an SMG{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C411E63844D4654B96537183C80235B0",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an SMG{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (SMG) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.SMG"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "235E1622418DDD2C7AA227907984286D",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with an SMG{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C411E63844D4654B96537183C80235B0",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with an SMG{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Sniper no-scope)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Sniper"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C405DBD6480593A6547652829F32BE10",
+              "SourceString": "<{KillerStyle}>{Killer}</> NO-SCOPED <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "F508E41D4BF8B8AABBE4B094083796CB",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a no-scope sniper{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Boom Sniper",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Sniper.Boom"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "97FC9B844CD782D8407F43B77AF3FD09",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> sploded themself with a Boom Sniper Rifle"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "2A568E3B4242AE28DFE8FA88542D6CC6",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> knocked themself out with a Boom Sniper Rifle"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "9F3FA558494AADBC062192A642D15AF4",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Boom Sniper Rifle{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "27B0E0474DF51C5F7EF2EAB10EDBA129",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Boom Sniper Rifle{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Scoped",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Status.IsTargeting"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "730531AF4E52BD15E2DD1CA9067E76A0",
+                  "SourceString": "<{KillerStyle}>{Killer}</> sniped <{VictimStyle}>{PlayerName}</>{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "6E713C854AF5E0B639D2509404C55E89",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a sniper{DistanceText}"
+                }
+              ]
+            },
+            {
+              "DisplayText": "Storm Scout",
+              "DeathCauseTag": {
+                "TagName": "Item.Weapon.Ranged.Sniper.Weather"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "81C3E0054664C81EA95D9E8D251C8B36",
+                  "SourceString": "<{KillerStyle}>{Killer}</> sniped <{VictimStyle}>{PlayerName}</> with the Storm Scout{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B9E589FE45607BA8D0AC3BBC478C3FBC",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Storm Scout{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Sniper no-scope) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Sniper"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "C405DBD6480593A6547652829F32BE10",
+              "SourceString": "<{KillerStyle}>{Killer}</> NO-SCOPED <{VictimStyle}>{PlayerName}</>{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "F508E41D4BF8B8AABBE4B094083796CB",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a no-scope sniper{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Scoped",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Status.IsTargeting"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "730531AF4E52BD15E2DD1CA9067E76A0",
+                  "SourceString": "<{KillerStyle}>{Killer}</> sniped <{VictimStyle}>{PlayerName}</>{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "6E713C854AF5E0B639D2509404C55E89",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a sniper{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Turret)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Trap.MountedTurret"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "632D9A7D43E41FB533C0BE98A8AB0497",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a turret{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "CAE1CD484BC95AEB7E2364928C32AE11",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a turret{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Weapon (Turret) \"OLD\"",
+          "DeathCauseTag": {
+            "TagName": "Weapon.Ranged.Turret"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "632D9A7D43E41FB533C0BE98A8AB0497",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a turret{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "CAE1CD484BC95AEB7E2364928C32AE11",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a turret{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        }
+      ]
+    }
+  }
+]

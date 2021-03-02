@@ -489,7 +489,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "D2BE4F0F41D006E515010C8AFD2B7409",
-          "SourceString": "Inspect_Banner_01"
+          "SourceString": "Equip the <text color=\"FFFFFFFF\">IDENTITY DISC</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!"
         }
       },
       "loadingscreenincluded": {
@@ -497,6 +497,48 @@
           "Namespace": "",
           "Key": "AAFDCFA646998577DCC806AA97145109",
           "SourceString": "Loading Screen Included!"
+        }
+      },
+      "reactiveanimationgameplay": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F4AF9BFB4E7C4B81BEB78295472A23BF",
+          "SourceString": "Animation reacts to gameplay!"
+        }
+      },
+      "reactivegameplay": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FFB155A542B65D3E77F330897624CE27",
+          "SourceString": "Reacts to gameplay!"
+        }
+      },
+      "builtinemoteskirmishmale": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3559D04C41C65BC4CC25A1ADE2913CEB",
+          "SourceString": "Inspect_Banner_01"
+        }
+      },
+      "builtinemoteskirmishfemale": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F83E654448A5B0C3DF23609A59EFD194",
+          "SourceString": "Inspect_Banner_02"
+        }
+      },
+      "builtinemotemulti": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C1DF889B4AFC24776CE40C8A6D509EE8",
+          "SourceString": "Outfits include built-in emotes!"
+        }
+      },
+      "builtinemotekeplermale": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BD99E46A477B13FAEEBC408EC3BFA7C2",
+          "SourceString": "Inspect_Banner_03"
         }
       }
     }
