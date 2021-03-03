@@ -517,14 +517,14 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "3559D04C41C65BC4CC25A1ADE2913CEB",
-          "SourceString": "Inspect_Banner_01"
+          "SourceString": "Outfit includes the built-in Shoryuken emote!"
         }
       },
       "builtinemoteskirmishfemale": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F83E654448A5B0C3DF23609A59EFD194",
-          "SourceString": "Inspect_Banner_02"
+          "SourceString": "Outfit includes the built-in Lightning Kick emote!"
         }
       },
       "builtinemotemulti": {
@@ -538,7 +538,21 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "BD99E46A477B13FAEEBC408EC3BFA7C2",
-          "SourceString": "Inspect_Banner_03"
+          "SourceString": "Outfit includes the built-in Xeno Menace emote!"
+        }
+      },
+      "reactivecatburglar": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "DF9B67B8489C5C3B1C6D6C8A14F5275E",
+          "SourceString": "Reactive: Outfit and Back Bling become more gold with each elimination! Weapons Marigold picks up can turn to gold!"
+        }
+      },
+      "syncedshanty": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "7CB6F5914D44B7E7E851E1A5D98082DC",
+          "SourceString": "Group Emote! Join in the song with other players who are using the Shanty for a Squad Emote!"
         }
       }
     }
