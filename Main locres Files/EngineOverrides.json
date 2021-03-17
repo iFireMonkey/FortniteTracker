@@ -59,6 +59,9 @@
   "GenericPlatform": {
     "FileManagerName": "File Manager"
   },
+  "GpuProfiler": {
+    "GpuProfileVsyncEnabledWarning": "WARNING: This GPU profile was captured with v-sync enabled.  V-sync wait time may show up in any bucket, and as a result the data in this profile may be skewed. Please profile with v-sync disabled to obtain the most accurate data."
+  },
   "HoloLens": {
     "FailedToCreateHoloLens_RHI": "HoloLensRHI failure?"
   },
@@ -132,6 +135,7 @@
     "PS4_Gamepad_LeftTriggerAxis": "Gamepad L2 Axis",
     "PS4_Gamepad_LeftThumbstick": "Gamepad L3",
     "Gamepad_LeftShoulder": "Gamepad Left Shoulder",
+    "Gamepad_Left2D": "Gamepad Left Thumbstick 2D-Axis",
     "Gamepad_LeftThumbstick": "Gamepad Left Thumbstick Button",
     "Gamepad_LeftStick_Down": "Gamepad Left Thumbstick Down",
     "Gamepad_LeftStick_Left": "Gamepad Left Thumbstick Left",
@@ -147,6 +151,7 @@
     "PS4_Gamepad_RightTriggerAxis": "Gamepad R2 Axis",
     "PS4_Gamepad_RightThumbstick": "Gamepad R3",
     "Gamepad_RightShoulder": "Gamepad Right Shoulder",
+    "Gamepad_Right2D": "Gamepad Right Thumbstick 2D-Axis",
     "Gamepad_RightThumbstick": "Gamepad Right Thumbstick Button",
     "Gamepad_RightStick_Down": "Gamepad Right Thumbstick Down",
     "Gamepad_RightStick_Left": "Gamepad Right Thumbstick Left",
@@ -232,6 +237,7 @@
     "MouseScrollDown": "Mouse Wheel Down",
     "MouseScrollUp": "Mouse Wheel Up",
     "MouseX": "Mouse X",
+    "Mouse2D": "Mouse XY 2D-Axis",
     "MouseY": "Mouse Y",
     "Multiply": "Num *",
     "Add": "Num +",
@@ -249,21 +255,6 @@
     "NumPadEight": "Num 8",
     "NumPadNine": "Num 9",
     "NumLock": "Num Lock",
-    "OculusGoSubCategory": "Oculus Go",
-    "OculusGo_Left_Back_Click": "Oculus Go (L) Back",
-    "OculusGo_Left_System_Click": "Oculus Go (L) System",
-    "OculusGo_Left_Trackpad_Click": "Oculus Go (L) Trackpad",
-    "OculusGo_Left_Trackpad_Touch": "Oculus Go (L) Trackpad Touch",
-    "OculusGo_Left_Trackpad_X": "Oculus Go (L) Trackpad X",
-    "OculusGo_Left_Trackpad_Y": "Oculus Go (L) Trackpad Y",
-    "OculusGo_Left_Trigger_Click": "Oculus Go (L) Trigger",
-    "OculusGo_Right_Back_Click": "Oculus Go (R) Back",
-    "OculusGo_Right_System_Click": "Oculus Go (R) System",
-    "OculusGo_Right_Trackpad_Click": "Oculus Go (R) Trackpad",
-    "OculusGo_Right_Trackpad_Touch": "Oculus Go (R) Trackpad Touch",
-    "OculusGo_Right_Trackpad_X": "Oculus Go (R) Trackpad X",
-    "OculusGo_Right_Trackpad_Y": "Oculus Go (R) Trackpad Y",
-    "OculusGo_Right_Trigger_Click": "Oculus Go (R) Trigger",
     "OculusTouchSubCategory": "Oculus Touch",
     "OculusTouch_Left_Grip_Click": "Oculus Touch (L) Grip",
     "OculusTouch_Left_Grip_Axis": "Oculus Touch (L) Grip Axis",
@@ -348,7 +339,6 @@
     "ValveIndex_Left_A_Touch": "Valve Index (L) A Touch",
     "ValveIndex_Left_B_Click": "Valve Index (L) B Press",
     "ValveIndex_Left_B_Touch": "Valve Index (L) B Touch",
-    "ValveIndex_Left_Grip_Click": "Valve Index (L) Grip",
     "ValveIndex_Left_Grip_Axis": "Valve Index (L) Grip Axis",
     "ValveIndex_Left_Grip_Force": "Valve Index (L) Grip Force",
     "ValveIndex_Left_System_Click": "Valve Index (L) System",
@@ -361,7 +351,6 @@
     "ValveIndex_Left_Thumbstick_Up": "Valve Index (L) Thumbstick Up",
     "ValveIndex_Left_Thumbstick_X": "Valve Index (L) Thumbstick X",
     "ValveIndex_Left_Thumbstick_Y": "Valve Index (L) Thumbstick Y",
-    "ValveIndex_Left_Trackpad_Click": "Valve Index (L) Trackpad",
     "ValveIndex_Left_Trackpad_Down": "Valve Index (L) Trackpad Down",
     "ValveIndex_Left_Trackpad_Force": "Valve Index (L) Trackpad Force",
     "ValveIndex_Left_Trackpad_Left": "Valve Index (L) Trackpad Left",
@@ -377,7 +366,6 @@
     "ValveIndex_Right_A_Touch": "Valve Index (R) A Touch",
     "ValveIndex_Right_B_Click": "Valve Index (R) B Press",
     "ValveIndex_Right_B_Touch": "Valve Index (R) B Touch",
-    "ValveIndex_Right_Grip_Click": "Valve Index (R) Grip",
     "ValveIndex_Right_Grip_Axis": "Valve Index (R) Grip Axis",
     "ValveIndex_Right_Grip_Force": "Valve Index (R) Grip Force",
     "ValveIndex_Right_System_Click": "Valve Index (R) System",
@@ -390,7 +378,6 @@
     "ValveIndex_Right_Thumbstick_Up": "Valve Index (R) Thumbstick Up",
     "ValveIndex_Right_Thumbstick_X": "Valve Index (R) Thumbstick X",
     "ValveIndex_Right_Thumbstick_Y": "Valve Index (R) Thumbstick Y",
-    "ValveIndex_Right_Trackpad_Click": "Valve Index (R) Trackpad",
     "ValveIndex_Right_Trackpad_Down": "Valve Index (R) Trackpad Down",
     "ValveIndex_Right_Trackpad_Force": "Valve Index (R) Trackpad Force",
     "ValveIndex_Right_Trackpad_Left": "Valve Index (R) Trackpad Left",
@@ -434,13 +421,13 @@
   "LinuxDynamicRHI": {
     "NoOpenGLDriver": "Failed to load OpenGL Driver which is required to run the engine.\nOpenGL4 has been deprecated and should use Vulkan.",
     "NoVulkanDriver": "Failed to load Vulkan Driver which is required to run the engine.\nThe engine no longer fallbacks to OpenGL4 which has been deprecated.",
-    "RequiredOpenGL": "OpenGL 3.2 is required to run the engine.",
+    "RequiredOpenGL": "OpenGL 4.3 is required to run the engine.",
     "NoTargetedRHI": "The project does not target Vulkan or OpenGL RHIs, check project settings or pass -nullrhi.",
     "NoOpenGLTargetedRHI": "Trying to force OpenGL RHI but the project does not have it in TargetedRHIs list.",
     "NoVulkanTargetedRHI": "Trying to force Vulkan RHI but the project does not have it in TargetedRHIs list.",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
-    "NoVulkanNoGL": "Vulkan or OpenGL (3.2) support is required to run the engine.",
-    "OpenGLDeprecated": "Warning: OpenGL is deprecated, please use Vulkan."
+    "NoVulkanNoGL": "Vulkan or OpenGL (4.3) support is required to run the engine.",
+    "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. Vulkan will be used instead."
   },
   "LoadGuard": {
     "Loading": "Loading..."
@@ -665,8 +652,8 @@
     "RequiredDX12": "DX12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
     "UseExpressionEncoderDX11": "Fraps has been known to crash D3D11. Please use Microsoft Expression Encoder instead for capturing.",
     "UseExpressionEncoder": "Fraps has been known to crash D3D12. Please use Microsoft Expression Encoder instead for capturing.",
-    "RequiredOpenGL": "OpenGL 3.2 is required to run the engine.",
+    "RequiredOpenGL": "OpenGL 4.3 is required to run the engine.",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
-    "OpenGLDeprecated": "Warning: OpenGL is deprecated, please use a different RHI."
+    "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. The default RHI will be used."
   }
 }
