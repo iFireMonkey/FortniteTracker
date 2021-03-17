@@ -1297,6 +1297,35 @@
           "DeathCauseInfoVariants": []
         },
         {
+          "DisplayText": "Flopper (Gas Flopper)",
+          "DeathCauseTag": {
+            "TagName": "Item.Consumable.Fish.FlopperGas"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "BD83A94044CBF8A6A75FE4BA98CDA790",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> couldn't stand their own stink"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "E8C7304B4EAC2BA9A8FA8EAE1689E5D4",
+              "SourceString": "<{KillerStyle}>{Killer}</> dealt it and <{VictimStyle}>{PlayerName}</> smelt it.{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "ED714484423C324AE40C448187A565B0",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly cleared out <{VictimStyle}>{PlayerName}</>.{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
           "DisplayText": "Gas Can",
           "DeathCauseTag": {
             "TagName": "Item.Fuel.PetrolPickup"
@@ -3591,7 +3620,7 @@
                 {
                   "Namespace": "",
                   "Key": "4D55EDAF47EBE36E87B71BAE76460133",
-                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Hop Rock Dualies{DistanceText1}"
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Hop Rock Dualies{DistanceText}"
                 }
               ]
             },
@@ -3791,7 +3820,7 @@
               "SelfInflictedMessages": [
                 {
                   "Namespace": "",
-                  "Key": "9AA1B5104FE43F546C56819DC4549E61",
+                  "Key": "CBFE425D41EE9431F723E0B894F84E53",
                   "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
                 }
               ],
@@ -3799,14 +3828,14 @@
               "EliminatedMessages": [
                 {
                   "Namespace": "",
-                  "Key": "7772577F47AA09C6364AEC94621D2950",
+                  "Key": "619C6F744DF359D9BC3066A492FE5B70",
                   "SourceString": "<{KillerStyle}>{Killer}</> 'sploded with a burst of rockets <{VictimStyle}>{PlayerName}</>{DistanceText}"
                 }
               ],
               "EliminatedDBNOMessages": [
                 {
                   "Namespace": "",
-                  "Key": "CA5B5EB64AFBFDCBAE7032AA2008B1EF",
+                  "Key": "C64F42A3491CFB41C77CD78484ECAE9B",
                   "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</>{DistanceText}"
                 }
               ]

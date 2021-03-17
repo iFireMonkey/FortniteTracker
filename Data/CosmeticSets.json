@@ -1,0 +1,5485 @@
+[
+  {
+    "ExportType": "DataTable",
+    "ExportValue": {
+      "Cosmetics.Set.AdvancedForces": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AdvancedForces"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AdvancedForces_DisplayName",
+          "SourceString": "Advanced Forces"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ArcticCommand": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ArcticCommand"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ArcticCommand_DisplayName",
+          "SourceString": "Arctic Command"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BlackVector": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlackVector"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlackVector_DisplayName",
+          "SourceString": "Black Vector"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Carbide": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Carbide"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Carbide_DisplayName",
+          "SourceString": "Carbide"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DinoGuard": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DinoGuard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DinoGuard_DisplayName",
+          "SourceString": "Dino Guard"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FortKnights": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FortKnights"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FortKnights_DisplayName",
+          "SourceString": "Fort Knights"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FortniteFever": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FortniteFever"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FortniteFever_DisplayName",
+          "SourceString": "Fortnite Fever"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GreenClover": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GreenClover"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GreenClover_DisplayName",
+          "SourceString": "Green Clover"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HiredGun": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HiredGun"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HiredGun_DisplayName",
+          "SourceString": "Hired Gun"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Laoch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Laoch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Laoch_DisplayName",
+          "SourceString": "Laoch"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NeonGlow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NeonGlow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NeonGlow_DisplayName",
+          "SourceString": "Neon Glow"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Nevermore": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Nevermore"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Nevermore_DisplayName",
+          "SourceString": "Nevermore"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Omega": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Omega"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Omega_DisplayName",
+          "SourceString": "Omega"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PastelPatrol": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PastelPatrol"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PastelPatrol_DisplayName",
+          "SourceString": "Pastel Patrol"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PizzaPit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PizzaPit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PizzaPit_DisplayName",
+          "SourceString": "Pizza Pit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoyaleHearts": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoyaleHearts"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoyaleHearts_DisplayName",
+          "SourceString": "Royale Hearts"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpaceExplorers": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpaceExplorers"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpaceExplorers_DisplayName",
+          "SourceString": "Space Explorers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StormFusion": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StormFusion"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StormFusion_DisplayName",
+          "SourceString": "Storm Fusion"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StormScavenger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StormScavenger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StormScavenger_DisplayName",
+          "SourceString": "Storm Scavenger"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SunshineAndRainbows": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SunshineAndRainbows"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SunshineAndRainbows_DisplayName",
+          "SourceString": "Sunshine And Rainbows"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SweetTooth": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SweetTooth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SweetTooth_DisplayName",
+          "SourceString": "Sweet Tooth"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Valiant": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Valiant"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Valiant_DisplayName",
+          "SourceString": "Valiant"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Volume11": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Volume11"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Volume11_DisplayName",
+          "SourceString": "Volume 11"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Overclocked": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Overclocked"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Overclocked_DisplayName",
+          "SourceString": "Overclocked"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AerosolAssassins": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AerosolAssassins"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AerosolAssassins_DisplayName",
+          "SourceString": "Aerosol Assassins"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StealthSyndicate": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StealthSyndicate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StealthSyndicate_DisplayName",
+          "SourceString": "Stealth Syndicate"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WinterSki": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WinterSki"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WinterSki_DisplayName",
+          "SourceString": "Winter Ski"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SolidSteel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SolidSteel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SolidSteel_DisplayName",
+          "SourceString": "Solid Steel"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Speedy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Speedy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Speedy_DisplayName",
+          "SourceString": "Storm Strike"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Hazmat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Hazmat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Hazmat_DisplayName",
+          "SourceString": "Outbreak"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Deco": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Deco"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Deco_DisplayName",
+          "SourceString": "Venture"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Venus": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Venus"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Venus_DisplayName",
+          "SourceString": "Flytrap"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Basketball": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Basketball"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Basketball_DisplayName",
+          "SourceString": "Half Court"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Jailbird": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Jailbird"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Jailbird_DisplayName",
+          "SourceString": "Jailbird"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Soccer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Soccer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Soccer_DisplayName",
+          "SourceString": "Goalbound"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DarkEagle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkEagle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkEagle_DisplayName",
+          "SourceString": "Overseer"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WWIIPilot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WWIIPilot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WWIIPilot_DisplayName",
+          "SourceString": "Sky Stalker"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CarbideOrangeFemale": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CarbideOrangeFemale"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CarbideOrangeFemale_DisplayName",
+          "SourceString": "Criterion"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CarbideBlackFemale": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CarbideBlackFemale"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CarbideBlackFemale_DisplayName",
+          "SourceString": "Oblivion"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StarsAndStripes": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StarsAndStripes"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StarsAndStripes_DisplayName",
+          "SourceString": "Stars & Stripes"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Gumshoe": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Gumshoe"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Gumshoe_DisplayName",
+          "SourceString": "Hardboiled"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpeedyRed": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpeedyRed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpeedyRed_DisplayName",
+          "SourceString": "Apex Protocol"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Taxi": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Taxi"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Taxi_DisplayName",
+          "SourceString": "Racer Royale"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Viking": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Viking"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Viking_DisplayName",
+          "SourceString": "Norse"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DarkViking": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkViking"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkViking_DisplayName",
+          "SourceString": "Harbinger"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Drift": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Drift"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Drift_DisplayName",
+          "SourceString": "Drift"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Lifeguard": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Lifeguard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Lifeguard_DisplayName",
+          "SourceString": "Rescue Patrol"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetRacer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetRacer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetRacer_DisplayName",
+          "SourceString": "RPM"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Luchador": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Luchador"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Luchador_DisplayName",
+          "SourceString": "Lucha"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SharpDresser": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SharpDresser"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SharpDresser_DisplayName",
+          "SourceString": "Sharp Style"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Balloon": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Balloon"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Balloon_DisplayName",
+          "SourceString": "Party Parade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetRacerCobra": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetRacerCobra"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetRacerCobra_DisplayName",
+          "SourceString": "Cobra Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ModernMilitary": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ModernMilitary"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ModernMilitary_DisplayName",
+          "SourceString": "Archetype"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Scuba": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Scuba"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Scuba_DisplayName",
+          "SourceString": "Divemasters"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Shark": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Shark"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Shark_DisplayName",
+          "SourceString": "Chomp"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Birthday2018": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Birthday2018"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Birthday2018_DisplayName",
+          "SourceString": "First Birthday"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Wukong": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Wukong"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Wukong_DisplayName",
+          "SourceString": "Wukong"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetRacerWhite": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetRacerWhite"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetRacerWhite_DisplayName",
+          "SourceString": "Vanishing Point"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Sushi": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Sushi"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Sushi_DisplayName",
+          "SourceString": "Sushi"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Exercise": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Exercise"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Exercise_DisplayName",
+          "SourceString": "Spandex Squad"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DurrrBurger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DurrrBurger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DurrrBurger_DisplayName",
+          "SourceString": "Durrr Burger"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Bling": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Bling"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Bling_DisplayName",
+          "SourceString": "Getaway Gang"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Biker": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Biker"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Biker_DisplayName",
+          "SourceString": "Biker Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BlueSamurai": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlueSamurai"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlueSamurai_DisplayName",
+          "SourceString": "Bushido"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Hippie": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Hippie"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Hippie_DisplayName",
+          "SourceString": "Flower Power"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Medic": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Medic"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Medic_DisplayName",
+          "SourceString": "Support Squadron"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GarageBand": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GarageBand"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GarageBand_DisplayName",
+          "SourceString": "Garage Band"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Football": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Football"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Football_DisplayName",
+          "SourceString": "Fourth Down"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Hacivat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Hacivat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Hacivat_DisplayName",
+          "SourceString": "Hacivat"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ModernMilitaryRed": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ModernMilitaryRed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ModernMilitaryRed_DisplayName",
+          "SourceString": "Double Helix"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CarbideWhite": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CarbideWhite"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CarbideWhite_DisplayName",
+          "SourceString": "Eon"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DieselPunk": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DieselPunk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DieselPunk_DisplayName",
+          "SourceString": "Aviation Age"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Vampire": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Vampire"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Vampire_DisplayName",
+          "SourceString": "Nite Coven"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Octoberfest": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Octoberfest"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Octoberfest_DisplayName",
+          "SourceString": "Oktoberfest"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Werewolf": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Werewolf"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Werewolf_DisplayName",
+          "SourceString": "Full Moon"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RedRiding": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RedRiding"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RedRiding_DisplayName",
+          "SourceString": "Red Riding"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Scarecrow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Scarecrow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Scarecrow_DisplayName",
+          "SourceString": "Straw Stuffed"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Cowgirl": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Cowgirl"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Cowgirl_DisplayName",
+          "SourceString": "Western Wilds"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FortniteDJ": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FortniteDJ"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FortniteDJ_DisplayName",
+          "SourceString": "Twin Turntables"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DarkBomber": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkBomber"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkBomber_DisplayName",
+          "SourceString": "Lightning & Thunderstorms"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Plague": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Plague"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Plague_DisplayName",
+          "SourceString": "Grim Medicine"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Pumpkin": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Pumpkin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Pumpkin_DisplayName",
+          "SourceString": "Pumpkin Patch"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SkullTrooper": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SkullTrooper"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SkullTrooper_DisplayName",
+          "SourceString": "Skull Squad"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BlackWidow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlackWidow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlackWidow_DisplayName",
+          "SourceString": "Arachnid"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GuanYu": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GuanYu"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GuanYu_DisplayName",
+          "SourceString": "Guan Yu"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RaptorArcticCamo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RaptorArcticCamo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RaptorArcticCamo_DisplayName",
+          "SourceString": "Deep Freeze"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Muertos": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Muertos"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Muertos_DisplayName",
+          "SourceString": "Muertos"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Celestial": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Celestial"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Celestial_DisplayName",
+          "SourceString": "Galaxy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SamuraiUltra": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SamuraiUltra"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SamuraiUltra_DisplayName",
+          "SourceString": "Shogun"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AnimalJackets": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AnimalJackets"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AnimalJackets_DisplayName",
+          "SourceString": "Animal Jackets"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetOps": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetOps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetOps_DisplayName",
+          "SourceString": "Counterattack"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MadCommander": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MadCommander"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MadCommander_DisplayName",
+          "SourceString": "Wasteland Warriors"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RobotRed": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RobotRed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RobotRed_DisplayName",
+          "SourceString": "A.I.M."
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Witch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Witch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Witch_DisplayName",
+          "SourceString": "Arcane Arts"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Feathers": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Feathers"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Feathers_DisplayName",
+          "SourceString": "Fowl Play"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Sup": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Sup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Sup_DisplayName",
+          "SourceString": "Hyper"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HornedMask": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HornedMask"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HornedMask_DisplayName",
+          "SourceString": "Storm Familiars"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SniperHood": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SniperHood"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SniperHood_DisplayName",
+          "SourceString": "Ranged Recon"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Moth": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Moth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Moth_DisplayName",
+          "SourceString": "Moth Command"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NeonCat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NeonCat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NeonCat_DisplayName",
+          "SourceString": "Lynx"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ArcticSniper": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ArcticSniper"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ArcticSniper_DisplayName",
+          "SourceString": "Zenith"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TacticalSanta": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TacticalSanta"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TacticalSanta_DisplayName",
+          "SourceString": "Sgt. Winter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Snowboard": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Snowboard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Snowboard_DisplayName",
+          "SourceString": "Powder Patrol"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Yeti": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Yeti"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Yeti_DisplayName",
+          "SourceString": "Mountain Myths"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.IceKing": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IceKing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IceKing_DisplayName",
+          "SourceString": "Ice Kingdom"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Gingerbread": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Gingerbread"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Gingerbread_DisplayName",
+          "SourceString": "Gingerbread"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.S4Cumulative": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.S4Cumulative"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.S4Cumulative_DisplayName",
+          "SourceString": "Blockbuster"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.S5Cumulative": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.S5Cumulative"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.S5Cumulative_DisplayName",
+          "SourceString": "Road Trip"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.S6Cumulative": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.S6Cumulative"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.S6Cumulative_DisplayName",
+          "SourceString": "Hunting Party"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.S7Cumulative": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.S7Cumulative"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.S7Cumulative_DisplayName",
+          "SourceString": "Snowfall"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Nutcracker": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Nutcracker"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Nutcracker_DisplayName",
+          "SourceString": "Nutcracker"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FrozenLegends": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FrozenLegends"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FrozenLegends_DisplayName",
+          "SourceString": "Frozen Legends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Math": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Math"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Math_DisplayName",
+          "SourceString": "Calculator Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Mechanimal": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Mechanimal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Mechanimal_DisplayName",
+          "SourceString": "Mechanimal"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EternalStruggle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EternalStruggle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EternalStruggle_DisplayName",
+          "SourceString": "Eternal Struggle"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.IceMaiden": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IceMaiden"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IceMaiden_DisplayName",
+          "SourceString": "Winter Wonderland"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetGoth": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetGoth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetGoth_DisplayName",
+          "SourceString": "Ouroboros"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TeriyakiFish": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TeriyakiFish"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TeriyakiFish_DisplayName",
+          "SourceString": "Fish Food"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Krampus": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Krampus"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Krampus_DisplayName",
+          "SourceString": "Krampus"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MilitaryFashion": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MilitaryFashion"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MilitaryFashion_DisplayName",
+          "SourceString": "Modern Mercenary"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Nautilus": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Nautilus"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Nautilus_DisplayName",
+          "SourceString": "Deep Sea"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WavyMan": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WavyMan"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WavyMan_DisplayName",
+          "SourceString": "Hot Air"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Barbarian": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Barbarian"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Barbarian_DisplayName",
+          "SourceString": "Primal Hunters"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SnowNinja": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SnowNinja"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SnowNinja_DisplayName",
+          "SourceString": "Snow Clan"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TechOps": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TechOps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TechOps_DisplayName",
+          "SourceString": "Tech Ops"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Scrapyard": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Scrapyard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Scrapyard_DisplayName",
+          "SourceString": "Boneyard"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Squishy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Squishy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Squishy_DisplayName",
+          "SourceString": "Marshmello"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DumplingMan": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DumplingMan"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DumplingMan_DisplayName",
+          "SourceString": "Bao Bros"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RobotTrouble": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RobotTrouble"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RobotTrouble_DisplayName",
+          "SourceString": "Robo Rebels"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SkullBrite": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SkullBrite"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SkullBrite_DisplayName",
+          "SourceString": "Skull & Bows"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.IceCream": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IceCream"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IceCream_DisplayName",
+          "SourceString": "Two Scoops"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DragonNinja": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DragonNinja"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DragonNinja_DisplayName",
+          "SourceString": "Brood"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Pirate": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Pirate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Pirate_DisplayName",
+          "SourceString": "Scallywags"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Medusa": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Medusa"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Medusa_DisplayName",
+          "SourceString": "Snakepit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MasterKey": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MasterKey"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MasterKey_DisplayName",
+          "SourceString": "Key Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Shiny": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Shiny"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Shiny_DisplayName",
+          "SourceString": "24K"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Bandolier": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Bandolier"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Bandolier_DisplayName",
+          "SourceString": "Tropic Troopers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Farmer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Farmer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Farmer_DisplayName",
+          "SourceString": "Fatal Fielders"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Aztec": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Aztec"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Aztec_DisplayName",
+          "SourceString": "Sun Soldiers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.KpopFashion": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KpopFashion"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KpopFashion_DisplayName",
+          "SourceString": "IKONIK"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FireElf": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FireElf"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FireElf_DisplayName",
+          "SourceString": "Ashen Guard"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.S8Cumulative": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.S8Cumulative"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.S8Cumulative_DisplayName",
+          "SourceString": "Discovery"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BandageNinja": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BandageNinja"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BandageNinja_DisplayName",
+          "SourceString": "Falcon Clan"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SciOps": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SciOps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SciOps_DisplayName",
+          "SourceString": "Third Eye"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DevilRock": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DevilRock"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DevilRock_DisplayName",
+          "SourceString": "Diabolical"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Tropical": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Tropical"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Tropical_DisplayName",
+          "SourceString": "Beach Battalion"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BlueBadass": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlueBadass"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlueBadass_DisplayName",
+          "SourceString": "Waypoint"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DarkShaman": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkShaman"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkShaman_DisplayName",
+          "SourceString": "Moonbone"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BaseballKitbash": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BaseballKitbash"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BaseballKitbash_DisplayName",
+          "SourceString": "Three Strikes"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Bullseye": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Bullseye"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Bullseye_DisplayName",
+          "SourceString": "Bullseye"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Molten": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Molten"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Molten_DisplayName",
+          "SourceString": "Lava Legends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FurnaceFace": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FurnaceFace"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FurnaceFace_DisplayName",
+          "SourceString": "Ruination"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Pilots": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Pilots"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Pilots_DisplayName",
+          "SourceString": "Air Royale"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EvilSuit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EvilSuit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EvilSuit_DisplayName",
+          "SourceString": "Inferno"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoseLeader": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoseLeader"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoseLeader_DisplayName",
+          "SourceString": "Rose Team"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Warpaint": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Warpaint"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Warpaint_DisplayName",
+          "SourceString": "Warpaint"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Golf": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Golf"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Golf_DisplayName",
+          "SourceString": "Teed Off"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Banana": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Banana"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Banana_DisplayName",
+          "SourceString": "Banana Bunch"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TheBomb": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TheBomb"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TheBomb_DisplayName",
+          "SourceString": "Short Fuse"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpaceBunny": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpaceBunny"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpaceBunny_DisplayName",
+          "SourceString": "Space Hop"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EvilBunny": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EvilBunny"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EvilBunny_DisplayName",
+          "SourceString": "Nitehare"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HoppityHeist": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HoppityHeist"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HoppityHeist_DisplayName",
+          "SourceString": "Hoppity Heist"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AshtonBoardwalk": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AshtonBoardwalk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AshtonBoardwalk_DisplayName",
+          "SourceString": "Avengers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AshtonSaltLake": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AshtonSaltLake"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AshtonSaltLake_DisplayName",
+          "SourceString": "Guardians Of The Galaxy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BrokenLight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BrokenLight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BrokenLight_DisplayName",
+          "SourceString": "Broken Light"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Interstellar": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Interstellar"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Interstellar_DisplayName",
+          "SourceString": "Interstellar"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Rooster": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Rooster"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Rooster_DisplayName",
+          "SourceString": "Battle Dynamics"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AssassinSuit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AssassinSuit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AssassinSuit_DisplayName",
+          "SourceString": "John Wick"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BountyHunter": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BountyHunter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BountyHunter_DisplayName",
+          "SourceString": "Bounty Hunter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Masako": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Masako"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Masako_DisplayName",
+          "SourceString": "Scarlet Dragon"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StormTracker": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StormTracker"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StormTracker_DisplayName",
+          "SourceString": "Storm Stalker"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BattleSuit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BattleSuit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BattleSuit_DisplayName",
+          "SourceString": "Suit Up"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BunkerMan": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BunkerMan"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BunkerMan_DisplayName",
+          "SourceString": "Bunker Days"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CyberScavenger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CyberScavenger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CyberScavenger_DisplayName",
+          "SourceString": "Neochaser"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetDemon": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetDemon"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetDemon_DisplayName",
+          "SourceString": "Cryptic"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StrawberryPilot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StrawberryPilot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StrawberryPilot_DisplayName",
+          "SourceString": "Sky Style"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.S9Cumulative": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.S9Cumulative"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.S9Cumulative_DisplayName",
+          "SourceString": "Utopia"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Vigilante": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Vigilante"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Vigilante_DisplayName",
+          "SourceString": "Hang Time"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Geisha": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Geisha"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Geisha_DisplayName",
+          "SourceString": "Takara"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Pug": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Pug"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Pug_DisplayName",
+          "SourceString": "Grumble Gang"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WhiteTiger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WhiteTiger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WhiteTiger_DisplayName",
+          "SourceString": "White Tiger"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MaskedWarrior": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MaskedWarrior"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MaskedWarrior_DisplayName",
+          "SourceString": "Immortal Sands"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpeedyMidnight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpeedyMidnight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpeedyMidnight_DisplayName",
+          "SourceString": "Dark Apex"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CyberRunner": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CyberRunner"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CyberRunner_DisplayName",
+          "SourceString": "Synapse"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DemonHunter": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DemonHunter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DemonHunter_DisplayName",
+          "SourceString": "Battle Rites"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.UrbanScavenger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.UrbanScavenger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.UrbanScavenger_DisplayName",
+          "SourceString": "Metro Squad"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StormSoldier": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StormSoldier"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StormSoldier_DisplayName",
+          "SourceString": "Raging Storm"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GreenPlastic": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GreenPlastic"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GreenPlastic_DisplayName",
+          "SourceString": "Toy Soldier"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Butterfly": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Butterfly"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Butterfly_DisplayName",
+          "SourceString": "Chrysalis Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CyberFu": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CyberFu"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CyberFu_DisplayName",
+          "SourceString": "Focal Point"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GlowBro": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GlowBro"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlowBro_DisplayName",
+          "SourceString": "Stormlight"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Sarong": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Sarong"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Sarong_DisplayName",
+          "SourceString": "Red Lily"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Zodiac": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Zodiac"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Zodiac_DisplayName",
+          "SourceString": "Roughneck"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Hairy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Hairy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Hairy_DisplayName",
+          "SourceString": "Bigfoot"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TechMage": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TechMage"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TechMage_DisplayName",
+          "SourceString": "Total Control"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Flamingo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Flamingo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Flamingo_DisplayName",
+          "SourceString": "Flamingo"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WeirdObjects": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WeirdObjects"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WeirdObjects_DisplayName",
+          "SourceString": "Stranger Things"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Banner": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Banner"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Banner_DisplayName",
+          "SourceString": "Banner Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TeamShowdown": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TeamShowdown"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TeamShowdown_DisplayName",
+          "SourceString": "Final Showdown"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Bani": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Bani"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Bani_DisplayName",
+          "SourceString": "Battle Bun"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CyberKarate": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CyberKarate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CyberKarate_DisplayName",
+          "SourceString": "Kata Tech"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Anarchy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Anarchy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Anarchy_DisplayName",
+          "SourceString": "Anarchy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WorldCup2019": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WorldCup2019"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WorldCup2019_DisplayName",
+          "SourceString": "World Cup 2019"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Birthday2019": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Birthday2019"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Birthday2019_DisplayName",
+          "SourceString": "B-Day Bunch"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SaveTheWorld": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SaveTheWorld"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SaveTheWorld_DisplayName",
+          "SourceString": "Save the World"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Bubblegum": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Bubblegum"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Bubblegum_DisplayName",
+          "SourceString": "Bubblegum"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BoneWasp": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BoneWasp"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BoneWasp_DisplayName",
+          "SourceString": "Sting"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetAssassin": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetAssassin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetAssassin_DisplayName",
+          "SourceString": "Gold Mask"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MechPilotShark": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MechPilotShark"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MechPilotShark_DisplayName",
+          "SourceString": "B.R.U.T.E. Squad"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ZeroPoint": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ZeroPoint"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ZeroPoint_DisplayName",
+          "SourceString": "Zero Point"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Lasagna": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Lasagna"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Lasagna_DisplayName",
+          "SourceString": "Lazerism"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ScoreCard": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ScoreCard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScoreCard_DisplayName",
+          "SourceString": "The Leftovers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Lopex": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Lopex"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Lopex_DisplayName",
+          "SourceString": "Fur Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StarWalker": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StarWalker"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StarWalker_DisplayName",
+          "SourceString": "Star Walker"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Syko": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Syko"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Syko_DisplayName",
+          "SourceString": "Domination"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WiseMaster": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WiseMaster"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WiseMaster_DisplayName",
+          "SourceString": "Wise Warrior"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CautiousLoaf": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CautiousLoaf"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CautiousLoaf_DisplayName",
+          "SourceString": "Hazcat"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BarbequeLarry": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BarbequeLarry"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BarbequeLarry_DisplayName",
+          "SourceString": "Mayhem"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PaddedArmor": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PaddedArmor"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PaddedArmor_DisplayName",
+          "SourceString": "Heavy Hitter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RaptorBlackOps": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RaptorBlackOps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RaptorBlackOps_DisplayName",
+          "SourceString": "Air Strike"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ElectrodeDefect": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ElectrodeDefect"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ElectrodeDefect_DisplayName",
+          "SourceString": "Gotham City"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AbandonedCrowd": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AbandonedCrowd"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AbandonedCrowd_DisplayName",
+          "SourceString": "UFO"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LemonLime": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LemonLime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LemonLime_DisplayName",
+          "SourceString": "Citron"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Jumpstart": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Jumpstart"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Jumpstart_DisplayName",
+          "SourceString": "Wild Shock"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Punchy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Punchy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Punchy_DisplayName",
+          "SourceString": "TKO"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SleepyTime": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SleepyTime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SleepyTime_DisplayName",
+          "SourceString": "Dreamy Days"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Asteroid": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Asteroid"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Asteroid_DisplayName",
+          "SourceString": "The Seven"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ZoneWars": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ZoneWars"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ZoneWars_DisplayName",
+          "SourceString": "Zone Wars"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetStripes": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetStripes"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetStripes_DisplayName",
+          "SourceString": "Street Stripes"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SiegeStrike": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SiegeStrike"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SiegeStrike_DisplayName",
+          "SourceString": "Siege Strike"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Mountaineer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Mountaineer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Mountaineer_DisplayName",
+          "SourceString": "Ascension"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Billiards": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Billiards"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Billiards_DisplayName",
+          "SourceString": "Stripes and Solids"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Revival": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Revival"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Revival_DisplayName",
+          "SourceString": "Bad Medicine"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CounterSpy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CounterSpy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CounterSpy_DisplayName",
+          "SourceString": "Standout Style"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Nothingness": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Nothingness"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Nothingness_DisplayName",
+          "SourceString": "Fusion"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Perimeter": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Perimeter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Perimeter_DisplayName",
+          "SourceString": "Wild Frontier"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Goo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Goo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Goo_DisplayName",
+          "SourceString": "Slurp Squad"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Fisherman": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Fisherman"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Fisherman_DisplayName",
+          "SourceString": "Open Water"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TripCarrier": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TripCarrier"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TripCarrier_DisplayName",
+          "SourceString": "Ninja"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GardenBones": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GardenBones"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GardenBones_DisplayName",
+          "SourceString": "Final Reckoning"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ScaryBall": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ScaryBall"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScaryBall_DisplayName",
+          "SourceString": "Dead Ball"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FrighteningOddity": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FrighteningOddity"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FrighteningOddity_DisplayName",
+          "SourceString": "Fearsome Freaks"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpookyOath": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpookyOath"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpookyOath_DisplayName",
+          "SourceString": "Cryptic Curse"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WorldExplorers": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WorldExplorers"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WorldExplorers_DisplayName",
+          "SourceString": "Battle Breakers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OvernightMoon": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OvernightMoon"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OvernightMoon_DisplayName",
+          "SourceString": "Midnight Star"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WaterBike": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WaterBike"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WaterBike_DisplayName",
+          "SourceString": "Aqua Marine"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LongDepth": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LongDepth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LongDepth_DisplayName",
+          "SourceString": "Fathoms Deep"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MushroomQueen": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MushroomQueen"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MushroomQueen_DisplayName",
+          "SourceString": "Fungus King"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Forest": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Forest"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Forest_DisplayName",
+          "SourceString": "Woodsy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoadGhosts": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoadGhosts"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoadGhosts_DisplayName",
+          "SourceString": "Street Spirits"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LostConnection": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LostConnection"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LostConnection_DisplayName",
+          "SourceString": "Missing Link"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ColdScares": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ColdScares"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ColdScares_DisplayName",
+          "SourceString": "Frosty Fights"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SuddenBoundary": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SuddenBoundary"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SuddenBoundary_DisplayName",
+          "SourceString": "Original Trilogy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.QuietWatcher": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.QuietWatcher"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QuietWatcher_DisplayName",
+          "SourceString": "Silent Stalkers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TurningSolstice": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TurningSolstice"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TurningSolstice_DisplayName",
+          "SourceString": "Changing Seasons"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MarrowArmy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MarrowArmy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MarrowArmy_DisplayName",
+          "SourceString": "Bone Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FNCS": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FNCS"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FNCS_DisplayName",
+          "SourceString": "Fortnite Champion Series"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LatestTerminal": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LatestTerminal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LatestTerminal_DisplayName",
+          "SourceString": "The New Trilogy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HarshNews": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HarshNews"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HarshNews_DisplayName",
+          "SourceString": "Bad Tidings"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ScaryTime": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ScaryTime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScaryTime_DisplayName",
+          "SourceString": "Nightmare Yule"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BlastingSuns": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlastingSuns"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlastingSuns_DisplayName",
+          "SourceString": "Shooting Stars"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LionArmy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LionArmy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LionArmy_DisplayName",
+          "SourceString": "Bear Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TreeSmell": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TreeSmell"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TreeSmell_DisplayName",
+          "SourceString": "Piney Fresh"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TopPole": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TopPole"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TopPole_DisplayName",
+          "SourceString": "Polar Ace"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ComfyDirection": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ComfyDirection"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ComfyDirection_DisplayName",
+          "SourceString": "Cozy Command"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.IceStories": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IceStories"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IceStories_DisplayName",
+          "SourceString": "Polar Legends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WarmDealings": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WarmDealings"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WarmDealings_DisplayName",
+          "SourceString": "Cold Case"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PunchOut": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PunchOut"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PunchOut_DisplayName",
+          "SourceString": "Sock 'em"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NYE2020": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NYE2020"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NYE2020_DisplayName",
+          "SourceString": "New Year's 2020"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ColoredForest": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ColoredForest"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ColoredForest_DisplayName",
+          "SourceString": "Neon Jungle"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Markers": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Markers"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Markers_DisplayName",
+          "SourceString": "Beacons"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ClearSight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ClearSight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ClearSight_DisplayName",
+          "SourceString": "Vivid Vision"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OperationDiva": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OperationDiva"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OperationDiva_DisplayName",
+          "SourceString": "Tactical Fashions"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoadMouse": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoadMouse"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoadMouse_DisplayName",
+          "SourceString": "Street Rat"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OldRestart": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OldRestart"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OldRestart_DisplayName",
+          "SourceString": "Ancients Reborn"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Steel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Steel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Steel_DisplayName",
+          "SourceString": "Metal Masq"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AlwaysFrozen": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AlwaysFrozen"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AlwaysFrozen_DisplayName",
+          "SourceString": "Permafrost"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WildHearts": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WildHearts"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WildHearts_DisplayName",
+          "SourceString": "Wild Hearts"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.IncognitoAssassin": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IncognitoAssassin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IncognitoAssassin_DisplayName",
+          "SourceString": "Assassin X"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpiritDarkness": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpiritDarkness"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpiritDarkness_DisplayName",
+          "SourceString": "Ghosts & Shadows"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FalseEvolution": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FalseEvolution"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FalseEvolution_DisplayName",
+          "SourceString": "Artificial Evolved"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PropertySector": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PropertySector"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PropertySector_DisplayName",
+          "SourceString": "Deadpool"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HiddenCollection": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HiddenCollection"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HiddenCollection_DisplayName",
+          "SourceString": "Crypto Collective"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Capoeira2020": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Capoeira2020"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Capoeira2020_DisplayName",
+          "SourceString": "Carnaval 2020"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SearchPals": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SearchPals"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SearchPals_DisplayName",
+          "SourceString": "Quest Friends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SmallLight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SmallLight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SmallLight_DisplayName",
+          "SourceString": "Short Fuse"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PersonalMade": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PersonalMade"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PersonalMade_DisplayName",
+          "SourceString": "Custom"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.JackedKitty": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.JackedKitty"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.JackedKitty_DisplayName",
+          "SourceString": "Swole Cat"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HardEntry": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HardEntry"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HardEntry_DisplayName",
+          "SourceString": "Brute Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SilverSpirit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SilverSpirit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SilverSpirit_DisplayName",
+          "SourceString": "Golden Ghost"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PotassiumWin": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PotassiumWin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PotassiumWin_DisplayName",
+          "SourceString": "Banana Royale"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BuddingMorale": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BuddingMorale"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BuddingMorale_DisplayName",
+          "SourceString": "Spring Spirit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DoubleReverb": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DoubleReverb"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DoubleReverb_DisplayName",
+          "SourceString": "Twin Echo"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FieldBooth": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FieldBooth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FieldBooth_DisplayName",
+          "SourceString": "Farm Stand"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TealGroup": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TealGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TealGroup_DisplayName",
+          "SourceString": "Blue Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AppleThief": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AppleThief"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AppleThief_DisplayName",
+          "SourceString": "Pineapple Bandit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FishClipper": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FishClipper"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FishClipper_DisplayName",
+          "SourceString": "Bassassin"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DrinkChamps": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DrinkChamps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DrinkChamps_DisplayName",
+          "SourceString": "Slurp Legends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FireMarrow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FireMarrow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FireMarrow_DisplayName",
+          "SourceString": "Burning Bone"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Speedcraft": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Speedcraft"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Speedcraft_DisplayName",
+          "SourceString": "Spycraft"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FugitiveBandit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FugitiveBandit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FugitiveBandit_DisplayName",
+          "SourceString": "Runway Raider"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GreekGroup": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GreekGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GreekGroup_DisplayName",
+          "SourceString": "Chimera Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LateShot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LateShot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LateShot_DisplayName",
+          "SourceString": "Nightfire"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WinnerChain": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WinnerChain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WinnerChain_DisplayName",
+          "SourceString": "Champion Series"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SkeletonHunter": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SkeletonHunter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SkeletonHunter_DisplayName",
+          "SourceString": "Dark Visions"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GetSetGo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GetSetGo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GetSetGo_DisplayName",
+          "SourceString": "Ready, aim, fire!"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RepaymentUpdate": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RepaymentUpdate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RepaymentUpdate_DisplayName",
+          "SourceString": "Revenge Redux"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Cocoa": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Cocoa"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Cocoa_DisplayName",
+          "SourceString": "Choco"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DelicateWatch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DelicateWatch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DelicateWatch_DisplayName",
+          "SourceString": "Pastel Patrol"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DifferentShipment": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DifferentShipment"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DifferentShipment_DisplayName",
+          "SourceString": "Special Delivery"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DuckBrigade": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DuckBrigade"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DuckBrigade_DisplayName",
+          "SourceString": "Quackle Team"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FiestaWatch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FiestaWatch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FiestaWatch_DisplayName",
+          "SourceString": "Party Patrol"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GoldScore": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GoldScore"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoldScore_DisplayName",
+          "SourceString": "Midas' Revenge"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LateralDestiny": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LateralDestiny"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LateralDestiny_DisplayName",
+          "SourceString": "Parallel Future"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AbsorbDrain": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AbsorbDrain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AbsorbDrain_DisplayName",
+          "SourceString": "X-Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BonkTeam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BonkTeam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BonkTeam_DisplayName",
+          "SourceString": "Hit Squad"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.UnitPoison": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.UnitPoison"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.UnitPoison_DisplayName",
+          "SourceString": "Team Toxic"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NewStealth": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NewStealth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NewStealth_DisplayName",
+          "SourceString": "Neo Ninja"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FabledStrength": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FabledStrength"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FabledStrength_DisplayName",
+          "SourceString": "Mythical Might"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LethalBite": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LethalBite"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LethalBite_DisplayName",
+          "SourceString": "Toxic Sting"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PortraitFolk": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PortraitFolk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PortraitFolk_DisplayName",
+          "SourceString": "Travis Scott"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SmallCrimson": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SmallCrimson"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SmallCrimson_DisplayName",
+          "SourceString": "Lil' Red"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Stealthy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Stealthy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Stealthy_DisplayName",
+          "SourceString": "Espionage"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FelineSoldier": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FelineSoldier"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FelineSoldier_DisplayName",
+          "SourceString": "Catssassin"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AmbushOfficer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AmbushOfficer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AmbushOfficer_DisplayName",
+          "SourceString": "Intercept Agent"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Wanted": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Wanted"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Wanted_DisplayName",
+          "SourceString": "At Large"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SoloShade": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SoloShade"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SoloShade_DisplayName",
+          "SourceString": "Lone Shadow"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HueCrash": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HueCrash"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HueCrash_DisplayName",
+          "SourceString": "Loserfruit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SquadImpact": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SquadImpact"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SquadImpact_DisplayName",
+          "SourceString": "Fleet Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CoolImpact": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CoolImpact"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CoolImpact_DisplayName",
+          "SourceString": "Fab Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OldExplorer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OldExplorer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OldExplorer_DisplayName",
+          "SourceString": "Ancient Voyager"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GlowingGlory": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GlowingGlory"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlowingGlory_DisplayName",
+          "SourceString": "Honor Shining"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GroupEnergy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GroupEnergy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GroupEnergy_DisplayName",
+          "SourceString": "Team Spirit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TailoredPrecision": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TailoredPrecision"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TailoredPrecision_DisplayName",
+          "SourceString": "Geared Perfection"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SeaIncreasing": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SeaIncreasing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SeaIncreasing_DisplayName",
+          "SourceString": "Ocean Rising"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SoarClock": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SoarClock"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SoarClock_DisplayName",
+          "SourceString": "Aquaman"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LiquidHole": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LiquidHole"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LiquidHole_DisplayName",
+          "SourceString": "Watery Grave"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LeapSquad": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LeapSquad"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LeapSquad_DisplayName",
+          "SourceString": "Dive Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DimDated": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DimDated"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DimDated_DisplayName",
+          "SourceString": "Fade Out"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SnakeSmack": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SnakeSmack"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SnakeSmack_DisplayName",
+          "SourceString": "Serpent Strike"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CrocCommand": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CrocCommand"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrocCommand_DisplayName",
+          "SourceString": "Gator Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OutlawFire": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OutlawFire"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OutlawFire_DisplayName",
+          "SourceString": "Renegade Flame"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TwoActor": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TwoActor"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TwoActor_DisplayName",
+          "SourceString": "Double Agent"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FearlessMotor": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FearlessMotor"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FearlessMotor_DisplayName",
+          "SourceString": "Intrepid Engines"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MechDoggo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MechDoggo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MechDoggo_DisplayName",
+          "SourceString": "Mecha Kitty"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Buccaneer": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Buccaneer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Buccaneer_DisplayName",
+          "SourceString": "Marauder"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BurstAccident": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BurstAccident"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BurstAccident_DisplayName",
+          "SourceString": "Splash Squadron"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Garbo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Garbo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Garbo_DisplayName",
+          "SourceString": "Trashy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoughStreet": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoughStreet"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoughStreet_DisplayName",
+          "SourceString": "Hard Road"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CasualSize": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CasualSize"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CasualSize_DisplayName",
+          "SourceString": "Relaxed Fit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GroupAgony": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GroupAgony"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GroupAgony_DisplayName",
+          "SourceString": "Team Heartbreak"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AreaFlame": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AreaFlame"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AreaFlame_DisplayName",
+          "SourceString": "Space Fire"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TenderMonarch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TenderMonarch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TenderMonarch_DisplayName",
+          "SourceString": "Black Manta"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DudeGadgets": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DudeGadgets"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DudeGadgets_DisplayName",
+          "SourceString": "Brobotics"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CrazyCowboy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CrazyCowboy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrazyCowboy_DisplayName",
+          "SourceString": "Wildest West"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EatingCraze": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EatingCraze"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EatingCraze_DisplayName",
+          "SourceString": "Feeding Frenzy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DevilIsland": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DevilIsland"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DevilIsland_DisplayName",
+          "SourceString": "Demon Beach"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Slam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Slam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Slam_DisplayName",
+          "SourceString": "Impact"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BurritoDay": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BurritoDay"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BurritoDay_DisplayName",
+          "SourceString": "Taco Time"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SunMerc": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SunMerc"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SunMerc_DisplayName",
+          "SourceString": "Moon Mercenaries"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HarshInvaders": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HarshInvaders"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HarshInvaders_DisplayName",
+          "SourceString": "Rough Raiders"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LadyTreat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LadyTreat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LadyTreat_DisplayName",
+          "SourceString": "Ms. Whip"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SillyTeam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SillyTeam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SillyTeam_DisplayName",
+          "SourceString": "Dummy Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CosmoBunch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CosmoBunch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CosmoBunch_DisplayName",
+          "SourceString": "Galaxy Pack"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.VacationFable": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.VacationFable"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VacationFable_DisplayName",
+          "SourceString": "Summer Legends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FishyParadise": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FishyParadise"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FishyParadise_DisplayName",
+          "SourceString": "Fishlantis"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OceanAttack": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OceanAttack"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OceanAttack_DisplayName",
+          "SourceString": "Saltwater Strike"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FNOriginals": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FNOriginals"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FNOriginals_DisplayName",
+          "SourceString": "Fortnite Classics"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ForemanSquad": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ForemanSquad"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ForemanSquad_DisplayName",
+          "SourceString": "Constructor Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HeftyUnit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HeftyUnit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HeftyUnit_DisplayName",
+          "SourceString": "Tank Squadron"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OceanLight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OceanLight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OceanLight_DisplayName",
+          "SourceString": "Sea Glow"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreamMachine": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreamMachine"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreamMachine_DisplayName",
+          "SourceString": "Island Warrior"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EarthSprint": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EarthSprint"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EarthSprint_DisplayName",
+          "SourceString": "Run The World"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HueDrive": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HueDrive"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HueDrive_DisplayName",
+          "SourceString": "Colorway"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FishyBeef": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FishyBeef"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FishyBeef_DisplayName",
+          "SourceString": "Surf & Turf"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DarkPunch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkPunch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkPunch_DisplayName",
+          "SourceString": "Shadow Strike"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LlamaWarrior": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LlamaWarrior"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LlamaWarrior_DisplayName",
+          "SourceString": "Llamercenary"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SkaterBeast": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SkaterBeast"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SkaterBeast_DisplayName",
+          "SourceString": "Rink Raiders"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GekkoFight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GekkoFight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GekkoFight_DisplayName",
+          "SourceString": "Axolotl Attack!"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ShoalKing": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ShoalKing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ShoalKing_DisplayName",
+          "SourceString": "Reef Royalty"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoadSnake": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoadSnake"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoadSnake_DisplayName",
+          "SourceString": "Street Serpent"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PieFight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PieFight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PieFight_DisplayName",
+          "SourceString": "Pizza Pitfighter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MarbleShot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MarbleShot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MarbleShot_DisplayName",
+          "SourceString": "Iron Man"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GradualVertical": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GradualVertical"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GradualVertical_DisplayName",
+          "SourceString": "She-Hulk"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ComedyElbow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ComedyElbow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ComedyElbow_DisplayName",
+          "SourceString": "Storm"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ContactSweet": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ContactSweet"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ContactSweet_DisplayName",
+          "SourceString": "Wolverine"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.JusticeSin": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.JusticeSin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.JusticeSin_DisplayName",
+          "SourceString": "Thor"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StrollPeanut": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StrollPeanut"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StrollPeanut_DisplayName",
+          "SourceString": "Doctor Doom"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SuspectSpectrum": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SuspectSpectrum"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SuspectSpectrum_DisplayName",
+          "SourceString": "Mystique"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CoalMonarch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CoalMonarch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CoalMonarch_DisplayName",
+          "SourceString": "Groot"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NativeMultiply": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NativeMultiply"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NativeMultiply_DisplayName",
+          "SourceString": "Silver Surfer"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AwfulAspect": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AwfulAspect"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AwfulAspect_DisplayName",
+          "SourceString": "Darkening"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HypothesisEpisode": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HypothesisEpisode"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HypothesisEpisode_DisplayName",
+          "SourceString": "Galactus"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AngleHeard": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AngleHeard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AngleHeard_DisplayName",
+          "SourceString": "Rocket"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ChorusReference": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ChorusReference"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ChorusReference_DisplayName",
+          "SourceString": "True Mystique"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CosmicTeam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CosmicTeam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CosmicTeam_DisplayName",
+          "SourceString": "Stellar Squadron"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpiderCrime": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpiderCrime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpiderCrime_DisplayName",
+          "SourceString": "Web of Corruption "
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Endless": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Endless"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Endless_DisplayName",
+          "SourceString": "Boundless"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RuneParallel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RuneParallel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RuneParallel_DisplayName",
+          "SourceString": "Glyph Echo"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MetroHub": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MetroHub"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MetroHub_DisplayName",
+          "SourceString": "City Center"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RuneMood": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RuneMood"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RuneMood_DisplayName",
+          "SourceString": "Glyph Aura"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BraveryTime": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BraveryTime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BraveryTime_DisplayName",
+          "SourceString": "Courageous Era"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DarkCHaser": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkCHaser"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkCHaser_DisplayName",
+          "SourceString": "Night Hunter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BDayJam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BDayJam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BDayJam_DisplayName",
+          "SourceString": "B-Day Blast"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SweetMeaning": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SweetMeaning"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SweetMeaning_DisplayName",
+          "SourceString": "Blade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BlandAbolish": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlandAbolish"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlandAbolish_DisplayName",
+          "SourceString": "Rocket League"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HorsingAround": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HorsingAround"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HorsingAround_DisplayName",
+          "SourceString": "Llama Rodeo"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MoarPower": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MoarPower"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MoarPower_DisplayName",
+          "SourceString": "PWR"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Exiled": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Exiled"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Exiled_DisplayName",
+          "SourceString": "Forsaken"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GraveDestroy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GraveDestroy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GraveDestroy_DisplayName",
+          "SourceString": "Crypt Crashers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FurthestEnd": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FurthestEnd"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FurthestEnd_DisplayName",
+          "SourceString": "Ultimate Reckoning"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MajorStaircase": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MajorStaircase"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MajorStaircase_DisplayName",
+          "SourceString": "Daredevil"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StreetPosse": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StreetPosse"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StreetPosse_DisplayName",
+          "SourceString": "Road Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.HighSerpent": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HighSerpent"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HighSerpent_DisplayName",
+          "SourceString": "Flying Fang"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Deceit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Deceit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Deceit_DisplayName",
+          "SourceString": "Duplicity"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CruelSafe": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CruelSafe"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CruelSafe_DisplayName",
+          "SourceString": "Vicious Vault"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PumpkinGang": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PumpkinGang"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PumpkinGang_DisplayName",
+          "SourceString": "Carving Crew"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.PartyLot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PartyLot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PartyLot_DisplayName",
+          "SourceString": "Raveyard"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MorningSalon": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MorningSalon"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MorningSalon_DisplayName",
+          "SourceString": "Ghostbusters"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ClanNew": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ClanNew"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ClanNew_DisplayName",
+          "SourceString": "Coven Fresh"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FNM2020": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FNM2020"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FNM2020_DisplayName",
+          "SourceString": "Fortnitemares 2020"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CruelEvil": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CruelEvil"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CruelEvil_DisplayName",
+          "SourceString": "Vicious Vice"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ScalpExtreme": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ScalpExtreme"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScalpExtreme_DisplayName",
+          "SourceString": "Skulltimate"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FinalChuckle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FinalChuckle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FinalChuckle_DisplayName",
+          "SourceString": "Last Laugh"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RhythmElbow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RhythmElbow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RhythmElbow_DisplayName",
+          "SourceString": "Ghost Rider"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.QualifiedBow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.QualifiedBow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QualifiedBow_DisplayName",
+          "SourceString": "Black Widow"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SleepyArmy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SleepyArmy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SleepyArmy_DisplayName",
+          "SourceString": "Bedhead Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Beginnings": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Beginnings"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Beginnings_DisplayName",
+          "SourceString": "Origins"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.InspirationExceed": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.InspirationExceed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.InspirationExceed_DisplayName",
+          "SourceString": "Venom"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GalaxyQueen": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GalaxyQueen"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GalaxyQueen_DisplayName",
+          "SourceString": "Galaxia"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Stuffed": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Stuffed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Stuffed_DisplayName",
+          "SourceString": "Encrusted"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FieldPals": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FieldPals"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FieldPals_DisplayName",
+          "SourceString": "Gridiron Gang"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Cliffhanger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Cliffhanger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Cliffhanger_DisplayName",
+          "SourceString": "Heart-Stopper"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CooksDream": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CooksDream"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CooksDream_DisplayName",
+          "SourceString": "Baker's Nightmare"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ThinGroup": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ThinGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ThinGroup_DisplayName",
+          "SourceString": "Diffuse Force"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CenterSoldier": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CenterSoldier"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CenterSoldier_DisplayName",
+          "SourceString": "Kernel Commando"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ReformBike": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ReformBike"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ReformBike_DisplayName",
+          "SourceString": "Oathbreaker"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CoffinDriver": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CoffinDriver"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CoffinDriver_DisplayName",
+          "SourceString": "Master Chief"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.Conqueror": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Conqueror"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Conqueror_DisplayName",
+          "SourceString": "The Vanquisher"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LabChaser": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LabChaser"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LabChaser_DisplayName",
+          "SourceString": "Y-Labs Hunter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GhostReprisal": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GhostReprisal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GhostReprisal_DisplayName",
+          "SourceString": "Spirit of Vengeance"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ProcessNotebook": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ProcessNotebook"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ProcessNotebook_DisplayName",
+          "SourceString": "The Mandalorian "
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DinnerThief": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DinnerThief"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DinnerThief_DisplayName",
+          "SourceString": "The Breakfast Bandit"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CrazyLung": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CrazyLung"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrazyLung_DisplayName",
+          "SourceString": "The Wildheart"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GalaxyCreatureCatcher": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GalaxyCreatureCatcher"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GalaxyCreatureCatcher_DisplayName",
+          "SourceString": "Intergalactic Beast Hunter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RainyDays": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RainyDays"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RainyDays_DisplayName",
+          "SourceString": "Snowdays"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CookieArmy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CookieArmy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CookieArmy_DisplayName",
+          "SourceString": "Gingerbread Brigade"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FairyTrawl": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FairyTrawl"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FairyTrawl_DisplayName",
+          "SourceString": "Elf-Fish"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ColdWoods": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ColdWoods"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ColdWoods_DisplayName",
+          "SourceString": "Frosty Forest"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FakeCharge": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FakeCharge"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FakeCharge_DisplayName",
+          "SourceString": "Imagined Order"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FollowSeek": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FollowSeek"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FollowSeek_DisplayName",
+          "SourceString": "Join the Hunt"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GravelAloof": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GravelAloof"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GravelAloof_DisplayName",
+          "SourceString": "Black Panther"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EndAspect": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EndAspect"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EndAspect_DisplayName",
+          "SourceString": "Edge Factor"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GlowCrew": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GlowCrew"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlowCrew_DisplayName",
+          "SourceString": "Gleam Team"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RubbishMouse": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RubbishMouse"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RubbishMouse_DisplayName",
+          "SourceString": "Survivors in Arms"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DapperCandy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DapperCandy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DapperCandy_DisplayName",
+          "SourceString": "Dandy Cane"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SnowDudes": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SnowDudes"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SnowDudes_DisplayName",
+          "SourceString": "Frost Legends"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GateUncle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GateUncle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GateUncle_DisplayName",
+          "SourceString": "Captain Marvel"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SparkleCrew": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SparkleCrew"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SparkleCrew_DisplayName",
+          "SourceString": "Twinkle Team"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LeanScale": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LeanScale"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LeanScale_DisplayName",
+          "SourceString": "Arrow"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AverageDisk": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AverageDisk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AverageDisk_DisplayName",
+          "SourceString": "Taskmaster"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CoolBreak": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CoolBreak"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CoolBreak_DisplayName",
+          "SourceString": "Cold Snap"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NewSnow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NewSnow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NewSnow_DisplayName",
+          "SourceString": "Fresh Powder"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ChocoSoldier": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ChocoSoldier"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ChocoSoldier_DisplayName",
+          "SourceString": "Cocoa Commando"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OverallStake": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OverallStake"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OverallStake_DisplayName",
+          "SourceString": "Future War"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ForestTracker": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ForestTracker"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ForestTracker_DisplayName",
+          "SourceString": "Jungle Hunter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LabSave": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LabSave"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LabSave_DisplayName",
+          "SourceString": "Y-Labs Rescue"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.CoverGift": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CoverGift"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CoverGift_DisplayName",
+          "SourceString": "Arashikage Clan"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.RoadShade": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RoadShade"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoadShade_DisplayName",
+          "SourceString": "Street Shadows"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.InitialBandits": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.InitialBandits"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.InitialBandits_DisplayName",
+          "SourceString": "Original Outlaws"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.EntryCurtain": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.EntryCurtain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EntryCurtain_DisplayName",
+          "SourceString": "Kickoff"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.WarDefeat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WarDefeat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WarDefeat_DisplayName",
+          "SourceString": "TheGrefg"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ThesisCinema": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ThesisCinema"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ThesisCinema_DisplayName",
+          "SourceString": "Drift Tracker"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GuestFiction": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GuestFiction"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GuestFiction_DisplayName",
+          "SourceString": "The Flash"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AnimalClock": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AnimalClock"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AnimalClock_DisplayName",
+          "SourceString": "End of Line"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BeYours": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BeYours"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BeYours_DisplayName",
+          "SourceString": "Be Mine"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.BikeCatch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BikeCatch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BikeCatch_DisplayName",
+          "SourceString": "Street Fighter"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ToneTrip": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ToneTrip"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ToneTrip_DisplayName",
+          "SourceString": "In Space..."
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LightRain": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LightRain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LightRain_DisplayName",
+          "SourceString": "Sun & Storm"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AcutePanic": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AcutePanic"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AcutePanic_DisplayName",
+          "SourceString": "Llegend"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MentionPremium": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MentionPremium"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MentionPremium_DisplayName",
+          "SourceString": "Lazarbeam"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.TolerantFortune": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TolerantFortune"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TolerantFortune_DisplayName",
+          "SourceString": "Ant-Man"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpacePolice": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpacePolice"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpacePolice_DisplayName",
+          "SourceString": "Galactic Rangers"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.GoldHand": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GoldHand"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoldHand_DisplayName",
+          "SourceString": "Golden Touch"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.DangerArmy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DangerArmy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DangerArmy_DisplayName",
+          "SourceString": "Hazard Platoon"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ImpendingSpiral": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ImpendingSpiral"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ImpendingSpiral_DisplayName",
+          "SourceString": "Looming Spire"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.SpiralsCry": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpiralsCry"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpiralsCry_DisplayName",
+          "SourceString": "Spire's Call"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.AutomaticDuke": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AutomaticDuke"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AutomaticDuke_DisplayName",
+          "SourceString": "Teen Titans"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MagicInstitute": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MagicInstitute"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MagicInstitute_DisplayName",
+          "SourceString": "Oakwitch Academy"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.StableMove": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StableMove"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StableMove_DisplayName",
+          "SourceString": "Lara Croft"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MarrowBully": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MarrowBully"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MarrowBully_DisplayName",
+          "SourceString": "Bone Punk"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ChickenAce": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ChickenAce"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ChickenAce_DisplayName",
+          "SourceString": "Eggsplosives Expert"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.OperativeBlonde": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OperativeBlonde"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OperativeBlonde_DisplayName",
+          "SourceString": "Agent Jones"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.FelineRat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FelineRat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FelineRat_DisplayName",
+          "SourceString": " Set_01"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.LateShuttle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LateShuttle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LateShuttle_DisplayName",
+          "SourceString": "Night Flight"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.MiddlePotassium": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MiddlePotassium"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MiddlePotassium_DisplayName",
+          "SourceString": "The Ides of Bunch"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.NumberSeventeen": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NumberSeventeen"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NumberSeventeen_DisplayName",
+          "SourceString": "#17"
+        },
+        "Description": null
+      },
+      "Cosmetics.Set.ToyedUp": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ToyedUp"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ToyedUp_DisplayName",
+          "SourceString": "Action Figured"
+        },
+        "Description": null
+      }
+    }
+  }
+]
