@@ -6,6 +6,14 @@
     "OpenGLNotSupportedTitle": "Metal Not Supported",
     "OpenGLNotSupported.": "You must have a Metal compatible iOS or tvOS device with iOS 8 or later to launch this app."
   },
+  "AssetTypeActions": {
+    "AssetTypeActions_ConversationDatabase": "Conversation Bank",
+    "NamelessConversationDiff": "Conversation Diff",
+    "Conversation Diff": "{0} - Conversation Diff"
+  },
+  "BlueprintEditor": {
+    "DebugActorNothingSelected": "No debug object selected"
+  },
   "BuildPatchInstaller": {
     "BuildPatchInstaller_GenericProgress": "Please Wait",
     "BuildPatchInstaller_DownloadSpeedFormat": "{Current} / {Total} ({Speed}/sec)"
@@ -53,8 +61,94 @@
   "CommonUI": {
     "WidgetPaletteCategory": "Common UI Plugin"
   },
+  "ConversationEditor": {
+    "AutoArrange": "Auto Arrange",
+    "PinErrorSameNode": "Both are on the same node",
+    "BreakpointsHeader": "Breakpoints",
+    "AppearanceCornerText": "CONVERSATION",
+    "PinErrorInput": "Can't connect input node to input node",
+    "PinErrorOutput": "Can't connect output node to output node",
+    "PinErrorcycle": "Can't create a graph cycle",
+    "ChildIndexTooltip": "Child index: this shows the order in which child nodes are executed.",
+    "PinConnect": "Connect nodes",
+    "AppLabel": "Conversation",
+    "WorldCentricTabPrefix": "Conversation ",
+    "ConversationGraphLabel": "Conversation Editor",
+    "CreateRerouteNodeOnWire": "Create Reroute Node",
+    "ExecutionIndexTooltip": "Execution index: this shows the order in which nodes are executed.",
+    "GraphVieWMode": "Graph",
+    "InactiveLabel": "INACTIVE",
+    "PinNull": "One or Both of the pins was null",
+    "PinErrorOnlyComposite": "Only composite nodes are allowed",
+    "PinErrorOnlyTask": "Only task nodes are allowed",
+    "PausedLabel": "PAUSED",
+    "ConversationRenameNode": "Rename Node",
+    "PinConnectReplace": "Replace connection",
+    "StepsBackLabelFmt": "STEPS BACK: {0}",
+    "EditMenu_SearchHeading": "Search",
+    "TreeViewMode": "Tree View",
+    "TaskHasDynamicChoices": "[Task Generates Choices]",
+    "TaskHasRequirements": "[Task Has Requirements]"
+  },
+  "ConversationEditorCommands": {
+    "Common": "Common",
+    "Debugger": "Debugger"
+  },
+  "ConversationEditorFactories": {
+    "ConversationTreeEditorLabel": "Conversation Tree",
+    "ConversationTreeEditorView": "Conversation Tree",
+    "ConversationTreeEditorView_ToolTip": "Conversation Tree",
+    "ConversationDetailsLabel": "Details",
+    "ConversationDetailsView": "Details",
+    "ConversationSearchLabel": "Search",
+    "ConversationSearchView": "Search",
+    "ConversationSearchView_ToolTip": "Show the behavior tree search tab",
+    "ConversationDetailsView_ToolTip": "Show the details view",
+    "ConversationDetailsTabTooltip": "The behavior tree details tab allows editing of the properties of behavior tree nodes",
+    "ConversationSearchTabTooltip": "The behavior tree search tab allows searching within behavior tree nodes"
+  },
+  "ConversationEditorToolbar": {
+    "NewRequirement_ToolTip": "Create a new requirement node Blueprint from a base class",
+    "NewSideEffect_ToolTip": "Create a new side effect node Blueprint from a base class",
+    "NewTask_ToolTip": "Create a new task node Blueprint from a base class",
+    "NewRequirement_Label": "New Requirement",
+    "NewSideEffect_Label": "New Side Effect",
+    "NewTask_Label": "New Task",
+    "SelectDebugActor": "Pick actor to debug"
+  },
+  "ConversationGraph": {
+    "AddChoice": "Add Choice...",
+    "AddRequirement": "Add Requirement...",
+    "KnotListTitle": "Add Reroute Node...",
+    "AddSideEffect": "Add Side Effect...",
+    "AddChoiceTooltip": "Adds a new choice as a subnode",
+    "AddRequirementTooltip": "Adds a new requirement as a subnode",
+    "AddSideEffectTooltip": "Adds a new side effect as a subnode",
+    "BadConversationContext": "Bad conversation context",
+    "BrokenNode": "Broken Node",
+    "UConversationGraphNode_Choice_GetNodeTitle": "Choice \"{ChoiceName}\"",
+    "UConversationGraphNode_Choice_GetNodeTitle_WithClass": "Choice \"{ChoiceName}\" ({ChoiceClassName})",
+    "NodeClassError": "Class {0} not found, make sure it's saved!",
+    "DecoratorDiffDisplayName": "Decorator",
+    "MakeConversationParticipant_NoActor": "MakeConversationParticipant needs a valid participant actor",
+    "MakeConversationParticipant_NoTag": "MakeConversationParticipant needs a valid participant tag",
+    "KnotTitle": "Reroute Node",
+    "KnotTooltip": "Reroute Node (reroutes wires)",
+    "ServiceDiffDisplayName": "Service",
+    "NodeRuntimeDescription": "{0} [{1}]{2}"
+  },
+  "ConversationInstance": {
+    "ConversationInstance_DefaultText": "Continue"
+  },
   "DynamicRHI": {
     "NullDrvFailure": "NullDrv failure?"
+  },
+  "FConversationCompiler": {
+    "ResaveConversations": "We found {0} conversations on an old version of the compiler that need to be resaved.\n\nSave?"
+  },
+  "FindInBT": {
+    "ConversationSearchHint": "Enter text to find nodes...",
+    "ConversationSearchNoResults": "No Results found"
   },
   "GenericPlatform": {
     "FileManagerName": "File Manager"
@@ -559,7 +653,8 @@
     "MissingBlockList": "No cached block list entry. Query block list first.",
     "MissingFriend": "No cached friend entry. Read friends list first.",
     "ToxicAlias": "Sorry, the friend alias you entered contains disallowed words.",
-    "NoFriendsList": "Unable to find friends lists."
+    "NoFriendsList": "Unable to find friends lists.",
+    "NotSuggestedFriend": "We can't find the friend suggestion to dismiss."
   },
   "OnlineIdentity": {
     "AlreadyPendingClientAuth": "Already pending auth request for user",
@@ -593,6 +688,23 @@
     "SlashCommand_LeaveParty": "leave",
     "SlashCommand_PromoteToLeader": "promote"
   },
+  "SConversationDiff": {
+    "Diff": "Behavior Tree Diff",
+    "CurrentRevision": "Current Revision",
+    "AppearanceCornerText_BehaviorDif": "DIFF",
+    "DiffConversationDefaults": "Default Diff",
+    "BTDifPanelNoGraphTip": "Graph does not exist in this revision",
+    "BehvaiorTreeDifDifferencesToolTip": "List of differences found between revisions, click to select",
+    "RevisionDifferences": "Revision Differences",
+    "PreviousRevisionDifFmtUsesChangelists": "Revision {0}, CL {1}, {2}",
+    "PreviousRevisionDifFmt": "Revision {0}, {2}",
+    "ConversationDiffGraphsToolTip": "Select Graph to Diff",
+    "DIF_Confused": "There is an unspecified difference",
+    "DIF_UnknownDiff": "Unknown Diff",
+    "NamedCurrentRevisionFmt": "{0} - Current Revision",
+    "NamedRevisionDiffFmtUsesChangelists": "{0} - Revision {1}, CL {2}, {3}",
+    "NamedRevisionDiffFmt": "{0} - Revision {1}, {2}"
+  },
   "SlashCommands": {
     "FounderSlashCommand": "/founder",
     "GlobalSlashCommand": "/global",
@@ -619,6 +731,36 @@
   },
   "UIActionRouter": {
     "HoldActionNameFormat": "{0} (Hold)"
+  },
+  "UICommands.ConversationEditorCommands": {
+    "BackInto": "Back: Into",
+    "BackOver": "Back: Over",
+    "CurrentValues": "Current",
+    "ForwardInto": "Forward: Into",
+    "ForwardOver": "Forward: Over",
+    "PausePlaySession": "Pause",
+    "PausePlaySession_ToolTip": "Pause simulation",
+    "ResumePlaySession": "Resume",
+    "ResumePlaySession_ToolTip": "Resume simulation",
+    "SavedValues": "Saved",
+    "SearchConversation": "Search",
+    "SearchConversation_ToolTip": "Search this conversation bank.",
+    "ForwardInto_ToolTip": "Show state from next step, can go into subtrees",
+    "ForwardOver_ToolTip": "Show state from next step, don't go into subtrees",
+    "StepOut_ToolTip": "Show state from next step, leave current subtree",
+    "BackInto_ToolTip": "Show state from previous step, can go into subtrees",
+    "BackOver_ToolTip": "Show state from previous step, don't go into subtrees",
+    "StepOut": "Step Out",
+    "StopPlaySession": "Stop",
+    "StopPlaySession_ToolTip": "Stop simulation",
+    "CurrentValues_ToolTip": "View current values",
+    "SavedValues_ToolTip": "View saved values"
+  },
+  "UICommands.SConversationDiff": {
+    "Next_ToolTip": "Go to next difference",
+    "Previous_ToolTip": "Go to previous difference",
+    "Next": "Next",
+    "Previous": "Prev"
   },
   "UnrealBuildConfigurations": {
     "DebugName": "Debug",
