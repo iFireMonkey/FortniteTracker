@@ -1,7 +1,8 @@
 [
   {
-    "ExportType": "DataTable",
-    "ExportValue": {
+    "Type": "DataTable",
+    "Name": "OfferPopupDataTable",
+    "Rows": {
       "builtinemote": {
         "FormatedText": {
           "Namespace": "",
@@ -553,6 +554,62 @@
           "Namespace": "",
           "Key": "7CB6F5914D44B7E7E851E1A5D98082DC",
           "SourceString": "Group Emote! Join in the song with other players who are using the Shanty for a Squad Emote!"
+        }
+      },
+      "reactivesouls": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B4A079B94CCC988D1FCDC482AF2EE808",
+          "SourceString": "Reactive: Souls of fallen enemies appear on the outfit!"
+        }
+      },
+      "reactivevolcano": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "56EFF09D4061AB17869BCBB17596491B",
+          "SourceString": "Reactive back bling: Volcano erupts with eliminations!"
+        }
+      },
+      "reactivepopopentimer": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "8A8C511B4C37E70F12150194C71436EC",
+          "SourceString": "Reactive: Pops open with eliminations! Timer counts down the storm!"
+        }
+      },
+      "builtinemotesingular": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B1FB98DF48C4B603E1DA0DBD17A2628F",
+          "SourceString": "Outfit has built-in emote!"
+        }
+      },
+      "reactivesoulsbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "75227C78439D53AE39F03BB66E4F628B",
+          "SourceString": "Reactive outfit: Souls of fallen enemies appear on the outfit! Includes loading screen!"
+        }
+      },
+      "reactiveemotesandmusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0EFBC2F24454803A5E58268977AC68E0",
+          "SourceString": "Reactive to emotes and music!"
+        }
+      },
+      "promodesc3": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "68AD059440E037B182477AB891B0BB7B",
+          "SourceString": "Inspect_Banner_01"
+        }
+      },
+      "promodesc4": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "ABED7B7B410E18BB0436289003963F1D",
+          "SourceString": "Inspect_Banner_02"
         }
       }
     }

@@ -6510,7 +6510,111 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.HopeBetray_DisplayName",
+          "SourceString": "To The Moon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FancyHare": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FancyHare"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FancyHare_DisplayName",
+          "SourceString": "Dapper Rabbit"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RabbitStrength": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RabbitStrength"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RabbitStrength_DisplayName",
+          "SourceString": "Bunny Power 5"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FussJam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FussJam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FussJam_DisplayName",
           "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FishCastle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FishCastle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FishCastle_DisplayName",
+          "SourceString": "Fishy Kingdom"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AppleChance": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AppleChance"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AppleChance_DisplayName",
+          "SourceString": "...And Red All Over"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LandForm": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LandForm"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LandForm_DisplayName",
+          "SourceString": "Terra Firma"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NotedDude": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NotedDude"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NotedDude_DisplayName",
+          "SourceString": "Marked Man"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FallStrike": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FallStrike"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FallStrike_DisplayName",
+          "SourceString": "Autumn Attack"
         },
         "Description": {
           "CultureInvariantString": null
