@@ -1,7 +1,8 @@
 [
   {
-    "ExportType": "DataTable",
-    "ExportValue": {
+    "Type": "DataTable",
+    "Name": "CosmeticSets",
+    "Rows": {
       "Cosmetics.Set.AdvancedForces": {
         "Tag": {
           "TagName": "Cosmetics.Set.AdvancedForces"
@@ -11,7 +12,9 @@
           "Key": "Cosmetics.Set.AdvancedForces_DisplayName",
           "SourceString": "Advanced Forces"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ArcticCommand": {
         "Tag": {
@@ -22,7 +25,9 @@
           "Key": "Cosmetics.Set.ArcticCommand_DisplayName",
           "SourceString": "Arctic Command"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BlackVector": {
         "Tag": {
@@ -33,7 +38,9 @@
           "Key": "Cosmetics.Set.BlackVector_DisplayName",
           "SourceString": "Black Vector"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Carbide": {
         "Tag": {
@@ -44,7 +51,9 @@
           "Key": "Cosmetics.Set.Carbide_DisplayName",
           "SourceString": "Carbide"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DinoGuard": {
         "Tag": {
@@ -55,7 +64,9 @@
           "Key": "Cosmetics.Set.DinoGuard_DisplayName",
           "SourceString": "Dino Guard"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FortKnights": {
         "Tag": {
@@ -66,7 +77,9 @@
           "Key": "Cosmetics.Set.FortKnights_DisplayName",
           "SourceString": "Fort Knights"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FortniteFever": {
         "Tag": {
@@ -77,7 +90,9 @@
           "Key": "Cosmetics.Set.FortniteFever_DisplayName",
           "SourceString": "Fortnite Fever"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GreenClover": {
         "Tag": {
@@ -88,7 +103,9 @@
           "Key": "Cosmetics.Set.GreenClover_DisplayName",
           "SourceString": "Green Clover"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HiredGun": {
         "Tag": {
@@ -99,7 +116,9 @@
           "Key": "Cosmetics.Set.HiredGun_DisplayName",
           "SourceString": "Hired Gun"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Laoch": {
         "Tag": {
@@ -110,7 +129,9 @@
           "Key": "Cosmetics.Set.Laoch_DisplayName",
           "SourceString": "Laoch"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NeonGlow": {
         "Tag": {
@@ -121,7 +142,9 @@
           "Key": "Cosmetics.Set.NeonGlow_DisplayName",
           "SourceString": "Neon Glow"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Nevermore": {
         "Tag": {
@@ -132,7 +155,9 @@
           "Key": "Cosmetics.Set.Nevermore_DisplayName",
           "SourceString": "Nevermore"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Omega": {
         "Tag": {
@@ -143,7 +168,9 @@
           "Key": "Cosmetics.Set.Omega_DisplayName",
           "SourceString": "Omega"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PastelPatrol": {
         "Tag": {
@@ -154,7 +181,9 @@
           "Key": "Cosmetics.Set.PastelPatrol_DisplayName",
           "SourceString": "Pastel Patrol"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PizzaPit": {
         "Tag": {
@@ -165,7 +194,9 @@
           "Key": "Cosmetics.Set.PizzaPit_DisplayName",
           "SourceString": "Pizza Pit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoyaleHearts": {
         "Tag": {
@@ -176,7 +207,9 @@
           "Key": "Cosmetics.Set.RoyaleHearts_DisplayName",
           "SourceString": "Royale Hearts"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpaceExplorers": {
         "Tag": {
@@ -187,7 +220,9 @@
           "Key": "Cosmetics.Set.SpaceExplorers_DisplayName",
           "SourceString": "Space Explorers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StormFusion": {
         "Tag": {
@@ -198,7 +233,9 @@
           "Key": "Cosmetics.Set.StormFusion_DisplayName",
           "SourceString": "Storm Fusion"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StormScavenger": {
         "Tag": {
@@ -209,7 +246,9 @@
           "Key": "Cosmetics.Set.StormScavenger_DisplayName",
           "SourceString": "Storm Scavenger"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SunshineAndRainbows": {
         "Tag": {
@@ -220,7 +259,9 @@
           "Key": "Cosmetics.Set.SunshineAndRainbows_DisplayName",
           "SourceString": "Sunshine And Rainbows"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SweetTooth": {
         "Tag": {
@@ -231,7 +272,9 @@
           "Key": "Cosmetics.Set.SweetTooth_DisplayName",
           "SourceString": "Sweet Tooth"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Valiant": {
         "Tag": {
@@ -242,7 +285,9 @@
           "Key": "Cosmetics.Set.Valiant_DisplayName",
           "SourceString": "Valiant"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Volume11": {
         "Tag": {
@@ -253,7 +298,9 @@
           "Key": "Cosmetics.Set.Volume11_DisplayName",
           "SourceString": "Volume 11"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Overclocked": {
         "Tag": {
@@ -264,7 +311,9 @@
           "Key": "Cosmetics.Set.Overclocked_DisplayName",
           "SourceString": "Overclocked"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AerosolAssassins": {
         "Tag": {
@@ -275,7 +324,9 @@
           "Key": "Cosmetics.Set.AerosolAssassins_DisplayName",
           "SourceString": "Aerosol Assassins"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StealthSyndicate": {
         "Tag": {
@@ -286,7 +337,9 @@
           "Key": "Cosmetics.Set.StealthSyndicate_DisplayName",
           "SourceString": "Stealth Syndicate"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WinterSki": {
         "Tag": {
@@ -297,7 +350,9 @@
           "Key": "Cosmetics.Set.WinterSki_DisplayName",
           "SourceString": "Winter Ski"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SolidSteel": {
         "Tag": {
@@ -308,7 +363,9 @@
           "Key": "Cosmetics.Set.SolidSteel_DisplayName",
           "SourceString": "Solid Steel"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Speedy": {
         "Tag": {
@@ -319,7 +376,9 @@
           "Key": "Cosmetics.Set.Speedy_DisplayName",
           "SourceString": "Storm Strike"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Hazmat": {
         "Tag": {
@@ -330,7 +389,9 @@
           "Key": "Cosmetics.Set.Hazmat_DisplayName",
           "SourceString": "Outbreak"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Deco": {
         "Tag": {
@@ -341,7 +402,9 @@
           "Key": "Cosmetics.Set.Deco_DisplayName",
           "SourceString": "Venture"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Venus": {
         "Tag": {
@@ -352,7 +415,9 @@
           "Key": "Cosmetics.Set.Venus_DisplayName",
           "SourceString": "Flytrap"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Basketball": {
         "Tag": {
@@ -363,7 +428,9 @@
           "Key": "Cosmetics.Set.Basketball_DisplayName",
           "SourceString": "Half Court"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Jailbird": {
         "Tag": {
@@ -374,7 +441,9 @@
           "Key": "Cosmetics.Set.Jailbird_DisplayName",
           "SourceString": "Jailbird"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Soccer": {
         "Tag": {
@@ -385,7 +454,9 @@
           "Key": "Cosmetics.Set.Soccer_DisplayName",
           "SourceString": "Goalbound"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DarkEagle": {
         "Tag": {
@@ -396,7 +467,9 @@
           "Key": "Cosmetics.Set.DarkEagle_DisplayName",
           "SourceString": "Overseer"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WWIIPilot": {
         "Tag": {
@@ -407,7 +480,9 @@
           "Key": "Cosmetics.Set.WWIIPilot_DisplayName",
           "SourceString": "Sky Stalker"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CarbideOrangeFemale": {
         "Tag": {
@@ -418,7 +493,9 @@
           "Key": "Cosmetics.Set.CarbideOrangeFemale_DisplayName",
           "SourceString": "Criterion"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CarbideBlackFemale": {
         "Tag": {
@@ -429,7 +506,9 @@
           "Key": "Cosmetics.Set.CarbideBlackFemale_DisplayName",
           "SourceString": "Oblivion"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StarsAndStripes": {
         "Tag": {
@@ -440,7 +519,9 @@
           "Key": "Cosmetics.Set.StarsAndStripes_DisplayName",
           "SourceString": "Stars & Stripes"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Gumshoe": {
         "Tag": {
@@ -451,7 +532,9 @@
           "Key": "Cosmetics.Set.Gumshoe_DisplayName",
           "SourceString": "Hardboiled"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpeedyRed": {
         "Tag": {
@@ -462,7 +545,9 @@
           "Key": "Cosmetics.Set.SpeedyRed_DisplayName",
           "SourceString": "Apex Protocol"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Taxi": {
         "Tag": {
@@ -473,7 +558,9 @@
           "Key": "Cosmetics.Set.Taxi_DisplayName",
           "SourceString": "Racer Royale"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Viking": {
         "Tag": {
@@ -484,7 +571,9 @@
           "Key": "Cosmetics.Set.Viking_DisplayName",
           "SourceString": "Norse"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DarkViking": {
         "Tag": {
@@ -495,7 +584,9 @@
           "Key": "Cosmetics.Set.DarkViking_DisplayName",
           "SourceString": "Harbinger"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Drift": {
         "Tag": {
@@ -506,7 +597,9 @@
           "Key": "Cosmetics.Set.Drift_DisplayName",
           "SourceString": "Drift"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Lifeguard": {
         "Tag": {
@@ -517,7 +610,9 @@
           "Key": "Cosmetics.Set.Lifeguard_DisplayName",
           "SourceString": "Rescue Patrol"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetRacer": {
         "Tag": {
@@ -528,7 +623,9 @@
           "Key": "Cosmetics.Set.StreetRacer_DisplayName",
           "SourceString": "RPM"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Luchador": {
         "Tag": {
@@ -539,7 +636,9 @@
           "Key": "Cosmetics.Set.Luchador_DisplayName",
           "SourceString": "Lucha"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SharpDresser": {
         "Tag": {
@@ -550,7 +649,9 @@
           "Key": "Cosmetics.Set.SharpDresser_DisplayName",
           "SourceString": "Sharp Style"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Balloon": {
         "Tag": {
@@ -561,7 +662,9 @@
           "Key": "Cosmetics.Set.Balloon_DisplayName",
           "SourceString": "Party Parade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetRacerCobra": {
         "Tag": {
@@ -572,7 +675,9 @@
           "Key": "Cosmetics.Set.StreetRacerCobra_DisplayName",
           "SourceString": "Cobra Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ModernMilitary": {
         "Tag": {
@@ -583,7 +688,9 @@
           "Key": "Cosmetics.Set.ModernMilitary_DisplayName",
           "SourceString": "Archetype"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Scuba": {
         "Tag": {
@@ -594,7 +701,9 @@
           "Key": "Cosmetics.Set.Scuba_DisplayName",
           "SourceString": "Divemasters"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Shark": {
         "Tag": {
@@ -605,7 +714,9 @@
           "Key": "Cosmetics.Set.Shark_DisplayName",
           "SourceString": "Chomp"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Birthday2018": {
         "Tag": {
@@ -616,7 +727,9 @@
           "Key": "Cosmetics.Set.Birthday2018_DisplayName",
           "SourceString": "First Birthday"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Wukong": {
         "Tag": {
@@ -627,7 +740,9 @@
           "Key": "Cosmetics.Set.Wukong_DisplayName",
           "SourceString": "Wukong"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetRacerWhite": {
         "Tag": {
@@ -638,7 +753,9 @@
           "Key": "Cosmetics.Set.StreetRacerWhite_DisplayName",
           "SourceString": "Vanishing Point"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Sushi": {
         "Tag": {
@@ -649,7 +766,9 @@
           "Key": "Cosmetics.Set.Sushi_DisplayName",
           "SourceString": "Sushi"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Exercise": {
         "Tag": {
@@ -660,7 +779,9 @@
           "Key": "Cosmetics.Set.Exercise_DisplayName",
           "SourceString": "Spandex Squad"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DurrrBurger": {
         "Tag": {
@@ -671,7 +792,9 @@
           "Key": "Cosmetics.Set.DurrrBurger_DisplayName",
           "SourceString": "Durrr Burger"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Bling": {
         "Tag": {
@@ -682,7 +805,9 @@
           "Key": "Cosmetics.Set.Bling_DisplayName",
           "SourceString": "Getaway Gang"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Biker": {
         "Tag": {
@@ -693,7 +818,9 @@
           "Key": "Cosmetics.Set.Biker_DisplayName",
           "SourceString": "Biker Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BlueSamurai": {
         "Tag": {
@@ -704,7 +831,9 @@
           "Key": "Cosmetics.Set.BlueSamurai_DisplayName",
           "SourceString": "Bushido"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Hippie": {
         "Tag": {
@@ -715,7 +844,9 @@
           "Key": "Cosmetics.Set.Hippie_DisplayName",
           "SourceString": "Flower Power"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Medic": {
         "Tag": {
@@ -726,7 +857,9 @@
           "Key": "Cosmetics.Set.Medic_DisplayName",
           "SourceString": "Support Squadron"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GarageBand": {
         "Tag": {
@@ -737,7 +870,9 @@
           "Key": "Cosmetics.Set.GarageBand_DisplayName",
           "SourceString": "Garage Band"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Football": {
         "Tag": {
@@ -748,7 +883,9 @@
           "Key": "Cosmetics.Set.Football_DisplayName",
           "SourceString": "Fourth Down"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Hacivat": {
         "Tag": {
@@ -759,7 +896,9 @@
           "Key": "Cosmetics.Set.Hacivat_DisplayName",
           "SourceString": "Hacivat"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ModernMilitaryRed": {
         "Tag": {
@@ -770,7 +909,9 @@
           "Key": "Cosmetics.Set.ModernMilitaryRed_DisplayName",
           "SourceString": "Double Helix"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CarbideWhite": {
         "Tag": {
@@ -781,7 +922,9 @@
           "Key": "Cosmetics.Set.CarbideWhite_DisplayName",
           "SourceString": "Eon"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DieselPunk": {
         "Tag": {
@@ -792,7 +935,9 @@
           "Key": "Cosmetics.Set.DieselPunk_DisplayName",
           "SourceString": "Aviation Age"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Vampire": {
         "Tag": {
@@ -803,7 +948,9 @@
           "Key": "Cosmetics.Set.Vampire_DisplayName",
           "SourceString": "Nite Coven"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Octoberfest": {
         "Tag": {
@@ -814,7 +961,9 @@
           "Key": "Cosmetics.Set.Octoberfest_DisplayName",
           "SourceString": "Oktoberfest"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Werewolf": {
         "Tag": {
@@ -825,7 +974,9 @@
           "Key": "Cosmetics.Set.Werewolf_DisplayName",
           "SourceString": "Full Moon"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RedRiding": {
         "Tag": {
@@ -836,7 +987,9 @@
           "Key": "Cosmetics.Set.RedRiding_DisplayName",
           "SourceString": "Red Riding"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Scarecrow": {
         "Tag": {
@@ -847,7 +1000,9 @@
           "Key": "Cosmetics.Set.Scarecrow_DisplayName",
           "SourceString": "Straw Stuffed"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Cowgirl": {
         "Tag": {
@@ -858,7 +1013,9 @@
           "Key": "Cosmetics.Set.Cowgirl_DisplayName",
           "SourceString": "Western Wilds"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FortniteDJ": {
         "Tag": {
@@ -869,7 +1026,9 @@
           "Key": "Cosmetics.Set.FortniteDJ_DisplayName",
           "SourceString": "Twin Turntables"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DarkBomber": {
         "Tag": {
@@ -880,7 +1039,9 @@
           "Key": "Cosmetics.Set.DarkBomber_DisplayName",
           "SourceString": "Lightning & Thunderstorms"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Plague": {
         "Tag": {
@@ -891,7 +1052,9 @@
           "Key": "Cosmetics.Set.Plague_DisplayName",
           "SourceString": "Grim Medicine"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Pumpkin": {
         "Tag": {
@@ -902,7 +1065,9 @@
           "Key": "Cosmetics.Set.Pumpkin_DisplayName",
           "SourceString": "Pumpkin Patch"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SkullTrooper": {
         "Tag": {
@@ -913,7 +1078,9 @@
           "Key": "Cosmetics.Set.SkullTrooper_DisplayName",
           "SourceString": "Skull Squad"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BlackWidow": {
         "Tag": {
@@ -924,7 +1091,9 @@
           "Key": "Cosmetics.Set.BlackWidow_DisplayName",
           "SourceString": "Arachnid"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GuanYu": {
         "Tag": {
@@ -935,7 +1104,9 @@
           "Key": "Cosmetics.Set.GuanYu_DisplayName",
           "SourceString": "Guan Yu"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RaptorArcticCamo": {
         "Tag": {
@@ -946,7 +1117,9 @@
           "Key": "Cosmetics.Set.RaptorArcticCamo_DisplayName",
           "SourceString": "Deep Freeze"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Muertos": {
         "Tag": {
@@ -957,7 +1130,9 @@
           "Key": "Cosmetics.Set.Muertos_DisplayName",
           "SourceString": "Muertos"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Celestial": {
         "Tag": {
@@ -968,7 +1143,9 @@
           "Key": "Cosmetics.Set.Celestial_DisplayName",
           "SourceString": "Galaxy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SamuraiUltra": {
         "Tag": {
@@ -979,7 +1156,9 @@
           "Key": "Cosmetics.Set.SamuraiUltra_DisplayName",
           "SourceString": "Shogun"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AnimalJackets": {
         "Tag": {
@@ -990,7 +1169,9 @@
           "Key": "Cosmetics.Set.AnimalJackets_DisplayName",
           "SourceString": "Animal Jackets"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetOps": {
         "Tag": {
@@ -1001,7 +1182,9 @@
           "Key": "Cosmetics.Set.StreetOps_DisplayName",
           "SourceString": "Counterattack"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MadCommander": {
         "Tag": {
@@ -1012,7 +1195,9 @@
           "Key": "Cosmetics.Set.MadCommander_DisplayName",
           "SourceString": "Wasteland Warriors"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RobotRed": {
         "Tag": {
@@ -1023,7 +1208,9 @@
           "Key": "Cosmetics.Set.RobotRed_DisplayName",
           "SourceString": "A.I.M."
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Witch": {
         "Tag": {
@@ -1034,7 +1221,9 @@
           "Key": "Cosmetics.Set.Witch_DisplayName",
           "SourceString": "Arcane Arts"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Feathers": {
         "Tag": {
@@ -1045,7 +1234,9 @@
           "Key": "Cosmetics.Set.Feathers_DisplayName",
           "SourceString": "Fowl Play"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Sup": {
         "Tag": {
@@ -1056,7 +1247,9 @@
           "Key": "Cosmetics.Set.Sup_DisplayName",
           "SourceString": "Hyper"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HornedMask": {
         "Tag": {
@@ -1067,7 +1260,9 @@
           "Key": "Cosmetics.Set.HornedMask_DisplayName",
           "SourceString": "Storm Familiars"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SniperHood": {
         "Tag": {
@@ -1078,7 +1273,9 @@
           "Key": "Cosmetics.Set.SniperHood_DisplayName",
           "SourceString": "Ranged Recon"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Moth": {
         "Tag": {
@@ -1089,7 +1286,9 @@
           "Key": "Cosmetics.Set.Moth_DisplayName",
           "SourceString": "Moth Command"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NeonCat": {
         "Tag": {
@@ -1100,7 +1299,9 @@
           "Key": "Cosmetics.Set.NeonCat_DisplayName",
           "SourceString": "Lynx"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ArcticSniper": {
         "Tag": {
@@ -1111,7 +1312,9 @@
           "Key": "Cosmetics.Set.ArcticSniper_DisplayName",
           "SourceString": "Zenith"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TacticalSanta": {
         "Tag": {
@@ -1122,7 +1325,9 @@
           "Key": "Cosmetics.Set.TacticalSanta_DisplayName",
           "SourceString": "Sgt. Winter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Snowboard": {
         "Tag": {
@@ -1133,7 +1338,9 @@
           "Key": "Cosmetics.Set.Snowboard_DisplayName",
           "SourceString": "Powder Patrol"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Yeti": {
         "Tag": {
@@ -1144,7 +1351,9 @@
           "Key": "Cosmetics.Set.Yeti_DisplayName",
           "SourceString": "Mountain Myths"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.IceKing": {
         "Tag": {
@@ -1155,7 +1364,9 @@
           "Key": "Cosmetics.Set.IceKing_DisplayName",
           "SourceString": "Ice Kingdom"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Gingerbread": {
         "Tag": {
@@ -1166,7 +1377,9 @@
           "Key": "Cosmetics.Set.Gingerbread_DisplayName",
           "SourceString": "Gingerbread"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.S4Cumulative": {
         "Tag": {
@@ -1177,7 +1390,9 @@
           "Key": "Cosmetics.Set.S4Cumulative_DisplayName",
           "SourceString": "Blockbuster"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.S5Cumulative": {
         "Tag": {
@@ -1188,7 +1403,9 @@
           "Key": "Cosmetics.Set.S5Cumulative_DisplayName",
           "SourceString": "Road Trip"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.S6Cumulative": {
         "Tag": {
@@ -1199,7 +1416,9 @@
           "Key": "Cosmetics.Set.S6Cumulative_DisplayName",
           "SourceString": "Hunting Party"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.S7Cumulative": {
         "Tag": {
@@ -1210,7 +1429,9 @@
           "Key": "Cosmetics.Set.S7Cumulative_DisplayName",
           "SourceString": "Snowfall"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Nutcracker": {
         "Tag": {
@@ -1221,7 +1442,9 @@
           "Key": "Cosmetics.Set.Nutcracker_DisplayName",
           "SourceString": "Nutcracker"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FrozenLegends": {
         "Tag": {
@@ -1232,7 +1455,9 @@
           "Key": "Cosmetics.Set.FrozenLegends_DisplayName",
           "SourceString": "Frozen Legends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Math": {
         "Tag": {
@@ -1243,7 +1468,9 @@
           "Key": "Cosmetics.Set.Math_DisplayName",
           "SourceString": "Calculator Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Mechanimal": {
         "Tag": {
@@ -1254,7 +1481,9 @@
           "Key": "Cosmetics.Set.Mechanimal_DisplayName",
           "SourceString": "Mechanimal"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EternalStruggle": {
         "Tag": {
@@ -1265,7 +1494,9 @@
           "Key": "Cosmetics.Set.EternalStruggle_DisplayName",
           "SourceString": "Eternal Struggle"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.IceMaiden": {
         "Tag": {
@@ -1276,7 +1507,9 @@
           "Key": "Cosmetics.Set.IceMaiden_DisplayName",
           "SourceString": "Winter Wonderland"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetGoth": {
         "Tag": {
@@ -1287,7 +1520,9 @@
           "Key": "Cosmetics.Set.StreetGoth_DisplayName",
           "SourceString": "Ouroboros"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TeriyakiFish": {
         "Tag": {
@@ -1298,7 +1533,9 @@
           "Key": "Cosmetics.Set.TeriyakiFish_DisplayName",
           "SourceString": "Fish Food"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Krampus": {
         "Tag": {
@@ -1309,7 +1546,9 @@
           "Key": "Cosmetics.Set.Krampus_DisplayName",
           "SourceString": "Krampus"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MilitaryFashion": {
         "Tag": {
@@ -1320,7 +1559,9 @@
           "Key": "Cosmetics.Set.MilitaryFashion_DisplayName",
           "SourceString": "Modern Mercenary"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Nautilus": {
         "Tag": {
@@ -1331,7 +1572,9 @@
           "Key": "Cosmetics.Set.Nautilus_DisplayName",
           "SourceString": "Deep Sea"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WavyMan": {
         "Tag": {
@@ -1342,7 +1585,9 @@
           "Key": "Cosmetics.Set.WavyMan_DisplayName",
           "SourceString": "Hot Air"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Barbarian": {
         "Tag": {
@@ -1353,7 +1598,9 @@
           "Key": "Cosmetics.Set.Barbarian_DisplayName",
           "SourceString": "Primal Hunters"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SnowNinja": {
         "Tag": {
@@ -1364,7 +1611,9 @@
           "Key": "Cosmetics.Set.SnowNinja_DisplayName",
           "SourceString": "Snow Clan"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TechOps": {
         "Tag": {
@@ -1375,7 +1624,9 @@
           "Key": "Cosmetics.Set.TechOps_DisplayName",
           "SourceString": "Tech Ops"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Scrapyard": {
         "Tag": {
@@ -1386,7 +1637,9 @@
           "Key": "Cosmetics.Set.Scrapyard_DisplayName",
           "SourceString": "Boneyard"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Squishy": {
         "Tag": {
@@ -1397,7 +1650,9 @@
           "Key": "Cosmetics.Set.Squishy_DisplayName",
           "SourceString": "Marshmello"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DumplingMan": {
         "Tag": {
@@ -1408,7 +1663,9 @@
           "Key": "Cosmetics.Set.DumplingMan_DisplayName",
           "SourceString": "Bao Bros"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RobotTrouble": {
         "Tag": {
@@ -1419,7 +1676,9 @@
           "Key": "Cosmetics.Set.RobotTrouble_DisplayName",
           "SourceString": "Robo Rebels"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SkullBrite": {
         "Tag": {
@@ -1430,7 +1689,9 @@
           "Key": "Cosmetics.Set.SkullBrite_DisplayName",
           "SourceString": "Skull & Bows"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.IceCream": {
         "Tag": {
@@ -1441,7 +1702,9 @@
           "Key": "Cosmetics.Set.IceCream_DisplayName",
           "SourceString": "Two Scoops"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DragonNinja": {
         "Tag": {
@@ -1452,7 +1715,9 @@
           "Key": "Cosmetics.Set.DragonNinja_DisplayName",
           "SourceString": "Brood"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Pirate": {
         "Tag": {
@@ -1463,7 +1728,9 @@
           "Key": "Cosmetics.Set.Pirate_DisplayName",
           "SourceString": "Scallywags"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Medusa": {
         "Tag": {
@@ -1474,7 +1741,9 @@
           "Key": "Cosmetics.Set.Medusa_DisplayName",
           "SourceString": "Snakepit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MasterKey": {
         "Tag": {
@@ -1485,7 +1754,9 @@
           "Key": "Cosmetics.Set.MasterKey_DisplayName",
           "SourceString": "Key Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Shiny": {
         "Tag": {
@@ -1496,7 +1767,9 @@
           "Key": "Cosmetics.Set.Shiny_DisplayName",
           "SourceString": "24K"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Bandolier": {
         "Tag": {
@@ -1507,7 +1780,9 @@
           "Key": "Cosmetics.Set.Bandolier_DisplayName",
           "SourceString": "Tropic Troopers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Farmer": {
         "Tag": {
@@ -1518,7 +1793,9 @@
           "Key": "Cosmetics.Set.Farmer_DisplayName",
           "SourceString": "Fatal Fielders"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Aztec": {
         "Tag": {
@@ -1529,7 +1806,9 @@
           "Key": "Cosmetics.Set.Aztec_DisplayName",
           "SourceString": "Sun Soldiers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.KpopFashion": {
         "Tag": {
@@ -1540,7 +1819,9 @@
           "Key": "Cosmetics.Set.KpopFashion_DisplayName",
           "SourceString": "IKONIK"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FireElf": {
         "Tag": {
@@ -1551,7 +1832,9 @@
           "Key": "Cosmetics.Set.FireElf_DisplayName",
           "SourceString": "Ashen Guard"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.S8Cumulative": {
         "Tag": {
@@ -1562,7 +1845,9 @@
           "Key": "Cosmetics.Set.S8Cumulative_DisplayName",
           "SourceString": "Discovery"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BandageNinja": {
         "Tag": {
@@ -1573,7 +1858,9 @@
           "Key": "Cosmetics.Set.BandageNinja_DisplayName",
           "SourceString": "Falcon Clan"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SciOps": {
         "Tag": {
@@ -1584,7 +1871,9 @@
           "Key": "Cosmetics.Set.SciOps_DisplayName",
           "SourceString": "Third Eye"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DevilRock": {
         "Tag": {
@@ -1595,7 +1884,9 @@
           "Key": "Cosmetics.Set.DevilRock_DisplayName",
           "SourceString": "Diabolical"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Tropical": {
         "Tag": {
@@ -1606,7 +1897,9 @@
           "Key": "Cosmetics.Set.Tropical_DisplayName",
           "SourceString": "Beach Battalion"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BlueBadass": {
         "Tag": {
@@ -1617,7 +1910,9 @@
           "Key": "Cosmetics.Set.BlueBadass_DisplayName",
           "SourceString": "Waypoint"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DarkShaman": {
         "Tag": {
@@ -1628,7 +1923,9 @@
           "Key": "Cosmetics.Set.DarkShaman_DisplayName",
           "SourceString": "Moonbone"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BaseballKitbash": {
         "Tag": {
@@ -1639,7 +1936,9 @@
           "Key": "Cosmetics.Set.BaseballKitbash_DisplayName",
           "SourceString": "Three Strikes"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Bullseye": {
         "Tag": {
@@ -1650,7 +1949,9 @@
           "Key": "Cosmetics.Set.Bullseye_DisplayName",
           "SourceString": "Bullseye"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Molten": {
         "Tag": {
@@ -1661,7 +1962,9 @@
           "Key": "Cosmetics.Set.Molten_DisplayName",
           "SourceString": "Lava Legends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FurnaceFace": {
         "Tag": {
@@ -1672,7 +1975,9 @@
           "Key": "Cosmetics.Set.FurnaceFace_DisplayName",
           "SourceString": "Ruination"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Pilots": {
         "Tag": {
@@ -1683,7 +1988,9 @@
           "Key": "Cosmetics.Set.Pilots_DisplayName",
           "SourceString": "Air Royale"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EvilSuit": {
         "Tag": {
@@ -1694,7 +2001,9 @@
           "Key": "Cosmetics.Set.EvilSuit_DisplayName",
           "SourceString": "Inferno"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoseLeader": {
         "Tag": {
@@ -1705,7 +2014,9 @@
           "Key": "Cosmetics.Set.RoseLeader_DisplayName",
           "SourceString": "Rose Team"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Warpaint": {
         "Tag": {
@@ -1716,7 +2027,9 @@
           "Key": "Cosmetics.Set.Warpaint_DisplayName",
           "SourceString": "Warpaint"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Golf": {
         "Tag": {
@@ -1727,7 +2040,9 @@
           "Key": "Cosmetics.Set.Golf_DisplayName",
           "SourceString": "Teed Off"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Banana": {
         "Tag": {
@@ -1738,7 +2053,9 @@
           "Key": "Cosmetics.Set.Banana_DisplayName",
           "SourceString": "Banana Bunch"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TheBomb": {
         "Tag": {
@@ -1749,7 +2066,9 @@
           "Key": "Cosmetics.Set.TheBomb_DisplayName",
           "SourceString": "Short Fuse"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpaceBunny": {
         "Tag": {
@@ -1760,7 +2079,9 @@
           "Key": "Cosmetics.Set.SpaceBunny_DisplayName",
           "SourceString": "Space Hop"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EvilBunny": {
         "Tag": {
@@ -1771,7 +2092,9 @@
           "Key": "Cosmetics.Set.EvilBunny_DisplayName",
           "SourceString": "Nitehare"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HoppityHeist": {
         "Tag": {
@@ -1782,7 +2105,9 @@
           "Key": "Cosmetics.Set.HoppityHeist_DisplayName",
           "SourceString": "Hoppity Heist"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AshtonBoardwalk": {
         "Tag": {
@@ -1793,7 +2118,9 @@
           "Key": "Cosmetics.Set.AshtonBoardwalk_DisplayName",
           "SourceString": "Avengers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AshtonSaltLake": {
         "Tag": {
@@ -1804,7 +2131,9 @@
           "Key": "Cosmetics.Set.AshtonSaltLake_DisplayName",
           "SourceString": "Guardians Of The Galaxy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BrokenLight": {
         "Tag": {
@@ -1815,7 +2144,9 @@
           "Key": "Cosmetics.Set.BrokenLight_DisplayName",
           "SourceString": "Broken Light"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Interstellar": {
         "Tag": {
@@ -1826,7 +2157,9 @@
           "Key": "Cosmetics.Set.Interstellar_DisplayName",
           "SourceString": "Interstellar"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Rooster": {
         "Tag": {
@@ -1837,7 +2170,9 @@
           "Key": "Cosmetics.Set.Rooster_DisplayName",
           "SourceString": "Battle Dynamics"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AssassinSuit": {
         "Tag": {
@@ -1848,7 +2183,9 @@
           "Key": "Cosmetics.Set.AssassinSuit_DisplayName",
           "SourceString": "John Wick"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BountyHunter": {
         "Tag": {
@@ -1859,7 +2196,9 @@
           "Key": "Cosmetics.Set.BountyHunter_DisplayName",
           "SourceString": "Bounty Hunter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Masako": {
         "Tag": {
@@ -1870,7 +2209,9 @@
           "Key": "Cosmetics.Set.Masako_DisplayName",
           "SourceString": "Scarlet Dragon"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StormTracker": {
         "Tag": {
@@ -1881,7 +2222,9 @@
           "Key": "Cosmetics.Set.StormTracker_DisplayName",
           "SourceString": "Storm Stalker"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BattleSuit": {
         "Tag": {
@@ -1892,7 +2235,9 @@
           "Key": "Cosmetics.Set.BattleSuit_DisplayName",
           "SourceString": "Suit Up"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BunkerMan": {
         "Tag": {
@@ -1903,7 +2248,9 @@
           "Key": "Cosmetics.Set.BunkerMan_DisplayName",
           "SourceString": "Bunker Days"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CyberScavenger": {
         "Tag": {
@@ -1914,7 +2261,9 @@
           "Key": "Cosmetics.Set.CyberScavenger_DisplayName",
           "SourceString": "Neochaser"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetDemon": {
         "Tag": {
@@ -1925,7 +2274,9 @@
           "Key": "Cosmetics.Set.StreetDemon_DisplayName",
           "SourceString": "Cryptic"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StrawberryPilot": {
         "Tag": {
@@ -1936,7 +2287,9 @@
           "Key": "Cosmetics.Set.StrawberryPilot_DisplayName",
           "SourceString": "Sky Style"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.S9Cumulative": {
         "Tag": {
@@ -1947,7 +2300,9 @@
           "Key": "Cosmetics.Set.S9Cumulative_DisplayName",
           "SourceString": "Utopia"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Vigilante": {
         "Tag": {
@@ -1958,7 +2313,9 @@
           "Key": "Cosmetics.Set.Vigilante_DisplayName",
           "SourceString": "Hang Time"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Geisha": {
         "Tag": {
@@ -1969,7 +2326,9 @@
           "Key": "Cosmetics.Set.Geisha_DisplayName",
           "SourceString": "Takara"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Pug": {
         "Tag": {
@@ -1980,7 +2339,9 @@
           "Key": "Cosmetics.Set.Pug_DisplayName",
           "SourceString": "Grumble Gang"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WhiteTiger": {
         "Tag": {
@@ -1991,7 +2352,9 @@
           "Key": "Cosmetics.Set.WhiteTiger_DisplayName",
           "SourceString": "White Tiger"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MaskedWarrior": {
         "Tag": {
@@ -2002,7 +2365,9 @@
           "Key": "Cosmetics.Set.MaskedWarrior_DisplayName",
           "SourceString": "Immortal Sands"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpeedyMidnight": {
         "Tag": {
@@ -2013,7 +2378,9 @@
           "Key": "Cosmetics.Set.SpeedyMidnight_DisplayName",
           "SourceString": "Dark Apex"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CyberRunner": {
         "Tag": {
@@ -2024,7 +2391,9 @@
           "Key": "Cosmetics.Set.CyberRunner_DisplayName",
           "SourceString": "Synapse"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DemonHunter": {
         "Tag": {
@@ -2035,7 +2404,9 @@
           "Key": "Cosmetics.Set.DemonHunter_DisplayName",
           "SourceString": "Battle Rites"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.UrbanScavenger": {
         "Tag": {
@@ -2046,7 +2417,9 @@
           "Key": "Cosmetics.Set.UrbanScavenger_DisplayName",
           "SourceString": "Metro Squad"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StormSoldier": {
         "Tag": {
@@ -2057,7 +2430,9 @@
           "Key": "Cosmetics.Set.StormSoldier_DisplayName",
           "SourceString": "Raging Storm"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GreenPlastic": {
         "Tag": {
@@ -2068,7 +2443,9 @@
           "Key": "Cosmetics.Set.GreenPlastic_DisplayName",
           "SourceString": "Toy Soldier"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Butterfly": {
         "Tag": {
@@ -2079,7 +2456,9 @@
           "Key": "Cosmetics.Set.Butterfly_DisplayName",
           "SourceString": "Chrysalis Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CyberFu": {
         "Tag": {
@@ -2090,7 +2469,9 @@
           "Key": "Cosmetics.Set.CyberFu_DisplayName",
           "SourceString": "Focal Point"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GlowBro": {
         "Tag": {
@@ -2101,7 +2482,9 @@
           "Key": "Cosmetics.Set.GlowBro_DisplayName",
           "SourceString": "Stormlight"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Sarong": {
         "Tag": {
@@ -2112,7 +2495,9 @@
           "Key": "Cosmetics.Set.Sarong_DisplayName",
           "SourceString": "Red Lily"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Zodiac": {
         "Tag": {
@@ -2123,7 +2508,9 @@
           "Key": "Cosmetics.Set.Zodiac_DisplayName",
           "SourceString": "Roughneck"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Hairy": {
         "Tag": {
@@ -2134,7 +2521,9 @@
           "Key": "Cosmetics.Set.Hairy_DisplayName",
           "SourceString": "Bigfoot"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TechMage": {
         "Tag": {
@@ -2145,7 +2534,9 @@
           "Key": "Cosmetics.Set.TechMage_DisplayName",
           "SourceString": "Total Control"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Flamingo": {
         "Tag": {
@@ -2156,7 +2547,9 @@
           "Key": "Cosmetics.Set.Flamingo_DisplayName",
           "SourceString": "Flamingo"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WeirdObjects": {
         "Tag": {
@@ -2167,7 +2560,9 @@
           "Key": "Cosmetics.Set.WeirdObjects_DisplayName",
           "SourceString": "Stranger Things"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Banner": {
         "Tag": {
@@ -2178,7 +2573,9 @@
           "Key": "Cosmetics.Set.Banner_DisplayName",
           "SourceString": "Banner Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TeamShowdown": {
         "Tag": {
@@ -2189,7 +2586,9 @@
           "Key": "Cosmetics.Set.TeamShowdown_DisplayName",
           "SourceString": "Final Showdown"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Bani": {
         "Tag": {
@@ -2200,7 +2599,9 @@
           "Key": "Cosmetics.Set.Bani_DisplayName",
           "SourceString": "Battle Bun"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CyberKarate": {
         "Tag": {
@@ -2211,7 +2612,9 @@
           "Key": "Cosmetics.Set.CyberKarate_DisplayName",
           "SourceString": "Kata Tech"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Anarchy": {
         "Tag": {
@@ -2222,7 +2625,9 @@
           "Key": "Cosmetics.Set.Anarchy_DisplayName",
           "SourceString": "Anarchy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WorldCup2019": {
         "Tag": {
@@ -2233,7 +2638,9 @@
           "Key": "Cosmetics.Set.WorldCup2019_DisplayName",
           "SourceString": "World Cup 2019"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Birthday2019": {
         "Tag": {
@@ -2244,7 +2651,9 @@
           "Key": "Cosmetics.Set.Birthday2019_DisplayName",
           "SourceString": "B-Day Bunch"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SaveTheWorld": {
         "Tag": {
@@ -2255,7 +2664,9 @@
           "Key": "Cosmetics.Set.SaveTheWorld_DisplayName",
           "SourceString": "Save the World"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Bubblegum": {
         "Tag": {
@@ -2266,7 +2677,9 @@
           "Key": "Cosmetics.Set.Bubblegum_DisplayName",
           "SourceString": "Bubblegum"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BoneWasp": {
         "Tag": {
@@ -2277,7 +2690,9 @@
           "Key": "Cosmetics.Set.BoneWasp_DisplayName",
           "SourceString": "Sting"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetAssassin": {
         "Tag": {
@@ -2288,7 +2703,9 @@
           "Key": "Cosmetics.Set.StreetAssassin_DisplayName",
           "SourceString": "Gold Mask"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MechPilotShark": {
         "Tag": {
@@ -2299,7 +2716,9 @@
           "Key": "Cosmetics.Set.MechPilotShark_DisplayName",
           "SourceString": "B.R.U.T.E. Squad"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ZeroPoint": {
         "Tag": {
@@ -2310,7 +2729,9 @@
           "Key": "Cosmetics.Set.ZeroPoint_DisplayName",
           "SourceString": "Zero Point"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Lasagna": {
         "Tag": {
@@ -2321,7 +2742,9 @@
           "Key": "Cosmetics.Set.Lasagna_DisplayName",
           "SourceString": "Lazerism"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ScoreCard": {
         "Tag": {
@@ -2332,7 +2755,9 @@
           "Key": "Cosmetics.Set.ScoreCard_DisplayName",
           "SourceString": "The Leftovers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Lopex": {
         "Tag": {
@@ -2343,7 +2768,9 @@
           "Key": "Cosmetics.Set.Lopex_DisplayName",
           "SourceString": "Fur Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StarWalker": {
         "Tag": {
@@ -2354,7 +2781,9 @@
           "Key": "Cosmetics.Set.StarWalker_DisplayName",
           "SourceString": "Star Walker"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Syko": {
         "Tag": {
@@ -2365,7 +2794,9 @@
           "Key": "Cosmetics.Set.Syko_DisplayName",
           "SourceString": "Domination"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WiseMaster": {
         "Tag": {
@@ -2376,7 +2807,9 @@
           "Key": "Cosmetics.Set.WiseMaster_DisplayName",
           "SourceString": "Wise Warrior"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CautiousLoaf": {
         "Tag": {
@@ -2387,7 +2820,9 @@
           "Key": "Cosmetics.Set.CautiousLoaf_DisplayName",
           "SourceString": "Hazcat"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BarbequeLarry": {
         "Tag": {
@@ -2398,7 +2833,9 @@
           "Key": "Cosmetics.Set.BarbequeLarry_DisplayName",
           "SourceString": "Mayhem"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PaddedArmor": {
         "Tag": {
@@ -2409,7 +2846,9 @@
           "Key": "Cosmetics.Set.PaddedArmor_DisplayName",
           "SourceString": "Heavy Hitter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RaptorBlackOps": {
         "Tag": {
@@ -2420,7 +2859,9 @@
           "Key": "Cosmetics.Set.RaptorBlackOps_DisplayName",
           "SourceString": "Air Strike"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ElectrodeDefect": {
         "Tag": {
@@ -2431,7 +2872,9 @@
           "Key": "Cosmetics.Set.ElectrodeDefect_DisplayName",
           "SourceString": "Gotham City"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AbandonedCrowd": {
         "Tag": {
@@ -2442,7 +2885,9 @@
           "Key": "Cosmetics.Set.AbandonedCrowd_DisplayName",
           "SourceString": "UFO"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LemonLime": {
         "Tag": {
@@ -2453,7 +2898,9 @@
           "Key": "Cosmetics.Set.LemonLime_DisplayName",
           "SourceString": "Citron"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Jumpstart": {
         "Tag": {
@@ -2464,7 +2911,9 @@
           "Key": "Cosmetics.Set.Jumpstart_DisplayName",
           "SourceString": "Wild Shock"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Punchy": {
         "Tag": {
@@ -2475,7 +2924,9 @@
           "Key": "Cosmetics.Set.Punchy_DisplayName",
           "SourceString": "TKO"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SleepyTime": {
         "Tag": {
@@ -2486,7 +2937,9 @@
           "Key": "Cosmetics.Set.SleepyTime_DisplayName",
           "SourceString": "Dreamy Days"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Asteroid": {
         "Tag": {
@@ -2497,7 +2950,9 @@
           "Key": "Cosmetics.Set.Asteroid_DisplayName",
           "SourceString": "The Seven"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ZoneWars": {
         "Tag": {
@@ -2508,7 +2963,9 @@
           "Key": "Cosmetics.Set.ZoneWars_DisplayName",
           "SourceString": "Zone Wars"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetStripes": {
         "Tag": {
@@ -2519,7 +2976,9 @@
           "Key": "Cosmetics.Set.StreetStripes_DisplayName",
           "SourceString": "Street Stripes"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SiegeStrike": {
         "Tag": {
@@ -2530,7 +2989,9 @@
           "Key": "Cosmetics.Set.SiegeStrike_DisplayName",
           "SourceString": "Siege Strike"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Mountaineer": {
         "Tag": {
@@ -2541,7 +3002,9 @@
           "Key": "Cosmetics.Set.Mountaineer_DisplayName",
           "SourceString": "Ascension"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Billiards": {
         "Tag": {
@@ -2552,7 +3015,9 @@
           "Key": "Cosmetics.Set.Billiards_DisplayName",
           "SourceString": "Stripes and Solids"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Revival": {
         "Tag": {
@@ -2563,7 +3028,9 @@
           "Key": "Cosmetics.Set.Revival_DisplayName",
           "SourceString": "Bad Medicine"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CounterSpy": {
         "Tag": {
@@ -2574,7 +3041,9 @@
           "Key": "Cosmetics.Set.CounterSpy_DisplayName",
           "SourceString": "Standout Style"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Nothingness": {
         "Tag": {
@@ -2585,7 +3054,9 @@
           "Key": "Cosmetics.Set.Nothingness_DisplayName",
           "SourceString": "Fusion"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Perimeter": {
         "Tag": {
@@ -2596,7 +3067,9 @@
           "Key": "Cosmetics.Set.Perimeter_DisplayName",
           "SourceString": "Wild Frontier"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Goo": {
         "Tag": {
@@ -2607,7 +3080,9 @@
           "Key": "Cosmetics.Set.Goo_DisplayName",
           "SourceString": "Slurp Squad"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Fisherman": {
         "Tag": {
@@ -2618,7 +3093,9 @@
           "Key": "Cosmetics.Set.Fisherman_DisplayName",
           "SourceString": "Open Water"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TripCarrier": {
         "Tag": {
@@ -2629,7 +3106,9 @@
           "Key": "Cosmetics.Set.TripCarrier_DisplayName",
           "SourceString": "Ninja"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GardenBones": {
         "Tag": {
@@ -2640,7 +3119,9 @@
           "Key": "Cosmetics.Set.GardenBones_DisplayName",
           "SourceString": "Final Reckoning"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ScaryBall": {
         "Tag": {
@@ -2651,7 +3132,9 @@
           "Key": "Cosmetics.Set.ScaryBall_DisplayName",
           "SourceString": "Dead Ball"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FrighteningOddity": {
         "Tag": {
@@ -2662,7 +3145,9 @@
           "Key": "Cosmetics.Set.FrighteningOddity_DisplayName",
           "SourceString": "Fearsome Freaks"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpookyOath": {
         "Tag": {
@@ -2673,7 +3158,9 @@
           "Key": "Cosmetics.Set.SpookyOath_DisplayName",
           "SourceString": "Cryptic Curse"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WorldExplorers": {
         "Tag": {
@@ -2684,7 +3171,9 @@
           "Key": "Cosmetics.Set.WorldExplorers_DisplayName",
           "SourceString": "Battle Breakers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OvernightMoon": {
         "Tag": {
@@ -2695,7 +3184,9 @@
           "Key": "Cosmetics.Set.OvernightMoon_DisplayName",
           "SourceString": "Midnight Star"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WaterBike": {
         "Tag": {
@@ -2706,7 +3197,9 @@
           "Key": "Cosmetics.Set.WaterBike_DisplayName",
           "SourceString": "Aqua Marine"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LongDepth": {
         "Tag": {
@@ -2717,7 +3210,9 @@
           "Key": "Cosmetics.Set.LongDepth_DisplayName",
           "SourceString": "Fathoms Deep"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MushroomQueen": {
         "Tag": {
@@ -2728,7 +3223,9 @@
           "Key": "Cosmetics.Set.MushroomQueen_DisplayName",
           "SourceString": "Fungus King"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Forest": {
         "Tag": {
@@ -2739,7 +3236,9 @@
           "Key": "Cosmetics.Set.Forest_DisplayName",
           "SourceString": "Woodsy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoadGhosts": {
         "Tag": {
@@ -2750,7 +3249,9 @@
           "Key": "Cosmetics.Set.RoadGhosts_DisplayName",
           "SourceString": "Street Spirits"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LostConnection": {
         "Tag": {
@@ -2761,7 +3262,9 @@
           "Key": "Cosmetics.Set.LostConnection_DisplayName",
           "SourceString": "Missing Link"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ColdScares": {
         "Tag": {
@@ -2772,7 +3275,9 @@
           "Key": "Cosmetics.Set.ColdScares_DisplayName",
           "SourceString": "Frosty Fights"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SuddenBoundary": {
         "Tag": {
@@ -2783,7 +3288,9 @@
           "Key": "Cosmetics.Set.SuddenBoundary_DisplayName",
           "SourceString": "Original Trilogy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.QuietWatcher": {
         "Tag": {
@@ -2794,7 +3301,9 @@
           "Key": "Cosmetics.Set.QuietWatcher_DisplayName",
           "SourceString": "Silent Stalkers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TurningSolstice": {
         "Tag": {
@@ -2805,7 +3314,9 @@
           "Key": "Cosmetics.Set.TurningSolstice_DisplayName",
           "SourceString": "Changing Seasons"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MarrowArmy": {
         "Tag": {
@@ -2816,7 +3327,9 @@
           "Key": "Cosmetics.Set.MarrowArmy_DisplayName",
           "SourceString": "Bone Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FNCS": {
         "Tag": {
@@ -2827,7 +3340,9 @@
           "Key": "Cosmetics.Set.FNCS_DisplayName",
           "SourceString": "Fortnite Champion Series"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LatestTerminal": {
         "Tag": {
@@ -2838,7 +3353,9 @@
           "Key": "Cosmetics.Set.LatestTerminal_DisplayName",
           "SourceString": "The New Trilogy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HarshNews": {
         "Tag": {
@@ -2849,7 +3366,9 @@
           "Key": "Cosmetics.Set.HarshNews_DisplayName",
           "SourceString": "Bad Tidings"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ScaryTime": {
         "Tag": {
@@ -2860,7 +3379,9 @@
           "Key": "Cosmetics.Set.ScaryTime_DisplayName",
           "SourceString": "Nightmare Yule"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BlastingSuns": {
         "Tag": {
@@ -2871,7 +3392,9 @@
           "Key": "Cosmetics.Set.BlastingSuns_DisplayName",
           "SourceString": "Shooting Stars"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LionArmy": {
         "Tag": {
@@ -2882,7 +3405,9 @@
           "Key": "Cosmetics.Set.LionArmy_DisplayName",
           "SourceString": "Bear Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TreeSmell": {
         "Tag": {
@@ -2893,7 +3418,9 @@
           "Key": "Cosmetics.Set.TreeSmell_DisplayName",
           "SourceString": "Piney Fresh"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TopPole": {
         "Tag": {
@@ -2904,7 +3431,9 @@
           "Key": "Cosmetics.Set.TopPole_DisplayName",
           "SourceString": "Polar Ace"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ComfyDirection": {
         "Tag": {
@@ -2915,7 +3444,9 @@
           "Key": "Cosmetics.Set.ComfyDirection_DisplayName",
           "SourceString": "Cozy Command"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.IceStories": {
         "Tag": {
@@ -2926,7 +3457,9 @@
           "Key": "Cosmetics.Set.IceStories_DisplayName",
           "SourceString": "Polar Legends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WarmDealings": {
         "Tag": {
@@ -2937,7 +3470,9 @@
           "Key": "Cosmetics.Set.WarmDealings_DisplayName",
           "SourceString": "Cold Case"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PunchOut": {
         "Tag": {
@@ -2948,7 +3483,9 @@
           "Key": "Cosmetics.Set.PunchOut_DisplayName",
           "SourceString": "Sock 'em"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NYE2020": {
         "Tag": {
@@ -2959,7 +3496,9 @@
           "Key": "Cosmetics.Set.NYE2020_DisplayName",
           "SourceString": "New Year's 2020"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ColoredForest": {
         "Tag": {
@@ -2970,7 +3509,9 @@
           "Key": "Cosmetics.Set.ColoredForest_DisplayName",
           "SourceString": "Neon Jungle"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Markers": {
         "Tag": {
@@ -2981,7 +3522,9 @@
           "Key": "Cosmetics.Set.Markers_DisplayName",
           "SourceString": "Beacons"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ClearSight": {
         "Tag": {
@@ -2992,7 +3535,9 @@
           "Key": "Cosmetics.Set.ClearSight_DisplayName",
           "SourceString": "Vivid Vision"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OperationDiva": {
         "Tag": {
@@ -3003,7 +3548,9 @@
           "Key": "Cosmetics.Set.OperationDiva_DisplayName",
           "SourceString": "Tactical Fashions"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoadMouse": {
         "Tag": {
@@ -3014,7 +3561,9 @@
           "Key": "Cosmetics.Set.RoadMouse_DisplayName",
           "SourceString": "Street Rat"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OldRestart": {
         "Tag": {
@@ -3025,7 +3574,9 @@
           "Key": "Cosmetics.Set.OldRestart_DisplayName",
           "SourceString": "Ancients Reborn"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Steel": {
         "Tag": {
@@ -3036,7 +3587,9 @@
           "Key": "Cosmetics.Set.Steel_DisplayName",
           "SourceString": "Metal Masq"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AlwaysFrozen": {
         "Tag": {
@@ -3047,7 +3600,9 @@
           "Key": "Cosmetics.Set.AlwaysFrozen_DisplayName",
           "SourceString": "Permafrost"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WildHearts": {
         "Tag": {
@@ -3058,7 +3613,9 @@
           "Key": "Cosmetics.Set.WildHearts_DisplayName",
           "SourceString": "Wild Hearts"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.IncognitoAssassin": {
         "Tag": {
@@ -3069,7 +3626,9 @@
           "Key": "Cosmetics.Set.IncognitoAssassin_DisplayName",
           "SourceString": "Assassin X"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpiritDarkness": {
         "Tag": {
@@ -3080,7 +3639,9 @@
           "Key": "Cosmetics.Set.SpiritDarkness_DisplayName",
           "SourceString": "Ghosts & Shadows"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FalseEvolution": {
         "Tag": {
@@ -3091,7 +3652,9 @@
           "Key": "Cosmetics.Set.FalseEvolution_DisplayName",
           "SourceString": "Artificial Evolved"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PropertySector": {
         "Tag": {
@@ -3102,7 +3665,9 @@
           "Key": "Cosmetics.Set.PropertySector_DisplayName",
           "SourceString": "Deadpool"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HiddenCollection": {
         "Tag": {
@@ -3113,7 +3678,9 @@
           "Key": "Cosmetics.Set.HiddenCollection_DisplayName",
           "SourceString": "Crypto Collective"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Capoeira2020": {
         "Tag": {
@@ -3124,7 +3691,9 @@
           "Key": "Cosmetics.Set.Capoeira2020_DisplayName",
           "SourceString": "Carnaval 2020"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SearchPals": {
         "Tag": {
@@ -3135,7 +3704,9 @@
           "Key": "Cosmetics.Set.SearchPals_DisplayName",
           "SourceString": "Quest Friends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SmallLight": {
         "Tag": {
@@ -3146,7 +3717,9 @@
           "Key": "Cosmetics.Set.SmallLight_DisplayName",
           "SourceString": "Short Fuse"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PersonalMade": {
         "Tag": {
@@ -3157,7 +3730,9 @@
           "Key": "Cosmetics.Set.PersonalMade_DisplayName",
           "SourceString": "Custom"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.JackedKitty": {
         "Tag": {
@@ -3168,7 +3743,9 @@
           "Key": "Cosmetics.Set.JackedKitty_DisplayName",
           "SourceString": "Swole Cat"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HardEntry": {
         "Tag": {
@@ -3179,7 +3756,9 @@
           "Key": "Cosmetics.Set.HardEntry_DisplayName",
           "SourceString": "Brute Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SilverSpirit": {
         "Tag": {
@@ -3190,7 +3769,9 @@
           "Key": "Cosmetics.Set.SilverSpirit_DisplayName",
           "SourceString": "Golden Ghost"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PotassiumWin": {
         "Tag": {
@@ -3201,7 +3782,9 @@
           "Key": "Cosmetics.Set.PotassiumWin_DisplayName",
           "SourceString": "Banana Royale"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BuddingMorale": {
         "Tag": {
@@ -3212,7 +3795,9 @@
           "Key": "Cosmetics.Set.BuddingMorale_DisplayName",
           "SourceString": "Spring Spirit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DoubleReverb": {
         "Tag": {
@@ -3223,7 +3808,9 @@
           "Key": "Cosmetics.Set.DoubleReverb_DisplayName",
           "SourceString": "Twin Echo"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FieldBooth": {
         "Tag": {
@@ -3234,7 +3821,9 @@
           "Key": "Cosmetics.Set.FieldBooth_DisplayName",
           "SourceString": "Farm Stand"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TealGroup": {
         "Tag": {
@@ -3245,7 +3834,9 @@
           "Key": "Cosmetics.Set.TealGroup_DisplayName",
           "SourceString": "Blue Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AppleThief": {
         "Tag": {
@@ -3256,7 +3847,9 @@
           "Key": "Cosmetics.Set.AppleThief_DisplayName",
           "SourceString": "Pineapple Bandit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FishClipper": {
         "Tag": {
@@ -3267,7 +3860,9 @@
           "Key": "Cosmetics.Set.FishClipper_DisplayName",
           "SourceString": "Bassassin"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DrinkChamps": {
         "Tag": {
@@ -3278,7 +3873,9 @@
           "Key": "Cosmetics.Set.DrinkChamps_DisplayName",
           "SourceString": "Slurp Legends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FireMarrow": {
         "Tag": {
@@ -3289,7 +3886,9 @@
           "Key": "Cosmetics.Set.FireMarrow_DisplayName",
           "SourceString": "Burning Bone"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Speedcraft": {
         "Tag": {
@@ -3300,7 +3899,9 @@
           "Key": "Cosmetics.Set.Speedcraft_DisplayName",
           "SourceString": "Spycraft"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FugitiveBandit": {
         "Tag": {
@@ -3311,7 +3912,9 @@
           "Key": "Cosmetics.Set.FugitiveBandit_DisplayName",
           "SourceString": "Runway Raider"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GreekGroup": {
         "Tag": {
@@ -3322,7 +3925,9 @@
           "Key": "Cosmetics.Set.GreekGroup_DisplayName",
           "SourceString": "Chimera Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LateShot": {
         "Tag": {
@@ -3333,7 +3938,9 @@
           "Key": "Cosmetics.Set.LateShot_DisplayName",
           "SourceString": "Nightfire"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WinnerChain": {
         "Tag": {
@@ -3344,7 +3951,9 @@
           "Key": "Cosmetics.Set.WinnerChain_DisplayName",
           "SourceString": "Champion Series"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SkeletonHunter": {
         "Tag": {
@@ -3355,7 +3964,9 @@
           "Key": "Cosmetics.Set.SkeletonHunter_DisplayName",
           "SourceString": "Dark Visions"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GetSetGo": {
         "Tag": {
@@ -3366,7 +3977,9 @@
           "Key": "Cosmetics.Set.GetSetGo_DisplayName",
           "SourceString": "Ready, aim, fire!"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RepaymentUpdate": {
         "Tag": {
@@ -3377,7 +3990,9 @@
           "Key": "Cosmetics.Set.RepaymentUpdate_DisplayName",
           "SourceString": "Revenge Redux"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Cocoa": {
         "Tag": {
@@ -3388,7 +4003,9 @@
           "Key": "Cosmetics.Set.Cocoa_DisplayName",
           "SourceString": "Choco"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DelicateWatch": {
         "Tag": {
@@ -3399,7 +4016,9 @@
           "Key": "Cosmetics.Set.DelicateWatch_DisplayName",
           "SourceString": "Pastel Patrol"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DifferentShipment": {
         "Tag": {
@@ -3410,7 +4029,9 @@
           "Key": "Cosmetics.Set.DifferentShipment_DisplayName",
           "SourceString": "Special Delivery"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DuckBrigade": {
         "Tag": {
@@ -3421,7 +4042,9 @@
           "Key": "Cosmetics.Set.DuckBrigade_DisplayName",
           "SourceString": "Quackle Team"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FiestaWatch": {
         "Tag": {
@@ -3432,7 +4055,9 @@
           "Key": "Cosmetics.Set.FiestaWatch_DisplayName",
           "SourceString": "Party Patrol"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GoldScore": {
         "Tag": {
@@ -3443,7 +4068,9 @@
           "Key": "Cosmetics.Set.GoldScore_DisplayName",
           "SourceString": "Midas' Revenge"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LateralDestiny": {
         "Tag": {
@@ -3454,7 +4081,9 @@
           "Key": "Cosmetics.Set.LateralDestiny_DisplayName",
           "SourceString": "Parallel Future"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AbsorbDrain": {
         "Tag": {
@@ -3465,7 +4094,9 @@
           "Key": "Cosmetics.Set.AbsorbDrain_DisplayName",
           "SourceString": "X-Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BonkTeam": {
         "Tag": {
@@ -3476,7 +4107,9 @@
           "Key": "Cosmetics.Set.BonkTeam_DisplayName",
           "SourceString": "Hit Squad"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.UnitPoison": {
         "Tag": {
@@ -3487,7 +4120,9 @@
           "Key": "Cosmetics.Set.UnitPoison_DisplayName",
           "SourceString": "Team Toxic"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NewStealth": {
         "Tag": {
@@ -3498,7 +4133,9 @@
           "Key": "Cosmetics.Set.NewStealth_DisplayName",
           "SourceString": "Neo Ninja"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FabledStrength": {
         "Tag": {
@@ -3509,7 +4146,9 @@
           "Key": "Cosmetics.Set.FabledStrength_DisplayName",
           "SourceString": "Mythical Might"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LethalBite": {
         "Tag": {
@@ -3520,7 +4159,9 @@
           "Key": "Cosmetics.Set.LethalBite_DisplayName",
           "SourceString": "Toxic Sting"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PortraitFolk": {
         "Tag": {
@@ -3531,7 +4172,9 @@
           "Key": "Cosmetics.Set.PortraitFolk_DisplayName",
           "SourceString": "Travis Scott"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SmallCrimson": {
         "Tag": {
@@ -3542,7 +4185,9 @@
           "Key": "Cosmetics.Set.SmallCrimson_DisplayName",
           "SourceString": "Lil' Red"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Stealthy": {
         "Tag": {
@@ -3553,7 +4198,9 @@
           "Key": "Cosmetics.Set.Stealthy_DisplayName",
           "SourceString": "Espionage"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FelineSoldier": {
         "Tag": {
@@ -3564,7 +4211,9 @@
           "Key": "Cosmetics.Set.FelineSoldier_DisplayName",
           "SourceString": "Catssassin"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AmbushOfficer": {
         "Tag": {
@@ -3575,7 +4224,9 @@
           "Key": "Cosmetics.Set.AmbushOfficer_DisplayName",
           "SourceString": "Intercept Agent"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Wanted": {
         "Tag": {
@@ -3586,7 +4237,9 @@
           "Key": "Cosmetics.Set.Wanted_DisplayName",
           "SourceString": "At Large"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SoloShade": {
         "Tag": {
@@ -3597,7 +4250,9 @@
           "Key": "Cosmetics.Set.SoloShade_DisplayName",
           "SourceString": "Lone Shadow"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HueCrash": {
         "Tag": {
@@ -3608,7 +4263,9 @@
           "Key": "Cosmetics.Set.HueCrash_DisplayName",
           "SourceString": "Loserfruit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SquadImpact": {
         "Tag": {
@@ -3619,7 +4276,9 @@
           "Key": "Cosmetics.Set.SquadImpact_DisplayName",
           "SourceString": "Fleet Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CoolImpact": {
         "Tag": {
@@ -3630,7 +4289,9 @@
           "Key": "Cosmetics.Set.CoolImpact_DisplayName",
           "SourceString": "Fab Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OldExplorer": {
         "Tag": {
@@ -3641,7 +4302,9 @@
           "Key": "Cosmetics.Set.OldExplorer_DisplayName",
           "SourceString": "Ancient Voyager"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GlowingGlory": {
         "Tag": {
@@ -3652,7 +4315,9 @@
           "Key": "Cosmetics.Set.GlowingGlory_DisplayName",
           "SourceString": "Honor Shining"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GroupEnergy": {
         "Tag": {
@@ -3663,7 +4328,9 @@
           "Key": "Cosmetics.Set.GroupEnergy_DisplayName",
           "SourceString": "Team Spirit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TailoredPrecision": {
         "Tag": {
@@ -3674,7 +4341,9 @@
           "Key": "Cosmetics.Set.TailoredPrecision_DisplayName",
           "SourceString": "Geared Perfection"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SeaIncreasing": {
         "Tag": {
@@ -3685,7 +4354,9 @@
           "Key": "Cosmetics.Set.SeaIncreasing_DisplayName",
           "SourceString": "Ocean Rising"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SoarClock": {
         "Tag": {
@@ -3696,7 +4367,9 @@
           "Key": "Cosmetics.Set.SoarClock_DisplayName",
           "SourceString": "Aquaman"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LiquidHole": {
         "Tag": {
@@ -3707,7 +4380,9 @@
           "Key": "Cosmetics.Set.LiquidHole_DisplayName",
           "SourceString": "Watery Grave"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LeapSquad": {
         "Tag": {
@@ -3718,7 +4393,9 @@
           "Key": "Cosmetics.Set.LeapSquad_DisplayName",
           "SourceString": "Dive Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DimDated": {
         "Tag": {
@@ -3729,7 +4406,9 @@
           "Key": "Cosmetics.Set.DimDated_DisplayName",
           "SourceString": "Fade Out"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SnakeSmack": {
         "Tag": {
@@ -3740,7 +4419,9 @@
           "Key": "Cosmetics.Set.SnakeSmack_DisplayName",
           "SourceString": "Serpent Strike"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CrocCommand": {
         "Tag": {
@@ -3751,7 +4432,9 @@
           "Key": "Cosmetics.Set.CrocCommand_DisplayName",
           "SourceString": "Gator Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OutlawFire": {
         "Tag": {
@@ -3762,7 +4445,9 @@
           "Key": "Cosmetics.Set.OutlawFire_DisplayName",
           "SourceString": "Renegade Flame"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TwoActor": {
         "Tag": {
@@ -3773,7 +4458,9 @@
           "Key": "Cosmetics.Set.TwoActor_DisplayName",
           "SourceString": "Double Agent"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FearlessMotor": {
         "Tag": {
@@ -3784,7 +4471,9 @@
           "Key": "Cosmetics.Set.FearlessMotor_DisplayName",
           "SourceString": "Intrepid Engines"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MechDoggo": {
         "Tag": {
@@ -3795,7 +4484,9 @@
           "Key": "Cosmetics.Set.MechDoggo_DisplayName",
           "SourceString": "Mecha Kitty"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Buccaneer": {
         "Tag": {
@@ -3806,7 +4497,9 @@
           "Key": "Cosmetics.Set.Buccaneer_DisplayName",
           "SourceString": "Marauder"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BurstAccident": {
         "Tag": {
@@ -3817,7 +4510,9 @@
           "Key": "Cosmetics.Set.BurstAccident_DisplayName",
           "SourceString": "Splash Squadron"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Garbo": {
         "Tag": {
@@ -3828,7 +4523,9 @@
           "Key": "Cosmetics.Set.Garbo_DisplayName",
           "SourceString": "Trashy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoughStreet": {
         "Tag": {
@@ -3839,7 +4536,9 @@
           "Key": "Cosmetics.Set.RoughStreet_DisplayName",
           "SourceString": "Hard Road"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CasualSize": {
         "Tag": {
@@ -3850,7 +4549,9 @@
           "Key": "Cosmetics.Set.CasualSize_DisplayName",
           "SourceString": "Relaxed Fit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GroupAgony": {
         "Tag": {
@@ -3861,7 +4562,9 @@
           "Key": "Cosmetics.Set.GroupAgony_DisplayName",
           "SourceString": "Team Heartbreak"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AreaFlame": {
         "Tag": {
@@ -3872,7 +4575,9 @@
           "Key": "Cosmetics.Set.AreaFlame_DisplayName",
           "SourceString": "Space Fire"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TenderMonarch": {
         "Tag": {
@@ -3883,7 +4588,9 @@
           "Key": "Cosmetics.Set.TenderMonarch_DisplayName",
           "SourceString": "Black Manta"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DudeGadgets": {
         "Tag": {
@@ -3894,7 +4601,9 @@
           "Key": "Cosmetics.Set.DudeGadgets_DisplayName",
           "SourceString": "Brobotics"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CrazyCowboy": {
         "Tag": {
@@ -3905,7 +4614,9 @@
           "Key": "Cosmetics.Set.CrazyCowboy_DisplayName",
           "SourceString": "Wildest West"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EatingCraze": {
         "Tag": {
@@ -3916,7 +4627,9 @@
           "Key": "Cosmetics.Set.EatingCraze_DisplayName",
           "SourceString": "Feeding Frenzy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DevilIsland": {
         "Tag": {
@@ -3927,7 +4640,9 @@
           "Key": "Cosmetics.Set.DevilIsland_DisplayName",
           "SourceString": "Demon Beach"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Slam": {
         "Tag": {
@@ -3938,7 +4653,9 @@
           "Key": "Cosmetics.Set.Slam_DisplayName",
           "SourceString": "Impact"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BurritoDay": {
         "Tag": {
@@ -3949,7 +4666,9 @@
           "Key": "Cosmetics.Set.BurritoDay_DisplayName",
           "SourceString": "Taco Time"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SunMerc": {
         "Tag": {
@@ -3960,7 +4679,9 @@
           "Key": "Cosmetics.Set.SunMerc_DisplayName",
           "SourceString": "Moon Mercenaries"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HarshInvaders": {
         "Tag": {
@@ -3971,7 +4692,9 @@
           "Key": "Cosmetics.Set.HarshInvaders_DisplayName",
           "SourceString": "Rough Raiders"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LadyTreat": {
         "Tag": {
@@ -3982,7 +4705,9 @@
           "Key": "Cosmetics.Set.LadyTreat_DisplayName",
           "SourceString": "Ms. Whip"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SillyTeam": {
         "Tag": {
@@ -3993,7 +4718,9 @@
           "Key": "Cosmetics.Set.SillyTeam_DisplayName",
           "SourceString": "Dummy Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CosmoBunch": {
         "Tag": {
@@ -4004,7 +4731,9 @@
           "Key": "Cosmetics.Set.CosmoBunch_DisplayName",
           "SourceString": "Galaxy Pack"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.VacationFable": {
         "Tag": {
@@ -4015,7 +4744,9 @@
           "Key": "Cosmetics.Set.VacationFable_DisplayName",
           "SourceString": "Summer Legends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FishyParadise": {
         "Tag": {
@@ -4026,7 +4757,9 @@
           "Key": "Cosmetics.Set.FishyParadise_DisplayName",
           "SourceString": "Fishlantis"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OceanAttack": {
         "Tag": {
@@ -4037,7 +4770,9 @@
           "Key": "Cosmetics.Set.OceanAttack_DisplayName",
           "SourceString": "Saltwater Strike"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FNOriginals": {
         "Tag": {
@@ -4048,7 +4783,9 @@
           "Key": "Cosmetics.Set.FNOriginals_DisplayName",
           "SourceString": "Fortnite Classics"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ForemanSquad": {
         "Tag": {
@@ -4059,7 +4796,9 @@
           "Key": "Cosmetics.Set.ForemanSquad_DisplayName",
           "SourceString": "Constructor Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HeftyUnit": {
         "Tag": {
@@ -4070,7 +4809,9 @@
           "Key": "Cosmetics.Set.HeftyUnit_DisplayName",
           "SourceString": "Tank Squadron"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OceanLight": {
         "Tag": {
@@ -4081,7 +4822,9 @@
           "Key": "Cosmetics.Set.OceanLight_DisplayName",
           "SourceString": "Sea Glow"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreamMachine": {
         "Tag": {
@@ -4092,7 +4835,9 @@
           "Key": "Cosmetics.Set.StreamMachine_DisplayName",
           "SourceString": "Island Warrior"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EarthSprint": {
         "Tag": {
@@ -4103,7 +4848,9 @@
           "Key": "Cosmetics.Set.EarthSprint_DisplayName",
           "SourceString": "Run The World"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HueDrive": {
         "Tag": {
@@ -4114,7 +4861,9 @@
           "Key": "Cosmetics.Set.HueDrive_DisplayName",
           "SourceString": "Colorway"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FishyBeef": {
         "Tag": {
@@ -4125,7 +4874,9 @@
           "Key": "Cosmetics.Set.FishyBeef_DisplayName",
           "SourceString": "Surf & Turf"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DarkPunch": {
         "Tag": {
@@ -4136,7 +4887,9 @@
           "Key": "Cosmetics.Set.DarkPunch_DisplayName",
           "SourceString": "Shadow Strike"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LlamaWarrior": {
         "Tag": {
@@ -4147,7 +4900,9 @@
           "Key": "Cosmetics.Set.LlamaWarrior_DisplayName",
           "SourceString": "Llamercenary"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SkaterBeast": {
         "Tag": {
@@ -4158,7 +4913,9 @@
           "Key": "Cosmetics.Set.SkaterBeast_DisplayName",
           "SourceString": "Rink Raiders"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GekkoFight": {
         "Tag": {
@@ -4169,7 +4926,9 @@
           "Key": "Cosmetics.Set.GekkoFight_DisplayName",
           "SourceString": "Axolotl Attack!"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ShoalKing": {
         "Tag": {
@@ -4180,7 +4939,9 @@
           "Key": "Cosmetics.Set.ShoalKing_DisplayName",
           "SourceString": "Reef Royalty"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoadSnake": {
         "Tag": {
@@ -4191,7 +4952,9 @@
           "Key": "Cosmetics.Set.RoadSnake_DisplayName",
           "SourceString": "Street Serpent"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PieFight": {
         "Tag": {
@@ -4202,7 +4965,9 @@
           "Key": "Cosmetics.Set.PieFight_DisplayName",
           "SourceString": "Pizza Pitfighter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MarbleShot": {
         "Tag": {
@@ -4213,7 +4978,9 @@
           "Key": "Cosmetics.Set.MarbleShot_DisplayName",
           "SourceString": "Iron Man"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GradualVertical": {
         "Tag": {
@@ -4224,7 +4991,9 @@
           "Key": "Cosmetics.Set.GradualVertical_DisplayName",
           "SourceString": "She-Hulk"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ComedyElbow": {
         "Tag": {
@@ -4235,7 +5004,9 @@
           "Key": "Cosmetics.Set.ComedyElbow_DisplayName",
           "SourceString": "Storm"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ContactSweet": {
         "Tag": {
@@ -4246,7 +5017,9 @@
           "Key": "Cosmetics.Set.ContactSweet_DisplayName",
           "SourceString": "Wolverine"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.JusticeSin": {
         "Tag": {
@@ -4257,7 +5030,9 @@
           "Key": "Cosmetics.Set.JusticeSin_DisplayName",
           "SourceString": "Thor"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StrollPeanut": {
         "Tag": {
@@ -4268,7 +5043,9 @@
           "Key": "Cosmetics.Set.StrollPeanut_DisplayName",
           "SourceString": "Doctor Doom"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SuspectSpectrum": {
         "Tag": {
@@ -4279,7 +5056,9 @@
           "Key": "Cosmetics.Set.SuspectSpectrum_DisplayName",
           "SourceString": "Mystique"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CoalMonarch": {
         "Tag": {
@@ -4290,7 +5069,9 @@
           "Key": "Cosmetics.Set.CoalMonarch_DisplayName",
           "SourceString": "Groot"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NativeMultiply": {
         "Tag": {
@@ -4301,7 +5082,9 @@
           "Key": "Cosmetics.Set.NativeMultiply_DisplayName",
           "SourceString": "Silver Surfer"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AwfulAspect": {
         "Tag": {
@@ -4312,7 +5095,9 @@
           "Key": "Cosmetics.Set.AwfulAspect_DisplayName",
           "SourceString": "Darkening"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HypothesisEpisode": {
         "Tag": {
@@ -4323,7 +5108,9 @@
           "Key": "Cosmetics.Set.HypothesisEpisode_DisplayName",
           "SourceString": "Galactus"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AngleHeard": {
         "Tag": {
@@ -4334,7 +5121,9 @@
           "Key": "Cosmetics.Set.AngleHeard_DisplayName",
           "SourceString": "Rocket"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ChorusReference": {
         "Tag": {
@@ -4345,7 +5134,9 @@
           "Key": "Cosmetics.Set.ChorusReference_DisplayName",
           "SourceString": "True Mystique"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CosmicTeam": {
         "Tag": {
@@ -4356,7 +5147,9 @@
           "Key": "Cosmetics.Set.CosmicTeam_DisplayName",
           "SourceString": "Stellar Squadron"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpiderCrime": {
         "Tag": {
@@ -4367,7 +5160,9 @@
           "Key": "Cosmetics.Set.SpiderCrime_DisplayName",
           "SourceString": "Web of Corruption "
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Endless": {
         "Tag": {
@@ -4378,7 +5173,9 @@
           "Key": "Cosmetics.Set.Endless_DisplayName",
           "SourceString": "Boundless"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RuneParallel": {
         "Tag": {
@@ -4389,7 +5186,9 @@
           "Key": "Cosmetics.Set.RuneParallel_DisplayName",
           "SourceString": "Glyph Echo"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MetroHub": {
         "Tag": {
@@ -4400,7 +5199,9 @@
           "Key": "Cosmetics.Set.MetroHub_DisplayName",
           "SourceString": "City Center"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RuneMood": {
         "Tag": {
@@ -4411,7 +5212,9 @@
           "Key": "Cosmetics.Set.RuneMood_DisplayName",
           "SourceString": "Glyph Aura"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BraveryTime": {
         "Tag": {
@@ -4422,7 +5225,9 @@
           "Key": "Cosmetics.Set.BraveryTime_DisplayName",
           "SourceString": "Courageous Era"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DarkCHaser": {
         "Tag": {
@@ -4433,7 +5238,9 @@
           "Key": "Cosmetics.Set.DarkCHaser_DisplayName",
           "SourceString": "Night Hunter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BDayJam": {
         "Tag": {
@@ -4444,7 +5251,9 @@
           "Key": "Cosmetics.Set.BDayJam_DisplayName",
           "SourceString": "B-Day Blast"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SweetMeaning": {
         "Tag": {
@@ -4455,7 +5264,9 @@
           "Key": "Cosmetics.Set.SweetMeaning_DisplayName",
           "SourceString": "Blade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BlandAbolish": {
         "Tag": {
@@ -4466,7 +5277,9 @@
           "Key": "Cosmetics.Set.BlandAbolish_DisplayName",
           "SourceString": "Rocket League"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HorsingAround": {
         "Tag": {
@@ -4477,7 +5290,9 @@
           "Key": "Cosmetics.Set.HorsingAround_DisplayName",
           "SourceString": "Llama Rodeo"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MoarPower": {
         "Tag": {
@@ -4488,7 +5303,9 @@
           "Key": "Cosmetics.Set.MoarPower_DisplayName",
           "SourceString": "PWR"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Exiled": {
         "Tag": {
@@ -4499,7 +5316,9 @@
           "Key": "Cosmetics.Set.Exiled_DisplayName",
           "SourceString": "Forsaken"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GraveDestroy": {
         "Tag": {
@@ -4510,7 +5329,9 @@
           "Key": "Cosmetics.Set.GraveDestroy_DisplayName",
           "SourceString": "Crypt Crashers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FurthestEnd": {
         "Tag": {
@@ -4521,7 +5342,9 @@
           "Key": "Cosmetics.Set.FurthestEnd_DisplayName",
           "SourceString": "Ultimate Reckoning"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MajorStaircase": {
         "Tag": {
@@ -4532,7 +5355,9 @@
           "Key": "Cosmetics.Set.MajorStaircase_DisplayName",
           "SourceString": "Daredevil"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StreetPosse": {
         "Tag": {
@@ -4543,7 +5368,9 @@
           "Key": "Cosmetics.Set.StreetPosse_DisplayName",
           "SourceString": "Road Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.HighSerpent": {
         "Tag": {
@@ -4554,7 +5381,9 @@
           "Key": "Cosmetics.Set.HighSerpent_DisplayName",
           "SourceString": "Flying Fang"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Deceit": {
         "Tag": {
@@ -4565,7 +5394,9 @@
           "Key": "Cosmetics.Set.Deceit_DisplayName",
           "SourceString": "Duplicity"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CruelSafe": {
         "Tag": {
@@ -4576,7 +5407,9 @@
           "Key": "Cosmetics.Set.CruelSafe_DisplayName",
           "SourceString": "Vicious Vault"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PumpkinGang": {
         "Tag": {
@@ -4587,7 +5420,9 @@
           "Key": "Cosmetics.Set.PumpkinGang_DisplayName",
           "SourceString": "Carving Crew"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.PartyLot": {
         "Tag": {
@@ -4598,7 +5433,9 @@
           "Key": "Cosmetics.Set.PartyLot_DisplayName",
           "SourceString": "Raveyard"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MorningSalon": {
         "Tag": {
@@ -4609,7 +5446,9 @@
           "Key": "Cosmetics.Set.MorningSalon_DisplayName",
           "SourceString": "Ghostbusters"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ClanNew": {
         "Tag": {
@@ -4620,7 +5459,9 @@
           "Key": "Cosmetics.Set.ClanNew_DisplayName",
           "SourceString": "Coven Fresh"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FNM2020": {
         "Tag": {
@@ -4631,7 +5472,9 @@
           "Key": "Cosmetics.Set.FNM2020_DisplayName",
           "SourceString": "Fortnitemares 2020"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CruelEvil": {
         "Tag": {
@@ -4642,7 +5485,9 @@
           "Key": "Cosmetics.Set.CruelEvil_DisplayName",
           "SourceString": "Vicious Vice"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ScalpExtreme": {
         "Tag": {
@@ -4653,7 +5498,9 @@
           "Key": "Cosmetics.Set.ScalpExtreme_DisplayName",
           "SourceString": "Skulltimate"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FinalChuckle": {
         "Tag": {
@@ -4664,7 +5511,9 @@
           "Key": "Cosmetics.Set.FinalChuckle_DisplayName",
           "SourceString": "Last Laugh"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RhythmElbow": {
         "Tag": {
@@ -4675,7 +5524,9 @@
           "Key": "Cosmetics.Set.RhythmElbow_DisplayName",
           "SourceString": "Ghost Rider"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.QualifiedBow": {
         "Tag": {
@@ -4686,7 +5537,9 @@
           "Key": "Cosmetics.Set.QualifiedBow_DisplayName",
           "SourceString": "Black Widow"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SleepyArmy": {
         "Tag": {
@@ -4697,7 +5550,9 @@
           "Key": "Cosmetics.Set.SleepyArmy_DisplayName",
           "SourceString": "Bedhead Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Beginnings": {
         "Tag": {
@@ -4708,7 +5563,9 @@
           "Key": "Cosmetics.Set.Beginnings_DisplayName",
           "SourceString": "Origins"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.InspirationExceed": {
         "Tag": {
@@ -4719,7 +5576,9 @@
           "Key": "Cosmetics.Set.InspirationExceed_DisplayName",
           "SourceString": "Venom"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GalaxyQueen": {
         "Tag": {
@@ -4730,7 +5589,9 @@
           "Key": "Cosmetics.Set.GalaxyQueen_DisplayName",
           "SourceString": "Galaxia"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Stuffed": {
         "Tag": {
@@ -4741,7 +5602,9 @@
           "Key": "Cosmetics.Set.Stuffed_DisplayName",
           "SourceString": "Encrusted"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FieldPals": {
         "Tag": {
@@ -4752,7 +5615,9 @@
           "Key": "Cosmetics.Set.FieldPals_DisplayName",
           "SourceString": "Gridiron Gang"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Cliffhanger": {
         "Tag": {
@@ -4763,7 +5628,9 @@
           "Key": "Cosmetics.Set.Cliffhanger_DisplayName",
           "SourceString": "Heart-Stopper"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CooksDream": {
         "Tag": {
@@ -4774,7 +5641,9 @@
           "Key": "Cosmetics.Set.CooksDream_DisplayName",
           "SourceString": "Baker's Nightmare"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ThinGroup": {
         "Tag": {
@@ -4785,7 +5654,9 @@
           "Key": "Cosmetics.Set.ThinGroup_DisplayName",
           "SourceString": "Diffuse Force"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CenterSoldier": {
         "Tag": {
@@ -4796,7 +5667,9 @@
           "Key": "Cosmetics.Set.CenterSoldier_DisplayName",
           "SourceString": "Kernel Commando"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ReformBike": {
         "Tag": {
@@ -4807,7 +5680,9 @@
           "Key": "Cosmetics.Set.ReformBike_DisplayName",
           "SourceString": "Oathbreaker"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CoffinDriver": {
         "Tag": {
@@ -4818,7 +5693,9 @@
           "Key": "Cosmetics.Set.CoffinDriver_DisplayName",
           "SourceString": "Master Chief"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.Conqueror": {
         "Tag": {
@@ -4829,7 +5706,9 @@
           "Key": "Cosmetics.Set.Conqueror_DisplayName",
           "SourceString": "The Vanquisher"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LabChaser": {
         "Tag": {
@@ -4840,7 +5719,9 @@
           "Key": "Cosmetics.Set.LabChaser_DisplayName",
           "SourceString": "Y-Labs Hunter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GhostReprisal": {
         "Tag": {
@@ -4851,7 +5732,9 @@
           "Key": "Cosmetics.Set.GhostReprisal_DisplayName",
           "SourceString": "Spirit of Vengeance"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ProcessNotebook": {
         "Tag": {
@@ -4862,7 +5745,9 @@
           "Key": "Cosmetics.Set.ProcessNotebook_DisplayName",
           "SourceString": "The Mandalorian "
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DinnerThief": {
         "Tag": {
@@ -4873,7 +5758,9 @@
           "Key": "Cosmetics.Set.DinnerThief_DisplayName",
           "SourceString": "The Breakfast Bandit"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CrazyLung": {
         "Tag": {
@@ -4884,7 +5771,9 @@
           "Key": "Cosmetics.Set.CrazyLung_DisplayName",
           "SourceString": "The Wildheart"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GalaxyCreatureCatcher": {
         "Tag": {
@@ -4895,7 +5784,9 @@
           "Key": "Cosmetics.Set.GalaxyCreatureCatcher_DisplayName",
           "SourceString": "Intergalactic Beast Hunter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RainyDays": {
         "Tag": {
@@ -4906,7 +5797,9 @@
           "Key": "Cosmetics.Set.RainyDays_DisplayName",
           "SourceString": "Snowdays"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CookieArmy": {
         "Tag": {
@@ -4917,7 +5810,9 @@
           "Key": "Cosmetics.Set.CookieArmy_DisplayName",
           "SourceString": "Gingerbread Brigade"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FairyTrawl": {
         "Tag": {
@@ -4928,7 +5823,9 @@
           "Key": "Cosmetics.Set.FairyTrawl_DisplayName",
           "SourceString": "Elf-Fish"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ColdWoods": {
         "Tag": {
@@ -4939,7 +5836,9 @@
           "Key": "Cosmetics.Set.ColdWoods_DisplayName",
           "SourceString": "Frosty Forest"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FakeCharge": {
         "Tag": {
@@ -4950,7 +5849,9 @@
           "Key": "Cosmetics.Set.FakeCharge_DisplayName",
           "SourceString": "Imagined Order"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FollowSeek": {
         "Tag": {
@@ -4961,7 +5862,9 @@
           "Key": "Cosmetics.Set.FollowSeek_DisplayName",
           "SourceString": "Join the Hunt"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GravelAloof": {
         "Tag": {
@@ -4972,7 +5875,9 @@
           "Key": "Cosmetics.Set.GravelAloof_DisplayName",
           "SourceString": "Black Panther"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EndAspect": {
         "Tag": {
@@ -4983,7 +5888,9 @@
           "Key": "Cosmetics.Set.EndAspect_DisplayName",
           "SourceString": "Edge Factor"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GlowCrew": {
         "Tag": {
@@ -4994,7 +5901,9 @@
           "Key": "Cosmetics.Set.GlowCrew_DisplayName",
           "SourceString": "Gleam Team"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RubbishMouse": {
         "Tag": {
@@ -5005,7 +5914,9 @@
           "Key": "Cosmetics.Set.RubbishMouse_DisplayName",
           "SourceString": "Survivors in Arms"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DapperCandy": {
         "Tag": {
@@ -5016,7 +5927,9 @@
           "Key": "Cosmetics.Set.DapperCandy_DisplayName",
           "SourceString": "Dandy Cane"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SnowDudes": {
         "Tag": {
@@ -5027,7 +5940,9 @@
           "Key": "Cosmetics.Set.SnowDudes_DisplayName",
           "SourceString": "Frost Legends"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GateUncle": {
         "Tag": {
@@ -5038,7 +5953,9 @@
           "Key": "Cosmetics.Set.GateUncle_DisplayName",
           "SourceString": "Captain Marvel"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SparkleCrew": {
         "Tag": {
@@ -5049,7 +5966,9 @@
           "Key": "Cosmetics.Set.SparkleCrew_DisplayName",
           "SourceString": "Twinkle Team"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LeanScale": {
         "Tag": {
@@ -5060,7 +5979,9 @@
           "Key": "Cosmetics.Set.LeanScale_DisplayName",
           "SourceString": "Arrow"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AverageDisk": {
         "Tag": {
@@ -5071,7 +5992,9 @@
           "Key": "Cosmetics.Set.AverageDisk_DisplayName",
           "SourceString": "Taskmaster"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CoolBreak": {
         "Tag": {
@@ -5082,7 +6005,9 @@
           "Key": "Cosmetics.Set.CoolBreak_DisplayName",
           "SourceString": "Cold Snap"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NewSnow": {
         "Tag": {
@@ -5093,7 +6018,9 @@
           "Key": "Cosmetics.Set.NewSnow_DisplayName",
           "SourceString": "Fresh Powder"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ChocoSoldier": {
         "Tag": {
@@ -5104,7 +6031,9 @@
           "Key": "Cosmetics.Set.ChocoSoldier_DisplayName",
           "SourceString": "Cocoa Commando"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OverallStake": {
         "Tag": {
@@ -5115,7 +6044,9 @@
           "Key": "Cosmetics.Set.OverallStake_DisplayName",
           "SourceString": "Future War"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ForestTracker": {
         "Tag": {
@@ -5126,7 +6057,9 @@
           "Key": "Cosmetics.Set.ForestTracker_DisplayName",
           "SourceString": "Jungle Hunter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LabSave": {
         "Tag": {
@@ -5137,7 +6070,9 @@
           "Key": "Cosmetics.Set.LabSave_DisplayName",
           "SourceString": "Y-Labs Rescue"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.CoverGift": {
         "Tag": {
@@ -5148,7 +6083,9 @@
           "Key": "Cosmetics.Set.CoverGift_DisplayName",
           "SourceString": "Arashikage Clan"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.RoadShade": {
         "Tag": {
@@ -5159,7 +6096,9 @@
           "Key": "Cosmetics.Set.RoadShade_DisplayName",
           "SourceString": "Street Shadows"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.InitialBandits": {
         "Tag": {
@@ -5170,7 +6109,9 @@
           "Key": "Cosmetics.Set.InitialBandits_DisplayName",
           "SourceString": "Original Outlaws"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.EntryCurtain": {
         "Tag": {
@@ -5181,7 +6122,9 @@
           "Key": "Cosmetics.Set.EntryCurtain_DisplayName",
           "SourceString": "Kickoff"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.WarDefeat": {
         "Tag": {
@@ -5192,7 +6135,9 @@
           "Key": "Cosmetics.Set.WarDefeat_DisplayName",
           "SourceString": "TheGrefg"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ThesisCinema": {
         "Tag": {
@@ -5203,7 +6148,9 @@
           "Key": "Cosmetics.Set.ThesisCinema_DisplayName",
           "SourceString": "Drift Tracker"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GuestFiction": {
         "Tag": {
@@ -5214,7 +6161,9 @@
           "Key": "Cosmetics.Set.GuestFiction_DisplayName",
           "SourceString": "The Flash"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AnimalClock": {
         "Tag": {
@@ -5225,7 +6174,9 @@
           "Key": "Cosmetics.Set.AnimalClock_DisplayName",
           "SourceString": "End of Line"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BeYours": {
         "Tag": {
@@ -5236,7 +6187,9 @@
           "Key": "Cosmetics.Set.BeYours_DisplayName",
           "SourceString": "Be Mine"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.BikeCatch": {
         "Tag": {
@@ -5247,7 +6200,9 @@
           "Key": "Cosmetics.Set.BikeCatch_DisplayName",
           "SourceString": "Street Fighter"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ToneTrip": {
         "Tag": {
@@ -5258,7 +6213,9 @@
           "Key": "Cosmetics.Set.ToneTrip_DisplayName",
           "SourceString": "In Space..."
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LightRain": {
         "Tag": {
@@ -5269,7 +6226,9 @@
           "Key": "Cosmetics.Set.LightRain_DisplayName",
           "SourceString": "Sun & Storm"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AcutePanic": {
         "Tag": {
@@ -5280,7 +6239,9 @@
           "Key": "Cosmetics.Set.AcutePanic_DisplayName",
           "SourceString": "Llegend"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MentionPremium": {
         "Tag": {
@@ -5291,7 +6252,9 @@
           "Key": "Cosmetics.Set.MentionPremium_DisplayName",
           "SourceString": "Lazarbeam"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TolerantFortune": {
         "Tag": {
@@ -5302,7 +6265,9 @@
           "Key": "Cosmetics.Set.TolerantFortune_DisplayName",
           "SourceString": "Ant-Man"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpacePolice": {
         "Tag": {
@@ -5313,7 +6278,9 @@
           "Key": "Cosmetics.Set.SpacePolice_DisplayName",
           "SourceString": "Galactic Rangers"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.GoldHand": {
         "Tag": {
@@ -5324,7 +6291,9 @@
           "Key": "Cosmetics.Set.GoldHand_DisplayName",
           "SourceString": "Golden Touch"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.DangerArmy": {
         "Tag": {
@@ -5335,7 +6304,9 @@
           "Key": "Cosmetics.Set.DangerArmy_DisplayName",
           "SourceString": "Hazard Platoon"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ImpendingSpiral": {
         "Tag": {
@@ -5346,7 +6317,9 @@
           "Key": "Cosmetics.Set.ImpendingSpiral_DisplayName",
           "SourceString": "Looming Spire"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.SpiralsCry": {
         "Tag": {
@@ -5357,7 +6330,9 @@
           "Key": "Cosmetics.Set.SpiralsCry_DisplayName",
           "SourceString": "Spire's Call"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.AutomaticDuke": {
         "Tag": {
@@ -5368,7 +6343,9 @@
           "Key": "Cosmetics.Set.AutomaticDuke_DisplayName",
           "SourceString": "Teen Titans"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MagicInstitute": {
         "Tag": {
@@ -5379,7 +6356,9 @@
           "Key": "Cosmetics.Set.MagicInstitute_DisplayName",
           "SourceString": "Oakwitch Academy"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.StableMove": {
         "Tag": {
@@ -5390,7 +6369,9 @@
           "Key": "Cosmetics.Set.StableMove_DisplayName",
           "SourceString": "Lara Croft"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MarrowBully": {
         "Tag": {
@@ -5401,7 +6382,9 @@
           "Key": "Cosmetics.Set.MarrowBully_DisplayName",
           "SourceString": "Bone Punk"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ChickenAce": {
         "Tag": {
@@ -5412,7 +6395,9 @@
           "Key": "Cosmetics.Set.ChickenAce_DisplayName",
           "SourceString": "Eggsplosives Expert"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.OperativeBlonde": {
         "Tag": {
@@ -5423,7 +6408,9 @@
           "Key": "Cosmetics.Set.OperativeBlonde_DisplayName",
           "SourceString": "Agent Jones"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.FelineRat": {
         "Tag": {
@@ -5432,9 +6419,11 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FelineRat_DisplayName",
-          "SourceString": " Set_01"
+          "SourceString": "Cat & Mouse"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.LateShuttle": {
         "Tag": {
@@ -5445,7 +6434,9 @@
           "Key": "Cosmetics.Set.LateShuttle_DisplayName",
           "SourceString": "Night Flight"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.MiddlePotassium": {
         "Tag": {
@@ -5456,7 +6447,9 @@
           "Key": "Cosmetics.Set.MiddlePotassium_DisplayName",
           "SourceString": "The Ides of Bunch"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.NumberSeventeen": {
         "Tag": {
@@ -5467,7 +6460,9 @@
           "Key": "Cosmetics.Set.NumberSeventeen_DisplayName",
           "SourceString": "#17"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.ToyedUp": {
         "Tag": {
@@ -5478,7 +6473,48 @@
           "Key": "Cosmetics.Set.ToyedUp_DisplayName",
           "SourceString": "Action Figured"
         },
-        "Description": null
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WakeUp": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WakeUp"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WakeUp_DisplayName",
+          "SourceString": "//R.E.M.Wakers//"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BadGoose": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BadGoose"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BadGoose_DisplayName",
+          "SourceString": "Danger Dux"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HopeBetray": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HopeBetray"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HopeBetray_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

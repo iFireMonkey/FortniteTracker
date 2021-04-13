@@ -1,7 +1,8 @@
 [
   {
-    "ExportType": "DataTable",
-    "ExportValue": {
+    "Type": "DataTable",
+    "Name": "CosmeticUserFacingTags",
+    "Rows": {
       "Cosmetics.UserFacingFlags.Emote.Traversal": {
         "Tag": {
           "TagName": "Cosmetics.UserFacingFlags.Emote.Traversal"
