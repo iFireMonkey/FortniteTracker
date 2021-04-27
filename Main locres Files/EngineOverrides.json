@@ -676,17 +676,23 @@
   },
   "PartyInteractions": {
     "AcceptPartyInvite": "Accept",
+    "AcceptJoinRequest": "Accept Join Request",
+    "DismissJoinRequest": "Dismiss Join Request",
     "InviteToParty": "Invite to Party",
     "JoinParty": "Join Party",
     "KickPartyMember": "Kick",
     "LeaveParty": "Leave Party",
     "PromoteToPartyLeader": "Promote",
     "RejectPartyInvite": "Reject",
+    "RequestToJoinParty": "Request To Join Party",
+    "SlashCommand_AcceptJoinRequest": "acceptjoinrequest",
+    "SlashCommand_DismissJoinRequest": "dismissjoinrequest",
     "SlashCommand_InviteToParty": "invite",
     "SlashCommand_JoinParty": "join",
     "SlashCommand_KickMember": "kick",
     "SlashCommand_LeaveParty": "leave",
-    "SlashCommand_PromoteToLeader": "promote"
+    "SlashCommand_PromoteToLeader": "promote",
+    "SlashCommand_RequestToJoinParty": "requesttojoin"
   },
   "SConversationDiff": {
     "Diff": "Behavior Tree Diff",
