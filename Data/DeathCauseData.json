@@ -1,7 +1,8 @@
 [
   {
-    "ExportType": "FortDeathCauseData",
-    "ExportValue": {
+    "Type": "FortDeathCauseData",
+    "Name": "DeathCauseData",
+    "Properties": {
       "DeathCauseInfos": [
         {
           "DisplayText": "AIrStrike",

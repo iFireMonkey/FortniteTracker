@@ -1,0 +1,466 @@
+[
+  {
+    "Type": "FortDeathCauseData",
+    "Name": "PrimalDeathCauseData",
+    "Properties": {
+      "DeathCauseInfos": [
+        {
+          "DisplayText": "Bone Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Bone"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "BB909EDB46E27058F0834188470A8B2D",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Primal Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "B8FF0EDF41D15487AA07358725C1A649",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Primal Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Boss Explosive Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.ClusterBomb.Boss"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D858651046EC00827D4D7D8C2775AD34",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with Raz's Explosive Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "72A2FD1D485D5D519D2D55AD83E8777C",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with Raz's Explosive Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Cluster Bomb Explosion",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Damage.Physical.Explosive"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "596BA6DD4ACB4B8923C8548521EAFF7A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F6D1C4F44D92F0CA5910C89546FE37A4",
+                  "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</> with Raz's Explosive Bow{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "5D3340854B542F27AE39B1B5E9D411EB",
+                  "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</> with Raz's Explosive Bow{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Boss Recycler",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Launcher.Junkgun.Boss"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "6A0EDD374AE1CDE25ABB62AE0C5C9CCF",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "71196A734886557132AEC8BDBB43BF8A",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</> with Spire Assassin's Recycler{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3138D9D84619F3E3BD5A389F28FC30B5",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</> with Spire Assassin's Recycler{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Boss Recycler Vaccum",
+              "DeathCauseTag": {
+                "TagName": "Ability.JunkGun.Suction"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "12F0E7D847D06FA880F4A89CBAB6E923",
+                  "SourceString": "<{KillerStyle}>{Killer}</> minced <{VictimStyle}>{PlayerName}</> with Spire Assassin's Recycler{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "8F9FA103488734272D7CAD80105F1A31",
+                  "SourceString": "<{KillerStyle}>{Killer}</> nearly minced <{VictimStyle}>{PlayerName}</> with Spire Assassin's Recycler{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Cluster Bomb Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.ClusterBomb"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "13F0534E44666EB96AC192A1F186FC5B",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Mechanical Explosive Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "55AD46564B55A76367EEAC99FE0E62F7",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Mechanical Explosive Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Cluster Bomb Explosion",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Damage.Physical.Explosive"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "596BA6DD4ACB4B8923C8548521EAFF7A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B45157114FA31D2E5C0C9295CCA6495A",
+                  "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</> with a Mechanical Explosive Bow{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "53F1254E4CBED1CAA2B78EB45FBB4CD5",
+                  "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</> with a Mechanical Explosive Bow{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Flame Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Flame"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D922471D45511F2197FE88B3E26CDE39",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Primal Flame Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "9C192923408D8E047DBA5884CC854087",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Primal Flame Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Fire Damage",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Damage.Elemental.Fire"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "C087625E4D61ADDC99638093ED19396B",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> couldn't stand the heat"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "1E82643C42F45CB176DBF78B86853EFB",
+                  "SourceString": "<{KillerStyle}>{Killer}</> grilled <{VictimStyle}>{PlayerName}</> with a Primal Flame Bow{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "35C156D946B8C7E281DD0B8BDDE57754",
+                  "SourceString": "<{KillerStyle}>{Killer}</> singed <{VictimStyle}>{PlayerName}</> with a Primal Flame Bow{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Grappler Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Grappler"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "088B87974D5CF1C81B0BEB8F7CB25C8F",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Grappler Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "D7173CF94F5470109E3A59AB8C55FE37",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Grappler Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Metal Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Metal"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "82AAA8684FA44355C47259980BBEB9B7",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Mechanical Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "788EF40C4E28EC8A5C8B049D87DBDA63",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Mechanical Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Recycler",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Launcher.Junkgun"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "6A0EDD374AE1CDE25ABB62AE0C5C9CCF",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> went out with a <b>BANG!</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "9B8677134472A69A321DC49945C9FBAC",
+              "SourceString": "<{KillerStyle}>{Killer}</> 'sploded <{VictimStyle}>{PlayerName}</> with a Recycler{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "F693F8CB467433B997362895C4F1E0F0",
+              "SourceString": "<{KillerStyle}>{Killer}</> nearly 'sploded <{VictimStyle}>{PlayerName}</> with a Recycler{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Recycler Vaccum",
+              "DeathCauseTag": {
+                "TagName": "Ability.JunkGun.Suction"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "1B25E6B946862A9AD16A349BB923F47E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> minced <{VictimStyle}>{PlayerName}</> with a Recycler{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "D9E3B0154D867443452FC89B81099DA2",
+                  "SourceString": "<{KillerStyle}>{Killer}</> nearly minced <{VictimStyle}>{PlayerName}</> with a Recycler{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Scrap Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Scrap"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A198A935434E48D2719699A61621D6F0",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Makeshift Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "C6CA400446F63147E9AD98B23E0D828A",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Makeshift Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Shockwave Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Shockwave"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "BFAD2146462D07A55A9DCFAC078608DD",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> had a shocking conclusion"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "05285B83453636D74D1C05BE070CAC97",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Mechanical Shockwave Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "05DB20DB41914E998DB8D9AD987F7A16",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Mechanical Shockwave Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Stink Bow",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Bow.Stink"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "8A413C1E448CA5BBCD5641A026CE382D",
+              "SourceString": "<{KillerStyle}>{Killer}</> skewered <{VictimStyle}>{PlayerName}</> with a Primal Stink Bow{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "EC5D8B344E6A3C07F0FA3AA7D5C06AAB",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Primal Stink Bow{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Stink Damage",
+              "DeathCauseTag": {
+                "TagName": "Gameplay.Damage.Physical.Poison"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "02E8054F43880BC78FEDF58086C13C4A",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> couldn't stand their own stink"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "AADE475D4686578A7293F695D26DF462",
+                  "SourceString": "<{KillerStyle}>{Killer}</> stunk <{VictimStyle}>{PlayerName}</> up with a Primal Stink Bow{DistanceText}"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "F7819C5E4951A7AD02F16B96B6D7393E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> nearly cleared out <{VictimStyle}>{PlayerName}</> with a Primal Stink Bow{DistanceText}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "DisplayText": "Weapon (Marksman Six Shooter)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Ranged.Pistol.MarksmanRevolver"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "A08C411A4A0AE2C65AB5E9A516F39795",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with the Marksman Six Shooter{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "278AC90D4B6C220D23AED5B525784F7A",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Marksman Six Shooter{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        }
+      ]
+    }
+  }
+]

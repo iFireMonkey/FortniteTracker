@@ -1,0 +1,62 @@
+[
+  {
+    "Type": "FortDeathCauseData",
+    "Name": "DeathCauseData_SpicySake",
+    "Properties": {
+      "DeathCauseInfos": [
+        {
+          "DisplayText": "Loot Shark",
+          "DeathCauseTag": {
+            "TagName": "Pawn.Athena.NPC.Wildlife.SpicySake"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "7C0D02394DE346E5F6E1B4A3BBE1081B",
+              "SourceString": "Loot Shark finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "406F06E44553ABF27D839CAE9E744239",
+              "SourceString": "Loot Shark eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "3C1A38A24A68F7F893616DB3B83F1D1A",
+              "SourceString": "Loot Shark knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": [
+            {
+              "DisplayText": "Tethered Loot Shark",
+              "DeathCauseTag": {
+                "TagName": "NPC.Status.Tethered"
+              },
+              "SelfInflictedMessages": [],
+              "SelfInflictedDBNOMessages": [],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "A64BA68A4FF5F3F76097468075DB2A86",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Loot Shark"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "4C74FBF2423F5294B643E5A2D0BC6B4E",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Loot Shark"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "FortDeathCauseData",
+    "Name": "Irwin_DeathCauseData",
+    "Properties": {
+      "DeathCauseInfos": [
+        {
+          "DisplayText": "Boar",
+          "DeathCauseTag": {
+            "TagName": "Pawn.Athena.NPC.Wildlife.Prey.Burt"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "17CF5B474379EC8AF040EDAF946FDDC2",
+              "SourceString": "A wild Boar eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "1D4AF23341F60E63FB216AB222BD761C",
+              "SourceString": "A wild Boar knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Raptor",
+          "DeathCauseTag": {
+            "TagName": "Pawn.Athena.NPC.Wildlife.Predator.Robert"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "0A75760945670FF6F79FE79AD2D75F4B",
+              "SourceString": "A wild Raptor eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "82A39D6E4E1A644CE31B6E9465646F87",
+              "SourceString": "A wild Raptor knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Wolf",
+          "DeathCauseTag": {
+            "TagName": "Pawn.Athena.NPC.Wildlife.Predator.Grandma"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "8113798340E80BA6B6CAB8ADB6D807E9",
+              "SourceString": "A wild Wolf eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "BCD2DF9D421C2B69EEF6918C0DF2891E",
+              "SourceString": "A wild Wolf knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        }
+      ]
+    }
+  }
+]

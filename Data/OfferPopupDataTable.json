@@ -602,14 +602,35 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "68AD059440E037B182477AB891B0BB7B",
-          "SourceString": "Inspect_Banner_01"
+          "SourceString": "Includes Loading Screen!"
         }
       },
       "promodesc4": {
         "FormatedText": {
           "Namespace": "",
           "Key": "ABED7B7B410E18BB0436289003963F1D",
-          "SourceString": "Inspect_Banner_02"
+          "SourceString": "Aloy has landed on the island!"
+        }
+      },
+      "syncedtrain": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3A0D2EA54BCC896D1B9EB7826C4D4078",
+          "SourceString": "Synced emote: Drive the train and invite other players to join in train cars behind you!"
+        }
+      },
+      "tacticalredpunkpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "DE549FC64F24994615D106927191B932",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SCARLET SAI PICKAXE</> from the included back bling when both are equipped!"
+        }
+      },
+      "dinocollectorpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2914DD5943EA1A9E12DBBA98A314BC04",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">CROSSBITE TOOTHAXES</> from the <text color=\"FFFFFFFF\">TUSK & TOOTH BACK BLING</> when both are equipped!"
         }
       }
     }

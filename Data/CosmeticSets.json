@@ -6549,7 +6549,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FussJam_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Horizon Zero Dawn"
         },
         "Description": {
           "CultureInvariantString": null
@@ -6615,6 +6615,110 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FallStrike_DisplayName",
           "SourceString": "Autumn Attack"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GoodParachute": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GoodParachute"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoodParachute_DisplayName",
+          "SourceString": "Neymar Jr"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlotGroup": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlotGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlotGroup_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NotionRemark": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NotionRemark"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NotionRemark_DisplayName",
+          "SourceString": "Batman: Zero Point"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PunkDemon": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PunkDemon"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PunkDemon_DisplayName",
+          "SourceString": "Onibi"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CreditBent": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CreditBent"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CreditBent_DisplayName",
+          "SourceString": "Honor Bound"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SquireMeal": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SquireMeal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SquireMeal_DisplayName",
+          "SourceString": "Knights of the Food Court"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Comeback": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Comeback"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Comeback_DisplayName",
+          "SourceString": "The Returned"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CyberSyndicate": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CyberSyndicate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CyberSyndicate_DisplayName",
+          "SourceString": "Neo Underworld"
         },
         "Description": {
           "CultureInvariantString": null
