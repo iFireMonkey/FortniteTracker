@@ -6640,7 +6640,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BlotGroup_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Inkville Gang"
         },
         "Description": {
           "CultureInvariantString": null
@@ -6719,6 +6719,84 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.CyberSyndicate_DisplayName",
           "SourceString": "Neo Underworld"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.IntoDye": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IntoDye"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IntoDye_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StoneDude": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StoneDude"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StoneDude_DisplayName",
+          "SourceString": "Cave, Man."
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DroppedWater": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DroppedWater"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DroppedWater_DisplayName",
+          "SourceString": "Fallen Oasis"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SnekRock": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SnekRock"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SnekRock_DisplayName",
+          "SourceString": "Snakes & Stones "
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TrackSpeeder": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TrackSpeeder"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TrackSpeeder_DisplayName",
+          "SourceString": "Metro Runner"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HoloCars": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HoloCars"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HoloCars_DisplayName",
+          "SourceString": "Holo-Traffic"
         },
         "Description": {
           "CultureInvariantString": null

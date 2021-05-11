@@ -632,6 +632,27 @@
           "Key": "2914DD5943EA1A9E12DBBA98A314BC04",
           "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">CROSSBITE TOOTHAXES</> from the <text color=\"FFFFFFFF\">TUSK & TOOTH BACK BLING</> when both are equipped!"
         }
+      },
+      "transforminspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6039591849081403F3854695A5F8774A",
+          "SourceString": "temp description 1"
+        }
+      },
+      "basketinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "304FA73A48A462CDB8E765B376314DC4",
+          "SourceString": "temp description 2"
+        }
+      },
+      "pickteaminspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F2CBF48D49704710585F2AB5A4E14202",
+          "SourceString": "temp description 3"
+        }
       }
     }
   }
