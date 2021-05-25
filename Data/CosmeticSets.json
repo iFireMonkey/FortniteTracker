@@ -6731,7 +6731,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.IntoDye_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "In The Paint"
         },
         "Description": {
           "CultureInvariantString": null
@@ -6797,6 +6797,71 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.HoloCars_DisplayName",
           "SourceString": "Holo-Traffic"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FireRoad": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FireRoad"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FireRoad_DisplayName",
+          "SourceString": "Burning Highway"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OldForever": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OldForever"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OldForever_DisplayName",
+          "SourceString": "Ancient Eternal"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SpinHouse": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpinHouse"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpinHouse_DisplayName",
+          "SourceString": "Dizzie's Domain"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CosmoDrifter": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CosmoDrifter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CosmoDrifter_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KeyBot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KeyBot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KeyBot_DisplayName",
+          "SourceString": "Lok-Bot"
         },
         "Description": {
           "CultureInvariantString": null

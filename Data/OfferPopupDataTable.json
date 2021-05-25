@@ -637,21 +637,49 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "6039591849081403F3854695A5F8774A",
-          "SourceString": "temp description 1"
+          "SourceString": "Transform between styles with the built-in <text color=\"FFFFFFFF\">GO APE</> emote!"
         }
       },
       "basketinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "304FA73A48A462CDB8E765B376314DC4",
-          "SourceString": "temp description 2"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">HOOKSHOT TOY</> to score a basket on another player's <text color=\"FFFFFFFF\">MINI HOOP BACK BLING</> and trigger special effects!"
         }
       },
       "pickteaminspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F2CBF48D49704710585F2AB5A4E14202",
-          "SourceString": "temp description 3"
+          "SourceString": "Pick your favorite NBA team and choose your jersey number!"
+        }
+      },
+      "fncss16finals": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "385E0C364CCD081FD458C6B65C0AF225",
+          "SourceString": "FNCS Chapter 2 Season 6 Finals Exclusive!"
+        }
+      },
+      "grimreactive": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D39ED36841A7FA503AE9E297ECC04837",
+          "SourceString": "Temp desc."
+        }
+      },
+      "downpourreactive": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9FFDA8D9464CE59026FB66B264326511",
+          "SourceString": "Temp desc 2."
+        }
+      },
+      "outfitreactstomusicemotes": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "173FD38A4F6A44848F9B3287346D1ED7",
+          "SourceString": "Reactive Outfit: Lights up while using musical Emotes!"
         }
       }
     }
