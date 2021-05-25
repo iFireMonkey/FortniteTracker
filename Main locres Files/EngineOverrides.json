@@ -51,6 +51,12 @@
     "EBuildPatchProgress_Resuming": "Resuming",
     "EBuildPatchProgress_BuildVerification": "Verifying"
   },
+  "CatalogTypes": {
+    "CatalogPriceFree": "Free",
+    "PercentOffFormat": "{0} Off",
+    "PercentOnFormat": "{0} On",
+    "AmountOffFormat": "{0} V-Bucks Off"
+  },
   "ConversationEditor": {
     "AutoArrange": "Auto Arrange",
     "PinErrorSameNode": "Both are on the same node",
@@ -518,10 +524,13 @@
   },
   "MessageDialog": {
     "UpdateMacOSX_Body": "Please update to the latest version of macOS for best performance and stability.",
-    "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease update to the latest driver version.\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
-    "LatestVideoCardDriverIssueReport": "The latest version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease update to the latest driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "LatestVideoCardDriverIssueReport": "The latest version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "UpdateMacOSX_Title": "Update macOS",
-    "TitleVideoCardDriverIssue": "WARNING: Known issues with graphics driver"
+    "TitleVideoCardDriverIssue": "WARNING: Known issues with graphics driver",
+    "DriverDownloadLinkIntel": "https://downloadcenter.intel.com/product/80939/Graphics",
+    "DriverDownloadLinkAMD": "https://www.amd.com/en/support",
+    "DriverDownloadLinkNVIDIA": "https://www.nvidia.com/en-us/geforce/drivers/"
   },
   "OnlineAccount": {
     "CreateDeviceAuth": "Adding device...",
