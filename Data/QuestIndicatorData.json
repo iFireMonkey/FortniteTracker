@@ -161,23 +161,23 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_HerosHarvest",
-            "SourceString": "COLOSSAL CROPS"
+            "Key": "NameForLocation_GovernmentComplex",
+            "SourceString": "Corny Complex"
           },
           "WorldLocation": {
-            "X": 31380.0,
-            "Y": 42268.0,
+            "X": 29848.0,
+            "Y": 44316.0,
             "Z": -1280.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.HerosHarvest"
+            "TagName": "Athena.Location.POI.GovernmentComplex"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_NamedLocations.Quest_S11_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_HeroesHarvest",
+          "DiscoverObjectiveBackendName": "Visit_Location_GovernmentComplex",
           "ActiveDiscoverableBlodIds": [
             71
           ]
@@ -233,30 +233,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_MainTower",
-            "SourceString": "THE SPIRE"
-          },
-          "WorldLocation": {
-            "X": 7016.0,
-            "Y": 5948.0,
-            "Z": -824.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.MainTower"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_NamedLocations.Quest_S11_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_MainTower",
-          "ActiveDiscoverableBlodIds": [
-            61
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
             "Key": "NameForLocation_MountainMeadow",
             "SourceString": "MISTY MEADOWS"
           },
@@ -276,30 +252,6 @@
           "DiscoverObjectiveBackendName": "Visit_Location_MountainMeadow",
           "ActiveDiscoverableBlodIds": [
             6
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_NightmareJungle",
-            "SourceString": "STEALTHY STRONGHOLD"
-          },
-          "WorldLocation": {
-            "X": 97284.0,
-            "Y": -32308.0,
-            "Z": -1536.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.NightmareJungle"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_NamedLocations.Quest_S11_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_NightmareJungle",
-          "ActiveDiscoverableBlodIds": [
-            79
           ]
         },
         {
@@ -426,7 +378,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
             "Key": "NameForLocation_SunnyShores",
-            "SourceString": "SWEATY SANDS"
+            "SourceString": "BELIEVER BEACH"
           },
           "WorldLocation": {
             "X": 35136.0,
@@ -490,28 +442,6 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_landmark_angryapples",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_BaseCampFoxtrot",
-            "SourceString": "Base Camp Foxtrot"
-          },
-          "WorldLocation": {
-            "X": -106768.0,
-            "Y": 45724.0,
-            "Z": 5480.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnnamedPOI.BaseCampFoxtrot"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_basecampfoxtrot",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -848,9 +778,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_landmark_canoerentals",
-          "ActiveDiscoverableBlodIds": [
-            33
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -922,7 +850,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
             "Key": "NameForLocation_CliffsideRuinedHouses",
-            "SourceString": "Pristine Point"
+            "SourceString": "FN Radio"
           },
           "WorldLocation": {
             "X": 108752.0,
@@ -1194,30 +1122,6 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_landmark_fortruin",
-          "ActiveDiscoverableBlodIds": [
-            16
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_GoldenIsland",
-            "SourceString": "Isla Nublada"
-          },
-          "WorldLocation": {
-            "X": -117170.0,
-            "Y": -25162.0,
-            "Z": -900.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.GoldenIsland"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_goldenisland",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -1313,6 +1217,116 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_1",
+            "SourceString": "Stealthy Saucer"
+          },
+          "WorldLocation": {
+            "X": 17224.0,
+            "Y": 64096.0,
+            "Z": -2100.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.HiddenUFOVehicle.1"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_hiddenufo_01",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_2",
+            "SourceString": "Lonely Lander"
+          },
+          "WorldLocation": {
+            "X": -116876.0,
+            "Y": 75720.0,
+            "Z": -2976.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.HiddenUFOVehicle.2"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_hiddenufo_02",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_3",
+            "SourceString": "Steamy Spaceship"
+          },
+          "WorldLocation": {
+            "X": 78012.0,
+            "Y": 89240.0,
+            "Z": -1172.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.HiddenUFOVehicle.3"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_hiddenufo_03",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_4",
+            "SourceString": "Cargo Craft"
+          },
+          "WorldLocation": {
+            "X": 12716.0,
+            "Y": 116856.0,
+            "Z": -2904.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.HiddenUFOVehicle.4"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_hiddenufo_04",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_5",
+            "SourceString": "Food Fighter"
+          },
+          "WorldLocation": {
+            "X": -36047.902,
+            "Y": -71052.5,
+            "Z": -2549.9102
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.HiddenUFOVehicle.5"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_hiddenufo_05",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
             "Key": "NameForLocation_HighHoop",
             "SourceString": "High Hoops"
           },
@@ -1331,58 +1345,6 @@
           },
           "DiscoverObjectiveBackendName": "visit_landmark_highhoop",
           "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_HilltopHouse",
-            "SourceString": "Hilltop House"
-          },
-          "WorldLocation": {
-            "X": 83508.0,
-            "Y": 84.0,
-            "Z": -964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnnamedPOI.HilltopHouse"
-          },
-          "CalendarEventsRequired": [
-            "DISABLED_FOR_S16"
-          ],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_hilltophouse",
-          "ActiveDiscoverableBlodIds": [
-            21
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_HomelyHills",
-            "SourceString": "Homely Hills"
-          },
-          "WorldLocation": {
-            "X": 100536.0,
-            "Y": -33784.0,
-            "Z": -344.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnnamedPOI.HomelyHills"
-          },
-          "CalendarEventsRequired": [
-            "DISABLED FOR THIS SEASON"
-          ],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_homelyhills",
-          "ActiveDiscoverableBlodIds": [
-            81
-          ]
         },
         {
           "Text": {
@@ -1542,9 +1504,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_landmark_mountf8",
-          "ActiveDiscoverableBlodIds": [
-            80
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1680,8 +1640,174 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_landmark_outpost_primalpond",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_01",
+            "SourceString": "Deep Woods Dish"
+          },
+          "WorldLocation": {
+            "X": 95476.0,
+            "Y": -28880.0,
+            "Z": -220.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.RadarDishBase.01"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_01",
+          "ActiveDiscoverableBlodIds": [
+            79
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_02",
+            "SourceString": "Dinky Dish"
+          },
+          "WorldLocation": {
+            "X": 85684.0,
+            "Y": 55332.0,
+            "Z": -32.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.RadarDishBase.02"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_02",
+          "ActiveDiscoverableBlodIds": [
+            83
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_03",
+            "SourceString": "Dockside Dish"
+          },
+          "WorldLocation": {
+            "X": 2212.0,
+            "Y": 77524.0,
+            "Z": -212.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.RadarDishBase.03"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_03",
+          "ActiveDiscoverableBlodIds": [
+            33
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_04",
+            "SourceString": "Destined Dish"
+          },
+          "WorldLocation": {
+            "X": -107264.0,
+            "Y": 45056.0,
+            "Z": -128.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.RadarDishBase.04"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_04",
+          "ActiveDiscoverableBlodIds": [
+            80
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_05",
+            "SourceString": "Dampy Dish"
+          },
+          "WorldLocation": {
+            "X": -87728.0,
+            "Y": -66232.0,
+            "Z": -5752.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.RadarDishBase.05"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_05",
+          "ActiveDiscoverableBlodIds": [
+            190
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_06",
+            "SourceString": "Defiant Dish"
+          },
+          "WorldLocation": {
+            "X": -29572.0,
+            "Y": 5084.0,
+            "Z": -804.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.RadarDishBase.06"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_06",
           "ActiveDiscoverableBlodIds": [
             180
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_07",
+            "SourceString": "Discovery Dish"
+          },
+          "WorldLocation": {
+            "X": 51428.0,
+            "Y": -116440.0,
+            "Z": -2631.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.RadarDishBase.07"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_radardish_07",
+          "ActiveDiscoverableBlodIds": [
+            16
           ]
         },
         {
@@ -1691,9 +1817,9 @@
             "SourceString": "FN Radio"
           },
           "WorldLocation": {
-            "X": 93720.0,
-            "Y": 51720.0,
-            "Z": 3648.0
+            "X": 93988.0,
+            "Y": 51656.0,
+            "Z": 224.0
           },
           "LocationTag": {
             "TagName": "Athena.Location.UnnamedPOI.RadioStation"
@@ -1704,9 +1830,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_landmark_radiostation",
-          "ActiveDiscoverableBlodIds": [
-            83
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -2125,145 +2249,25 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_01",
-            "SourceString": "Guardian of the Sea"
+            "Key": "NameForLocation_TowerRuins",
+            "SourceString": "The Aftermath"
           },
           "WorldLocation": {
-            "X": 83088.0,
-            "Y": 380.0,
-            "Z": -256.0
+            "X": 6068.0,
+            "Y": 7096.0,
+            "Z": -3676.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Tower.Outside.01"
+            "TagName": "Athena.Location.UnNamedPOI.TowerRuins"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_outsidetower1",
+          "DiscoverObjectiveBackendName": "visit_landmark_towerruins",
           "ActiveDiscoverableBlodIds": [
-            201
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_02",
-            "SourceString": "Guardian of the Fields"
-          },
-          "WorldLocation": {
-            "X": 57800.0,
-            "Y": 68888.0,
-            "Z": -256.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Tower.Outside.02"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_outsidetower2",
-          "ActiveDiscoverableBlodIds": [
-            202
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_03",
-            "SourceString": "Guardian of the Mountains"
-          },
-          "WorldLocation": {
-            "X": -24240.0,
-            "Y": 89320.0,
-            "Z": -256.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Tower.Outside.03"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_outsidetower3",
-          "ActiveDiscoverableBlodIds": [
-            203
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_04",
-            "SourceString": "Guardian of the Lake"
-          },
-          "WorldLocation": {
-            "X": -69112.0,
-            "Y": 17684.0,
-            "Z": -256.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Tower.Outside.04"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_outsidetower4",
-          "ActiveDiscoverableBlodIds": [
-            204
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_05",
-            "SourceString": "Guardian of the Woods"
-          },
-          "WorldLocation": {
-            "X": -31700.0,
-            "Y": -48560.0,
-            "Z": -256.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Tower.Outside.05"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_outsidetower5",
-          "ActiveDiscoverableBlodIds": [
-            205
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_06",
-            "SourceString": "Guardian of the Bay"
-          },
-          "WorldLocation": {
-            "X": 43864.0,
-            "Y": -51312.0,
-            "Z": -256.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Tower.Outside.06"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_outpost_outsidetower6",
-          "ActiveDiscoverableBlodIds": [
-            206
+            61
           ]
         },
         {

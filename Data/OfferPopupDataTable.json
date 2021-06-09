@@ -2,6 +2,12 @@
   {
     "Type": "DataTable",
     "Name": "OfferPopupDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "OfferPopUpData:Class",
+        "ObjectPath": 0
+      }
+    },
     "Rows": {
       "builtinemote": {
         "FormatedText": {
@@ -680,6 +686,20 @@
           "Namespace": "",
           "Key": "173FD38A4F6A44848F9B3287346D1ED7",
           "SourceString": "Reactive Outfit: Lights up while using musical Emotes!"
+        }
+      },
+      "outfitincludesbuildinemote": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C6E84CCD4B351124F2D1D6818F546A29",
+          "SourceString": "Outfit includes built-in emote!"
+        }
+      },
+      "flapyourwings": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "688BC2FF43C9A2C49CCADFA8F787F2D8",
+          "SourceString": "Flap your wings while in the air!"
         }
       }
     }

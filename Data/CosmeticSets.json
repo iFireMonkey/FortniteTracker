@@ -2,6 +2,12 @@
   {
     "Type": "DataTable",
     "Name": "CosmeticSets",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "CosmeticSetDataRow:Class",
+        "ObjectPath": 0
+      }
+    },
     "Rows": {
       "Cosmetics.Set.AdvancedForces": {
         "Tag": {
@@ -6848,7 +6854,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.CosmoDrifter_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Cosmere Castaway"
         },
         "Description": {
           "CultureInvariantString": null
@@ -6862,6 +6868,162 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.KeyBot_DisplayName",
           "SourceString": "Lok-Bot"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StrengthWound": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StrengthWound"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StrengthWound_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PlotStatement": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PlotStatement"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PlotStatement_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PortionCut": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PortionCut"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PortionCut_DisplayName",
+          "SourceString": "Kryptonian"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.InsideEyes": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.InsideEyes"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.InsideEyes_DisplayName",
+          "SourceString": "Inner Vision"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LeaveFast": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LeaveFast"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LeaveFast_DisplayName",
+          "SourceString": "Escape Velocity"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FosterRush": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FosterRush"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FosterRush_DisplayName",
+          "SourceString": "Rick, C-137"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VeryAdvanced": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.VeryAdvanced"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VeryAdvanced_DisplayName",
+          "SourceString": "Kymera"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ColorfulSlot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ColorfulSlot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ColorfulSlot_DisplayName",
+          "SourceString": "Guggimon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NewHotness": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NewHotness"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NewHotness_DisplayName",
+          "SourceString": "IO Inquest"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CodeGalaxy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CodeGalaxy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CodeGalaxy_DisplayName",
+          "SourceString": "Binary Stars"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CowStrong": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CowStrong"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CowStrong_DisplayName",
+          "SourceString": "Udderly Invincible"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SunFight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SunFight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SunFight_DisplayName",
+          "SourceString": "Star Skirmish"
         },
         "Description": {
           "CultureInvariantString": null
