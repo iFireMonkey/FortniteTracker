@@ -728,9 +728,6 @@
   "SocialUser": {
     "UserStatus_Blocked": "Blocked"
   },
-  "SwitchDynamicRHI": {
-    "UnsupportedRHI": "The chosen RHI is not supported"
-  },
   "UICommands.ConversationEditorCommands": {
     "BackInto": "Back: Into",
     "BackOver": "Back: Over",
@@ -789,12 +786,14 @@
     "SlashCommand_PrivateMessage": "whisper"
   },
   "WindowsDynamicRHI": {
+    "RHIOptionsError": "-d3d12/dx12, -d3d11/dx11, -vulkan, and -opengl are mutually exclusive options, but more than one was specified on the command-line.",
     "RequiredDX11Feature_11_SM5": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine.",
     "RequiredDX12": "DX12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
-    "UseExpressionEncoderDX11": "Fraps has been known to crash D3D11. Please use Microsoft Expression Encoder instead for capturing.",
-    "UseExpressionEncoder": "Fraps has been known to crash D3D12. Please use Microsoft Expression Encoder instead for capturing.",
+    "RHIPerformanceDX12": "DirectX 12 is not supported for Performance Mode.",
     "RequiredOpenGL": "OpenGL 4.3 is required to run the engine.",
+    "RHIPerformanceOpenGL": "OpenGL is not supported for Performance Mode.",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
+    "RHIPerformanceVulkan": "Vulkan is not supported for Performance Mode.",
     "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. The default RHI will be used."
   }
 }
