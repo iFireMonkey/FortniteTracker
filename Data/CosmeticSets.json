@@ -6880,7 +6880,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.StrengthWound_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "HurriKane"
         },
         "Description": {
           "CultureInvariantString": null
@@ -6893,7 +6893,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.PlotStatement_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Marcinho"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7024,6 +7024,123 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SunFight_DisplayName",
           "SourceString": "Star Skirmish"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FlatPiece": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FlatPiece"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FlatPiece_DisplayName",
+          "SourceString": " Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BigBoom": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BigBoom"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BigBoom_DisplayName",
+          "SourceString": "Ka-Bang!"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ArtistPhysics": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ArtistPhysics"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ArtistPhysics_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SecretHeat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SecretHeat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SecretHeat_DisplayName",
+          "SourceString": "Undercover Summer"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LavaLeaders": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LavaLeaders"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LavaLeaders_DisplayName",
+          "SourceString": "Magma Masters"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AngryGiant": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AngryGiant"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AngryGiant_DisplayName",
+          "SourceString": "The Mad Titan"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GildedCoast": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GildedCoast"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GildedCoast_DisplayName",
+          "SourceString": "Golden Sands"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VeryEarthy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.VeryEarthy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VeryEarthy_DisplayName",
+          "SourceString": "Extremely Terrestrial"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BreezeTune": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BreezeTune"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BreezeTune_DisplayName",
+          "SourceString": "Wind Song"
         },
         "Description": {
           "CultureInvariantString": null

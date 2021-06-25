@@ -671,14 +671,14 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "D39ED36841A7FA503AE9E297ECC04837",
-          "SourceString": "Temp desc."
+          "SourceString": "Unsheathe the included Pickaxe from the Deathstroke's Katanas Back Bling when both are equipped!"
         }
       },
       "downpourreactive": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9FFDA8D9464CE59026FB66B264326511",
-          "SourceString": "Temp desc 2."
+          "SourceString": "Unsheathe the Volcanic Glass Daggers Pickaxe from Kelsier's scabbards! Outfit includes Loading Screen!"
         }
       },
       "outfitreactstomusicemotes": {
@@ -699,7 +699,70 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "688BC2FF43C9A2C49CCADFA8F787F2D8",
-          "SourceString": "Flap your wings while in the air!"
+          "SourceString": "Flap your wings while jumping!"
+        }
+      },
+      "goldquestsstandalone": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "029FBC154CA4C032B816849161148FB1",
+          "SourceString": "Becomes more gold as you complete a quest! Unlock a custom goldness slider when quest is complete!"
+        }
+      },
+      "goldquestsbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "43FCD385412998F142D9868F4E69F1FB",
+          "SourceString": "Items become more gold as you complete quests! Unlock a custom goldness slider when all quests are complete!"
+        }
+      },
+      "catburglarsummerinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E7EE14A5405C1E799845428606EEA42B",
+          "SourceString": "Golden Touch: turn weapons gold when equipped. Tattoos become more golden with eliminations!"
+        }
+      },
+      "henchmansummerinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FAD683C94DCB0C300FEBD98730FD99DB",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SANDY SHOVELER</> pickaxe from <text color=\"FFFFFFFF\">SCUBA SATCHEL</> back bling when both are equipped!"
+        }
+      },
+      "firecrackerinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A14FF19C45577E5363882D89F6E1FDFA",
+          "SourceString": "Earn a victory royale and unleash the ultimate grand finale with Nitrojerry's built-in short fuse emote."
+        }
+      },
+      "firecrackerpickaxeinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E79AF9314F930B3DF7F78D9B55D12B5D",
+          "SourceString": "Includes the built-in Roman Candle emote!"
+        }
+      },
+      "shellhideinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "015772FA455FFEB69600B68871453E06",
+          "SourceString": "Shelldon hides in his shell when you take damage!"
+        }
+      },
+      "goldwrapeliminspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5C9ECF164B8DC145D8D1279E0B316B6E",
+          "SourceString": "Reactive wrap! Grows more gold with eliminations!"
+        }
+      },
+      "mustangwrapinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "552185A4497724D071A0CC95276642EE",
+          "SourceString": "Show off your equipped banner! Eliminations are marked with tallies!"
         }
       }
     }
