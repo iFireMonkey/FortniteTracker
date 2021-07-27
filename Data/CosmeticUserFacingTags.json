@@ -2,6 +2,12 @@
   {
     "Type": "DataTable",
     "Name": "CosmeticUserFacingTags",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "CosmeticMarkupTagDataRow:Class",
+        "ObjectPath": 0
+      }
+    },
     "Rows": {
       "Cosmetics.UserFacingFlags.Emote.Traversal": {
         "Tag": {
@@ -175,7 +181,7 @@
         "DisplayName": {
           "Namespace": "CosmeticUserFacingTags",
           "Key": "Cosmetics.UserFacingFlags.BuiltInEmote_DisplayName",
-          "SourceString": "Built-in"
+          "SourceString": "Built-in Emote"
         },
         "HelpText": {
           "Namespace": "CosmeticUserFacingTags",

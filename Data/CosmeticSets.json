@@ -7036,7 +7036,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FlatPiece_DisplayName",
-          "SourceString": " Set_01"
+          "SourceString": "King James"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7062,7 +7062,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.ArtistPhysics_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "God of Mischief"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7141,6 +7141,97 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BreezeTune_DisplayName",
           "SourceString": "Wind Song"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HayMenu": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HayMenu"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HayMenu_DisplayName",
+          "SourceString": "Bugha"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TreeLion": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TreeLion"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TreeLion_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PublicRefund": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PublicRefund"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PublicRefund_DisplayName",
+          "SourceString": "Gildedguy"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StartingMove": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StartingMove"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StartingMove_DisplayName",
+          "SourceString": "Opening Act"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.JobHeat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.JobHeat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.JobHeat_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PresentForm": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PresentForm"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PresentForm_DisplayName",
+          "SourceString": "Show Your Style"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BoldGreen": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BoldGreen"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BoldGreen_DisplayName",
+          "SourceString": "Fearless Fairway"
         },
         "Description": {
           "CultureInvariantString": null

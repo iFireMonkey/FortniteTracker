@@ -418,12 +418,12 @@
           {
             "Namespace": "",
             "Key": "4A7F7E404AC87ED0C09369A81819E8A0",
-            "SourceString": "Close Quarters Combat with Shotguns & Jetpacks.     "
+            "SourceString": "Close Quarters Combat with Shotguns."
           },
           {
             "Namespace": "",
             "Key": "3D832E104C647BD46FAE04AB7382C04F",
-            "SourceString": "Your Jetpack Slowly Recharges Fuel."
+            "SourceString": "Extra Mobility Items Available!"
           }
         ]
       },
@@ -436,13 +436,13 @@
         "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
           {
             "Namespace": "",
-            "Key": "52FB35634E34FDD6E4089BBF84F81C09",
-            "SourceString": "Close Quarters Combat with Shotguns & Jetpacks.      "
+            "Key": "4A7F7E404AC87ED0C09369A81819E8A0",
+            "SourceString": "Close Quarters Combat with Shotguns."
           },
           {
             "Namespace": "",
-            "Key": "3412A31641B6BF5F0D43C0B9A0622147",
-            "SourceString": "Your Jetpack Slowly Recharges Fuel."
+            "Key": "3D832E104C647BD46FAE04AB7382C04F",
+            "SourceString": "Extra Mobility Items Available!"
           }
         ]
       },
@@ -455,13 +455,13 @@
         "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
           {
             "Namespace": "",
-            "Key": "2841167D474E3E8A40775EA581CF820C",
-            "SourceString": "Close Quarters Combat with Shotguns & Jetpacks.     "
+            "Key": "4A7F7E404AC87ED0C09369A81819E8A0",
+            "SourceString": "Close Quarters Combat with Shotguns."
           },
           {
             "Namespace": "",
-            "Key": "EF491CF64338EDC068A8BC9144A9C833",
-            "SourceString": "Your Jetpack Slowly Recharges Fuel."
+            "Key": "3D832E104C647BD46FAE04AB7382C04F",
+            "SourceString": "Extra Mobility Items Available!"
           }
         ]
       },
@@ -474,13 +474,13 @@
         "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
           {
             "Namespace": "",
-            "Key": "1C77527B462212AEA24604A5F622A404",
-            "SourceString": "Close Quarters Combat with Shotguns & Jetpacks.     "
+            "Key": "4A7F7E404AC87ED0C09369A81819E8A0",
+            "SourceString": "Close Quarters Combat with Shotguns."
           },
           {
             "Namespace": "",
-            "Key": "22D4AD3A4A682DFB0090049F2CDE8864",
-            "SourceString": "Your Jetpack Slowly Recharges Fuel."
+            "Key": "3D832E104C647BD46FAE04AB7382C04F",
+            "SourceString": "Extra Mobility Items Available!"
           }
         ]
       },
@@ -4290,6 +4290,125 @@
             "Namespace": "",
             "Key": "82CA767B47E6476A829A6BAC81B68FF0",
             "SourceString": "Mythic and Vaulted Weapons Have Been Added.     "
+          }
+        ]
+      },
+      "Playlist_ShowdownTournament_BlueCheese_Trios_Test": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "EC713929493C60E1FB305FA7B5DF7C6C",
+          "SourceString": "Bugha's Late Game"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "03FE2CBA43E24474772A608A9CA5CDA5",
+            "SourceString": "Nine unique inventories grouped into three team loadouts"
+          },
+          {
+            "Namespace": "",
+            "Key": "ED88D21F4002220422E5668FC4F69EDE",
+            "SourceString": "Great aim? Land on a supply drop to contest for extra loot"
+          }
+        ]
+      },
+      "Playlist_ShowdownTournament_BlueCheese_Trios": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "EC713929493C60E1FB305FA7B5DF7C6C",
+          "SourceString": "Bugha's Late Game"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "44321D4347E35065AF44969A21E56AE1",
+            "SourceString": "Nine unique inventories grouped into three team loadouts"
+          },
+          {
+            "Namespace": "",
+            "Key": "FA67FEB94BD98A8AD21F359265227BD0",
+            "SourceString": "Great aim? Land on a supply drop to contest for extra loot"
+          }
+        ]
+      },
+      "Playlist_ShowdownAlt_BlueCheese_Trios": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "EC713929493C60E1FB305FA7B5DF7C6C",
+          "SourceString": "Bugha's Late Game"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "080D75F14731D6D48D407A993914D739",
+            "SourceString": "Nine unique inventories grouped into three team loadouts"
+          },
+          {
+            "Namespace": "",
+            "Key": "64CB5F91473BE753B7996483B85E0790",
+            "SourceString": "Great aim? Land on a supply drop to contest for extra loot"
+          }
+        ]
+      },
+      "Playlist_ShowdownTournament_BlueCheese_Solo_Test": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "EC713929493C60E1FB305FA7B5DF7C6C",
+          "SourceString": "Bugha's Late Game"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "352F92EA4662E701B3E6F8B6BBD89CB5",
+            "SourceString": "Nine unique inventories grouped into three team loadouts"
+          },
+          {
+            "Namespace": "",
+            "Key": "9947AA754A450B9C0D10ECB52A15F9F1",
+            "SourceString": "Great aim? Land on a supply drop to contest for extra loot"
+          }
+        ]
+      },
+      "Playlist_ShowdownTournament_Nickel_Evergreen_Trios": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "F728F6A94AC317272BE82D80FB7A4FDB",
+          "SourceString": "Pickaxe Frenzy"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "69B1D88743390E66302E7CB03A12C3DE",
+            "SourceString": "Run faster with your pickaxe equipped."
+          },
+          {
+            "Namespace": "",
+            "Key": "A40F309A487B5F090B8E1E80036B1105",
+            "SourceString": "Emote to heal."
+          },
+          {
+            "Namespace": "",
+            "Key": "D4A345D041DD6ADE22D0FD9C2984E02B",
+            "SourceString": "Limited building materials and items."
+          }
+        ]
+      },
+      "Playlist_ShowdownTournament_BlueCheese_Trios_Icon_Test": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "BB66B22D48B40107E965ABB867A37B15",
+          "SourceString": "Bugha's Late Game ICON"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "03FE2CBA43E24474772A608A9CA5CDA5",
+            "SourceString": "Nine unique inventories grouped into three team loadouts"
+          },
+          {
+            "Namespace": "",
+            "Key": "ED88D21F4002220422E5668FC4F69EDE",
+            "SourceString": "Great aim? Land on a supply drop to contest for extra loot"
           }
         ]
       }

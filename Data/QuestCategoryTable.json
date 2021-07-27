@@ -592,6 +592,14 @@
           "SourceString": "Test"
         },
         "SortPriority": 0
+      },
+      "LTE_Fortnite_Bday_Generic": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Fortnite_Bday_Generic_Name",
+          "SourceString": "Event: Fortnite Birthday Celebration"
+        },
+        "SortPriority": 26
       }
     }
   }

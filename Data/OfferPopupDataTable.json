@@ -764,6 +764,55 @@
           "Key": "552185A4497724D071A0CC95276642EE",
           "SourceString": "Show off your equipped banner! Eliminations are marked with tallies!"
         }
+      },
+      "bluecheeseinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5850C84F4C5D6496F322969079662006",
+          "SourceString": "Outfit gathers electricity with each elimination! Zoey will pop out of the <text color=\"FFFFFFFF\">ZOEY TROPHY</> back bling to celebrate each elimination!"
+        }
+      },
+      "pliantoutfitlong": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "645D47514F508F76EF52B68F53F58C14",
+          "SourceString": "Show off any of your wraps on this outfit! Pick a color for your hair and clothing accents to complete your look! Includes Pixellator Wrap!"
+        }
+      },
+      "pliantoutfitshort": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FB8DB2664B1FE93881928C871F67FE08",
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes Pixellator Wrap!"
+        }
+      },
+      "pliantgearbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AF80345C41033D99BFB2BB9CB1813FEF",
+          "SourceString": "Show off any of your wraps on these items!"
+        }
+      },
+      "pliantbackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0C72BFF64E08B7F9B1C4338661A9808B",
+          "SourceString": "Show off any of your wraps on this Back Bling!"
+        }
+      },
+      "pliantpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CD9F29C54A1B8A425B2BE68753E5CA36",
+          "SourceString": "Show off any of your wraps on this Pickaxe!"
+        }
+      },
+      "musicreactinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C3E5222744966E36F63963AD14BB224D",
+          "SourceString": "Reactive to music!"
+        }
       }
     }
   }
