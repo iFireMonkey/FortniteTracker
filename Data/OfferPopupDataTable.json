@@ -813,6 +813,74 @@
           "Key": "C3E5222744966E36F63963AD14BB224D",
           "SourceString": "Reactive to music!"
         }
+      },
+      "progressivecrewlegacy": {
+        "FormatedText": {
+          "CultureInvariantString": null
+        }
+      },
+      "outfitlightmusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A931E3E74B01220D11E7D88C73D6D7DF",
+          "SourceString": "Outfit lights up and changes colors in response to music!"
+        }
+      },
+      "outfitslightmusicbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2D11FED94C54EF90FB63459F19231EB9",
+          "SourceString": "Outfits light up and change colors in response to music. Bundle includes loading screen!"
+        }
+      },
+      "somanystyles": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3DAA26034995C32876D6F0BBC6B0EEDE",
+          "SourceString": "Over 4,000 unique style combinations!"
+        }
+      },
+      "builtindesc1": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "81274B3042EEC8CC2C9A6298250E36BB",
+          "SourceString": "TBD"
+        }
+      },
+      "builtindesc2": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "55CA4EC1403006331B9A3B9C80A25E9B",
+          "SourceString": "TBD"
+        }
+      },
+      "builtinbundleloadingscreen": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AAD5E0F349F95C1872C0A4ADBD535A6E",
+          "SourceString": "Outfits include built-in emotes. Bundle includes loading screen!"
+        }
+      },
+      "guffiebackbling": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "770D174C4486AE1E74906E9723A0C845",
+          "SourceString": "<text color=\"FFFFFFFF\">GUFFIE STUFFIE</> reacts happily or angrily to your gameplay!"
+        }
+      },
+      "promodesc5": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "85CBD80B43E2F757373E778D06521424",
+          "SourceString": "TBD"
+        }
+      },
+      "bundlefoursprays": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6FA36431462D563BC66AF78AC55CDC16",
+          "SourceString": "Bundle includes four sprays!"
+        }
       }
     }
   }

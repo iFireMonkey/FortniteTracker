@@ -7166,7 +7166,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.TreeLion_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Ferrari"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7205,7 +7205,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.JobHeat_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Quest Summer Ever"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7232,6 +7232,84 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BoldGreen_DisplayName",
           "SourceString": "Fearless Fairway"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BarrelGrudge": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BarrelGrudge"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BarrelGrudge_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RotateRatio": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RotateRatio"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RotateRatio_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WarmExoticHeat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WarmExoticHeat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WarmExoticHeat_DisplayName",
+          "SourceString": "Hot Alien Summer"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RareEvoke": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RareEvoke"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RareEvoke_DisplayName",
+          "SourceString": "Task Force X"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HitStart": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HitStart"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HitStart_DisplayName",
+          "SourceString": "Press Play"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VeryFossil": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.VeryFossil"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VeryFossil_DisplayName",
+          "SourceString": "Totally Ossified"
         },
         "Description": {
           "CultureInvariantString": null

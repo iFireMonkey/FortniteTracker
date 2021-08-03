@@ -4411,6 +4411,227 @@
             "SourceString": "Great aim? Land on a supply drop to contest for extra loot"
           }
         ]
+      },
+      "Playlist_ShowdownTournament_Low_Duos": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "797D60AC41AA1A7F2BEAB3BD4390AA8E",
+          "SourceString": "One Shot"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "B885535A452986DB5B6867A25C079428",
+            "SourceString": "Low Health Means One Shot and You’re Done.     "
+          },
+          {
+            "Namespace": "",
+            "Key": "2B720D904A78206494B994AF7407DDCE",
+            "SourceString": "Low Gravity Means Higher Jumps."
+          },
+          {
+            "Namespace": "",
+            "Key": "DBA5A2E94CDBE3F0497695930F2FC5EB",
+            "SourceString": "No Fall Damage."
+          },
+          {
+            "Namespace": "",
+            "Key": "CEDDB446414A6FA0AD44FEB06A83E88C",
+            "SourceString": "Snipers Only."
+          }
+        ]
+      },
+      "Playlist_ShowdownTournament_BuilderBase_Solo": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "81138CBD4041EBD516C13AB94DAD91FE",
+          "SourceString": "Super Knockback"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "902D2F57495FB3680983DF912D5EE59E",
+            "SourceString": "Jump around with no fall damage"
+          },
+          {
+            "Namespace": "",
+            "Key": "53613F3F44BED0CFFAC61E95B372C455",
+            "SourceString": "Emote to heal yourself"
+          },
+          {
+            "Namespace": "",
+            "Key": "7B63861147E9BCB9E3DE5C89D4E7240F",
+            "SourceString": "Find a special surprise in supply drops"
+          }
+        ]
+      },
+      "Playlist_Madman_Squads": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
+      },
+      "Playlist_Madman_Squads_8": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
+      },
+      "Playlist_Madman_Squads_24": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
+      },
+      "Playlist_Madman_Trios_12": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
+      },
+      "Playlist_Madman_Solo": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
+      },
+      "Playlist_Madman_Duos": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
+      },
+      "Playlist_Madman_Trios": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "0A7DEAE542D7AD9DDBDE1DB5766773F9",
+          "SourceString": "Team Brawl"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "DAAFC56B419401E848BE79991FEB25DA",
+            "SourceString": "Earn eliminations for your team"
+          },
+          {
+            "Namespace": "",
+            "Key": "14EA25F043E5329D3C6187BEA23AE998",
+            "SourceString": "Get a random loadout with each respawn"
+          },
+          {
+            "Namespace": "",
+            "Key": "3AA954A544B5F1CBD26C04B5C36D89C7",
+            "SourceString": "Eliminated players drop a Chug Splash"
+          }
+        ]
       }
     }
   }
