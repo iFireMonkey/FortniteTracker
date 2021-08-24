@@ -4,8 +4,8 @@
     "Name": "QuestCategoryTable",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "FortCategoryTableRow:Class",
-        "ObjectPath": 0
+        "ObjectName": "Class FortCategoryTableRow",
+        "ObjectPath": "/Script/FortniteGame"
       }
     },
     "Rows": {
@@ -56,6 +56,14 @@
           "SourceString": "Founder Quests"
         },
         "SortPriority": 95
+      },
+      "StarterBundleQuests07": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests07_Name",
+          "SourceString": "Lars Starter Bundle"
+        },
+        "SortPriority": 81
       },
       "StarterBundleQuests06": {
         "Name": {
@@ -377,6 +385,14 @@
         },
         "SortPriority": 27
       },
+      "LTE_Fortnite_Bday_Generic": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Fortnite_Bday_Generic_Name",
+          "SourceString": "Event: Fortnite Birthday Celebration"
+        },
+        "SortPriority": 26
+      },
       "LTE_Fortnite_Bday_2": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -592,14 +608,6 @@
           "SourceString": "Test"
         },
         "SortPriority": 0
-      },
-      "LTE_Fortnite_Bday_Generic": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "LTE_Fortnite_Bday_Generic_Name",
-          "SourceString": "Event: Fortnite Birthday Celebration"
-        },
-        "SortPriority": 26
       }
     }
   }

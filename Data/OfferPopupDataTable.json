@@ -4,8 +4,8 @@
     "Name": "OfferPopupDataTable",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "OfferPopUpData:Class",
-        "ObjectPath": 0
+        "ObjectName": "Class OfferPopUpData",
+        "ObjectPath": "/Script/FortniteUI"
       }
     },
     "Rows": {
@@ -880,6 +880,62 @@
           "Namespace": "",
           "Key": "6FA36431462D563BC66AF78AC55CDC16",
           "SourceString": "Bundle includes four sprays!"
+        }
+      },
+      "syncedemoteinvite": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E0DABA804A6A84528F2166836B84BD55",
+          "SourceString": "Synced emote: Invite others to play along!"
+        }
+      },
+      "glassbreaks": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BEBCFD8B48BAC551239D87BB093C26AE",
+          "SourceString": "Glass breaks when striking weak points!"
+        }
+      },
+      "promodesc6": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "951CF44F48B8A64819CA779A9FCDA6F8",
+          "SourceString": "TBD"
+        }
+      },
+      "reactstoaudio": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "44A2C15A4EA99108046F07851288AD3F",
+          "SourceString": "Reacts to audio!"
+        }
+      },
+      "boundlessdisabledcomp": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "700DD81D421BCAEAFC917084A7426C0B",
+          "SourceString": "Create your own hero! Over a dozen customizable components! Note: This outfit is currently disabled from competitive playlists. "
+        }
+      },
+      "tiedyedesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3D82A1EB47A56BCFD961E78E91C24FC8",
+          "SourceString": "Mix and Match! Pick up to 3 different colors, 12 different patterns!"
+        }
+      },
+      "promodesc7": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9460C382428FF28924DA12AE9A1C21C6",
+          "SourceString": "TBD"
+        }
+      },
+      "reactiveoutfitcolorelims": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C43D39834460511CD55E34886ACB3258",
+          "SourceString": "Reactive Outfit: Cycle colors with eliminations!"
         }
       }
     }

@@ -4,8 +4,8 @@
     "Name": "QuestRewards",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "FortQuestRewardTableRow:Class",
-        "ObjectPath": 0
+        "ObjectName": "Class FortQuestRewardTableRow",
+        "ObjectPath": "/Script/FortniteGame"
       }
     },
     "Rows": {
@@ -27029,38 +27029,11 @@
       },
       "S11_Fetch_Quest_B7_001": {
         "QuestTemplateId": "Quest:s11_fetch_quest_b7",
-        "TemplateId": "Hero:hid_outlander_zoneharvesthw_sr_t01",
+        "TemplateId": "Hero:hid_ninja_019_sr_t01",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
-        "Selectable": true,
-        "Exportable": true
-      },
-      "S11_Fetch_Quest_B7_002": {
-        "QuestTemplateId": "Quest:s11_fetch_quest_b7",
-        "TemplateId": "Hero:hid_constructor_basehyperhw_sr_t01",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": true,
-        "Exportable": true
-      },
-      "S11_Fetch_Quest_B7_003": {
-        "QuestTemplateId": "Quest:s11_fetch_quest_b7",
-        "TemplateId": "Hero:hid_commando_gunheadshothw_rs01_sr_t01",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": true,
-        "Exportable": true
-      },
-      "S11_Fetch_Quest_B7_004": {
-        "QuestTemplateId": "Quest:s11_fetch_quest_b7",
-        "TemplateId": "Hero:hid_ninja_starsrainhw_sr_t01",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": true,
+        "Selectable": false,
         "Exportable": true
       },
       "S11_Fetch_Quest_C2_001": {
@@ -27119,7 +27092,7 @@
       },
       "S11_Fetch_Quest_C6_001": {
         "QuestTemplateId": "Quest:s11_fetch_quest_c6",
-        "TemplateId": "Schematic:sid_edged_scythe_blackmetal_sr_ore_t01",
+        "TemplateId": "Hero:hid_commando_myth02_sr_t01",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
@@ -47506,6 +47479,132 @@
         "QuestTemplateId": "Quest:winterquest_2018_savesurvivors",
         "TemplateId": "AccountResource:campaign_event_currency",
         "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_01_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_01",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_02_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_02",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_03_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_03",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_04_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_04",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_getrewards",
+        "TemplateId": "Hero:hid_constructor_040_lars_vr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_getrewards",
+        "TemplateId": "Quest:stwstarterbundle07_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_getrewards",
+        "TemplateId": "Quest:stwstarterbundle07_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_getrewards",
+        "TemplateId": "Quest:stwstarterbundle07_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_getrewards",
+        "TemplateId": "Quest:stwstarterbundle07_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle07_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle07_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle07",
+        "Quantity": 1,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,

@@ -4,8 +4,8 @@
     "Name": "CosmeticSets",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "CosmeticSetDataRow:Class",
-        "ObjectPath": 0
+        "ObjectName": "Class CosmeticSetDataRow",
+        "ObjectPath": "/Script/FortniteGame"
       }
     },
     "Rows": {
@@ -7244,7 +7244,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BarrelGrudge_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Free Guy"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7257,7 +7257,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.RotateRatio_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Ariana Grande"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7310,6 +7310,149 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.VeryFossil_DisplayName",
           "SourceString": "Totally Ossified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RichFlood": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RichFlood"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RichFlood_DisplayName",
+          "SourceString": "Champion of Themyscira"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BendAct": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BendAct"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BendAct_DisplayName",
+          "SourceString": "Set_05"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FlockInsure": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FlockInsure"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FlockInsure_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ActBorder": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ActBorder"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ActBorder_DisplayName",
+          "SourceString": "Event Horizon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Sketchy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Sketchy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Sketchy_DisplayName",
+          "SourceString": "Set_03"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HalfGuide": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HalfGuide"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HalfGuide_DisplayName",
+          "SourceString": "Quarter Jockey"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BreachDog": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BreachDog"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BreachDog_DisplayName",
+          "SourceString": "Set_04"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HoundGroup": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HoundGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HoundGroup_DisplayName",
+          "SourceString": "Fox Clan"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SloppyMortar": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SloppyMortar"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SloppyMortar_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GoingWayOff": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GoingWayOff"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoingWayOff_DisplayName",
+          "SourceString": "Get Far Out"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MetalSheep": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MetalSheep"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MetalSheep_DisplayName",
+          "SourceString": "Steel Wool"
         },
         "Description": {
           "CultureInvariantString": null
