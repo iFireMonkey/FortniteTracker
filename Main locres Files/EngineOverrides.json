@@ -524,7 +524,9 @@
   },
   "MessageDialog": {
     "UpdateMacOSX_Body": "Please update to the latest version of macOS for best performance and stability.",
+    "VideoCardDriverRHIIssueReport": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease update to the latest driver version or switch to a different rendering API.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease update to the latest driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "LatestVideoCardDriverRHIIssueReport": "The latest version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install the recommended driver version or switch to a different rendering API.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "LatestVideoCardDriverIssueReport": "The latest version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "UpdateMacOSX_Title": "Update macOS",
     "TitleVideoCardDriverIssue": "WARNING: Known issues with graphics driver",
