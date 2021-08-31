@@ -4,8 +4,8 @@
     "Name": "CosmeticUserFacingTags",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "CosmeticMarkupTagDataRow:Class",
-        "ObjectPath": 0
+        "ObjectName": "Class CosmeticMarkupTagDataRow",
+        "ObjectPath": "/Script/FortniteGame"
       }
     },
     "Rows": {
@@ -66,21 +66,6 @@
         "HelpText": {
           "Namespace": "CosmeticUserFacingTags",
           "Key": "Cosmetics.UserFacingFlags.Reactive_HelpText",
-          "SourceString": "This item visually changes during a match based on in-game performance"
-        }
-      },
-      "Cosmetics.UserFacingFlags.Reactive.WeaponFire": {
-        "Tag": {
-          "TagName": "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
-        },
-        "DisplayName": {
-          "Namespace": "",
-          "Key": "F55D691A473491DAAB05A9BE1900F209",
-          "SourceString": "Reactive"
-        },
-        "HelpText": {
-          "Namespace": "",
-          "Key": "0AE43F484F55E33FF92A2CBA5DF9FF8F",
           "SourceString": "This item visually changes during a match based on in-game performance"
         }
       },
@@ -181,7 +166,7 @@
         "DisplayName": {
           "Namespace": "CosmeticUserFacingTags",
           "Key": "Cosmetics.UserFacingFlags.BuiltInEmote_DisplayName",
-          "SourceString": "Built-in Emote"
+          "SourceString": "Built-in"
         },
         "HelpText": {
           "Namespace": "CosmeticUserFacingTags",
@@ -204,19 +189,19 @@
           "SourceString": "This item can be synced with other players"
         }
       },
-      "Cosmetics.UserFacingFlags.Reactive.TimeOfDay": {
+      "Cosmetics.UserFacingFlags.Transform": {
         "Tag": {
-          "TagName": "Cosmetics.UserFacingFlags.Reactive.TimeOfDay"
+          "TagName": "Cosmetics.UserFacingFlags.Transform"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "F55D691A473491DAAB05A9BE1900F209",
-          "SourceString": "Reactive"
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Transform_DisplayName",
+          "SourceString": "Transformation"
         },
         "HelpText": {
-          "Namespace": "",
-          "Key": "0AE43F484F55E33FF92A2CBA5DF9FF8F",
-          "SourceString": "This item visually changes during a match based on in-game performance"
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "Cosmetics.UserFacingFlags.Transform_HelpText",
+          "SourceString": "This item has a tied in emote that alters outfit"
         }
       }
     }

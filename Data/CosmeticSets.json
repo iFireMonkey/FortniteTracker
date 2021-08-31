@@ -7335,7 +7335,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BendAct_DisplayName",
-          "SourceString": "Set_05"
+          "SourceString": "Morty, C-137"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7348,7 +7348,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FlockInsure_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "J Balvin"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7374,7 +7374,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.Sketchy_DisplayName",
-          "SourceString": "Set_03"
+          "SourceString": "Janky"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7387,7 +7387,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.HalfGuide_DisplayName",
-          "SourceString": "Quarter Jockey"
+          "SourceString": "1337 Fleet"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7400,7 +7400,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BreachDog_DisplayName",
-          "SourceString": "Set_04"
+          "SourceString": "The First Shadows"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7426,7 +7426,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SloppyMortar_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Loose Cannon"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7453,6 +7453,84 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.MetalSheep_DisplayName",
           "SourceString": "Steel Wool"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CrewTradition": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CrewTradition"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrewTradition_DisplayName",
+          "SourceString": "The Fortnite Crew Legacy"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FightingKing": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FightingKing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FightingKing_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DroppedSun": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DroppedSun"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DroppedSun_DisplayName",
+          "SourceString": "Fallen Light"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VeganVigilance": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.VeganVigilance"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VeganVigilance_DisplayName",
+          "SourceString": "Plant Based Patrol"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DrabGoop": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DrabGoop"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DrabGoop_DisplayName",
+          "SourceString": "Gray Matter"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OpenSkim": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OpenSkim"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OpenSkim_DisplayName",
+          "SourceString": "Free Skate"
         },
         "Description": {
           "CultureInvariantString": null

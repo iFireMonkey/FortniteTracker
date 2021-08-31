@@ -816,7 +816,9 @@
       },
       "progressivecrewlegacy": {
         "FormatedText": {
-          "CultureInvariantString": null
+          "Namespace": "",
+          "Key": "F64D7C4E4EB6FAD56BC5FE92DCA39861",
+          "SourceString": "Unlock a new stage for the Crew Legacy Back Bling or Pickaxe every month you are an active subscriber, up to 6 stages total!"
         }
       },
       "outfitlightmusic": {
@@ -844,14 +846,14 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "81274B3042EEC8CC2C9A6298250E36BB",
-          "SourceString": "TBD"
+          "SourceString": "Outfit includes the built-in Flash Kick emote!"
         }
       },
       "builtindesc2": {
         "FormatedText": {
           "Namespace": "",
           "Key": "55CA4EC1403006331B9A3B9C80A25E9B",
-          "SourceString": "TBD"
+          "SourceString": "Outfit includes the built-in Spiral Arrow emote!"
         }
       },
       "builtinbundleloadingscreen": {
@@ -872,7 +874,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "85CBD80B43E2F757373E778D06521424",
-          "SourceString": "TBD"
+          "SourceString": "Attend a Rift Tour show from August 6 to August 8, and unlock the exclusive Neon Party Trooper style for Party Trooper!"
         }
       },
       "bundlefoursprays": {
@@ -882,60 +884,137 @@
           "SourceString": "Bundle includes four sprays!"
         }
       },
+      "rollerskateinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "26A38FD64AF18A1B0C312990DCEAC5EA",
+          "SourceString": "Outfit includes the built-in <text color=\"FFFFFFFF\">ROLLER VIBES</> traversal emote! Includes free loading screen!"
+        }
+      },
+      "floraxeinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6761491740D6EB6161F0359DF43E073F",
+          "SourceString": "<text color=\"FFFFFFFF\">PLUXURIAN FLORAXE</> morphs onto <text color=\"FFFFFFFF\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
+        }
+      },
+      "fncsc2s7inspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FF8D143B49BAE81C9F647F84C48E0D2A",
+          "SourceString": "FNCS Chapter 2 Season 7 Finals Exclusive!"
+        }
+      },
+      "galaxybackpackinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BED7870F4964C39A8AF5CAAC4D77ED73",
+          "SourceString": "<text color=\"FFFFFFFF\">HANDS OF THE GALAXY</> back bling is reactive to eliminations!"
+        }
+      },
       "syncedemoteinvite": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "E0DABA804A6A84528F2166836B84BD55",
+          "Key": "091A022547B7C91FC992638C22A47D39",
           "SourceString": "Synced emote: Invite others to play along!"
         }
       },
       "glassbreaks": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "BEBCFD8B48BAC551239D87BB093C26AE",
+          "Key": "47082E5F47AAAAE0F03510899E44FEC7",
           "SourceString": "Glass breaks when striking weak points!"
-        }
-      },
-      "promodesc6": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "951CF44F48B8A64819CA779A9FCDA6F8",
-          "SourceString": "TBD"
         }
       },
       "reactstoaudio": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "44A2C15A4EA99108046F07851288AD3F",
+          "Key": "FCF2BE1E4EC214628F939AA2E7FA5FEB",
           "SourceString": "Reacts to audio!"
         }
       },
       "boundlessdisabledcomp": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "700DD81D421BCAEAFC917084A7426C0B",
+          "Key": "4C7254C84D6EA042E1CB8A90EE5B3CC9",
           "SourceString": "Create your own hero! Over a dozen customizable components! Note: This outfit is currently disabled from competitive playlists. "
         }
       },
       "tiedyedesc": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "3D82A1EB47A56BCFD961E78E91C24FC8",
-          "SourceString": "Mix and Match! Pick up to 3 different colors, 12 different patterns!"
+          "Key": "AEF71B2743372AEBCE05E58277E3FCF8",
+          "SourceString": "Mix and Match! Pick patterns and colors on outfits. Pick 3 different colors on Back Bling and Pickaxe!"
         }
       },
       "promodesc7": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "9460C382428FF28924DA12AE9A1C21C6",
-          "SourceString": "TBD"
+          "Key": "FF2BC53E43570626B691F9AC377401D7",
+          "SourceString": "Invite others to play along with the Schwifty Time Emote! Glass breaks when striking weak points with the Space Snake Pickaxe!"
+        }
+      },
+      "promodesc6": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0F4B6D224F107CB4617E9B9921B0CC2E",
+          "SourceString": "Unsheathe the included Pickaxe from the Vida Real Back Bling when both are equipped!"
         }
       },
       "reactiveoutfitcolorelims": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "C43D39834460511CD55E34886ACB3258",
+          "Key": "4D4EAA2741B822FD9048F1A66D07A49C",
           "SourceString": "Reactive Outfit: Cycle colors with eliminations!"
+        }
+      },
+      "tiedyedescnew": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4A0E1B994DDC6C0593E930BD22740BD1",
+          "SourceString": "Combine three color choices in one of six different patterns to customize your tie-dye!"
+        }
+      },
+      "tiedyepickaxeinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "93DC86C8424679385C27179D6AF485CF",
+          "SourceString": "Pick up to 3 different colors!"
+        }
+      },
+      "monarchoutfitinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "33DBD21645B0792D4FD1A58E3B9E4CF7",
+          "SourceString": "Outfit includes the built-in Bracelets of Hephaestus emote!"
+        }
+      },
+      "emoteandloadingscreen": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B3D43A7C4621586BCC54EC8A5C82B48D",
+          "SourceString": "Outfit includes built-in emote. Bundle includes loading screen!"
+        }
+      },
+      "majestygearbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FCD2247942AB182BC664F689D17363C3",
+          "SourceString": "The Lion and Wingspan become more gold as you complete quests! Unlock a custom goldness slider!"
+        }
+      },
+      "majestyoutfitbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "50B0BB8B44FE90465C7A099803C84A68",
+          "SourceString": "<text color=\"FFFFFFFF\">LEBRON JAMES</> outfit and <text color=\"FFFFFFFF\">KING'S BLING</> become more gold as you complete quests! Unlock a custom goldness slider!"
+        }
+      },
+      "tattooreactivity": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3400F2A94A986F8F557C7E8D84E2851D",
+          "SourceString": "Tattoos Illuminate when opening Chests!"
         }
       }
     }

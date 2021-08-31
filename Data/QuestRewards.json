@@ -12600,6 +12600,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "Fall_Seasonal_Monster_10_003": {
+        "QuestTemplateId": "Quest:fall_seasonal_monster_10",
+        "TemplateId": "AccountResource:reagent_alteration_gameplay_generic",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "Fall_Seasonal_Monster_11_001": {
         "QuestTemplateId": "Quest:fall_seasonal_monster_11",
         "TemplateId": "Quest:fall_seasonal_monster_12",
@@ -12820,6 +12829,15 @@
         "QuestTemplateId": "Quest:fall_seasonal_weapon_10",
         "TemplateId": "AccountResource:phoenixxp_reward",
         "Quantity": 12275,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fall_Seasonal_Weapon_10_003": {
+        "QuestTemplateId": "Quest:fall_seasonal_weapon_10",
+        "TemplateId": "AccountResource:reagent_alteration_gameplay_generic",
+        "Quantity": 1,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22206,7 +22224,7 @@
       "PhoenixSeasonal_Mission_02_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_02",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 2175,
+        "Quantity": 2650,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22224,7 +22242,7 @@
       "PhoenixSeasonal_Mission_03_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_03",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 2650,
+        "Quantity": 3200,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22242,7 +22260,7 @@
       "PhoenixSeasonal_Mission_04_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_04",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 3200,
+        "Quantity": 3875,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22296,7 +22314,7 @@
       "PhoenixSeasonal_Mission_07_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_07",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 5700,
+        "Quantity": 6900,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22314,7 +22332,7 @@
       "PhoenixSeasonal_Mission_08_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_08",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 6900,
+        "Quantity": 8350,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22332,7 +22350,7 @@
       "PhoenixSeasonal_Mission_09_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_09",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 8350,
+        "Quantity": 10125,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22350,7 +22368,7 @@
       "PhoenixSeasonal_Mission_10_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_10",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 10125,
+        "Quantity": 12275,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22368,7 +22386,7 @@
       "PhoenixSeasonal_Mission_11_002": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_11",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 12275,
+        "Quantity": 14850,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -22386,7 +22404,7 @@
       "PhoenixSeasonal_Mission_12_001": {
         "QuestTemplateId": "Quest:phoenixseasonal_mission_12",
         "TemplateId": "AccountResource:phoenixxp_reward",
-        "Quantity": 14850,
+        "Quantity": 18000,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -46125,6 +46143,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "Winter_Seasonal_Monster_10_003": {
+        "QuestTemplateId": "Quest:winter_seasonal_monster_10",
+        "TemplateId": "AccountResource:reagent_alteration_gameplay_generic",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "Winter_Seasonal_Monster_11_001": {
         "QuestTemplateId": "Quest:winter_seasonal_monster_11",
         "TemplateId": "Quest:winter_seasonal_monster_12",
@@ -46345,6 +46372,15 @@
         "QuestTemplateId": "Quest:winter_seasonal_weapon_10",
         "TemplateId": "AccountResource:phoenixxp_reward",
         "Quantity": 12275,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Winter_Seasonal_Weapon_10_003": {
+        "QuestTemplateId": "Quest:winter_seasonal_weapon_10",
+        "TemplateId": "AccountResource:reagent_alteration_gameplay_generic",
+        "Quantity": 1,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
