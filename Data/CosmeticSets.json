@@ -7478,7 +7478,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FightingKing_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Master of Kung Fu"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7531,6 +7531,136 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.OpenSkim_DisplayName",
           "SourceString": "Free Skate"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FrostedOats": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FrostedOats"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FrostedOats_DisplayName",
+          "SourceString": "Unicorn Flakes!!!"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Cosmonaut": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Cosmonaut"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Cosmonaut_DisplayName",
+          "SourceString": "Astronaut P-14"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RebelFish": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RebelFish"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RebelFish_DisplayName",
+          "SourceString": "Hagiri"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SliverOperator": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SliverOperator"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SliverOperator_DisplayName",
+          "SourceString": "Splinter Agent"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AsideTraveler": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AsideTraveler"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AsideTraveler_DisplayName",
+          "SourceString": "Sidewayfarer"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Synergy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Synergy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Synergy_DisplayName",
+          "SourceString": "Symbiotes"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FourthYear": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FourthYear"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FourthYear_DisplayName",
+          "SourceString": "Set_03"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Squared": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Squared"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Squared_DisplayName",
+          "SourceString": "Cubed"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShellState": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ShellState"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ShellState_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PeakBet": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PeakBet"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PeakBet_DisplayName",
+          "SourceString": "Set_01"
         },
         "Description": {
           "CultureInvariantString": null

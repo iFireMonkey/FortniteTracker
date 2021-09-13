@@ -783,7 +783,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "FB8DB2664B1FE93881928C871F67FE08",
-          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes Pixellator Wrap!"
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents. Includes Pixellator Wrap!"
         }
       },
       "pliantgearbundle": {
@@ -853,7 +853,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "55CA4EC1403006331B9A3B9C80A25E9B",
-          "SourceString": "Outfit includes the built-in Spiral Arrow emote!"
+          "SourceString": "Outfit includes the built-in Cannon Spike emote!"
         }
       },
       "builtinbundleloadingscreen": {
@@ -958,7 +958,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "0F4B6D224F107CB4617E9B9921B0CC2E",
-          "SourceString": "Unsheathe the included Pickaxe from the Vida Real Back Bling when both are equipped!"
+          "SourceString": "Unsheathe the included Pickaxe from the Real Back Bling when both are equipped!"
         }
       },
       "reactiveoutfitcolorelims": {
@@ -1015,6 +1015,41 @@
           "Namespace": "",
           "Key": "3400F2A94A986F8F557C7E8D84E2851D",
           "SourceString": "Tattoos Illuminate when opening Chests!"
+        }
+      },
+      "reactiveoutfitchangescolorelims": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4A48220240540F61241C35A16FDD2037",
+          "SourceString": "Reactive Outfit: Outfit changes color with eliminations!"
+        }
+      },
+      "promodesc8": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F67A19D84FBA772395FA4E985E4A0CDA",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc9": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5D4866A340A01E091B09388A60B95F9E",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc10": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "85268EF0414576DF90BF17832A71DCFD",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc11": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "595B166F416598C86F7F1B92508D7513",
+          "SourceString": "TBD"
         }
       }
     }

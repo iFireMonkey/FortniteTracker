@@ -19377,6 +19377,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "OutpostQuest_T1_L1_007": {
+        "QuestTemplateId": "Quest:outpostquest_t1_l1",
+        "TemplateId": "Token:campaigntutorialcomplete",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "OutpostQuest_T1_L10_001": {
         "QuestTemplateId": "Quest:outpostquest_t1_l10",
         "TemplateId": "CampaignHeroLoadout:defaultloadout",
