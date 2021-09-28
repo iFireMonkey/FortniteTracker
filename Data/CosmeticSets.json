@@ -7621,7 +7621,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FourthYear_DisplayName",
-          "SourceString": "Set_03"
+          "SourceString": "B-D4Y"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7647,7 +7647,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.ShellState_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Balenciaga Fit"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7660,6 +7660,58 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.PeakBet_DisplayName",
+          "SourceString": "Monopoly Tokens"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MarrowCheck": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MarrowCheck"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MarrowCheck_DisplayName",
+          "SourceString": "Bone Scan"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MoonBark": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MoonBark"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MoonBark_DisplayName",
+          "SourceString": "Wolfsbane"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ContraryPlace": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ContraryPlace"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ContraryPlace_DisplayName",
+          "SourceString": "Fortnite's Monster"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StampArtist": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StampArtist"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StampArtist_DisplayName",
           "SourceString": "Set_01"
         },
         "Description": {

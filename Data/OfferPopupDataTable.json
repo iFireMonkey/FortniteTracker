@@ -748,7 +748,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "015772FA455FFEB69600B68871453E06",
-          "SourceString": "Shelldon hides in his shell when you take damage!"
+          "SourceString": "Shelly hides in his shell when you take damage!"
         }
       },
       "goldwrapeliminspect": {
@@ -895,7 +895,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "6761491740D6EB6161F0359DF43E073F",
-          "SourceString": "<text color=\"FFFFFFFF\">PLUXURIAN FLORAXE</> morphs onto <text color=\"FFFFFFFF\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
+          "SourceString": "<text color=\\\"FFFFFFFF\\\">PLUXARIAN FLORAXE</> morphs onto <text color=\\\"FFFFFFFF\\\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
         }
       },
       "fncsc2s7inspect": {
@@ -1014,7 +1014,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "3400F2A94A986F8F557C7E8D84E2851D",
-          "SourceString": "Tattoos Illuminate when opening Chests!"
+          "SourceString": "Tattoos illuminate when opening Chests!"
         }
       },
       "reactiveoutfitchangescolorelims": {
@@ -1028,28 +1028,49 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "F67A19D84FBA772395FA4E985E4A0CDA",
-          "SourceString": "TBD"
+          "SourceString": "Unchained Ramirez outfit changes color with eliminations!"
         }
       },
       "promodesc9": {
         "FormatedText": {
           "Namespace": "",
           "Key": "5D4866A340A01E091B09388A60B95F9E",
-          "SourceString": "TBD"
+          "SourceString": "Fashion Banshee outfit changes color with eliminations!"
         }
       },
       "promodesc10": {
         "FormatedText": {
           "Namespace": "",
           "Key": "85268EF0414576DF90BF17832A71DCFD",
-          "SourceString": "TBD"
+          "SourceString": "Transform with the built-in emote! Only Eddie Brock can wield the included Symbiote Scythe."
         }
       },
       "promodesc11": {
         "FormatedText": {
           "Namespace": "",
           "Key": "595B166F416598C86F7F1B92508D7513",
-          "SourceString": "TBD"
+          "SourceString": "Bundle includes Emoticon! Only Venom can use Symbiote Slasher, and only Eddie Brock can use Symbiote Scythe. Eddie Brock transforms with emote!"
+        }
+      },
+      "reactivelightningelims": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C59CED814606D584FA64338C33794EA3",
+          "SourceString": "Reactive Outfit: Lightning effects increase with eliminations!"
+        }
+      },
+      "werewolffemalepickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C566E75448A3109C5397319A454F8BE5",
+          "SourceString": "Pull the Might & Malice dual-wield Pickaxe off the Wolfmoon Crest Back Bling!"
+        }
+      },
+      "reactiveilluminatesweakpoints": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2E2EAD0A482B2432A2E95DAC95894A48",
+          "SourceString": "Reactive Pickaxe: Illuminates when striking weak points!"
         }
       }
     }
