@@ -47654,6 +47654,159 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_A_001": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_a",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_A_002": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_a",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_A_003": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_a",
+        "TemplateId": "Quest:starlightquest_complete_d5science_b",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D1_A_005": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d1_a",
+        "TemplateId": "Quest:starlightquest_complete_d5science_a",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D1_A_006": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d1_a",
+        "TemplateId": "Quest:starlightquest_complete_d5science_hard",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_B_001": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_b",
+        "TemplateId": "Hero:hid_commando_045_chaos_agent_sr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_B_002": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_b",
+        "TemplateId": "Quest:starlightquest_complete_d5science_c",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_C_001": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_c",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_C_002": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_c",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_C_003": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_c",
+        "TemplateId": "BannerToken:bannertoken_stw007_starlightscience",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D5Science_001": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d5science",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D5Science_002": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d5science",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 150,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Hidden_Complete_D1_A_001": {
+        "QuestTemplateId": "Quest:starlightquest_hidden_complete_d1_a",
+        "TemplateId": "Quest:starlightquest_complete_d5science_a",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Hidden_Complete_D1_A_002": {
+        "QuestTemplateId": "Quest:starlightquest_hidden_complete_d1_a",
+        "TemplateId": "Quest:starlightquest_complete_d5science_hard",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_Hard_001": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_hard",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_Hard_002": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_hard",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Complete_D5Science_Hard_003": {
+        "QuestTemplateId": "Quest:starlightquest_complete_d5science_hard",
+        "TemplateId": "AthenaDance:spid_323_sciencedungeonstw",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

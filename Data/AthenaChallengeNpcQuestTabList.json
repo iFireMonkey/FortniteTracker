@@ -90,8 +90,6 @@
       "ObjectPath": "/Script/CoreUObject"
     },
     "ClassConfigName": "Engine",
-    "ClassGeneratedBy": null,
-    "Interfaces": [],
     "bCooked": true,
     "ClassDefaultObject": {
       "ObjectName": "AthenaChallengeNpcQuestTabList_C Default__AthenaChallengeNpcQuestTabList_C",
@@ -104,7 +102,7 @@
     "Properties": {
       "TabButtonClass": {
         "ObjectName": "WidgetBlueprintGeneratedClass BP_AthenaMapChallengeCategoryTabButton_C",
-        "ObjectPath": "/Game/Athena/HUD/MiniMap/BP_AthenaMapChallengeCategoryTabButton.5"
+        "ObjectPath": "/Game/Athena/HUD/MiniMap/BP_AthenaMapChallengeCategoryTabButton.6"
       },
       "DividerWidgetClass": {
         "ObjectName": "WidgetBlueprintGeneratedClass BP_AthenaMapChallengeCategoryTabDivider_C",

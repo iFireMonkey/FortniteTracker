@@ -1072,6 +1072,48 @@
           "Key": "2E2EAD0A482B2432A2E95DAC95894A48",
           "SourceString": "Reactive Pickaxe: Illuminates when striking weak points!"
         }
+      },
+      "pickmaskpatterncolors": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BAE0C21C429D8BE5CC8DF382808ADA24",
+          "SourceString": "Pick a mask, pattern, and three colors to customize your outfit!"
+        }
+      },
+      "perfectproppickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E40F84134BD43D84698828880393EE4F",
+          "SourceString": "Pick custom colors and patterns!"
+        }
+      },
+      "transformbuiltinemote": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "41924CAE4F67D77FADF1D495335006B2",
+          "SourceString": "Transform with the built-in emote!"
+        }
+      },
+      "transformbuiltinaccessories": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "28617EDB4E9B72EBB5262D8805985A0D",
+          "SourceString": "Transform with the built-in emote! Accessories also transform when equipped!"
+        }
+      },
+      "gummyfishstickinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4268AD8343AAAE315718628CB5B9AF4C",
+          "SourceString": "Pick colors to customize Gummy Fishstick!"
+        }
+      },
+      "promodesc12": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B5356A2D40D8533165878DA322778499",
+          "SourceString": "TBD"
+        }
       }
     }
   }
