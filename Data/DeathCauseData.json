@@ -4180,6 +4180,35 @@
             }
           ],
           "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Zig Zag Scholar Ghoul",
+          "DeathCauseTag": {
+            "TagName": "Pawn.Athena.NPC.ZigZag.ScholarGhoul"
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "FF3445764C6C974B09CCE09C456A9E35",
+              "SourceString": "Scholar Ghoul finally eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "F067BDD840351B18F9E7799F1298D828",
+              "SourceString": "Scholar Ghoul eliminated <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "786D4DF04F215876517EB2AC1DC14189",
+              "SourceString": "Scholar Ghoul knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
         }
       ]
     }

@@ -4681,41 +4681,51 @@
           }
         ]
       },
-      "Playlist_Fluoride_Showdown_Duos": {
+      "Playlist_Mash_Squads_Legacy": {
         "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
           "Namespace": "",
-          "Key": "E76C0B58422C25BC5F634CB7415BA833",
-          "SourceString": "The Floor Restores"
+          "Key": "720B9AE34931E9911D34B1A2BAAB5875",
+          "SourceString": "Horde Rush"
         },
         "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
           {
             "Namespace": "",
-            "Key": "FD8EB88B4C76679A3A0FD6A2CF9723CB",
-            "SourceString": " Standing on the ground heals you over time."
+            "Key": "CB7523584C1166F1D2A2268670545035",
+            "SourceString": "Fight off Cube Monsters over three increasingly difficult rounds."
           },
           {
             "Namespace": "",
-            "Key": "1403F4714A4BFF9DAF9F92B6606EAB38",
-            "SourceString": "Make sure not to build too high."
+            "Key": "EE507F1B4112A9C1265613AAC15EBC8B",
+            "SourceString": "Collect score multipliers, get headshots, and earn elimination combos to earn a high score."
           },
           {
             "Namespace": "",
-            "Key": "F4BB14DC473327532E97B28C5939FBD8",
-            "SourceString": "All healing items have been removed."
+            "Key": "AFA39DFC4BEED5F0CFF32BA407988ECF",
+            "SourceString": "Defeat the final boss to win!"
           }
         ]
       },
-      "Playlist_Unvaulted_Trios_Showdown": {
+      "Playlist_Mash_Squads_Legacy_Showdown": {
         "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
           "Namespace": "",
-          "Key": "4AA6861348A0E9FE4499BE9616D8F372",
-          "SourceString": "Unvaulted"
+          "Key": "720B9AE34931E9911D34B1A2BAAB5875",
+          "SourceString": "Horde Rush"
         },
         "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
           {
             "Namespace": "",
-            "Key": "2167081B4395A9979BE3D893D2663B07",
-            "SourceString": "Classic Battle Royale with Vaulted Weapons and Items."
+            "Key": "9EFEF5E94D83BF064FE2B3BC7657C1A5",
+            "SourceString": "Fight off Cube Monsters over three increasingly difficult rounds."
+          },
+          {
+            "Namespace": "",
+            "Key": "61140CA94F3F26137A4FF5BB618EBE65",
+            "SourceString": "Collect score multipliers, get headshots, and earn elimination combos to earn a high score."
+          },
+          {
+            "Namespace": "",
+            "Key": "AFA39DFC4BEED5F0CFF32BA407988ECF",
+            "SourceString": "Defeat the final boss to win!"
           }
         ]
       }
