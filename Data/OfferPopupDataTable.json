@@ -895,7 +895,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "6761491740D6EB6161F0359DF43E073F",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">PLUXARIAN FLORAXE</> morphs onto <text color=\\\"FFFFFFFF\\\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
+          "SourceString": "<text color=\"FFFFFFFF\">PLUXARIAN FLORAXE</> morphs onto <text color=\"FFFFFFFF\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
         }
       },
       "fncsc2s7inspect": {
@@ -1084,7 +1084,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "E40F84134BD43D84698828880393EE4F",
-          "SourceString": "Pick custom colors and patterns!"
+          "SourceString": "Pick a pattern and three colors to customize your pickaxe!"
         }
       },
       "transformbuiltinemote": {
@@ -1112,7 +1112,70 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "B5356A2D40D8533165878DA322778499",
-          "SourceString": "TBD"
+          "SourceString": "Spacefarer Ariana accessories will automatically match outfit style, and respond to outfit's built-in transformation emote!"
+        }
+      },
+      "shadowtouch": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AA3175454C9BE929CA43D98D929E16F8",
+          "SourceString": "Shadow effect on outfit grows with eliminations. <text color=\"FFFFFFFF\">SHADOW TOUCH:</> Apply a shadow wrap to any equipped weapon!"
+        }
+      },
+      "zombieelastic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BBC80C9D4B4EBE8B974F118ABFD4914E",
+          "SourceString": "Create your own zombified hero! Nine customizable components!"
+        }
+      },
+      "zombieelasticback": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "EA4D150845ADD8C7574924BD1B6363B9",
+          "SourceString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker!"
+        }
+      },
+      "zombieelasticbackreactive": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1DCA27764CAA08CD23AF708175DB7605",
+          "SourceString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker! Reacts to Eliminations!"
+        }
+      },
+      "customizepumpkin": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E80D5F8649DCB1F8993AC5BBD19D69C5",
+          "SourceString": "Customize mouth, nose, eyes, topper, and color!"
+        }
+      },
+      "includestwoloadingscreens": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F9470C1641F0B3BE8D456A89210293BE",
+          "SourceString": "Includes two Loading Screens!"
+        }
+      },
+      "backwithnewstyle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CF4F364B4BBFAA49C7D99980CCC276AD",
+          "SourceString": "Back with a new style!"
+        }
+      },
+      "includestwoloadingandspray": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6FB2A829482BA16BD15A2F93AB9DBC5F",
+          "SourceString": "Includes two Loading Screens and a Spray!"
+        }
+      },
+      "customize": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "ABAA895D403B3876EEB2DB94A72F0F22",
+          "SourceString": "Customize!"
         }
       }
     }

@@ -7725,7 +7725,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SaladInsure_DisplayName",
-          "SourceString": "Set_05"
+          "SourceString": "S.T.A.R.S. Team"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7738,7 +7738,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.RoutineWest_DisplayName",
-          "SourceString": "Set_03"
+          "SourceString": "Spacefarer Ariana"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7751,7 +7751,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.StickPolish_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "DUNE"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7790,7 +7790,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.CoachBucket_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Dark Multiverse"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7855,7 +7855,111 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.MannerVisual_DisplayName",
-          "SourceString": "Set_04"
+          "SourceString": "KAWS"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SmallFrights": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SmallFrights"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SmallFrights_DisplayName",
+          "SourceString": "Shortnitemares"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RemarkGlimpse": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RemarkGlimpse"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RemarkGlimpse_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DueEgo": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DueEgo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DueEgo_DisplayName",
+          "SourceString": "Set_03"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FreshFable": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FreshFable"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FreshFable_DisplayName",
+          "SourceString": "Minty Legends"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RelativeCall": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RelativeCall"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RelativeCall_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Collective": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Collective"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Collective_DisplayName",
+          "SourceString": "Multiplex"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DroppedModel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DroppedModel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DroppedModel_DisplayName",
+          "SourceString": "Fallen Heroes"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShadeChaser": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ShadeChaser"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ShadeChaser_DisplayName",
+          "SourceString": "Shadow Seekers"
         },
         "Description": {
           "CultureInvariantString": null

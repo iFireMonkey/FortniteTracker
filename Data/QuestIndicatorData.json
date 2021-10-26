@@ -453,9 +453,9 @@
             "SourceString": "Base Camp Golf"
           },
           "WorldLocation": {
-            "X": -80884.0,
-            "Y": 92076.0,
-            "Z": 5480.0
+            "X": -81268.0,
+            "Y": 91576.0,
+            "Z": 9000.0
           },
           "LocationTag": {
             "TagName": "Athena.Location.UnnamedPOI.BaseCampGolf"
@@ -1580,12 +1580,56 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_MountainVault",
-            "SourceString": "**REDACTED**"
+            "SourceString": "Mountain Base"
           },
           "WorldLocation": {
-            "X": -74656.0,
-            "Y": 89472.0,
+            "X": -75648.0,
+            "Y": 89968.0,
             "Z": 5480.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.MountainVault"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_mountainvault",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_MountainVault",
+            "SourceString": "Mountain Base"
+          },
+          "WorldLocation": {
+            "X": -77908.0,
+            "Y": 89864.0,
+            "Z": 5220.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.MountainVault"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "visit_landmark_mountainvault",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_MountainVault",
+            "SourceString": "Mountain Base"
+          },
+          "WorldLocation": {
+            "X": -79316.0,
+            "Y": 89864.0,
+            "Z": 5604.0
           },
           "LocationTag": {
             "TagName": "Athena.Location.UnnamedPOI.MountainVault"
@@ -2313,6 +2357,30 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_TheConvergence",
+            "SourceString": "THE CONVERGENCE"
+          },
+          "WorldLocation": {
+            "X": 6068.0,
+            "Y": 7096.0,
+            "Z": -3676.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.TheConvergence"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_NamedLocations.Quest_S11_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_TheConvergence",
+          "ActiveDiscoverableBlodIds": [
+            61
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_ToiletTitan",
             "SourceString": "No. 2"
           },
@@ -2331,30 +2399,6 @@
           },
           "DiscoverObjectiveBackendName": "visit_landmark_toilettitan",
           "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TowerRuins",
-            "SourceString": "The Aftermath"
-          },
-          "WorldLocation": {
-            "X": 6068.0,
-            "Y": 7096.0,
-            "Z": -3676.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TowerRuins"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "visit_landmark_towerruins",
-          "ActiveDiscoverableBlodIds": [
-            61
-          ]
         },
         {
           "Text": {

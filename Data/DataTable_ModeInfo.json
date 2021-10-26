@@ -4728,6 +4728,49 @@
             "SourceString": "Defeat the final boss to win!"
           }
         ]
+      },
+      "Playlist_SolidGold_Trios": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "3E79BDAC452FD60F61E573A15994F8C0",
+          "SourceString": "Solid Gold"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "2D801D0D4D22A207B7A29893CB1F8842",
+            "SourceString": "All Weapons are Legendary."
+          },
+          {
+            "Namespace": "",
+            "Key": "1CD2D7B7488C62A3E9244BA789763F03",
+            "SourceString": "Grenade and Rocket Launchers are in Supply Drops.     "
+          },
+          {
+            "Namespace": "",
+            "Key": "EA725BCE40A468CCD07B899D1FAF1950",
+            "SourceString": "Extra Metal and Stone are Produced When Farming."
+          }
+        ]
+      },
+      "Playlist_Toss_Trios": {
+        "LTMName_9_14CEF84F4730F7523DEC66A875CD3944": {
+          "Namespace": "",
+          "Key": "A8EB5236453F6ACCEAF787A7A58530B2",
+          "SourceString": "Throwdown"
+        },
+        "Descriptions_13_72564C1541F756E7DE53DDBCFE2DD607": [
+          {
+            "Namespace": "",
+            "Key": "C07A4414482CF2A177C750B41602C497",
+            "SourceString": "Throwable Items Only.     "
+          },
+          {
+            "Namespace": "",
+            "Key": "292D40A246D92AE7B54B7E86C672F293",
+            "SourceString": "More Explosives."
+          }
+        ]
       }
     }
   }
