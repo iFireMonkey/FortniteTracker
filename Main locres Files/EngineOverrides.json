@@ -3,8 +3,7 @@
     "AllChatChannelKey": "All"
   },
   "AppleDynamicRHI": {
-    "OpenGLNotSupportedTitle": "Metal Not Supported",
-    "OpenGLNotSupported.": "You must have a Metal compatible iOS or tvOS device with iOS 8 or later to launch this app."
+    "RequiredAGX": "The AGX RHI is not supported on your system. Try running without the -agx command line argument."
   },
   "AssetTypeActions": {
     "AssetTypeActions_ConversationDatabase": "Conversation Bank",
@@ -87,7 +86,7 @@
     "TaskHasRequirements": "[Task Has Requirements]"
   },
   "ConversationEditorCommands": {
-    "Common": "Common",
+    "ComversationEditorCommandsLabel": "Conversation Editor",
     "Debugger": "Debugger"
   },
   "ConversationEditorFactories": {
@@ -519,13 +518,10 @@
     "NoVulkanNoGL": "Vulkan or OpenGL (4.3) support is required to run the engine.",
     "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. Vulkan will be used instead."
   },
-  "MacPlatformCreateDynamicRHI": {
-    "OpenGLNotSupported.": "You must have a Metal compatible graphics card and be running Mac OS X 10.11.6 or later to launch this process."
-  },
   "MessageDialog": {
     "UpdateMacOSX_Body": "Please update to the latest version of macOS for best performance and stability.",
-    "VideoCardDriverRHIIssueReport": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease update to the latest driver version or switch to a different rendering API.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
-    "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease update to the latest driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "VideoCardDriverRHIIssueReport": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install either the latest or the recommended driver version or switch to a different rendering API.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease install either the latest or the recommended driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "LatestVideoCardDriverRHIIssueReport": "The latest version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install the recommended driver version or switch to a different rendering API.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "LatestVideoCardDriverIssueReport": "The latest version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "UpdateMacOSX_Title": "Update macOS",
@@ -795,7 +791,6 @@
     "RequiredOpenGL": "OpenGL 4.3 is required to run the engine.",
     "RHIPerformanceOpenGL": "OpenGL is not supported for Performance Mode.",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
-    "RHIPerformanceVulkan": "Vulkan is not supported for Performance Mode.",
-    "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. The default RHI will be used."
+    "RHIPerformanceVulkan": "Vulkan is not supported for Performance Mode."
   }
 }
