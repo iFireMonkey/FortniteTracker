@@ -9,6 +9,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.AppleSauce"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -44,6 +47,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Chicago"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -66,6 +72,9 @@
           "DisplayText": "Ashton Hippo",
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Hippo"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -90,6 +99,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Indigo"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -112,6 +124,9 @@
           "DisplayText": "Ashton Milo (Launcher)",
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Milo.Launcher"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -142,6 +157,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Milo.Rifle"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -164,6 +182,9 @@
           "DisplayText": "B.R.U.T.E. Missiles",
           "DeathCauseTag": {
             "TagName": "Athena.Ostrich.Missiles"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -200,6 +221,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.Ostrich.SelfDestruct"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -234,6 +258,9 @@
           "DisplayText": "B.R.U.T.E. Shotgun",
           "DeathCauseTag": {
             "TagName": "Athena.Ostrich.Shotgun"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -270,6 +297,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.Ostrich.KickStomp"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -305,6 +335,9 @@
           "DeathCauseTag": {
             "TagName": "DeathCause.BanHammer"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -321,6 +354,9 @@
           "DisplayText": "Batarang",
           "DeathCauseTag": {
             "TagName": "Item.Consumable.BadgerBangs"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -356,6 +392,9 @@
           "DisplayText": "Brute (Basic)",
           "DeathCauseTag": {
             "TagName": "NPC.CharacterType.Brute.Basic"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -443,6 +482,9 @@
           "DeathCauseTag": {
             "TagName": "NPC.CharacterType.Brute.Major"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -501,6 +543,9 @@
           "DeathCauseTag": {
             "TagName": "NPC.CharacterType.Brute.Mega"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -530,6 +575,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.Bucket.Nice"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -552,6 +600,9 @@
           "DisplayText": "Bucket Old",
           "DeathCauseTag": {
             "TagName": "Item.Consumable.Bucket.Old"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -576,6 +627,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.LTM.Tag.ChangeTeam"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -592,6 +646,9 @@
           "DisplayText": "Cube",
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.Environment.Cube"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -628,6 +685,9 @@
           "DeathCauseTag": {
             "TagName": "DeathCause.EliminatedByAI"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -644,6 +704,9 @@
           "DisplayText": "Default (Eliminated DBNO By AI)",
           "DeathCauseTag": {
             "TagName": "DeathCause.EliminatedDBNOByAI"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -662,6 +725,9 @@
           "DeathCauseTag": {
             "TagName": "DeathCause.EliminatedDBNO"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [],
@@ -678,6 +744,9 @@
           "DisplayText": "Default (Eliminated)",
           "DeathCauseTag": {
             "TagName": "DeathCause.Eliminated"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -696,6 +765,9 @@
           "DeathCauseTag": {
             "TagName": "DeathCause.SelfInflictedDBNO"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [
             {
@@ -712,6 +784,9 @@
           "DisplayText": "Default (Self Inflicted)",
           "DeathCauseTag": {
             "TagName": "DeathCause.SelfInflicted"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -739,6 +814,9 @@
           "DisplayText": "Dog Sweater",
           "DeathCauseTag": {
             "TagName": "Item.Consumable.DogSweater"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -774,6 +852,9 @@
           "DisplayText": "Falling",
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.Environment.Falling"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -897,6 +978,9 @@
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.Environment.Falling.SneakySnowmando"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1019,6 +1103,9 @@
           "DeathCauseTag": {
             "TagName": "NPC.CharacterType.Fiend.Basic"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1105,6 +1192,9 @@
           "DeathCauseTag": {
             "TagName": "NPC.CharacterType.Fiend.Major"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1162,6 +1252,9 @@
           "DisplayText": "Fiend (Ranged)",
           "DeathCauseTag": {
             "TagName": "NPC.CharacterType.Fiend.Ranged"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1221,6 +1314,9 @@
           "DeathCauseTag": {
             "TagName": "Curie.Asset.State.ElementalStatus.Burning"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1244,6 +1340,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Grenade.Molotov"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1266,6 +1365,9 @@
           "DisplayText": "Flare Gun",
           "DeathCauseTag": {
             "TagName": "Item.Consumable.FlareGun"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1302,6 +1404,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.Fish.FlopperGas"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1330,6 +1435,9 @@
           "DisplayText": "Gas Can",
           "DeathCauseTag": {
             "TagName": "Item.Fuel.PetrolPickup"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1360,6 +1468,9 @@
           "DeathCauseTag": {
             "TagName": "EnvItem.ReactiveProp.GasPump"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1389,6 +1500,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.HappyGhost"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1412,6 +1526,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Melee.InfinityBlade"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1434,6 +1551,9 @@
           "DisplayText": "Jolly Rascal",
           "DeathCauseTag": {
             "TagName": "Asset.Athena.Item.JollyRascal.Damage"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1607,6 +1727,9 @@
           "DeathCauseTag": {
             "TagName": "Gameplay.Status.HotFeet"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1642,6 +1765,9 @@
           "DeathCauseTag": {
             "TagName": "LTM.Behind.Damage.Tag"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1665,6 +1791,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.Event.NewLevel"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1681,6 +1810,9 @@
           "DisplayText": "Lobster Reflect Projectile",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Galileo.Lobster.Reflect"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -1705,6 +1837,9 @@
           "DeathCauseTag": {
             "TagName": "Asset.Athena.EnvItem.Lock.Scanner.Damage"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -1728,6 +1863,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.Coal"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1750,6 +1888,9 @@
           "DisplayText": "Outside Safe Zone",
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.OutsideSafeZone"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1782,9 +1923,32 @@
           "DeathCauseInfoVariants": []
         },
         {
+          "DisplayText": "Physics Tree",
+          "DeathCauseTag": {
+            "TagName": "Building.Type.Prop.Organic.PhysicsTree"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "416CA314420825BFB171AC875F34EF14",
+              "SourceString": "<{KillerStyle}>{Killer}</> BONKED <{VictimStyle}>{PlayerName}</> with a timber pine"
+            }
+          ],
+          "EliminatedDBNOMessages": [],
+          "DeathCauseInfoVariants": []
+        },
+        {
           "DisplayText": "Propane Tank",
           "DeathCauseTag": {
             "TagName": "EnvItem.ReactiveProp.PropaneTank"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1815,6 +1979,9 @@
           "DeathCauseTag": {
             "TagName": "DeathCause.RemovedFromGame"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [],
@@ -1825,6 +1992,9 @@
           "DisplayText": "Sentry (Creative)",
           "DeathCauseTag": {
             "TagName": "NPC.EnemyType.Turret"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1855,6 +2025,9 @@
           "DeathCauseTag": {
             "TagName": "Asset.Athena.EnvItem.Sentry.Turret.Damage"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1877,6 +2050,9 @@
           "DisplayText": "Snowball",
           "DeathCauseTag": {
             "TagName": "HeldObject.Athena.Generic.SnowBall"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -1913,6 +2089,9 @@
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.Environment.StormSurge"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1929,6 +2108,9 @@
           "DisplayText": "Switched Team",
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.TeamSwitchSuicide"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -1947,6 +2129,9 @@
           "DeathCauseTag": {
             "TagName": "Gameplay.Effect.InstantDeath.Silent.SwitchingToSpectate"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -1963,6 +2148,9 @@
           "DisplayText": "Thanos (Beam)",
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Massive"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -1987,6 +2175,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Melee.Massive.Divebomb"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -2009,6 +2200,9 @@
           "DisplayText": "Thanos (Punch)",
           "DeathCauseTag": {
             "TagName": "Weapon.Melee.Massive.Charge"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -2033,6 +2227,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.LTM.Goose.TouchedGround"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -2056,6 +2253,9 @@
           "DeathCauseTag": {
             "TagName": "DeathCause.EliminatedInTournament"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -2072,6 +2272,9 @@
           "DisplayText": "Trap",
           "DeathCauseTag": {
             "TagName": "Trap"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -2119,6 +2322,9 @@
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.Underwater"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -2153,6 +2359,9 @@
           "DisplayText": "Vehicle",
           "DeathCauseTag": {
             "TagName": "Gameplay.Damage.Vehicle"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -2552,6 +2761,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Biplane"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -2656,6 +2868,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.Vehicle.Hoagie"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -2678,6 +2893,9 @@
           "DisplayText": "Vehicle (Motorboat Missile)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Vehicle.Meatball"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -2714,6 +2932,9 @@
           "DeathCauseTag": {
             "TagName": "Athena.Valet.ExplodeDamage"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -2748,6 +2969,9 @@
           "DisplayText": "Weapon (Bow)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Bow"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -2861,6 +3085,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Crossbow"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -2907,6 +3134,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault.Minigun.Brutus"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -2929,6 +3159,9 @@
           "DisplayText": "Weapon (C4)",
           "DeathCauseTag": {
             "TagName": "Item.Consumable.RemoteExplosives"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -2959,6 +3192,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Heavy.C4"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -2988,6 +3224,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Pistol.Donut"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3011,6 +3250,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Shotgun.Dub"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3033,6 +3275,9 @@
           "DisplayText": "Weapon (Galileo Bun)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Galileo.Bun"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3080,6 +3325,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.StinkBomb"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -3108,6 +3356,9 @@
           "DisplayText": "Weapon (Gas Grenade) \"OLD\"",
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Grenade.Gas"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -3138,6 +3389,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Launcher.Grenade"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -3166,6 +3420,9 @@
           "DisplayText": "Weapon (Grenade Launcher) \"OLD\"",
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Heavy.Grenade_Launcher"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -3196,6 +3453,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Consumable.Grenade"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -3224,6 +3484,9 @@
           "DisplayText": "Weapon (Grenade) \"OLD\"",
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Heavy.Grenade"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -3254,6 +3517,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault.Drum.Midas"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3276,6 +3542,9 @@
           "DisplayText": "Weapon (Kits Shotgun)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Shotgun.Charge.RoboMeow"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3300,6 +3569,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault.LMG"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3323,6 +3595,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.LMG"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3345,6 +3620,9 @@
           "DisplayText": "Weapon (Melee)",
           "DeathCauseTag": {
             "TagName": "Weapon.Melee"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3494,6 +3772,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault.Heavy.Meowscles"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3516,6 +3797,9 @@
           "DisplayText": "Weapon (Minigun)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault.Minigun"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3540,6 +3824,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Minigun"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3563,6 +3850,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault.Burst.NeonGirl"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3585,6 +3875,9 @@
           "DisplayText": "Weapon (Pistol)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Pistol"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3676,6 +3969,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Pistol"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3698,6 +3994,9 @@
           "DisplayText": "Weapon (Rifle)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Assault"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3767,6 +4066,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Assault"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3789,6 +4091,9 @@
           "DisplayText": "Weapon (Rocket Launcher)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Launcher.Rocket"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {
@@ -3848,6 +4153,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Heavy.Rocket_Launcher"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [
             {
               "Namespace": "",
@@ -3877,6 +4185,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.PirateCannon"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3899,6 +4210,9 @@
           "DisplayText": "Weapon (Shotgun)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Shotgun"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3923,6 +4237,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Shotgun"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3945,6 +4262,9 @@
           "DisplayText": "Weapon (SMG)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.SMG"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -3969,6 +4289,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.SMG"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -3991,6 +4314,9 @@
           "DisplayText": "Weapon (Sniper no-scope)",
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Ranged.Sniper"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -4094,6 +4420,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Sniper"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -4140,6 +4469,9 @@
           "DeathCauseTag": {
             "TagName": "Item.Weapon.Trap.MountedTurret"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -4163,6 +4495,9 @@
           "DeathCauseTag": {
             "TagName": "Weapon.Ranged.Turret"
           },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -4185,6 +4520,9 @@
           "DisplayText": "Zig Zag Scholar Ghoul",
           "DeathCauseTag": {
             "TagName": "Pawn.Athena.NPC.ZigZag.ScholarGhoul"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
           },
           "SelfInflictedMessages": [
             {

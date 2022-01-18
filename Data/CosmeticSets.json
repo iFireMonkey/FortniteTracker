@@ -7881,7 +7881,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.RemarkGlimpse_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "The Phoenix Force"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7894,7 +7894,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.DueEgo_DisplayName",
-          "SourceString": "Set_03"
+          "SourceString": "El Chapulín Colorado"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7920,7 +7920,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.RelativeCall_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Arcane: League of Legends"
         },
         "Description": {
           "CultureInvariantString": null
@@ -7952,14 +7952,430 @@
           "CultureInvariantString": null
         }
       },
-      "Cosmetics.Set.ShadeChaser": {
+      "Cosmetics.Set.ImperialRemedy": {
         "Tag": {
-          "TagName": "Cosmetics.Set.ShadeChaser"
+          "TagName": "Cosmetics.Set.ImperialRemedy"
         },
         "DisplayName": {
           "Namespace": "CosmeticSets",
-          "Key": "Cosmetics.Set.ShadeChaser_DisplayName",
-          "SourceString": "Shadow Seekers"
+          "Key": "Cosmetics.Set.ImperialRemedy_DisplayName",
+          "SourceString": "Naruto"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PioneerBoom": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PioneerBoom"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PioneerBoom_DisplayName",
+          "SourceString": "Air Jordan XI Cool Grey"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GadgetLater": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GadgetLater"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GadgetLater_DisplayName",
+          "SourceString": "Tech Future"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FashionSimple": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FashionSimple"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FashionSimple_DisplayName",
+          "SourceString": "Moncler Classic"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SloganStar": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SloganStar"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SloganStar_DisplayName",
+          "SourceString": "S.H.I.E.L.D."
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TriMech": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TriMech"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TriMech_DisplayName",
+          "SourceString": "Triangle Bot"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SquareHurl": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SquareHurl"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SquareHurl_DisplayName",
+          "SourceString": "Spider-Man"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ChompSelf": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ChompSelf"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ChompSelf_DisplayName",
+          "SourceString": "Chew It Yourself"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TwinReady": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TwinReady"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TwinReady_DisplayName",
+          "SourceString": "Delta-One"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CrescentCycles": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CrescentCycles"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrescentCycles_DisplayName",
+          "SourceString": "Order of the Waning Moon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LaxBlast": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LaxBlast"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LaxBlast_DisplayName",
+          "SourceString": "Lloose Cannon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TimeSheriff": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TimeSheriff"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TimeSheriff_DisplayName",
+          "SourceString": "Deep Future Outlaw"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KinGhost": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KinGhost"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KinGhost_DisplayName",
+          "SourceString": "Kindred Spirit"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FlowerStepper": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FlowerStepper"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FlowerStepper_DisplayName",
+          "SourceString": "The Lotus Walker"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Barelander": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Barelander"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Barelander_DisplayName",
+          "SourceString": "Voidlander"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ReefModel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ReefModel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ReefModel_DisplayName",
+          "SourceString": "Island Originals "
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FrozenForward": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FrozenForward"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FrozenForward_DisplayName",
+          "SourceString": "Black Ice"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ChapterProfile": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ChapterProfile"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ChapterProfile_DisplayName",
+          "SourceString": "Follow the White Rabbit"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ColdCompete": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ColdCompete"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ColdCompete_DisplayName",
+          "SourceString": "Winterfest '21"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CreepStep": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CreepStep"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CreepStep_DisplayName",
+          "SourceString": "No Way Home"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LooseBeam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LooseBeam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LooseBeam_DisplayName",
+          "SourceString": "Book of Boba Fett"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AcidVain": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AcidVain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AcidVain_DisplayName",
+          "SourceString": "Cobra Kai"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ColdDestroy": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ColdDestroy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ColdDestroy_DisplayName",
+          "SourceString": "Chilling Domination"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DivineAspect": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DivineAspect"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DivineAspect_DisplayName",
+          "SourceString": "Celestial Phase"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KittyKungFu": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KittyKungFu"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KittyKungFu_DisplayName",
+          "SourceString": "Nyanjitsu"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SantaPirate": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SantaPirate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SantaPirate_DisplayName",
+          "SourceString": "Reindeer Raiders"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FrozenTraitor": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FrozenTraitor"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FrozenTraitor_DisplayName",
+          "SourceString": "Arctic Renegades"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Banger": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Banger"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Banger_DisplayName",
+          "SourceString": "Backbeat"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GlareAssault": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GlareAssault"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlareAssault_DisplayName",
+          "SourceString": "Set_04"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StrangeReady": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StrangeReady"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StrangeReady_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CharmingFeather": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CharmingFeather"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CharmingFeather_DisplayName",
+          "SourceString": "Set_03"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FadAhead": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FadAhead"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FadAhead_DisplayName",
+          "SourceString": "Fashion Forward"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlazingBrain": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlazingBrain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlazingBrain_DisplayName",
+          "SourceString": "Set_02"
         },
         "Description": {
           "CultureInvariantString": null

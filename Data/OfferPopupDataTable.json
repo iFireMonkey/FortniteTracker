@@ -734,7 +734,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "A14FF19C45577E5363882D89F6E1FDFA",
-          "SourceString": "Earn a victory royale and unleash the ultimate grand finale with Nitrojerry's built-in short fuse emote."
+          "SourceString": "Earn a victory royale and unleash the ultimate grand finale with <text color=\"FFFFFFFF\">NITROJERRY'S</> built-in <text color=\"FFFFFFFF\">SHORT FUSE</> emote."
         }
       },
       "firecrackerpickaxeinspect": {
@@ -1176,6 +1176,104 @@
           "Namespace": "",
           "Key": "ABAA895D403B3876EEB2DB94A72F0F22",
           "SourceString": "Customize!"
+        }
+      },
+      "fncsc2s8inspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6E60607F47BD7EDF8E6726A055AA6DC8",
+          "SourceString": "FNCS Grand Royale Exclusive!"
+        }
+      },
+      "pickaxeincluded": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C2EDB10C48C988207141148BBEEB0548",
+          "SourceString": "Pickaxe Included!"
+        }
+      },
+      "bundleincludesloadingscreen": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2D384C8542078DF1EB0BB8A08EF6E0CD",
+          "SourceString": "Bundle includes loading screen!"
+        }
+      },
+      "promodesc13": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9F6D2D264A13884CEB221A8667F9958F",
+          "SourceString": "Change color the higher up you go! Bundle includes loading screen!"
+        }
+      },
+      "promodesc14": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C7861A5542EA72DA0E815C8845F93580",
+          "SourceString": "Draw the <text color=\"FFFFFFFF\">UMBRA-AXE PICKAXE</> and the <text color=\"FFFFFFFF\">PARA-PLUIE GLIDER</> from the <text color=\"FFFFFFFF\">UMBRA-TUBE BACK BLING</> when equipped together!"
+        }
+      },
+      "headbandpickaxeinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9D5B357D4B783B881C4A8E8BBCD890D8",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped!"
+        }
+      },
+      "headbandbundletwoinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "DE51309B4F839855C1F2A78C2877EC63",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped! Bundle includes loading screen!"
+        }
+      },
+      "promodesc15": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
+          "SourceString": "Marcus has arrived on the island."
+        }
+      },
+      "promodesc16": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
+          "SourceString": "Marcus and Kait have arrived on the island."
+        }
+      },
+      "promodesc17": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "DBD28D8640E1BEAB2BB4979AEFC04562",
+          "SourceString": "Add and remove your mask with the built-in emote!"
+        }
+      },
+      "promodesc18": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "8C94A33C4C8A8D3D53C80EBD3691ABCB",
+          "SourceString": "Includes selectable styles for three dojos!"
+        }
+      },
+      "kittywarriorinspect": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "DDC81616436FF2810609AC89A5155F49",
+          "SourceString": "Unsheathe the dual-wield <text color=\\\"FFFFFFFF\\\">NYAN CLAWS</> from <text color=\\\"FFFFFFFF\\\">AZUKI's</> scabbards when both are equipped!"
+        }
+      },
+      "blackicelegends": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A377E7FA41ABAF183BC1BC85446FB122",
+          "SourceString": "Frozen Touch! With the <text color=\"FFFFFFFF\">ICEBOUND MIDAS</> outfit, apply a frozen wrap to any equipped weapon!"
+        }
+      },
+      "promodesc19": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B94C6491404CFC3A534EEA9F756D95FA",
+          "SourceString": "TBD"
         }
       }
     }
