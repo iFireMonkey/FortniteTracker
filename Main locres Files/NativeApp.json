@@ -5,8 +5,11 @@
     "Greater": "greater",
     "Lesser": "lesser",
     "ScorePrefer": "prefer",
+    "SimpleGridDescription": "radius: {0}, space between: {1}",
     "ScoreFactor": "score factor",
-    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: generate items around {DescribeContext}"
+    "SimpleGridDescriptionGenerateAroundContext": "{0}: generate around {1}",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: generate items around {DescribeContext}",
+    "SimpleGridDescriptionWithProjection": "{Description}, {ProjectionDescription}"
   },
   "FORTMOBILE_HUDLAYOUTPROFILE": {
     "HUDProfileContainerSaveSlotTitle": "{0} Copy"
