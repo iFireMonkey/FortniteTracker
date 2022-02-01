@@ -6,8 +6,12 @@
     "RequiredAGX": "The AGX RHI is not supported on your system. Try running without the -agx command line argument."
   },
   "AssetTypeActions": {
+    "DataTable_MissingRowStructListEntry": "* {0} (Row Structure: {1})",
+    "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",
+    "DataTable_MissingRowStructTitle": "Continue?",
     "AssetTypeActions_ConversationDatabase": "Conversation Bank",
     "NamelessConversationDiff": "Conversation Diff",
+    "DataTable_MissingRowStructMsg": "The following Data Tables are missing their row structure and will not be editable.\n\n{0}\n\nDo you want to open these data tables?",
     "Conversation Diff": "{0} - Conversation Diff"
   },
   "BlueprintEditor": {
@@ -55,6 +59,16 @@
     "PercentOffFormat": "{0} Off",
     "PercentOnFormat": "{0} On",
     "AmountOffFormat": "{0} V-Bucks Off"
+  },
+  "CommonBoundActionButton": {
+    "OtherPlayerActionFormat": "[P{PlayerNum}] {ActionName}"
+  },
+  "CommonDateTimeTextBlock": {
+    "DaysFormatText": "{Days} {Days}|plural(one=Day, other=Days)",
+    "HoursFormatText": "{Hours} {Hours}|plural(one=Hour, other=Hours)"
+  },
+  "CommonUI": {
+    "WidgetPaletteCategory": "Common UI Plugin"
   },
   "ConversationEditor": {
     "AutoArrange": "Auto Arrange",
@@ -273,6 +287,7 @@
     "InsertShort": "Ins",
     "Insert": "Insert",
     "KeyboardSubCategory": "Keyboard",
+    "LeftMouseButtonShort": "LMB",
     "Left": "Left",
     "LeftAlt": "Left Alt",
     "LeftBracket": "Left Bracket",
@@ -393,6 +408,7 @@
     "PageUpShort": "PgUp",
     "Gesture_Pinch": "Pinch",
     "Quote": "Quote",
+    "RightMouseButtonShort": "RMB",
     "Right": "Right",
     "RightAlt": "Right Alt",
     "RightBracket": "Right Bracket",
@@ -517,6 +533,9 @@
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
     "NoVulkanNoGL": "Vulkan or OpenGL (4.3) support is required to run the engine.",
     "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. Vulkan will be used instead."
+  },
+  "LoadGuard": {
+    "Loading": "Loading..."
   },
   "MessageDialog": {
     "UpdateMacOSX_Body": "Please update to the latest version of macOS for best performance and stability.",
@@ -647,6 +666,8 @@
     "MissingBlockList": "No cached block list entry. Query block list first.",
     "MissingFriend": "No cached friend entry. Read friends list first.",
     "ToxicAlias": "Sorry, the friend alias you entered contains disallowed words.",
+    "InvalidOtherUser": "The other user is invalid.",
+    "OtherUserIsSelf": "The other user is the local user.",
     "NoFriendsList": "Unable to find friends lists.",
     "NotSuggestedFriend": "We can't find the friend suggestion to dismiss."
   },
@@ -725,6 +746,9 @@
   },
   "SocialUser": {
     "UserStatus_Blocked": "Blocked"
+  },
+  "UIActionRouter": {
+    "HoldActionNameFormat": "{0} (Hold)"
   },
   "UICommands.ConversationEditorCommands": {
     "BackInto": "Back: Into",
