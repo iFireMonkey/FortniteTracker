@@ -64,7 +64,7 @@
       "ChallengeMapPoiData": [
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_CreamyCrossroads",
             "SourceString": "CONEY CROSSROADS"
           },
@@ -88,7 +88,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_SleepySound",
             "SourceString": "SLEEPY SOUND"
           },
@@ -112,7 +112,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_CondoCanyon",
             "SourceString": "CONDO CANYON"
           },
@@ -136,7 +136,31 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_POI_CrazyCave",
+            "SourceString": "COVERT CAVERN"
+          },
+          "WorldLocation": {
+            "X": 39492.0,
+            "Y": -76396.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.CrazyCave"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_CovertCavern",
+          "ActiveDiscoverableBlodIds": [
+            182
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_RockyReels",
             "SourceString": "ROCKY REELS"
           },
@@ -160,7 +184,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_02",
             "SourceString": "Seven Outpost II"
           },
@@ -184,7 +208,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_ShiftyShafts",
             "SourceString": "SHIFTY SHAFTS"
           },
@@ -208,7 +232,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_05",
             "SourceString": "Seven Outpost V"
           },
@@ -232,7 +256,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_01",
             "SourceString": "Seven Outpost I"
           },
@@ -256,7 +280,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_06",
             "SourceString": "Seven Outpost VI"
           },
@@ -280,7 +304,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_04",
             "SourceString": "Seven Outpost IV"
           },
@@ -304,7 +328,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_07",
             "SourceString": "Seven Outpost VII"
           },
@@ -328,7 +352,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_LogJam",
             "SourceString": "LOGJAM LUMBERYARD"
           },
@@ -352,7 +376,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_CampCuddles",
             "SourceString": "CAMP CUDDLE"
           },
@@ -376,7 +400,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_LlamaFarm",
             "SourceString": "Llama Homestead"
           },
@@ -398,7 +422,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_RockRock",
             "SourceString": "Mighty Monument"
           },
@@ -422,7 +446,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_RocketBase",
             "SourceString": "Launchpad"
           },
@@ -446,7 +470,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_LoggingDock",
             "SourceString": "Washout Wharf"
           },
@@ -470,7 +494,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_LoggingShack",
             "SourceString": "Choppin' Chateau"
           },
@@ -492,7 +516,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_FancyMansion",
             "SourceString": "Shell or High Water"
           },
@@ -516,7 +540,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_Lighthouse",
             "SourceString": "Lofty Lighthouse"
           },
@@ -540,7 +564,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BlockHouse",
             "SourceString": "Unremarkable House"
           },
@@ -564,7 +588,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_CliffHouse",
             "SourceString": "Rocky Residence"
           },
@@ -588,7 +612,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SunnyStepRuin",
             "SourceString": "The Temple"
           },
@@ -612,7 +636,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_GreasyGrove",
             "SourceString": "GREASY GROVE"
           },
@@ -636,7 +660,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_PlantNursery",
             "SourceString": "Sunflower's Saplings"
           },
@@ -660,7 +684,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BoatRentals",
             "SourceString": "Floaties Boats"
           },
@@ -682,7 +706,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BigBridge",
             "SourceString": "Behemoth Bridge"
           },
@@ -704,7 +728,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_LootLake",
             "SourceString": "Loot Lake"
           },
@@ -728,7 +752,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_LootLakeIsland",
             "SourceString": "Loot Landing"
           },
@@ -750,7 +774,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_VanLife",
             "SourceString": "Happy Camper"
           },
@@ -772,7 +796,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RadioTower",
             "SourceString": "Broadcast Bunker"
           },
@@ -794,7 +818,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_VolcanoMonitoringStation",
             "SourceString": "Loot Lava Volcano Station"
           },
@@ -816,7 +840,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallTemple",
             "SourceString": "Tiny Temple"
           },
@@ -838,7 +862,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RuinedTempleTropical",
             "SourceString": "The Ruins"
           },
@@ -862,7 +886,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_Sanctuary",
             "SourceString": "SANCTUARY"
           },
@@ -886,7 +910,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BoatClub",
             "SourceString": "Cuddle Cruisers"
           },
@@ -910,7 +934,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BeachShacks",
             "SourceString": "Sunburned Shacks"
           },
@@ -934,7 +958,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_FishingShacks",
             "SourceString": "The Minnows"
           },
@@ -958,7 +982,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindmillFarm",
             "SourceString": "Windbreakers"
           },
@@ -982,7 +1006,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindPowerBuilding",
             "SourceString": "Turbine"
           },
@@ -1004,7 +1028,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_PowerTower",
             "SourceString": "Power Towers"
           },
@@ -1028,7 +1052,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallMine",
             "SourceString": "Lil' Shaftie"
           },
@@ -1050,7 +1074,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_DeadTreePond",
             "SourceString": "Desolate Delta"
           },
@@ -1074,7 +1098,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_ButterBarn",
             "SourceString": "Butter Barn"
           },
@@ -1098,7 +1122,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_ChonkersSpeedway",
             "SourceString": "CHONKER'S SPEEDWAY"
           },
@@ -1122,7 +1146,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BuriedDesertTown",
             "SourceString": "Drifty Dunes"
           },
@@ -1144,7 +1168,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_DesertArch",
             "SourceString": "Arid Acres"
           },
@@ -1166,7 +1190,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_HorseShoeBend",
             "SourceString": "Horse Shoe Hideout"
           },
@@ -1190,7 +1214,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_ImpossibleRock",
             "SourceString": "Impossible Rock"
           },
@@ -1212,7 +1236,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BobsHouse",
             "SourceString": "Chateau Bob"
           },
@@ -1236,7 +1260,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_CrazyCactus",
             "SourceString": "Colossal Cactus"
           },
@@ -1260,7 +1284,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RuinedTempleJungle",
             "SourceString": "Tumbledown Temple"
           },
@@ -1284,7 +1308,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenVillage",
             "SourceString": "Shrouded Settlement"
           },
@@ -1308,7 +1332,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BeachCarPark",
             "SourceString": "Tow-away Beach"
           },
@@ -1332,7 +1356,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BirdingDunes",
             "SourceString": "The Perch"
           },
@@ -1356,7 +1380,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_03",
             "SourceString": "Seven Outpost III"
           },
@@ -1380,7 +1404,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_CrackshotsCabin",
             "SourceString": "Crackshot's Cabin"
           },
@@ -1404,14 +1428,14 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_PinnaclePeak",
             "SourceString": "Pinnacle Peak"
           },
           "WorldLocation": {
-            "X": 35632.0,
-            "Y": -75936.0,
-            "Z": 8704.0
+            "X": 35576.0,
+            "Y": -75268.0,
+            "Z": 12360.0
           },
           "LocationTag": {
             "TagName": "Athena.Location.UnNamedPOI.PinnaclePeak"
@@ -1422,13 +1446,11 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_PinnaclePeak",
-          "ActiveDiscoverableBlodIds": [
-            182
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_TiltedTowers",
             "SourceString": "TILTED TOWERS"
           },
@@ -1452,7 +1474,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_PuddlePond",
             "SourceString": "Puddle Pond"
           },
@@ -1476,7 +1498,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_LoopersLanding",
             "SourceString": "Looper Landing"
           },
@@ -1500,7 +1522,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Adrift",
             "SourceString": "Adrift"
           },
@@ -1522,7 +1544,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_WreckRavine",
             "SourceString": "Wreck Ravine"
           },
@@ -1546,7 +1568,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_DesertOasis",
             "SourceString": "Haven's Oasis"
           },
@@ -1570,7 +1592,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_DailyBugle",
             "SourceString": "THE DAILY BUGLE"
           },
@@ -1594,7 +1616,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_TheJoneses",
             "SourceString": "THE JONESES"
           },
@@ -1618,7 +1640,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Cattus",
             "SourceString": "The Devoured"
           },
@@ -1640,7 +1662,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_PirateRowBoat",
             "SourceString": "Discarded Dinghy"
           },
@@ -1662,7 +1684,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_TempleStairs",
             "SourceString": "Paradoxical Ruins"
           },
@@ -1684,7 +1706,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_DirtTrack",
             "SourceString": "Dirt-Cut Circuit"
           },
@@ -1706,7 +1728,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RangerTower",
             "SourceString": "Ridgeline Ranger Station"
           },
@@ -1728,7 +1750,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_TinyTimberTent",
             "SourceString": "Lonesome Watchpost"
           },
@@ -1750,7 +1772,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_DesertMansion",
             "SourceString": "Sandblast Estates"
           },
@@ -1772,7 +1794,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RustyCarBeach",
             "SourceString": "Rustaway Shores"
           },
@@ -1794,7 +1816,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Terrain",
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_FishyIsland",
             "SourceString": "Fisher's Paradise"
           },
@@ -1816,7 +1838,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_POI_Papaya_MainStage",
             "SourceString": "Main Stage"
           },
@@ -1838,7 +1860,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_PirateCove",
             "SourceString": "Buccaneer Bay"
           },
@@ -1860,7 +1882,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_POI_Papaya_Theater",
             "SourceString": "The Big Screen"
           },
@@ -1882,7 +1904,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_POI_Papaya_TheHub",
             "SourceString": "The Plaza"
           },
@@ -1904,7 +1926,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_BoatRace2",
             "SourceString": "Fishsticks' Boat Race"
           },
@@ -1926,7 +1948,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_BoatRace1",
             "SourceString": "Fishsticks' Boat Race"
           },
@@ -1948,7 +1970,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_BoatRamps",
             "SourceString": "Flying Boat Atoll"
           },
@@ -1970,7 +1992,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_FishingPond",
             "SourceString": "Fishin' Hole"
           },
@@ -1992,7 +2014,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_GiantSkeleton",
             "SourceString": "Devourer's Revenge"
           },
@@ -2014,7 +2036,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_MountainPeak",
             "SourceString": "Pirate's Peak"
           },
@@ -2036,7 +2058,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_ObstacleCourse",
             "SourceString": "Barnyard Obstacles"
           },
@@ -2058,7 +2080,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_RaceCenter",
             "SourceString": "Quadcrasher Motocross"
           },
@@ -2080,7 +2102,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_SecretBeach",
             "SourceString": "Chill Beach"
           },
@@ -2102,7 +2124,7 @@
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya",
+            "Namespace": "DisplayNamesForPOIs_Apollo_Papaya_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Papaya_SoccerField",
             "SourceString": "Soccer Pitch"
           },

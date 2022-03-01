@@ -57,11 +57,19 @@
         },
         "SortPriority": 95
       },
+      "StarterBundleQuests09": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests09_Name",
+          "SourceString": "Mecha-Pop Starter Bundle"
+        },
+        "SortPriority": 83
+      },
       "StarterBundleQuests08": {
         "Name": {
-          "Namespace": "",
-          "Key": "E2545DDD42053DE367171B82CBE3F355",
-          "SourceString": "Kevin-Bot Starter Bundle"
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests08_Name",
+          "SourceString": "Robo-Kevin Starter Bundle"
         },
         "SortPriority": 82
       },
@@ -264,6 +272,14 @@
           "SourceString": "Venture: Challenge Quests"
         },
         "SortPriority": 52
+      },
+      "STWIrwinQuests": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "STWIrwinQuests_Name",
+          "SourceString": "Event: Brawl of the Wild"
+        },
+        "SortPriority": 51
       },
       "Phoenix_Adventure_Seasonal": {
         "Name": {

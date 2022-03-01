@@ -9,6 +9,11 @@
           "DeathCauseTag": {
             "TagName": "Pawn.Athena.NPC.Wildlife.Prey.Burt"
           },
+          "EliminatedByName": {
+            "Namespace": "",
+            "Key": "392A10674B2F3E642C60AABB0E3D6A8E",
+            "SourceString": "Wild Boar"
+          },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
           "EliminatedMessages": [
@@ -28,9 +33,120 @@
           "DeathCauseInfoVariants": []
         },
         {
+          "DisplayText": "Chicken",
+          "DeathCauseTag": {
+            "TagName": "Pawn.Athena.NPC.Wildlife.Prey.Nug"
+          },
+          "EliminatedByName": {
+            "Namespace": "",
+            "Key": "0D6A338A497500229D3B7BA5DCE9876B",
+            "SourceString": "Wild Chicken"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "16B613E642B1A44214B8A38EB888100F",
+              "SourceString": "A wild Chicken showed <{VictimStyle}>{PlayerName}</> their true place in the pecking order"
+            },
+            {
+              "Namespace": "",
+              "Key": "5AA065F84D55BCEF7FBF6AA6D1621B7E",
+              "SourceString": "A wild Chicken told <{VictimStyle}>{PlayerName}</> not to push the henvelope"
+            },
+            {
+              "Namespace": "",
+              "Key": "DD8468524315F19C8446DA86F4CBB295",
+              "SourceString": "A wild Chicken gave <{VictimStyle}>{PlayerName}</> eggsactly what they asked for"
+            },
+            {
+              "Namespace": "",
+              "Key": "76C81F6C4D4A0FA4E55C2FA833226B14",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> chickened out"
+            },
+            {
+              "Namespace": "",
+              "Key": "7048C388471DDB27FF89ACA0344DB554",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> has egg on their face"
+            },
+            {
+              "Namespace": "",
+              "Key": "0B7CBE934FCFC9977D34C5940200B546",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> should have eggspected this"
+            },
+            {
+              "Namespace": "",
+              "Key": "AAD80C544A5A2106DD375BADF126DA72",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> found out what beak performance looks like"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "0AFF240042E9A885B6BEC6A31957073C",
+              "SourceString": "A wild Chicken knocked out <{VictimStyle}>{PlayerName}</>"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Chicken held by Player",
+          "DeathCauseTag": {
+            "TagName": "Gameplay.Damage.Physical.Creature.Wildlife.Nug"
+          },
+          "EliminatedByName": {
+            "Namespace": "",
+            "Key": "D9609CEA49D8927AB2ADF4ACBF5C57AF",
+            "SourceString": "Wild Chicken"
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "7778B2A8464B3E82A16A7A989C86DE81",
+              "SourceString": "<{KillerStyle}>{Killer}</> used a wild Chicken to send <{VictimStyle}>{PlayerName}</> to the other side"
+            },
+            {
+              "Namespace": "",
+              "Key": "8BA8195E4E8D9302A1A2E8935F9D27B7",
+              "SourceString": "<{KillerStyle}>{Killer}</> henpecked <{VictimStyle}>{PlayerName}</> with a wild Chicken"
+            },
+            {
+              "Namespace": "",
+              "Key": "D5EAA1284752A2C65C31F7A33811E7C3",
+              "SourceString": "<{KillerStyle}>{Killer}</> eggspelled <{VictimStyle}>{PlayerName}</> with a wild Chicken"
+            },
+            {
+              "Namespace": "",
+              "Key": "5836CCFF4D3EEF8F2E73058AF07A11C3",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> found <{KillerStyle}>{Killer}</> to be a bit peckish"
+            },
+            {
+              "Namespace": "",
+              "Key": "A536F3FF41BA785C9DF8EFB7C2B12174",
+              "SourceString": "<{KillerStyle}>{Killer}</> showed <{VictimStyle}>{PlayerName}</> the meaning of fowl play"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "9244B24A48B9DE304784CFA782C94BCD",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a wild Chicken"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
           "DisplayText": "Raptor",
           "DeathCauseTag": {
             "TagName": "Pawn.Athena.NPC.Wildlife.Predator.Robert"
+          },
+          "EliminatedByName": {
+            "Namespace": "",
+            "Key": "9AEAF79D4514D8D8026631A62100C3FB",
+            "SourceString": "Wild Raptor"
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],
@@ -54,6 +170,11 @@
           "DisplayText": "Wolf",
           "DeathCauseTag": {
             "TagName": "Pawn.Athena.NPC.Wildlife.Predator.Grandma"
+          },
+          "EliminatedByName": {
+            "Namespace": "",
+            "Key": "9C6AA5BF4B7FC172F01D648A8D786A6D",
+            "SourceString": "Wild Wolf"
           },
           "SelfInflictedMessages": [],
           "SelfInflictedDBNOMessages": [],

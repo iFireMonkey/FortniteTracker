@@ -412,7 +412,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "70EF5B1D4F926DFCD1A42C99D1089F23",
-          "SourceString": "Join a chorus with other players who are using the Sing Along emote!"
+          "SourceString": "FNCS Chapter 3 Season 1 Finals Exclusive!"
         }
       },
       "wombatmaledesc": {
@@ -1259,7 +1259,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "DDC81616436FF2810609AC89A5155F49",
-          "SourceString": "Unsheathe the dual-wield <text color=\\\"FFFFFFFF\\\">NYAN CLAWS</> from <text color=\\\"FFFFFFFF\\\">AZUKI's</> scabbards when both are equipped!"
+          "SourceString": "Unsheathe the dual-wield <text color=\"FFFFFFFF\">NYAN CLAWS</> from <text color=\"FFFFFFFF\">AZUKI's</> scabbards when both are equipped!"
         }
       },
       "blackicelegends": {
@@ -1273,7 +1273,63 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "B94C6491404CFC3A534EEA9F756D95FA",
+          "SourceString": "Watch Tones and I perform <text color=\"FFFFFFFF\">CLOUDY DAY</> in the <text color=\"FFFFFFFF\">SOUNDWAVE SERIES: TONES AND I</> musical show starting <text color=\"FFFFFFFF\">JANUARY 21st!</>"
+        }
+      },
+      "foeglider": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "DE5B8EB9485E9B14CBDDB99C07733D0A",
+          "SourceString": "Strike a menacing pose while riding the <text color=\"FFFFFFFF\">GOBLIN GLIDER!</>"
+        }
+      },
+      "outfitmusicreact": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CEAB98024CBC78D6742F93B654D5BC61",
+          "SourceString": "Outfit reacts to music!"
+        }
+      },
+      "promodesc20": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AC0E58A146D3B05396277B9531944FDA",
           "SourceString": "TBD"
+        }
+      },
+      "promodesc21": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "ED0B8BEE42A2E61C611AF3AB648DB8AA",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc22": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FD5A812643210AD9937553AA277E44D0",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc23": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "70DE2F384683F7C44E48F78FF1D2C060",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc24": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "40A791E64AB31B339C868AA66DF9B0E7",
+          "SourceString": "TBD"
+        }
+      },
+      "outfitlightelim": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4D9CAE684D247A86C81F8BA5ABC4F595",
+          "SourceString": "Reactive: Outfit lights up with eliminations!"
         }
       }
     }

@@ -8323,7 +8323,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.GlareAssault_DisplayName",
-          "SourceString": "Set_04"
+          "SourceString": "Green Goblin"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8336,7 +8336,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.StrangeReady_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Hawkeye"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8349,7 +8349,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.CharmingFeather_DisplayName",
-          "SourceString": "Set_03"
+          "SourceString": "Witching Wing"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8375,7 +8375,241 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BlazingBrain_DisplayName",
+          "SourceString": "Shining Skull"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AmpleChaos": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AmpleChaos"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AmpleChaos_DisplayName",
+          "SourceString": "Silk Sonic"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ScatterBan": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ScatterBan"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScatterBan_DisplayName",
+          "SourceString": "Welcome to the Melloverse"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KingClubs": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KingClubs"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KingClubs_DisplayName",
+          "SourceString": "Royale Flush"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ForeverCommit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ForeverCommit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ForeverCommit_DisplayName",
+          "SourceString": "Eternal Devotion"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SpillSell": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SpillSell"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpillSell_DisplayName",
+          "SourceString": "Rogue & Gambit"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FearCircle": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FearCircle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FearCircle_DisplayName",
+          "SourceString": "Uncharted"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Emperor": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.Emperor"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Emperor_DisplayName",
+          "SourceString": "Monarch"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PolitePlatform": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PolitePlatform"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PolitePlatform_DisplayName",
+          "SourceString": "NBA 75"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NothingRoyalty": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NothingRoyalty"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NothingRoyalty_DisplayName",
+          "SourceString": "Nobody's Princess"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StoreSlam": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StoreSlam"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StoreSlam_DisplayName",
+          "SourceString": "Naomi Osaka"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BeamPepper": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BeamPepper"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BeamPepper_DisplayName",
           "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SunCord": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SunCord"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SunCord_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FortuneClaw": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FortuneClaw"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FortuneClaw_DisplayName",
+          "SourceString": "Luckypaw"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SharpPunk": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SharpPunk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SharpPunk_DisplayName",
+          "SourceString": "Barbed Troublemaker"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CentralCut": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CentralCut"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CentralCut_DisplayName",
+          "SourceString": "Mainframe Break"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CircleMachine": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CircleMachine"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CircleMachine_DisplayName",
+          "SourceString": "Round-Bot"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CrepeWeek": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CrepeWeek"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrepeWeek_DisplayName",
+          "SourceString": "Maslenitsa"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DineGrudge": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DineGrudge"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DineGrudge_DisplayName",
+          "SourceString": "Celebrating Women"
         },
         "Description": {
           "CultureInvariantString": null

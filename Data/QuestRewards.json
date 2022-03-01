@@ -15579,6 +15579,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "HomebaseOnboarding_041": {
+        "QuestTemplateId": "Quest:homebaseonboarding",
+        "TemplateId": "AthenaMusicPack:musicpack_000_stw_default",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "HomebaseOnboardingGrantSchematics_001": {
         "QuestTemplateId": "Quest:homebaseonboardinggrantschematics",
         "TemplateId": "Schematic:ammo_energycell",
@@ -22908,6 +22917,15 @@
       "PickaxeQuest_STW001_Tier_1_002": {
         "QuestTemplateId": "Quest:pickaxequest_stw001_tier_1",
         "TemplateId": "Quest:pickaxequest_stw007_basic",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "PickaxeQuest_STW001_Tier_1_003": {
+        "QuestTemplateId": "Quest:pickaxequest_stw001_tier_1",
+        "TemplateId": "Token:campaigntutorialcomplete",
         "Quantity": 1,
         "Hidden": true,
         "Feature": false,
@@ -32081,7 +32099,7 @@
         "TemplateId": "HomebaseNode:questreward_expedition_dirtbike",
         "Quantity": 1,
         "Hidden": false,
-        "Feature": false,
+        "Feature": true,
         "Selectable": false,
         "Exportable": true
       },
@@ -32098,8 +32116,8 @@
         "QuestTemplateId": "Quest:stonewoodquest_launchrocket_d5",
         "TemplateId": "Quest:homebasequest_completeexpedition",
         "Quantity": 1,
-        "Hidden": false,
-        "Feature": true,
+        "Hidden": true,
+        "Feature": false,
         "Selectable": false,
         "Exportable": true
       },
@@ -32143,7 +32161,7 @@
         "QuestTemplateId": "Quest:stonewoodquest_launchrocket_d5",
         "TemplateId": "Schematic:sid_floor_player_jump_pad",
         "Quantity": 1,
-        "Hidden": true,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -44442,24 +44460,6 @@
         "Selectable": false,
         "Exportable": true
       },
-      "Wargames_Quest_Wargame_Offspring_001": {
-        "QuestTemplateId": "Quest:wargames_quest_wargame_offspring",
-        "TemplateId": "EventDependentItem:edi_wargames_eventcurrency",
-        "Quantity": 100,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "Wargames_Quest_Wargame_Offspring_002": {
-        "QuestTemplateId": "Quest:wargames_quest_wargame_offspring",
-        "TemplateId": "CardPack:cardpack_wargames_banner_offspring",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
       "Wargames_Quest_Wargame_Overload_001": {
         "QuestTemplateId": "Quest:wargames_quest_wargame_overload",
         "TemplateId": "EventDependentItem:edi_wargames_eventcurrency",
@@ -47928,6 +47928,222 @@
       "STWStarterBundle08_GetRewards_006": {
         "QuestTemplateId": "Quest:stwstarterbundle08_getrewards",
         "TemplateId": "Token:quests_stwstarterbundle08",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_ReactiveKill_Quest_A1_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_reactivekill_quest_a1",
+        "TemplateId": "Quest:stwirwinintro_feed_quest_a2",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_ReactiveKill_Quest_A1_002": {
+        "QuestTemplateId": "Quest:stwirwinintro_reactivekill_quest_a1",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Feed_Quest_A2_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_feed_quest_a2",
+        "TemplateId": "Quest:stwirwinintro_fetch_quest_a3",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Feed_Quest_A2_002": {
+        "QuestTemplateId": "Quest:stwirwinintro_feed_quest_a2",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Fetch_Quest_A3_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_fetch_quest_a3",
+        "TemplateId": "Quest:stwirwinintro_reactivekill_quest_a4",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Fetch_Quest_A3_002": {
+        "QuestTemplateId": "Quest:stwirwinintro_fetch_quest_a3",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_ReactiveKill_Quest_A4_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_reactivekill_quest_a4",
+        "TemplateId": "Quest:stwirwinintro_fetch_quest_a5",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_ReactiveKill_Quest_A4_002": {
+        "QuestTemplateId": "Quest:stwirwinintro_reactivekill_quest_a4",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Fetch_Quest_A5_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_fetch_quest_a5",
+        "TemplateId": "Quest:stwirwinintro_reactivekill_quest_a6",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Fetch_Quest_A5_002": {
+        "QuestTemplateId": "Quest:stwirwinintro_fetch_quest_a5",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_ReactiveKill_Quest_A6_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_reactivekill_quest_a6",
+        "TemplateId": "Quest:stwirwinintro_build_quest_a7",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_ReactiveKill_Quest_A6_002": {
+        "QuestTemplateId": "Quest:stwirwinintro_reactivekill_quest_a6",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWIrwinIntro_Build_Quest_A7_001": {
+        "QuestTemplateId": "Quest:stwirwinintro_build_quest_a7",
+        "TemplateId": "Hero:hid_outlander_041_dinocollector_sr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_05_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_05",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_getrewards",
+        "TemplateId": "Quest:stwstarterbundle09_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_getrewards",
+        "TemplateId": "Quest:stwstarterbundle09_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_getrewards",
+        "TemplateId": "Quest:stwstarterbundle09_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_getrewards",
+        "TemplateId": "Quest:stwstarterbundle09_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_getrewards",
+        "TemplateId": "Quest:stwstarterbundle09_05",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle09_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle09_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle09",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
