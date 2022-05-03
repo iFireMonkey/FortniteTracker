@@ -7894,7 +7894,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.DueEgo_DisplayName",
-          "SourceString": "El Chapulín Colorado"
+          "SourceString": "El Chapul?n Colorado"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8700,7 +8700,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.TentPetty_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Chica"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8818,6 +8818,110 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FailPack_DisplayName",
           "SourceString": "Blunder Bundle"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WheatCrisis": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WheatCrisis"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WheatCrisis_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShortDefend": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ShortDefend"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ShortDefend_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GustGuide": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GustGuide"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GustGuide_DisplayName",
+          "SourceString": "Stormfarer"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CircleLeader": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CircleLeader"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CircleLeader_DisplayName",
+          "SourceString": "Ring General"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlackCatOps": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlackCatOps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlackCatOps_DisplayName",
+          "SourceString": "Operation Black Tabby"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GoldSentinel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GoldSentinel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoldSentinel_DisplayName",
+          "SourceString": "Goldenbane Guardian"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PraiseKudos": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PraiseKudos"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PraiseKudos_DisplayName",
+          "SourceString": "Set_03"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OrnateChaser": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OrnateChaser"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OrnateChaser_DisplayName",
+          "SourceString": "Gilded Hunter"
         },
         "Description": {
           "CultureInvariantString": null

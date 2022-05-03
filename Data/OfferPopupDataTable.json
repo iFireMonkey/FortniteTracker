@@ -1427,21 +1427,21 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "6CEA81D943956413A2524EBCE261E0C6",
-          "SourceString": "TBD"
+          "SourceString": "Bundle includes Banner and Spray. The <text color=\"FFFFFFFF\">Neck Protector</> Pickaxe reacts to music! The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!"
         }
       },
       "promodesc32": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1C605784435C6BB285C82AB55E0E6EA0",
-          "SourceString": "TBD"
+          "SourceString": "<text color=\"FFFFFFFF\">Blanka-Chan</> reacts to Eliminations!"
         }
       },
       "promodesc33": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9DA912914C55A8C20EF64CA5CAA6B2FD",
-          "SourceString": "TBD"
+          "SourceString": "The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!"
         }
       },
       "bundlemusic": {
@@ -1449,6 +1449,55 @@
           "Namespace": "",
           "Key": "1AB74E6D445C1505DBE95B909A18F4FD",
           "SourceString": "Bundle includes Loading Screen and Emoticon. Back Blings react to music!"
+        }
+      },
+      "carbideknightisb": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E28AE63F4BB634238BF57390793AF798",
+          "SourceString": "Unsheathe <text color=\"FFFFFFFF\">KNIGHT'S TORMENT</> Pickaxe from its Back Bling when both are equipped."
+        }
+      },
+      "promodesc34": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FC0FE98B4736FF92522FAA816EFED6F9",
+          "SourceString": "TBD"
+        }
+      },
+      "giftfriend": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "90CE680F47185B4DE7DD8E83713BEF10",
+          "SourceString": "Gift it to a Friend!"
+        }
+      },
+      "vibration": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BF9FA5B440E8228CF487849452021229",
+          "SourceString": "Vibrates when hitting a weak point!"
+        }
+      },
+      "traitor": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1991873D483E8B07E260059BF07C8166",
+          "SourceString": "The <text color=\"FFFFFFFF\">Traitor!</> Emote is performed with the <text color=\"FFFFFFFF\">Riot Control Baton</> Pickaxe when equipped!"
+        }
+      },
+      "masks": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F878DE954770B56374E05F833576343E",
+          "SourceString": "4 Mask Styles!"
+        }
+      },
+      "lightupdamage": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5F13E9004E25C1C5AB49E19313C4FDE0",
+          "SourceString": "Outfit lights up when dealing damage!"
         }
       }
     }
