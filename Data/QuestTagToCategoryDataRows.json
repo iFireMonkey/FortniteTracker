@@ -4,8 +4,8 @@
     "Name": "QuestTagToCategoryDataRows",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "FortQuestTagToCategoryDataRow:Class",
-        "ObjectPath": 0
+        "ObjectName": "Class FortQuestTagToCategoryDataRow",
+        "ObjectPath": "/Script/FortniteGame"
       }
     },
     "Rows": {
@@ -260,12 +260,12 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "51C3987D4F37B090F378F1B385780ABA",
-          "SourceString": "Contract Giller"
+          "SourceString": "Bassassin"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "6B3CDF2443756928C0588CA5EDB39527",
-          "SourceString": "All Contract Giller Challenges"
+          "SourceString": "All Bassassin Challenges"
         },
         "Priority": 120
       },

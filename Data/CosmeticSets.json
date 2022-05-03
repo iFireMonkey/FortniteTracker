@@ -8518,7 +8518,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BeamPepper_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Tales from the Animus"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8531,7 +8531,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SunCord_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Mary Jane Watson"
         },
         "Description": {
           "CultureInvariantString": null
@@ -8610,6 +8610,214 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.DineGrudge_DisplayName",
           "SourceString": "Celebrating Women"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.JokeAngel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.JokeAngel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.JokeAngel_DisplayName",
+          "SourceString": "Prowler"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WildChair": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WildChair"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WildChair_DisplayName",
+          "SourceString": "Chloe Kim"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ProperPastel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ProperPastel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ProperPastel_DisplayName",
+          "SourceString": "Doctor Strange"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KnockoutBoss": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KnockoutBoss"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KnockoutBoss_DisplayName",
+          "SourceString": "K.O. Captain"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GuideRobot": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GuideRobot"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GuideRobot_DisplayName",
+          "SourceString": "Segway"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HopeWatcher": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HopeWatcher"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HopeWatcher_DisplayName",
+          "SourceString": "Wish Guardian"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TentPetty": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TentPetty"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TentPetty_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShadowChoice": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ShadowChoice"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ShadowChoice_DisplayName",
+          "SourceString": "The Dark Unchosen"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PenRatio": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PenRatio"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PenRatio_DisplayName",
+          "SourceString": "Coachella"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RedNight": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.RedNight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RedNight_DisplayName",
+          "SourceString": "Dark Serenity"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TollTribe": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TollTribe"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TollTribe_DisplayName",
+          "SourceString": "Basquiat"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ThemeAgile": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ThemeAgile"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ThemeAgile_DisplayName",
+          "SourceString": "Wu Wear"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DevoteCatch": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DevoteCatch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DevoteCatch_DisplayName",
+          "SourceString": "Moon Knight"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MangaCrew": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MangaCrew"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MangaCrew_DisplayName",
+          "SourceString": "Anime Legends"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LeapForward": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LeapForward"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LeapForward_DisplayName",
+          "SourceString": "Go the Distance"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FailPack": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FailPack"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FailPack_DisplayName",
+          "SourceString": "Blunder Bundle"
         },
         "Description": {
           "CultureInvariantString": null

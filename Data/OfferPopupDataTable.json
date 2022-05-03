@@ -321,7 +321,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "CBA000A34882B5E3F542278F1927B3EA",
-          "SourceString": "Attend the Afterlife Party in Party Royale and unlock the exclusive J Balvin style for Party Trooper!"
+          "SourceString": "Vibrates when hitting a weak point!"
         }
       },
       "reactiveyorkbackbling": {
@@ -1294,35 +1294,35 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "AC0E58A146D3B05396277B9531944FDA",
-          "SourceString": "TBD"
+          "SourceString": "Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped. Outfit reacts to music!"
         }
       },
       "promodesc21": {
         "FormatedText": {
           "Namespace": "",
           "Key": "ED0B8BEE42A2E61C611AF3AB648DB8AA",
-          "SourceString": "TBD"
+          "SourceString": "Equip the SOUND SCEPTER as a Pickaxe or Back Bling. BRUNO MARS's BLASTOFF style reacts to eliminations!"
         }
       },
       "promodesc22": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FD5A812643210AD9937553AA277E44D0",
-          "SourceString": "TBD"
+          "SourceString": "ANDERSON .PAAK's BLASTOFF style reacts to eliminations!"
         }
       },
       "promodesc23": {
         "FormatedText": {
           "Namespace": "",
           "Key": "70DE2F384683F7C44E48F78FF1D2C060",
-          "SourceString": "TBD"
+          "SourceString": "Both Outfits' BLASTOFF styles react to eliminations!"
         }
       },
       "promodesc24": {
         "FormatedText": {
           "Namespace": "",
           "Key": "40A791E64AB31B339C868AA66DF9B0E7",
-          "SourceString": "TBD"
+          "SourceString": "Both Outfits react to music! Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped."
         }
       },
       "outfitlightelim": {
@@ -1330,6 +1330,125 @@
           "Namespace": "",
           "Key": "4D9CAE684D247A86C81F8BA5ABC4F595",
           "SourceString": "Reactive: Outfit lights up with eliminations!"
+        }
+      },
+      "promodesc25": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D3CA254849628AFF6CF1529BAE23416C",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc26": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E9C6BB6C41F907FA5B747F989305DAD9",
+          "SourceString": "Bundle includes loading screen! With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!"
+        }
+      },
+      "promodesc27": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9C274D6D473740FBEA58119D06D7850F",
+          "SourceString": "Bundle includes bonus items! Use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote to equip <text color=\"FFFFFFFF\">Ezio's Hidden Blade</>! Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!"
+        }
+      },
+      "promodesc28": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C6E28C3240EA6B4B0235AE96D33B2EFA",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!"
+        }
+      },
+      "promodesc29": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9C3DD27F45A1975D8F72C09B0B572C21",
+          "SourceString": "With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!"
+        }
+      },
+      "promodesc30": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B623DF7444C937F0F8852AB7F277693A",
+          "SourceString": "TBD"
+        }
+      },
+      "journeyisb": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3F741B834C00A5C1D04F55868D5449BA",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">Assassin's Strike Emote</> to wield <text color=\"FFFFFFFF\">Ezio's Hidden Blade</> Pickaxe! Only <text color=\"FFFFFFFF\">Ezio</> can use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote. "
+        }
+      },
+      "musicreactivity": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "423418D045F16618D353F28D73532077",
+          "SourceString": "Reacts to music!"
+        }
+      },
+      "itemmusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "16B7638143BBF63BA7A8A3805EE3CA80",
+          "SourceString": "Items react to music!"
+        }
+      },
+      "outfitbackblingmusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9951171A40C8DAC9211B4C9D98AE0CB0",
+          "SourceString": "Outfit and Back Bling react to music!"
+        }
+      },
+      "vampirehunter": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "394CB8D04C4FB591B57D97A25C06ADB4",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">NIGHTFORGED BLADES</> Pickaxe from its Back Bling when both are equipped!"
+        }
+      },
+      "lurkfemale": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "751644D94E78DA4C75794DADEA7DF0FC",
+          "SourceString": "Equip the <text color=\"FFFFFFFF\">Web Shredder</> as a Back Bling or Pickaxe!"
+        }
+      },
+      "backblingmusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6D6C05F145AB574D3A1DB48AA416400E",
+          "SourceString": "Back Bling reacts to music!"
+        }
+      },
+      "promodesc31": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6CEA81D943956413A2524EBCE261E0C6",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc32": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1C605784435C6BB285C82AB55E0E6EA0",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc33": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9DA912914C55A8C20EF64CA5CAA6B2FD",
+          "SourceString": "TBD"
+        }
+      },
+      "bundlemusic": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1AB74E6D445C1505DBE95B909A18F4FD",
+          "SourceString": "Bundle includes Loading Screen and Emoticon. Back Blings react to music!"
         }
       }
     }

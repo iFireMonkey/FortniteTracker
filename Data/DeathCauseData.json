@@ -2393,6 +2393,40 @@
           ],
           "DeathCauseInfoVariants": [
             {
+              "DisplayText": "Vehicle (Armored Battle Bus)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.ArmoredBattleBus"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "7B9FFEE74271F46CFC481D9CEE5A4058",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "194B935F42222C503DE883AEDEBF23D2",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "9A86E6324C1770359D702AB6119A57A8",
+                  "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with a Armored Battle Bus"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "740138AC4B957041B99320847BA56A49",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Armored Battle Bus"
+                }
+              ]
+            },
+            {
               "DisplayText": "Vehicle (Biplane)",
               "DeathCauseTag": {
                 "TagName": "Athena.Vehicle.Biplane"
@@ -2721,6 +2755,40 @@
               ]
             },
             {
+              "DisplayText": "Vehicle (Tank)",
+              "DeathCauseTag": {
+                "TagName": "Athena.Vehicle.Tank"
+              },
+              "SelfInflictedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "6F1945544F2AEB904E3221BBE2F5C39C",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the Tank's parking brake"
+                }
+              ],
+              "SelfInflictedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "156EA7B94B59A4D0B37038802BA05739",
+                  "SourceString": "<{VictimStyle}>{PlayerName}</> forgot to set the Tank's parking brake"
+                }
+              ],
+              "EliminatedMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "165A69134700682882BAFE8F1FA37EFA",
+                  "SourceString": "<{KillerStyle}>{Killer}</> squashed <{VictimStyle}>{PlayerName}</> with a Titan Tank"
+                }
+              ],
+              "EliminatedDBNOMessages": [
+                {
+                  "Namespace": "",
+                  "Key": "B32784F8422E1318F62BE6A3458A2C31",
+                  "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Titan Tank"
+                }
+              ]
+            },
+            {
               "DisplayText": "Vehicle (Taxi)",
               "DeathCauseTag": {
                 "TagName": "Athena.Vehicle.Valet.Taxi"
@@ -2923,6 +2991,70 @@
               "Namespace": "",
               "Key": "C4719DF5412DB247B5B2978DD4049493",
               "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with a Motorboat Missile"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Vehicle (Tank - Cannon)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Vehicle.Tank.Cannon"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
+          "SelfInflictedMessages": [
+            {
+              "Namespace": "",
+              "Key": "6810ECC64C16C30FABA0768E12EC8A87",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was eliminated by their own Tank."
+            }
+          ],
+          "SelfInflictedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "B97DC68D461E47012199EEBF90AB8110",
+              "SourceString": "<{VictimStyle}>{PlayerName}</> was knocked out by their own Tank."
+            }
+          ],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D3C023C0457B4201F5632D9D12C28339",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with the Titan's Cannon{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "E682DCA544EA10FC947CD3A313FB1F97",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Titan's Cannon{DistanceText}"
+            }
+          ],
+          "DeathCauseInfoVariants": []
+        },
+        {
+          "DisplayText": "Vehicle (Tank - Turret)",
+          "DeathCauseTag": {
+            "TagName": "Item.Weapon.Vehicle.Tank.Turret"
+          },
+          "EliminatedByName": {
+            "CultureInvariantString": null
+          },
+          "SelfInflictedMessages": [],
+          "SelfInflictedDBNOMessages": [],
+          "EliminatedMessages": [
+            {
+              "Namespace": "",
+              "Key": "D4EA46D44CBA59F452AC96ACA07CEDC5",
+              "SourceString": "<{KillerStyle}>{Killer}</> eliminated <{VictimStyle}>{PlayerName}</> with the Titan's Mounted Turret{DistanceText}"
+            }
+          ],
+          "EliminatedDBNOMessages": [
+            {
+              "Namespace": "",
+              "Key": "157182994F25EC4705F443AD64651BEC",
+              "SourceString": "<{KillerStyle}>{Killer}</> knocked out <{VictimStyle}>{PlayerName}</> with the Titan's Mounted Turret{DistanceText}"
             }
           ],
           "DeathCauseInfoVariants": []

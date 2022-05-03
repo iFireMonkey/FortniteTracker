@@ -48149,6 +48149,51 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "StonewoodQuest_Filler_1_D2_006": {
+        "QuestTemplateId": "Quest:stonewoodquest_filler_1_d2",
+        "TemplateId": "AccountResource:voucher_cardpack_bronze",
+        "Quantity": 2,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StonewoodQuest_Fetch_ResearchCrates_006": {
+        "QuestTemplateId": "Quest:stonewoodquest_fetch_researchcrates",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StonewoodQuest_Fetch_TrashCans_007": {
+        "QuestTemplateId": "Quest:stonewoodquest_fetch_trashcans",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "ReactiveQuest_SupplyRun_003": {
+        "QuestTemplateId": "Quest:reactivequest_supplyrun",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StonewoodQuest_Fetch_DirectorStuff_007": {
+        "QuestTemplateId": "Quest:stonewoodquest_fetch_directorstuff",
+        "TemplateId": "AccountResource:currency_xrayllama",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

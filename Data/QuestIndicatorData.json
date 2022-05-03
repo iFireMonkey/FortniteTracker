@@ -138,7 +138,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_CrazyCave",
-            "SourceString": "COVERT CAVERN"
+            "SourceString": "COMMAND CAVERN"
           },
           "WorldLocation": {
             "X": 39492.0,
@@ -156,6 +156,174 @@
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_CovertCavern",
           "ActiveDiscoverableBlodIds": [
             182
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_POI_TheFortress",
+            "SourceString": "THE FORTRESS"
+          },
+          "WorldLocation": {
+            "X": 25344.0,
+            "Y": -43392.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.TheFortress"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_TheFortress",
+          "ActiveDiscoverableBlodIds": [
+            205
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_01",
+            "SourceString": "Crispy Crater"
+          },
+          "WorldLocation": {
+            "X": -68096.0,
+            "Y": -74752.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Crater.01"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater01",
+          "ActiveDiscoverableBlodIds": [
+            125
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_01",
+            "SourceString": "Crispy Crater"
+          },
+          "WorldLocation": {
+            "X": -67072.0,
+            "Y": -45824.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Crater.01"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater01",
+          "ActiveDiscoverableBlodIds": [
+            125
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_02",
+            "SourceString": "Infiltrator Crater"
+          },
+          "WorldLocation": {
+            "X": -55296.0,
+            "Y": 57600.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Crater.02"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater02",
+          "ActiveDiscoverableBlodIds": [
+            190
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_03",
+            "SourceString": "Catastrophe Crater"
+          },
+          "WorldLocation": {
+            "X": 73984.0,
+            "Y": 58624.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Crater.03"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater03",
+          "ActiveDiscoverableBlodIds": [
+            83
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_03",
+            "SourceString": "Catastrophe Crater"
+          },
+          "WorldLocation": {
+            "X": 67584.0,
+            "Y": 82432.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Crater.03"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater03",
+          "ActiveDiscoverableBlodIds": [
+            83
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_03",
+            "SourceString": "Outpost Dash"
+          },
+          "WorldLocation": {
+            "X": 78336.0,
+            "Y": 51712.0,
+            "Z": 2560.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.IO.Outpost.03"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost03",
+          "ActiveDiscoverableBlodIds": [
+            65
           ]
         },
         {
@@ -180,6 +348,102 @@
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_RockyReels",
           "ActiveDiscoverableBlodIds": [
             123
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_01",
+            "SourceString": "Outpost Omega"
+          },
+          "WorldLocation": {
+            "X": 81408.0,
+            "Y": -23552.0,
+            "Z": 3328.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.IO.Outpost.01"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost01",
+          "ActiveDiscoverableBlodIds": [
+            65
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_04",
+            "SourceString": "Outpost Epsilon"
+          },
+          "WorldLocation": {
+            "X": -2560.0,
+            "Y": 18432.0,
+            "Z": 2816.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.IO.Outpost.04"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost04",
+          "ActiveDiscoverableBlodIds": [
+            13
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_05",
+            "SourceString": "Outpost Raven"
+          },
+          "WorldLocation": {
+            "X": -53248.0,
+            "Y": 54784.0,
+            "Z": 1792.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.IO.Outpost.05"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost05",
+          "ActiveDiscoverableBlodIds": [
+            65
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_02",
+            "SourceString": "Outpost Ryder"
+          },
+          "WorldLocation": {
+            "X": -73728.0,
+            "Y": -36864.0,
+            "Z": 2048.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnnamedPOI.IO.Outpost.02"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost02",
+          "ActiveDiscoverableBlodIds": [
+            65
           ]
         },
         {
@@ -281,8 +545,8 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_06",
-            "SourceString": "Seven Outpost VI"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SinkHole",
+            "SourceString": "Dispatch Depot"
           },
           "WorldLocation": {
             "X": 12800.0,
@@ -290,14 +554,14 @@
             "Z": 8704.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Seven.FB.06"
+            "TagName": "Athena.Location.UnNamedPOI.SinkHole"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_SevenFB_06",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_SinkHole",
           "ActiveDiscoverableBlodIds": [
             225
           ]
@@ -582,9 +846,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_BlockHouse",
-          "ActiveDiscoverableBlodIds": [
-            65
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -606,9 +868,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_CliffHouse",
-          "ActiveDiscoverableBlodIds": [
-            83
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1046,9 +1306,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_PowerTower",
-          "ActiveDiscoverableBlodIds": [
-            18
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1492,9 +1750,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_PuddlePond",
-          "ActiveDiscoverableBlodIds": [
-            13
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1569,23 +1825,23 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_DesertOasis",
-            "SourceString": "Haven's Oasis"
+            "Key": "NameForLocation_Athena_Location_POI_SynapseStation",
+            "SourceString": "SYNAPSE STATION"
           },
           "WorldLocation": {
-            "X": -92416.0,
-            "Y": -34304.0,
+            "X": -100096.0,
+            "Y": -28928.0,
             "Z": 8704.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.DesertOasis"
+            "TagName": "Athena.Location.POI.SynapseStation"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_DesertOasis",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_SynapseStation",
           "ActiveDiscoverableBlodIds": [
             45
           ]
