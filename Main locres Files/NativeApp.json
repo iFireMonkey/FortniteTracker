@@ -1,16 +1,4 @@
 {
-  "EnvQueryGenerator": {
-    "ScoreConstant": "constant score",
-    "DontScore": "don't score",
-    "Greater": "greater",
-    "Lesser": "lesser",
-    "ScorePrefer": "prefer",
-    "SimpleGridDescription": "radius: {0}, space between: {1}",
-    "ScoreFactor": "score factor",
-    "SimpleGridDescriptionGenerateAroundContext": "{0}: generate around {1}",
-    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: generate items around {DescribeContext}",
-    "SimpleGridDescriptionWithProjection": "{Description}, {ProjectionDescription}"
-  },
   "FORTMOBILE_HUDLAYOUTPROFILE": {
     "HUDProfileContainerSaveSlotTitle": "{0} Copy"
   },
@@ -51,7 +39,6 @@
     "PlaybackError": "There was an error during replay playback."
   },
   "SpriteCategory": {
-    "Lighting": "Lighting",
-    "Triggers": "Triggers"
+    "Lighting": "Lighting"
   }
 }
