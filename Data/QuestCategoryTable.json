@@ -57,6 +57,14 @@
         },
         "SortPriority": 95
       },
+      "StarterBundleQuests10": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests10_Name",
+          "SourceString": "Toni Starter Bundle"
+        },
+        "SortPriority": 84
+      },
       "StarterBundleQuests09": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -270,6 +278,14 @@
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Beginnings_Seasonal_Name",
           "SourceString": "Venture: Challenge Quests"
+        },
+        "SortPriority": 50
+      },
+      "LTE_Fennix": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Fennix_Name",
+          "SourceString": "Event: Flight of the Fennix"
         },
         "SortPriority": 52
       },

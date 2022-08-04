@@ -10,7 +10,7 @@
     },
     "Rows": {
       "Cosmetics.UserFacingFlags.Emote.Traversal": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Emote.Traversal"
         },
         "DisplayName": {
@@ -25,7 +25,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.HasUpgradeQuests": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.HasUpgradeQuests"
         },
         "DisplayName": {
@@ -40,7 +40,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.HasVariants": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.HasVariants"
         },
         "DisplayName": {
@@ -55,7 +55,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Reactive": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Reactive"
         },
         "DisplayName": {
@@ -70,7 +70,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.LoadingScreen.Animated": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.LoadingScreen.Animated"
         },
         "DisplayName": {
@@ -85,7 +85,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Spray.Animated": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Spray.Animated"
         },
         "DisplayName": {
@@ -100,7 +100,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Wrap.Animated": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Wrap.Animated"
         },
         "DisplayName": {
@@ -115,7 +115,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Emoticon.Animated": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Emoticon.Animated"
         },
         "DisplayName": {
@@ -130,7 +130,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Enlightened": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Enlightened"
         },
         "DisplayName": {
@@ -145,7 +145,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.GearUp": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.GearUp"
         },
         "DisplayName": {
@@ -160,7 +160,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.BuiltInEmote": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.BuiltInEmote"
         },
         "DisplayName": {
@@ -175,7 +175,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Synced": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Synced"
         },
         "DisplayName": {
@@ -190,7 +190,7 @@
         }
       },
       "Cosmetics.UserFacingFlags.Transform": {
-        "Tag": {
+        "tag": {
           "TagName": "Cosmetics.UserFacingFlags.Transform"
         },
         "DisplayName": {

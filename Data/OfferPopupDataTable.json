@@ -321,7 +321,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "CBA000A34882B5E3F542278F1927B3EA",
-          "SourceString": "Vibrates when hitting a weak point!"
+          "SourceString": "Attend the Afterlife Party in Party Royale and unlock the exclusive J Balvin style for Party Trooper!"
         }
       },
       "reactiveyorkbackbling": {
@@ -412,7 +412,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "70EF5B1D4F926DFCD1A42C99D1089F23",
-          "SourceString": "FNCS Chapter 3 Season 1 Finals Exclusive!"
+          "SourceString": "Join a chorus with other players who are using the Sing Along emote!"
         }
       },
       "wombatmaledesc": {
@@ -1371,7 +1371,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "B623DF7444C937F0F8852AB7F277693A",
-          "SourceString": "TBD"
+          "SourceString": "With the reactive <text color=\"FFFFFFFF\">Prismatic Streak</> style, <text color=\"FFFFFFFF\">Chica</> lights up with eliminations!"
         }
       },
       "journeyisb": {
@@ -1455,14 +1455,14 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "E28AE63F4BB634238BF57390793AF798",
-          "SourceString": "Unsheathe <text color=\"FFFFFFFF\">KNIGHT'S TORMENT</> Pickaxe from its Back Bling when both are equipped."
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">KNIGHT'S TORMENT</> Pickaxe from its Back Bling when both are unlocked and equipped!"
         }
       },
       "promodesc34": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FC0FE98B4736FF92522FAA816EFED6F9",
-          "SourceString": "TBD"
+          "SourceString": "Equip <text color=\"FFFFFFFF\">LEG-209</> as a Back Bling or a Pickaxe!"
         }
       },
       "giftfriend": {
@@ -1498,6 +1498,160 @@
           "Namespace": "",
           "Key": "5F13E9004E25C1C5AB49E19313C4FDE0",
           "SourceString": "Outfit lights up when dealing damage!"
+        }
+      },
+      "promodesc35": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9B4EFBE54C28D4E7FB75A08C0EDB0E46",
+          "SourceString": "You can earn this item by participating in the Nindo Challenges instead of purchasing. Sign up: fn.gg/nindo"
+        }
+      },
+      "promodesc36": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "69A7E41E4215D8C8F18780B96703E15D",
+          "SourceString": "Targeter's Tally Back Bling counts eliminations! Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals."
+        }
+      },
+      "promodesc37": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "EBBBD3A446E97F1C38DB498DDBA06327",
+          "SourceString": "Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals."
+        }
+      },
+      "energytoggle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "03A95C4C41E4BA7410E49CA81E8D1AE8",
+          "SourceString": "Select different light colors! Toggle lights on/off!"
+        }
+      },
+      "promodesc38": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "25C62B994215ECB4F4E44987A8E48A5D",
+          "SourceString": "Deploy the <text color=\"FFFFFFFF\">ALI-TECH PLASMAWINGS</> from the <text color=\"FFFFFFFF\">ALI-TECH BACKPLATE</> when both are equipped! Select different light colors! Toggle lights on/off!"
+        }
+      },
+      "backdamage": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "21716C6446525F685E397C8EAF15F795",
+          "SourceString": "Backbling transforms when taking damage or while knocked down! Backbling reacts to movement!"
+        }
+      },
+      "promodesc39": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9B3B113C4F2CFA12C405FB85CC12F978",
+          "SourceString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped! Bundle Includes Loading Screen!"
+        }
+      },
+      "promodesc40": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0775FAF24D6F9B356BF58E96C18F0850",
+          "SourceString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped!"
+        }
+      },
+      "promodesc41": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9EEB32C04FFA21852DCC308E4AD7781F",
+          "SourceString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation."
+        }
+      },
+      "promodesc42": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AD39059C4A036E0A595F8AA5E569FB0B",
+          "SourceString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation. Bundle includes Loading Screen!"
+        }
+      },
+      "promodesc43": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C2F646A943EB76A5570F5F9AA4C88F7B",
+          "SourceString": "The <text color=\"FFFFFFFF\">Crewmate</> Back Bling reacts when you move or get knocked down!"
+        }
+      },
+      "bundlebanner": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A5B630B548A22C29A5228BB2722DDCED",
+          "SourceString": "Bundle includes Banner!"
+        }
+      },
+      "promodesc44": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "7BDC39554AA2A9C5BA5315AACAD50FDF",
+          "SourceString": "Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!"
+        }
+      },
+      "fangs": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "75015FED4394F35C61E152903E9CB0E3",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">FIRE FANGS</> from the included back bling when both are equipped!"
+        }
+      },
+      "promodesc45": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4D2B13C14FE1964962CE7B8FE4CEAD97",
+          "SourceString": "<text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!"
+        }
+      },
+      "promodesc46": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "EB88428A4FAF7A2B7C9528A84B8DE7FB",
+          "SourceString": "Bundle includes loading screen! Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!"
+        }
+      },
+      "promodesc47": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "813D372C481667403C1063BA56BB95B5",
+          "SourceString": "Bundle includes loading screen! <text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!"
+        }
+      },
+      "promodesc48": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "28F83B2142557CCABAB46CB22E6B4165",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc49": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2F8FA4374D23326CAA0595995646D65E",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc50": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "74E8337F4537051A6FB71F81590E079B",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc51": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E1B4F0FE42DFF9D322A8E5A27A3DB96F",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc52": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "05706597461C04605D2347815DD6A2DA",
+          "SourceString": "TBD"
         }
       }
     }

@@ -137,8 +137,54 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_HenchHut",
+            "SourceString": "Hench Hut"
+          },
+          "WorldLocation": {
+            "X": -6036.0,
+            "Y": -90508.0,
+            "Z": 1704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.HenchHut"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_HenchHut",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_MushroomVillage",
+            "SourceString": "Displaced Depot"
+          },
+          "WorldLocation": {
+            "X": -48072.0,
+            "Y": -109660.0,
+            "Z": 2328.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.MushroomVillage"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_MushroomVillage",
+          "ActiveDiscoverableBlodIds": [
+            190
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_CrazyCave",
-            "SourceString": "COMMAND CAVERN"
+            "SourceString": "RAVE CAVE"
           },
           "WorldLocation": {
             "X": 39492.0,
@@ -161,8 +207,8 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_POI_TheFortress",
-            "SourceString": "THE FORTRESS"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_DrillHill",
+            "SourceString": "Drill Hill"
           },
           "WorldLocation": {
             "X": 25344.0,
@@ -170,14 +216,14 @@
             "Z": 8704.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.TheFortress"
+            "TagName": "Athena.Location.UnNamedPOI.DrillHill"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_TheFortress",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_DrillHill",
           "ActiveDiscoverableBlodIds": [
             205
           ]
@@ -185,56 +231,52 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_01",
-            "SourceString": "Crispy Crater"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_LushLogs",
+            "SourceString": "Lush Logs"
           },
           "WorldLocation": {
-            "X": -68096.0,
-            "Y": -74752.0,
-            "Z": 8704.0
+            "X": 77436.0,
+            "Y": -46672.0,
+            "Z": 7052.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Crater.01"
+            "TagName": "Athena.Location.UnNamedPOI.LushLogs"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater01",
-          "ActiveDiscoverableBlodIds": [
-            125
-          ]
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_LushLogs",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_01",
-            "SourceString": "Crispy Crater"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SleepyShrubs",
+            "SourceString": "Sleepy Shrubs"
           },
           "WorldLocation": {
-            "X": -67072.0,
-            "Y": -45824.0,
+            "X": 90580.0,
+            "Y": 24804.0,
             "Z": 8704.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Crater.01"
+            "TagName": "Athena.Location.UnNamedPOI.SleepyShrubs"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater01",
-          "ActiveDiscoverableBlodIds": [
-            125
-          ]
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_SleepyShrubs",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_02",
-            "SourceString": "Infiltrator Crater"
+            "SourceString": "Reinvigorator Crater"
           },
           "WorldLocation": {
             "X": -55296.0,
@@ -250,15 +292,13 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Crater02",
-          "ActiveDiscoverableBlodIds": [
-            190
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_03",
-            "SourceString": "Catastrophe Crater"
+            "SourceString": "Verdant Valley"
           },
           "WorldLocation": {
             "X": 73984.0,
@@ -282,7 +322,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Crater_03",
-            "SourceString": "Catastrophe Crater"
+            "SourceString": "Verdant Valley"
           },
           "WorldLocation": {
             "X": 67584.0,
@@ -306,7 +346,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_03",
-            "SourceString": "Outpost Dash"
+            "SourceString": "Ocean Outpost"
           },
           "WorldLocation": {
             "X": 78336.0,
@@ -322,9 +362,7 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost03",
-          "ActiveDiscoverableBlodIds": [
-            65
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -354,7 +392,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_01",
-            "SourceString": "Outpost Omega"
+            "SourceString": "Outcast Outpost"
           },
           "WorldLocation": {
             "X": 81408.0,
@@ -370,15 +408,13 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost01",
-          "ActiveDiscoverableBlodIds": [
-            65
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_04",
-            "SourceString": "Outpost Epsilon"
+            "SourceString": "Open Road Outpost"
           },
           "WorldLocation": {
             "X": -2560.0,
@@ -402,7 +438,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_05",
-            "SourceString": "Outpost Raven"
+            "SourceString": "Optimized Outpost"
           },
           "WorldLocation": {
             "X": -53248.0,
@@ -418,15 +454,13 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost05",
-          "ActiveDiscoverableBlodIds": [
-            65
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnnamedPOI_IO_Outpost_02",
-            "SourceString": "Outpost Ryder"
+            "SourceString": "Overtaken Outpost"
           },
           "WorldLocation": {
             "X": -73728.0,
@@ -442,9 +476,29 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_IO_Outpost02",
-          "ActiveDiscoverableBlodIds": [
-            65
-          ]
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_GeyserShortcut",
+            "SourceString": "Peril Pass"
+          },
+          "WorldLocation": {
+            "X": -5224.0,
+            "Y": -99368.0,
+            "Z": 2328.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.GeyserShortcut"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_GeyserGulch",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -469,6 +523,210 @@
           "ActiveDiscoverableBlodIds": [
             211
           ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_POI_RealityFalls",
+            "SourceString": "REALITY FALLS"
+          },
+          "WorldLocation": {
+            "X": -8916.0,
+            "Y": -81596.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.RealityFalls"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_CampCuddles",
+          "ActiveDiscoverableBlodIds": [
+            133
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_DenseMushroomGrove",
+            "SourceString": "Groovy Grove"
+          },
+          "WorldLocation": {
+            "X": -17884.0,
+            "Y": -105756.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.DenseMushroomGrove"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_DenseMushroomGrove",
+          "ActiveDiscoverableBlodIds": [
+            88
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_VillageShack",
+            "SourceString": "Cappy Cabin"
+          },
+          "WorldLocation": {
+            "X": -40820.0,
+            "Y": -121892.0,
+            "Z": 2096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.VillageShack"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_VillageShack",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BeachParty",
+            "SourceString": "Beach Bash"
+          },
+          "WorldLocation": {
+            "X": -30172.0,
+            "Y": -119660.0,
+            "Z": 612.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.BeachParty"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_BeachParty",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RealityRoots",
+            "SourceString": "Reality Roots"
+          },
+          "WorldLocation": {
+            "X": -22536.0,
+            "Y": -61620.0,
+            "Z": 1624.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.RealityRoots"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_RealityRoots",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_POI_ShuffledShrines",
+            "SourceString": "SHUFFLED SHRINES"
+          },
+          "WorldLocation": {
+            "X": -44848.0,
+            "Y": 39260.0,
+            "Z": 7188.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.ShuffledShrines"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_ShuffledShrines",
+          "ActiveDiscoverableBlodIds": [
+            25
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RealityRoots",
+            "SourceString": "Reality Roots"
+          },
+          "WorldLocation": {
+            "X": -43388.0,
+            "Y": -36432.0,
+            "Z": 1624.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.RealityRoots"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_RealityRoots",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TheDailyBloomgle",
+            "SourceString": "The Daily Bloomgle"
+          },
+          "WorldLocation": {
+            "X": 45116.0,
+            "Y": 60448.0,
+            "Z": 4888.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.TheDailyBloomgle"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_TheDailyBloomgle",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_ChopShop",
+            "SourceString": "The Chop Shop"
+          },
+          "WorldLocation": {
+            "X": 109264.0,
+            "Y": -28416.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.ChopShop"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_ChopShop",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -521,36 +779,34 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Seven_FB_01",
-            "SourceString": "Seven Outpost I"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_MushroomFarm",
+            "SourceString": "Fungi Farm"
           },
           "WorldLocation": {
-            "X": -64000.0,
-            "Y": -83456.0,
+            "X": -64304.0,
+            "Y": -81824.0,
             "Z": 8704.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Seven.FB.01"
+            "TagName": "Athena.Location.UnNamedPOI.MushroomFarm"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_SevenFB_01",
-          "ActiveDiscoverableBlodIds": [
-            210
-          ]
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_MushroomFarm",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SinkHole",
-            "SourceString": "Dispatch Depot"
+            "SourceString": "The Glow"
           },
           "WorldLocation": {
-            "X": 12800.0,
-            "Y": -12800.0,
+            "X": 19636.0,
+            "Y": -12048.0,
             "Z": 8704.0
           },
           "LocationTag": {
@@ -618,7 +874,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_LogJam",
-            "SourceString": "LOGJAM LUMBERYARD"
+            "SourceString": "LOGJAM LOTUS"
           },
           "WorldLocation": {
             "X": 77312.0,
@@ -641,26 +897,46 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_POI_CampCuddles",
-            "SourceString": "CAMP CUDDLE"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Clams",
+            "SourceString": "Shelly Shoals"
           },
           "WorldLocation": {
-            "X": 2048.0,
-            "Y": -100864.0,
-            "Z": 8704.0
+            "X": -64736.0,
+            "Y": -100644.0,
+            "Z": 272.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.CampCuddles"
+            "TagName": "Athena.Location.UnNamedPOI.Clams"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_NamedLocations.Quest_C3_Discover_NamedLocations",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_CampCuddles",
-          "ActiveDiscoverableBlodIds": [
-            133
-          ]
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Clams",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Cauliflower",
+            "SourceString": "Reality Tree"
+          },
+          "WorldLocation": {
+            "X": -12020.0,
+            "Y": -80988.0,
+            "Z": 8704.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Cauliflower"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_BigTree",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -846,7 +1122,9 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_BlockHouse",
-          "ActiveDiscoverableBlodIds": []
+          "ActiveDiscoverableBlodIds": [
+            65
+          ]
         },
         {
           "Text": {
@@ -868,7 +1146,9 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_CliffHouse",
-          "ActiveDiscoverableBlodIds": []
+          "ActiveDiscoverableBlodIds": [
+            83
+          ]
         },
         {
           "Text": {
@@ -1057,23 +1337,23 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RadioTower",
-            "SourceString": "Broadcast Bunker"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_ShroomStation",
+            "SourceString": "Shroom Station"
           },
           "WorldLocation": {
-            "X": -16128.0,
-            "Y": -82048.0,
-            "Z": 8704.0
+            "X": -19492.0,
+            "Y": -64068.0,
+            "Z": 1624.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.RadioTower"
+            "TagName": "Athena.Location.UnNamedPOI.ShroomStation"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_RadioTower",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_ShroomStation",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -1172,7 +1452,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_BoatClub",
-            "SourceString": "Cuddle Cruisers"
+            "SourceString": "Syndicate Shoals"
           },
           "WorldLocation": {
             "X": 39424.0,
@@ -1219,94 +1499,92 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FishingShacks",
-            "SourceString": "The Minnows"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_MeowsculesCabin",
+            "SourceString": "Scratch Pad"
           },
           "WorldLocation": {
-            "X": -45568.0,
-            "Y": -84864.0,
-            "Z": 8704.0
+            "X": -10760.0,
+            "Y": -114820.0,
+            "Z": 2328.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FishingShacks"
+            "TagName": "Athena.Location.UnNamedPOI.MeowsculesCabin"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_FishingShacks",
-          "ActiveDiscoverableBlodIds": [
-            77
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindmillFarm",
-            "SourceString": "Windbreakers"
-          },
-          "WorldLocation": {
-            "X": -87936.0,
-            "Y": -77824.0,
-            "Z": 8704.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindmillFarm"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_WindmillFarm",
-          "ActiveDiscoverableBlodIds": [
-            79
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindPowerBuilding",
-            "SourceString": "Turbine"
-          },
-          "WorldLocation": {
-            "X": -90368.0,
-            "Y": -69376.0,
-            "Z": 8704.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindPowerBuilding"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_WindPowerBuilding",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_MeowsculesCabin",
           "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_PowerTower",
-            "SourceString": "Power Towers"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FernIsle",
+            "SourceString": "Leafy Reef"
           },
           "WorldLocation": {
-            "X": -74368.0,
-            "Y": -67072.0,
-            "Z": 8704.0
+            "X": -59816.0,
+            "Y": -104708.0,
+            "Z": 272.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.PowerTower"
+            "TagName": "Athena.Location.UnNamedPOI.FernIsle"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_PowerTower",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_FernIsle",
           "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RuralGasStation",
+            "SourceString": "'Stools Fuels"
+          },
+          "WorldLocation": {
+            "X": 11040.0,
+            "Y": -103532.0,
+            "Z": 3096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.RuralGasStation"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_RuralGasStation",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RentalLodge",
+            "SourceString": "Shroom Chalet"
+          },
+          "WorldLocation": {
+            "X": 7440.0,
+            "Y": -114812.0,
+            "Z": 2328.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.RentalLodge"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_RentalLodge",
+          "ActiveDiscoverableBlodIds": [
+            44
+          ]
         },
         {
           "Text": {
@@ -1358,7 +1636,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_ButterBarn",
-            "SourceString": "Butter Barn"
+            "SourceString": "Butter Bloom"
           },
           "WorldLocation": {
             "X": -69888.0,
@@ -1543,26 +1821,24 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RuinedTempleJungle",
-            "SourceString": "Tumbledown Temple"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BungalowBlooms",
+            "SourceString": "Bungalow Blooms"
           },
           "WorldLocation": {
-            "X": -41984.0,
-            "Y": 37120.0,
-            "Z": 8704.0
+            "X": -75508.0,
+            "Y": 67572.0,
+            "Z": 1664.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.RuinedTempleJungle"
+            "TagName": "Athena.Location.UnNamedPOI.BungalowBlooms"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_RuinedTempleJungle",
-          "ActiveDiscoverableBlodIds": [
-            25
-          ]
+          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_BungalowBlooms",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1687,34 +1963,12 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_PinnaclePeak",
-            "SourceString": "Pinnacle Peak"
-          },
-          "WorldLocation": {
-            "X": 35576.0,
-            "Y": -75268.0,
-            "Z": 12360.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.PinnaclePeak"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_PinnaclePeak",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_TiltedTowers",
             "SourceString": "TILTED TOWERS"
           },
           "WorldLocation": {
             "X": -6960.0,
-            "Y": -29540.0,
+            "Y": -29508.0,
             "Z": 8704.0
           },
           "LocationTag": {
@@ -1779,23 +2033,23 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Adrift",
-            "SourceString": "Adrift"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FishingShack",
+            "SourceString": "Spore Shack"
           },
           "WorldLocation": {
-            "X": -43264.0,
-            "Y": -104448.0,
-            "Z": 8704.0
+            "X": 11428.0,
+            "Y": -93916.0,
+            "Z": 3096.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Adrift"
+            "TagName": "Athena.Location.UnNamedPOI.FishingShack"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_Adrift",
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_FishingShack",
           "ActiveDiscoverableBlodIds": []
         },
         {

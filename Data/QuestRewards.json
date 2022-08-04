@@ -1271,7 +1271,7 @@
       },
       "AnniversaryQuest_2020_Kill_Cake_Sploders_001": {
         "QuestTemplateId": "Quest:anniversaryquest_2020_kill_cake_sploders",
-        "TemplateId": "AccountResource:voucher_cardpack_2021anniversary",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
@@ -1280,7 +1280,7 @@
       },
       "AnniversaryQuest_2020_Kill_Cake_Sploders_002": {
         "QuestTemplateId": "Quest:anniversaryquest_2020_kill_cake_sploders",
-        "TemplateId": "Token:anniversary2021_completequest",
+        "TemplateId": "Token:anniversary_persistent_completequest",
         "Quantity": 1,
         "Hidden": true,
         "Feature": false,
@@ -48190,6 +48190,285 @@
         "QuestTemplateId": "Quest:stonewoodquest_fetch_directorstuff",
         "TemplateId": "AccountResource:currency_xrayllama",
         "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_05_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_05",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_getrewards",
+        "TemplateId": "Quest:stwstarterbundle10_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_getrewards",
+        "TemplateId": "Quest:stwstarterbundle10_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_getrewards",
+        "TemplateId": "Quest:stwstarterbundle10_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_getrewards",
+        "TemplateId": "Quest:stwstarterbundle10_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_getrewards",
+        "TemplateId": "Quest:stwstarterbundle10_05",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle10_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle10_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle10",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A01_BuildRadarTowers_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a01_buildradartowers",
+        "TemplateId": "Quest:fennix_quest_a02_eliminate",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A01_BuildRadarTowers_002": {
+        "QuestTemplateId": "Quest:fennix_quest_a01_buildradartowers",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A02_Eliminate_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a02_eliminate",
+        "TemplateId": "Quest:fennix_quest_a03_rescuesurvivors",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A02_Eliminate_002": {
+        "QuestTemplateId": "Quest:fennix_quest_a02_eliminate",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A03_RescueSurvivors_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a03_rescuesurvivors",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 150,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A03_RescueSurvivors_002": {
+        "QuestTemplateId": "Quest:fennix_quest_a03_rescuesurvivors",
+        "TemplateId": "Quest:fennix_quest_a04_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A04_Fetch_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a04_fetch",
+        "TemplateId": "Quest:fennix_quest_a05_complete",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A04_Fetch_002": {
+        "QuestTemplateId": "Quest:fennix_quest_a04_fetch",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A05_Complete_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a05_complete",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A05_Complete_002": {
+        "QuestTemplateId": "Quest:fennix_quest_a05_complete",
+        "TemplateId": "Quest:fennix_quest_a06_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A06_Fetch_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a06_fetch",
+        "TemplateId": "Quest:fennix_quest_a07_destroyencampments",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A06_Fetch_002": {
+        "QuestTemplateId": "Quest:fennix_quest_a06_fetch",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 150,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Fennix_Quest_A07_DestroyEncampments_001": {
+        "QuestTemplateId": "Quest:fennix_quest_a07_destroyencampments",
+        "TemplateId": "Hero:hid_ninja_044_fennix_sr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_CollectFlamingos_001": {
+        "QuestTemplateId": "Quest:birthday_quest_collectflamingos",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_LightFireworks_001": {
+        "QuestTemplateId": "Quest:birthday_quest_lightfireworks",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_RescueSurvivors_001": {
+        "QuestTemplateId": "Quest:birthday_quest_rescuesurvivors",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_MistMonsters_001": {
+        "QuestTemplateId": "Quest:birthday_quest_mistmonsters",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_CollectIce_001": {
+        "QuestTemplateId": "Quest:birthday_quest_collectice",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_CollectTowels_001": {
+        "QuestTemplateId": "Quest:birthday_quest_collecttowels",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Birthday_Quest_HarvestAC_001": {
+        "QuestTemplateId": "Quest:birthday_quest_harvestac",
+        "TemplateId": "AccountResource:voucher_cardpack_persistent_anniversary",
+        "Quantity": 1,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
