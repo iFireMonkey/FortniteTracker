@@ -9285,7 +9285,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SpellMovie_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "John Cena"
         },
         "Description": {
           "CultureInvariantString": null
@@ -9377,6 +9377,84 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.LightHistory_DisplayName",
           "SourceString": "Photonic Legacy"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MissStem": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MissStem"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MissStem_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WordRemark": {
+        "tag": {
+          "TagName": "Cosmetics.Set.WordRemark"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WordRemark_DisplayName",
+          "SourceString": "Dragon Ball"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WildLinen": {
+        "tag": {
+          "TagName": "Cosmetics.Set.WildLinen"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WildLinen_DisplayName",
+          "SourceString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NineRing": {
+        "tag": {
+          "TagName": "Cosmetics.Set.NineRing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NineRing_DisplayName",
+          "SourceString": "Ninth Circle"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PrimitiveSpirit": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PrimitiveSpirit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PrimitiveSpirit_DisplayName",
+          "SourceString": "Elemental Eidolon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CrossedForce": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CrossedForce"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrossedForce_DisplayName",
+          "SourceString": "Crossmark Operative"
         },
         "Description": {
           "CultureInvariantString": null

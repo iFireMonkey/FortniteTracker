@@ -57,6 +57,14 @@
         },
         "SortPriority": 95
       },
+      "StarterBundleQuests11": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests11_Name",
+          "SourceString": "Crossmark Operative Starter Bundle"
+        },
+        "SortPriority": 85
+      },
       "StarterBundleQuests10": {
         "Name": {
           "Namespace": "QuestCategoryTable",

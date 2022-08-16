@@ -4,8 +4,8 @@
     "Name": "QuestIndicatorData",
     "Properties": {
       "QuestTagToLocationDataTable": {
-        "ObjectName": "DataTable QuestTagToLocationDataRows",
-        "ObjectPath": "/Game/Quests/QuestTagToLocationDataRows.0"
+        "ObjectName": "CompositeDataTable QuestLocationDataRows",
+        "ObjectPath": "/Game/Quests/QuestLocationDataRows.0"
       },
       "DefaultQuestIcon": {
         "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Replay/T-Icon-Replay-Exclamation-L.T-Icon-Replay-Exclamation-L",
@@ -682,28 +682,6 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_RealityRoots",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TheDailyBloomgle",
-            "SourceString": "The Daily Bloomgle"
-          },
-          "WorldLocation": {
-            "X": 45116.0,
-            "Y": 60448.0,
-            "Z": 4888.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TheDailyBloomgle"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C3_Discover_Landmarks_TheDailyBloomgle",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -2104,7 +2082,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_DailyBugle",
-            "SourceString": "THE DAILY BUGLE"
+            "SourceString": "LAZY LAGOON"
           },
           "WorldLocation": {
             "X": 42496.0,
