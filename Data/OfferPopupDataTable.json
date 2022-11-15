@@ -1784,21 +1784,21 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "96231CF44A0E40257B1AD5B2E5E8A732",
-          "SourceString": "Bundle includes <text color=\"FFFFFFFF\">CLOSED CIRCUIT</> Wrap! Show off any of your wraps! Pick a color for your clothing accents on Outfits!"
+          "SourceString": "Bundle includes <text color=\\\"FFFFFFFF\\\">CLOSED CIRCUIT</> Wrap! Customize colors and show off any of your Wraps!"
         }
       },
       "defectblipdesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "48002EE14CAFB65CA105BAB3552933A8",
-          "SourceString": "Show off any of your wraps! Pick a color for your hair and armor accents! Includes <text color=\"FFFFFFFF\">SCANLIGHT</> Wrap!"
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and armor accents! Includes <text color=\\\"FFFFFFFF\\\">PROTOWAVE</> Wrap!"
         }
       },
       "defectglitchdesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "39B6A62E464E1177178F508B909D84E2",
-          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes <text color=\"FFFFFFFF\">PROTOWAVE</> Wrap!"
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes <text color=\\\"FFFFFFFF\\\">SCANLIGHT</> Wrap!"
         }
       },
       "showwraps": {
@@ -1854,6 +1854,48 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "584618F8407251E68725CFAD0F9F7C67",
+          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">SQUEAK!</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">HEARTZATTAK</> Back Bling will pulse with eliminations."
+        }
+      },
+      "promodesc70": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2E4C6B9947F761E6DAB51EA0E51DD345",
+          "SourceString": "Reactive on taking damage and eliminations! Face changes as you play! Includes Loading Screen."
+        }
+      },
+      "defectpickaxedesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1C16EFA64195007C1AAB688A3271143C",
+          "SourceString": "Show off any of your wraps! Choose Custom Strike Effects! Choose Hilt Colors!"
+        }
+      },
+      "customcolors": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "16491D024475FB91FDEC5A9C14D8C53C",
+          "SourceString": "Customizable patterns and colors!"
+        }
+      },
+      "mousebundledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "34B588FA4655B52C75D4B2B50183C3A6",
+          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">SQUEAK!</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">HEARTZATTAK</> Back Bling will pulse with eliminations. Bundle includes Loading Screen."
+        }
+      },
+      "bannercolormatch": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "66A3ED09492CF498F5590592FEC1E15C",
+          "SourceString": "Colors match your banner!"
+        }
+      },
+      "promodesc71": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "83CBE0F1432128C63330129D121431F8",
           "SourceString": "TBD"
         }
       }

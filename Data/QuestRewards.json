@@ -48707,6 +48707,2463 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "STWStarterBundle12_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_05_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_05",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_getrewards",
+        "TemplateId": "Quest:stwstarterbundle12_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_getrewards",
+        "TemplateId": "Quest:stwstarterbundle12_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_getrewards",
+        "TemplateId": "Quest:stwstarterbundle12_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_getrewards",
+        "TemplateId": "Quest:stwstarterbundle12_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_getrewards",
+        "TemplateId": "Quest:stwstarterbundle12_05",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle12_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle12_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle12",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyArcadeMachines_003": {
+        "QuestTemplateId": "Quest:daily_destroyarcademachines",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyBears_003": {
+        "QuestTemplateId": "Quest:daily_destroybears",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyFireTrucks_003": {
+        "QuestTemplateId": "Quest:daily_destroyfiretrucks",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyGnomes_003": {
+        "QuestTemplateId": "Quest:daily_destroygnomes",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyPropaneTanks_003": {
+        "QuestTemplateId": "Quest:daily_destroypropanetanks",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroySeesaws_003": {
+        "QuestTemplateId": "Quest:daily_destroyseesaws",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyServerRacks_003": {
+        "QuestTemplateId": "Quest:daily_destroyserverracks",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyTransformers_003": {
+        "QuestTemplateId": "Quest:daily_destroytransformers",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_DestroyTVs_003": {
+        "QuestTemplateId": "Quest:daily_destroytvs",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Discovery_IndustrialLocations_003": {
+        "QuestTemplateId": "Quest:daily_discovery_industriallocations",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Discovery_RuralLocations_003": {
+        "QuestTemplateId": "Quest:daily_discovery_rurallocations",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Discovery_Shelters_003": {
+        "QuestTemplateId": "Quest:daily_discovery_shelters",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Discovery_SuburbanLocations_003": {
+        "QuestTemplateId": "Quest:daily_discovery_suburbanlocations",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Discovery_UrbanLocations_003": {
+        "QuestTemplateId": "Quest:daily_discovery_urbanlocations",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_ExploreZones_003": {
+        "QuestTemplateId": "Quest:daily_explorezones",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_High_Priority_003": {
+        "QuestTemplateId": "Quest:daily_high_priority",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_AnyHero_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_anyhero",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Constructor_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_constructor",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Melee_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_melee",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Ninja_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_ninja",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Outlander_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_outlander",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Ranged_Assault_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_ranged_assault",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Ranged_Pistol_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_ranged_pistol",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Ranged_Shotgun_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_ranged_shotgun",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Ranged_SMG_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_ranged_smg",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Ranged_Sniper_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_ranged_sniper",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Soldier_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_soldier",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_HuskExtermination_Trap_003": {
+        "QuestTemplateId": "Quest:daily_huskextermination_trap",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_BuildRadar_003": {
+        "QuestTemplateId": "Quest:daily_mission_buildradar",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_Specialist_AnyHero_1_003": {
+        "QuestTemplateId": "Quest:daily_mission_specialist_anyhero_1",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_Specialist_AnyHero_2_003": {
+        "QuestTemplateId": "Quest:daily_mission_specialist_anyhero_2",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_Specialist_Constructor_003": {
+        "QuestTemplateId": "Quest:daily_mission_specialist_constructor",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_Specialist_Ninja_003": {
+        "QuestTemplateId": "Quest:daily_mission_specialist_ninja",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_Specialist_Outlander_003": {
+        "QuestTemplateId": "Quest:daily_mission_specialist_outlander",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Mission_Specialist_Soldier_003": {
+        "QuestTemplateId": "Quest:daily_mission_specialist_soldier",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_PartyOf50_003": {
+        "QuestTemplateId": "Quest:daily_partyof50",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_Safes_003": {
+        "QuestTemplateId": "Quest:daily_safes",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Daily_TreasureChests_003": {
+        "QuestTemplateId": "Quest:daily_treasurechests",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T01_003": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t01",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T02_003": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t02",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T03_003": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t03",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T04_003": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t04",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T05_003": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t05",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T06_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t06",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T07_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t07",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T08_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t08",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T09_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t09",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T10_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t10",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T11_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t11",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T12_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t12",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T13_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t13",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T14_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t14",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T15_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t15",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T16_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t16",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T17_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t17",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T18_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t18",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T19_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t19",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T20_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t20",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T21_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t21",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T22_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t22",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T23_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t23",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T24_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t24",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "WeeklyQuest_Tiered_CompleteMissionAlerts_T25_004": {
+        "QuestTemplateId": "Quest:weeklyquest_tiered_completemissionalerts_t25",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_general_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Daily_Complete_003": {
+        "QuestTemplateId": "Quest:maydayquest_2019_daily_complete",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D1_003": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d1",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_dungeon_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D2_003": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d2",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_dungeon_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D3_003": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d3",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_dungeon_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D4_003": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d4",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_dungeon_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StarlightQuest_Daily_Complete_D5Science_003": {
+        "QuestTemplateId": "Quest:starlightquest_daily_complete_d5science",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_dungeon_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D1_Burner_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d1_burner",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D1_Construct_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d1_construct",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D1_Cramp_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d1_cramp",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D1_Ice_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d1_ice",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D2_Constructor_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d2_constructor",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D2_Ninja_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d2_ninja",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D2_Outlander_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d2_outlander",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_D2_Soldier_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_d2_soldier",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Explode_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_explode_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Explode_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_explode_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Explode_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_explode_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Explode_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_explode_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Fog_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_fog_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Fog_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_fog_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Fog_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_fog_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Fog_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_fog_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Surprise_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_surprise_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Surprise_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_surprise_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Surprise_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_surprise_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Anomaly_With_Surprise_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_anomaly_with_surprise_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_DangerClose_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_dangerclose_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_DangerClose_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_dangerclose_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_DangerClose_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_dangerclose_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_DangerClose_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_dangerclose_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_HeadGames_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_headgames_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_HeadGames_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_headgames_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_HeadGames_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_headgames_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_HeadGames_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_headgames_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_NoTraps_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_notraps_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_NoTraps_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_notraps_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_NoTraps_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_notraps_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Generators_With_NoTraps_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_generators_with_notraps_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_DangerClose_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_dangerclose_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_DangerClose_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_dangerclose_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_DangerClose_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_dangerclose_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_DangerClose_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_dangerclose_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_Explode_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_explode_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_Explode_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_explode_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_Explode_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_explode_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Lava_With_Explode_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_lava_with_explode_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Fulltime_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_fulltime_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Fulltime_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_fulltime_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Fulltime_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_fulltime_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Fulltime_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_fulltime_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_NoBuild_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_nobuild_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_NoBuild_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_nobuild_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_NoBuild_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_nobuild_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_NoBuild_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_nobuild_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Surprise_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_surprise_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Surprise_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_surprise_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Surprise_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_surprise_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Meteor_With_Surprise_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_meteor_with_surprise_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_DangerClose_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_dangerclose_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_DangerClose_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_dangerclose_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_DangerClose_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_dangerclose_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_DangerClose_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_dangerclose_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_FullTime_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_fulltime_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_FullTime_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_fulltime_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_FullTime_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_fulltime_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_FullTime_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_fulltime_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_NoTraps_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_notraps_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_NoTraps_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_notraps_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_NoTraps_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_notraps_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Overload_With_NoTraps_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_overload_with_notraps_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_DangerClose_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_dangerclose_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_DangerClose_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_dangerclose_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_DangerClose_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_dangerclose_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_DangerClose_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_dangerclose_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_Fog_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_fog_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_Fog_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_fog_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_Fog_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_fog_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_Fog_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_fog_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_NoBuild_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_nobuild_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_NoBuild_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_nobuild_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_NoBuild_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_nobuild_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Pods_With_NoBuild_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_pods_with_nobuild_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_Fog_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_fog_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_Fog_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_fog_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_Fog_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_fog_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_Fog_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_fog_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_HeadGames_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_headgames_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_HeadGames_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_headgames_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_HeadGames_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_headgames_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_HeadGames_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_headgames_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_NoBuild_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_nobuild_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_NoBuild_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_nobuild_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_NoBuild_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_nobuild_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_RiotCity_With_NoBuild_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_riotcity_with_nobuild_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_DangerClose_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_dangerclose_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_DangerClose_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_dangerclose_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_DangerClose_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_dangerclose_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_DangerClose_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_dangerclose_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_Explode_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_explode_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_Explode_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_explode_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_Explode_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_explode_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Saucer_With_Explode_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_saucer_with_explode_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_FullTime_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_fulltime_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_FullTime_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_fulltime_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_FullTime_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_fulltime_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_FullTime_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_fulltime_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_HeadGames_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_headgames_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_HeadGames_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_headgames_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_HeadGames_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_headgames_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_HeadGames_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_headgames_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_NoTraps_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_notraps_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_NoTraps_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_notraps_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_NoTraps_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_notraps_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TeleBomb_With_NoTraps_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_telebomb_with_notraps_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_Fog_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_fog_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_Fog_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_fog_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_Fog_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_fog_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_Fog_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_fog_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_HeadGames_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_headgames_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_HeadGames_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_headgames_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_HeadGames_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_headgames_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_HeadGames_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_headgames_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_NoTraps_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_notraps_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_NoTraps_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_notraps_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_NoTraps_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_notraps_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tiki_With_NoTraps_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tiki_with_notraps_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Fog_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_fog_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Fog_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_fog_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Fog_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_fog_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Fog_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_fog_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_NoBuild_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_nobuild_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_NoBuild_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_nobuild_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_NoBuild_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_nobuild_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_NoBuild_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_nobuild_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Time_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_time_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Time_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_time_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Time_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_time_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_Tornado_With_Time_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tornado_with_time_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Explode_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_explode_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Explode_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_explode_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Explode_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_explode_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Explode_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_explode_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Surprise_Canny_004": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_surprise_canny",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Surprise_Plankerton_007": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_surprise_plankerton",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Surprise_Stonewood_003": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_surprise_stonewood",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_DailyQuest_TpRifts_With_Surprise_Twine_005": {
+        "QuestTemplateId": "Quest:wargames_dailyquest_tprifts_with_surprise_twine",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_daily",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Week1_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_week1",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Week4_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_week4",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Penny1_003": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_penny1",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_CloakedStar1_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_cloakedstar1",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Quinn2_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_quinn2",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Crackshot2_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_crackshot2",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Penny2_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_penny2",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_CloakedStar2_002": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_cloakedstar2",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Quinn3_004": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_quinn3",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "MaydayQuest_2019_Complete_Beatbot_004": {
+        "QuestTemplateId": "Quest:maydayquest_2019_complete_beatbot",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hittheroad_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_Frosty_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_frosty_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_Merry_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_merry_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_Waves_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_waves_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_SuperHot_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_superhot_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_Deliver_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_deliver_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_Soup_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_soup_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "S11_HoldfastQuest_Legend_30_003": {
+        "QuestTemplateId": "Quest:s11_holdfastquest_legend_30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_frostnite_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Tornado_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_tornado",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Lava_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_lava",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Anomaly_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_anomaly",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Generators_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_generators",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Pods_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_pods",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Meteor_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_meteor",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Tiki_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_tiki",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Saucer_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_saucer",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Telebomb_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_telebomb",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Tprifts_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_tprifts",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Overload_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_overload",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Wargames_Quest_Wargame_Riotcity_003": {
+        "QuestTemplateId": "Quest:wargames_quest_wargame_riotcity",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_wargames_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W05_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w05",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w05",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W10_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w10",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w10",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W15_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w15",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w15",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W20_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w20",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w20",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W25_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w25",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w25",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W30_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w30",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W05_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w05",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w05",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W10_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w10",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w10",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W15_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w15",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w15",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W20_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w20",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w20",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W25_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w25",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w25",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W30_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w30",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W05_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w05",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w05",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W10_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w10",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w10",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W15_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w15",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w15",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W20_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w20",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w20",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W25_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w25",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w25",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W30_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w30",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W05_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w05",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w05",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W10_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w10",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w10",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W15_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w15",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w15",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W20_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w20",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w20",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W25_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w25",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w25",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W30_001": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w30",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_endurance_daily_w30",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

@@ -15,7 +15,7 @@
           "Key": "Compendium_Name",
           "SourceString": "Battle Royale Compendium"
         },
-        "SortPriority": 100
+        "SortPriority": 1000
       },
       "BRDailyChallenges": {
         "Name": {
@@ -23,7 +23,7 @@
           "Key": "BRDailyChallenges_Name",
           "SourceString": "Battle Royale Daily Challenges"
         },
-        "SortPriority": 99
+        "SortPriority": 990
       },
       "BREvent": {
         "Name": {
@@ -31,7 +31,7 @@
           "Key": "BREvent_Name",
           "SourceString": "Battle Royale Event"
         },
-        "SortPriority": 98
+        "SortPriority": 980
       },
       "BR_BattlePass": {
         "Name": {
@@ -39,7 +39,7 @@
           "Key": "BR_BattlePass_Name",
           "SourceString": "Battle Pass"
         },
-        "SortPriority": 97
+        "SortPriority": 970
       },
       "MainQuests": {
         "Name": {
@@ -47,7 +47,7 @@
           "Key": "MainQuests_Name",
           "SourceString": "Main Quests"
         },
-        "SortPriority": 96
+        "SortPriority": 960
       },
       "FounderQuests": {
         "Name": {
@@ -55,7 +55,15 @@
           "Key": "FounderQuests_Name",
           "SourceString": "Founder Quests"
         },
-        "SortPriority": 95
+        "SortPriority": 950
+      },
+      "StarterBundleQuests12": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests12_Name",
+          "SourceString": "Fully Realized Starter Bundle"
+        },
+        "SortPriority": 86
       },
       "StarterBundleQuests11": {
         "Name": {
@@ -209,11 +217,11 @@
         },
         "SortPriority": 65
       },
-      "Phoenix_Seasonal": {
+      "EnduranceDailies": {
         "Name": {
           "Namespace": "QuestCategoryTable",
-          "Key": "Phoenix_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
+          "Key": "EnduranceDailies_Name",
+          "SourceString": "Endurance: Daily Challenges"
         },
         "SortPriority": 64
       },
@@ -225,13 +233,13 @@
         },
         "SortPriority": 63
       },
-      "LTE_Fortnitemares": {
+      "Phoenix_Fall_Narrative": {
         "Name": {
           "Namespace": "QuestCategoryTable",
-          "Key": "LTE_Fortnitemares_Name",
-          "SourceString": "Venture: Fortnitemares"
+          "Key": "Phoenix_Fall_Narrative_Name",
+          "SourceString": "Venture: Clip's Nightmare"
         },
-        "SortPriority": 60
+        "SortPriority": 62
       },
       "LTE_Season11E": {
         "Name": {
@@ -241,37 +249,13 @@
         },
         "SortPriority": 61
       },
-      "Phoenix_Fall_Narrative": {
+      "LTE_Fortnitemares": {
         "Name": {
           "Namespace": "QuestCategoryTable",
-          "Key": "Phoenix_Fall_Narrative_Name",
-          "SourceString": "Venture: Clip's Nightmare"
+          "Key": "LTE_Fortnitemares_Name",
+          "SourceString": "Venture: Fortnitemares"
         },
-        "SortPriority": 62
-      },
-      "Phoenix_Fall_Seasonal": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Phoenix_Fall_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
-        },
-        "SortPriority": 59
-      },
-      "Phoenix_Winter_Narrative": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Phoenix_Winter_Narrative_Name",
-          "SourceString": "Event: Red Willow's Eve"
-        },
-        "SortPriority": 50
-      },
-      "Phoenix_Winter_Seasonal": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Phoenix_Winter_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
-        },
-        "SortPriority": 56
+        "SortPriority": 60
       },
       "Phoenix_Spring_Narrative": {
         "Name": {
@@ -281,19 +265,11 @@
         },
         "SortPriority": 53
       },
-      "Phoenix_Beginnings_Seasonal": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Phoenix_Beginnings_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
-        },
-        "SortPriority": 50
-      },
       "LTE_Brainstorm": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Brainstorm_Name",
-          "SourceString": "Event: A Dark and Brainstormy Night"
+          "SourceString": "Event: Eye of the Brainstorm"
         },
         "SortPriority": 52
       },
@@ -313,6 +289,46 @@
         },
         "SortPriority": 51
       },
+      "Phoenix_Winter_Narrative": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "Phoenix_Winter_Narrative_Name",
+          "SourceString": "Event: Red Willow's Eve"
+        },
+        "SortPriority": 50
+      },
+      "Phoenix_Seasonal": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "Phoenix_Seasonal_Name",
+          "SourceString": "Venture: Challenge Quests"
+        },
+        "SortPriority": 49
+      },
+      "Phoenix_Fall_Seasonal": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "Phoenix_Fall_Seasonal_Name",
+          "SourceString": "Venture: Challenge Quests"
+        },
+        "SortPriority": 49
+      },
+      "Phoenix_Winter_Seasonal": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "Phoenix_Winter_Seasonal_Name",
+          "SourceString": "Venture: Challenge Quests"
+        },
+        "SortPriority": 49
+      },
+      "Phoenix_Beginnings_Seasonal": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "Phoenix_Beginnings_Seasonal_Name",
+          "SourceString": "Venture: Challenge Quests"
+        },
+        "SortPriority": 49
+      },
       "Phoenix_Adventure_Seasonal": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -328,6 +344,14 @@
           "SourceString": "Event: Battle Ray-ale"
         },
         "SortPriority": 43
+      },
+      "LTE_Pirate": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Pirate_Name",
+          "SourceString": "Event: Yarrr!"
+        },
+        "SortPriority": 42
       },
       "LTE_Season13A": {
         "Name": {
@@ -504,14 +528,6 @@
           "SourceString": "Event: Love Storm"
         },
         "SortPriority": 21
-      },
-      "LTE_Pirate": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "LTE_Pirate_Name",
-          "SourceString": "Event: Yarrr!"
-        },
-        "SortPriority": 42
       },
       "LTE_Winter2018": {
         "Name": {

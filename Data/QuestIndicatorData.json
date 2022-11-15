@@ -685,6 +685,30 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FancyMansion",
+            "SourceString": "Shell or High Water"
+          },
+          "WorldLocation": {
+            "X": 82884.0,
+            "Y": 10296.0,
+            "Z": 3296.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.FancyMansion"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_FancyMansion",
+          "ActiveDiscoverableBlodIds": [
+            15
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_ResearchLab_2",
             "SourceString": "Research Lab Minotaur"
           },
@@ -813,6 +837,30 @@
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_ParaCon5",
           "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FancyMansion",
+            "SourceString": "Shell or High Water"
+          },
+          "WorldLocation": {
+            "X": 97747.0,
+            "Y": -11073.0,
+            "Z": 4436.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.FancyMansion"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_FancyMansion",
+          "ActiveDiscoverableBlodIds": [
+            15
+          ]
         },
         {
           "Text": {
@@ -1115,30 +1163,6 @@
           },
           "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_LoggingShack",
           "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FancyMansion",
-            "SourceString": "Shell or High Water"
-          },
-          "WorldLocation": {
-            "X": 97408.0,
-            "Y": -10240.0,
-            "Z": 8704.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FancyMansion"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C3_Discover_Landmarks.Quest_C3_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch3_LM_FancyMansion",
-          "ActiveDiscoverableBlodIds": [
-            15
-          ]
         },
         {
           "Text": {
@@ -1604,7 +1628,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RentalLodge",
-            "SourceString": "Willow's Haunt"
+            "SourceString": "Shroom Chalet"
           },
           "WorldLocation": {
             "X": 7440.0,
@@ -2002,7 +2026,7 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Artemis_Volumes_Locations",
             "Key": "NameForLocation_Athena_Location_POI_TiltedTowers",
-            "SourceString": "TILTED TOWERS"
+            "SourceString": "TAINTED TOWERS"
           },
           "WorldLocation": {
             "X": -6960.0,

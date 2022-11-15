@@ -7894,7 +7894,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.DueEgo_DisplayName",
-          "SourceString": "El Chapul? Colorado"
+          "SourceString": "El Chapulín Colorado"
         },
         "Description": {
           "CultureInvariantString": null
@@ -9923,6 +9923,110 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.EasyBreeze_DisplayName",
           "SourceString": "Calm Before the Storm"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TellEm": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TellEm"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TellEm_DisplayName",
+          "SourceString": "Let Them Know"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MouseFight": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MouseFight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MouseFight_DisplayName",
+          "SourceString": "Ratzattak"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AvidSpeed": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AvidSpeed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AvidSpeed_DisplayName",
+          "SourceString": "Voracious Velocity"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.IndigoBird": {
+        "tag": {
+          "TagName": "Cosmetics.Set.IndigoBird"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IndigoBird_DisplayName",
+          "SourceString": "Blue Phoenix"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TotallyKnew": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TotallyKnew"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TotallyKnew_DisplayName",
+          "SourceString": "Fully Realized"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MoshingMenace": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MoshingMenace"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MoshingMenace_DisplayName",
+          "SourceString": "Metalcore Mina"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SphereKickGroup": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SphereKickGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SphereKickGroup_DisplayName",
+          "SourceString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ChaseMonster": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ChaseMonster"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ChaseMonster_DisplayName",
+          "SourceString": "Set_02"
         },
         "Description": {
           "CultureInvariantString": null
