@@ -7894,7 +7894,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.DueEgo_DisplayName",
-          "SourceString": "El Chapulín Colorado"
+          "SourceString": "El Chapul? Colorado"
         },
         "Description": {
           "CultureInvariantString": null
@@ -9389,7 +9389,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.MissStem_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Patrick Mahomes"
         },
         "Description": {
           "CultureInvariantString": null
@@ -9415,7 +9415,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.WildLinen_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Legends of the Light and Dark"
         },
         "Description": {
           "CultureInvariantString": null
@@ -9428,7 +9428,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.NineRing_DisplayName",
-          "SourceString": "Ninth Circle"
+          "SourceString": "Darkest Circles"
         },
         "Description": {
           "CultureInvariantString": null
@@ -9455,6 +9455,474 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.CrossedForce_DisplayName",
           "SourceString": "Crossmark Operative"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VividEgo": {
+        "tag": {
+          "TagName": "Cosmetics.Set.VividEgo"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VividEgo_DisplayName",
+          "SourceString": "Prismatic Pride"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SpottedTime": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SpottedTime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SpottedTime_DisplayName",
+          "SourceString": "Checkered Past"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NightThoughts": {
+        "tag": {
+          "TagName": "Cosmetics.Set.NightThoughts"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NightThoughts_DisplayName",
+          "SourceString": "Dreamer"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ThinCraft": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ThinCraft"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ThinCraft_DisplayName",
+          "SourceString": "SypherPK"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlushNail": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BlushNail"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlushNail_DisplayName",
+          "SourceString": "Lennox, IRL"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.IceFeline": {
+        "tag": {
+          "TagName": "Cosmetics.Set.IceFeline"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.IceFeline_DisplayName",
+          "SourceString": "Cali-Cool"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MobPatrol": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MobPatrol"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MobPatrol_DisplayName",
+          "SourceString": "Syndicate Scout"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GnarlBear": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GnarlBear"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GnarlBear_DisplayName",
+          "SourceString": "Growlin' Grriz"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GoingNowhere": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GoingNowhere"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoingNowhere_DisplayName",
+          "SourceString": "Into Nothing"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FairGlory": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FairGlory"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FairGlory_DisplayName",
+          "SourceString": "Spider-Gwen"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NeverAlways": {
+        "tag": {
+          "TagName": "Cosmetics.Set.NeverAlways"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NeverAlways_DisplayName",
+          "SourceString": "Nothing's Forever"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BiteScratch": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BiteScratch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BiteScratch_DisplayName",
+          "SourceString": "Tooth and Claw"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BdayFive": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BdayFive"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BdayFive_DisplayName",
+          "SourceString": "The Big 0-5"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RanchSpite": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RanchSpite"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RanchSpite_DisplayName",
+          "SourceString": "Goat Simulator 3"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Freedom": {
+        "tag": {
+          "TagName": "Cosmetics.Set.Freedom"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Freedom_DisplayName",
+          "SourceString": "Paradise"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SteepOrbit": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SteepOrbit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SteepOrbit_DisplayName",
+          "SourceString": "Black Adam"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HerdSnow": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HerdSnow"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HerdSnow_DisplayName",
+          "SourceString": "X-23"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GripHate": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GripHate"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GripHate_DisplayName",
+          "SourceString": "Hand of Malice"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.EdgyDefunct": {
+        "tag": {
+          "TagName": "Cosmetics.Set.EdgyDefunct"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EdgyDefunct_DisplayName",
+          "SourceString": "Restless Dead"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BureauOutlaw": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BureauOutlaw"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BureauOutlaw_DisplayName",
+          "SourceString": "Agency Renegades"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GooeySavior": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GooeySavior"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GooeySavior_DisplayName",
+          "SourceString": "Glutinous Guardian"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BelowCenter": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BelowCenter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BelowCenter_DisplayName",
+          "SourceString": "Underland Nexus"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MainStake": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MainStake"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MainStake_DisplayName",
+          "SourceString": "Mr. Meeseeks"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FareDebut": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FareDebut"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FareDebut_DisplayName",
+          "SourceString": "Knowby Cabin Nightmare"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SoapPure": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SoapPure"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SoapPure_DisplayName",
+          "SourceString": "Summer, C-137"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RockZombie": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RockZombie"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RockZombie_DisplayName",
+          "SourceString": "Punk is Dead"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ScareReact": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ScareReact"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScareReact_DisplayName",
+          "SourceString": "Fear Response"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TuneBeast": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TuneBeast"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TuneBeast_DisplayName",
+          "SourceString": "Music Fiend"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AwakeChrome": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AwakeChrome"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AwakeChrome_DisplayName",
+          "SourceString": "Living Metal"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AngelSchool": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AngelSchool"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AngelSchool_DisplayName",
+          "SourceString": "Saint Academy"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OctoQuest": {
+        "tag": {
+          "TagName": "Cosmetics.Set.OctoQuest"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OctoQuest_DisplayName",
+          "SourceString": "Unfathomable"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CuttingCrew": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CuttingCrew"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CuttingCrew_DisplayName",
+          "SourceString": "Carving Corps"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FreeSnake": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FreeSnake"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FreeSnake_DisplayName",
+          "SourceString": "Polo Stadium Collection"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SleepComfort": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SleepComfort"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SleepComfort_DisplayName",
+          "SourceString": "Rest In Peace"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BotTaught": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BotTaught"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BotTaught_DisplayName",
+          "SourceString": "Machine Learning"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.EasyBreeze": {
+        "tag": {
+          "TagName": "Cosmetics.Set.EasyBreeze"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EasyBreeze_DisplayName",
+          "SourceString": "Calm Before the Storm"
         },
         "Description": {
           "CultureInvariantString": null

@@ -289,6 +289,14 @@
         },
         "SortPriority": 50
       },
+      "LTE_Brainstorm": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Brainstorm_Name",
+          "SourceString": "Event: A Dark and Brainstormy Night"
+        },
+        "SortPriority": 52
+      },
       "LTE_Fennix": {
         "Name": {
           "Namespace": "QuestCategoryTable",

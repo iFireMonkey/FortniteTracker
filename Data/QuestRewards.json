@@ -48572,6 +48572,141 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "Brainstorm_Quest_A01_Gather_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a01_gather",
+        "TemplateId": "Quest:brainstorm_quest_a02_eliminate",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A01_Gather_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a01_gather",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A02_Eliminate_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a02_eliminate",
+        "TemplateId": "Quest:brainstorm_quest_a03_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A02_Eliminate_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a02_eliminate",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A03_Fetch_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a03_fetch",
+        "TemplateId": "Quest:brainstorm_quest_a04_deliver",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A03_Fetch_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a03_fetch",
+        "TemplateId": "Schematic:sid_assault_invasion_pulserifle_vr_ore_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A04_Deliver_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a04_deliver",
+        "TemplateId": "Quest:brainstorm_quest_a05_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A04_Deliver_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a04_deliver",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A05_Fetch_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a05_fetch",
+        "TemplateId": "Quest:brainstorm_quest_a06_destroy",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A05_Fetch_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a05_fetch",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A06_Destroy_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a06_destroy",
+        "TemplateId": "Quest:brainstorm_quest_a07_landmark",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A06_Destroy_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a06_destroy",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A07_Landmark_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a07_landmark",
+        "TemplateId": "Quest:brainstorm_quest_a08_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A07_Landmark_002": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a07_landmark",
+        "TemplateId": "Schematic:sid_assault_smg_invasion_raygun_vr_ore_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Brainstorm_Quest_A08_Fetch_001": {
+        "QuestTemplateId": "Quest:brainstorm_quest_a08_fetch",
+        "TemplateId": "Hero:hid_constructor_41_alien_agent_sr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }
