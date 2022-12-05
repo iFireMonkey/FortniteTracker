@@ -2,9 +2,6 @@
   "AllChatChannelNS": {
     "AllChatChannelKey": "All"
   },
-  "AppleDynamicRHI": {
-    "RequiredAGX": "The AGX RHI is not supported on your system. Try running without the -agx command line argument."
-  },
   "AssetTypeActions": {
     "DataTable_MissingRowStructListEntry": "* {0} (Row Structure: {1})",
     "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",
@@ -570,7 +567,6 @@
     "CreateHeadless": "Creating Account.",
     "FailedEulaCheck_EulaAcceptanceFailed": "EULA acceptance failed. Please try again.",
     "FailedEulaCheck_MustAcceptEula": "EULA must be accepted to play.",
-    "ExchangeConsolePurchaseForAccess": "Exchanging 3rd party access purchases...",
     "ExchangeConsoleGiftsForAccess": "Exchanging invites for access...",
     "FounderChatShardExited": "Exited Founder room {RoomId}",
     "GlobalChatShardExited": "Exited {SubGameMode} room {RoomId}",
@@ -644,6 +640,7 @@
     "FailedLoginLockoutMsg": "Your account has been locked because of too many login failures.",
     "FailedLoginRequiresMFA": "Your account has two-factor security enabled. Enter the security code emailed to you at\n{Email}.",
     "FailedLoginRequiresAuthAppMFA": "Your account has two-factor security enabled. Enter the security code from your authenticator app.",
+    "FailedCorrectiveAction": "Your account is missing information required to play the game.",
     "PlayAccessRevoked": "Your account no longer has play access",
     "FailedLoginCredentialsMsg": "Your e-mail and/or password are incorrect. Please check them and try again.",
     "LostConnection": "Your internet connection has been lost. You have been returned to the title screen.",
@@ -809,11 +806,12 @@
   "WindowsDynamicRHI": {
     "RHIOptionsError": "-d3d12/dx12, -d3d11/dx11, -vulkan, and -opengl are mutually exclusive options, but more than one was specified on the command-line.",
     "RequiredDX11Feature_11_SM5": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine.",
-    "RequiredDX12SM6": "DX12 SM6 is not supported on your system. Try running without the -sm6 command line argument.",
-    "RequiredDX12": "DX12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
     "RHIPerformanceDX12": "DirectX 12 is not supported for Performance Mode.",
+    "RequiredDX12": "DirectX 12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
+    "RequiredDX12SM6": "DirectX 12 with Feature Level SM6 is not supported on your system. Try running without the -sm6 command line argument.",
     "RequiredOpenGL": "OpenGL 4.3 is required to run the engine.",
     "RHIPerformanceOpenGL": "OpenGL is not supported for Performance Mode.",
+    "MissingTargetedShaderFormats": "Unable to launch with RHI '{0}' since the project is not configured to support it.",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
     "RHIPerformanceVulkan": "Vulkan is not supported for Performance Mode."
   }
