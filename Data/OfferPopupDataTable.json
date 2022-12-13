@@ -874,7 +874,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "85CBD80B43E2F757373E778D06521424",
-          "SourceString": "Attend a Rift Tour show from August 6 to August 8, and unlock the exclusive Neon Party Trooper style for Party Trooper!"
+          "SourceString": "Customizable colors! Choose from 3 different styles and select jersey numbers for all outfits."
         }
       },
       "bundlefoursprays": {
@@ -1840,14 +1840,14 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "AE909D0543984C7A59B7B18F3A61B9B8",
-          "SourceString": "TBD"
+          "SourceString": "Choose a country preset, or customize over 20 different components for your own look!"
         }
       },
       "promodesc68": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DA702CC44C5817579BEEBE8F704BCA3C",
-          "SourceString": "TBD"
+          "SourceString": "Choose from 3 different styles. Customizable colors and jersey number!"
         }
       },
       "promodesc69": {
@@ -1896,7 +1896,56 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "83CBE0F1432128C63330129D121431F8",
+          "SourceString": "Customize patterns and colors on the <text color=\\\"FFFFFFFF\\\">TOP TROPHY</> Back Bling and <text color=\\\"FFFFFFFF\\\">WORLD CLASS</> Pickaxe!"
+        }
+      },
+      "promodesc72": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CCA890324E9D80E58A7515A48D7255A1",
+          "SourceString": "<text color=\\\"FFFFFFFF\\\">GAMMA CHAMBER</> Back Bling charges up with eliminations. Show off Sprays from your Locker with the <text color=\\\"FFFFFFFF\\\">DEMOLISHER</> Pickaxe!"
+        }
+      },
+      "promodesc73": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BAE11E2B43D1DC2D2F9D51B942F55ABB",
+          "SourceString": "<text color=\\\"FFFFFFFF\\\">GAMMA CHAMBER</> Back Bling charges up with eliminations!"
+        }
+      },
+      "promodesc74": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "48DA41AA4AC8D95B945451934C2D496F",
+          "SourceString": "Equip Sprays from your Locker! Includes <text color=\\\"FFFFFFFF\\\">WARNING: GAMMA RAYS</> Spray!"
+        }
+      },
+      "promodesc75": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "63805C6E44D58A825640CDB6EC7B7D54",
           "SourceString": "TBD"
+        }
+      },
+      "promodesc76": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5DC0F7F14C3502A64546A1A362E01B73",
+          "SourceString": "TBD"
+        }
+      },
+      "promodesc77": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1ABFD89B4BD9363EB1363195C0C2B688",
+          "SourceString": "TBD"
+        }
+      },
+      "flagplantdesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "18B189604DB5492E7730F589946D21AF",
+          "SourceString": "Earn a Victory Royale and raise your banner high with the <text color=\"FFFFFFFF\">STAKE YOUR CLAIM</> Emote!"
         }
       }
     }

@@ -10013,7 +10013,7 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SphereKickGroup_DisplayName",
-          "SourceString": "Set_01"
+          "SourceString": "Fortnite Football Club"
         },
         "Description": {
           "CultureInvariantString": null
@@ -10026,7 +10026,124 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.ChaseMonster_DisplayName",
-          "SourceString": "Set_02"
+          "SourceString": "Let's Hunt Vampires"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PriceDish": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PriceDish"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PriceDish_DisplayName",
+          "SourceString": "Hulk"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KindaAhead": {
+        "tag": {
+          "TagName": "Cosmetics.Set.KindaAhead"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KindaAhead_DisplayName",
+          "SourceString": "Sight Beyond"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DouseIt": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DouseIt"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DouseIt_DisplayName",
+          "SourceString": "Night Game"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PowerLight": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PowerLight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PowerLight_DisplayName",
+          "SourceString": "Dominion's Dawn"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OldThreat": {
+        "tag": {
+          "TagName": "Cosmetics.Set.OldThreat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OldThreat_DisplayName",
+          "SourceString": "School of the Wolf"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TinLake": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TinLake"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TinLake_DisplayName",
+          "SourceString": "Ultra-Nightmare"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HeroAct": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HeroAct"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HeroAct_DisplayName",
+          "SourceString": "Star of the Show"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LateGroove": {
+        "tag": {
+          "TagName": "Cosmetics.Set.LateGroove"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LateGroove_DisplayName",
+          "SourceString": "Midnight Grind"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.JobAdjust": {
+        "tag": {
+          "TagName": "Cosmetics.Set.JobAdjust"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.JobAdjust_DisplayName",
+          "SourceString": "Quest Updated"
         },
         "Description": {
           "CultureInvariantString": null
