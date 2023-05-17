@@ -11629,6 +11629,118 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.TransferLegend": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TransferLegend"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TransferLegend_DisplayName",
+          "SourceString": "Set_01",
+          "LocalizedString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LonelyEntry": {
+        "tag": {
+          "TagName": "Cosmetics.Set.LonelyEntry"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LonelyEntry_DisplayName",
+          "SourceString": "Remote Access",
+          "LocalizedString": "Remote Access"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MarrowSoul": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MarrowSoul"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MarrowSoul_DisplayName",
+          "SourceString": "Amano's Heart",
+          "LocalizedString": "Amano's Heart"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FrozenRounds": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FrozenRounds"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FrozenRounds_DisplayName",
+          "SourceString": "Coldest Circles",
+          "LocalizedString": "Coldest Circles"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SchoolHeroes": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SchoolHeroes"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SchoolHeroes_DisplayName",
+          "SourceString": "Set_02",
+          "LocalizedString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HiddenRevolter": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HiddenRevolter"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HiddenRevolter_DisplayName",
+          "SourceString": "Unseen Rebel",
+          "LocalizedString": "Unseen Rebel"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BigMag": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BigMag"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BigMag_DisplayName",
+          "SourceString": "Full Clip",
+          "LocalizedString": "Full Clip"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RightHue": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RightHue"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RightHue_DisplayName",
+          "SourceString": "True Colors",
+          "LocalizedString": "True Colors"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

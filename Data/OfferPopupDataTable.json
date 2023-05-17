@@ -2158,8 +2158,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "66A3ED09492CF498F5590592FEC1E15C",
-          "SourceString": "Colors match your banner!",
-          "LocalizedString": "Colors match your banner!"
+          "SourceString": "Colors match your Banner!",
+          "LocalizedString": "Colors match your Banner!"
         }
       },
       "promodesc71": {
@@ -2486,7 +2486,7 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "97419309473C44321170D387710A0181",
-          "SourceString": "TBD",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">GOKU BLACK'S CHARGING UP</> built-in Emote to transform!",
           "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">GOKU BLACK'S CHARGING UP</> built-in Emote to transform!"
         }
       },
@@ -2592,6 +2592,54 @@
           "Key": "7C5099E7463F88CE942DADAEA407755F",
           "SourceString": "Bundle includes <text color=\"FFFFFFFF\">LIGHTSPEED INTERCEPTOR</> Emoticon!",
           "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">LIGHTSPEED INTERCEPTOR</> Emoticon!"
+        }
+      },
+      "pencilcustom": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1E5461D940C53BB8804CA5B4EB270964",
+          "SourceString": "17 customizable components! Choose between Cel, Outlined Gradient, or Gradient Shading for a stylized look.",
+          "LocalizedString": "17 customizable components! Choose between Cel, Outlined Gradient, or Gradient Shading for a stylized look."
+        }
+      },
+      "pencilbackpack": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "39787F834C58771A50457E88FB081640",
+          "SourceString": "10 customizable components, including colors and character display options! Choose between Cel, Outlined Gradient, or Gradient Shading for a stylized look.",
+          "LocalizedString": "10 customizable components, including colors and character display options! Choose between Cel, Outlined Gradient, or Gradient Shading for a stylized look."
+        }
+      },
+      "pencilpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "72EADC784EEB988EFB9425A861702DFA",
+          "SourceString": "Customize colors and choose between Cel, Outlined Gradient, or Gradient Shading for a stylized look.",
+          "LocalizedString": "10 customizable components, including colors and character display options!"
+        }
+      },
+      "pencilbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "17F7505D473056D634F7C3B8FD317DFD",
+          "SourceString": "Customize colors and shaders on Back Bling and Pickaxe! Color of the <text color=\\\"FFFFFFFF\\\">BANNER BEARER</> Wrap matches your Banner! Bundle includes Loading Screen!",
+          "LocalizedString": "Customize colors and shaders on Back Bling and Pickaxe! Color of the <text color=\\\"FFFFFFFF\\\">BANNER BEARER</> Wrap matches your Banner! Bundle includes Loading Screen!"
+        }
+      },
+      "fearlessflightpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "776DA2D1454120ADCC07B0B7DC89FAFA",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "fearlessflightbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "47B090A147012250346D73B63EBE7812",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
         }
       }
     }

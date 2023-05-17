@@ -50283,6 +50283,159 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "STWStarterBundle14_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_05_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_05",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_getrewards",
+        "TemplateId": "Quest:stwstarterbundle14_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_getrewards",
+        "TemplateId": "Quest:stwstarterbundle14_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_getrewards",
+        "TemplateId": "Quest:stwstarterbundle14_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_getrewards",
+        "TemplateId": "Quest:stwstarterbundle14_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_getrewards",
+        "TemplateId": "Quest:stwstarterbundle14_05",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle14_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle14_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle14",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W04_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w04",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W04_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w04",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W05_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w05",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W05_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w05",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W06_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w06",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W06_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w06",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

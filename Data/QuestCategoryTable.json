@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests14": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests14_Name",
+          "SourceString": "Clip Starter Bundle",
+          "LocalizedString": "Clip Starter Bundle"
+        },
+        "SortPriority": 480
+      },
       "StarterBundleQuests13": {
         "Name": {
           "Namespace": "QuestCategoryTable",
