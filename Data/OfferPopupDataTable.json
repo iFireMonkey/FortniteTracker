@@ -2,9 +2,10 @@
   {
     "Type": "DataTable",
     "Name": "OfferPopupDataTable",
+    "Class": "UScriptClass'DataTable'",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "Class OfferPopUpData",
+        "ObjectName": "Class'OfferPopUpData'",
         "ObjectPath": "/Script/FortniteUI"
       }
     },
@@ -13,1939 +14,2584 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "A3350E5140D3943AAE94CDA594CC22FA",
-          "SourceString": "Use the <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE</> to <text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> in matches!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE</> to <text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> in matches!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE</> to <text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> in matches!"
         }
       },
       "neonanimals": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F69369BB4AD4D2F61E238FB7DE237E3E",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> by changing between <text color=\"FFFFFFFF\" fontface=\"black\">HARVESTING TOOL</> and <text color=\"FFFFFFFF\" fontface=\"black\"> WEAPON.</> "
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> by changing between <text color=\"FFFFFFFF\" fontface=\"black\">HARVESTING TOOL</> and <text color=\"FFFFFFFF\" fontface=\"black\"> WEAPON.</> ",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">SWITCH STYLES</> by changing between <text color=\"FFFFFFFF\" fontface=\"black\">HARVESTING TOOL</> and <text color=\"FFFFFFFF\" fontface=\"black\"> WEAPON.</> "
         }
       },
       "reactivewraps": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CA84BB394B64F7D9C184EE8212D0F639",
-          "SourceString": "Reactive wrap <text color=\"FFFFFFFF\" fontface=\"black\">ANIMATES</> when firing weapons."
+          "SourceString": "Reactive wrap <text color=\"FFFFFFFF\" fontface=\"black\">ANIMATES</> when firing weapons.",
+          "LocalizedString": "Reactive wrap <text color=\"FFFFFFFF\" fontface=\"black\">ANIMATES</> when firing weapons."
         }
       },
       "reactiveslurp": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2F9E2BBD41C89AC0478B3296911BD0A1",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Head transforms with higher shields"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Head transforms with higher shields",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Head transforms with higher shields"
         }
       },
       "reactivetailor": {
         "FormatedText": {
           "Namespace": "",
           "Key": "56932CFC4BB6D3DEC556FB8C9275CA78",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Unique light patterns on eliminations, damage, health, and shields!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Unique light patterns on eliminations, damage, health, and shields!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Unique light patterns on eliminations, damage, health, and shields!"
         }
       },
       "reactivekomplex": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1B4C58AA4D735CC907D162968A1CB5D2",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Glows at night!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Glows at night!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Glows at night!"
         }
       },
       "reactivekomplexglider": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E3F6A3E54C3BD26C9F56FDBC09120597",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Glider:</> Glows at night!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Glider:</> Glows at night!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Glider:</> Glows at night!"
         }
       },
       "reactivedamage": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6FC796954BF78141BC888B8800745374",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to damage!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to damage!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to damage!"
         }
       },
       "reactiveraveninjabackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A69BB6AC46B75A1FDD0A4B8A62C55F57",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Scratch the record and flash the lights with each elimination!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Scratch the record and flash the lights with each elimination!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Scratch the record and flash the lights with each elimination!"
         }
       },
       "reactivetightsuitoutfit": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D780B8EB44A40BA391F795A7B4481D5F",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Patterns change when music plays!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Patterns change when music plays!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Patterns change when music plays!"
         }
       },
       "builtinspymaleemote": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1598195140DF2CB2662FCA804C399912",
-          "SourceString": "Show your skills with the Butterfly Knife <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>"
+          "SourceString": "Show your skills with the Butterfly Knife <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>",
+          "LocalizedString": "Show your skills with the Butterfly Knife <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>"
         }
       },
       "reactiveneonpulsewrap": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9F8ACB08413D00F1AC6ADE88E64B5C51",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Responds to in-game music!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Responds to in-game music!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Responds to in-game music!"
         }
       },
       "reactiveneoncatspybackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F63B5EB2471A26C8A134FF9C600BDFC7",
-          "SourceString": "Switch styles in matches when you use Vix's <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>"
+          "SourceString": "Switch styles in matches when you use Vix's <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>",
+          "LocalizedString": "Switch styles in matches when you use Vix's <text color=\"FFFFFFFF\" fontface=\"black\">BUILT-IN EMOTE!</>"
         }
       },
       "reactivebeacon": {
         "FormatedText": {
           "Namespace": "",
           "Key": "7C9148294348464942B40FAB142D4EBA",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Eyes light up at night!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Eyes light up at night!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Eyes light up at night!"
         }
       },
       "reactivecapshield": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C14AF18746E7F008364608BEA9717D26",
-          "SourceString": "Equip the Proto-Adamantium Shield as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>"
+          "SourceString": "Equip the Proto-Adamantium Shield as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>",
+          "LocalizedString": "Equip the Proto-Adamantium Shield as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>"
         }
       },
       "reactiveelimbackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2C91CA604DE75A5F19987FA1CC754A0F",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Animates with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Animates with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Animates with eliminations!"
         }
       },
       "reactiveelimpickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FCA84770400952E6F1F78FA7EF26CE12",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Animates with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Animates with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Animates with eliminations!"
         }
       },
       "surfingglider": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4E19350841887D4E60555292BB5AB40F",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Surfing Glider!</>"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Surfing Glider!</>",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Surfing Glider!</>"
         }
       },
       "reactiveloofahpickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3CAF7D1F4DF66C1FFB862EBC0AB0FDB6",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Fruit breaks away on impact!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Fruit breaks away on impact!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Fruit breaks away on impact!"
         }
       },
       "reactiverobrobackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AADF898542A90166A3ED15BD9D7F306E",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Equalizer reacts to music!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Equalizer reacts to music!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Equalizer reacts to music!"
         }
       },
       "reactivetvbackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "8A9293F24C7173B5DB6588857182F362",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> TV flickers when taking damage!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> TV flickers when taking damage!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> TV flickers when taking damage!"
         }
       },
       "reactiveelimloot": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C3D66B8E4BD057E45F8DCFADAC00FE0D",
-          "SourceString": "Reacts to eliminations and loot!"
+          "SourceString": "Reacts to eliminations and loot!",
+          "LocalizedString": "Reacts to eliminations and loot!"
         }
       },
       "reactivepickaxeelimloot": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0D1662AE41992B7EAB99588AD9D3E0A4",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Reacts to eliminations and loot!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Reacts to eliminations and loot!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Pickaxe:</> Reacts to eliminations and loot!"
         }
       },
       "reactiveoutfitelimloot": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1790E9C94A8E50115126C2A659A217B7",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to eliminations and loot!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to eliminations and loot!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Reacts to eliminations and loot!"
         }
       },
       "reactivebackblingelimloot": {
         "FormatedText": {
           "Namespace": "",
           "Key": "41D9B24240F4C89154366FAEB4B40FD7",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Reacts to eliminations and loot!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Reacts to eliminations and loot!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Back Bling:</> Reacts to eliminations and loot!"
         }
       },
       "reactivedreadstrikers": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C000B1EA4F1AC3B94C0DAF810574481C",
-          "SourceString": "Unsheathe the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE</> from the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING!</>"
+          "SourceString": "Unsheathe the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE</> from the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING!</>",
+          "LocalizedString": "Unsheathe the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE</> from the Dread Strikers <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING!</>"
         }
       },
       "reactivecorrupted": {
         "FormatedText": {
           "Namespace": "",
           "Key": "743CE1194B97E7607AD38A85EA5A6E62",
-          "SourceString": "Set <text color=\"FFFFFFFF\" fontface=\"black\">CORRUPTION LEVEL</> for each outfit."
+          "SourceString": "Set <text color=\"FFFFFFFF\" fontface=\"black\">CORRUPTION LEVEL</> for each outfit.",
+          "LocalizedString": "Set <text color=\"FFFFFFFF\" fontface=\"black\">CORRUPTION LEVEL</> for each outfit."
         }
       },
       "emoticonlocker": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6933F24E4496532E3BAFFABC0C4F0098",
-          "SourceString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!"
+          "SourceString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!",
+          "LocalizedString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!"
         }
       },
       "createhero1": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F5BE23574D1D6008C4742AA37F6E1E7C",
-          "SourceString": "Create your own hero! Over a dozen customizable components!"
+          "SourceString": "Create your own hero! Over a dozen customizable components!",
+          "LocalizedString": "Create your own hero! Over a dozen customizable components!"
         }
       },
       "createhero2": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E9F383A04C12731B9A63BB8991633328",
-          "SourceString": "Create your own hero! A dozen customizable components!"
+          "SourceString": "Create your own hero! A dozen customizable components!",
+          "LocalizedString": "Create your own hero! A dozen customizable components!"
         }
       },
       "reactiveemoticape": {
         "FormatedText": {
           "Namespace": "",
           "Key": "00F393C54A794BEAF6892F8E25641C72",
-          "SourceString": "Use the Emoticape as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">GLIDER!</> Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your Locker!"
+          "SourceString": "Use the Emoticape as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">GLIDER!</> Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your Locker!",
+          "LocalizedString": "Use the Emoticape as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">GLIDER!</> Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your Locker!"
         }
       },
       "reactiveoutfitelim": {
         "FormatedText": {
           "Namespace": "",
           "Key": "543C19604268AFDF35756794FD422526",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Animates with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Animates with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Outfit:</> Animates with eliminations!"
         }
       },
       "reactiveelim": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D35A420E4B48981B50EBBEBB40CB7BA1",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Animates with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Animates with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive:</> Animates with eliminations!"
         }
       },
       "reactivewrapmusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F403BF27441068529A3C04AD440A7FA0",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Animates to in-game music!"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Animates to in-game music!",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">Reactive Wrap:</> Animates to in-game music!"
         }
       },
       "reactivebackspinsword": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9286EDD54F3EA943B8B2998AEF1021D9",
-          "SourceString": "Equip the <text color=\"FFFFFFFF\" fontface=\"black\">SWORD OF THE DAYWALKER</> as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>"
+          "SourceString": "Equip the <text color=\"FFFFFFFF\" fontface=\"black\">SWORD OF THE DAYWALKER</> as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>",
+          "LocalizedString": "Equip the <text color=\"FFFFFFFF\" fontface=\"black\">SWORD OF THE DAYWALKER</> as a <text color=\"FFFFFFFF\" fontface=\"black\">BACK BLING</> or <text color=\"FFFFFFFF\" fontface=\"black\">PICKAXE!</>"
         }
       },
       "reactiveelimshort": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C7FE13A747B5204C4FB8B48CC895D913",
-          "SourceString": "Reacts to eliminations!"
+          "SourceString": "Reacts to eliminations!",
+          "LocalizedString": "Reacts to eliminations!"
         }
       },
       "reactiveharvestweak": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AAE8184F4B921D998EC347B59BF6EA81",
-          "SourceString": "Hit weak points while harvesting to activate!"
+          "SourceString": "Hit weak points while harvesting to activate!",
+          "LocalizedString": "Hit weak points while harvesting to activate!"
         }
       },
       "papayaconcertstyle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C7EC05354C4B33104221AE915A1A7A07",
-          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending one of his Party Royale concerts!"
+          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending one of his Party Royale concerts!",
+          "LocalizedString": "Unlock the exclusive J Balvin style for Party Trooper by attending one of his Party Royale concerts!"
         }
       },
       "unlockjbalvinstyledate": {
         "FormatedText": {
           "Namespace": "",
           "Key": "640C6A7C4FEA1AA234A054A141D3DE11",
-          "SourceString": "Faces smile when hitting weak points!"
+          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party on Oct 31 or Nov 1!",
+          "LocalizedString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party on Oct 31 or Nov 1!"
         }
       },
       "unlockjbalvinstyleafterlife": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9793C88C44901EAB4261878BBD6F7E2A",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">READY UP</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">TARR</> style and the <text color=\\\"FFFFFFFF\\\">TARR'S HEART</> Back Bling will react with glitch effects on eliminations."
+          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party!",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">READY UP</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">TARR</> style and the <text color=\\\"FFFFFFFF\\\">TARR'S HEART</> Back Bling will react with glitch effects on eliminations."
         }
       },
       "reactivejekyllemote": {
         "FormatedText": {
           "Namespace": "",
           "Key": "094620A34307DD423074EEADC5AA7E88",
-          "SourceString": "Use the built-in <text color=\"FFFFFFFF\" fontface=\"black\">MORPH JUICE</> emote to switch styles in-game!"
+          "SourceString": "Use the built-in <text color=\"FFFFFFFF\" fontface=\"black\">MORPH JUICE</> emote to switch styles in-game!",
+          "LocalizedString": "Use the built-in <text color=\"FFFFFFFF\" fontface=\"black\">MORPH JUICE</> emote to switch styles in-game!"
         }
       },
       "reactivepumpkinpunkpickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CD6424A543D6ABFF629D2A87068EA6AE",
-          "SourceString": "Pull the <text color=\"FFFFFFFF\" fontface=\"black\">BASH BURNER</> pickaxe off of the <text color=\"FFFFFFFF\" fontface=\"black\">SQUASH BATS</> back bling when both are equipped!"
+          "SourceString": "Pull the <text color=\"FFFFFFFF\" fontface=\"black\">BASH BURNER</> pickaxe off of the <text color=\"FFFFFFFF\" fontface=\"black\">SQUASH BATS</> back bling when both are equipped!",
+          "LocalizedString": "Pull the <text color=\"FFFFFFFF\" fontface=\"black\">BASH BURNER</> pickaxe off of the <text color=\"FFFFFFFF\" fontface=\"black\">SQUASH BATS</> back bling when both are equipped!"
         }
       },
       "unlockjbalvinstylenow": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D6E638B346C2B3701C9B0A93DF6C7ABD",
-          "SourceString": "The screen on the <text color=\\\"FFFFFFFF\\\">END GAME</> Back Bling changes when taking damage!"
+          "SourceString": "Unlock the exclusive J Balvin style now and attend the Afterlife show in Party Royale!",
+          "LocalizedString": "The screen on the <text color=\\\"FFFFFFFF\\\">END GAME</> Back Bling changes when taking damage!"
         }
       },
       "unlockjbalvinstyleattenddate": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FBF462BC4B6D48618B4CF2A8DB903C04",
-          "SourceString": "On eliminations, the reactive <text color=\\\"FFFFFFFF\\\">FIGHT OR FLIGHT</> style will turn red."
+          "SourceString": "Attend the Afterlife Party on October 31 or November 1, and unlock the exclusive J Balvin style for Party Trooper!",
+          "LocalizedString": "On eliminations, the reactive <text color=\\\"FFFFFFFF\\\">FIGHT OR FLIGHT</> style will turn red."
         }
       },
       "unlockjbalvinattend": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CBA000A34882B5E3F542278F1927B3EA",
-          "SourceString": "Attend the Afterlife Party in Party Royale and unlock the exclusive J Balvin style for Party Trooper!"
+          "SourceString": "Attend the Afterlife Party in Party Royale and unlock the exclusive J Balvin style for Party Trooper!",
+          "LocalizedString": "Attend the Afterlife Party in Party Royale and unlock the exclusive J Balvin style for Party Trooper!"
         }
       },
       "reactiveyorkbackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2895747A461B8080FCE320A81ECFE511",
-          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">REACTIVE:</> Earn eliminations to charge up the <text color=\"FFFFFFFF\" fontface=\"black\">PROTON PACK!</>"
+          "SourceString": "<text color=\"FFFFFFFF\" fontface=\"black\">REACTIVE:</> Earn eliminations to charge up the <text color=\"FFFFFFFF\" fontface=\"black\">PROTON PACK!</>",
+          "LocalizedString": "<text color=\"FFFFFFFF\" fontface=\"black\">REACTIVE:</> Earn eliminations to charge up the <text color=\"FFFFFFFF\" fontface=\"black\">PROTON PACK!</>"
         }
       },
       "jbalvinenjoy": {
         "FormatedText": {
           "Namespace": "",
           "Key": "79D1E6224AFECDD001AFA1813ECF26A5",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">READY UP</> Emote to transform between the <text color=\\\"FFFFFFFF\\\">AVA</> and <text color=\\\"FFFFFFFF\\\">TARR</> styles! Bundle includes Loading Screen."
+          "SourceString": "Unlock the J Balvin style for Party Trooper with your purchase. Enjoy the Afterlife show in Party Royale!",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">READY UP</> Emote to transform between the <text color=\\\"FFFFFFFF\\\">AVA</> and <text color=\\\"FFFFFFFF\\\">TARR</> styles! Bundle includes Loading Screen."
         }
       },
       "reactivewraplight": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C788811E43E07E94F09662A51F5D6A1F",
-          "SourceString": "Reactive Wrap: <text color=\"FFFFFFFF\" fontface=\"black\">LIGHTS UP</> when firing weapon!"
+          "SourceString": "Reactive Wrap: <text color=\"FFFFFFFF\" fontface=\"black\">LIGHTS UP</> when firing weapon!",
+          "LocalizedString": "Reactive Wrap: <text color=\"FFFFFFFF\" fontface=\"black\">LIGHTS UP</> when firing weapon!"
         }
       },
       "reactiveweaponfire": {
         "FormatedText": {
           "Namespace": "",
           "Key": "99A7F48447802A3987DB2CB89B56C387",
-          "SourceString": "Reacts to weapon fire!"
+          "SourceString": "Reacts to weapon fire!",
+          "LocalizedString": "Reacts to weapon fire!"
         }
       },
       "reactiveoutfitbackblingelim": {
         "FormatedText": {
           "Namespace": "",
           "Key": "31E51F844C5A5A38C0359883BA2465A9",
-          "SourceString": "<text color=\"FFFFFFFF\">OUTFIT</> and <text color=\"FFFFFFFF\">BACK BLING</> react to eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">OUTFIT</> and <text color=\"FFFFFFFF\">BACK BLING</> react to eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">OUTFIT</> and <text color=\"FFFFFFFF\">BACK BLING</> react to eliminations!"
         }
       },
       "vertigoexclusivepickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AB5B820F4B202F510060618B02801100",
-          "SourceString": "Only Venom can wield the mighty Symbiote Slasher!"
+          "SourceString": "Only Venom can wield the mighty Symbiote Slasher!",
+          "LocalizedString": "Only Venom can wield the mighty Symbiote Slasher!"
         }
       },
       "pickthreeteam": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6CB3CAB84677205AE82D8BB27D82BB5E",
-          "SourceString": "Pick your favorite NFL team, select your number, and choose your visor style!"
+          "SourceString": "Pick your favorite NFL team, select your number, and choose your visor style!",
+          "LocalizedString": "Pick your favorite NFL team, select your number, and choose your visor style!"
         }
       },
       "reactivecorny": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D7AA9052429724896620DA995DF93B30",
-          "SourceString": "Corn pops with damage!"
+          "SourceString": "Corn pops with damage!",
+          "LocalizedString": "Corn pops with damage!"
         }
       },
       "promodesc1": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
-          "SourceString": "Kratos has arrived on the island."
+          "SourceString": "Kratos has arrived on the island.",
+          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
         }
       },
       "promodesc2": {
         "FormatedText": {
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
-          "SourceString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "SourceString": "Drop in with the Master Chief and finish the fight.",
+          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "historianpickaxedesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3DD9AE60494FA3C1163671B7E05EB1BA",
-          "SourceString": "<text color=\"FFFFFFFF\">LEVIATHAN AXE</> freezes as you harvest. Includes custom built-in emote!"
+          "SourceString": "<text color=\"FFFFFFFF\">LEVIATHAN AXE</> freezes as you harvest. Includes custom built-in emote!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">LEVIATHAN AXE</> freezes as you harvest. Includes custom built-in emote!"
         }
       },
       "reactivebittersweets": {
         "FormatedText": {
           "Namespace": "",
           "Key": "EA294E1A4622381E7299FF800418869E",
-          "SourceString": "Bitter Sweets Back Bling reacts to eliminations!"
+          "SourceString": "Bitter Sweets Back Bling reacts to eliminations!",
+          "LocalizedString": "Bitter Sweets Back Bling reacts to eliminations!"
         }
       },
       "syncedsingalong": {
         "FormatedText": {
           "Namespace": "",
           "Key": "70EF5B1D4F926DFCD1A42C99D1089F23",
-          "SourceString": "Join a chorus with other players who are using the Sing Along emote!"
+          "SourceString": "Join a chorus with other players who are using the Sing Along emote!",
+          "LocalizedString": "Join a chorus with other players who are using the Sing Along emote!"
         }
       },
       "wombatmaledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0EEE3F8341B2D145BBC70BADD18BE13F",
-          "SourceString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
+          "SourceString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!",
+          "LocalizedString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
         }
       },
       "wombatfemaledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D3E4155840FA5FF439D65680F8817AAD",
-          "SourceString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
+          "SourceString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!",
+          "LocalizedString": "Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
         }
       },
       "reactiveneonfemaledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B91D1C3A445DD6E86FF68C84DDF24DDE",
-          "SourceString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">VIBE STAR's</> face changes as you play!"
+          "SourceString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">VIBE STAR's</> face changes as you play!",
+          "LocalizedString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">VIBE STAR's</> face changes as you play!"
         }
       },
       "reactiveneonmaledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FB735D234D9978D458F882B3B57E8D41",
-          "SourceString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">GLOW GRIN's</> face changes as you play!"
+          "SourceString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">GLOW GRIN's</> face changes as you play!",
+          "LocalizedString": "Reactive outfit and back bling! The <text color=\"FFFFFFFF\">GLOW GRIN's</> face changes as you play!"
         }
       },
       "reactivemusicplaydesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "988F970F4C601AA3A27F729C7A8CE001",
-          "SourceString": "Reactive: Animates when music plays!"
+          "SourceString": "Reactive: Animates when music plays!",
+          "LocalizedString": "Reactive: Animates when music plays!"
         }
       },
       "syncedfavordesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E476691044B4E65E1ADE13AA910112A5",
-          "SourceString": "<text color=\"FFFFFFFF\">SYNCED EMOTE</>: Set off the <text color=\"FFFFFFFF\">PARTY FAVOR</> with a friend!"
+          "SourceString": "<text color=\"FFFFFFFF\">SYNCED EMOTE</>: Set off the <text color=\"FFFFFFFF\">PARTY FAVOR</> with a friend!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">SYNCED EMOTE</>: Set off the <text color=\"FFFFFFFF\">PARTY FAVOR</> with a friend!"
         }
       },
       "reactiveneonbundledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9E600B884159C5AF18BE5C8AD4EFDE3A",
-          "SourceString": "Reactive outfits and back blings! The <text color=\"FFFFFFFF\">VIBE STAR</> and <text color=\"FFFFFFFF\">GLOW GRIN</> change faces as you play!"
+          "SourceString": "Reactive outfits and back blings! The <text color=\"FFFFFFFF\">VIBE STAR</> and <text color=\"FFFFFFFF\">GLOW GRIN</> change faces as you play!",
+          "LocalizedString": "Reactive outfits and back blings! The <text color=\"FFFFFFFF\">VIBE STAR</> and <text color=\"FFFFFFFF\">GLOW GRIN</> change faces as you play!"
         }
       },
       "reactivefemaletyphoondesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CCFA9EAE478F5097A0B0F6BA4989FDBE",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">COMBAT KNIFE PICKAXE</> from <text color=\"FFFFFFFF\">SARAH CONNOR'S</> holster when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">COMBAT KNIFE PICKAXE</> from <text color=\"FFFFFFFF\">SARAH CONNOR'S</> holster when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">COMBAT KNIFE PICKAXE</> from <text color=\"FFFFFFFF\">SARAH CONNOR'S</> holster when both are equipped!"
         }
       },
       "reactiveconvoytarantuladesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0D16CEF04B49FF1B213BB6BF9A3B9E14",
-          "SourceString": "Equip <text color=\"FFFFFFFF\">SNAKE EYE'S KATANA</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!"
+          "SourceString": "Equip <text color=\"FFFFFFFF\">SNAKE EYE'S KATANA</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!",
+          "LocalizedString": "Equip <text color=\"FFFFFFFF\">SNAKE EYE'S KATANA</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!"
         }
       },
       "pickclubstyle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "46A3D53E408F2B7E22319ABAFB4F063E",
-          "SourceString": "Pick from 23 club styles!"
+          "SourceString": "Pick from 23 club styles!",
+          "LocalizedString": "Pick from 23 club styles!"
         }
       },
       "reactivefuseslight": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4E34E9744966E7863D3C6BAF08131EEE",
-          "SourceString": "Fuses light during emotes!"
+          "SourceString": "Fuses light during emotes!",
+          "LocalizedString": "Fuses light during emotes!"
         }
       },
       "equipmainframe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D2BE4F0F41D006E515010C8AFD2B7409",
-          "SourceString": "Equip the <text color=\"FFFFFFFF\">IDENTITY DISC</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!"
+          "SourceString": "Equip the <text color=\"FFFFFFFF\">IDENTITY DISC</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!",
+          "LocalizedString": "Equip the <text color=\"FFFFFFFF\">IDENTITY DISC</> as a <text color=\"FFFFFFFF\">BACK BLING</> or <text color=\"FFFFFFFF\">PICKAXE</>!"
         }
       },
       "loadingscreenincluded": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AAFDCFA646998577DCC806AA97145109",
-          "SourceString": "Loading Screen Included!"
+          "SourceString": "Loading Screen Included!",
+          "LocalizedString": "Loading Screen Included!"
         }
       },
       "reactiveanimationgameplay": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F4AF9BFB4E7C4B81BEB78295472A23BF",
-          "SourceString": "Animation reacts to gameplay!"
+          "SourceString": "Animation reacts to gameplay!",
+          "LocalizedString": "Animation reacts to gameplay!"
         }
       },
       "reactivegameplay": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FFB155A542B65D3E77F330897624CE27",
-          "SourceString": "Reacts to gameplay!"
+          "SourceString": "Reacts to gameplay!",
+          "LocalizedString": "Reacts to gameplay!"
         }
       },
       "builtinemoteskirmishmale": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3559D04C41C65BC4CC25A1ADE2913CEB",
-          "SourceString": "Outfit includes the built-in Shoryuken emote!"
+          "SourceString": "Outfit includes the built-in Shoryuken emote!",
+          "LocalizedString": "Outfit includes the built-in Shoryuken emote!"
         }
       },
       "builtinemoteskirmishfemale": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F83E654448A5B0C3DF23609A59EFD194",
-          "SourceString": "Outfit includes the built-in Lightning Kick emote!"
+          "SourceString": "Outfit includes the built-in Lightning Kick emote!",
+          "LocalizedString": "Outfit includes the built-in Lightning Kick emote!"
         }
       },
       "builtinemotemulti": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C1DF889B4AFC24776CE40C8A6D509EE8",
-          "SourceString": "Outfits include built-in emotes!"
+          "SourceString": "Outfits include built-in emotes!",
+          "LocalizedString": "Outfits include built-in emotes!"
         }
       },
       "builtinemotekeplermale": {
         "FormatedText": {
           "Namespace": "",
           "Key": "BD99E46A477B13FAEEBC408EC3BFA7C2",
-          "SourceString": "Outfit includes the built-in Xeno Menace emote!"
+          "SourceString": "Outfit includes the built-in Xeno Menace emote!",
+          "LocalizedString": "Outfit includes the built-in Xeno Menace emote!"
         }
       },
       "reactivecatburglar": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DF9B67B8489C5C3B1C6D6C8A14F5275E",
-          "SourceString": "Reactive: Outfit and Back Bling become more gold with each elimination! Weapons Marigold picks up can turn to gold!"
+          "SourceString": "Reactive: Outfit and Back Bling become more gold with each elimination! Weapons Marigold picks up can turn to gold!",
+          "LocalizedString": "Reactive: Outfit and Back Bling become more gold with each elimination! Weapons Marigold picks up can turn to gold!"
         }
       },
       "syncedshanty": {
         "FormatedText": {
           "Namespace": "",
           "Key": "7CB6F5914D44B7E7E851E1A5D98082DC",
-          "SourceString": "Group Emote! Join in the song with other players who are using the Shanty for a Squad Emote!"
+          "SourceString": "Group Emote! Join in the song with other players who are using the Shanty for a Squad Emote!",
+          "LocalizedString": "Group Emote! Join in the song with other players who are using the Shanty for a Squad Emote!"
         }
       },
       "reactivesouls": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B4A079B94CCC988D1FCDC482AF2EE808",
-          "SourceString": "Reactive: Souls of fallen enemies appear on the outfit!"
+          "SourceString": "Reactive: Souls of fallen enemies appear on the outfit!",
+          "LocalizedString": "Reactive: Souls of fallen enemies appear on the outfit!"
         }
       },
       "reactivevolcano": {
         "FormatedText": {
           "Namespace": "",
           "Key": "56EFF09D4061AB17869BCBB17596491B",
-          "SourceString": "Reactive back bling: Volcano erupts with eliminations!"
+          "SourceString": "Reactive back bling: Volcano erupts with eliminations!",
+          "LocalizedString": "Reactive back bling: Volcano erupts with eliminations!"
         }
       },
       "reactivepopopentimer": {
         "FormatedText": {
           "Namespace": "",
           "Key": "8A8C511B4C37E70F12150194C71436EC",
-          "SourceString": "Reactive: Pops open with eliminations! Timer counts down the storm!"
+          "SourceString": "Reactive: Pops open with eliminations! Timer counts down the storm!",
+          "LocalizedString": "Reactive: Pops open with eliminations! Timer counts down the storm!"
         }
       },
       "builtinemotesingular": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B1FB98DF48C4B603E1DA0DBD17A2628F",
-          "SourceString": "Outfit has built-in emote!"
+          "SourceString": "Outfit has built-in emote!",
+          "LocalizedString": "Outfit has built-in emote!"
         }
       },
       "reactivesoulsbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "75227C78439D53AE39F03BB66E4F628B",
-          "SourceString": "Reactive outfit: Souls of fallen enemies appear on the outfit! Includes loading screen!"
+          "SourceString": "Reactive outfit: Souls of fallen enemies appear on the outfit! Includes loading screen!",
+          "LocalizedString": "Reactive outfit: Souls of fallen enemies appear on the outfit! Includes loading screen!"
         }
       },
       "reactiveemotesandmusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0EFBC2F24454803A5E58268977AC68E0",
-          "SourceString": "Reactive to emotes and music!"
+          "SourceString": "Reactive to emotes and music!",
+          "LocalizedString": "Reactive to emotes and music!"
         }
       },
       "promodesc3": {
         "FormatedText": {
           "Namespace": "",
           "Key": "68AD059440E037B182477AB891B0BB7B",
-          "SourceString": "Includes Loading Screen!"
+          "SourceString": "Includes Loading Screen!",
+          "LocalizedString": "Includes Loading Screen!"
         }
       },
       "promodesc4": {
         "FormatedText": {
           "Namespace": "",
           "Key": "ABED7B7B410E18BB0436289003963F1D",
-          "SourceString": "Aloy has landed on the island!"
+          "SourceString": "Aloy has landed on the island!",
+          "LocalizedString": "Aloy has landed on the island!"
         }
       },
       "syncedtrain": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3A0D2EA54BCC896D1B9EB7826C4D4078",
-          "SourceString": "Synced emote: Drive the train and invite other players to join in train cars behind you!"
+          "SourceString": "Synced emote: Drive the train and invite other players to join in train cars behind you!",
+          "LocalizedString": "Synced emote: Drive the train and invite other players to join in train cars behind you!"
         }
       },
       "tacticalredpunkpickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DE549FC64F24994615D106927191B932",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SCARLET SAI PICKAXE</> from the included back bling when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SCARLET SAI PICKAXE</> from the included back bling when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">SCARLET SAI PICKAXE</> from the included back bling when both are equipped!"
         }
       },
       "dinocollectorpickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2914DD5943EA1A9E12DBBA98A314BC04",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">CROSSBITE TOOTHAXES</> from the <text color=\"FFFFFFFF\">TUSK & TOOTH BACK BLING</> when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">CROSSBITE TOOTHAXES</> from the <text color=\"FFFFFFFF\">TUSK & TOOTH BACK BLING</> when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">CROSSBITE TOOTHAXES</> from the <text color=\"FFFFFFFF\">TUSK & TOOTH BACK BLING</> when both are equipped!"
         }
       },
       "transforminspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6039591849081403F3854695A5F8774A",
-          "SourceString": "Transform between styles with the built-in <text color=\"FFFFFFFF\">GO APE</> emote!"
+          "SourceString": "Transform between styles with the built-in <text color=\"FFFFFFFF\">GO APE</> emote!",
+          "LocalizedString": "Transform between styles with the built-in <text color=\"FFFFFFFF\">GO APE</> emote!"
         }
       },
       "basketinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "304FA73A48A462CDB8E765B376314DC4",
-          "SourceString": "Use the <text color=\"FFFFFFFF\">HOOKSHOT TOY</> to score a basket on another player's <text color=\"FFFFFFFF\">MINI HOOP BACK BLING</> and trigger special effects!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">HOOKSHOT TOY</> to score a basket on another player's <text color=\"FFFFFFFF\">MINI HOOP BACK BLING</> and trigger special effects!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">HOOKSHOT TOY</> to score a basket on another player's <text color=\"FFFFFFFF\">MINI HOOP BACK BLING</> and trigger special effects!"
         }
       },
       "pickteaminspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F2CBF48D49704710585F2AB5A4E14202",
-          "SourceString": "Pick your favorite NBA team and choose your jersey number!"
+          "SourceString": "Pick your favorite NBA team and choose your jersey number!",
+          "LocalizedString": "Pick your favorite NBA team and choose your jersey number!"
         }
       },
       "fncss16finals": {
         "FormatedText": {
           "Namespace": "",
           "Key": "385E0C364CCD081FD458C6B65C0AF225",
-          "SourceString": "FNCS Chapter 2 Season 6 Finals Exclusive!"
+          "SourceString": "FNCS Chapter 2 Season 6 Finals Exclusive!",
+          "LocalizedString": "FNCS Chapter 2 Season 6 Finals Exclusive!"
         }
       },
       "grimreactive": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D39ED36841A7FA503AE9E297ECC04837",
-          "SourceString": "Unsheathe the included Pickaxe from the Deathstroke's Katanas Back Bling when both are equipped!"
+          "SourceString": "Unsheathe the included Pickaxe from the Deathstroke's Katanas Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe the included Pickaxe from the Deathstroke's Katanas Back Bling when both are equipped!"
         }
       },
       "downpourreactive": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9FFDA8D9464CE59026FB66B264326511",
-          "SourceString": "Unsheathe the Volcanic Glass Daggers Pickaxe from Kelsier's scabbards! Outfit includes Loading Screen!"
+          "SourceString": "Unsheathe the Volcanic Glass Daggers Pickaxe from Kelsier's scabbards! Outfit includes Loading Screen!",
+          "LocalizedString": "Unsheathe the Volcanic Glass Daggers Pickaxe from Kelsier's scabbards! Outfit includes Loading Screen!"
         }
       },
       "outfitreactstomusicemotes": {
         "FormatedText": {
           "Namespace": "",
           "Key": "173FD38A4F6A44848F9B3287346D1ED7",
-          "SourceString": "Reactive Outfit: Lights up while using musical Emotes!"
+          "SourceString": "Reactive Outfit: Lights up while using musical Emotes!",
+          "LocalizedString": "Reactive Outfit: Lights up while using musical Emotes!"
         }
       },
       "outfitincludesbuildinemote": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C6E84CCD4B351124F2D1D6818F546A29",
-          "SourceString": "Outfit includes built-in emote!"
+          "SourceString": "Outfit includes built-in emote!",
+          "LocalizedString": "Outfit includes built-in emote!"
         }
       },
       "flapyourwings": {
         "FormatedText": {
           "Namespace": "",
           "Key": "688BC2FF43C9A2C49CCADFA8F787F2D8",
-          "SourceString": "Flap your wings while jumping!"
+          "SourceString": "Flap your wings while jumping!",
+          "LocalizedString": "Flap your wings while jumping!"
         }
       },
       "goldquestsstandalone": {
         "FormatedText": {
           "Namespace": "",
           "Key": "029FBC154CA4C032B816849161148FB1",
-          "SourceString": "Becomes more gold as you complete a quest! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider when quest is complete! "
+          "SourceString": "Becomes more gold as you complete a quest! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider when quest is complete!",
+          "LocalizedString": "Becomes more gold as you complete a quest! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider when quest is complete!"
         }
       },
       "goldquestsbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "43FCD385412998F142D9868F4E69F1FB",
-          "SourceString": "Items become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider when all quests are complete! "
+          "SourceString": "Items become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider when all quests are complete!",
+          "LocalizedString": "Items become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider when all quests are complete!"
         }
       },
       "catburglarsummerinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E7EE14A5405C1E799845428606EEA42B",
-          "SourceString": "Golden Touch: turn weapons gold when equipped. Tattoos become more golden with eliminations!"
+          "SourceString": "Golden Touch: turn weapons gold when equipped. Tattoos become more golden with eliminations!",
+          "LocalizedString": "Golden Touch: turn weapons gold when equipped. Tattoos become more golden with eliminations!"
         }
       },
       "henchmansummerinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FAD683C94DCB0C300FEBD98730FD99DB",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SANDY SHOVELER</> pickaxe from <text color=\"FFFFFFFF\">SCUBA SATCHEL</> back bling when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SANDY SHOVELER</> pickaxe from <text color=\"FFFFFFFF\">SCUBA SATCHEL</> back bling when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">SANDY SHOVELER</> pickaxe from <text color=\"FFFFFFFF\">SCUBA SATCHEL</> back bling when both are equipped!"
         }
       },
       "firecrackerinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A14FF19C45577E5363882D89F6E1FDFA",
-          "SourceString": "Earn a victory royale and unleash the ultimate grand finale with <text color=\"FFFFFFFF\">NITROJERRY'S</> built-in <text color=\"FFFFFFFF\">SHORT FUSE</> emote."
+          "SourceString": "Earn a victory royale and unleash the ultimate grand finale with <text color=\"FFFFFFFF\">NITROJERRY'S</> built-in <text color=\"FFFFFFFF\">SHORT FUSE</> emote.",
+          "LocalizedString": "Earn a victory royale and unleash the ultimate grand finale with <text color=\"FFFFFFFF\">NITROJERRY'S</> built-in <text color=\"FFFFFFFF\">SHORT FUSE</> emote."
         }
       },
       "firecrackerpickaxeinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E79AF9314F930B3DF7F78D9B55D12B5D",
-          "SourceString": "Includes the built-in Roman Candle emote!"
+          "SourceString": "Includes the built-in Roman Candle emote!",
+          "LocalizedString": "Includes the built-in Roman Candle emote!"
         }
       },
       "shellhideinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "015772FA455FFEB69600B68871453E06",
-          "SourceString": "Shelly hides in his shell when you take damage!"
+          "SourceString": "Shelly hides in his shell when you take damage!",
+          "LocalizedString": "Shelly hides in his shell when you take damage!"
         }
       },
       "goldwrapeliminspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "5C9ECF164B8DC145D8D1279E0B316B6E",
-          "SourceString": "Reactive wrap! Grows more gold with eliminations!"
+          "SourceString": "Reactive wrap! Grows more gold with eliminations!",
+          "LocalizedString": "Reactive wrap! Grows more gold with eliminations!"
         }
       },
       "mustangwrapinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "552185A4497724D071A0CC95276642EE",
-          "SourceString": "Show off your equipped banner! Eliminations are marked with tallies!"
+          "SourceString": "Show off your equipped banner! Eliminations are marked with tallies!",
+          "LocalizedString": "Show off your equipped banner! Eliminations are marked with tallies!"
         }
       },
       "bluecheeseinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "5850C84F4C5D6496F322969079662006",
-          "SourceString": "Outfit gathers electricity with each elimination! Zoey will pop out of the <text color=\"FFFFFFFF\">ZOEY TROPHY</> back bling to celebrate each elimination!"
+          "SourceString": "Outfit gathers electricity with each elimination! Zoey will pop out of the <text color=\"FFFFFFFF\">ZOEY TROPHY</> back bling to celebrate each elimination!",
+          "LocalizedString": "Outfit gathers electricity with each elimination! Zoey will pop out of the <text color=\"FFFFFFFF\">ZOEY TROPHY</> back bling to celebrate each elimination!"
         }
       },
       "pliantoutfitlong": {
         "FormatedText": {
           "Namespace": "",
           "Key": "645D47514F508F76EF52B68F53F58C14",
-          "SourceString": "Show off any of your wraps on this outfit! Pick a color for your hair and clothing accents to complete your look! Includes Pixellator Wrap!"
+          "SourceString": "Show off any of your wraps on this outfit! Pick a color for your hair and clothing accents to complete your look! Includes Pixellator Wrap!",
+          "LocalizedString": "Show off any of your wraps on this outfit! Pick a color for your hair and clothing accents to complete your look! Includes Pixellator Wrap!"
         }
       },
       "pliantoutfitshort": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FB8DB2664B1FE93881928C871F67FE08",
-          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents. Includes Pixellator Wrap!"
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents. Includes Pixellator Wrap!",
+          "LocalizedString": "Show off any of your wraps! Pick a color for your hair and clothing accents. Includes Pixellator Wrap!"
         }
       },
       "pliantgearbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AF80345C41033D99BFB2BB9CB1813FEF",
-          "SourceString": "Show off any of your wraps on these items!"
+          "SourceString": "Show off any of your wraps on these items!",
+          "LocalizedString": "Show off any of your wraps on these items!"
         }
       },
       "pliantbackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0C72BFF64E08B7F9B1C4338661A9808B",
-          "SourceString": "Show off any of your wraps on this Back Bling!"
+          "SourceString": "Show off any of your wraps on this Back Bling!",
+          "LocalizedString": "Show off any of your wraps on this Back Bling!"
         }
       },
       "pliantpickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CD9F29C54A1B8A425B2BE68753E5CA36",
-          "SourceString": "Show off any of your wraps on this Pickaxe!"
+          "SourceString": "Show off any of your wraps on this Pickaxe!",
+          "LocalizedString": "Show off any of your wraps on this Pickaxe!"
         }
       },
       "musicreactinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C3E5222744966E36F63963AD14BB224D",
-          "SourceString": "Reactive to music!"
+          "SourceString": "Reactive to music!",
+          "LocalizedString": "Reactive to music!"
         }
       },
       "progressivecrewlegacy": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F64D7C4E4EB6FAD56BC5FE92DCA39861",
-          "SourceString": "Unlock a new stage for the Crew Legacy Back Bling or Pickaxe every month you are an active subscriber, up to 6 stages total!"
+          "SourceString": "Unlock a new stage for the Crew Legacy Back Bling or Pickaxe every month you are an active subscriber, up to 6 stages total!",
+          "LocalizedString": "Unlock a new stage for the Crew Legacy Back Bling or Pickaxe every month you are an active subscriber, up to 6 stages total!"
         }
       },
       "outfitlightmusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A931E3E74B01220D11E7D88C73D6D7DF",
-          "SourceString": "Outfit lights up and changes colors in response to music!"
+          "SourceString": "Outfit lights up and changes colors in response to music!",
+          "LocalizedString": "Outfit lights up and changes colors in response to music!"
         }
       },
       "outfitslightmusicbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2D11FED94C54EF90FB63459F19231EB9",
-          "SourceString": "Outfits light up and change colors in response to music. Bundle includes loading screen!"
+          "SourceString": "Outfits light up and change colors in response to music. Bundle includes loading screen!",
+          "LocalizedString": "Outfits light up and change colors in response to music. Bundle includes loading screen!"
         }
       },
       "somanystyles": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3DAA26034995C32876D6F0BBC6B0EEDE",
-          "SourceString": "Over 4,000 unique style combinations!"
+          "SourceString": "Over 4,000 unique style combinations!",
+          "LocalizedString": "Over 4,000 unique style combinations!"
         }
       },
       "builtindesc1": {
         "FormatedText": {
           "Namespace": "",
           "Key": "81274B3042EEC8CC2C9A6298250E36BB",
-          "SourceString": "Outfit includes the built-in Flash Kick emote!"
+          "SourceString": "Outfit includes the built-in Flash Kick emote!",
+          "LocalizedString": "Outfit includes the built-in Flash Kick emote!"
         }
       },
       "builtindesc2": {
         "FormatedText": {
           "Namespace": "",
           "Key": "55CA4EC1403006331B9A3B9C80A25E9B",
-          "SourceString": "Outfit includes the built-in Cannon Spike emote!"
+          "SourceString": "Outfit includes the built-in Cannon Spike emote!",
+          "LocalizedString": "Outfit includes the built-in Cannon Spike emote!"
         }
       },
       "builtinbundleloadingscreen": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AAD5E0F349F95C1872C0A4ADBD535A6E",
-          "SourceString": "Outfits include built-in emotes. Bundle includes loading screen!"
+          "SourceString": "Outfits include built-in emotes. Bundle includes loading screen!",
+          "LocalizedString": "Outfits include built-in emotes. Bundle includes loading screen!"
         }
       },
       "guffiebackbling": {
         "FormatedText": {
           "Namespace": "",
           "Key": "770D174C4486AE1E74906E9723A0C845",
-          "SourceString": "<text color=\"FFFFFFFF\">GUFFIE STUFFIE</> reacts happily or angrily to your gameplay!"
+          "SourceString": "<text color=\"FFFFFFFF\">GUFFIE STUFFIE</> reacts happily or angrily to your gameplay!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">GUFFIE STUFFIE</> reacts happily or angrily to your gameplay!"
         }
       },
       "promodesc5": {
         "FormatedText": {
           "Namespace": "",
           "Key": "85CBD80B43E2F757373E778D06521424",
-          "SourceString": "Customizable colors! Choose from 3 different styles and select jersey numbers for all outfits."
+          "SourceString": "Customizable colors! Choose from 3 different styles and select jersey numbers for all outfits.",
+          "LocalizedString": "Customizable colors! Choose from 3 different styles and select jersey numbers for all outfits."
         }
       },
       "bundlefoursprays": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6FA36431462D563BC66AF78AC55CDC16",
-          "SourceString": "Bundle includes four sprays!"
+          "SourceString": "Bundle includes four sprays!",
+          "LocalizedString": "Bundle includes four sprays!"
         }
       },
       "rollerskateinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "26A38FD64AF18A1B0C312990DCEAC5EA",
-          "SourceString": "Outfit includes the built-in <text color=\"FFFFFFFF\">ROLLER VIBES</> traversal emote! Includes free loading screen!"
+          "SourceString": "Outfit includes the built-in <text color=\"FFFFFFFF\">ROLLER VIBES</> traversal emote! Includes free loading screen!",
+          "LocalizedString": "Outfit includes the built-in <text color=\"FFFFFFFF\">ROLLER VIBES</> traversal emote! Includes free loading screen!"
         }
       },
       "floraxeinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6761491740D6EB6161F0359DF43E073F",
-          "SourceString": "<text color=\"FFFFFFFF\">PLUXARIAN FLORAXE</> morphs onto <text color=\"FFFFFFFF\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
+          "SourceString": "<text color=\"FFFFFFFF\">PLUXARIAN FLORAXE</> morphs onto <text color=\"FFFFFFFF\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">PLUXARIAN FLORAXE</> morphs onto <text color=\"FFFFFFFF\">BLOOM'S</> arm when both are equipped. Outfit reacts to damage!"
         }
       },
       "fncsc2s7inspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FF8D143B49BAE81C9F647F84C48E0D2A",
-          "SourceString": "Only <text color=\\\"FFFFFFFF\\\">ASH WILLIAMS</> can use the <text color=\\\"FFFFFFFF\\\">CHAINSAW HAND</> Pickaxe. The <text color=\\\"FFFFFFFF\\\">NECRONOMICON EX-MORTIS</> Back Bling opens with every elimination!"
+          "SourceString": "FNCS Chapter 2 Season 7 Finals Exclusive!",
+          "LocalizedString": "Only <text color=\\\"FFFFFFFF\\\">ASH WILLIAMS</> can use the <text color=\\\"FFFFFFFF\\\">CHAINSAW HAND</> Pickaxe. The <text color=\\\"FFFFFFFF\\\">NECRONOMICON EX-MORTIS</> Back Bling opens with every elimination!"
         }
       },
       "galaxybackpackinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "BED7870F4964C39A8AF5CAAC4D77ED73",
-          "SourceString": "<text color=\"FFFFFFFF\">HANDS OF THE GALAXY</> back bling is reactive to eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">HANDS OF THE GALAXY</> back bling is reactive to eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">HANDS OF THE GALAXY</> back bling is reactive to eliminations!"
         }
       },
       "syncedemoteinvite": {
         "FormatedText": {
           "Namespace": "",
           "Key": "091A022547B7C91FC992638C22A47D39",
-          "SourceString": "Synced emote: Invite others to play along!"
+          "SourceString": "Synced emote: Invite others to play along!",
+          "LocalizedString": "Synced emote: Invite others to play along!"
         }
       },
       "glassbreaks": {
         "FormatedText": {
           "Namespace": "",
           "Key": "47082E5F47AAAAE0F03510899E44FEC7",
-          "SourceString": "Glass breaks when striking weak points!"
+          "SourceString": "Glass breaks when striking weak points!",
+          "LocalizedString": "Glass breaks when striking weak points!"
         }
       },
       "reactstoaudio": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FCF2BE1E4EC214628F939AA2E7FA5FEB",
-          "SourceString": "Reacts to audio!"
+          "SourceString": "Reacts to audio!",
+          "LocalizedString": "Reacts to audio!"
         }
       },
       "boundlessdisabledcomp": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4C7254C84D6EA042E1CB8A90EE5B3CC9",
-          "SourceString": "Create your own hero! Over a dozen customizable components! Note: This outfit is currently disabled from competitive playlists. "
+          "SourceString": "Create your own hero! Over a dozen customizable components! Note: This outfit is currently disabled from competitive playlists. ",
+          "LocalizedString": "Create your own hero! Over a dozen customizable components! Note: This outfit is currently disabled from competitive playlists. "
         }
       },
       "tiedyedesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AEF71B2743372AEBCE05E58277E3FCF8",
-          "SourceString": "Mix and Match! Pick patterns and colors on outfits. Pick 3 different colors on Back Bling and Pickaxe!"
+          "SourceString": "Mix and Match! Pick patterns and colors on outfits. Pick 3 different colors on Back Bling and Pickaxe!",
+          "LocalizedString": "Mix and Match! Pick patterns and colors on outfits. Pick 3 different colors on Back Bling and Pickaxe!"
         }
       },
       "promodesc7": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FF2BC53E43570626B691F9AC377401D7",
-          "SourceString": "Invite others to play along with the Schwifty Time Emote! Glass breaks when striking weak points with the Space Snake Pickaxe!"
+          "SourceString": "Invite others to play along with the Schwifty Time Emote! Glass breaks when striking weak points with the Space Snake Pickaxe!",
+          "LocalizedString": "Invite others to play along with the Schwifty Time Emote! Glass breaks when striking weak points with the Space Snake Pickaxe!"
         }
       },
       "promodesc6": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0F4B6D224F107CB4617E9B9921B0CC2E",
-          "SourceString": "Unsheathe the included Pickaxe from the Real Back Bling when both are equipped!"
+          "SourceString": "Unsheathe the included Pickaxe from the Real Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe the included Pickaxe from the Real Back Bling when both are equipped!"
         }
       },
       "reactiveoutfitcolorelims": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4D4EAA2741B822FD9048F1A66D07A49C",
-          "SourceString": "Reactive Outfit: Cycle colors with eliminations!"
+          "SourceString": "Reactive Outfit: Cycle colors with eliminations!",
+          "LocalizedString": "Reactive Outfit: Cycle colors with eliminations!"
         }
       },
       "tiedyedescnew": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4A0E1B994DDC6C0593E930BD22740BD1",
-          "SourceString": "Combine three color choices in one of six different patterns to customize your tie-dye!"
+          "SourceString": "Combine three color choices in one of six different patterns to customize your tie-dye!",
+          "LocalizedString": "Combine three color choices in one of six different patterns to customize your tie-dye!"
         }
       },
       "tiedyepickaxeinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "93DC86C8424679385C27179D6AF485CF",
-          "SourceString": "Pick up to 3 different colors!"
+          "SourceString": "Pick up to 3 different colors!",
+          "LocalizedString": "Pick up to 3 different colors!"
         }
       },
       "monarchoutfitinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "33DBD21645B0792D4FD1A58E3B9E4CF7",
-          "SourceString": "Outfit includes the built-in Bracelets of Hephaestus emote!"
+          "SourceString": "Outfit includes the built-in Bracelets of Hephaestus emote!",
+          "LocalizedString": "Outfit includes the built-in Bracelets of Hephaestus emote!"
         }
       },
       "emoteandloadingscreen": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B3D43A7C4621586BCC54EC8A5C82B48D",
-          "SourceString": "Outfit includes built-in emote. Bundle includes loading screen!"
+          "SourceString": "Outfit includes built-in emote. Bundle includes loading screen!",
+          "LocalizedString": "Outfit includes built-in emote. Bundle includes loading screen!"
         }
       },
       "majestygearbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FCD2247942AB182BC664F689D17363C3",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">THE LION</> and <text color=\\\"FFFFFFFF\\\">WINGSPAN</> become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider! "
+          "SourceString": "<text color=\"FFFFFFFF\">THE LION</> and <text color=\"FFFFFFFF\">WINGSPAN</> become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">THE LION</> and <text color=\"FFFFFFFF\">WINGSPAN</> become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider!"
         }
       },
       "majestyoutfitbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "50B0BB8B44FE90465C7A099803C84A68",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">LEBRON JAMES</> outfit and <text color=\\\"FFFFFFFF\\\">KING'S BLING</> become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider!"
+          "SourceString": "<text color=\"FFFFFFFF\">LEBRON JAMES</> outfit and <text color=\"FFFFFFFF\">KING'S BLING</> become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">LEBRON JAMES</> outfit and <text color=\"FFFFFFFF\">KING'S BLING</> become more gold as you complete quests! Look for the Miscellaneous section of the Quests screen to check your progress! Unlock a custom goldness slider!"
         }
       },
       "tattooreactivity": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3400F2A94A986F8F557C7E8D84E2851D",
-          "SourceString": "Tattoos illuminate when opening Chests!"
+          "SourceString": "Tattoos illuminate when opening Chests!",
+          "LocalizedString": "Tattoos illuminate when opening Chests!"
         }
       },
       "reactiveoutfitchangescolorelims": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4A48220240540F61241C35A16FDD2037",
-          "SourceString": "Reactive Outfit: Outfit changes color with eliminations!"
+          "SourceString": "Reactive Outfit: Outfit changes color with eliminations!",
+          "LocalizedString": "Reactive Outfit: Outfit changes color with eliminations!"
         }
       },
       "promodesc8": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F67A19D84FBA772395FA4E985E4A0CDA",
-          "SourceString": "Unchained Ramirez outfit changes color with eliminations!"
+          "SourceString": "Unchained Ramirez outfit changes color with eliminations!",
+          "LocalizedString": "Unchained Ramirez outfit changes color with eliminations!"
         }
       },
       "promodesc9": {
         "FormatedText": {
           "Namespace": "",
           "Key": "5D4866A340A01E091B09388A60B95F9E",
-          "SourceString": "Fashion Banshee outfit changes color with eliminations!"
+          "SourceString": "Fashion Banshee outfit changes color with eliminations!",
+          "LocalizedString": "Fashion Banshee outfit changes color with eliminations!"
         }
       },
       "promodesc10": {
         "FormatedText": {
           "Namespace": "",
           "Key": "85268EF0414576DF90BF17832A71DCFD",
-          "SourceString": "Transform with the built-in emote! Only Eddie Brock can wield the included Symbiote Scythe."
+          "SourceString": "Transform with the built-in emote! Only Eddie Brock can wield the included Symbiote Scythe.",
+          "LocalizedString": "Transform with the built-in emote! Only Eddie Brock can wield the included Symbiote Scythe."
         }
       },
       "promodesc11": {
         "FormatedText": {
           "Namespace": "",
           "Key": "595B166F416598C86F7F1B92508D7513",
-          "SourceString": "Bundle includes Emoticon! Only Venom can use Symbiote Slasher, and only Eddie Brock can use Symbiote Scythe. Eddie Brock transforms with emote!"
+          "SourceString": "Bundle includes Emoticon! Only Venom can use Symbiote Slasher, and only Eddie Brock can use Symbiote Scythe. Eddie Brock transforms with emote!",
+          "LocalizedString": "Bundle includes Emoticon! Only Venom can use Symbiote Slasher, and only Eddie Brock can use Symbiote Scythe. Eddie Brock transforms with emote!"
         }
       },
       "reactivelightningelims": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C59CED814606D584FA64338C33794EA3",
-          "SourceString": "Reactive Outfit: Lightning effects increase with eliminations!"
+          "SourceString": "Reactive Outfit: Lightning effects increase with eliminations!",
+          "LocalizedString": "Reactive Outfit: Lightning effects increase with eliminations!"
         }
       },
       "werewolffemalepickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C566E75448A3109C5397319A454F8BE5",
-          "SourceString": "Pull the Might & Malice dual-wield Pickaxe off the Wolfmoon Crest Back Bling!"
+          "SourceString": "Pull the Might & Malice dual-wield Pickaxe off the Wolfmoon Crest Back Bling!",
+          "LocalizedString": "Pull the Might & Malice dual-wield Pickaxe off the Wolfmoon Crest Back Bling!"
         }
       },
       "reactiveilluminatesweakpoints": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2E2EAD0A482B2432A2E95DAC95894A48",
-          "SourceString": "Reactive Pickaxe: Illuminates when striking weak points!"
+          "SourceString": "Reactive Pickaxe: Illuminates when striking weak points!",
+          "LocalizedString": "Reactive Pickaxe: Illuminates when striking weak points!"
         }
       },
       "pickmaskpatterncolors": {
         "FormatedText": {
           "Namespace": "",
           "Key": "BAE0C21C429D8BE5CC8DF382808ADA24",
-          "SourceString": "Pick a mask, pattern, and three colors to customize your outfit!"
+          "SourceString": "Pick a mask, pattern, and three colors to customize your outfit!",
+          "LocalizedString": "Pick a mask, pattern, and three colors to customize your outfit!"
         }
       },
       "perfectproppickaxe": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E40F84134BD43D84698828880393EE4F",
-          "SourceString": "Pick a pattern and three colors to customize your pickaxe!"
+          "SourceString": "Pick a pattern and three colors to customize your pickaxe!",
+          "LocalizedString": "Pick a pattern and three colors to customize your pickaxe!"
         }
       },
       "transformbuiltinemote": {
         "FormatedText": {
           "Namespace": "",
           "Key": "41924CAE4F67D77FADF1D495335006B2",
-          "SourceString": "Transform with the built-in emote!"
+          "SourceString": "Transform with the built-in emote!",
+          "LocalizedString": "Transform with the built-in emote!"
         }
       },
       "transformbuiltinaccessories": {
         "FormatedText": {
           "Namespace": "",
           "Key": "28617EDB4E9B72EBB5262D8805985A0D",
-          "SourceString": "Transform with the built-in emote! Accessories also transform when equipped!"
+          "SourceString": "Transform with the built-in emote! Accessories also transform when equipped!",
+          "LocalizedString": "Transform with the built-in emote! Accessories also transform when equipped!"
         }
       },
       "gummyfishstickinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4268AD8343AAAE315718628CB5B9AF4C",
-          "SourceString": "Pick colors to customize Gummy Fishstick!"
+          "SourceString": "Pick colors to customize Gummy Fishstick!",
+          "LocalizedString": "Pick colors to customize Gummy Fishstick!"
         }
       },
       "promodesc12": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B5356A2D40D8533165878DA322778499",
-          "SourceString": "Spacefarer Ariana accessories will automatically match outfit style, and respond to outfit's built-in transformation emote!"
+          "SourceString": "Spacefarer Ariana accessories will automatically match outfit style, and respond to outfit's built-in transformation emote!",
+          "LocalizedString": "Spacefarer Ariana accessories will automatically match outfit style, and respond to outfit's built-in transformation emote!"
         }
       },
       "shadowtouch": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AA3175454C9BE929CA43D98D929E16F8",
-          "SourceString": "Shadow effect on outfit grows with eliminations. <text color=\"FFFFFFFF\">SHADOW TOUCH:</> Apply a shadow wrap to any equipped weapon!"
+          "SourceString": "Shadow effect on outfit grows with eliminations. <text color=\"FFFFFFFF\">SHADOW TOUCH:</> Apply a shadow wrap to any equipped weapon!",
+          "LocalizedString": "Shadow effect on outfit grows with eliminations. <text color=\"FFFFFFFF\">SHADOW TOUCH:</> Apply a shadow wrap to any equipped weapon!"
         }
       },
       "zombieelastic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "BBC80C9D4B4EBE8B974F118ABFD4914E",
-          "SourceString": "Create your own zombified hero! Nine customizable components!"
+          "SourceString": "Create your own zombified hero! Nine customizable components!",
+          "LocalizedString": "Create your own zombified hero! Nine customizable components!"
         }
       },
       "zombieelasticback": {
         "FormatedText": {
           "Namespace": "",
           "Key": "EA4D150845ADD8C7574924BD1B6363B9",
-          "SourceString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker!"
+          "SourceString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker!",
+          "LocalizedString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker!"
         }
       },
       "zombieelasticbackreactive": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1DCA27764CAA08CD23AF708175DB7605",
-          "SourceString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker! Reacts to Eliminations!"
+          "SourceString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker! Reacts to Eliminations!",
+          "LocalizedString": "Show off any <text color=\"FFFFFFFF\">EMOTICON</> in your locker! Reacts to Eliminations!"
         }
       },
       "customizepumpkin": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E80D5F8649DCB1F8993AC5BBD19D69C5",
-          "SourceString": "Customize mouth, nose, eyes, topper, and color!"
+          "SourceString": "Customize mouth, nose, eyes, topper, and color!",
+          "LocalizedString": "Customize mouth, nose, eyes, topper, and color!"
         }
       },
       "includestwoloadingscreens": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F9470C1641F0B3BE8D456A89210293BE",
-          "SourceString": "Includes two Loading Screens!"
+          "SourceString": "Includes two Loading Screens!",
+          "LocalizedString": "Includes two Loading Screens!"
         }
       },
       "backwithnewstyle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CF4F364B4BBFAA49C7D99980CCC276AD",
-          "SourceString": "On eliminations, <text color=\\\"FFFFFFFF\\\">BLACK ADAM'S</> suit turns gold, and the <text color=\\\"FFFFFFFF\\\">SYMBOL OF SHIRUTA</> Back Bling glows with lightning!"
+          "SourceString": "Back with a new style!",
+          "LocalizedString": "Back with a new style!"
         }
       },
       "includestwoloadingandspray": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6FB2A829482BA16BD15A2F93AB9DBC5F",
-          "SourceString": "Includes two Loading Screens and a Spray!"
+          "SourceString": "Includes two Loading Screens and a Spray!",
+          "LocalizedString": "Includes two Loading Screens and a Spray!"
         }
       },
       "customize": {
         "FormatedText": {
           "Namespace": "",
           "Key": "ABAA895D403B3876EEB2DB94A72F0F22",
-          "SourceString": "Customize!"
+          "SourceString": "Customize!",
+          "LocalizedString": "Customize!"
         }
       },
       "fncsc2s8inspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6E60607F47BD7EDF8E6726A055AA6DC8",
-          "SourceString": "On eliminations, <text color=\\\"FFFFFFFF\\\">BLACK ADAM'S</> suit turns gold, and the <text color=\\\"FFFFFFFF\\\">SYMBOL OF SHIRUTA</> Back Bling glows with lightning!"
+          "SourceString": "FNCS Grand Royale Exclusive!",
+          "LocalizedString": "FNCS Grand Royale Exclusive!"
         }
       },
       "pickaxeincluded": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C2EDB10C48C988207141148BBEEB0548",
-          "SourceString": "Pickaxe Included!"
+          "SourceString": "Pickaxe Included!",
+          "LocalizedString": "Pickaxe Included!"
         }
       },
       "bundleincludesloadingscreen": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2D384C8542078DF1EB0BB8A08EF6E0CD",
-          "SourceString": "Bundle includes loading screen!"
+          "SourceString": "Bundle includes loading screen!",
+          "LocalizedString": "Bundle includes loading screen!"
         }
       },
       "promodesc13": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9F6D2D264A13884CEB221A8667F9958F",
-          "SourceString": "Change color the higher up you go! Bundle includes loading screen!"
+          "SourceString": "Change color the higher up you go! Bundle includes loading screen!",
+          "LocalizedString": "Change color the higher up you go! Bundle includes loading screen!"
         }
       },
       "promodesc14": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C7861A5542EA72DA0E815C8845F93580",
-          "SourceString": "Draw the <text color=\"FFFFFFFF\">UMBRA-AXE PICKAXE</> and the <text color=\"FFFFFFFF\">PARA-PLUIE GLIDER</> from the <text color=\"FFFFFFFF\">UMBRA-TUBE BACK BLING</> when equipped together!"
+          "SourceString": "Draw the <text color=\"FFFFFFFF\">UMBRA-AXE PICKAXE</> and the <text color=\"FFFFFFFF\">PARA-PLUIE GLIDER</> from the <text color=\"FFFFFFFF\">UMBRA-TUBE BACK BLING</> when equipped together!",
+          "LocalizedString": "Draw the <text color=\"FFFFFFFF\">UMBRA-AXE PICKAXE</> and the <text color=\"FFFFFFFF\">PARA-PLUIE GLIDER</> from the <text color=\"FFFFFFFF\">UMBRA-TUBE BACK BLING</> when equipped together!"
         }
       },
       "headbandpickaxeinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9D5B357D4B783B881C4A8E8BBCD890D8",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped!"
         }
       },
       "headbandbundletwoinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DE51309B4F839855C1F2A78C2877EC63",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped! Bundle includes loading screen!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped! Bundle includes loading screen!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">SNAKE SWORD PICKAXE</> from <text color=\"FFFFFFFF\">SASUKE UCHIHA's</> scabbard when both are equipped! Bundle includes loading screen!"
         }
       },
       "promodesc15": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
-          "SourceString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "SourceString": "Marcus has arrived on the island.",
+          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "promodesc16": {
         "FormatedText": {
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
-          "SourceString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style for Marcus!"
+          "SourceString": "Marcus and Kait have arrived on the island.",
+          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
         }
       },
       "promodesc17": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DBD28D8640E1BEAB2BB4979AEFC04562",
-          "SourceString": "Add and remove your mask with the built-in emote!"
+          "SourceString": "Add and remove your mask with the built-in emote!",
+          "LocalizedString": "Add and remove your mask with the built-in emote!"
         }
       },
       "promodesc18": {
         "FormatedText": {
           "Namespace": "",
           "Key": "8C94A33C4C8A8D3D53C80EBD3691ABCB",
-          "SourceString": "Includes selectable styles for three dojos!"
+          "SourceString": "Includes selectable styles for three dojos!",
+          "LocalizedString": "Includes selectable styles for three dojos!"
         }
       },
       "kittywarriorinspect": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DDC81616436FF2810609AC89A5155F49",
-          "SourceString": "Unsheathe the dual-wield <text color=\"FFFFFFFF\">NYAN CLAWS</> from <text color=\"FFFFFFFF\">AZUKI's</> scabbards when both are equipped!"
+          "SourceString": "Unsheathe the dual-wield <text color=\"FFFFFFFF\">NYAN CLAWS</> from <text color=\"FFFFFFFF\">AZUKI's</> scabbards when both are equipped!",
+          "LocalizedString": "Unsheathe the dual-wield <text color=\"FFFFFFFF\">NYAN CLAWS</> from <text color=\"FFFFFFFF\">AZUKI's</> scabbards when both are equipped!"
         }
       },
       "blackicelegends": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A377E7FA41ABAF183BC1BC85446FB122",
-          "SourceString": "Frozen Touch! With the <text color=\"FFFFFFFF\">ICEBOUND MIDAS</> outfit, apply a frozen wrap to any equipped weapon!"
+          "SourceString": "Frozen Touch! With the <text color=\"FFFFFFFF\">ICEBOUND MIDAS</> outfit, apply a frozen wrap to any equipped weapon!",
+          "LocalizedString": "Frozen Touch! With the <text color=\"FFFFFFFF\">ICEBOUND MIDAS</> outfit, apply a frozen wrap to any equipped weapon!"
         }
       },
       "promodesc19": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B94C6491404CFC3A534EEA9F756D95FA",
-          "SourceString": "Watch Tones and I perform <text color=\"FFFFFFFF\">CLOUDY DAY</> in the <text color=\"FFFFFFFF\">SOUNDWAVE SERIES: TONES AND I</> musical show starting <text color=\"FFFFFFFF\">JANUARY 21st!</>"
+          "SourceString": "Watch Tones and I perform <text color=\"FFFFFFFF\">CLOUDY DAY</> in the <text color=\"FFFFFFFF\">SOUNDWAVE SERIES: TONES AND I</> musical show starting <text color=\"FFFFFFFF\">JANUARY 21st!</>",
+          "LocalizedString": "Watch Tones and I perform <text color=\"FFFFFFFF\">CLOUDY DAY</> in the <text color=\"FFFFFFFF\">SOUNDWAVE SERIES: TONES AND I</> musical show starting <text color=\"FFFFFFFF\">JANUARY 21st!</>"
         }
       },
       "foeglider": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DE5B8EB9485E9B14CBDDB99C07733D0A",
-          "SourceString": "Strike a menacing pose while riding the <text color=\"FFFFFFFF\">GOBLIN GLIDER!</>"
+          "SourceString": "Strike a menacing pose while riding the <text color=\"FFFFFFFF\">GOBLIN GLIDER!</>",
+          "LocalizedString": "Strike a menacing pose while riding the <text color=\"FFFFFFFF\">GOBLIN GLIDER!</>"
         }
       },
       "outfitmusicreact": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CEAB98024CBC78D6742F93B654D5BC61",
-          "SourceString": "Outfit reacts to music!"
+          "SourceString": "Outfit reacts to music!",
+          "LocalizedString": "Outfit reacts to music!"
         }
       },
       "promodesc20": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AC0E58A146D3B05396277B9531944FDA",
-          "SourceString": "Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped. Outfit reacts to music!"
+          "SourceString": "Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped. Outfit reacts to music!",
+          "LocalizedString": "Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped. Outfit reacts to music!"
         }
       },
       "promodesc21": {
         "FormatedText": {
           "Namespace": "",
           "Key": "ED0B8BEE42A2E61C611AF3AB648DB8AA",
-          "SourceString": "Equip the SOUND SCEPTER as a Pickaxe or Back Bling. BRUNO MARS's BLASTOFF style reacts to eliminations!"
+          "SourceString": "Equip the SOUND SCEPTER as a Pickaxe or Back Bling. BRUNO MARS's BLASTOFF style reacts to eliminations!",
+          "LocalizedString": "Equip the SOUND SCEPTER as a Pickaxe or Back Bling. BRUNO MARS's BLASTOFF style reacts to eliminations!"
         }
       },
       "promodesc22": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FD5A812643210AD9937553AA277E44D0",
-          "SourceString": "ANDERSON .PAAK's BLASTOFF style reacts to eliminations!"
+          "SourceString": "ANDERSON .PAAK's BLASTOFF style reacts to eliminations!",
+          "LocalizedString": "ANDERSON .PAAK's BLASTOFF style reacts to eliminations!"
         }
       },
       "promodesc23": {
         "FormatedText": {
           "Namespace": "",
           "Key": "70DE2F384683F7C44E48F78FF1D2C060",
-          "SourceString": "Both Outfits' BLASTOFF styles react to eliminations!"
+          "SourceString": "Both Outfits' BLASTOFF styles react to eliminations!",
+          "LocalizedString": "Both Outfits' BLASTOFF styles react to eliminations!"
         }
       },
       "promodesc24": {
         "FormatedText": {
           "Namespace": "",
           "Key": "40A791E64AB31B339C868AA66DF9B0E7",
-          "SourceString": "Both Outfits react to music! Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped."
+          "SourceString": "Both Outfits react to music! Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped.",
+          "LocalizedString": "Both Outfits react to music! Unsheathe THE SHOCKWAVE BLADE Pickaxe from its Back Bling when both are equipped."
         }
       },
       "outfitlightelim": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4D9CAE684D247A86C81F8BA5ABC4F595",
-          "SourceString": "Reactive: Outfit lights up with eliminations!"
+          "SourceString": "Reactive: Outfit lights up with eliminations!",
+          "LocalizedString": "Reactive: Outfit lights up with eliminations!"
         }
       },
       "promodesc25": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D3CA254849628AFF6CF1529BAE23416C",
-          "SourceString": "TBD"
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
         }
       },
       "promodesc26": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E9C6BB6C41F907FA5B747F989305DAD9",
-          "SourceString": "Bundle includes loading screen! With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!"
+          "SourceString": "Bundle includes loading screen! With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!",
+          "LocalizedString": "Bundle includes loading screen! With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!"
         }
       },
       "promodesc27": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9C274D6D473740FBEA58119D06D7850F",
-          "SourceString": "Bundle includes bonus items! Use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote to equip <text color=\"FFFFFFFF\">Ezio's Hidden Blade</>! Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!"
+          "SourceString": "Bundle includes bonus items! Use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote to equip <text color=\"FFFFFFFF\">Ezio's Hidden Blade</>! Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!",
+          "LocalizedString": "Bundle includes bonus items! Use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote to equip <text color=\"FFFFFFFF\">Ezio's Hidden Blade</>! Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!"
         }
       },
       "promodesc28": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C6E28C3240EA6B4B0235AE96D33B2EFA",
-          "SourceString": "Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">Viking War Cry</> Emote with <text color=\"FFFFFFFF\">Handaxes of the Raven Clan</> or <text color=\"FFFFFFFF\">Eivor's Shield</> equipped!"
         }
       },
       "promodesc29": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9C3DD27F45A1975D8F72C09B0B572C21",
-          "SourceString": "With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!"
+          "SourceString": "With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!",
+          "LocalizedString": "With the reactive <text color=\"FFFFFFFF\">Deep Freeze</> style, <text color=\"FFFFFFFF\">Chloe Kim</> ices over with eliminations!"
         }
       },
       "promodesc30": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B623DF7444C937F0F8852AB7F277693A",
-          "SourceString": "With the reactive <text color=\"FFFFFFFF\">Prismatic Streak</> style, <text color=\"FFFFFFFF\">Chica</> lights up with eliminations!"
+          "SourceString": "With the reactive <text color=\"FFFFFFFF\">Prismatic Streak</> style, <text color=\"FFFFFFFF\">Chica</> lights up with eliminations!",
+          "LocalizedString": "With the reactive <text color=\"FFFFFFFF\">Prismatic Streak</> style, <text color=\"FFFFFFFF\">Chica</> lights up with eliminations!"
         }
       },
       "journeyisb": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3F741B834C00A5C1D04F55868D5449BA",
-          "SourceString": "Use the <text color=\"FFFFFFFF\">Assassin's Strike Emote</> to wield <text color=\"FFFFFFFF\">Ezio's Hidden Blade</> Pickaxe! Only <text color=\"FFFFFFFF\">Ezio</> can use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote. "
+          "SourceString": "Use the <text color=\"FFFFFFFF\">Assassin's Strike Emote</> to wield <text color=\"FFFFFFFF\">Ezio's Hidden Blade</> Pickaxe! Only <text color=\"FFFFFFFF\">Ezio</> can use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote. ",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">Assassin's Strike Emote</> to wield <text color=\"FFFFFFFF\">Ezio's Hidden Blade</> Pickaxe! Only <text color=\"FFFFFFFF\">Ezio</> can use the <text color=\"FFFFFFFF\">Assassin's Strike</> Emote. "
         }
       },
       "musicreactivity": {
         "FormatedText": {
           "Namespace": "",
           "Key": "423418D045F16618D353F28D73532077",
-          "SourceString": "Reacts to music!"
+          "SourceString": "Reacts to music!",
+          "LocalizedString": "Reacts to music!"
         }
       },
       "itemmusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "16B7638143BBF63BA7A8A3805EE3CA80",
-          "SourceString": "Items react to music!"
+          "SourceString": "Items react to music!",
+          "LocalizedString": "Items react to music!"
         }
       },
       "outfitbackblingmusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9951171A40C8DAC9211B4C9D98AE0CB0",
-          "SourceString": "Outfit and Back Bling react to music!"
+          "SourceString": "Outfit and Back Bling react to music!",
+          "LocalizedString": "Outfit and Back Bling react to music!"
         }
       },
       "vampirehunter": {
         "FormatedText": {
           "Namespace": "",
           "Key": "394CB8D04C4FB591B57D97A25C06ADB4",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">NIGHTFORGED BLADES</> Pickaxe from its Back Bling when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">NIGHTFORGED BLADES</> Pickaxe from its Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">NIGHTFORGED BLADES</> Pickaxe from its Back Bling when both are equipped!"
         }
       },
       "lurkfemale": {
         "FormatedText": {
           "Namespace": "",
           "Key": "751644D94E78DA4C75794DADEA7DF0FC",
-          "SourceString": "Equip the <text color=\"FFFFFFFF\">Web Shredder</> as a Back Bling or Pickaxe!"
+          "SourceString": "Equip the <text color=\"FFFFFFFF\">Web Shredder</> as a Back Bling or Pickaxe!",
+          "LocalizedString": "Equip the <text color=\"FFFFFFFF\">Web Shredder</> as a Back Bling or Pickaxe!"
         }
       },
       "backblingmusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6D6C05F145AB574D3A1DB48AA416400E",
-          "SourceString": "Back Bling reacts to music!"
+          "SourceString": "Back Bling reacts to music!",
+          "LocalizedString": "Back Bling reacts to music!"
         }
       },
       "promodesc31": {
         "FormatedText": {
           "Namespace": "",
           "Key": "6CEA81D943956413A2524EBCE261E0C6",
-          "SourceString": "Bundle includes Banner and Spray. The <text color=\"FFFFFFFF\">Neck Protector</> Pickaxe reacts to music! The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!"
+          "SourceString": "Bundle includes Banner and Spray. The <text color=\"FFFFFFFF\">Neck Protector</> Pickaxe reacts to music! The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!",
+          "LocalizedString": "Bundle includes Banner and Spray. The <text color=\"FFFFFFFF\">Neck Protector</> Pickaxe reacts to music! The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!"
         }
       },
       "promodesc32": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1C605784435C6BB285C82AB55E0E6EA0",
-          "SourceString": "<text color=\"FFFFFFFF\">BLANKA-CHAN</> reacts to Eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">BLANKA-CHAN</> reacts to Eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">BLANKA-CHAN</> reacts to Eliminations!"
         }
       },
       "promodesc33": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9DA912914C55A8C20EF64CA5CAA6B2FD",
-          "SourceString": "The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!"
+          "SourceString": "The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!",
+          "LocalizedString": "The <text color=\"FFFFFFFF\">Triumphant Tagger</> pickaxe spells out \"Wu-Tang\" when swung!"
         }
       },
       "bundlemusic": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1AB74E6D445C1505DBE95B909A18F4FD",
-          "SourceString": "Bundle includes Loading Screen and Emoticon. Back Blings react to music!"
+          "SourceString": "Bundle includes Loading Screen and Emoticon. Back Blings react to music!",
+          "LocalizedString": "Bundle includes Loading Screen and Emoticon. Back Blings react to music!"
         }
       },
       "carbideknightisb": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E28AE63F4BB634238BF57390793AF798",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">KNIGHT'S TORMENT</> Pickaxe from its Back Bling when both are unlocked and equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">KNIGHT'S TORMENT</> Pickaxe from its Back Bling when both are unlocked and equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">KNIGHT'S TORMENT</> Pickaxe from its Back Bling when both are unlocked and equipped!"
         }
       },
       "promodesc34": {
         "FormatedText": {
           "Namespace": "",
           "Key": "FC0FE98B4736FF92522FAA816EFED6F9",
-          "SourceString": "Equip <text color=\"FFFFFFFF\">LEG-209</> as a Back Bling or a Pickaxe!"
+          "SourceString": "Equip <text color=\"FFFFFFFF\">LEG-209</> as a Back Bling or a Pickaxe!",
+          "LocalizedString": "Equip <text color=\"FFFFFFFF\">LEG-209</> as a Back Bling or a Pickaxe!"
         }
       },
       "giftfriend": {
         "FormatedText": {
           "Namespace": "",
           "Key": "90CE680F47185B4DE7DD8E83713BEF10",
-          "SourceString": "Gift it to a Friend!"
+          "SourceString": "Gift it to a Friend!",
+          "LocalizedString": "Gift it to a Friend!"
         }
       },
       "vibration": {
         "FormatedText": {
           "Namespace": "",
           "Key": "BF9FA5B440E8228CF487849452021229",
-          "SourceString": "Vibrates when hitting a weak point!"
+          "SourceString": "Vibrates when hitting a weak point!",
+          "LocalizedString": "Vibrates when hitting a weak point!"
         }
       },
       "traitor": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1991873D483E8B07E260059BF07C8166",
-          "SourceString": "The <text color=\"FFFFFFFF\">Traitor!</> Emote is performed with the <text color=\"FFFFFFFF\">Riot Control Baton</> Pickaxe when equipped!"
+          "SourceString": "The <text color=\"FFFFFFFF\">Traitor!</> Emote is performed with the <text color=\"FFFFFFFF\">Riot Control Baton</> Pickaxe when equipped!",
+          "LocalizedString": "The <text color=\"FFFFFFFF\">Traitor!</> Emote is performed with the <text color=\"FFFFFFFF\">Riot Control Baton</> Pickaxe when equipped!"
         }
       },
       "masks": {
         "FormatedText": {
           "Namespace": "",
           "Key": "F878DE954770B56374E05F833576343E",
-          "SourceString": "4 Mask Styles!"
+          "SourceString": "4 Mask Styles!",
+          "LocalizedString": "4 Mask Styles!"
         }
       },
       "lightupdamage": {
         "FormatedText": {
           "Namespace": "",
           "Key": "5F13E9004E25C1C5AB49E19313C4FDE0",
-          "SourceString": "Outfit lights up when dealing damage!"
+          "SourceString": "Outfit lights up when dealing damage!",
+          "LocalizedString": "Outfit lights up when dealing damage!"
         }
       },
       "promodesc35": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9B4EFBE54C28D4E7FB75A08C0EDB0E46",
-          "SourceString": "You can earn this item by participating in the Nindo Challenges instead of purchasing. Sign up: fn.gg/nindo"
+          "SourceString": "You can earn this item by participating in the Nindo Challenges instead of purchasing. Sign up: fn.gg/nindo",
+          "LocalizedString": "You can earn this item by participating in the Nindo Challenges instead of purchasing. Sign up: fn.gg/nindo"
         }
       },
       "promodesc36": {
         "FormatedText": {
           "Namespace": "",
           "Key": "69A7E41E4215D8C8F18780B96703E15D",
-          "SourceString": "Targeter's Tally Back Bling counts eliminations! Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals."
+          "SourceString": "Targeter's Tally Back Bling counts eliminations! Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals.",
+          "LocalizedString": "Targeter's Tally Back Bling counts eliminations! Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals."
         }
       },
       "promodesc37": {
         "FormatedText": {
           "Namespace": "",
           "Key": "EBBBD3A446E97F1C38DB498DDBA06327",
-          "SourceString": "Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals."
+          "SourceString": "Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals.",
+          "LocalizedString": "Available until May 30th 8pm ET for the Chapter 3 Season 2 FNCS Finals."
         }
       },
       "energytoggle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "03A95C4C41E4BA7410E49CA81E8D1AE8",
-          "SourceString": "Select different light colors! Toggle lights on/off!"
+          "SourceString": "Select different light colors! Toggle lights on/off!",
+          "LocalizedString": "Select different light colors! Toggle lights on/off!"
         }
       },
       "promodesc38": {
         "FormatedText": {
           "Namespace": "",
           "Key": "25C62B994215ECB4F4E44987A8E48A5D",
-          "SourceString": "Deploy the <text color=\"FFFFFFFF\">ALI-TECH PLASMAWINGS</> from the <text color=\"FFFFFFFF\">ALI-TECH BACKPLATE</> when both are equipped! Select different light colors! Toggle lights on/off!"
+          "SourceString": "Deploy the <text color=\"FFFFFFFF\">ALI-TECH PLASMAWINGS</> from the <text color=\"FFFFFFFF\">ALI-TECH BACKPLATE</> when both are equipped! Select different light colors! Toggle lights on/off!",
+          "LocalizedString": "Deploy the <text color=\"FFFFFFFF\">ALI-TECH PLASMAWINGS</> from the <text color=\"FFFFFFFF\">ALI-TECH BACKPLATE</> when both are equipped! Select different light colors! Toggle lights on/off!"
         }
       },
       "backdamage": {
         "FormatedText": {
           "Namespace": "",
           "Key": "21716C6446525F685E397C8EAF15F795",
-          "SourceString": "Backbling transforms when taking damage or while knocked down! Backbling reacts to movement!"
+          "SourceString": "Backbling transforms when taking damage or while knocked down! Backbling reacts to movement!",
+          "LocalizedString": "Backbling transforms when taking damage or while knocked down! Backbling reacts to movement!"
         }
       },
       "promodesc39": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9B3B113C4F2CFA12C405FB85CC12F978",
-          "SourceString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped! Bundle Includes Loading Screen!"
+          "SourceString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped! Bundle Includes Loading Screen!",
+          "LocalizedString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped! Bundle Includes Loading Screen!"
         }
       },
       "promodesc40": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0775FAF24D6F9B356BF58E96C18F0850",
-          "SourceString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped!"
+          "SourceString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped!",
+          "LocalizedString": "Deploy <text color=\"FFFFFFFF\">OBI WAN'S BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DESERT ESSENTIALS</> Back Bling when both are equipped!"
         }
       },
       "promodesc41": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9EEB32C04FFA21852DCC308E4AD7781F",
-          "SourceString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation."
+          "SourceString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation.",
+          "LocalizedString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation."
         }
       },
       "promodesc42": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AD39059C4A036E0A595F8AA5E569FB0B",
-          "SourceString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation. Bundle includes Loading Screen!"
+          "SourceString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation. Bundle includes Loading Screen!",
+          "LocalizedString": "Transform with the built-in <text color=\"FFFFFFFF\">BATTLE STANCES</> emote! Each style has its own transformation. Bundle includes Loading Screen!"
         }
       },
       "promodesc43": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C2F646A943EB76A5570F5F9AA4C88F7B",
-          "SourceString": "The <text color=\"FFFFFFFF\">CREWMATE</> Back Bling reacts when you move or get knocked down!"
+          "SourceString": "The <text color=\"FFFFFFFF\">CREWMATE</> Back Bling reacts when you move or get knocked down!",
+          "LocalizedString": "The <text color=\"FFFFFFFF\">CREWMATE</> Back Bling reacts when you move or get knocked down!"
         }
       },
       "bundlebanner": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A5B630B548A22C29A5228BB2722DDCED",
-          "SourceString": "Bundle includes Banner!"
+          "SourceString": "Bundle includes Banner!",
+          "LocalizedString": "Bundle includes Banner!"
         }
       },
       "promodesc44": {
         "FormatedText": {
           "Namespace": "",
           "Key": "7BDC39554AA2A9C5BA5315AACAD50FDF",
-          "SourceString": "Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!"
+          "SourceString": "Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!",
+          "LocalizedString": "Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!"
         }
       },
       "fangs": {
         "FormatedText": {
           "Namespace": "",
           "Key": "75015FED4394F35C61E152903E9CB0E3",
-          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">FIRE FANGS</> from the included Back Bling when both are equipped!"
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">FIRE FANGS</> from the included Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">FIRE FANGS</> from the included Back Bling when both are equipped!"
         }
       },
       "promodesc45": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4D2B13C14FE1964962CE7B8FE4CEAD97",
-          "SourceString": "<text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!"
+          "SourceString": "<text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!"
         }
       },
       "promodesc46": {
         "FormatedText": {
           "Namespace": "",
           "Key": "EB88428A4FAF7A2B7C9528A84B8DE7FB",
-          "SourceString": "Bundle includes loading screen! Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!"
+          "SourceString": "Bundle includes loading screen! Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!",
+          "LocalizedString": "Bundle includes loading screen! Only <text color=\"FFFFFFFF\">GAARA</> can ride <text color=\"FFFFFFFF\">GAARA'S SAND CLOUD</>!"
         }
       },
       "promodesc47": {
         "FormatedText": {
           "Namespace": "",
           "Key": "813D372C481667403C1063BA56BB95B5",
-          "SourceString": "Bundle includes loading screen! <text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!"
+          "SourceString": "Bundle includes loading screen! <text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!",
+          "LocalizedString": "Bundle includes loading screen! <text color=\"FFFFFFFF\">OROCHIMARU</> can use the built-in <text color=\"FFFFFFFF\">STRIKING SHADOW SNAKES</> Emote with his default style!"
         }
       },
       "promodesc48": {
         "FormatedText": {
           "Namespace": "",
           "Key": "28F83B2142557CCABAB46CB22E6B4165",
-          "SourceString": "Wield <text color=\\\"FFFFFFFF\\\">STORMBREAKER</> and <text color=\\\"FFFFFFFF\\\">REFORMED MJOLNIR</> as Pickaxes or Gliders! <text color=\\\"FFFFFFFF\\\">REFORMED MJOLNIR</> can only be used by <text color=\\\"FFFFFFFF\\\">THOR ODINSON, MIGHTY THOR, THOR,</> and <text color=\\\"FFFFFFFF\\\">CAPTAIN AMERICA</> Outfits, and includes the built-in <text color=\\\"FFFFFFFF\\\">BRING THE HAMMER DOWN</> Emote."
+          "SourceString": "Wield <text color=\"FFFFFFFF\">STORMBREAKER</> and <text color=\"FFFFFFFF\">REFORMED MJOLNIR</> as Pickaxes or Gliders! <text color=\"FFFFFFFF\">REFORMED MJOLNIR</> can only be used by <text color=\"FFFFFFFF\">THOR ODINSON, MIGHTY THOR, THOR,</> and <text color=\"FFFFFFFF\">CAPTAIN AMERICA</> Outfits, and includes the built-in <text color=\"FFFFFFFF\">BRING THE HAMMER DOWN</> Emote.",
+          "LocalizedString": "Wield <text color=\"FFFFFFFF\">STORMBREAKER</> and <text color=\"FFFFFFFF\">REFORMED MJOLNIR</> as Pickaxes or Gliders! <text color=\"FFFFFFFF\">REFORMED MJOLNIR</> can only be used by <text color=\"FFFFFFFF\">THOR ODINSON, MIGHTY THOR, THOR,</> and <text color=\"FFFFFFFF\">CAPTAIN AMERICA</> Outfits, and includes the built-in <text color=\"FFFFFFFF\">BRING THE HAMMER DOWN</> Emote."
         }
       },
       "promodesc49": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2F8FA4374D23326CAA0595995646D65E",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">AQUATIC WINGS</> flare out with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">AQUATIC WINGS</> flare out with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">AQUATIC WINGS</> flare out with eliminations!"
         }
       },
       "promodesc50": {
         "FormatedText": {
           "Namespace": "",
           "Key": "74E8337F4537051A6FB71F81590E079B",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">ULTRABRITE ELIM COUNTER</> counts eliminations! Available until August 17 at 8pm ET for the Chapter 3 Season 3 FNCS Finals."
+          "SourceString": "<text color=\"FFFFFFFF\">ULTRABRITE ELIM COUNTER</> counts eliminations! Available until August 15 at 8pm ET for the Chapter 3 Season 3 FNCS Finals.",
+          "LocalizedString": "<text color=\"FFFFFFFF\">ULTRABRITE ELIM COUNTER</> counts eliminations! Available until August 15 at 8pm ET for the Chapter 3 Season 3 FNCS Finals."
         }
       },
       "promodesc51": {
         "FormatedText": {
           "Namespace": "",
           "Key": "E1B4F0FE42DFF9D322A8E5A27A3DB96F",
-          "SourceString": "Pull the <text color=\\\"FFFFFFFF\\\">SNAP AXES</> Pickaxe off of the <text color=\\\"FFFFFFFF\\\">GRIDIRON GLADIATOR</> Back Bling when both are equipped!"
+          "SourceString": "Pull the <text color=\"FFFFFFFF\">SNAP AXES</> Pickaxe off of the <text color=\"FFFFFFFF\">GRIDIRON GLADIATOR</> Back Bling when both are equipped!",
+          "LocalizedString": "Pull the <text color=\"FFFFFFFF\">SNAP AXES</> Pickaxe off of the <text color=\"FFFFFFFF\">GRIDIRON GLADIATOR</> Back Bling when both are equipped!"
         }
       },
       "promodesc52": {
         "FormatedText": {
           "Namespace": "",
           "Key": "05706597461C04605D2347815DD6A2DA",
-          "SourceString": "Available until August 17 at 8pm ET for the Chapter 3 Season 3 FNCS Finals."
+          "SourceString": "Available until August 15 at 8pm ET for the Chapter 3 Season 3 FNCS Finals.",
+          "LocalizedString": "Available until August 15 at 8pm ET for the Chapter 3 Season 3 FNCS Finals."
         }
       },
       "futuresamuraisummerisb": {
         "FormatedText": {
           "Namespace": "",
           "Key": "406961974C9CDC891B4ED98D3B2D5906",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">MAD MOCHI'S</> faces are reactive and smile as you play!"
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
         }
       },
       "promodesc53": {
         "FormatedText": {
           "Namespace": "",
           "Key": "537F2B5C4CEB5191EE81398ACC38F518",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">GOKU'S CHARGING UP</> built-in Emote to transform between 4 styles! Unsheathe the <text color=\\\"FFFFFFFF\\\">POWER POLE (NYOIBO)</> Pickaxe from the Back Bling when both are equipped! Bundle includes loading screen!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">GOKU'S CHARGING UP</> built-in Emote to transform between 4 styles! Unsheathe the <text color=\"FFFFFFFF\">POWER POLE (NYOIBO)</> Pickaxe from the Back Bling when both are equipped! Bundle includes loading screen!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">GOKU'S CHARGING UP</> built-in Emote to transform between 4 styles! Unsheathe the <text color=\"FFFFFFFF\">POWER POLE (NYOIBO)</> Pickaxe from the Back Bling when both are equipped! Bundle includes loading screen!"
         }
       },
       "promodesc54": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AB1B66A445B63C504C7935B1ADC4989C",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">VEGETA'S CHARGING UP</> built-in Emote to Transform between 4 styles!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">VEGETA'S CHARGING UP</> built-in Emote to Transform between 4 styles!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">VEGETA'S CHARGING UP</> built-in Emote to Transform between 4 styles!"
         }
       },
       "pennantseas": {
         "FormatedText": {
           "Namespace": "",
           "Key": "88660AE546F2B1F72BA43B9A32579812",
-          "SourceString": "Collect <text color=\"FFFFFFFF\">THE GANG'S ALL HERE</> Loading Screen from either Squad Origins bundle!"
+          "SourceString": "Collect <text color=\"FFFFFFFF\">THE GANG'S ALL HERE</> Loading Screen from either Squad Origins bundle!",
+          "LocalizedString": "Collect <text color=\"FFFFFFFF\">THE GANG'S ALL HERE</> Loading Screen from either Squad Origins bundle!"
         }
       },
       "promodesc55": {
         "FormatedText": {
           "Namespace": "",
           "Key": "27A3E2244CBB643BE3F72EA4639CF170",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">GOKU'S CHARGING UP</> built-in Emote to transform between 4 styles! Unsheathe the <text color=\\\"FFFFFFFF\\\">POWER POLE (NYOIBO)</> Pickaxe from the Back Bling when both are equipped!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">GOKU'S CHARGING UP</> built-in Emote to transform between 4 styles! Unsheathe the <text color=\"FFFFFFFF\">POWER POLE (NYOIBO)</> Pickaxe from the Back Bling when both are equipped!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">GOKU'S CHARGING UP</> built-in Emote to transform between 4 styles! Unsheathe the <text color=\"FFFFFFFF\">POWER POLE (NYOIBO)</> Pickaxe from the Back Bling when both are equipped!"
         }
       },
       "promodesc56": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A14DCEF04FC018715585388CBF1A53AC",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">SKULL G. BIV</> Back Bling reacts to music!"
+          "SourceString": "<text color=\"FFFFFFFF\">SKULL G. BIV</> Back Bling reacts to music!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">SKULL G. BIV</> Back Bling reacts to music!"
         }
       },
       "promodesc57": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0EA5A0314589E7F4D6F06C9A90EAB086",
-          "SourceString": "Unsheathe the <text color=\\\"FFFFFFFF\\\">SCARLET SAI</> Pickaxe or the <text color=\\\"FFFFFFFF\\\">FIRE FANGS</> Pickaxe from their included Back Blings when both are equipped."
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">SCARLET SAI</> Pickaxe or the <text color=\"FFFFFFFF\">FIRE FANGS</> Pickaxe from their included Back Blings when both are equipped.",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">SCARLET SAI</> Pickaxe or the <text color=\"FFFFFFFF\">FIRE FANGS</> Pickaxe from their included Back Blings when both are equipped."
         }
       },
       "somanystylesagain": {
         "FormatedText": {
           "Namespace": "",
           "Key": "8368E3DD43037161232CB2B3071950EA",
-          "SourceString": "<text color=\"FFFFFFFF\">HUMAN BILL</> has over 4,000 unique style combinations!"
+          "SourceString": "<text color=\"FFFFFFFF\">HUMAN BILL</> has over 4,000 unique style combinations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">HUMAN BILL</> has over 4,000 unique style combinations!"
         }
       },
       "band": {
         "FormatedText": {
           "Namespace": "",
           "Key": "A0E3DA7943918B487B2A78BB68B968D5",
-          "SourceString": "Emote with up to 3 other players! Additional players will each pick up a unique instrument to join in the band!"
+          "SourceString": "Emote with up to 3 other players! Additional players will each pick up a unique instrument to join in the band!",
+          "LocalizedString": "Emote with up to 3 other players! Additional players will each pick up a unique instrument to join in the band!"
         }
       },
       "promodesc58": {
         "FormatedText": {
           "Namespace": "",
           "Key": "D9B2AD93453715F79F1CAD9F8C4D449A",
-          "SourceString": "With the reactive <text color=\\\"FFFFFFFF\\\">EMPOWERED</> style, eliminations build up a demonic aura on <text color=\\\"FFFFFFFF\\\">SYPHERPK</>! <text color=\\\"FFFFFFFF\\\">SYPHER'S SCIMITAR</> and <text color=\\\"FFFFFFFF\\\">ONI'S CURSE</> are reactive as well."
+          "SourceString": "With the reactive <text color=\"FFFFFFFF\">EMPOWERED</> style, eliminations build up a demonic aura on <text color=\"FFFFFFFF\">SYPHERPK</>! <text color=\"FFFFFFFF\">SYPHER'S SCIMITAR</> and <text color=\"FFFFFFFF\">ONI'S CURSE</> are reactive as well.",
+          "LocalizedString": "With the reactive <text color=\"FFFFFFFF\">EMPOWERED</> style, eliminations build up a demonic aura on <text color=\"FFFFFFFF\">SYPHERPK</>! <text color=\"FFFFFFFF\">SYPHER'S SCIMITAR</> and <text color=\"FFFFFFFF\">ONI'S CURSE</> are reactive as well."
         }
       },
       "promodesc59": {
         "FormatedText": {
           "Namespace": "",
           "Key": "C9FB0D8E4611B671B33173812D83EB5B",
-          "SourceString": "With the reactive <text color=\\\"FFFFFFFF\\\">EMPOWERED</> style, eliminations build up a demonic aura on <text color=\\\"FFFFFFFF\\\">SYPHERPK</>! The <text color=\\\"FFFFFFFF\\\">ONI'S CURSE</> Back Bling is reactive as well."
+          "SourceString": "With the reactive <text color=\"FFFFFFFF\">EMPOWERED</> style, eliminations build up a demonic aura on <text color=\"FFFFFFFF\">SYPHERPK</>! The <text color=\"FFFFFFFF\">ONI'S CURSE</> Back Bling is reactive as well.",
+          "LocalizedString": "With the reactive <text color=\"FFFFFFFF\">EMPOWERED</> style, eliminations build up a demonic aura on <text color=\"FFFFFFFF\">SYPHERPK</>! The <text color=\"FFFFFFFF\">ONI'S CURSE</> Back Bling is reactive as well."
         }
       },
       "promodesc60": {
         "FormatedText": {
           "Namespace": "",
           "Key": "739BB5FD429DBC2E6F74319260ED4EBB",
-          "SourceString": "The <text color=\\\"FFFFFFFF\\\">SYPHER'S SCIMITAR</> Pickaxe will react with eliminations, building up a demonic aura."
+          "SourceString": "The <text color=\"FFFFFFFF\">SYPHER'S SCIMITAR</> Pickaxe will react with eliminations, building up a demonic aura.",
+          "LocalizedString": "The <text color=\"FFFFFFFF\">SYPHER'S SCIMITAR</> Pickaxe will react with eliminations, building up a demonic aura."
         }
       },
       "promodesc61": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4E5037BC4DC4442C63931DBC5F5A1523",
-          "SourceString": "Outfit includes built-in Pickaxe and transformation Emote! Bundle includes loading screen!"
+          "SourceString": "Outfit includes built-in Pickaxe and transformation Emote! Bundle includes loading screen!",
+          "LocalizedString": "Outfit includes built-in Pickaxe and transformation Emote! Bundle includes loading screen!"
         }
       },
       "promodesc62": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9ABB1AEF49B2CDD391F85F89E01E66E9",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">SINISTER GLARE'S</> fingers snap with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">SINISTER GLARE'S</> fingers snap with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">SINISTER GLARE'S</> fingers snap with eliminations!"
         }
       },
       "promodesc63": {
         "FormatedText": {
           "Namespace": "",
           "Key": "18B5DA5247AEBF1557EB2181BA424CD8",
-          "SourceString": "Fingers snap with eliminations!"
+          "SourceString": "Fingers snap with eliminations!",
+          "LocalizedString": "Fingers snap with eliminations!"
         }
       },
       "promodesc64": {
         "FormatedText": {
           "Namespace": "",
           "Key": "535F3A3A49769D5EB22A489A32F754A9",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">MAD MOCHI</> and <text color=\\\"FFFFFFFF\\\">MOCHI MASHER</> are reactive! Faces smile as you play! Bundle includes loading screen!"
+          "SourceString": "<text color=\"FFFFFFFF\">MAD MOCHI</> and <text color=\"FFFFFFFF\">MOCHI MASHER</> are reactive! Faces smile as you play! Bundle includes loading screen!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">MAD MOCHI</> and <text color=\"FFFFFFFF\">MOCHI MASHER</> are reactive! Faces smile as you play! Bundle includes loading screen!"
         }
       },
       "calvaderawrapdesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B79FE3F44A2B214D020C0BAFE6C9BB4A",
-          "SourceString": "<text color=\"FFFFFFFF\">SUGAR SKULL</>  lights up with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">SUGAR SKULL</>  lights up with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">SUGAR SKULL</>  lights up with eliminations!"
         }
       },
       "calvaderapickaxedesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "54E63B2147EDADEFE9D074BE9560539E",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> lights up when hitting weak points!"
+          "SourceString": "<text color=\"FFFFFFFF\">BELLOW OF THE DEAD</> lights up when hitting weak points!",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> lights up when hitting weak points!"
         }
       },
       "defectbundledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "96231CF44A0E40257B1AD5B2E5E8A732",
-          "SourceString": "Bundle includes <text color=\\\"FFFFFFFF\\\">CLOSED CIRCUIT</> Wrap! Customize colors and show off any of your Wraps!"
+          "SourceString": "Bundle includes Closed Circut Wrap! Customize colors and show off any of your Wraps!",
+          "LocalizedString": "Bundle includes <text color=\\\"FFFFFFFF\\\">CLOSED CIRCUIT</> Wrap! Customize colors and show off any of your Wraps!"
         }
       },
       "defectblipdesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "48002EE14CAFB65CA105BAB3552933A8",
-          "SourceString": "Show off any of your wraps! Pick a color for your hair and armor accents! Includes <text color=\\\"FFFFFFFF\\\">PROTOWAVE</> Wrap!"
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and armor accents! Includes <text color=\"FFFFFFFF\">SCANLIGHT</> Wrap!",
+          "LocalizedString": "Show off any of your wraps! Pick a color for your hair and armor accents! Includes <text color=\\\"FFFFFFFF\\\">PROTOWAVE</> Wrap!"
         }
       },
       "defectglitchdesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "39B6A62E464E1177178F508B909D84E2",
-          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes <text color=\\\"FFFFFFFF\\\">SCANLIGHT</> Wrap!"
+          "SourceString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes <text color=\"FFFFFFFF\">PROTOWAVE</> Wrap!",
+          "LocalizedString": "Show off any of your wraps! Pick a color for your hair and clothing accents! Includes <text color=\\\"FFFFFFFF\\\">SCANLIGHT</> Wrap!"
         }
       },
       "showwraps": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3B8C6CF048C0BC04AFEED591645CF494",
-          "SourceString": "Show off any of your wraps!"
+          "SourceString": "Show off any of your wraps!",
+          "LocalizedString": "Show off any of your wraps!"
         }
       },
       "fncs22": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B1D49B824B719E7D3C2908AAD71AD7E2",
-          "SourceString": "Available until November 16th 7pm ET for the FNCS Invitational 2022."
+          "SourceString": "Available until November 16th 8pm ET for the FNCS Invitational 2022.",
+          "LocalizedString": "Available until November 16th 7pm ET for the FNCS Invitational 2022."
         }
       },
       "fncs22back": {
         "FormatedText": {
           "Namespace": "",
           "Key": "0EBC8A37479761C734A9EEBDDE203D87",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">CHAMPION'S TOTAL</> Back Bling counts eliminations! Available until November 16th 7pm ET for the FNCS Invitational 2022."
+          "SourceString": "<text color=\"FFFFFFFF\">CHAMPION'S TOTAL</> Back Bling counts eliminations! Available until November 16th 8pm ET for the FNCS Invitational 2022.",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">CHAMPION'S TOTAL</> Back Bling counts eliminations! Available until November 16th 7pm ET for the FNCS Invitational 2022."
         }
       },
       "promodesc65": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4DE6032B43651C17C435B6B4DD23057D",
-          "SourceString": "<text color=\"FFFFFFFF\">SALVADOR</> and <text color=\"FFFFFFFF\">VHUELA DE LOS MUERTOS</> Back Bling light up with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">SALVADOR</> and <text color=\"FFFFFFFF\">VHUELA DE LOS MUERTOS</> Back Bling light up with eliminations!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">SALVADOR</> and <text color=\"FFFFFFFF\">VHUELA DE LOS MUERTOS</> Back Bling light up with eliminations!"
         }
       },
       "promodesc66": {
         "FormatedText": {
           "Namespace": "",
           "Key": "25B6F7A148FF5D502016DB9BED13C6D5",
-          "SourceString": "Outfit, Back Bling, and Wrap light up with eliminations! The <text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> Pickaxe lights up when hitting weak points!"
+          "SourceString": "Outfit, Back Bling, and Wrap light up with eliminations! The <text color=\"FFFFFFFF\">BALEFUL BELLOW</> Pickaxe lights up when hitting weak points!",
+          "LocalizedString": "Outfit, Back Bling, and Wrap light up with eliminations! The <text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> Pickaxe lights up when hitting weak points!"
         }
       },
       "promodesc67": {
         "FormatedText": {
           "Namespace": "",
           "Key": "AE909D0543984C7A59B7B18F3A61B9B8",
-          "SourceString": "Choose a country preset, or customize over 20 different components for your own look!"
+          "SourceString": "Choose a country preset, or customize over 20 different components for your own look!",
+          "LocalizedString": "Choose a country preset, or customize over 20 different components for your own look!"
         }
       },
       "promodesc68": {
         "FormatedText": {
           "Namespace": "",
           "Key": "DA702CC44C5817579BEEBE8F704BCA3C",
-          "SourceString": "Choose from 3 different styles. Customizable colors and jersey number!"
+          "SourceString": "Choose from 3 different styles. Customizable colors and jersey number!",
+          "LocalizedString": "Choose from 3 different styles. Customizable colors and jersey number!"
         }
       },
       "promodesc69": {
         "FormatedText": {
           "Namespace": "",
           "Key": "584618F8407251E68725CFAD0F9F7C67",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">SQUEAK!</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">HEARTZATTAK</> Back Bling will pulse with eliminations."
+          "SourceString": "Use the <text color=\"FFFFFFFF\">SQUEAK!</> Emote to transform! The <text color=\"FFFFFFFF\">HEARTZATTAK</> Back Bling will pulse with eliminations.",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">SQUEAK!</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">HEARTZATTAK</> Back Bling will pulse with eliminations."
         }
       },
       "promodesc70": {
         "FormatedText": {
           "Namespace": "",
           "Key": "2E4C6B9947F761E6DAB51EA0E51DD345",
-          "SourceString": "Reactive on taking damage and eliminations! Face changes as you play! Includes Loading Screen."
+          "SourceString": "Reactive on taking damage and eliminations! Face changes as you play! Includes Loading Screen.",
+          "LocalizedString": "Reactive on taking damage and eliminations! Face changes as you play! Includes Loading Screen."
         }
       },
       "defectpickaxedesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1C16EFA64195007C1AAB688A3271143C",
-          "SourceString": "Show off any of your wraps! Choose Custom Strike Effects! Choose Hilt Colors!"
+          "SourceString": "Show off any of your wraps! Choose Custom Strike Effects! Choose Hilt Colors!",
+          "LocalizedString": "Show off any of your wraps! Choose Custom Strike Effects! Choose Hilt Colors!"
         }
       },
       "customcolors": {
         "FormatedText": {
           "Namespace": "",
           "Key": "16491D024475FB91FDEC5A9C14D8C53C",
-          "SourceString": "Customizable patterns and colors!"
+          "SourceString": "Customizable patterns and colors!",
+          "LocalizedString": "Customizable patterns and colors!"
         }
       },
       "mousebundledesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "34B588FA4655B52C75D4B2B50183C3A6",
-          "SourceString": "Use the <text color=\\\"FFFFFFFF\\\">SQUEAK!</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">HEARTZATTAK</> Back Bling will pulse with eliminations. Bundle includes Loading Screen."
+          "SourceString": "Use the <text color=\"FFFFFFFF\">SQUEAK!</> Emote to transform! The <text color=\"FFFFFFFF\">HEARTZATTAK</> Back Bling will pulse with eliminations. Bundle includes Loading Screen.",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">SQUEAK!</> Emote to transform! The <text color=\\\"FFFFFFFF\\\">HEARTZATTAK</> Back Bling will pulse with eliminations. Bundle includes Loading Screen."
         }
       },
       "bannercolormatch": {
         "FormatedText": {
           "Namespace": "",
           "Key": "66A3ED09492CF498F5590592FEC1E15C",
-          "SourceString": "Colors match your banner!"
+          "SourceString": "Colors match your banner!",
+          "LocalizedString": "Colors match your banner!"
         }
       },
       "promodesc71": {
         "FormatedText": {
           "Namespace": "",
           "Key": "83CBE0F1432128C63330129D121431F8",
-          "SourceString": "Customize patterns and colors on the <text color=\\\"FFFFFFFF\\\">TOP TROPHY</> Back Bling and <text color=\\\"FFFFFFFF\\\">WORLD CLASS</> Pickaxe!"
+          "SourceString": "Customize patterns and colors on the <text color=\"FFFFFFFF\">TOP TROPHY</> Back Bling and <text color=\"FFFFFFFF\">WORLD CLASS</> Pickaxe!",
+          "LocalizedString": "Customize patterns and colors on the <text color=\\\"FFFFFFFF\\\">TOP TROPHY</> Back Bling and <text color=\\\"FFFFFFFF\\\">WORLD CLASS</> Pickaxe!"
         }
       },
       "promodesc72": {
         "FormatedText": {
           "Namespace": "",
           "Key": "CCA890324E9D80E58A7515A48D7255A1",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">GAMMA CHAMBER</> Back Bling charges up with eliminations. Show off Sprays from your Locker with the <text color=\\\"FFFFFFFF\\\">DEMOLISHER</> Pickaxe!"
+          "SourceString": "<text color=\"FFFFFFFF\">GAMMA CHAMBER</> Back Bling charges up with eliminations. Show off Sprays from your Locker with the <text color=\"FFFFFFFF\">DEMOLISHER</> Pickaxe!",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">GAMMA CHAMBER</> Back Bling charges up with eliminations. Show off Sprays from your Locker with the <text color=\\\"FFFFFFFF\\\">DEMOLISHER</> Pickaxe!"
         }
       },
       "promodesc73": {
         "FormatedText": {
           "Namespace": "",
           "Key": "BAE11E2B43D1DC2D2F9D51B942F55ABB",
-          "SourceString": "<text color=\\\"FFFFFFFF\\\">GAMMA CHAMBER</> Back Bling charges up with eliminations!"
+          "SourceString": "<text color=\"FFFFFFFF\">GAMMA CHAMBER</> Back Bling charges up with eliminations!",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">GAMMA CHAMBER</> Back Bling charges up with eliminations!"
         }
       },
       "promodesc74": {
         "FormatedText": {
           "Namespace": "",
           "Key": "48DA41AA4AC8D95B945451934C2D496F",
-          "SourceString": "Equip Sprays from your Locker! Includes <text color=\\\"FFFFFFFF\\\">WARNING: GAMMA RAYS</> Spray!"
+          "SourceString": "Equip Sprays from your Locker! Includes <text color=\"FFFFFFFF\">WARNING: GAMMA RAYS</> Spray!",
+          "LocalizedString": "Equip Sprays from your Locker! Includes <text color=\\\"FFFFFFFF\\\">WARNING: GAMMA RAYS</> Spray!"
         }
       },
       "promodesc75": {
         "FormatedText": {
           "Namespace": "",
           "Key": "63805C6E44D58A825640CDB6EC7B7D54",
-          "SourceString": "TBD"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">IZUKU'S QUIRK</> Emote to swap between styles! The <text color=\"FFFFFFFF\">ALL MIGHT COLLECTIBLE</> Back Bling will strike a pose on eliminations.",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">IZUKU'S QUIRK</> Emote to swap between styles! The <text color=\\\"FFFFFFFF\\\">ALL MIGHT COLLECTIBLE</> Back Bling will strike a pose on eliminations."
         }
       },
       "promodesc76": {
         "FormatedText": {
           "Namespace": "",
           "Key": "5DC0F7F14C3502A64546A1A362E01B73",
-          "SourceString": "TBD"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">IZUKU'S QUIRK</> Emote to swap between the <text color=\"FFFFFFFF\">IZUKU MIDORIYA</> and <text color=\"FFFFFFFF\">FULL COWL</> Styles! The <text color=\"FFFFFFFF\">ALL MIGHT COLLECTIBLE</> Back Bling will strike a pose on eliminations.",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">IZUKU'S QUIRK</> Emote to swap between the <text color=\\\"FFFFFFFF\\\">IZUKU MIDORIYA</> and <text color=\\\"FFFFFFFF\\\">FULL COWL</> Styles! The <text color=\\\"FFFFFFFF\\\">ALL MIGHT COLLECTIBLE</> Back Bling will strike a pose on eliminations."
         }
       },
       "promodesc77": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1ABFD89B4BD9363EB1363195C0C2B688",
-          "SourceString": "TBD"
+          "SourceString": "Switch styles with the built-in <text color=\"FFFFFFFF\">ALL MIGHT'S TRANSFORM</> Emote!",
+          "LocalizedString": "Switch styles with the built-in <text color=\\\"FFFFFFFF\\\">ALL MIGHT'S TRANSFORM</> Emote!"
         }
       },
       "flagplantdesc": {
         "FormatedText": {
           "Namespace": "",
           "Key": "18B189604DB5492E7730F589946D21AF",
-          "SourceString": "Earn a Victory Royale and raise your banner high with the <text color=\"FFFFFFFF\">STAKE YOUR CLAIM</> Emote!"
+          "SourceString": "Earn a Victory Royale and raise your banner high with the <text color=\"FFFFFFFF\">STAKE YOUR CLAIM</> Emote!",
+          "LocalizedString": "Earn a Victory Royale and raise your banner high with the <text color=\"FFFFFFFF\">STAKE YOUR CLAIM</> Emote!"
+        }
+      },
+      "bariumdesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5A02E7424BB3193D1FF89B8A163EB8D7",
+          "SourceString": "<text color=\"FFFFFFFF\">HANA</> fires up with eliminations, and is followed by a trail of flames while moving! Customize colors on her outfit.",
+          "LocalizedString": "<text color=\"FFFFFFFF\">HANA</> fires up with eliminations, and is followed by a trail of flames while moving! Customize colors on her outfit."
+        }
+      },
+      "bariumbundledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "74C192684048B7BF3081B4A6696CD07E",
+          "SourceString": "<text color=\"FFFFFFFF\">HANA</> fires up with eliminations, and is followed by a trail of flames while moving! Customize colors on her outfit. Bundle Includes Loading Screen!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">HANA</> fires up with eliminations, and is followed by a trail of flames while moving! Customize colors on her outfit. Bundle Includes Loading Screen!"
+        }
+      },
+      "promodesc78": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "7C0CE3954FF7EC6AE055D7A02FD4E695",
+          "SourceString": "TBD",
+          "LocalizedString": "Switch styles with the built-in <text color=\\\"FFFFFFFF\\\">ALL MIGHT'S TRANSFORM</> Emote!"
+        }
+      },
+      "promodesc79": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3D43B3734209A7A782464C8D27109E99",
+          "SourceString": "<text color=\"FFFFFFFF\">GIANNIS ANTETOKOUNMPO</> transforms between styles when using consumable healing items! The <text color=\"FFFFFFFF\">WINGS OF VICTORY</> Back Bling transforms into the <text color=\"FFFFFFFF\">VICTORY IN FLIGHT</> Glider when both are equipped!",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">GIANNIS ANTETOKOUNMPO</> transforms between styles when using consumable healing items! The <text color=\\\"FFFFFFFF\\\">WINGS OF VICTORY</> Back Bling transforms into the <text color=\\\"FFFFFFFF\\\">VICTORY IN FLIGHT</> Glider when both are equipped!"
+        }
+      },
+      "promodesc80": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "86302401400ED670047FA4A81DCF5D8C",
+          "SourceString": "The <text color=\"FFFFFFFF\">PRIZE PACKAGE</> Back Bling fills up with cash over the course of a match.",
+          "LocalizedString": "The <text color=\\\"FFFFFFFF\\\">PRIZE PACKAGE</> Back Bling fills up with cash over the course of a match."
+        }
+      },
+      "promodesc81": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "402A3D164592BE27B4FB0B8BE00222DD",
+          "SourceString": "Show off any static emoticon in your locker on the The <text color=\"FFFFFFFF\">HOLO-BACK</> Back Bling! Bundle includes the The <text color=\"FFFFFFFF\">CUPCAKE</> Emoticon and The <text color=\"FFFFFFFF\">SNAIL</> Emoticon.",
+          "LocalizedString": "Show off any static emoticon in your locker on the The <text color=\\\"FFFFFFFF\\\">HOLO-BACK</> Back Bling! Bundle includes the The <text color=\\\"FFFFFFFF\\\">CUPCAKE</> Emoticon and The <text color=\\\"FFFFFFFF\\\">SNAIL</> Emoticon."
+        }
+      },
+      "promodesc82": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A17890AF4345F9EBD2D2E5A82A685D76",
+          "SourceString": "TBD",
+          "LocalizedString": "Check out <text color=\\\"FFFFFFFF\\\">SYD'S</> new <text color=\\\"FFFFFFFF\\\">MINTY</> Style!"
+        }
+      },
+      "promodesc83": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B2FA3E3F41B26BBFF9A58FA506FEAEBE",
+          "SourceString": "The <text color=\"FFFFFFFF\">WESTWARD STAR</> Pickaxe will charge up with a red glow when you hit weak points!",
+          "LocalizedString": "The <text color=\\\"FFFFFFFF\\\">WESTWARD STAR</> Pickaxe will charge up with a red glow when you hit weak points!"
+        }
+      },
+      "promodesc84": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "7CDAC19B4C1FDD42836552A05282FDC0",
+          "SourceString": "The <text color=\"FFFFFFFF\">WESTWARD STAR</> Pickaxe will charge up with a red glow when you hit weak points! Bundle includes Loading Screen.",
+          "LocalizedString": "The <text color=\\\"FFFFFFFF\\\">WESTWARD STAR</> Pickaxe will charge up with a red glow when you hit weak points! Bundle includes Loading Screen."
+        }
+      },
+      "promodesc85": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "68757C814DA0B310C9C2008384A89DF0",
+          "SourceString": "Unsheathe <text color=\"FFFFFFFF\">THE TRAGIC BLADE</> Pickaxe from the Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe <text color=\\\"FFFFFFFF\\\">THE TRAGIC BLADE</> Pickaxe from the Back Bling when both are equipped!"
+        }
+      },
+      "bariumdemondesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D4B4E0A543D07FDD9620BFAB2CA246C0",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">MOMENTUM</> Pickaxe from the <text color=\"FFFFFFFF\">SOUL SHROUD</> Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">MOMENTUM</> Pickaxe from the <text color=\"FFFFFFFF\">SOUL SHROUD</> Back Bling when both are equipped!"
+        }
+      },
+      "marionettedesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B5931BB44ACFC37E22E444ADA4ACE487",
+          "SourceString": "Start randomly with the lead guitar, rhythm guitar, bass guitar, or drums. Up to three other players can join with other instruments, whether they own the Emote or not!",
+          "LocalizedString": "Start randomly with the lead guitar, rhythm guitar, bass guitar, or drums. Up to three other players can join with other instruments, whether they own the Emote or not!"
+        }
+      },
+      "promodesc86": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4DA7ADAA4296053FE5C1988FC382BBB1",
+          "SourceString": "The <text color=\"FFFFFFFF\">RIG</> Back Bling and <text color=\"FFFFFFFF\">USG ISHIMURA</> Back Bling will flicker red when taking damage! Use the <text color=\"FFFFFFFF\">BENCH UPGRADE</> Emote as another way to equip the <text color=\"FFFFFFFF\">PLASMA CUTTER</> Pickaxe!",
+          "LocalizedString": "The <text color=\\\"FFFFFFFF\\\">RIG</> Back Bling and <text color=\\\"FFFFFFFF\\\">USG ISHIMURA</> Back Bling will flicker red when taking damage! Use the <text color=\\\"FFFFFFFF\\\">BENCH UPGRADE</> Emote as another way to equip the <text color=\\\"FFFFFFFF\\\">PLASMA CUTTER</> Pickaxe!"
+        }
+      },
+      "promodesc87": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "E03BE27A422E33C02C6A3DB9949A5BB9",
+          "SourceString": "Equip <text color=\"FFFFFFFF\">CAP'S SHIELD</> as a Back Bling or Pickaxe! The <text color=\"FFFFFFFF\">EXO-7 FALCON WINGS</> Glider deploys from the <text color=\"FFFFFFFF\">CAP'S SHIELD</> Back Bling when both are equipped!",
+          "LocalizedString": "Equip <text color=\\\"FFFFFFFF\\\">CAP'S SHIELD</> as a Back Bling or Pickaxe! The <text color=\\\"FFFFFFFF\\\">EXO-7 FALCON WINGS</> Glider deploys from the <text color=\\\"FFFFFFFF\\\">CAP'S SHIELD</> Back Bling when both are equipped!"
+        }
+      },
+      "promodesc88": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C07225DC426668419FBEA398CFBB17EF",
+          "SourceString": "Equip <text color=\"FFFFFFFF\">BRITE'S SHIELD</> as a Back Bling or Pickaxe!",
+          "LocalizedString": "Equip <text color=\\\"FFFFFFFF\\\">BRITE'S SHIELD</> as a Back Bling or Pickaxe!"
+        }
+      },
+      "promodesc89": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6CC9F35A4B77FD127CD3FDB67A3046B5",
+          "SourceString": "Equip <text color=\"FFFFFFFF\">CAP'S SHIELD</> and <text color=\"FFFFFFFF\">BRITE'S SHIELD</> as either Back Blings or Pickaxes! The <text color=\"FFFFFFFF\">EXO-7 FALCON WINGS</> Glider deploys from the <text color=\"FFFFFFFF\">CAP'S SHIELD</> Back Bling when both are equipped. Bundle includes Loading Screen!",
+          "LocalizedString": "Equip <text color=\\\"FFFFFFFF\\\">CAP'S SHIELD</> and <text color=\\\"FFFFFFFF\\\">BRITE'S SHIELD</> as either Back Blings or Pickaxes! The <text color=\\\"FFFFFFFF\\\">EXO-7 FALCON WINGS</> Glider deploys from the <text color=\\\"FFFFFFFF\\\">CAP'S SHIELD</> Back Bling when both are equipped. Bundle includes Loading Screen!"
+        }
+      },
+      "promodesc90": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "0F47740A44075000DEF3FDAA3F90967C",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">GET FLAKEY</> Emote to transform between Styles! Unsheathe the <text color=\"FFFFFFFF\">ELECTRIC CRESCENTS</> Pickaxe from the <text color=\"FFFFFFFF\">ELECTRO-CREST</> Back Bling when both are equipped.",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">GET FLAKEY</> Emote to transform between Styles! Unsheathe the <text color=\\\"FFFFFFFF\\\">ELECTRIC CRESCENTS</> Pickaxe from the <text color=\\\"FFFFFFFF\\\">ELECTRO-CREST</> Back Bling when both are equipped."
+        }
+      },
+      "mochidesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "31D27E8142700095365C41A86EF5C38C",
+          "SourceString": "<text color=\"FFFFFFFF\">MAD MOCHI'S</> faces are reactive and smile as you play!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">MAD MOCHI'S</> faces are reactive and smile as you play!"
+        }
+      },
+      "mochipickaxedesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FB1746814DF410817D6014A98AA94D0E",
+          "SourceString": "Faces smile when hitting weak points!",
+          "LocalizedString": "Faces smile when hitting weak points!"
+        }
+      },
+      "saharadesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "729EE8FD4AAD457ACB4DD3AEF251C059",
+          "SourceString": "On eliminations, <text color=\"FFFFFFFF\">BLACK ADAM'S</> suit turns gold, and the <text color=\"FFFFFFFF\">SYMBOL OF SHIRUTA</> Back Bling glows with lightning!",
+          "LocalizedString": "On eliminations, <text color=\"FFFFFFFF\">BLACK ADAM'S</> suit turns gold, and the <text color=\"FFFFFFFF\">SYMBOL OF SHIRUTA</> Back Bling glows with lightning!"
+        }
+      },
+      "arcticicetalusbundledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1A9B88854DDA2BE3093537921DABE3AB",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">PICCOLO'S CHARGING UP</> built-in Emote to transform! <text color=\"FFFFFFFF\">PICCOLO'S CAPE AND TURBAN</> can only be equipped on <text color=\"FFFFFFFF\">PICCOLO</>, explodes when charging up and equips when powering down.",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">PICCOLO'S CHARGING UP</> built-in Emote to transform! <text color=\"FFFFFFFF\">PICCOLO'S CAPE AND TURBAN</> can only be equipped on <text color=\"FFFFFFFF\">PICCOLO</>, explodes when charging up and equips when powering down."
+        }
+      },
+      "arcticicebluebundledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3D817092479BD362E0FEDFAA512A6347",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">GOHAN'S CHARGING UP</> built-in Emote to transform! Bundle includes loading screen. <text color=\"FFFFFFFF\">GOHAN'S CAPE</> can only be equipped on <text color=\"FFFFFFFF\">SON GOHAN</>.",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">GOHAN'S CHARGING UP</> built-in Emote to transform! Bundle includes loading screen. <text color=\"FFFFFFFF\">GOHAN'S CAPE</> can only be equipped on <text color=\"FFFFFFFF\">SON GOHAN</>."
+        }
+      },
+      "arcticicetalusdesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "96C59B9F4846280B5CC850B6A78AF2DA",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">PICCOLO'S CHARGING UP</> built-in Emote to transform! <text color=\"FFFFFFFF\">PICCOLO'S CAPE AND TURBAN</> can only be equipped on <text color=\"FFFFFFFF\">PICCOLO</>, explodes when charging up and equips when powering down.",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">PICCOLO'S CHARGING UP</> built-in Emote to transform! <text color=\"FFFFFFFF\">PICCOLO'S CAPE AND TURBAN</> can only be equipped on <text color=\"FFFFFFFF\">PICCOLO</>, explodes when charging up and equips when powering down."
+        }
+      },
+      "arcticicebluedesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9EBF7E584EFE02E620D2EEAD1CEF9D35",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">GOHAN'S CHARGING UP</> built-in Emote to transform! <text color=\"FFFFFFFF\">GOHAN'S CAPE</> can only be equipped on <text color=\"FFFFFFFF\">SON GOHAN</>.",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">GOHAN'S CHARGING UP</> built-in Emote to transform! <text color=\"FFFFFFFF\">GOHAN'S CAPE</> can only be equipped on <text color=\"FFFFFFFF\">SON GOHAN</>."
+        }
+      },
+      "promodesc91": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FF3BB48E4950AA20519E0B86E1E4D0C6",
+          "SourceString": "TBD",
+          "LocalizedString": "Available until March 6 at 7pm ET for the FNCS Major 1 Finals."
+        }
+      },
+      "promodesc92": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A73C51E74B440CC3CCBD2FA24C27BA73",
+          "SourceString": "10 Style Options",
+          "LocalizedString": "10 Style Options"
+        }
+      },
+      "promodesc93": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AED6E2554F9CD4998C1FE2BB7C30E5FE",
+          "SourceString": "<text color=\"FFFFFFFF\">ADONIS CREED</> has 10 Style Options.",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">ADONIS CREED</> has 10 Style Options."
+        }
+      },
+      "promodesc94": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "021757F646F4069BB1C17DA61A8C7CEE",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc95": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4E0288FA43A0A2547F25B49CCA520B7A",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc96": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1CC2CBA04E65FB534D52948B64840332",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc97": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "304D2F934D0DA051D77FD1B1D382F683",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc98": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "15616ED0425E98E7F6101CB889D80D25",
+          "SourceString": "<text color=\"FFFFFFFF\">AURORA VISUALIZER</> Styles, Backblings, Pickaxes and Wrap react to music! Bundle includes Loading Screen.",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">AURORA VISUALIZER</> Styles, Backblings, Pickaxes and Wrap react to music! Bundle includes Loading Screen."
+        }
+      },
+      "promodesc99": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "97419309473C44321170D387710A0181",
+          "SourceString": "TBD",
+          "LocalizedString": "Use the <text color=\\\"FFFFFFFF\\\">GOKU BLACK'S CHARGING UP</> built-in Emote to transform!"
+        }
+      },
+      "jumpsuitdesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5310D4D5479FCE3EA6F178B65DDF142F",
+          "SourceString": "Select colors and equip up to 16 Sprays from your Locker! Includes 7 Sprays with purchase, and quests to unlock more Sprays and headgear Styles.",
+          "LocalizedString": "Select colors and equip up to 16 Sprays from your Locker! Includes 7 Sprays with purchase, and quests to unlock more Sprays and headgear Styles."
+        }
+      },
+      "jumpsuitbundledesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "444C5ED948130518451D629EE82C9681",
+          "SourceString": "Select colors and equip up to 16 Sprays from your Locker! Includes 16 Sprays with purchase, and quests to unlock more Sprays and headgear Styles.",
+          "LocalizedString": "Select colors and equip up to 16 Sprays from your Locker! Includes 16 Sprays with purchase, and quests to unlock more Sprays and headgear Styles."
+        }
+      },
+      "galaxyknightdesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "C80D4D804751FC35F8FB02A292BBB32E",
+          "SourceString": "<text color=\"FFFFFFFF\">AXION SENTINEL'S CHARGED</> Style will glow on eliminations, and fade when knocked.",
+          "LocalizedString": "<text color=\"FFFFFFFF\">AXION SENTINEL'S CHARGED</> Style will glow on eliminations, and fade when knocked."
+        }
+      },
+      "jumbotrons23": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CCFE5CB84027EC33E0C7739867C68100",
+          "SourceString": "<text color=\"FFFFFFFF\">FINAL COUNT</> screen counts your eliminations.",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">FINAL COUNT</> screen counts your eliminations. Available until March 6 at 7pm ET for the FNCS Major 1 Finals."
+        }
+      },
+      "desertshadowmalepickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3118464C42EE8159C669CB8E29821E8C",
+          "SourceString": "Use the <text color=\"FFFFFFFF\">SNIKT! SNIKT!</> Emote as another way to equip the <text color=\"FFFFFFFF\">ADAMANTIUM CLAWS</> Pickaxe!",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">SNIKT! SNIKT!</> Emote as another way to equip the <text color=\"FFFFFFFF\">ADAMANTIUM CLAWS</> Pickaxe!"
+        }
+      },
+      "trophycelebration": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6BF9F471420DF88066E26B9AD7D4C4C3",
+          "SourceString": "Unlike some items in the FNCS set, this item may be available again in the future.",
+          "LocalizedString": "Unlike some items in the FNCS set, this item may be available again in the future."
+        }
+      },
+      "aurorareactive": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "83281824498C457F31CAFCAC939DD46C",
+          "SourceString": "<text color=\"FFFFFFFF\">AURORA VISUALIZER</> Style reacts to music!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">AURORA VISUALIZER</> Style reacts to music!"
+        }
+      },
+      "builtinemoteincluded": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "04BFBA1C4454E9C78B38FE91A564B5CE",
+          "SourceString": "Includes built-in emote!",
+          "LocalizedString": "Includes built-in emote!"
+        }
+      },
+      "nightlight": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "AAEE04AB405BA4F64D0C39BBC9DFDEB9",
+          "SourceString": "Mikasa's <text color=\"FFFFFFFF\">ORE LIGHT</> Back Bling lights up at night! Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!",
+          "LocalizedString": "Mikasa's <text color=\\\"FFFFFFFF\\\">ORE LIGHT</> Back Bling lights up at night! Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
+        }
+      },
+      "nightlightbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "774FA6E5414C2FAF09775F931A084177",
+          "SourceString": "Mikasa's <text color=\"FFFFFFFF\">ORE LIGHT</> Back Bling lights up at night! Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!",
+          "LocalizedString": "Mikasa's <text color=\\\"FFFFFFFF\\\">ORE LIGHT</> Back Bling lights up at night! Outfit Styles include a Built-In Cape! Equip a back-bling on top, but NO CAPES!"
+        }
+      },
+      "nighthawkmetal": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5A92346C40D7FA8A7BF6EF84B5C8706C",
+          "SourceString": "Deploy the <text color=\"FFFFFFFF\">THUNDER SPEAR FLIER</> Glider from its Back Bling when both are equipped!",
+          "LocalizedString": "Deploy the <text color=\"FFFFFFFF\">THUNDER SPEAR FLIER</> Glider from its Back Bling when both are equipped!"
+        }
+      },
+      "fncs23": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FE7D68ED4657214B901F9BAD08C7E205",
+          "SourceString": "Available until May 15 at 8pm ET.",
+          "LocalizedString": "Available until May 15 at 8pm ET."
+        }
+      },
+      "plottwistbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "7C5099E7463F88CE942DADAEA407755F",
+          "SourceString": "Bundle includes <text color=\"FFFFFFFF\">LIGHTSPEED INTERCEPTOR</> Emoticon!",
+          "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">LIGHTSPEED INTERCEPTOR</> Emoticon!"
         }
       }
     }

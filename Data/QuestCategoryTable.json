@@ -2,9 +2,10 @@
   {
     "Type": "DataTable",
     "Name": "QuestCategoryTable",
+    "Class": "UScriptClass'DataTable'",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "Class FortCategoryTableRow",
+        "ObjectName": "Class'FortCategoryTableRow'",
         "ObjectPath": "/Script/FortniteGame"
       }
     },
@@ -13,7 +14,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Compendium_Name",
-          "SourceString": "Battle Royale Compendium"
+          "SourceString": "Battle Royale Compendium",
+          "LocalizedString": "Battle Royale Compendium"
         },
         "SortPriority": 1000
       },
@@ -21,7 +23,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "BRDailyChallenges_Name",
-          "SourceString": "Battle Royale Daily Challenges"
+          "SourceString": "Battle Royale Daily Challenges",
+          "LocalizedString": "Battle Royale Daily Challenges"
         },
         "SortPriority": 990
       },
@@ -29,7 +32,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "BREvent_Name",
-          "SourceString": "Battle Royale Event"
+          "SourceString": "Battle Royale Event",
+          "LocalizedString": "Battle Royale Event"
         },
         "SortPriority": 980
       },
@@ -37,7 +41,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "BR_BattlePass_Name",
-          "SourceString": "Battle Pass"
+          "SourceString": "Battle Pass",
+          "LocalizedString": "Battle Pass"
         },
         "SortPriority": 970
       },
@@ -45,7 +50,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "MainQuests_Name",
-          "SourceString": "Main Quests"
+          "SourceString": "Main Quests",
+          "LocalizedString": "Main Quests"
         },
         "SortPriority": 960
       },
@@ -53,215 +59,260 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "FounderQuests_Name",
-          "SourceString": "Founder Quests"
+          "SourceString": "Founder Quests",
+          "LocalizedString": "Founder Quests"
         },
         "SortPriority": 950
+      },
+      "StarterBundleQuests13": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests13_Name",
+          "SourceString": "Ned the Eternal Starter Bundle",
+          "LocalizedString": "Ned the Eternal Starter Bundle"
+        },
+        "SortPriority": 470
       },
       "StarterBundleQuests12": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests12_Name",
-          "SourceString": "Fully Realized Starter Bundle"
+          "SourceString": "Fully Realized Starter Bundle",
+          "LocalizedString": "Fully Realized Starter Bundle"
         },
-        "SortPriority": 86
+        "SortPriority": 460
       },
       "StarterBundleQuests11": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests11_Name",
-          "SourceString": "Crossmark Operative Starter Bundle"
+          "SourceString": "Crossmark Operative Starter Bundle",
+          "LocalizedString": "Crossmark Operative Starter Bundle"
         },
-        "SortPriority": 85
+        "SortPriority": 450
       },
       "StarterBundleQuests10": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests10_Name",
-          "SourceString": "Toni Starter Bundle"
+          "SourceString": "Toni Starter Bundle",
+          "LocalizedString": "Toni Starter Bundle"
         },
-        "SortPriority": 84
+        "SortPriority": 440
       },
       "StarterBundleQuests09": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests09_Name",
-          "SourceString": "Mecha-Pop Starter Bundle"
+          "SourceString": "Mecha-Pop Starter Bundle",
+          "LocalizedString": "Mecha-Pop Starter Bundle"
         },
-        "SortPriority": 83
+        "SortPriority": 430
       },
       "StarterBundleQuests08": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests08_Name",
-          "SourceString": "Robo-Kevin Starter Bundle"
+          "SourceString": "Robo-Kevin Starter Bundle",
+          "LocalizedString": "Robo-Kevin Starter Bundle"
         },
-        "SortPriority": 82
+        "SortPriority": 420
       },
       "StarterBundleQuests07": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests07_Name",
-          "SourceString": "Lars Starter Bundle"
+          "SourceString": "Lars Starter Bundle",
+          "LocalizedString": "Lars Starter Bundle"
         },
-        "SortPriority": 81
+        "SortPriority": 410
       },
       "StarterBundleQuests06": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests06_Name",
-          "SourceString": "Lok-Bot Starter Bundle"
+          "SourceString": "Lok-Bot Starter Bundle",
+          "LocalizedString": "Lok-Bot Starter Bundle"
         },
-        "SortPriority": 80
+        "SortPriority": 400
       },
       "StarterBundleQuests05": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests05_Name",
-          "SourceString": "Robo-Ray Starter Bundle"
+          "SourceString": "Robo-Ray Starter Bundle",
+          "LocalizedString": "Robo-Ray Starter Bundle"
         },
-        "SortPriority": 79
+        "SortPriority": 390
       },
       "StarterBundleQuests04": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests04_Name",
-          "SourceString": "Machinist Mina Starter Bundle"
+          "SourceString": "Machinist Mina Starter Bundle",
+          "LocalizedString": "Machinist Mina Starter Bundle"
         },
-        "SortPriority": 78
+        "SortPriority": 380
       },
       "StarterBundleQuests03": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests03_Name",
-          "SourceString": "Powerhouse Starter Bundle"
+          "SourceString": "Powerhouse Starter Bundle",
+          "LocalizedString": "Powerhouse Starter Bundle"
         },
-        "SortPriority": 77
+        "SortPriority": 370
       },
       "StarterBundleQuests02": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests02_Name",
-          "SourceString": "Samurai Scrapper Starter Bundle"
+          "SourceString": "Samurai Scrapper Starter Bundle",
+          "LocalizedString": "Samurai Scrapper Starter Bundle"
         },
-        "SortPriority": 76
+        "SortPriority": 360
       },
       "StarterBundleQuests01": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StarterBundleQuests01_Name",
-          "SourceString": "Metal Team Leader Starter Bundle"
+          "SourceString": "Metal Team Leader Starter Bundle",
+          "LocalizedString": "Metal Team Leader Starter Bundle"
         },
-        "SortPriority": 75
+        "SortPriority": 350
       },
       "DailyQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "DailyQuests_Name",
-          "SourceString": "Daily Quests"
+          "SourceString": "Daily Quests",
+          "LocalizedString": "Daily Quests"
         },
-        "SortPriority": 74
+        "SortPriority": 340
       },
       "StreamerQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StreamerQuests_Name",
-          "SourceString": "Live Streaming Quests"
+          "SourceString": "Live Streaming Quests",
+          "LocalizedString": "Live Streaming Quests"
         },
-        "SortPriority": 72
+        "SortPriority": 320
       },
       "TutorialQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "TutorialQuests_Name",
-          "SourceString": "Tutorial Quests"
+          "SourceString": "Tutorial Quests",
+          "LocalizedString": "Tutorial Quests"
         },
-        "SortPriority": 71
+        "SortPriority": 310
       },
       "LimitedTimeEvent": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LimitedTimeEvent_Name",
-          "SourceString": "Limited Time Event"
+          "SourceString": "Limited Time Event",
+          "LocalizedString": "Limited Time Event"
         },
-        "SortPriority": 70
+        "SortPriority": 300
       },
       "WeeklyQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "WeeklyQuests_Name",
-          "SourceString": "Weekly Challenges"
+          "SourceString": "Weekly Challenges",
+          "LocalizedString": "Weekly Challenges"
         },
-        "SortPriority": 68
+        "SortPriority": 280
       },
       "StormKingQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StormKingQuests_Name",
-          "SourceString": "Storm King: Quests"
+          "SourceString": "Storm King: Quests",
+          "LocalizedString": "Storm King: Quests"
         },
-        "SortPriority": 67
+        "SortPriority": 270
       },
       "StormKingDailies": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "StormKingDailies_Name",
-          "SourceString": "Storm King: Daily Challenges"
+          "SourceString": "Storm King: Daily Challenges",
+          "LocalizedString": "Storm King: Daily Challenges"
         },
-        "SortPriority": 66
+        "SortPriority": 260
       },
       "WargamesDailies": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "WargamesDailies_Name",
-          "SourceString": "Wargames: Daily Challenges"
+          "SourceString": "Wargames: Daily Challenges",
+          "LocalizedString": "Wargames: Daily Challenges"
         },
-        "SortPriority": 65
+        "SortPriority": 250
       },
       "EnduranceDailies": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "EnduranceDailies_Name",
-          "SourceString": "Endurance: Daily Challenges"
+          "SourceString": "Endurance: Daily Challenges",
+          "LocalizedString": "Endurance: Daily Challenges"
         },
-        "SortPriority": 64
+        "SortPriority": 240
       },
       "Phoenix_Summer_Narrative": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Summer_Narrative_Name",
-          "SourceString": "Venture: Impostor!"
+          "SourceString": "Venture: Impostor!",
+          "LocalizedString": "Venture: Impostor!"
         },
-        "SortPriority": 63
+        "SortPriority": 230
       },
       "Phoenix_Fall_Narrative": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Fall_Narrative_Name",
-          "SourceString": "Venture: Clip's Nightmare"
+          "SourceString": "Venture: Clip's Nightmare",
+          "LocalizedString": "Venture: Clip's Nightmare"
         },
-        "SortPriority": 62
+        "SortPriority": 220
       },
       "LTE_Season11E": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11E_Name",
-          "SourceString": "Venture: The Door to Darkness"
+          "SourceString": "Venture: The Door to Darkness",
+          "LocalizedString": "Venture: The Door to Darkness"
         },
-        "SortPriority": 61
+        "SortPriority": 210
       },
       "LTE_Fortnitemares": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Fortnitemares_Name",
-          "SourceString": "Venture: Fortnitemares"
+          "SourceString": "Venture: Fortnitemares",
+          "LocalizedString": "Venture: Fortnitemares"
         },
-        "SortPriority": 60
+        "SortPriority": 200
+      },
+      "LTE_HordeV3": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_HordeV3_Name",
+          "SourceString": "Event: Survive the Horde",
+          "LocalizedString": "Event: Survive the Horde"
+        },
+        "SortPriority": 54
       },
       "Phoenix_Spring_Narrative": {
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Spring_Narrative_Name",
-          "SourceString": "Event: Valor"
+          "SourceString": "Event: Valor",
+          "LocalizedString": "Event: Valor"
         },
         "SortPriority": 53
       },
@@ -269,7 +320,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Brainstorm_Name",
-          "SourceString": "Event: Eye of the Brainstorm"
+          "SourceString": "Event: Eye of the Brainstorm",
+          "LocalizedString": "Event: Eye of the Brainstorm"
         },
         "SortPriority": 52
       },
@@ -277,7 +329,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Fennix_Name",
-          "SourceString": "Event: Flight of the Fennix"
+          "SourceString": "Event: Flight of the Fennix",
+          "LocalizedString": "Event: Flight of the Fennix"
         },
         "SortPriority": 52
       },
@@ -285,7 +338,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "STWIrwinQuests_Name",
-          "SourceString": "Event: Brawl of the Wild"
+          "SourceString": "Event: Brawl of the Wild",
+          "LocalizedString": "Event: Brawl of the Wild"
         },
         "SortPriority": 51
       },
@@ -293,7 +347,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Winter_Narrative_Name",
-          "SourceString": "Event: Red Willow's Eve"
+          "SourceString": "Event: Red Willow's Eve",
+          "LocalizedString": "Event: Red Willow's Eve"
         },
         "SortPriority": 50
       },
@@ -301,7 +356,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
+          "SourceString": "Venture: Challenge Quests",
+          "LocalizedString": "Venture: Challenge Quests"
         },
         "SortPriority": 49
       },
@@ -309,7 +365,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Fall_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
+          "SourceString": "Venture: Challenge Quests",
+          "LocalizedString": "Venture: Challenge Quests"
         },
         "SortPriority": 49
       },
@@ -317,7 +374,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Winter_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
+          "SourceString": "Venture: Challenge Quests",
+          "LocalizedString": "Venture: Challenge Quests"
         },
         "SortPriority": 49
       },
@@ -325,7 +383,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Beginnings_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
+          "SourceString": "Venture: Challenge Quests",
+          "LocalizedString": "Venture: Challenge Quests"
         },
         "SortPriority": 49
       },
@@ -333,7 +392,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Phoenix_Adventure_Seasonal_Name",
-          "SourceString": "Venture: Challenge Quests"
+          "SourceString": "Venture: Challenge Quests",
+          "LocalizedString": "Venture: Challenge Quests"
         },
         "SortPriority": 49
       },
@@ -341,7 +401,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Bot_Name",
-          "SourceString": "Event: Battle Ray-ale"
+          "SourceString": "Event: Battle Ray-ale",
+          "LocalizedString": "Event: Battle Ray-ale"
         },
         "SortPriority": 43
       },
@@ -349,7 +410,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Pirate_Name",
-          "SourceString": "Event: Yarrr!"
+          "SourceString": "Event: Yarrr!",
+          "LocalizedString": "Event: Yarrr!"
         },
         "SortPriority": 42
       },
@@ -357,7 +419,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season13A_Name",
-          "SourceString": "Event: Yarrr's Return"
+          "SourceString": "Event: Yarrr's Return",
+          "LocalizedString": "Event: Yarrr's Return"
         },
         "SortPriority": 41
       },
@@ -365,7 +428,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season12B_Name",
-          "SourceString": "Event: School of Hard Knox"
+          "SourceString": "Event: School of Hard Knox",
+          "LocalizedString": "Event: School of Hard Knox"
         },
         "SortPriority": 40
       },
@@ -373,7 +437,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season12A_Name",
-          "SourceString": "Event: No Dancing"
+          "SourceString": "Event: No Dancing",
+          "LocalizedString": "Event: No Dancing"
         },
         "SortPriority": 39
       },
@@ -381,7 +446,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11H_Name",
-          "SourceString": "Event: Misfit Toys"
+          "SourceString": "Event: Misfit Toys",
+          "LocalizedString": "Event: Misfit Toys"
         },
         "SortPriority": 38
       },
@@ -389,7 +455,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11G_Name",
-          "SourceString": "Event: Season's Hauntings"
+          "SourceString": "Event: Season's Hauntings",
+          "LocalizedString": "Event: Season's Hauntings"
         },
         "SortPriority": 37
       },
@@ -397,7 +464,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11F_Name",
-          "SourceString": "Event: Holly Jolly Ransom"
+          "SourceString": "Event: Holly Jolly Ransom",
+          "LocalizedString": "Event: Holly Jolly Ransom"
         },
         "SortPriority": 36
       },
@@ -405,7 +473,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11D_Name",
-          "SourceString": "Event: Match Maker"
+          "SourceString": "Event: Match Maker",
+          "LocalizedString": "Event: Match Maker"
         },
         "SortPriority": 35
       },
@@ -413,7 +482,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11C_Name",
-          "SourceString": "Event: Bladey Acres"
+          "SourceString": "Event: Bladey Acres",
+          "LocalizedString": "Event: Bladey Acres"
         },
         "SortPriority": 34
       },
@@ -421,7 +491,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season11B_Name",
-          "SourceString": "Event: Wolfy Business"
+          "SourceString": "Event: Wolfy Business",
+          "LocalizedString": "Event: Wolfy Business"
         },
         "SortPriority": 33
       },
@@ -429,7 +500,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Promo_BattleBreakers_Name",
-          "SourceString": "Promotion: Battle Breakers"
+          "SourceString": "Promotion: Battle Breakers",
+          "LocalizedString": "Promotion: Battle Breakers"
         },
         "SortPriority": 31
       },
@@ -437,7 +509,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Starlight_Name",
-          "SourceString": "Event: Dungeons"
+          "SourceString": "Event: Dungeons",
+          "LocalizedString": "Event: Dungeons"
         },
         "SortPriority": 30
       },
@@ -445,7 +518,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_BigBen_Name",
-          "SourceString": "Event: Timeless"
+          "SourceString": "Event: Timeless",
+          "LocalizedString": "Event: Timeless"
         },
         "SortPriority": 29
       },
@@ -453,7 +527,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTR_Mayday2019_Name",
-          "SourceString": "Event: Hit the Road"
+          "SourceString": "Event: Hit the Road",
+          "LocalizedString": "Event: Hit the Road"
         },
         "SortPriority": 28
       },
@@ -461,7 +536,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season10A_Name",
-          "SourceString": "Event: The Long Road Home"
+          "SourceString": "Event: The Long Road Home",
+          "LocalizedString": "Event: The Long Road Home"
         },
         "SortPriority": 27
       },
@@ -469,7 +545,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Fortnite_Bday_Generic_Name",
-          "SourceString": "Event: Fortnite Birthday Celebration"
+          "SourceString": "Event: Fortnite Birthday Celebration",
+          "LocalizedString": "Event: Fortnite Birthday Celebration"
         },
         "SortPriority": 26
       },
@@ -477,7 +554,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Fortnite_Bday_2_Name",
-          "SourceString": "Event: Fortnite 2nd Birthday Celebration"
+          "SourceString": "Event: Fortnite 2nd Birthday Celebration",
+          "LocalizedString": "Event: Fortnite 2nd Birthday Celebration"
         },
         "SortPriority": 26
       },
@@ -485,7 +563,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Fortnite_Bday_3_Name",
-          "SourceString": "Event: Fortnite 3rd Birthday Celebration"
+          "SourceString": "Event: Fortnite 3rd Birthday Celebration",
+          "LocalizedString": "Event: Fortnite 3rd Birthday Celebration"
         },
         "SortPriority": 26
       },
@@ -493,7 +572,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Summer2019_Name",
-          "SourceString": "Event: 14 Days of Summer"
+          "SourceString": "Event: 14 Days of Summer",
+          "LocalizedString": "Event: 14 Days of Summer"
         },
         "SortPriority": 25
       },
@@ -501,7 +581,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season9A_Name",
-          "SourceString": "Event: Tales of Beyond"
+          "SourceString": "Event: Tales of Beyond",
+          "LocalizedString": "Event: Tales of Beyond"
         },
         "SortPriority": 24
       },
@@ -509,7 +590,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season9B_Name",
-          "SourceString": "Event: Beyond the Stellar Horizon"
+          "SourceString": "Event: Beyond the Stellar Horizon",
+          "LocalizedString": "Event: Beyond the Stellar Horizon"
         },
         "SortPriority": 23
       },
@@ -517,7 +599,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Season9Wargames_Name",
-          "SourceString": "Event: Wargames Boot Camp"
+          "SourceString": "Event: Wargames Boot Camp",
+          "LocalizedString": "Event: Wargames Boot Camp"
         },
         "SortPriority": 22
       },
@@ -525,7 +608,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Love_Name",
-          "SourceString": "Event: Love Storm"
+          "SourceString": "Event: Love Storm",
+          "LocalizedString": "Event: Love Storm"
         },
         "SortPriority": 21
       },
@@ -533,7 +617,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Winter2018_Name",
-          "SourceString": "Event: The 14 Days of Fortnite"
+          "SourceString": "Event: The 14 Days of Fortnite",
+          "LocalizedString": "Event: The 14 Days of Fortnite"
         },
         "SortPriority": 19
       },
@@ -541,7 +626,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Frostnite_Name",
-          "SourceString": "Event: Frostnite"
+          "SourceString": "Event: Frostnite",
+          "LocalizedString": "Event: Frostnite"
         },
         "SortPriority": 18
       },
@@ -549,7 +635,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Autumn_Name",
-          "SourceString": "Event: Cram Session"
+          "SourceString": "Event: Cram Session",
+          "LocalizedString": "Event: Cram Session"
         },
         "SortPriority": 17
       },
@@ -557,7 +644,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Frostnite_Elite_Name",
-          "SourceString": "Event: Elite Frostnite"
+          "SourceString": "Event: Elite Frostnite",
+          "LocalizedString": "Event: Elite Frostnite"
         },
         "SortPriority": 16
       },
@@ -565,7 +653,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Anniversary2018_Name",
-          "SourceString": "Event: Fortnite 1st Birthday Celebration"
+          "SourceString": "Event: Fortnite 1st Birthday Celebration",
+          "LocalizedString": "Event: Fortnite 1st Birthday Celebration"
         },
         "SortPriority": 15
       },
@@ -573,7 +662,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Frostnite_Daily_Name",
-          "SourceString": "Event: Frostnite Dailies"
+          "SourceString": "Event: Frostnite Dailies",
+          "LocalizedString": "Event: Frostnite Dailies"
         },
         "SortPriority": 14
       },
@@ -581,7 +671,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Blockbuster2018_Name",
-          "SourceString": "Event: Blockbuster"
+          "SourceString": "Event: Blockbuster",
+          "LocalizedString": "Event: Blockbuster"
         },
         "SortPriority": 13
       },
@@ -589,7 +680,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Storm2018_Name",
-          "SourceString": "Event: Into the Storm"
+          "SourceString": "Event: Into the Storm",
+          "LocalizedString": "Event: Into the Storm"
         },
         "SortPriority": 12
       },
@@ -597,7 +689,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Spring2018_Name",
-          "SourceString": "Event: Spring It On!"
+          "SourceString": "Event: Spring It On!",
+          "LocalizedString": "Event: Spring It On!"
         },
         "SortPriority": 11
       },
@@ -605,7 +698,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_MutantStorms_Name",
-          "SourceString": "Event: Mutant Storms"
+          "SourceString": "Event: Mutant Storms",
+          "LocalizedString": "Event: Mutant Storms"
         },
         "SortPriority": 10
       },
@@ -613,7 +707,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Winter2017_Name",
-          "SourceString": "Event: The Fortnite Guide to Holiday Survival"
+          "SourceString": "Event: The Fortnite Guide to Holiday Survival",
+          "LocalizedString": "Event: The Fortnite Guide to Holiday Survival"
         },
         "SortPriority": 9
       },
@@ -621,7 +716,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Vindertech_Name",
-          "SourceString": "Event: Vindertech"
+          "SourceString": "Event: Vindertech",
+          "LocalizedString": "Event: Vindertech"
         },
         "SortPriority": 8
       },
@@ -629,7 +725,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_HordeBash_Name",
-          "SourceString": "Event: Road Trip"
+          "SourceString": "Event: Road Trip",
+          "LocalizedString": "Event: Road Trip"
         },
         "SortPriority": 6
       },
@@ -637,7 +734,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "LTE_Repeatable_Name",
-          "SourceString": "Event: Repeatable Quests"
+          "SourceString": "Event: Repeatable Quests",
+          "LocalizedString": "Event: Repeatable Quests"
         },
         "SortPriority": 5
       },
@@ -645,7 +743,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "HeroQuests_Name",
-          "SourceString": "Hero Quests"
+          "SourceString": "Hero Quests",
+          "LocalizedString": "Hero Quests"
         },
         "SortPriority": 4
       },
@@ -653,7 +752,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "TeamPerkQuests_Name",
-          "SourceString": "Team Perk Quests"
+          "SourceString": "Team Perk Quests",
+          "LocalizedString": "Team Perk Quests"
         },
         "SortPriority": 3
       },
@@ -661,7 +761,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "SideQuests_Name",
-          "SourceString": "Side Quests"
+          "SourceString": "Side Quests",
+          "LocalizedString": "Side Quests"
         },
         "SortPriority": 2
       },
@@ -669,7 +770,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Challenges_Name",
-          "SourceString": "Challenges"
+          "SourceString": "Challenges",
+          "LocalizedString": "Challenges"
         },
         "SortPriority": 1
       },
@@ -677,7 +779,8 @@
         "Name": {
           "Namespace": "QuestCategoryTable",
           "Key": "Test_Name",
-          "SourceString": "Test"
+          "SourceString": "Test",
+          "LocalizedString": "Test"
         },
         "SortPriority": 0
       }

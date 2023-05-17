@@ -2,9 +2,10 @@
   {
     "Type": "DataTable",
     "Name": "QuestTagToCategoryDataRows",
+    "Class": "UScriptClass'DataTable'",
     "Properties": {
       "RowStruct": {
-        "ObjectName": "Class FortQuestTagToCategoryDataRow",
+        "ObjectName": "Class'FortQuestTagToCategoryDataRow'",
         "ObjectPath": "/Script/FortniteGame"
       }
     },
@@ -13,12 +14,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "493C8436443F5EB4F4EED0AD96177299",
-          "SourceString": "Brutus' Briefing"
+          "SourceString": "Brutus' Briefing",
+          "LocalizedString": "Brutus' Briefing"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "6E2874D143A4F81C82925FBDB12DDD59",
-          "SourceString": "All Brutus' Briefing Challenges"
+          "SourceString": "All Brutus' Briefing Challenges",
+          "LocalizedString": "All Brutus' Briefing Challenges"
         },
         "Priority": 50
       },
@@ -26,12 +29,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "780902C14E8C33CF25B421830B9B15A7",
-          "SourceString": "TNTina's Trial"
+          "SourceString": "TNTina's Trial",
+          "LocalizedString": "TNTina's Trial"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "10AA7FFF495D2B54D98D0CA601D51C03",
-          "SourceString": "All TNTina's Trial Challenges"
+          "SourceString": "All TNTina's Trial Challenges",
+          "LocalizedString": "All TNTina's Trial Challenges"
         },
         "Priority": 40
       },
@@ -39,12 +44,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "9E6F785446CADA0C75DC77BACA514AFE",
-          "SourceString": "Meowscles' Mischief"
+          "SourceString": "Meowscles' Mischief",
+          "LocalizedString": "Meowscles' Mischief"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "C9133DDB4023C39A71B091894F63DAC7",
-          "SourceString": "All Meowscles' Mischief Challenges"
+          "SourceString": "All Meowscles' Mischief Challenges",
+          "LocalizedString": "All Meowscles' Mischief Challenges"
         },
         "Priority": 30
       },
@@ -52,12 +59,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "33D9476749179BE4232D78A61E65A9A9",
-          "SourceString": "Skye's Adventure"
+          "SourceString": "Skye's Adventure",
+          "LocalizedString": "Skye's Adventure"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "D000C5B54F282DEE9520F4BF35BE1F49",
-          "SourceString": "All Skye's Adventure Challenges"
+          "SourceString": "All Skye's Adventure Challenges",
+          "LocalizedString": "All Skye's Adventure Challenges"
         },
         "Priority": 20
       },
@@ -65,12 +74,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "27D1CE494AD1910517777A87F2DD1E91",
-          "SourceString": "Midas' Mission"
+          "SourceString": "Midas' Mission",
+          "LocalizedString": "Midas' Mission"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "EA80360A4C84EFF1C7492A88AE1146E9",
-          "SourceString": "All Midas' Mission Challenges"
+          "SourceString": "All Midas' Mission Challenges",
+          "LocalizedString": "All Midas' Mission Challenges"
         },
         "Priority": 10
       },
@@ -78,12 +89,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "C02016B6421186DEE899F2B72F621737",
-          "SourceString": "Maya's Challenges"
+          "SourceString": "Maya's Challenges",
+          "LocalizedString": "Maya's Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "E1815DA4482BD3C9E334828EBC2ECDEA",
-          "SourceString": "All Maya's Challenges"
+          "SourceString": "All Maya's Challenges",
+          "LocalizedString": "All Maya's Challenges"
         },
         "Priority": 110
       },
@@ -91,12 +104,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "9DBBC3C843B8E3BDC274CEA9ADDCC10D",
-          "SourceString": "PCB"
+          "SourceString": "PCB",
+          "LocalizedString": "PCB"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "1A39DC6C4C52DC56AB5FAF8DEAD08217",
-          "SourceString": "All PCB Challenges"
+          "SourceString": "All PCB Challenges",
+          "LocalizedString": "All PCB Challenges"
         },
         "Priority": 120
       },
@@ -104,12 +119,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "A76D6DE14813635F5754579FC6A7F3B8",
-          "SourceString": "Harley Quinn"
+          "SourceString": "Harley Quinn",
+          "LocalizedString": "Harley Quinn"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "2A0B55524C43CF91FDBF1E9FE8BF6B45",
-          "SourceString": "All Harley Quinn Challenges"
+          "SourceString": "All Harley Quinn Challenges",
+          "LocalizedString": "All Harley Quinn Challenges"
         },
         "Priority": 120
       },
@@ -117,12 +134,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "54039C7E4805B54E9499DC8D87DF2D99",
-          "SourceString": "P-1000"
+          "SourceString": "P-1000",
+          "LocalizedString": "P-1000"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "77B78D284D3E497F1E3B65AC61C5CE14",
-          "SourceString": "All P-1000 Challenges"
+          "SourceString": "All P-1000 Challenges",
+          "LocalizedString": "All P-1000 Challenges"
         },
         "Priority": 120
       },
@@ -130,12 +149,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "A19DBC8A4040C29BF0FDDB88120A9AC6",
-          "SourceString": "Rogue Spider Knight"
+          "SourceString": "Rogue Spider Knight",
+          "LocalizedString": "Rogue Spider Knight"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "46329B88481BA6F99558DE94707D1474",
-          "SourceString": "All Rogue Spider Knight Challenges"
+          "SourceString": "All Rogue Spider Knight Challenges",
+          "LocalizedString": "All Rogue Spider Knight Challenges"
         },
         "Priority": 120
       },
@@ -143,12 +164,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "0A7D9241490DBEA547E45EB77CE256D5",
-          "SourceString": "Breakpoint"
+          "SourceString": "Breakpoint",
+          "LocalizedString": "Breakpoint"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "6EBFFC2F49310ADFEDA4CC8EABAB8806",
-          "SourceString": "All Breakpoint Challenges"
+          "SourceString": "All Breakpoint Challenges",
+          "LocalizedString": "All Breakpoint Challenges"
         },
         "Priority": 120
       },
@@ -156,12 +179,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "916CFDAD48C1952229BA5C9C3143C822",
-          "SourceString": "Inferno"
+          "SourceString": "Inferno",
+          "LocalizedString": "Inferno"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "3301777641F8816F472B2CA2B56AEE4F",
-          "SourceString": "All Inferno Challenges"
+          "SourceString": "All Inferno Challenges",
+          "LocalizedString": "All Inferno Challenges"
         },
         "Priority": 120
       },
@@ -169,12 +194,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "18915BFA4610C5F80341EC99E396EABB",
-          "SourceString": "Clutch"
+          "SourceString": "Clutch",
+          "LocalizedString": "Clutch"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "C363214E4FC629DDD52B5E888BAE7379",
-          "SourceString": "All Clutch Challenges"
+          "SourceString": "All Clutch Challenges",
+          "LocalizedString": "All Clutch Challenges"
         },
         "Priority": 120
       },
@@ -182,12 +209,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "98D5C0BD49CA0F930FE49DB90DC4760D",
-          "SourceString": "Grind"
+          "SourceString": "Grind",
+          "LocalizedString": "Grind"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "E8C2F2BE4372C49FFEBCE0B9259FC4CC",
-          "SourceString": "All Grind Challenges"
+          "SourceString": "All Grind Challenges",
+          "LocalizedString": "All Grind Challenges"
         },
         "Priority": 120
       },
@@ -195,12 +224,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "361F68E64128F677591231A705A79C4B",
-          "SourceString": "Danger Zone"
+          "SourceString": "Danger Zone",
+          "LocalizedString": "Danger Zone"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "C7C4BFB842DD105770C5F28ECC2C5AAD",
-          "SourceString": "All Danger Zone Challenges"
+          "SourceString": "All Danger Zone Challenges",
+          "LocalizedString": "All Danger Zone Challenges"
         },
         "Priority": 120
       },
@@ -208,12 +239,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "3AC449B0403E5D6AD97D38B9267BD299",
-          "SourceString": "Hot Zone"
+          "SourceString": "Hot Zone",
+          "LocalizedString": "Hot Zone"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "66E212324EDC7C0DB5C885A46F353B58",
-          "SourceString": "All Hot Zone Challenges"
+          "SourceString": "All Hot Zone Challenges",
+          "LocalizedString": "All Hot Zone Challenges"
         },
         "Priority": 120
       },
@@ -221,12 +254,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "2DFCAD3648D7FD8B0EBC598869DFA2EF",
-          "SourceString": "Wrath"
+          "SourceString": "Wrath",
+          "LocalizedString": "Wrath"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "F35DB22B4316788F5A2F31A4CBA996DB",
-          "SourceString": "All Wrath Challenges"
+          "SourceString": "All Wrath Challenges",
+          "LocalizedString": "All Wrath Challenges"
         },
         "Priority": 120
       },
@@ -234,12 +269,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "8333BB9F429135D843365CAD22EB73DB",
-          "SourceString": "Metal Mouth"
+          "SourceString": "Metal Mouth",
+          "LocalizedString": "Metal Mouth"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "771562824069137FF527E9A95B0B72F4",
-          "SourceString": "All Metal Mouth Challenges"
+          "SourceString": "All Metal Mouth Challenges",
+          "LocalizedString": "All Metal Mouth Challenges"
         },
         "Priority": 120
       },
@@ -247,12 +284,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "215C09204070A78A74B105A450BBEBC9",
-          "SourceString": "Zadie"
+          "SourceString": "Zadie",
+          "LocalizedString": "Zadie"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "BD805BAE4E36F9254FE8EC943AA68D6A",
-          "SourceString": "All Zadie Challenges"
+          "SourceString": "All Zadie Challenges",
+          "LocalizedString": "All Zadie Challenges"
         },
         "Priority": 120
       },
@@ -260,12 +299,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "51C3987D4F37B090F378F1B385780ABA",
-          "SourceString": "Bassassin"
+          "SourceString": "Bassassin",
+          "LocalizedString": "Bassassin"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "6B3CDF2443756928C0588CA5EDB39527",
-          "SourceString": "All Bassassin Challenges"
+          "SourceString": "All Bassassin Challenges",
+          "LocalizedString": "All Bassassin Challenges"
         },
         "Priority": 120
       },
@@ -273,12 +314,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "FFECF7624001BEBB0E6618B65094B62D",
-          "SourceString": "Awaken Oro"
+          "SourceString": "Awaken Oro",
+          "LocalizedString": "Awaken Oro"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "A220D937444CEDE79EEF77A3168C1ECC",
-          "SourceString": "All Awaken Oro Challenges"
+          "SourceString": "All Awaken Oro Challenges",
+          "LocalizedString": "All Awaken Oro Challenges"
         },
         "Priority": 5
       },
@@ -286,12 +329,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "8F53373C43710BE6369980AD8182C1D3",
-          "SourceString": "Spy Games"
+          "SourceString": "Spy Games",
+          "LocalizedString": "Spy Games"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "3C1F3CA542A44E611DF3569704D63518",
-          "SourceString": "All Spy Games Challenges"
+          "SourceString": "All Spy Games Challenges",
+          "LocalizedString": "All Spy Games Challenges"
         },
         "Priority": 7
       },
@@ -299,12 +344,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "8269443A4B72FAB8E799289170B3CC02",
-          "SourceString": "Storm the Agency"
+          "SourceString": "Storm the Agency",
+          "LocalizedString": "Storm the Agency"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "17F139E04BAA4FA8286DFFBA7158EDC0",
-          "SourceString": "All Storm the Agency Challenges"
+          "SourceString": "All Storm the Agency Challenges",
+          "LocalizedString": "All Storm the Agency Challenges"
         },
         "Priority": 5
       },
@@ -312,12 +359,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "393D556E411B9DEF51837F897BF4D93D",
-          "SourceString": "Week 1 Challenges"
+          "SourceString": "Week 1 Challenges",
+          "LocalizedString": "Week 1 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "BC55902D499CDC3118A4F3BD516A04C2",
-          "SourceString": "All Week 1 Challenges"
+          "SourceString": "All Week 1 Challenges",
+          "LocalizedString": "All Week 1 Challenges"
         },
         "Priority": 90
       },
@@ -325,12 +374,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "30F9EFA84D706130B1B09596E0F4BC84",
-          "SourceString": "Week 2 Challenges"
+          "SourceString": "Week 2 Challenges",
+          "LocalizedString": "Week 2 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "3535A8D54468DF8DDA71AC8885391ACB",
-          "SourceString": "All Week 2 Challenges"
+          "SourceString": "All Week 2 Challenges",
+          "LocalizedString": "All Week 2 Challenges"
         },
         "Priority": 85
       },
@@ -338,12 +389,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "047A577B4BF7FD97C99347AE7645AA88",
-          "SourceString": "Week 3 Challenges"
+          "SourceString": "Week 3 Challenges",
+          "LocalizedString": "Week 3 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "DBAD30C0476A18F9C363F3A30F27AB30",
-          "SourceString": "All Week 3 Challenges"
+          "SourceString": "All Week 3 Challenges",
+          "LocalizedString": "All Week 3 Challenges"
         },
         "Priority": 80
       },
@@ -351,12 +404,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "485D46E442B6F7F2A27FF68AF0E9E848",
-          "SourceString": "Week 4 Challenges"
+          "SourceString": "Week 4 Challenges",
+          "LocalizedString": "Week 4 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "E29DD3C74DAB0AAD8A81E3A382966B25",
-          "SourceString": "All Week 4 Challenges"
+          "SourceString": "All Week 4 Challenges",
+          "LocalizedString": "All Week 4 Challenges"
         },
         "Priority": 75
       },
@@ -364,12 +419,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "4A6160694D6079B8180AFA9634E6CCA5",
-          "SourceString": "Week 5 Challenges"
+          "SourceString": "Week 5 Challenges",
+          "LocalizedString": "Week 5 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "3AD836DB4649A3C8AC77F6A2CB622476",
-          "SourceString": "All Week 5 Challenges"
+          "SourceString": "All Week 5 Challenges",
+          "LocalizedString": "All Week 5 Challenges"
         },
         "Priority": 70
       },
@@ -377,12 +434,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "734485514A8C5F0201AAB1817F3DD9C0",
-          "SourceString": "Week 6 Challenges"
+          "SourceString": "Week 6 Challenges",
+          "LocalizedString": "Week 6 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "E62B4E3D476FEDAF5DA51D926C946D95",
-          "SourceString": "All Week 6 Challenges"
+          "SourceString": "All Week 6 Challenges",
+          "LocalizedString": "All Week 6 Challenges"
         },
         "Priority": 65
       },
@@ -390,12 +449,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "613835274ECD7940C8FEE29DBB9D509C",
-          "SourceString": "Week 7 Challenges"
+          "SourceString": "Week 7 Challenges",
+          "LocalizedString": "Week 7 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "60D873394C194396B834D99D45BE26CE",
-          "SourceString": "All Week 7 Challenges"
+          "SourceString": "All Week 7 Challenges",
+          "LocalizedString": "All Week 7 Challenges"
         },
         "Priority": 60
       },
@@ -403,12 +464,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "99E29DC54E5175540C385A8C6A7FCA0F",
-          "SourceString": "Week 8 Challenges"
+          "SourceString": "Week 8 Challenges",
+          "LocalizedString": "Week 8 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "446285834F3F4344E618A99A0B577E74",
-          "SourceString": "All Week 8 Challenges"
+          "SourceString": "All Week 8 Challenges",
+          "LocalizedString": "All Week 8 Challenges"
         },
         "Priority": 55
       },
@@ -416,12 +479,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "901E40B64AA95E5F7C9D60B8C80C7502",
-          "SourceString": "Week 9 Challenges"
+          "SourceString": "Week 9 Challenges",
+          "LocalizedString": "Week 9 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "2FA63B16443657F163B2A0ACA564F9BD",
-          "SourceString": "All Week 9 Challenges"
+          "SourceString": "All Week 9 Challenges",
+          "LocalizedString": "All Week 9 Challenges"
         },
         "Priority": 50
       },
@@ -429,12 +494,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "CE6921784C54E48F06ADD0B710FEC2AF",
-          "SourceString": "Week 10 Challenges"
+          "SourceString": "Week 10 Challenges",
+          "LocalizedString": "Week 10 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "8A8CD1404CE30A9C615B7EB0708053F3",
-          "SourceString": "All Week 10 Challenges"
+          "SourceString": "All Week 10 Challenges",
+          "LocalizedString": "All Week 10 Challenges"
         },
         "Priority": 45
       },
@@ -442,12 +509,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "730E80A543EA27B0514E8C8BA10B110F",
-          "SourceString": "Week 11 Challenges"
+          "SourceString": "Week 11 Challenges",
+          "LocalizedString": "Week 11 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "D18B78A54C116EA02C1FC08AE49755D0",
-          "SourceString": "All Week 11 Challenges"
+          "SourceString": "All Week 11 Challenges",
+          "LocalizedString": "All Week 11 Challenges"
         },
         "Priority": 40
       },
@@ -455,12 +524,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "2156AB0245E457D1520105B133C4008C",
-          "SourceString": "Week 12 Challenges"
+          "SourceString": "Week 12 Challenges",
+          "LocalizedString": "Week 12 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "F8F92FFB4D1DB416B7C38E8137FE69C0",
-          "SourceString": "All Week 12 Challenges"
+          "SourceString": "All Week 12 Challenges",
+          "LocalizedString": "All Week 12 Challenges"
         },
         "Priority": 35
       },
@@ -468,12 +539,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "1695EAF24CE03A23DC4B5B8B55ACB923",
-          "SourceString": "Aquaman Challenges"
+          "SourceString": "Aquaman Challenges",
+          "LocalizedString": "Aquaman Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "376A131F4390B8980670C7B42BFB3977",
-          "SourceString": "All Aquaman Challenges"
+          "SourceString": "All Aquaman Challenges",
+          "LocalizedString": "All Aquaman Challenges"
         },
         "Priority": 5
       },
@@ -481,12 +554,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "118A541F42FA5D9B7572FA8CB405E085",
-          "SourceString": "Awakening Challenges"
+          "SourceString": "Awakening Challenges",
+          "LocalizedString": "Awakening Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "63C0F5DE4779137000D21FAAAB8819CC",
-          "SourceString": "All Awakening Challenges"
+          "SourceString": "All Awakening Challenges",
+          "LocalizedString": "All Awakening Challenges"
         },
         "Priority": 5
       },
@@ -494,12 +569,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "6EF3429948CFE38AD72D4DA6DD8EBDBE",
-          "SourceString": "Wolverine Challenges"
+          "SourceString": "Wolverine Challenges",
+          "LocalizedString": "Wolverine Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "2CD354D54C4C71534F7EA58E67CF771C",
-          "SourceString": "All Wolverine Challenges"
+          "SourceString": "All Wolverine Challenges",
+          "LocalizedString": "All Wolverine Challenges"
         },
         "Priority": 10
       },
@@ -507,12 +584,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "F6BC751748A39C6468C898BE0C9742C2",
-          "SourceString": "Derby Dynamo"
+          "SourceString": "Derby Dynamo",
+          "LocalizedString": "Derby Dynamo"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "7342357E413185434520699D8233CAA2",
-          "SourceString": "All Derby Dynamo Challenges"
+          "SourceString": "All Derby Dynamo Challenges",
+          "LocalizedString": "All Derby Dynamo Challenges"
         },
         "Priority": 120
       },
@@ -520,12 +599,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "08FC42804CFE81FB4956DAB2E773A907",
-          "SourceString": "Birthday Challenges"
+          "SourceString": "Birthday Challenges",
+          "LocalizedString": "Birthday Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "2C9BB6364673BDA5A1481FB900E20904",
-          "SourceString": "All Birthday Challenges"
+          "SourceString": "All Birthday Challenges",
+          "LocalizedString": "All Birthday Challenges"
         },
         "Priority": 100
       },
@@ -533,12 +614,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "E95245A24A633AFF6CE61C8C63C36486",
-          "SourceString": "Skull Trooper"
+          "SourceString": "Skull Trooper",
+          "LocalizedString": "Skull Trooper"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "219234B04D98D74F4659E5B72D349382",
-          "SourceString": "All Skull Trooper Challenges"
+          "SourceString": "All Skull Trooper Challenges",
+          "LocalizedString": "All Skull Trooper Challenges"
         },
         "Priority": 120
       },
@@ -546,12 +629,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "FF5E998843993820D3732090FC721E18",
-          "SourceString": "Fortnitemares"
+          "SourceString": "Fortnitemares",
+          "LocalizedString": "Fortnitemares"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "2913E125426BE1B58DFCC5A34BA78B84",
-          "SourceString": "All Fortnitemares Challenges"
+          "SourceString": "All Fortnitemares Challenges",
+          "LocalizedString": "All Fortnitemares Challenges"
         },
         "Priority": 4
       },
@@ -559,12 +644,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "B80152A047CA3C874D636F950FA41CAB",
-          "SourceString": "XP Xtravaganza Week 1 Challenges"
+          "SourceString": "XP Xtravaganza Week 1 Challenges",
+          "LocalizedString": "XP Xtravaganza Week 1 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "28AE2DFD421656C99A42EB99FB1E46E7",
-          "SourceString": "All XP Xtravaganza Week 1 Challenges"
+          "SourceString": "All XP Xtravaganza Week 1 Challenges",
+          "LocalizedString": "All XP Xtravaganza Week 1 Challenges"
         },
         "Priority": 35
       },
@@ -572,12 +659,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "7A414C8C4F93CAE5B035348E8C6FDE55",
-          "SourceString": "XP Xtravaganza Week 2 Challenges"
+          "SourceString": "XP Xtravaganza Week 2 Challenges",
+          "LocalizedString": "XP Xtravaganza Week 2 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "5B1B8BEF471FE36F93A49A8DCB64B405",
-          "SourceString": "All XP Xtravaganza Week 2 Challenges"
+          "SourceString": "All XP Xtravaganza Week 2 Challenges",
+          "LocalizedString": "All XP Xtravaganza Week 2 Challenges"
         },
         "Priority": 30
       },
@@ -585,12 +674,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "333E894C43100C027873D9AAA69F9BBA",
-          "SourceString": "XP Xtravaganza Week 3 Challenges"
+          "SourceString": "XP Xtravaganza Week 3 Challenges",
+          "LocalizedString": "XP Xtravaganza Week 3 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "7A5BB9F74502C15C9BBA56B4117EC215",
-          "SourceString": "All XP Xtravaganza Week 3 Challenges"
+          "SourceString": "All XP Xtravaganza Week 3 Challenges",
+          "LocalizedString": "All XP Xtravaganza Week 3 Challenges"
         },
         "Priority": 25
       },
@@ -598,12 +689,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "B30AA7DE4390C11E9B873FAF89D8CA7A",
-          "SourceString": "XP Xtravaganza Week 4 Challenges"
+          "SourceString": "XP Xtravaganza Week 4 Challenges",
+          "LocalizedString": "XP Xtravaganza Week 4 Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "F526218A47C6810BEEECA888A06C437E",
-          "SourceString": "All XP Xtravaganza Week 4 Challenges"
+          "SourceString": "All XP Xtravaganza Week 4 Challenges",
+          "LocalizedString": "All XP Xtravaganza Week 4 Challenges"
         },
         "Priority": 20
       },
@@ -611,12 +704,14 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "8C1EB3214725D6C830DCD2BE4C917F25",
-          "SourceString": "Skully Challenges"
+          "SourceString": "Skully Challenges",
+          "LocalizedString": "Skully Challenges"
         },
         "AllChallengesText": {
           "Namespace": "",
           "Key": "FFB98E984B4EDE56EEAD8D9D6620E777",
-          "SourceString": "All Skully Challenges"
+          "SourceString": "All Skully Challenges",
+          "LocalizedString": "All Skully Challenges"
         },
         "Priority": 120
       }
