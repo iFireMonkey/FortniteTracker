@@ -529,8 +529,8 @@
   },
   "MessageDialog": {
     "UpdateMacOSX_Body": "Please update to the latest version of macOS for best performance and stability.",
-    "VideoCardDriverRHIIssueReport": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install either the latest or the recommended driver version or switch to a different rendering API.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
-    "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease install either the latest or the recommended driver version.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
+    "VideoCardDriverRHIIssueReport": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install the latest driver version or switch to a different rendering API.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nMinimum required: {RecommendedVer}",
+    "VideoCardDriverIssueReport": "The installed version of the {Vendor} graphics driver has known issues.\nPlease install the latest driver version.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nMinimum required: {RecommendedVer}",
     "LatestVideoCardDriverRHIIssueReport": "The latest version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install the recommended driver version or switch to a different rendering API.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "LatestVideoCardDriverIssueReport": "The latest version of the {Vendor} graphics driver has known issues.\nPlease install the recommended driver version.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nRecommended: {RecommendedVer}",
     "UpdateMacOSX_Title": "Update macOS",
@@ -539,32 +539,11 @@
     "DriverDownloadLinkAMD": "https://www.amd.com/en/support",
     "DriverDownloadLinkNVIDIA": "https://www.nvidia.com/en-us/geforce/drivers/"
   },
-  "OnlineFriend": {
-    "AlreadyFriends": "Already invited friend.",
-    "IncorrectAliasInput": "Incorrect alias input. Should be from 3 to 16 letters, digits, spaces, -,_,. or emoji.",
-    "MissingBlockList": "No cached block list entry. Query block list first.",
-    "MissingFriend": "No cached friend entry. Read friends list first.",
-    "ToxicAlias": "Sorry, the friend alias you entered contains disallowed words.",
-    "InvalidOtherUser": "The other user is invalid.",
-    "OtherUserIsSelf": "The other user is the local user.",
-    "NoFriendsList": "Unable to find friends lists.",
-    "NotSuggestedFriend": "We can't find the friend suggestion to dismiss."
-  },
-  "OnlineIdentity": {
-    "AlreadyPendingClientAuth": "Already pending auth request for user",
-    "AlreadyPendingUserAuth": "Already pending auth request for user",
-    "AlreadyPendingUserInfo": "Already pending info request user",
-    "AlreadyPendingMetaData": "Already pending meta data request for user",
-    "AlreadyPendingUserPrivilege": "Already pending user privilege check"
-  },
   "OnlinePresence": {
     "Away": "Away",
     "Chat": "Chat",
     "DoNotDisturb": "Do Not Disturb",
     "ExtendedAway": "Extended Away",
-    "MissingNudgedSubscriptions": "No cached nudged subscription entry. Query subscriptions nudges first.",
-    "MissingSubscriptions": "No cached subscription entry. Query subscriptions first.",
-    "MissingSubscriptionsSettings": "No cached subscription settings entry. Query subscriptions settings first.",
     "Offline": "Offline",
     "Online": "Online"
   },
@@ -687,14 +666,21 @@
   },
   "WindowsDynamicRHI": {
     "RHIOptionsError": "-d3d12/dx12, -d3d11/dx11, -vulkan, and -opengl are mutually exclusive options, but more than one was specified on the command-line.",
+    "UnknownRHI": "<Unknown>",
+    "FeatureLevelUnknown": "<unknown>",
     "RequiredDX11Feature_11_SM5": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine.",
-    "RHIPerformanceDX12": "DirectX 12 is not supported for Performance Mode.",
+    "D3D11": "DirectX 11",
+    "D3D12": "DirectX 12",
     "RequiredDX12": "DirectX 12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
     "RequiredDX12SM6": "DirectX 12 with Feature Level SM6 is not supported on your system. Try running without the -sm6 command line argument.",
+    "FeatureLevelES31": "ES3_1",
+    "OpenGL": "OpenGL",
     "RequiredOpenGL": "OpenGL 4.3 is required to run the engine.",
-    "RHIPerformanceOpenGL": "OpenGL is not supported for Performance Mode.",
+    "FeatureLevelSM4": "SM5",
+    "FeatureLevelSM6": "SM6",
     "MissingTargetedShaderFormats": "Unable to launch with RHI '{0}' since the project is not configured to support it.",
+    "Vulkan": "Vulkan",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
-    "RHIPerformanceVulkan": "Vulkan is not supported for Performance Mode."
+    "RHINotSupported": "{0} does not support {1}."
   }
 }

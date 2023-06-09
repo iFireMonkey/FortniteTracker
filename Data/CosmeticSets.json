@@ -10616,7 +10616,7 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.OctoQuest_DisplayName",
           "SourceString": "The Inkquisition",
-          "LocalizedString": "Unfathomable"
+          "LocalizedString": "The Inkquisition"
         },
         "Description": {
           "CultureInvariantString": null
@@ -11637,8 +11637,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.TransferLegend_DisplayName",
-          "SourceString": "Set_01",
-          "LocalizedString": "Set_01"
+          "SourceString": "Across the Spider-Verse",
+          "LocalizedString": "Across the Spider-Verse"
         },
         "Description": {
           "CultureInvariantString": null
@@ -11693,8 +11693,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SchoolHeroes_DisplayName",
-          "SourceString": "Set_02",
-          "LocalizedString": "Set_02"
+          "SourceString": "Academy Champions",
+          "LocalizedString": "Academy Champions"
         },
         "Description": {
           "CultureInvariantString": null
@@ -11737,6 +11737,146 @@
           "Key": "Cosmetics.Set.RightHue_DisplayName",
           "SourceString": "True Colors",
           "LocalizedString": "True Colors"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WhizLucha": {
+        "tag": {
+          "TagName": "Cosmetics.Set.WhizLucha"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WhizLucha_DisplayName",
+          "SourceString": "Dynamo Volador",
+          "LocalizedString": "Dynamo Volador"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StoneRover": {
+        "tag": {
+          "TagName": "Cosmetics.Set.StoneRover"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StoneRover_DisplayName",
+          "SourceString": "Rock Ranger",
+          "LocalizedString": "Rock Ranger"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HeroicRascal": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HeroicRascal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HeroicRascal_DisplayName",
+          "SourceString": "Intrepid Scoundrel",
+          "LocalizedString": "Intrepid Scoundrel"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TorchSour": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TorchSour"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TorchSour_DisplayName",
+          "SourceString": "Transformers",
+          "LocalizedString": "Transformers"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TouchCat": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TouchCat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TouchCat_DisplayName",
+          "SourceString": "Taste of Purradise",
+          "LocalizedString": "Taste of Purradise"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FierceArtifact": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FierceArtifact"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FierceArtifact_DisplayName",
+          "SourceString": "Relentless Relik",
+          "LocalizedString": "Relentless Relik"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TribalTime": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TribalTime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TribalTime_DisplayName",
+          "SourceString": "Ancestral Era",
+          "LocalizedString": "Ancestral Era"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CelebTraitor": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CelebTraitor"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CelebTraitor_DisplayName",
+          "SourceString": "Luminary Rebel",
+          "LocalizedString": "Luminary Rebel"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CreatorRevealed": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CreatorRevealed"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CreatorRevealed_DisplayName",
+          "SourceString": "Slone, Un-Redacted",
+          "LocalizedString": "Slone, Un-Redacted"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DefenderFox": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DefenderFox"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DefenderFox_DisplayName",
+          "SourceString": "Protective Zenko",
+          "LocalizedString": "Protective Zenko"
         },
         "Description": {
           "CultureInvariantString": null

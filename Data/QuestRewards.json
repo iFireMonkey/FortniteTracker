@@ -50436,6 +50436,42 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W07_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w07",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W07_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w07",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W08_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w08",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W08_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w08",
+        "TemplateId": "AthenaDance:spray_stwhordemodemvp_lvl5",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }
