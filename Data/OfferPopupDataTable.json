@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style for Marcus!"
+          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
         }
       },
       "promodesc17": {
@@ -2678,24 +2678,32 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "F58234CB47517772C2DEBBB17C15A791",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Unsheath the <text color=\"FFFFFFFF\">ZIREAEL</> Pickaxe from the Back Bling when both are equipped! <text color=\"FFFFFFFF\">CIRI</>'s hands will radiate a green aura when holding <text color=\"FFFFFFFF\">ZIREAEL</>!",
+          "LocalizedString": "Unsheath the <text color=\\\"FFFFFFFF\\\">ZIREAEL</> Pickaxe from the Back Bling when both are equipped! <text color=\\\"FFFFFFFF\\\">CIRI</>'s hands will radiate a green aura when holding <text color=\\\"FFFFFFFF\\\">ZIREAEL</>!"
         }
       },
       "lastvoice": {
         "FormatedText": {
           "Namespace": "",
           "Key": "26D14E9E4069283E246CF38520DCDDD6",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "While sprinting or jumping, <text color=\"FFFFFFFF\">AIRIE</> will light up with an iridescent glow!",
+          "LocalizedString": "While sprinting or jumping, <text color=\\\"FFFFFFFF\\\">AIRIE</> will light up with an iridescent glow!"
         }
       },
       "lastvoicegear": {
         "FormatedText": {
           "Namespace": "",
           "Key": "323CB866424AA4366110C4828802A8BD",
-          "SourceString": "TBD",
+          "SourceString": "Includes a Loading Screen, Emoticon, and Spray!",
           "LocalizedString": "Includes a Loading Screen, Emoticon, and Spray!"
+        }
+      },
+      "firecracker": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D1A8116C495E771D7BB42EB10380698B",
+          "SourceString": "Earn a Victory Royale and celebrate with the <text color=\"FFFFFFFF\">SHORT FUSE</> emote!",
+          "LocalizedString": "Earn a Victory Royale and celebrate with the <text color=\"FFFFFFFF\">SHORT FUSE</> emote!"
         }
       }
     }
