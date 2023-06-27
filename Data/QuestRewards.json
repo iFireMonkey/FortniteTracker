@@ -10786,7 +10786,7 @@
       "Daily_DestroyArcadeMachines_001": {
         "QuestTemplateId": "Quest:daily_destroyarcademachines",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10795,7 +10795,7 @@
       "Daily_DestroyArcadeMachines_002": {
         "QuestTemplateId": "Quest:daily_destroyarcademachines",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10804,7 +10804,7 @@
       "Daily_DestroyBears_001": {
         "QuestTemplateId": "Quest:daily_destroybears",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10813,7 +10813,7 @@
       "Daily_DestroyBears_002": {
         "QuestTemplateId": "Quest:daily_destroybears",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10822,7 +10822,7 @@
       "Daily_DestroyFireTrucks_001": {
         "QuestTemplateId": "Quest:daily_destroyfiretrucks",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10831,7 +10831,7 @@
       "Daily_DestroyFireTrucks_002": {
         "QuestTemplateId": "Quest:daily_destroyfiretrucks",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10840,7 +10840,7 @@
       "Daily_DestroyGnomes_001": {
         "QuestTemplateId": "Quest:daily_destroygnomes",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10849,7 +10849,7 @@
       "Daily_DestroyGnomes_002": {
         "QuestTemplateId": "Quest:daily_destroygnomes",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10858,7 +10858,7 @@
       "Daily_DestroyPropaneTanks_001": {
         "QuestTemplateId": "Quest:daily_destroypropanetanks",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10867,7 +10867,7 @@
       "Daily_DestroyPropaneTanks_002": {
         "QuestTemplateId": "Quest:daily_destroypropanetanks",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10876,7 +10876,7 @@
       "Daily_DestroySeesaws_001": {
         "QuestTemplateId": "Quest:daily_destroyseesaws",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10885,7 +10885,7 @@
       "Daily_DestroySeesaws_002": {
         "QuestTemplateId": "Quest:daily_destroyseesaws",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10894,7 +10894,7 @@
       "Daily_DestroyServerRacks_001": {
         "QuestTemplateId": "Quest:daily_destroyserverracks",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10903,7 +10903,7 @@
       "Daily_DestroyServerRacks_002": {
         "QuestTemplateId": "Quest:daily_destroyserverracks",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10912,7 +10912,7 @@
       "Daily_DestroyTransformers_001": {
         "QuestTemplateId": "Quest:daily_destroytransformers",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10921,7 +10921,7 @@
       "Daily_DestroyTransformers_002": {
         "QuestTemplateId": "Quest:daily_destroytransformers",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10930,7 +10930,7 @@
       "Daily_DestroyTVs_001": {
         "QuestTemplateId": "Quest:daily_destroytvs",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10939,7 +10939,7 @@
       "Daily_DestroyTVs_002": {
         "QuestTemplateId": "Quest:daily_destroytvs",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10948,7 +10948,7 @@
       "Daily_Discovery_IndustrialLocations_001": {
         "QuestTemplateId": "Quest:daily_discovery_industriallocations",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10957,7 +10957,7 @@
       "Daily_Discovery_IndustrialLocations_002": {
         "QuestTemplateId": "Quest:daily_discovery_industriallocations",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10966,7 +10966,7 @@
       "Daily_Discovery_RuralLocations_001": {
         "QuestTemplateId": "Quest:daily_discovery_rurallocations",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10975,7 +10975,7 @@
       "Daily_Discovery_RuralLocations_002": {
         "QuestTemplateId": "Quest:daily_discovery_rurallocations",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10984,7 +10984,7 @@
       "Daily_Discovery_Shelters_001": {
         "QuestTemplateId": "Quest:daily_discovery_shelters",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -10993,7 +10993,7 @@
       "Daily_Discovery_Shelters_002": {
         "QuestTemplateId": "Quest:daily_discovery_shelters",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11002,7 +11002,7 @@
       "Daily_Discovery_SuburbanLocations_001": {
         "QuestTemplateId": "Quest:daily_discovery_suburbanlocations",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11011,7 +11011,7 @@
       "Daily_Discovery_SuburbanLocations_002": {
         "QuestTemplateId": "Quest:daily_discovery_suburbanlocations",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11020,7 +11020,7 @@
       "Daily_Discovery_UrbanLocations_001": {
         "QuestTemplateId": "Quest:daily_discovery_urbanlocations",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11029,7 +11029,7 @@
       "Daily_Discovery_UrbanLocations_002": {
         "QuestTemplateId": "Quest:daily_discovery_urbanlocations",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11038,7 +11038,7 @@
       "Daily_ExploreZones_001": {
         "QuestTemplateId": "Quest:daily_explorezones",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11047,7 +11047,7 @@
       "Daily_ExploreZones_002": {
         "QuestTemplateId": "Quest:daily_explorezones",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11056,7 +11056,7 @@
       "Daily_High_Priority_001": {
         "QuestTemplateId": "Quest:daily_high_priority",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11065,7 +11065,7 @@
       "Daily_High_Priority_002": {
         "QuestTemplateId": "Quest:daily_high_priority",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 100,
+        "Quantity": 130,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11074,7 +11074,7 @@
       "Daily_HuskExtermination_AnyHero_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_anyhero",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11083,7 +11083,7 @@
       "Daily_HuskExtermination_AnyHero_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_anyhero",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11092,7 +11092,7 @@
       "Daily_HuskExtermination_Constructor_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_constructor",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11101,7 +11101,7 @@
       "Daily_HuskExtermination_Constructor_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_constructor",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11110,7 +11110,7 @@
       "Daily_HuskExtermination_Melee_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_melee",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11119,7 +11119,7 @@
       "Daily_HuskExtermination_Melee_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_melee",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11128,7 +11128,7 @@
       "Daily_HuskExtermination_Ninja_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_ninja",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11137,7 +11137,7 @@
       "Daily_HuskExtermination_Ninja_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_ninja",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11146,7 +11146,7 @@
       "Daily_HuskExtermination_Outlander_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_outlander",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11155,7 +11155,7 @@
       "Daily_HuskExtermination_Outlander_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_outlander",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11164,7 +11164,7 @@
       "Daily_HuskExtermination_Ranged_Assault_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_assault",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11173,7 +11173,7 @@
       "Daily_HuskExtermination_Ranged_Assault_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_assault",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11182,7 +11182,7 @@
       "Daily_HuskExtermination_Ranged_Pistol_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_pistol",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11191,7 +11191,7 @@
       "Daily_HuskExtermination_Ranged_Pistol_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_pistol",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11200,7 +11200,7 @@
       "Daily_HuskExtermination_Ranged_Shotgun_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_shotgun",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11209,7 +11209,7 @@
       "Daily_HuskExtermination_Ranged_Shotgun_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_shotgun",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11218,7 +11218,7 @@
       "Daily_HuskExtermination_Ranged_SMG_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_smg",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11227,7 +11227,7 @@
       "Daily_HuskExtermination_Ranged_SMG_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_smg",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11236,7 +11236,7 @@
       "Daily_HuskExtermination_Ranged_Sniper_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_sniper",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11245,7 +11245,7 @@
       "Daily_HuskExtermination_Ranged_Sniper_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_ranged_sniper",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11254,7 +11254,7 @@
       "Daily_HuskExtermination_Soldier_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_soldier",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11263,7 +11263,7 @@
       "Daily_HuskExtermination_Soldier_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_soldier",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11272,7 +11272,7 @@
       "Daily_HuskExtermination_Trap_001": {
         "QuestTemplateId": "Quest:daily_huskextermination_trap",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11281,7 +11281,7 @@
       "Daily_HuskExtermination_Trap_002": {
         "QuestTemplateId": "Quest:daily_huskextermination_trap",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11290,7 +11290,7 @@
       "Daily_Mission_BuildRadar_001": {
         "QuestTemplateId": "Quest:daily_mission_buildradar",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11299,7 +11299,7 @@
       "Daily_Mission_BuildRadar_002": {
         "QuestTemplateId": "Quest:daily_mission_buildradar",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11308,7 +11308,7 @@
       "Daily_Mission_Specialist_AnyHero_1_001": {
         "QuestTemplateId": "Quest:daily_mission_specialist_anyhero_1",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11317,7 +11317,7 @@
       "Daily_Mission_Specialist_AnyHero_1_002": {
         "QuestTemplateId": "Quest:daily_mission_specialist_anyhero_1",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11326,7 +11326,7 @@
       "Daily_Mission_Specialist_AnyHero_2_001": {
         "QuestTemplateId": "Quest:daily_mission_specialist_anyhero_2",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 400,
+        "Quantity": 410,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11335,7 +11335,7 @@
       "Daily_Mission_Specialist_AnyHero_2_002": {
         "QuestTemplateId": "Quest:daily_mission_specialist_anyhero_2",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 100,
+        "Quantity": 130,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11344,7 +11344,7 @@
       "Daily_Mission_Specialist_Constructor_001": {
         "QuestTemplateId": "Quest:daily_mission_specialist_constructor",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11353,7 +11353,7 @@
       "Daily_Mission_Specialist_Constructor_002": {
         "QuestTemplateId": "Quest:daily_mission_specialist_constructor",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 60,
+        "Quantity": 90,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11362,7 +11362,7 @@
       "Daily_Mission_Specialist_Ninja_001": {
         "QuestTemplateId": "Quest:daily_mission_specialist_ninja",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11371,7 +11371,7 @@
       "Daily_Mission_Specialist_Ninja_002": {
         "QuestTemplateId": "Quest:daily_mission_specialist_ninja",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 60,
+        "Quantity": 90,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11380,7 +11380,7 @@
       "Daily_Mission_Specialist_Outlander_001": {
         "QuestTemplateId": "Quest:daily_mission_specialist_outlander",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11389,7 +11389,7 @@
       "Daily_Mission_Specialist_Outlander_002": {
         "QuestTemplateId": "Quest:daily_mission_specialist_outlander",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 60,
+        "Quantity": 90,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11398,7 +11398,7 @@
       "Daily_Mission_Specialist_Soldier_001": {
         "QuestTemplateId": "Quest:daily_mission_specialist_soldier",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11407,7 +11407,7 @@
       "Daily_Mission_Specialist_Soldier_002": {
         "QuestTemplateId": "Quest:daily_mission_specialist_soldier",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 60,
+        "Quantity": 90,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11416,7 +11416,7 @@
       "Daily_PartyOf50_001": {
         "QuestTemplateId": "Quest:daily_partyof50",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11425,7 +11425,7 @@
       "Daily_PartyOf50_002": {
         "QuestTemplateId": "Quest:daily_partyof50",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11434,7 +11434,7 @@
       "Daily_Safes_001": {
         "QuestTemplateId": "Quest:daily_safes",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11443,7 +11443,7 @@
       "Daily_Safes_002": {
         "QuestTemplateId": "Quest:daily_safes",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11452,7 +11452,7 @@
       "Daily_TreasureChests_001": {
         "QuestTemplateId": "Quest:daily_treasurechests",
         "TemplateId": "AccountResource:eventcurrency_scaling",
-        "Quantity": 240,
+        "Quantity": 250,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -11461,7 +11461,7 @@
       "Daily_TreasureChests_002": {
         "QuestTemplateId": "Quest:daily_treasurechests",
         "TemplateId": "AccountResource:currency_mtxswap",
-        "Quantity": 50,
+        "Quantity": 80,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13089,8 +13089,8 @@
       },
       "FoundersQuest_GetRewards_0_1_008": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_0_1",
-        "TemplateId": "DailyRewardScheduleToken:founderspackdailyrewardtoken",
-        "Quantity": 7,
+        "TemplateId": "AccountResource:voucher_cardpack_bronze",
+        "Quantity": 6,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13098,7 +13098,7 @@
       },
       "FoundersQuest_GetRewards_0_1_009": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_0_1",
-        "TemplateId": "AthenaGlider:glider_id_161_roseleader",
+        "TemplateId": "AccountResource:voucher_cardpack_event_founders",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
@@ -13107,7 +13107,7 @@
       },
       "FoundersQuest_GetRewards_0_1_010": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_0_1",
-        "TemplateId": "AthenaPickaxe:pickaxe_id_237_warpaint",
+        "TemplateId": "AthenaGlider:glider_id_161_roseleader",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
@@ -13116,7 +13116,7 @@
       },
       "FoundersQuest_GetRewards_0_1_011": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_0_1",
-        "TemplateId": "AthenaGlider:founderglider",
+        "TemplateId": "AthenaPickaxe:pickaxe_id_237_warpaint",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
@@ -13124,6 +13124,15 @@
         "Exportable": true
       },
       "FoundersQuest_GetRewards_0_1_012": {
+        "QuestTemplateId": "Quest:foundersquest_getrewards_0_1",
+        "TemplateId": "AthenaGlider:founderglider",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "FoundersQuest_GetRewards_0_1_013": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_0_1",
         "TemplateId": "AthenaDance:eid_ridethepony_athena",
         "Quantity": 1,
@@ -13135,7 +13144,7 @@
       "FoundersQuest_GetRewards_1_2_001": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_1_2",
         "TemplateId": "AccountResource:voucher_cardpack_bronze",
-        "Quantity": 5,
+        "Quantity": 23,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13224,8 +13233,8 @@
       },
       "FoundersQuest_GetRewards_1_2_011": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_1_2",
-        "TemplateId": "DailyRewardScheduleToken:founderspackdailyrewardtoken",
-        "Quantity": 21,
+        "TemplateId": "AccountResource:voucher_cardpack_event_founders",
+        "Quantity": 3,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13431,14 +13440,23 @@
       },
       "FoundersQuest_GetRewards_2_3_008": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_2_3",
-        "TemplateId": "DailyRewardScheduleToken:founderspackdailyrewardtoken",
-        "Quantity": 14,
+        "TemplateId": "AccountResource:voucher_cardpack_bronze",
+        "Quantity": 12,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
       },
       "FoundersQuest_GetRewards_2_3_009": {
+        "QuestTemplateId": "Quest:foundersquest_getrewards_2_3",
+        "TemplateId": "AccountResource:voucher_cardpack_event_founders",
+        "Quantity": 2,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "FoundersQuest_GetRewards_2_3_010": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_2_3",
         "TemplateId": "Token:accountinventorybonus",
         "Quantity": 50,
@@ -13447,7 +13465,7 @@
         "Selectable": false,
         "Exportable": true
       },
-      "FoundersQuest_GetRewards_2_3_010": {
+      "FoundersQuest_GetRewards_2_3_011": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_2_3",
         "TemplateId": "Token:founderchatunlock",
         "Quantity": 1,
@@ -13459,7 +13477,7 @@
       "FoundersQuest_GetRewards_3_4_001": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_3_4",
         "TemplateId": "AccountResource:voucher_cardpack_bronze",
-        "Quantity": 10,
+        "Quantity": 46,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13503,8 +13521,8 @@
       },
       "FoundersQuest_GetRewards_3_4_006": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_3_4",
-        "TemplateId": "DailyRewardScheduleToken:founderspackdailyrewardtoken",
-        "Quantity": 42,
+        "TemplateId": "AccountResource:voucher_cardpack_event_founders",
+        "Quantity": 6,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13531,7 +13549,7 @@
       "FoundersQuest_GetRewards_4_5_001": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_4_5",
         "TemplateId": "AccountResource:voucher_cardpack_bronze",
-        "Quantity": 10,
+        "Quantity": 46,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -13620,8 +13638,8 @@
       },
       "FoundersQuest_GetRewards_4_5_011": {
         "QuestTemplateId": "Quest:foundersquest_getrewards_4_5",
-        "TemplateId": "DailyRewardScheduleToken:founderspackdailyrewardtoken",
-        "Quantity": 42,
+        "TemplateId": "AccountResource:voucher_cardpack_event_founders",
+        "Quantity": 6,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -19513,6 +19531,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "OutpostQuest_T1_L3_018": {
+        "QuestTemplateId": "Quest:outpostquest_t1_l3",
+        "TemplateId": "CardPack:cardpack_trap_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "OutpostQuest_T1_L4_001": {
         "QuestTemplateId": "Quest:outpostquest_t1_l4",
         "TemplateId": "AccountResource:currency_mtxswap",
@@ -19612,6 +19639,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "OutpostQuest_T1_L4_012": {
+        "QuestTemplateId": "Quest:outpostquest_t1_l4",
+        "TemplateId": "CardPack:cardpack_trap_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "OutpostQuest_T1_L5_001": {
         "QuestTemplateId": "Quest:outpostquest_t1_l5",
         "TemplateId": "CardPack:cardpack_worker_r",
@@ -19689,6 +19725,15 @@
         "TemplateId": "Quest:stonewoodquest_fetch_directorstuff",
         "Quantity": 1,
         "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "OutpostQuest_T1_L6_004": {
+        "QuestTemplateId": "Quest:outpostquest_t1_l6",
+        "TemplateId": "CardPack:cardpack_trap_r",
+        "Quantity": 1,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -19869,6 +19914,15 @@
         "TemplateId": "Quest:plankertonquest_autumnfoothills_destroy",
         "Quantity": 1,
         "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "OutpostQuest_T2_L1_015": {
+        "QuestTemplateId": "Quest:outpostquest_t2_l1",
+        "TemplateId": "CardPack:cardpack_hero_r",
+        "Quantity": 1,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -23203,6 +23257,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "PlankertonQuest_Fetch_SearchingForLab_004": {
+        "QuestTemplateId": "Quest:plankertonquest_fetch_searchingforlab",
+        "TemplateId": "CardPack:cardpack_manager_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "PlankertonQuest_Filler_1_D1_001": {
         "QuestTemplateId": "Quest:plankertonquest_filler_1_d1",
         "TemplateId": "AccountResource:heroxp",
@@ -23505,6 +23568,15 @@
         "TemplateId": "Quest:reactivequest_findpop",
         "Quantity": 1,
         "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "PlankertonQuest_Filler_3_D1_004": {
+        "QuestTemplateId": "Quest:plankertonquest_filler_3_d1",
+        "TemplateId": "CardPack:cardpack_defender_r",
+        "Quantity": 1,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -24270,6 +24342,15 @@
         "TemplateId": "Quest:plankertonquest_filler_1_d3",
         "Quantity": 1,
         "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "PlankertonQuest_Outpost_L3_007": {
+        "QuestTemplateId": "Quest:plankertonquest_outpost_l3",
+        "TemplateId": "CardPack:cardpack_hero_sr",
+        "Quantity": 1,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -25525,6 +25606,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "ReactiveQuest_FindPop_003": {
+        "QuestTemplateId": "Quest:reactivequest_findpop",
+        "TemplateId": "CardPack:cardpack_hero_vr",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "ReactiveQuest_FireHusks_001": {
         "QuestTemplateId": "Quest:reactivequest_firehusks",
         "TemplateId": "AccountResource:schematicxp",
@@ -26250,6 +26340,15 @@
         "TemplateId": "Quest:plankertonquest_filler_5_d2",
         "Quantity": 1,
         "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "ReactiveQuest_RiftData_004": {
+        "QuestTemplateId": "Quest:reactivequest_riftdata",
+        "TemplateId": "CardPack:cardpack_worker_vr",
+        "Quantity": 1,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -31276,6 +31375,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "StonewoodQuest_CloseGate_D1_006": {
+        "QuestTemplateId": "Quest:stonewoodquest_closegate_d1",
+        "TemplateId": "CardPack:cardpack_ranged_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "StonewoodQuest_Fetch_DirectorStuff_001": {
         "QuestTemplateId": "Quest:stonewoodquest_fetch_directorstuff",
         "TemplateId": "AccountResource:personnelxp",
@@ -31375,6 +31483,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "StonewoodQuest_Fetch_ResearchCrates_006": {
+        "QuestTemplateId": "Quest:stonewoodquest_fetch_researchcrates",
+        "TemplateId": "CardPack:cardpack_ranged_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "StonewoodQuest_Fetch_StormCalls_001": {
         "QuestTemplateId": "Quest:stonewoodquest_fetch_stormcalls",
         "TemplateId": "AccountResource:schematicxp",
@@ -31465,6 +31582,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "StonewoodQuest_Fetch_TrashCans_007": {
+        "QuestTemplateId": "Quest:stonewoodquest_fetch_trashcans",
+        "TemplateId": "CardPack:cardpack_melee_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "StonewoodQuest_Fetch_TriangulatingPop_001": {
         "QuestTemplateId": "Quest:stonewoodquest_fetch_triangulatingpop",
         "TemplateId": "Quest:outpostquest_t1_l6",
@@ -31477,6 +31603,15 @@
       "StonewoodQuest_Fetch_TriangulatingPop_002": {
         "QuestTemplateId": "Quest:stonewoodquest_fetch_triangulatingpop",
         "TemplateId": "Weapon:wid_blunt_hammer_heavy_sr_ore_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StonewoodQuest_Fetch_TriangulatingPop_003": {
+        "QuestTemplateId": "Quest:stonewoodquest_fetch_triangulatingpop",
+        "TemplateId": "CardPack:cardpack_melee_r",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
@@ -31735,6 +31870,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "StonewoodQuest_GatherCollect_ArmoryUpgrade_004": {
+        "QuestTemplateId": "Quest:stonewoodquest_gathercollect_armoryupgrade",
+        "TemplateId": "AccountResource:voucher_basicpack",
+        "Quantity": 2,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "StonewoodQuest_Hidden_HasItems_001": {
         "QuestTemplateId": "Quest:stonewoodquest_hidden_hasitems",
         "TemplateId": "HomebaseNode:questreward_recyclecollection",
@@ -31861,6 +32005,15 @@
         "Selectable": false,
         "Exportable": true
       },
+      "StonewoodQuest_KillCollect_MistMonsters_005": {
+        "QuestTemplateId": "Quest:stonewoodquest_killcollect_mistmonsters",
+        "TemplateId": "CardPack:cardpack_ranged_r",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
       "StonewoodQuest_Landmark_BuildOff_001": {
         "QuestTemplateId": "Quest:stonewoodquest_landmark_buildoff",
         "TemplateId": "HomebaseNode:questreward_buildingupgradelevel",
@@ -31947,6 +32100,15 @@
         "TemplateId": "Quest:tutorial_loadout_support2",
         "Quantity": 1,
         "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "StonewoodQuest_Landmark_BuildOff_011": {
+        "QuestTemplateId": "Quest:stonewoodquest_landmark_buildoff",
+        "TemplateId": "AccountResource:voucher_basicpack",
+        "Quantity": 1,
+        "Hidden": false,
         "Feature": false,
         "Selectable": false,
         "Exportable": true
@@ -48052,7 +48214,7 @@
         "Selectable": false,
         "Exportable": true
       },
-      "StonewoodQuest_Fetch_ResearchCrates_006": {
+      "StonewoodQuest_Fetch_ResearchCrates_007": {
         "QuestTemplateId": "Quest:stonewoodquest_fetch_researchcrates",
         "TemplateId": "AccountResource:currency_xrayllama",
         "Quantity": 100,
@@ -48061,7 +48223,7 @@
         "Selectable": false,
         "Exportable": true
       },
-      "StonewoodQuest_Fetch_TrashCans_007": {
+      "StonewoodQuest_Fetch_TrashCans_008": {
         "QuestTemplateId": "Quest:stonewoodquest_fetch_trashcans",
         "TemplateId": "AccountResource:currency_xrayllama",
         "Quantity": 200,
@@ -48074,6 +48236,15 @@
         "QuestTemplateId": "Quest:reactivequest_supplyrun",
         "TemplateId": "AccountResource:currency_xrayllama",
         "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "ReactiveQuest_SupplyRun_004": {
+        "QuestTemplateId": "Quest:reactivequest_supplyrun",
+        "TemplateId": "Schematic:sid_pistol_firecracker_r_ore_t01",
+        "Quantity": 1,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,
@@ -50468,6 +50639,285 @@
         "QuestTemplateId": "Quest:hordev3_quest_weekly_w08",
         "TemplateId": "AthenaDance:spray_stwhordemodemvp_lvl5",
         "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W10_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w10",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 115,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W20_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w20",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 125,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W30_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w30",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 75,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W15_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w15",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 160,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W30_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w30",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 105,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W15_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w15",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 205,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W15_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w15",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W10_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w10",
+        "TemplateId": "AccountResource:reagent_alteration_generic",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W30_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w30",
+        "TemplateId": "AccountResource:reagent_alteration_generic",
+        "Quantity": 55,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W30_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w30",
+        "TemplateId": "AccountResource:reagent_alteration_generic",
+        "Quantity": 75,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W10_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w10",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_r",
+        "Quantity": 70,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W25_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w25",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_sr",
+        "Quantity": 90,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W30_003": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w30",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_sr",
+        "Quantity": 60,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W25_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w25",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_uc",
+        "Quantity": 80,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W30_003": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w30",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_uc",
+        "Quantity": 40,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W25_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w25",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_vr",
+        "Quantity": 90,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W30_003": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w30",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_vr",
+        "Quantity": 50,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W10_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w10",
+        "TemplateId": "AccountResource:reagent_alteration_upgrade_vr",
+        "Quantity": 70,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W05_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w05",
+        "TemplateId": "AccountResource:reagent_c_t01",
+        "Quantity": 10,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W15_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w15",
+        "TemplateId": "AccountResource:reagent_c_t01",
+        "Quantity": 10,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W25_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w25",
+        "TemplateId": "AccountResource:reagent_c_t01",
+        "Quantity": 15,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T01_W30_003": {
+        "QuestTemplateId": "Quest:endurancedaily_t01_w30",
+        "TemplateId": "AccountResource:reagent_c_t01",
+        "Quantity": 10,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W05_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w05",
+        "TemplateId": "AccountResource:reagent_c_t01",
+        "Quantity": 20,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W20_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w20",
+        "TemplateId": "AccountResource:reagent_c_t02",
+        "Quantity": 12,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T02_W30_004": {
+        "QuestTemplateId": "Quest:endurancedaily_t02_w30",
+        "TemplateId": "AccountResource:reagent_c_t02",
+        "Quantity": 5,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W05_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w05",
+        "TemplateId": "AccountResource:reagent_c_t02",
+        "Quantity": 20,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W20_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w20",
+        "TemplateId": "AccountResource:reagent_c_t03",
+        "Quantity": 12,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T03_W30_004": {
+        "QuestTemplateId": "Quest:endurancedaily_t03_w30",
+        "TemplateId": "AccountResource:reagent_c_t03",
+        "Quantity": 10,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W05_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w05",
+        "TemplateId": "AccountResource:reagent_c_t03",
+        "Quantity": 20,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W20_002": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w20",
+        "TemplateId": "AccountResource:reagent_c_t04",
+        "Quantity": 12,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "EnduranceDaily_T04_W30_004": {
+        "QuestTemplateId": "Quest:endurancedaily_t04_w30",
+        "TemplateId": "AccountResource:reagent_c_t04",
+        "Quantity": 20,
         "Hidden": false,
         "Feature": false,
         "Selectable": false,

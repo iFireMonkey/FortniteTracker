@@ -313,8 +313,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenTemple",
-            "SourceString": "[Hidden Temple]",
-            "LocalizedString": "[Hidden Temple]"
+            "SourceString": "Hidden Ruin",
+            "LocalizedString": "Hidden Ruin"
           },
           "WorldLocation": {
             "X": 47112.0,
@@ -376,10 +376,10 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
+            "AssetPathName": "None",
+            "SubPathString": null
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_FishyIceberg",
+          "DiscoverObjectiveBackendName": "None",
           "ActiveDiscoverableBlodIds": [
             118
           ]
@@ -506,29 +506,6 @@
           "ActiveDiscoverableBlodIds": [
             120
           ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_AmanaStones3",
-            "SourceString": "Mossy Monoliths",
-            "LocalizedString": "Mossy Monoliths"
-          },
-          "WorldLocation": {
-            "X": 28520.0,
-            "Y": -77356.0,
-            "Z": 3064.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.AmanaStones3"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "None",
-          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -682,8 +659,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenTemple",
-            "SourceString": "[Hidden Temple]",
-            "LocalizedString": "[Hidden Temple]"
+            "SourceString": "Hidden Ruin",
+            "LocalizedString": "Hidden Ruin"
           },
           "WorldLocation": {
             "X": 49996.0,
@@ -824,8 +801,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenTemple",
-            "SourceString": "[Hidden Temple]",
-            "LocalizedString": "[Hidden Temple]"
+            "SourceString": "Hidden Ruin",
+            "LocalizedString": "Hidden Ruin"
           },
           "WorldLocation": {
             "X": 44364.0,
@@ -1412,8 +1389,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_CargoCrash",
-            "SourceString": "Mayday Meadow",
-            "LocalizedString": "Mayday Meadow"
+            "SourceString": "Mayday Landing",
+            "LocalizedString": "Mayday Landing"
           },
           "WorldLocation": {
             "X": 76896.0,
@@ -1970,29 +1947,6 @@
           "ActiveDiscoverableBlodIds": [
             65
           ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_AmanaStones2",
-            "SourceString": "Mountain Monoliths",
-            "LocalizedString": "Mountain Monoliths"
-          },
-          "WorldLocation": {
-            "X": 86552.0,
-            "Y": -1536.0,
-            "Z": 3064.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.AmanaStones2"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_AmanaStones2",
-          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
