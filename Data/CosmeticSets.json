@@ -10616,7 +10616,7 @@
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.OctoQuest_DisplayName",
           "SourceString": "The Inkquisition",
-          "LocalizedString": "Unfathomable"
+          "LocalizedString": "The Inkquisition"
         },
         "Description": {
           "CultureInvariantString": null
@@ -11931,8 +11931,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.ArchFlawed_DisplayName",
-          "SourceString": "Set_01",
-          "LocalizedString": "Set_01"
+          "SourceString": "Heroes of Tamriel",
+          "LocalizedString": "Heroes of Tamriel"
         },
         "Description": {
           "CultureInvariantString": null
@@ -11961,6 +11961,90 @@
           "Key": "Cosmetics.Set.FallAccount_DisplayName",
           "SourceString": "Descent's Reckoning",
           "LocalizedString": "Descent's Reckoning"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VanLayer": {
+        "tag": {
+          "TagName": "Cosmetics.Set.VanLayer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VanLayer_DisplayName",
+          "SourceString": "Futurama",
+          "LocalizedString": "Futurama"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FuzzySleeps": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FuzzySleeps"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FuzzySleeps_DisplayName",
+          "SourceString": "Hazy Dreambeats",
+          "LocalizedString": "Hazy Dreambeats"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MotionGuard": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MotionGuard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MotionGuard_DisplayName",
+          "SourceString": "Kinetic Knight",
+          "LocalizedString": "Kinetic Knight"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TimelessKing": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TimelessKing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TimelessKing_DisplayName",
+          "SourceString": "Ageless Royalty",
+          "LocalizedString": "Ageless Royalty"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NightMarcher": {
+        "tag": {
+          "TagName": "Cosmetics.Set.NightMarcher"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NightMarcher_DisplayName",
+          "SourceString": "Shadow Walker",
+          "LocalizedString": "Shadow Walker"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GlintTravel": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GlintTravel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlintTravel_DisplayName",
+          "SourceString": "Spark of Adventure",
+          "LocalizedString": "Spark of Adventure"
         },
         "Description": {
           "CultureInvariantString": null
