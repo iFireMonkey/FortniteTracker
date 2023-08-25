@@ -506,6 +506,7 @@
     "NoTargetedRHI": "The project does not target Vulkan or OpenGL RHIs, check project settings or pass -nullrhi.",
     "NoOpenGLTargetedRHI": "Trying to force OpenGL RHI but the project does not have it in TargetedRHIs list.",
     "NoVulkanTargetedRHI": "Trying to force Vulkan RHI but the project does not have it in TargetedRHIs list.",
+    "UnsupportedVulkanTargetedRHI": "Trying to force specific Vulkan feature level but it is not supported.",
     "RequiredVulkan": "Vulkan Driver is required to run the engine.",
     "NoVulkanNoGL": "Vulkan or OpenGL (4.3) support is required to run the engine.",
     "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. Vulkan will be used instead."

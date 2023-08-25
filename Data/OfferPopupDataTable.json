@@ -318,16 +318,16 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "640C6A7C4FEA1AA234A054A141D3DE11",
-          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party on Oct 31 or Nov 1!",
-          "LocalizedString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party on Oct 31 or Nov 1!"
+          "SourceString": "On eliminations, the reactive <text color=\"FFFFFFFF\">FIGHT OR FLIGHT</> style will turn red.",
+          "LocalizedString": "On eliminations, the reactive <text color=\"FFFFFFFF\">FIGHT OR FLIGHT</> style will turn red."
         }
       },
       "unlockjbalvinstyleafterlife": {
         "FormatedText": {
           "Namespace": "",
           "Key": "9793C88C44901EAB4261878BBD6F7E2A",
-          "SourceString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party!",
-          "LocalizedString": "Unlock the exclusive J Balvin style for Party Trooper by attending the Afterlife Party!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">READY UP</> Emote to transform! The <text color=\"FFFFFFFF\">TARR</> style and the <text color=\"FFFFFFFF\">TARR'S HEART</> Back Bling will react with glitch effects on eliminations.",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">READY UP</> Emote to transform! The <text color=\"FFFFFFFF\">TARR</> style and the <text color=\"FFFFFFFF\">TARR'S HEART</> Back Bling will react with glitch effects on eliminations."
         }
       },
       "reactivejekyllemote": {
@@ -350,8 +350,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "D6E638B346C2B3701C9B0A93DF6C7ABD",
-          "SourceString": "Unlock the exclusive J Balvin style now and attend the Afterlife show in Party Royale!",
-          "LocalizedString": "Unlock the exclusive J Balvin style now and attend the Afterlife show in Party Royale!"
+          "SourceString": "The screen on the <text color=\"FFFFFFFF\">END GAME</> Back Bling changes when taking damage!",
+          "LocalizedString": "The screen on the <text color=\"FFFFFFFF\">END GAME</> Back Bling changes when taking damage!"
         }
       },
       "unlockjbalvinstyleattenddate": {
@@ -382,8 +382,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "79D1E6224AFECDD001AFA1813ECF26A5",
-          "SourceString": "Unlock the J Balvin style for Party Trooper with your purchase. Enjoy the Afterlife show in Party Royale!",
-          "LocalizedString": "Unlock the J Balvin style for Party Trooper with your purchase. Enjoy the Afterlife show in Party Royale!"
+          "SourceString": "Use the <text color=\"FFFFFFFF\">READY UP</> Emote to transform between the <text color=\"FFFFFFFF\">AVA</> and <text color=\"FFFFFFFF\">TARR</> styles! Bundle includes Loading Screen.",
+          "LocalizedString": "Use the <text color=\"FFFFFFFF\">READY UP</> Emote to transform between the <text color=\"FFFFFFFF\">AVA</> and <text color=\"FFFFFFFF\">TARR</> styles! Bundle includes Loading Screen."
         }
       },
       "reactivewraplight": {
@@ -1030,8 +1030,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "FF8D143B49BAE81C9F647F84C48E0D2A",
-          "SourceString": "FNCS Chapter 2 Season 7 Finals Exclusive!",
-          "LocalizedString": "FNCS Chapter 2 Season 7 Finals Exclusive!"
+          "SourceString": "Only <text color=\"FFFFFFFF\">ASH WILLIAMS</> can use the <text color=\"FFFFFFFF\">CHAINSAW HAND</> Pickaxe. The <text color=\"FFFFFFFF\">NECRONOMICON EX-MORTIS</> Back Bling opens with every elimination!",
+          "LocalizedString": "Only <text color=\"FFFFFFFF\">ASH WILLIAMS</> can use the <text color=\"FFFFFFFF\">CHAINSAW HAND</> Pickaxe. The <text color=\"FFFFFFFF\">NECRONOMICON EX-MORTIS</> Back Bling opens with every elimination!"
         }
       },
       "galaxybackpackinspect": {
@@ -2278,8 +2278,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "A17890AF4345F9EBD2D2E5A82A685D76",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Available until August 21 at 8pm ET.",
+          "LocalizedString": "Available until August 21 at 8pm ET."
         }
       },
       "promodesc83": {
@@ -2710,8 +2710,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "8980C2234B8195490C773A85440B1284",
-          "SourceString": "Customize with 2 styles and 16 color options!",
-          "LocalizedString": "Customize with 2 styles and 16 color options!"
+          "SourceString": "Customize <text color=\"FFFFFFFF\">ELITE STRIKER SEPHIRA</> with 2 base styles and 16 color options!",
+          "LocalizedString": "Customize <text color=\"FFFFFFFF\">ELITE STRIKER SEPHIRA</> with 2 base styles and 16 color options!"
         }
       },
       "mindpinch": {
@@ -2728,6 +2728,14 @@
           "Key": "25F35A42492EADC3A19FA8A970554C7C",
           "SourceString": "Customize with 16 color options!",
           "LocalizedString": "Customize with 16 color options!"
+        }
+      },
+      "rollerblade": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "473C46E84E8FB94896860F9C9FE631A4",
+          "SourceString": "Unleash the <text color=\"FFFFFFFF\">DISARM-HER BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DISARM-HER SHIELD</> Back Bling when both are equipped!",
+          "LocalizedString": "Unleash the <text color=\"FFFFFFFF\">DISARM-HER BLADE</> Pickaxe from the <text color=\"FFFFFFFF\">DISARM-HER SHIELD</> Back Bling when both are equipped!"
         }
       }
     }

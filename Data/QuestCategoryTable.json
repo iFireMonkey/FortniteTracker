@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests15": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests15_Name",
+          "SourceString": "Untask'd Courier Starter Bundle",
+          "LocalizedString": "Untask'd Courier Starter Bundle"
+        },
+        "SortPriority": 490
+      },
       "StarterBundleQuests14": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -331,6 +340,15 @@
           "Key": "LTE_Brainstorm_Name",
           "SourceString": "Event: Eye of the Brainstorm",
           "LocalizedString": "Event: Eye of the Brainstorm"
+        },
+        "SortPriority": 52
+      },
+      "LTE_Raptor": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Raptor_Name",
+          "SourceString": "Event: Raptor Wrangler",
+          "LocalizedString": "Event: Raptor Wrangler"
         },
         "SortPriority": 52
       },

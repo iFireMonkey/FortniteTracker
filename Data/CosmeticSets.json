@@ -12049,6 +12049,300 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.CleanWard": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CleanWard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CleanWard_DisplayName",
+          "SourceString": "Jujutsu Kaisen",
+          "LocalizedString": "Jujutsu Kaisen"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SlipJudge": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SlipJudge"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SlipJudge_DisplayName",
+          "SourceString": "Becky Lynch",
+          "LocalizedString": "Becky Lynch"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HoverTruth": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HoverTruth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HoverTruth_DisplayName",
+          "SourceString": "Bianca Belair",
+          "LocalizedString": "Bianca Belair"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.QueenOcean": {
+        "tag": {
+          "TagName": "Cosmetics.Set.QueenOcean"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QueenOcean_DisplayName",
+          "SourceString": "Belle of the Beach",
+          "LocalizedString": "Belle of the Beach"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MobAgent": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MobAgent"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MobAgent_DisplayName",
+          "SourceString": "Underworld Operative",
+          "LocalizedString": "Underworld Operative"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DeathCipher": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DeathCipher"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DeathCipher_DisplayName",
+          "SourceString": "Extinction Code",
+          "LocalizedString": "Extinction Code"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MaskedDesign": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MaskedDesign"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MaskedDesign_DisplayName",
+          "SourceString": "Masqued Maven",
+          "LocalizedString": "Masqued Maven"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SwoleChum": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SwoleChum"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SwoleChum_DisplayName",
+          "SourceString": "Buffer Fish",
+          "LocalizedString": "Buffer Fish"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CuteHack": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CuteHack"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CuteHack_DisplayName",
+          "SourceString": "4d0rabl3!",
+          "LocalizedString": "4d0rabl3!"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MindVeil": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MindVeil"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MindVeil_DisplayName",
+          "SourceString": "Psionic Eclipse",
+          "LocalizedString": "Psionic Eclipse"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RadicalBrain": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RadicalBrain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RadicalBrain_DisplayName",
+          "SourceString": "Maverick Mastermind",
+          "LocalizedString": "Maverick Mastermind"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GoodDrop": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GoodDrop"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoodDrop_DisplayName",
+          "SourceString": "Clutch Delivery",
+          "LocalizedString": "Clutch Delivery"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RankWalk": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RankWalk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RankWalk_DisplayName",
+          "SourceString": "Viral Sensation",
+          "LocalizedString": "Viral Sensation"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PrideEnvoy": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PrideEnvoy"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PrideEnvoy_DisplayName",
+          "SourceString": "Honor's Emissary",
+          "LocalizedString": "Honor's Emissary"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LightTooth": {
+        "tag": {
+          "TagName": "Cosmetics.Set.LightTooth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LightTooth_DisplayName",
+          "SourceString": "Starfang",
+          "LocalizedString": "Starfang"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SnakeFlower": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SnakeFlower"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SnakeFlower_DisplayName",
+          "SourceString": "Cobra Lily",
+          "LocalizedString": "Cobra Lily"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FungusNinja": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FungusNinja"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FungusNinja_DisplayName",
+          "SourceString": "Set_02",
+          "LocalizedString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StarTrip": {
+        "tag": {
+          "TagName": "Cosmetics.Set.StarTrip"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StarTrip_DisplayName",
+          "SourceString": "Set_01",
+          "LocalizedString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FallProtect": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FallProtect"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FallProtect_DisplayName",
+          "SourceString": "Autumnwood Guardian",
+          "LocalizedString": "Autumnwood Guardian"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.JoblessMail": {
+        "tag": {
+          "TagName": "Cosmetics.Set.JoblessMail"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.JoblessMail_DisplayName",
+          "SourceString": "Untask'd Courier",
+          "LocalizedString": "Untask'd Courier"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SitRuin": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SitRuin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SitRuin_DisplayName",
+          "SourceString": "Ahsoka Tano",
+          "LocalizedString": "Ahsoka Tano"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

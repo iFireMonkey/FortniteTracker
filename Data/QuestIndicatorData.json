@@ -362,31 +362,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FishyIceberg",
-            "SourceString": "Fishy Floe",
-            "LocalizedString": "Fishy Floe"
-          },
-          "WorldLocation": {
-            "X": 115708.0,
-            "Y": 71092.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FishyIceberg"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "None",
-            "SubPathString": null
-          },
-          "DiscoverObjectiveBackendName": "None",
-          "ActiveDiscoverableBlodIds": [
-            118
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindyCanyon",
             "SourceString": "Gusty Gorge",
             "LocalizedString": "Gusty Gorge"
@@ -850,29 +825,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_RiftGateTower",
-            "SourceString": "Warden's Watch",
-            "LocalizedString": "Warden's Watch"
-          },
-          "WorldLocation": {
-            "X": 69132.0,
-            "Y": -79760.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.RiftGateTower"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_RiftGateTower",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Village",
             "SourceString": "Woodsy Ward",
             "LocalizedString": "Woodsy Ward"
@@ -941,6 +893,29 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CoastalGas",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SquadHQ",
+            "SourceString": "The Getaway",
+            "LocalizedString": "The Getaway"
+          },
+          "WorldLocation": {
+            "X": -49224.0,
+            "Y": -37800.0,
+            "Z": 0.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.SquadHQ"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SquadHQ",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -1090,31 +1065,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TowerPoint",
-            "SourceString": "Watery Watch",
-            "LocalizedString": "Watery Watch"
-          },
-          "WorldLocation": {
-            "X": -76104.0,
-            "Y": -97092.0,
-            "Z": 1856.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TowerPoint"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_TowerPoint",
-          "ActiveDiscoverableBlodIds": [
-            45
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_ThunderPagoda",
             "SourceString": "Fireglow Sanctuary",
             "LocalizedString": "Fireglow Sanctuary"
@@ -1190,26 +1140,26 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_IcebergStation",
-            "SourceString": "LONELY LABS",
-            "LocalizedString": "LONELY LABS"
+            "Key": "NameForLocation_Athena_Location_POI_Hotel",
+            "SourceString": "SANGUINE SUITES",
+            "LocalizedString": "SANGUINE SUITES"
           },
           "WorldLocation": {
-            "X": 79412.0,
-            "Y": 66412.0,
+            "X": 93375.41,
+            "Y": 69472.31,
             "Z": 2804.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.IcebergStation"
+            "TagName": "Athena.Location.POI.Hotel"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_ResearchStation",
+          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_Hotel",
           "ActiveDiscoverableBlodIds": [
-            170
+            150
           ]
         },
         {
@@ -1265,31 +1215,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FrozenFrog",
-            "SourceString": "Frigid Frog",
-            "LocalizedString": "Frigid Frog"
-          },
-          "WorldLocation": {
-            "X": 99616.0,
-            "Y": 60924.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FrozenFrog"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_FrozenFrog",
-          "ActiveDiscoverableBlodIds": [
-            210
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SlapStation",
             "SourceString": "Slap N' Gone",
             "LocalizedString": "Slap N' Gone"
@@ -1334,6 +1259,31 @@
           },
           "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_LighthouseEast",
           "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallFarm2",
+            "SourceString": "Rowdy Acres",
+            "LocalizedString": "Rowdy Acres"
+          },
+          "WorldLocation": {
+            "X": -70576.0,
+            "Y": -36704.0,
+            "Z": 2940.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.SmallFarm2"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SmallFarm2",
+          "ActiveDiscoverableBlodIds": [
+            35
+          ]
         },
         {
           "Text": {
@@ -1582,31 +1532,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Mansion",
-            "SourceString": "Meadow Mansion",
-            "LocalizedString": "Meadow Mansion"
-          },
-          "WorldLocation": {
-            "X": -59520.0,
-            "Y": -62080.0,
-            "Z": 852.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Mansion"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_Mansion",
-          "ActiveDiscoverableBlodIds": [
-            175
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_KazeCanyon",
             "SourceString": "Windrush Ravine",
             "LocalizedString": "Windrush Ravine"
@@ -1801,26 +1726,26 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallFarm2",
-            "SourceString": "Rowdy Acres",
-            "LocalizedString": "Rowdy Acres"
+            "Key": "NameForLocation_Athena_Location_POI_Resort",
+            "SourceString": "RELENTLESS RETREAT",
+            "LocalizedString": "RELENTLESS RETREAT"
           },
           "WorldLocation": {
-            "X": -86972.0,
-            "Y": -55104.0,
-            "Z": 852.0
+            "X": -70104.0,
+            "Y": -78080.0,
+            "Z": 2944.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SmallFarm2"
+            "TagName": "Athena.Location.POI.Resort"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SmallFarm2",
+          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_Resort",
           "ActiveDiscoverableBlodIds": [
-            35
+            190
           ]
         },
         {
@@ -1976,24 +1901,24 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_LightCastle",
-            "SourceString": "THE CITADEL",
-            "LocalizedString": "THE CITADEL"
+            "Key": "NameForLocation_Athena_Location_POI_EstateLair",
+            "SourceString": "ECLIPSED ESTATE",
+            "LocalizedString": "ECLIPSED ESTATE"
           },
           "WorldLocation": {
-            "X": 48704.0,
+            "X": 42704.0,
             "Y": -73144.0,
             "Z": 1964.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.LightCastle"
+            "TagName": "Athena.Location.POI.EstateLair"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_LightCastle",
+          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_EstateLair",
           "ActiveDiscoverableBlodIds": [
             220
           ]
