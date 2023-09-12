@@ -1,38 +1,34 @@
 Weight: 1.0
 - Light Fingers (Weapons using light ammo reload faster.)
-- Bluefish Angler (Receive a Fishing Rod. You can use it to fish anywhere, but you can only fish up Shield Fish.)
-- Bloodhound (Enemies hit by your marksman rifle and sniper shots are marked for a brief duration.)
-- Slap Surplus (You find an additional Slap Juice in every treasure chest you open.)
-- Munitions Slide (Gain medium ammo while sliding.)
-- Treasure Hunter (Nearby chests are marked the first time you enter a named Point of Interest.)
-- Dumpster Diving (Spawn loot nearby when leaving Hiding Places. Can occur once per Hiding Place.)
-- Shotgun Recycle (Shotguns have a chance not to consume ammo.)
-- Dignified Finish (Eliminations refresh a Kinetic Blade dash cooldown.)
-- Medium Ammo Amp (Medium ammo weapons have increased magazine size.)
-- Rail Warrior (You regenerate health and partial shields while on Grind Rails or Ziplines, except while in the storm.)
 - First Assault (The first bullet in the magazine of your assault rifle deals bonus damage.)
-- Bush Warrior (You regenerate health and partial shields while inside large foliage, except while in the storm.)
-- Tracker's Armory (Grants a Flare Gun and Shadow Tracker Pistol.)
-- Desperate Reload (Pistols reload faster when reloaded with an empty clip.)
 - Steady Hands (Marksman Rifles have reduced recoil.)
-- SMG Signoff (The last 3 bullets of your SMG magazines deals bonus damage.)
+- SMG Signoff (The last 4 bullets of your SMG magazines deals bonus damage.)
+- Sniper Surplus (Sniper Rifles gain 1 extra ammo in their magazine.)
+- Medium Ammo Acquired (Instantly gain Medium ammo and gain additional medium ammo when opening containers.)
+- Mud Warrior (You regenerate health and partial shields while covered in Mud.)
+- Scoped Salvo (Scoped weapons deal increased damage but have decreased fire rate.)
+- Fast Fisher (Increase swim speed and instantly loot a fishing hole when you swim through it.)
+- Ammo Drop (Instantly gain ammo. Elimated players drop additional ammo.)
+- First Shotgun (Shotguns deal increased damage on the first shot. Does not increase maximum headshot damage.)
+- Pistol Salvo (Pistols have reduced fire rate but increased damage.)
 
-Weight: 0.75
-- Keymaster (Grants two Keys for opening Holo-Chests.)
-- Aquatic Warrior (You move faster while swimming and regenerate health and partial shields, except while in the storm.)
+Weight: 0.8
+- On The Go Bag (Instantly gain mobility consumables and gain additional mobility consumables when opening containers.)
 
-Weight: 0.5
+Weight: 0.6
 - Supercharged (Vehicles you're inside have increased health and only consume fuel while boosting.)
-- More Parkour (Your energy regenerates briefly after mantling.)
-- Icy Slide (Gain icy speed boost while sliding.)
-- Go For Broke (Grants a Charge Shotgun and Flintknock Pistol.)
+- Sprint Lines (Gain Slap effect when using Vines, Rails, Ziplines, and Ascenders.)
 
-Weight: 0.25
-- Aerialist (Gain the ability to deploy your glider.)
-- Exotic Grab Bag (Receive a Random Heisted Exotic Weapon.)
-- Mythic Munition (Receive a Mythic Tactical Pistol.)
+Weight: 0.3
+- Keymaster (Grants two Keys for opening Holo-Chests.)
+- Sniper Striker (Snipers give Siphon on hit against players.)
 
-Weight: 0.1
+Weight: 0.2
 - Rarity Check (You gain siphon on eliminations with common or uncommon weapons.)
-- Shotgun Striker (Shotguns give siphon on hits against players.)
+
+Weight: 0.0
+- High Voltage (Instantly gain a Business Turret and Shield Breaker EMPs. Eliminations grant additional Shield Breaker EMPs.)
+- Storm Chaser (Reduce the amount of stamina drained while tactical sprinting. Reduced further while in the storm.)
+- Roaming Redeploy (Gain Glider Redeploy whenever you gain immunity to fall damage, such as exiting Vines, Rails, Ziplines, or using Hop Flowers.)
+- Explosive Surplus (Instantly gain Rocket ammo and gain additional Rocket ammo when opening containers.)
 
