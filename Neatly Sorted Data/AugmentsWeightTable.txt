@@ -8,9 +8,15 @@ Weight: 1.0
 - Mud Warrior (You regenerate health and partial shields while covered in Mud.)
 - Scoped Salvo (Scoped weapons deal increased damage but have decreased fire rate.)
 - Fast Fisher (Increase swim speed and instantly loot a fishing hole when you swim through it.)
-- Ammo Drop (Instantly gain ammo. Elimated players drop additional ammo.)
+- Ammo Drop (Instantly gain ammo. Eliminated players drop additional ammo.)
 - First Shotgun (Shotguns deal increased damage on the first shot. Does not increase maximum headshot damage.)
 - Pistol Salvo (Pistols have reduced fire rate but increased damage.)
+- High Voltage (Instantly gain a Business Turret and Shield Breaker EMPs. Eliminations grant additional Shield Breaker EMPs.)
+- Explosive Surplus (Instantly gain Rocket ammo and gain additional Rocket ammo when opening containers.)
+- Reckless SMG Reload (SMGs reload faster when reloaded with an empty clip.)
+- Game Time (Grants a Pizza Party and some Chug Splash.)
+- Shell Slide (Gain shotgun shells while sliding.)
+- Bloodhound (Enemies hit by your marksman rifle and sniper shots are revealed for a brief duration.)
 
 Weight: 0.8
 - On The Go Bag (Instantly gain mobility consumables and gain additional mobility consumables when opening containers.)
@@ -18,6 +24,13 @@ Weight: 0.8
 Weight: 0.6
 - Supercharged (Vehicles you're inside have increased health and only consume fuel while boosting.)
 - Sprint Lines (Gain Slap effect when using Vines, Rails, Ziplines, and Ascenders.)
+- Storm Chaser (Reduce the amount of stamina drained while tactical sprinting. Reduced further while in the storm.)
+
+Weight: 0.5
+- Jump Balloon (Gain a Balloon when you jump.)
+
+Weight: 0.4
+- Roaming Redeploy (Gain Glider Redeploy whenever you gain immunity to fall damage, such as exiting Vines, Rails, Ziplines, or using Hop Flowers.)
 
 Weight: 0.3
 - Keymaster (Grants two Keys for opening Holo-Chests.)
@@ -25,10 +38,4 @@ Weight: 0.3
 
 Weight: 0.2
 - Rarity Check (You gain siphon on eliminations with common or uncommon weapons.)
-
-Weight: 0.0
-- High Voltage (Instantly gain a Business Turret and Shield Breaker EMPs. Eliminations grant additional Shield Breaker EMPs.)
-- Storm Chaser (Reduce the amount of stamina drained while tactical sprinting. Reduced further while in the storm.)
-- Roaming Redeploy (Gain Glider Redeploy whenever you gain immunity to fall damage, such as exiting Vines, Rails, Ziplines, or using Hop Flowers.)
-- Explosive Surplus (Instantly gain Rocket ammo and gain additional Rocket ammo when opening containers.)
 
