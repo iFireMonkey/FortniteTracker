@@ -1,7 +1,7 @@
 {
   "refreshIntervalHrs" : 1,
   "dailyPurchaseHrs" : 24,
-  "expiration" : "2023-09-26T08:00:00.000Z",
+  "expiration" : "2023-09-26T10:00:00.000Z",
   "storefronts" : [ {
     "name" : "CurrencyStorefront",
     "catalogEntries" : [ {
@@ -661,6 +661,136 @@
       "sortPriority" : -4,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Banner, 1 x Banner Cape, 1 x Banner Shield, 1 x Emblematic, 1 x Banner Wave, 1 x Custom Cruiser for -1 MtxCurrency",
+      "offerId" : "v2:/1d226a6d897b9ed99cede38a5f301e48bd576182a92819ffda4adc5458118ae6",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel13" ],
+      "prices" : [ ],
+      "dynamicBundleInfo" : {
+        "discountedBasePrice" : -1200,
+        "regularBasePrice" : 0,
+        "floorPrice" : 200,
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "displayType" : "AmountOff",
+        "bundleItems" : [ {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 500,
+          "discountedPrice" : 500,
+          "alreadyOwnedPriceReduction" : 500,
+          "item" : {
+            "templateId" : "AthenaItemWrap:wrap_177_banner",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 400,
+          "discountedPrice" : 400,
+          "alreadyOwnedPriceReduction" : 400,
+          "item" : {
+            "templateId" : "AthenaBackpack:bid_289_banner",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 400,
+          "discountedPrice" : 400,
+          "alreadyOwnedPriceReduction" : 400,
+          "item" : {
+            "templateId" : "AthenaBackpack:bid_334_bannermale",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 500,
+          "discountedPrice" : 500,
+          "alreadyOwnedPriceReduction" : 500,
+          "item" : {
+            "templateId" : "AthenaPickaxe:pickaxe_id_222_banner",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 500,
+          "discountedPrice" : 500,
+          "alreadyOwnedPriceReduction" : 500,
+          "item" : {
+            "templateId" : "AthenaDance:eid_bannerflagwave",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 500,
+          "discountedPrice" : 500,
+          "alreadyOwnedPriceReduction" : 500,
+          "item" : {
+            "templateId" : "AthenaGlider:glider_id_153_banner",
+            "quantity" : 1
+          }
+        } ]
+      },
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Banner_Gear.DAv2_Bundle_Featured_Banner_Gear",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "DoubleWide",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ ],
+      "offerType" : "DynamicBundle",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Banner_Gear.DAv2_Bundle_Featured_Banner_Gear"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade4"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.96"
+      }, {
+        "key" : "TileSize",
+        "value" : "DoubleWide"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR4"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Banner_Gear_Bundle.DA_Featured_Banner_Gear_Bundle",
+      "itemGrants" : [ {
+        "templateId" : "AthenaItemWrap:wrap_177_banner",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaBackpack:bid_289_banner",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaBackpack:bid_334_bannermale",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaPickaxe:pickaxe_id_222_banner",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaDance:eid_bannerflagwave",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaGlider:glider_id_153_banner",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -1,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Musha, 1 x Sashimono, 1 x Hime, 1 x Shiro, 1 x Cat's Claw, 1 x Purrfect for -1 MtxCurrency",
       "offerId" : "v2:/eca45f56a8890e6d9a9113a5fc5a93f4b8327feecbb3fa51035d24c347b89ff1",
       "fulfillmentIds" : [ ],
@@ -991,6 +1121,69 @@
       "sortPriority" : -5,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Board Flair for 300 MtxCurrency",
+      "offerId" : "v2:/c9346ab66af4b3c94a60aa3ed360c445daffa83991faf445f56c0d8b4d3e6436",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel16" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 300,
+        "dynamicRegularPrice" : 300,
+        "finalPrice" : 300,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 300
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_Snowfall_H6LU9.DAv2_EID_Snowfall_H6LU9",
+        "SectionId" : "ChloeKim",
+        "LayoutId" : "ChloeKim.99",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "ChloeKim"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaDance:eid_snowfall_h6lu9",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_Snowfall_H6LU9.DAv2_EID_Snowfall_H6LU9"
+      }, {
+        "key" : "SectionId",
+        "value" : "ChloeKim"
+      }, {
+        "key" : "LayoutId",
+        "value" : "ChloeKim.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "ChloeKim"
+      } ],
+      "itemGrants" : [ {
+        "templateId" : "AthenaDance:eid_snowfall_h6lu9",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -5,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Katsuki Bakugo, 1 x Grenade Backpack for 1500 MtxCurrency",
       "offerId" : "v2:/ddd0c5deba7dd1200368d44558f46c7b6116053bdac698a9e8842dfd03804dde",
       "fulfillmentIds" : [ ],
@@ -1069,6 +1262,240 @@
       "sortPriority" : -4,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Branded Brawler, 1 x Symbol Stalwart, 1 x Signature Sniper, 1 x Lt. Logo for -1 MtxCurrency",
+      "offerId" : "v2:/0ac06498988545413b4df62f094001f3214ee5bcec303930e36ee6dd2929bfe9",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel12" ],
+      "prices" : [ ],
+      "dynamicBundleInfo" : {
+        "discountedBasePrice" : -1200,
+        "regularBasePrice" : 0,
+        "floorPrice" : 400,
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "displayType" : "AmountOff",
+        "bundleItems" : [ {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_448_athena_commando_m_bannerc",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_446_athena_commando_m_bannera",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_447_athena_commando_m_bannerb",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_449_athena_commando_m_bannerd",
+            "quantity" : 1
+          }
+        } ]
+      },
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Banner_Male.DAv2_Bundle_Featured_Banner_Male",
+        "SectionId" : "Bannerbrigade",
+        "LayoutId" : "Bannerbrigade.99",
+        "TileSize" : "DoubleWide",
+        "AnalyticOfferGroupId" : "BannerBrigadeR1"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ ],
+      "offerType" : "DynamicBundle",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Banner_Male.DAv2_Bundle_Featured_Banner_Male"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "DoubleWide"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR1"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Banner_Male_Bundle.DA_Featured_Banner_Male_Bundle",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_448_athena_commando_m_bannerc",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaCharacter:cid_446_athena_commando_m_bannera",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaCharacter:cid_447_athena_commando_m_bannerb",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaCharacter:cid_449_athena_commando_m_bannerd",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Banner Wave for 500 MtxCurrency",
+      "offerId" : "v2:/6f0181c2e0181ec9944fe21e91228a5d2349563ba851ba4d87532fa0112473b6",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel14" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 500,
+        "dynamicRegularPrice" : 500,
+        "finalPrice" : 500,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 500
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_BannerFlagWave.DAv2_EID_BannerFlagWave",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaDance:eid_bannerflagwave",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_BannerFlagWave.DAv2_EID_BannerFlagWave"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade4"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.96"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR4"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_EID_BannerFlagWave.DA_EID_BannerFlagWave",
+      "itemGrants" : [ {
+        "templateId" : "AthenaDance:eid_bannerflagwave",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -5,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Nunbola for 800 MtxCurrency",
+      "offerId" : "v2:/747f6120c9154f68b5b28259f026b9ad068c4078f3a6b05f5b1b49a81e024e86",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel15" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_363_SnowfallFemale.DAv2_Glider_ID_363_SnowfallFemale",
+        "SectionId" : "ChloeKim",
+        "LayoutId" : "ChloeKim.99",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "ChloeKim"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaGlider:glider_id_363_snowfallfemale",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_363_SnowfallFemale.DAv2_Glider_ID_363_SnowfallFemale"
+      }, {
+        "key" : "SectionId",
+        "value" : "ChloeKim"
+      }, {
+        "key" : "LayoutId",
+        "value" : "ChloeKim.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "ChloeKim"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_363_SnowfallFemale.DA_Featured_Glider_ID_363_SnowfallFemale",
+      "itemGrants" : [ {
+        "templateId" : "AthenaGlider:glider_id_363_snowfallfemale",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -3,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Blackwhip Axe for 800 MtxCurrency",
       "offerId" : "v2:/dca37f6e30bbb95876e030fb705756d9a79101a37f1c6d1c012ef55980dc9316",
       "fulfillmentIds" : [ ],
@@ -1135,69 +1562,6 @@
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -3,
-      "catalogGroupPriority" : 0
-    }, {
-      "devName" : "[VIRTUAL]1 x Board Flair for 300 MtxCurrency",
-      "offerId" : "v2:/63b12ad32537580aee50febc1eff505d303611548f85fb19661c0b581836ad85",
-      "fulfillmentIds" : [ ],
-      "dailyLimit" : -1,
-      "weeklyLimit" : -1,
-      "monthlyLimit" : -1,
-      "categories" : [ "Panel12" ],
-      "prices" : [ {
-        "currencyType" : "MtxCurrency",
-        "currencySubType" : "",
-        "regularPrice" : 300,
-        "dynamicRegularPrice" : 300,
-        "finalPrice" : 300,
-        "saleExpiration" : "9999-12-31T23:59:59.999Z",
-        "basePrice" : 300
-      } ],
-      "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_Snowfall_H6LU9.DAv2_EID_Snowfall_H6LU9",
-        "SectionId" : "ChloeKim",
-        "LayoutId" : "ChloeKim.99",
-        "TileSize" : "Small",
-        "AnalyticOfferGroupId" : "ChloeKim"
-      },
-      "matchFilter" : "",
-      "filterWeight" : 0.0,
-      "appStoreId" : [ ],
-      "requirements" : [ {
-        "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaDance:eid_snowfall_h6lu9",
-        "minQuantity" : 1
-      } ],
-      "offerType" : "StaticPrice",
-      "giftInfo" : {
-        "bIsEnabled" : true,
-        "forcedGiftBoxTemplateId" : "",
-        "purchaseRequirements" : [ ],
-        "giftRecordIds" : [ ]
-      },
-      "refundable" : true,
-      "metaInfo" : [ {
-        "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_Snowfall_H6LU9.DAv2_EID_Snowfall_H6LU9"
-      }, {
-        "key" : "SectionId",
-        "value" : "ChloeKim"
-      }, {
-        "key" : "LayoutId",
-        "value" : "ChloeKim.99"
-      }, {
-        "key" : "TileSize",
-        "value" : "Small"
-      }, {
-        "key" : "AnalyticOfferGroupId",
-        "value" : "ChloeKim"
-      } ],
-      "itemGrants" : [ {
-        "templateId" : "AthenaDance:eid_snowfall_h6lu9",
-        "quantity" : 1
-      } ],
-      "additionalGrants" : [ ],
-      "sortPriority" : -5,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Swirl Girl for 800 MtxCurrency",
@@ -1522,6 +1886,70 @@
       "sortPriority" : -6,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Banner Cape for 400 MtxCurrency",
+      "offerId" : "v2:/3a9bc4191d33a7681081252d295ca4d1bb6e74ca337cf0f593fc133bbdfde3ae",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel14" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 400,
+        "dynamicRegularPrice" : 400,
+        "finalPrice" : 400,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 400
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_BID_289_Banner.DAv2_BID_289_Banner",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaBackpack:bid_289_banner",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_BID_289_Banner.DAv2_BID_289_Banner"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade4"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.96"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR4"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_BID_289_Banner.DA_Featured_BID_289_Banner",
+      "itemGrants" : [ {
+        "templateId" : "AthenaBackpack:bid_289_banner",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Symbol of Peace for 300 MtxCurrency",
       "offerId" : "v2:/25bcf6b8dacb6c6a4c985f930d1f66423470d98c7cd9cf99f64e2d9282eab5d2",
       "fulfillmentIds" : [ ],
@@ -1657,6 +2085,140 @@
       "sortPriority" : -6,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Chloe Kim, 1 x Sub-Zero Flight, 1 x Frozen Flourish, 1 x Nunbola, 1 x Board Flair, 1 x Nunbola's Flight for -1 MtxCurrency",
+      "offerId" : "v2:/7c10db03ed82a7b348b722d8eea06c820f6f9a4e42175c0280200a199e133665",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel15" ],
+      "prices" : [ ],
+      "dynamicBundleInfo" : {
+        "discountedBasePrice" : -1000,
+        "regularBasePrice" : 0,
+        "floorPrice" : 100,
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "displayType" : "AmountOff",
+        "bundleItems" : [ {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 1500,
+          "discountedPrice" : 1500,
+          "alreadyOwnedPriceReduction" : 1500,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 0,
+          "discountedPrice" : 0,
+          "alreadyOwnedPriceReduction" : 0,
+          "item" : {
+            "templateId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaGlider:glider_id_363_snowfallfemale",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 300,
+          "discountedPrice" : 300,
+          "alreadyOwnedPriceReduction" : 300,
+          "item" : {
+            "templateId" : "AthenaDance:eid_snowfall_h6lu9",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 0,
+          "discountedPrice" : 0,
+          "alreadyOwnedPriceReduction" : 0,
+          "item" : {
+            "templateId" : "AthenaLoadingScreen:lsid_420_scrn_snowfall",
+            "quantity" : 1
+          }
+        } ]
+      },
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Snowfall.DAv2_Bundle_Featured_Snowfall",
+        "offertag" : "promodesc26",
+        "SectionId" : "ChloeKim",
+        "LayoutId" : "ChloeKim.99",
+        "TileSize" : "DoubleWide",
+        "AnalyticOfferGroupId" : "ChloeKim"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ ],
+      "offerType" : "DynamicBundle",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Snowfall.DAv2_Bundle_Featured_Snowfall"
+      }, {
+        "key" : "offertag",
+        "value" : "promodesc26"
+      }, {
+        "key" : "SectionId",
+        "value" : "ChloeKim"
+      }, {
+        "key" : "LayoutId",
+        "value" : "ChloeKim.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "DoubleWide"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "ChloeKim"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Snowfall_Bundle.DA_Featured_Snowfall_Bundle",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaGlider:glider_id_363_snowfallfemale",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaDance:eid_snowfall_h6lu9",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaLoadingScreen:lsid_420_scrn_snowfall",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -1,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Grafitaxe for 800 MtxCurrency",
       "offerId" : "v2:/37becf7ab9cfca2b2c0d7b12397deaf611fcab569cd2f8ceae1c36b31cbf0eb9",
       "fulfillmentIds" : [ ],
@@ -1742,9 +2304,7 @@
         "SectionId" : "vanessuh",
         "LayoutId" : "vanessuh.99",
         "TileSize" : "Normal",
-        "AnalyticOfferGroupId" : "Vanessuh'sLockerBundle",
-        "StoreToastHeader" : "Back",
-        "StoreToastBody" : "ItemAvailableNow"
+        "AnalyticOfferGroupId" : "Vanessuh'sLockerBundle"
       },
       "matchFilter" : "",
       "filterWeight" : 0.0,
@@ -1781,12 +2341,6 @@
       }, {
         "key" : "AnalyticOfferGroupId",
         "value" : "Vanessuh'sLockerBundle"
-      }, {
-        "key" : "StoreToastHeader",
-        "value" : "Back"
-      }, {
-        "key" : "StoreToastBody",
-        "value" : "ItemAvailableNow"
       } ],
       "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_648_Athena_Commando_F_MsAlpine.DA_Featured_CID_648_Athena_Commando_F_MsAlpine",
       "itemGrants" : [ {
@@ -1893,6 +2447,70 @@
       "sortPriority" : -1,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Frozen Flourish for 800 MtxCurrency",
+      "offerId" : "v2:/107aa442ea70fd11efb413f73329cdc8ffeefab4fe1f124f0d163e152000f75b",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel15" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_775_SnowfallFemale.DAv2_Pickaxe_ID_775_SnowfallFemale",
+        "SectionId" : "ChloeKim",
+        "LayoutId" : "ChloeKim.99",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "ChloeKim"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_775_SnowfallFemale.DAv2_Pickaxe_ID_775_SnowfallFemale"
+      }, {
+        "key" : "SectionId",
+        "value" : "ChloeKim"
+      }, {
+        "key" : "LayoutId",
+        "value" : "ChloeKim.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "ChloeKim"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_775_SnowfallFemale.DA_Featured_Pickaxe_ID_775_SnowfallFemale",
+      "itemGrants" : [ {
+        "templateId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -4,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Whirl-Dye for 400 MtxCurrency",
       "offerId" : "v2:/55a8ceaed0d992675c23971ef321c3fd0100e74a670af20ee31127fc4fc772a8",
       "fulfillmentIds" : [ ],
@@ -1959,70 +2577,6 @@
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -4,
-      "catalogGroupPriority" : 0
-    }, {
-      "devName" : "[VIRTUAL]1 x Nunbola for 800 MtxCurrency",
-      "offerId" : "v2:/2225d7013b8578a7b10863be3264c05ed41642b849bf93f40cdd30d39c6555cb",
-      "fulfillmentIds" : [ ],
-      "dailyLimit" : -1,
-      "weeklyLimit" : -1,
-      "monthlyLimit" : -1,
-      "categories" : [ "Panel12" ],
-      "prices" : [ {
-        "currencyType" : "MtxCurrency",
-        "currencySubType" : "",
-        "regularPrice" : 800,
-        "dynamicRegularPrice" : 800,
-        "finalPrice" : 800,
-        "saleExpiration" : "9999-12-31T23:59:59.999Z",
-        "basePrice" : 800
-      } ],
-      "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_363_SnowfallFemale.DAv2_Glider_ID_363_SnowfallFemale",
-        "SectionId" : "ChloeKim",
-        "LayoutId" : "ChloeKim.99",
-        "TileSize" : "Normal",
-        "AnalyticOfferGroupId" : "ChloeKim"
-      },
-      "matchFilter" : "",
-      "filterWeight" : 0.0,
-      "appStoreId" : [ ],
-      "requirements" : [ {
-        "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaGlider:glider_id_363_snowfallfemale",
-        "minQuantity" : 1
-      } ],
-      "offerType" : "StaticPrice",
-      "giftInfo" : {
-        "bIsEnabled" : true,
-        "forcedGiftBoxTemplateId" : "",
-        "purchaseRequirements" : [ ],
-        "giftRecordIds" : [ ]
-      },
-      "refundable" : true,
-      "metaInfo" : [ {
-        "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_363_SnowfallFemale.DAv2_Glider_ID_363_SnowfallFemale"
-      }, {
-        "key" : "SectionId",
-        "value" : "ChloeKim"
-      }, {
-        "key" : "LayoutId",
-        "value" : "ChloeKim.99"
-      }, {
-        "key" : "TileSize",
-        "value" : "Normal"
-      }, {
-        "key" : "AnalyticOfferGroupId",
-        "value" : "ChloeKim"
-      } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_363_SnowfallFemale.DA_Featured_Glider_ID_363_SnowfallFemale",
-      "itemGrants" : [ {
-        "templateId" : "AthenaGlider:glider_id_363_snowfallfemale",
-        "quantity" : 1
-      } ],
-      "additionalGrants" : [ ],
-      "sortPriority" : -3,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Cat's Claw for 800 MtxCurrency",
@@ -2151,6 +2705,70 @@
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Custom Cruiser for 500 MtxCurrency",
+      "offerId" : "v2:/fe2728539450fc1be3b2ea41015b41bf9773c2670c8d5d2663c4791d05ee8d02",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel15" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 500,
+        "dynamicRegularPrice" : 500,
+        "finalPrice" : 500,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 500
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_153_Banner.DAv2_Glider_ID_153_Banner",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaGlider:glider_id_153_banner",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Glider_ID_153_Banner.DAv2_Glider_ID_153_Banner"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade4"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.96"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR4"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_153_Banner.DA_Featured_Glider_ID_153_Banner",
+      "itemGrants" : [ {
+        "templateId" : "AthenaGlider:glider_id_153_banner",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -7,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Grimey, 1 x Glumbo for 1500 MtxCurrency",
@@ -2497,6 +3115,70 @@
       "sortPriority" : -1,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Banner Shield for 400 MtxCurrency",
+      "offerId" : "v2:/0002d3255780287a5ca01339e85d43a346cc77afd98c57eee070760352fc798c",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel14" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 400,
+        "dynamicRegularPrice" : 400,
+        "finalPrice" : 400,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 400
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_BID_334_BannerMale.DAv2_BID_334_BannerMale",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaBackpack:bid_334_bannermale",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_BID_334_BannerMale.DAv2_BID_334_BannerMale"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade4"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.96"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR4"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_BID_334_BannerMale.DA_Featured_BID_334_BannerMale",
+      "itemGrants" : [ {
+        "templateId" : "AthenaBackpack:bid_334_bannermale",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -3,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Drip Dropper for 800 MtxCurrency",
       "offerId" : "v2:/5b4cb2f5a13e86380238ccccf2e5f2361faf34c2a885be0e78e0d795dbfd8e5e",
       "fulfillmentIds" : [ ],
@@ -2707,35 +3389,42 @@
       "sortPriority" : -2,
       "catalogGroupPriority" : 0
     }, {
-      "devName" : "[VIRTUAL]1 x Frozen Flourish for 800 MtxCurrency",
-      "offerId" : "v2:/4f41738f7793b94af037bfeb54c3b883431b14bb78ce824517dff8784501e210",
+      "devName" : "[VIRTUAL]1 x Chloe Kim, 1 x Sub-Zero Flight for 1500 MtxCurrency",
+      "offerId" : "v2:/36236b879a40b542d6e32c4bc74c69c4dc6884a6735ebcf2a0ece9a651de6b9e",
       "fulfillmentIds" : [ ],
       "dailyLimit" : -1,
       "weeklyLimit" : -1,
       "monthlyLimit" : -1,
-      "categories" : [ "Panel12" ],
+      "categories" : [ "Panel15" ],
       "prices" : [ {
         "currencyType" : "MtxCurrency",
         "currencySubType" : "",
-        "regularPrice" : 800,
-        "dynamicRegularPrice" : 800,
-        "finalPrice" : 800,
+        "regularPrice" : 1500,
+        "dynamicRegularPrice" : 1500,
+        "finalPrice" : 1500,
         "saleExpiration" : "9999-12-31T23:59:59.999Z",
-        "basePrice" : 800
+        "basePrice" : 1500
       } ],
       "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_775_SnowfallFemale.DAv2_Pickaxe_ID_775_SnowfallFemale",
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_375_F_Snowfall_WXW2T.DAv2_CID_A_375_F_Snowfall_WXW2T",
+        "offertag" : "promodesc29",
         "SectionId" : "ChloeKim",
         "LayoutId" : "ChloeKim.99",
-        "TileSize" : "Small",
-        "AnalyticOfferGroupId" : "ChloeKim"
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "ChloeKim",
+        "StoreToastHeader" : "Back",
+        "StoreToastBody" : "ItemAvailableNow"
       },
       "matchFilter" : "",
       "filterWeight" : 0.0,
       "appStoreId" : [ ],
       "requirements" : [ {
         "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
+        "requiredId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
+        "minQuantity" : 1
+      }, {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
         "minQuantity" : 1
       } ],
       "offerType" : "StaticPrice",
@@ -2748,7 +3437,10 @@
       "refundable" : true,
       "metaInfo" : [ {
         "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_775_SnowfallFemale.DAv2_Pickaxe_ID_775_SnowfallFemale"
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_375_F_Snowfall_WXW2T.DAv2_CID_A_375_F_Snowfall_WXW2T"
+      }, {
+        "key" : "offertag",
+        "value" : "promodesc29"
       }, {
         "key" : "SectionId",
         "value" : "ChloeKim"
@@ -2757,18 +3449,30 @@
         "value" : "ChloeKim.99"
       }, {
         "key" : "TileSize",
-        "value" : "Small"
+        "value" : "Normal"
       }, {
         "key" : "AnalyticOfferGroupId",
         "value" : "ChloeKim"
+      }, {
+        "key" : "StoreToastHeader",
+        "value" : "Back"
+      }, {
+        "key" : "StoreToastBody",
+        "value" : "ItemAvailableNow"
       } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_775_SnowfallFemale.DA_Featured_Pickaxe_ID_775_SnowfallFemale",
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_375_Athena_Commando_F_Snowfall.DA_Featured_CID_A_375_Athena_Commando_F_Snowfall",
       "itemGrants" : [ {
-        "templateId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
+        "templateId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
         "quantity" : 1
+      }, {
+        "templateId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
+        "quantity" : 1,
+        "attributes" : {
+          "extra_grant" : true
+        }
       } ],
       "additionalGrants" : [ ],
-      "sortPriority" : -4,
+      "sortPriority" : -2,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Cold Snap for 800 MtxCurrency",
@@ -3042,140 +3746,6 @@
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -2,
-      "catalogGroupPriority" : 0
-    }, {
-      "devName" : "[VIRTUAL]1 x Chloe Kim, 1 x Sub-Zero Flight, 1 x Frozen Flourish, 1 x Nunbola, 1 x Board Flair, 1 x Nunbola's Flight for -1 MtxCurrency",
-      "offerId" : "v2:/12c52fce076a6d7cb82342ed7693175acb15c67913d7e4ad86309a307f87a85d",
-      "fulfillmentIds" : [ ],
-      "dailyLimit" : -1,
-      "weeklyLimit" : -1,
-      "monthlyLimit" : -1,
-      "categories" : [ "Panel11" ],
-      "prices" : [ ],
-      "dynamicBundleInfo" : {
-        "discountedBasePrice" : -1000,
-        "regularBasePrice" : 0,
-        "floorPrice" : 100,
-        "currencyType" : "MtxCurrency",
-        "currencySubType" : "",
-        "displayType" : "AmountOff",
-        "bundleItems" : [ {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 1500,
-          "discountedPrice" : 1500,
-          "alreadyOwnedPriceReduction" : 1500,
-          "item" : {
-            "templateId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 0,
-          "discountedPrice" : 0,
-          "alreadyOwnedPriceReduction" : 0,
-          "item" : {
-            "templateId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 800,
-          "discountedPrice" : 800,
-          "alreadyOwnedPriceReduction" : 800,
-          "item" : {
-            "templateId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 800,
-          "discountedPrice" : 800,
-          "alreadyOwnedPriceReduction" : 800,
-          "item" : {
-            "templateId" : "AthenaGlider:glider_id_363_snowfallfemale",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 300,
-          "discountedPrice" : 300,
-          "alreadyOwnedPriceReduction" : 300,
-          "item" : {
-            "templateId" : "AthenaDance:eid_snowfall_h6lu9",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 0,
-          "discountedPrice" : 0,
-          "alreadyOwnedPriceReduction" : 0,
-          "item" : {
-            "templateId" : "AthenaLoadingScreen:lsid_420_scrn_snowfall",
-            "quantity" : 1
-          }
-        } ]
-      },
-      "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Snowfall.DAv2_Bundle_Featured_Snowfall",
-        "offertag" : "promodesc26",
-        "SectionId" : "ChloeKim",
-        "LayoutId" : "ChloeKim.99",
-        "TileSize" : "DoubleWide",
-        "AnalyticOfferGroupId" : "ChloeKim"
-      },
-      "matchFilter" : "",
-      "filterWeight" : 0.0,
-      "appStoreId" : [ ],
-      "requirements" : [ ],
-      "offerType" : "DynamicBundle",
-      "giftInfo" : {
-        "bIsEnabled" : true,
-        "forcedGiftBoxTemplateId" : "",
-        "purchaseRequirements" : [ ],
-        "giftRecordIds" : [ ]
-      },
-      "refundable" : true,
-      "metaInfo" : [ {
-        "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Snowfall.DAv2_Bundle_Featured_Snowfall"
-      }, {
-        "key" : "offertag",
-        "value" : "promodesc26"
-      }, {
-        "key" : "SectionId",
-        "value" : "ChloeKim"
-      }, {
-        "key" : "LayoutId",
-        "value" : "ChloeKim.99"
-      }, {
-        "key" : "TileSize",
-        "value" : "DoubleWide"
-      }, {
-        "key" : "AnalyticOfferGroupId",
-        "value" : "ChloeKim"
-      } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Snowfall_Bundle.DA_Featured_Snowfall_Bundle",
-      "itemGrants" : [ {
-        "templateId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaPickaxe:pickaxe_id_775_snowfallfemale",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaGlider:glider_id_363_snowfallfemale",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaDance:eid_snowfall_h6lu9",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaLoadingScreen:lsid_420_scrn_snowfall",
-        "quantity" : 1
-      } ],
-      "additionalGrants" : [ ],
-      "sortPriority" : -1,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Grimules for 500 MtxCurrency",
@@ -3857,6 +4427,112 @@
       "sortPriority" : -5,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Banner Trooper, 1 x Sgt. Sigil, 1 x Marked Marauder, 1 x Branded Brigadier for -1 MtxCurrency",
+      "offerId" : "v2:/e05aa41c11dccffa99c1a3016e4eefb71f4f09e1866c93571daec362c591c080",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel11" ],
+      "prices" : [ ],
+      "dynamicBundleInfo" : {
+        "discountedBasePrice" : -1200,
+        "regularBasePrice" : 0,
+        "floorPrice" : 400,
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "displayType" : "AmountOff",
+        "bundleItems" : [ {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_442_athena_commando_f_bannera",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_443_athena_commando_f_bannerb",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_445_athena_commando_f_bannerd",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaCharacter:cid_444_athena_commando_f_bannerc",
+            "quantity" : 1
+          }
+        } ]
+      },
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Banner_Female.DAv2_Bundle_Featured_Banner_Female",
+        "SectionId" : "Bannerbrigade",
+        "LayoutId" : "Bannerbrigade.99",
+        "TileSize" : "DoubleWide",
+        "AnalyticOfferGroupId" : "BannerBrigadeR1"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ ],
+      "offerType" : "DynamicBundle",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Bundle_Featured_Banner_Female.DAv2_Bundle_Featured_Banner_Female"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "DoubleWide"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR1"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Banner_Female_Bundle.DA_Featured_Banner_Female_Bundle",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_442_athena_commando_f_bannera",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaCharacter:cid_443_athena_commando_f_bannerb",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaCharacter:cid_445_athena_commando_f_bannerd",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaCharacter:cid_444_athena_commando_f_bannerc",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -1,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Hime, 1 x Shiro for 2000 MtxCurrency",
       "offerId" : "v2:/79467f55eebc335442aa2f6b2390a39a7ca9fd2f0a33880d7cc819a9d54d60e2",
       "fulfillmentIds" : [ ],
@@ -4004,6 +4680,70 @@
         "attributes" : {
           "extra_grant" : true
         }
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -3,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Branded Brigadier for 800 MtxCurrency",
+      "offerId" : "v2:/ccf0ada7efdc44e4d6e988401e100a4b7fd7dbd05e2ca1c8aaf76d868c4ab796",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel12" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_444_F_BannerC.DAv2_CID_444_F_BannerC",
+        "SectionId" : "Bannerbrigade2",
+        "LayoutId" : "Bannerbrigade.98",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR2"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_444_athena_commando_f_bannerc",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_444_F_BannerC.DAv2_CID_444_F_BannerC"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade2"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.98"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR2"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_444_Athena_Commando_F_BannerC.DA_Featured_CID_444_Athena_Commando_F_BannerC",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_444_athena_commando_f_bannerc",
+        "quantity" : 1
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -3,
@@ -4222,40 +4962,35 @@
       "sortPriority" : -5,
       "catalogGroupPriority" : 0
     }, {
-      "devName" : "[VIRTUAL]1 x Chloe Kim, 1 x Sub-Zero Flight for 1500 MtxCurrency",
-      "offerId" : "v2:/bb0658b06194e6908d651d7e2e4ed3c2583d7d64775e79de39bd318f21a67a12",
+      "devName" : "[VIRTUAL]1 x Emblematic for 500 MtxCurrency",
+      "offerId" : "v2:/9bf87392546e397b1ad7f114908de10d66f69438eeaa652b59ef2300115277e8",
       "fulfillmentIds" : [ ],
       "dailyLimit" : -1,
       "weeklyLimit" : -1,
       "monthlyLimit" : -1,
-      "categories" : [ "Panel12" ],
+      "categories" : [ "Panel14" ],
       "prices" : [ {
         "currencyType" : "MtxCurrency",
         "currencySubType" : "",
-        "regularPrice" : 1500,
-        "dynamicRegularPrice" : 1500,
-        "finalPrice" : 1500,
+        "regularPrice" : 500,
+        "dynamicRegularPrice" : 500,
+        "finalPrice" : 500,
         "saleExpiration" : "9999-12-31T23:59:59.999Z",
-        "basePrice" : 1500
+        "basePrice" : 500
       } ],
       "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_375_F_Snowfall_WXW2T.DAv2_CID_A_375_F_Snowfall_WXW2T",
-        "offertag" : "promodesc29",
-        "SectionId" : "ChloeKim",
-        "LayoutId" : "ChloeKim.99",
-        "TileSize" : "Normal",
-        "AnalyticOfferGroupId" : "ChloeKim"
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_222_Banner.DAv2_Pickaxe_ID_222_Banner",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
       },
       "matchFilter" : "",
       "filterWeight" : 0.0,
       "appStoreId" : [ ],
       "requirements" : [ {
         "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
-        "minQuantity" : 1
-      }, {
-        "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
+        "requiredId" : "AthenaPickaxe:pickaxe_id_222_banner",
         "minQuantity" : 1
       } ],
       "offerType" : "StaticPrice",
@@ -4268,36 +5003,27 @@
       "refundable" : true,
       "metaInfo" : [ {
         "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_375_F_Snowfall_WXW2T.DAv2_CID_A_375_F_Snowfall_WXW2T"
-      }, {
-        "key" : "offertag",
-        "value" : "promodesc29"
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_222_Banner.DAv2_Pickaxe_ID_222_Banner"
       }, {
         "key" : "SectionId",
-        "value" : "ChloeKim"
+        "value" : "Bannerbrigade4"
       }, {
         "key" : "LayoutId",
-        "value" : "ChloeKim.99"
+        "value" : "Bannerbrigade.96"
       }, {
         "key" : "TileSize",
-        "value" : "Normal"
+        "value" : "Small"
       }, {
         "key" : "AnalyticOfferGroupId",
-        "value" : "ChloeKim"
+        "value" : "BannerBrigadeR4"
       } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_375_Athena_Commando_F_Snowfall.DA_Featured_CID_A_375_Athena_Commando_F_Snowfall",
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_222_Banner.DA_Featured_Pickaxe_ID_222_Banner",
       "itemGrants" : [ {
-        "templateId" : "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
+        "templateId" : "AthenaPickaxe:pickaxe_id_222_banner",
         "quantity" : 1
-      }, {
-        "templateId" : "AthenaBackpack:bid_977_snowfallfemale_vriu0",
-        "quantity" : 1,
-        "attributes" : {
-          "extra_grant" : true
-        }
       } ],
       "additionalGrants" : [ ],
-      "sortPriority" : -2,
+      "sortPriority" : -4,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Izuku Midoriya, 1 x All Might Collectible, 1 x Katsuki Bakugo, 1 x Grenade Backpack, 1 x Ochaco Uraraka, 1 x Uravity Booster for -1 MtxCurrency",
@@ -4438,6 +5164,70 @@
       "sortPriority" : -2,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Signature Sniper for 800 MtxCurrency",
+      "offerId" : "v2:/93740813eba2bbae930523ea97c00cd2b10d17b3b0be549f53e3999283f17ee2",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel13" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_447_M_BannerB.DAv2_CID_447_M_BannerB",
+        "SectionId" : "Bannerbrigade3",
+        "LayoutId" : "Bannerbrigade.97",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR3"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_447_athena_commando_m_bannerb",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_447_M_BannerB.DAv2_CID_447_M_BannerB"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade3"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.97"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR3"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_447_Athena_Commando_M_BannerB.DA_Featured_CID_447_Athena_Commando_M_BannerB",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_447_athena_commando_m_bannerb",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -4,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x All Smite for 500 MtxCurrency",
       "offerId" : "v2:/44ce5b2eccc2886dc8479598267a535c9424ec6b04a85eaef2f91f86cdfacdf2",
       "fulfillmentIds" : [ ],
@@ -4500,6 +5290,134 @@
       "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_EmeraldGlassTransform.DA_Featured_Pickaxe_EmeraldGlassTransform",
       "itemGrants" : [ {
         "templateId" : "AthenaPickaxe:pickaxe_emeraldglasstransform",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -6,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Banner Trooper for 800 MtxCurrency",
+      "offerId" : "v2:/5803f03ca790e374333e5bee651ad5b3e871c27eb050de34d871daacefff5686",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel12" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_442_F_BannerA.DAv2_CID_442_F_BannerA",
+        "SectionId" : "Bannerbrigade2",
+        "LayoutId" : "Bannerbrigade.98",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR2"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_442_athena_commando_f_bannera",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_442_F_BannerA.DAv2_CID_442_F_BannerA"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade2"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.98"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR2"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_442_Athena_Commando_F_BannerA.DA_Featured_CID_442_Athena_Commando_F_BannerA",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_442_athena_commando_f_bannera",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Banner for 500 MtxCurrency",
+      "offerId" : "v2:/5a8cd9fcf2356e224cb5b6bfba395ec718dc7c3196da571210c8cf9ce750bc6d",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel14" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 500,
+        "dynamicRegularPrice" : 500,
+        "finalPrice" : 500,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 500
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_177_Banner.DAv2_Wrap_177_Banner",
+        "SectionId" : "Bannerbrigade4",
+        "LayoutId" : "Bannerbrigade.96",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "BannerBrigadeR4"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaItemWrap:wrap_177_banner",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_177_Banner.DAv2_Wrap_177_Banner"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade4"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.96"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR4"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_177_Banner.DA_Featured_Wrap_177_Banner",
+      "itemGrants" : [ {
+        "templateId" : "AthenaItemWrap:wrap_177_banner",
         "quantity" : 1
       } ],
       "additionalGrants" : [ ],
@@ -4638,6 +5556,198 @@
       "sortPriority" : -5,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Symbol Stalwart for 800 MtxCurrency",
+      "offerId" : "v2:/d9f1ea68a0c70a9a0d72020dadd5b487d16129bad53f5b419a1337cf1492b792",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel13" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_446_M_BannerBA.DAv2_CID_446_M_BannerBA",
+        "SectionId" : "Bannerbrigade3",
+        "LayoutId" : "Bannerbrigade.97",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR3"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_446_athena_commando_m_bannera",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_446_M_BannerBA.DAv2_CID_446_M_BannerBA"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade3"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.97"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR3"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_446_Athena_Commando_M_BannerA.DA_Featured_CID_446_Athena_Commando_M_BannerA",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_446_athena_commando_m_bannera",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Branded Brawler for 800 MtxCurrency",
+      "offerId" : "v2:/8a1cbeef96693bd32655bed2b620e00ab2887ee96b01913618c70127972de3d1",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel13" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_448_M_BannerC.DAv2_CID_448_M_BannerC",
+        "SectionId" : "Bannerbrigade3",
+        "LayoutId" : "Bannerbrigade.97",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR3"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_448_athena_commando_m_bannerc",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_448_M_BannerC.DAv2_CID_448_M_BannerC"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade3"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.97"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR3"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_448_Athena_Commando_M_BannerC.DA_Featured_CID_448_Athena_Commando_M_BannerC",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_448_athena_commando_m_bannerc",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -1,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Marked Marauder for 800 MtxCurrency",
+      "offerId" : "v2:/7875404bd9e7e6eb4ffb572d2f83f217574b0dcf6612dbb76cc7e79118428e48",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel12" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_445_F_BannerD.DAv2_CID_445_F_BannerD",
+        "SectionId" : "Bannerbrigade2",
+        "LayoutId" : "Bannerbrigade.98",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR2"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_445_athena_commando_f_bannerd",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_445_F_BannerD.DAv2_CID_445_F_BannerD"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade2"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.98"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR2"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_445_Athena_Commando_F_BannerD.DA_Featured_CID_445_Athena_Commando_F_BannerD",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_445_athena_commando_f_bannerd",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -1,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Wavy Warrior for 800 MtxCurrency",
       "offerId" : "v2:/2aad8c0617805ac5cff309c8d5399dcb0e3b112e4e3bdcdb74c0d16f82ada428",
       "fulfillmentIds" : [ ],
@@ -4712,6 +5822,70 @@
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Sgt. Sigil for 800 MtxCurrency",
+      "offerId" : "v2:/294ddf874422a2fe97c999fe144258b363f8eac60a7a675f353f685bc333b0bf",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel12" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_443_F_BannerB.DAv2_CID_443_F_BannerB",
+        "SectionId" : "Bannerbrigade2",
+        "LayoutId" : "Bannerbrigade.98",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR2"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_443_athena_commando_f_bannerb",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_443_F_BannerB.DAv2_CID_443_F_BannerB"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade2"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.98"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR2"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_443_Athena_Commando_F_BannerB.DA_Featured_CID_443_Athena_Commando_F_BannerB",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_443_athena_commando_f_bannerb",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -4,
       "catalogGroupPriority" : 0
     }, {
       "devName" : "[VIRTUAL]1 x Grimey, 1 x Glumbo, 1 x Grafitaxe, 1 x Drip Dropper, 1 x Grimules, 1 x Pen (and Ink) Pals for -1 MtxCurrency",
@@ -5084,6 +6258,70 @@
         "quantity" : 1
       }, {
         "templateId" : "AthenaDance:eid_scribe",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -3,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Lt. Logo for 800 MtxCurrency",
+      "offerId" : "v2:/6baeb4e98beed81c5f2d34a633a28d0616293bebd52eb6f51f5bed74c75a086a",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ "Panel13" ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_449_M_BannerD.DAv2_CID_449_M_BannerD",
+        "SectionId" : "Bannerbrigade3",
+        "LayoutId" : "Bannerbrigade.97",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "BannerBrigadeR3"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_449_athena_commando_m_bannerd",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_449_M_BannerD.DAv2_CID_449_M_BannerD"
+      }, {
+        "key" : "SectionId",
+        "value" : "Bannerbrigade3"
+      }, {
+        "key" : "LayoutId",
+        "value" : "Bannerbrigade.97"
+      }, {
+        "key" : "TileSize",
+        "value" : "Normal"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "BannerBrigadeR3"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_449_Athena_Commando_M_BannerD.DA_Featured_CID_449_Athena_Commando_M_BannerD",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_449_athena_commando_m_bannerd",
         "quantity" : 1
       } ],
       "additionalGrants" : [ ],
@@ -6920,6 +8158,47 @@
       "sortPriority" : 9,
       "catalogGroupPriority" : 0
     }, {
+      "devName" : "[VIRTUAL]1 x Hero Loadout for 10000 GameItem : AccountResource:eventcurrency_scaling",
+      "offerId" : "v2:/5c841be6c7cf1635cca83f2d4c345242c85192bf5beda2af0317e1cc745a3a38",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ ],
+      "prices" : [ {
+        "currencyType" : "GameItem",
+        "currencySubType" : "AccountResource:eventcurrency_scaling",
+        "regularPrice" : 10000,
+        "dynamicRegularPrice" : 10000,
+        "finalPrice" : 10000,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 10000
+      } ],
+      "meta" : {
+        "PurchaseLimitingEventId" : "2ksnoq2i5ggkjs7f8clf6lpv43[0]0",
+        "EventLimit" : "1"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ ],
+      "offerType" : "StaticPrice",
+      "refundable" : false,
+      "metaInfo" : [ {
+        "key" : "PurchaseLimitingEventId",
+        "value" : "2ksnoq2i5ggkjs7f8clf6lpv43[0]0"
+      }, {
+        "key" : "EventLimit",
+        "value" : "1"
+      } ],
+      "itemGrants" : [ {
+        "templateId" : "CampaignHeroLoadout:purchaseabledefaultloadout",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : 19,
+      "catalogGroupPriority" : 0
+    }, {
       "devName" : "[VIRTUAL]1 x Armory Slot for 25 GameItem : AccountResource:eventcurrency_scaling",
       "offerId" : "v2:/83c2c7dd1240222394ed9c7415fbce183d8504842eebc30039ce96c929d365e6",
       "fulfillmentIds" : [ ],
@@ -7609,6 +8888,9 @@
         "key" : "SectionID",
         "value" : "LimitedTime"
       }, {
+        "key" : "LayoutId",
+        "value" : "LimitedTime.2"
+      }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_RMT_HighStakesClub.DAv2_RMT_HighStakesClub"
       }, {
@@ -7620,7 +8902,7 @@
       } ],
       "catalogGroup" : "",
       "catalogGroupPriority" : 0,
-      "sortPriority" : 19,
+      "sortPriority" : 16,
       "title" : "The High Stakes Club Pack",
       "shortDescription" : "",
       "description" : "One could certainly say that the Club does \"slay\" in their formal attire. Serve looks with The High Stakes Club pack. Includes 3 Outfits, 3 Back Blings, 3 Pickaxes and 3 Wraps.",
@@ -8380,6 +9662,9 @@
         "key" : "SectionID",
         "value" : "LimitedTime"
       }, {
+        "key" : "LayoutId",
+        "value" : "LimitedTime.4"
+      }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Featured_ShadowPickaxe_Bundle.DAv2_Featured_ShadowPickaxe_Bundle"
       }, {
@@ -8847,7 +10132,7 @@
         "value" : "LimitedTime"
       }, {
         "key" : "LayoutId",
-        "value" : "LimitedTime.3"
+        "value" : "LimitedTime.5"
       }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_RMT_TungStan.DAv2_RMT_TungStan"
@@ -8863,7 +10148,7 @@
       } ],
       "catalogGroup" : "",
       "catalogGroupPriority" : 0,
-      "sortPriority" : 14,
+      "sortPriority" : 11,
       "title" : "Untask'd Courier Pack",
       "shortDescription" : "",
       "description" : "Task'd Corp didn't know what they had in Sid Obsidian. Time to find that new directive with the Untask'd Courier Pack. Includes access to \"Save the World\" PvE Campaign.",
@@ -9630,7 +10915,7 @@
         "value" : "LimitedTime"
       }, {
         "key" : "LayoutId",
-        "value" : "LimitedTime.3"
+        "value" : "LimitedTime.5"
       }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_RMT_FossilMech_StarterPack.DAv2_RMT_FossilMech_StarterPack"
@@ -9646,7 +10931,7 @@
       } ],
       "catalogGroup" : "",
       "catalogGroupPriority" : 0,
-      "sortPriority" : 15,
+      "sortPriority" : 12,
       "title" : "Extinction Code Pack",
       "shortDescription" : "",
       "description" : "Do you need to crack into something? Haxsaur should be able to help with his Extinction Code pack. Includes an Outfit, Back Bling, Pickaxe and 600 V-Bucks.",
@@ -9705,7 +10990,7 @@
         "value" : "LimitedTime"
       }, {
         "key" : "LayoutId",
-        "value" : "LimitedTime.4"
+        "value" : "LimitedTime.6"
       }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_RMT_AnimeLegends_2022.DAv2_RMT_AnimeLegends_2022"
@@ -10516,21 +11801,24 @@
         "minQuantity" : 1
       } ],
       "metaInfo" : [ {
-        "key" : "HideRarityBorder",
-        "value" : "true"
-      }, {
         "key" : "SectionID",
         "value" : "LimitedTime"
+      }, {
+        "key" : "LayoutId",
+        "value" : "LimitedTime.VMT"
       }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_RMT_FinalReckoning.DAv2_RMT_FinalReckoning"
       }, {
         "key" : "TileSize",
         "value" : "DoubleWide"
+      }, {
+        "key" : "HideRarityBorder",
+        "value" : "true"
       } ],
       "catalogGroup" : "",
       "catalogGroupPriority" : 0,
-      "sortPriority" : 16,
+      "sortPriority" : 20,
       "title" : "The Final Reckoning Pack",
       "shortDescription" : "",
       "description" : "Frighten your foes with outfits from one of the Island's darkest of tales, The Final Reckoning!",
@@ -10831,6 +12119,73 @@
         "attributes" : { }
       }, {
         "templateId" : "ChallengeBundleSchedule:bundleschedule_styles_primalfalcon",
+        "quantity" : 1,
+        "attributes" : { }
+      } ]
+    }, {
+      "offerId" : "B5F76B564CDAC3DE2CA9D092F74B4385",
+      "devName" : "Mainframe Throwback Quest Pack",
+      "offerType" : "StaticPrice",
+      "prices" : [ {
+        "currencyType" : "RealMoney",
+        "currencySubType" : "",
+        "regularPrice" : 0,
+        "dynamicRegularPrice" : -1,
+        "finalPrice" : 0,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 0
+      } ],
+      "categories" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "refundable" : false,
+      "appStoreId" : [ "", "dfed10c3ed094aba980f28011e7d3646", "", "", "", "", "MATCP10000000000", "42344e39-564d-3051-c052-56544b528a00", "c-seasonpack000034-MATCP1", "sam_MATCP1", "9N4BMVQRVTKR", "MATCP10000000000" ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnFulfillment",
+        "requiredId" : "5CC1CC4743FA49CC0E6426AE0E19ADE9",
+        "minQuantity" : 1
+      } ],
+      "metaInfo" : [ {
+        "key" : "SectionID",
+        "value" : "LimitedTime"
+      }, {
+        "key" : "LayoutId",
+        "value" : "LimitedTime.2"
+      }, {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/S23/DAv2_RMT_ConfectionPop_QP.DAv2_RMT_ConfectionPop_QP"
+      }, {
+        "key" : "TileSize",
+        "value" : "DoubleWide"
+      }, {
+        "key" : "HideRarityBorder",
+        "value" : "true"
+      }, {
+        "key" : "ViolatorTag",
+        "value" : "UnlockVBucks"
+      } ],
+      "catalogGroup" : "",
+      "catalogGroupPriority" : 0,
+      "sortPriority" : 17,
+      "title" : "Mainframe Throwback Quest Pack",
+      "shortDescription" : "",
+      "description" : "Zoe's rocking her retro fit but always ready to log back into the Mainframe. Includes an Outfit, Back Bling, Pickaxe and Quests to earn up to 1,000 V-Bucks.",
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_ConfectionPopQP.DA_Featured_ConfectionPopQP",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:character_confectionpop",
+        "quantity" : 1,
+        "attributes" : { }
+      }, {
+        "templateId" : "AthenaBackpack:backpack_confectionpop",
+        "quantity" : 1,
+        "attributes" : { }
+      }, {
+        "templateId" : "AthenaPickaxe:pickaxe_confectionpop",
+        "quantity" : 1,
+        "attributes" : { }
+      }, {
+        "templateId" : "ChallengeBundleSchedule:bundleschedule_rmt_confectionpop",
         "quantity" : 1,
         "attributes" : { }
       } ]
@@ -11945,6 +13300,9 @@
         "key" : "SectionID",
         "value" : "LimitedTime"
       }, {
+        "key" : "LayoutId",
+        "value" : "LimitedTime.3"
+      }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/S23/DAv2_RMT_P1000_QP.DAv2_RMT_P1000_QP"
       }, {
@@ -11959,8 +13317,8 @@
       } ],
       "catalogGroup" : "",
       "catalogGroupPriority" : 0,
-      "sortPriority" : 16,
-      "title" : "P-1000's Challenge Pack",
+      "sortPriority" : 15,
+      "title" : "P-1000's Quest Pack",
       "shortDescription" : "",
       "description" : "Get the P-1000 Outfit and Emote, and complete challenges to earn up to 1,500 V-Bucks!",
       "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_PeelyMechBundle.DA_Featured_PeelyMechBundle",
@@ -12366,6 +13724,9 @@
       "metaInfo" : [ {
         "key" : "SectionID",
         "value" : "LimitedTime"
+      }, {
+        "key" : "LayoutId",
+        "value" : "LimitedTime.4"
       }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Featured_DoubleAgent_Bundle.DAv2_Featured_DoubleAgent_Bundle"
