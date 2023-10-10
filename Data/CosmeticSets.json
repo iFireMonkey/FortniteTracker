@@ -12449,8 +12449,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.NotableSight_DisplayName",
-          "SourceString": "Set_02",
-          "LocalizedString": "Set_02"
+          "SourceString": "Luminary Vision",
+          "LocalizedString": "Luminary Vision"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12463,8 +12463,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.DimensionStalker_DisplayName",
-          "SourceString": "Set_01",
-          "LocalizedString": "Set_01"
+          "SourceString": "Extraplanar Hunter",
+          "LocalizedString": "Extraplanar Hunter"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12479,6 +12479,146 @@
           "Key": "Cosmetics.Set.FlowerGrudge_DisplayName",
           "SourceString": "Orchid Rancor",
           "LocalizedString": "Orchid Rancor"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LectureRange": {
+        "tag": {
+          "TagName": "Cosmetics.Set.LectureRange"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LectureRange_DisplayName",
+          "SourceString": "The Pumpkin King",
+          "LocalizedString": "The Pumpkin King"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MedalOwner": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MedalOwner"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MedalOwner_DisplayName",
+          "SourceString": "The Shape",
+          "LocalizedString": "The Shape"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AgonyMatch": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AgonyMatch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AgonyMatch_DisplayName",
+          "SourceString": "Heartbreak Royale",
+          "LocalizedString": "Heartbreak Royale"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CrossGrowth": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CrossGrowth"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CrossGrowth_DisplayName",
+          "SourceString": "Set_01",
+          "LocalizedString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KittyMonster": {
+        "tag": {
+          "TagName": "Cosmetics.Set.KittyMonster"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.KittyMonster_DisplayName",
+          "SourceString": "Meownstrosity",
+          "LocalizedString": "Meownstrosity"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PartyShell": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PartyShell"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PartyShell_DisplayName",
+          "SourceString": "Rave Nautilus",
+          "LocalizedString": "Rave Nautilus"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CloakedRogue": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CloakedRogue"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CloakedRogue_DisplayName",
+          "SourceString": "Wrapped Rapscallion",
+          "LocalizedString": "Wrapped Rapscallion"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.QuickStyle": {
+        "tag": {
+          "TagName": "Cosmetics.Set.QuickStyle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QuickStyle_DisplayName",
+          "SourceString": "Velocity Chic",
+          "LocalizedString": "Velocity Chic"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BallLose": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BallLose"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BallLose_DisplayName",
+          "SourceString": "Waking Nightmare",
+          "LocalizedString": "Waking Nightmare"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MudChum": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MudChum"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MudChum_DisplayName",
+          "SourceString": "Muckfish",
+          "LocalizedString": "Muckfish"
         },
         "Description": {
           "CultureInvariantString": null

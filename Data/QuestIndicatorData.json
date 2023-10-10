@@ -362,6 +362,29 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_InnerSanctum",
+            "SourceString": "Inner Sanctum",
+            "LocalizedString": "Inner Sanctum"
+          },
+          "WorldLocation": {
+            "X": 60992.0,
+            "Y": -79000.0,
+            "Z": 2412.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.InnerSanctum"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_InnerSanctum",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindyCanyon",
             "SourceString": "Gusty Gorge",
             "LocalizedString": "Gusty Gorge"
@@ -2063,7 +2086,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_mainstage",
@@ -2086,7 +2109,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_piratecove",
@@ -2109,7 +2132,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_theater",
@@ -2132,7 +2155,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_thehub",
@@ -2155,7 +2178,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_boatracesouth",
@@ -2178,7 +2201,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_boatraceeast",
@@ -2201,7 +2224,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_boatramps",
@@ -2224,7 +2247,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_fishingpond",
@@ -2247,7 +2270,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_giantskeleton",
@@ -2270,7 +2293,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_mountainpeak",
@@ -2293,7 +2316,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_obstaclecourse",
@@ -2316,7 +2339,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_racecenter",
@@ -2339,7 +2362,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_secretbeach",
@@ -2362,7 +2385,7 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/Season11/Quest_S11_Discover_Landmarks.Quest_S11_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "visit_papaya_soccerfield",

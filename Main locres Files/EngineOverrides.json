@@ -3,8 +3,12 @@
     "AllChatChannelKey": "All"
   },
   "AssetTypeActions": {
+    "DataTable_MissingRowStructListEntry": "* {0} (Row Structure: {1})",
+    "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",
+    "DataTable_MissingRowStructTitle": "Continue?",
     "AssetTypeActions_ConversationDatabase": "Conversation Bank",
     "NamelessConversationDiff": "Conversation Diff",
+    "DataTable_MissingRowStructMsg": "The following Data Tables are missing their row structure and will not be editable.\n\n{0}\n\nDo you want to open these data tables?",
     "Conversation Diff": "{0} - Conversation Diff"
   },
   "BlueprintEditor": {
@@ -46,6 +50,16 @@
     "EBuildPatchProgress_Queued": "Queued",
     "EBuildPatchProgress_Resuming": "Resuming",
     "EBuildPatchProgress_BuildVerification": "Verifying"
+  },
+  "CommonBoundActionButton": {
+    "OtherPlayerActionFormat": "[P{PlayerNum}] {ActionName}"
+  },
+  "CommonDateTimeTextBlock": {
+    "DaysFormatText": "{Days} {Days}|plural(one=Day, other=Days)",
+    "HoursFormatText": "{Hours} {Hours}|plural(one=Hour, other=Hours)"
+  },
+  "CommonUI": {
+    "WidgetPaletteCategory": "Common UI Plugin"
   },
   "ConversationEditor": {
     "AutoArrange": "Auto Arrange",
@@ -511,6 +525,9 @@
     "NoVulkanNoGL": "Vulkan or OpenGL (4.3) support is required to run the engine.",
     "OpenGLRemoved": "Warning: OpenGL is no longer supported for desktop platforms. Vulkan will be used instead."
   },
+  "LoadGuard": {
+    "Loading": "Loading..."
+  },
   "MessageDialog": {
     "UpdateMacOSX_Body": "Please update to the latest version of macOS for best performance and stability.",
     "VideoCardDriverRHIIssueReport": "The installed version of the {Vendor} graphics driver has known issues in {RHI}.\nPlease install the latest driver version or switch to a different rendering API.\n\nWould you like to visit the following URL to download the driver?\n\n{Hyperlink}\n\n{AdapterName}\nInstalled: {InstalledVer}\nMinimum required: {RecommendedVer}",
@@ -588,6 +605,9 @@
   },
   "SocialUser": {
     "UserStatus_Blocked": "Blocked"
+  },
+  "UIActionRouter": {
+    "HoldActionNameFormat": "{0} (Hold)"
   },
   "UICommands.ConversationEditorCommands": {
     "BackInto": "Back: Into",

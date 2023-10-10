@@ -2761,6 +2761,46 @@
           "SourceString": "<text color=\"FFFFFFFF\">JAMILA</>, <text color=\"FFFFFFFF\">ANIYAH</>, and their Back Blings are all reactive to eliminations! Both pickaxes are also reactive to weak points!",
           "LocalizedString": "<text color=\"FFFFFFFF\">JAMILA</>, <text color=\"FFFFFFFF\">ANIYAH</>, and their Back Blings are all reactive to eliminations! Both pickaxes are also reactive to weak points!"
         }
+      },
+      "privatejetbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "20BB0F7F47A88FFB3F336D8C5E4F4EFB",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "emotebuiltin": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "F9F7464C4BD08B7EAC9B50A9F9B85085",
+          "SourceString": "Built-in emote!",
+          "LocalizedString": "Built-in emote!"
+        }
+      },
+      "3weakpoints": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2123E1EA49905179B2F479A9B828FAAC",
+          "SourceString": "Reactive to weak points! Max 3 weak points.",
+          "LocalizedString": "Reactive to weak points! Max 3 weak points."
+        }
+      },
+      "emissiveglow": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "3FC5BF554B9E6C147C2D1E86F980F180",
+          "SourceString": "Emissive glow at night!",
+          "LocalizedString": "Emissive glow at night!"
+        }
+      },
+      "letiltzglider": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "8113B5594A68B58566DC8EB127E6F3FF",
+          "SourceString": "Bundle includes <text color=\"FFFFFFFF\">SKELLON</> Glider! Includes 3 selectable styles!",
+          "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">SKELLON</> Glider! Includes 3 selectable styles!"
+        }
       }
     }
   }
