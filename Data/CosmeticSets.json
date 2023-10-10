@@ -12281,8 +12281,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.FungusNinja_DisplayName",
-          "SourceString": "Set_02",
-          "LocalizedString": "Set_02"
+          "SourceString": "Mushroom Shinobi",
+          "LocalizedString": "Mushroom Shinobi"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12295,8 +12295,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.StarTrip_DisplayName",
-          "SourceString": "Set_01",
-          "LocalizedString": "Set_01"
+          "SourceString": "Cosmic Traveler",
+          "LocalizedString": "Cosmic Traveler"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12339,6 +12339,146 @@
           "Key": "Cosmetics.Set.SitRuin_DisplayName",
           "SourceString": "Ahsoka Tano",
           "LocalizedString": "Ahsoka Tano"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CatsIris": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CatsIris"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CatsIris_DisplayName",
+          "SourceString": "Tiger's Eye",
+          "LocalizedString": "Tiger's Eye"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BdaySix": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BdaySix"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BdaySix_DisplayName",
+          "SourceString": "Half-Dozen Candles",
+          "LocalizedString": "Half-Dozen Candles"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SolvedBill": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SolvedBill"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SolvedBill_DisplayName",
+          "SourceString": "Settled Debts",
+          "LocalizedString": "Settled Debts"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RiskyGroup": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RiskyGroup"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RiskyGroup_DisplayName",
+          "SourceString": "The High Stakes Club",
+          "LocalizedString": "The High Stakes Club"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ArtifactCreator": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ArtifactCreator"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ArtifactCreator_DisplayName",
+          "SourceString": "Relic Reinventor",
+          "LocalizedString": "Relic Reinventor"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ProcessorRetro": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ProcessorRetro"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ProcessorRetro_DisplayName",
+          "SourceString": "Mainframe Throwback",
+          "LocalizedString": "Mainframe Throwback"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SharpWitch": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SharpWitch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SharpWitch_DisplayName",
+          "SourceString": "Savvy Sorceress",
+          "LocalizedString": "Savvy Sorceress"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NotableSight": {
+        "tag": {
+          "TagName": "Cosmetics.Set.NotableSight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.NotableSight_DisplayName",
+          "SourceString": "Set_02",
+          "LocalizedString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DimensionStalker": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DimensionStalker"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DimensionStalker_DisplayName",
+          "SourceString": "Set_01",
+          "LocalizedString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FlowerGrudge": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FlowerGrudge"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FlowerGrudge_DisplayName",
+          "SourceString": "Orchid Rancor",
+          "LocalizedString": "Orchid Rancor"
         },
         "Description": {
           "CultureInvariantString": null
