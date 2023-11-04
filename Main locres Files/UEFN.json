@@ -139,12 +139,6 @@
     "MissingCharacterBlueprintDefinition": "Missing Character Blueprint in the Spawn Modifier!",
     "MissingCharacterCosmeticDefinition": "Missing or not found Character Cosmetic Definition in the Spawn Modifier!"
   },
-  "CharacterModifier_Health": {
-    "StartingHealth": "Starting Health cannot be greater than Max Health!"
-  },
-  "CharacterModifier_HealthAndShield": {
-    "StartingShield": "Starting Shield cannot be greater than Max Shield!"
-  },
   "CharacterModifier_Inventory": {
     "MissingItemDefinition": "Missing item definition in the inventory modifier!"
   },
@@ -171,15 +165,20 @@
     "ErrorText": "{ErrorMessage}, CookJobId:{CookJobId}"
   },
   "ContentResolver": {
+    "ResolveVersePathAttempt": "Attempting to resolve verse path {VersePath} for platform {PlatformName} {Role}",
+    "ExecResolveIDError": "Error resolving client {PlatformName} role {Role} param {ID}, errordetails {Error}",
     "ExecResolveLinkError": "Error resolving param {LinkCode}, errordetails {Error}",
     "ExecResolveVersePathError": "Error resolving param {VersePath}, errordetails {Error}",
     "NoProviderFound": "No content provider can service this request.",
     "NoProviderFoundForLinkCode": "No content provider registered can service this request {LinkCode}.",
+    "ExecResolveIDSuccess": "Resolved client {PlatformName} role {Role} ID {ID} to URLs {PluginURLs}",
     "ExecResolveLinkSuccess": "Resolved linkcode {LinkCode} to URLs {PluginURLs}",
-    "ExecResolveVersePathSuccess": "Resolved linkcode {VersePath} to URLs {PluginURLs}"
+    "ExecResolveVersePathSuccess": "Resolved verse path {VersePath} to URLs {PluginURLs}",
+    "ResultCleanedUpBeforeComplete": "Result cleaned up before marked as completed (this should never happen)."
   },
   "ContentServiceProvider": {
     "ContentServiceProviderCleanedUp": "Content service provider was cleaned up before request completed.",
+    "InvalidInputPreviousResult": "Input provided invalid, unable to resolve previous result to valid argument.",
     "ProjectMissingRequestedArtifacts": "Project does not contain artifacts requested.",
     "TestLinkResolveError": "Test content resolve error.",
     "VersePathDoesNotContainLiveLinkCode": "Verse path doesn't resolve to anything live, has this been published?"
@@ -212,10 +211,8 @@
     "Error_InvalidBroadcastEventType": "'Broadcast Event' node '{0}' is using '{1}' as the event type, but should be using '{2}'! See 'Gameplay Event' property '{3}' on '{4}'",
     "Error_NullEventDefinition": "'Gameplay Event' property '{0}' has no default state allocated! Missing a call to FGameplayEventDescriptor::InitializeDefaults?",
     "Error_NullEventType": "'Gameplay Event' property '{0}' has no event type set!",
-    "Error_MissingEventDescriptorPropertyReference": "'Gameplay Event' property '{0}' is not being referenced by a 'Trigger Message Component' component!",
     "Error_DuplicateTriggerComponentReference": "'Gameplay Event' property '{0}' is referenced by '{1}', but it is already being referenced by '{2}'!",
     "Error_DuplicateEventType": "'Gameplay Event' property '{0}' is using the event type '{1}', which is already being used by 'Gameplay Event' property '{2}' on '{3}'!",
-    "Error_MissingEventFunctionPropertyReference": "'Gameplay Function' property '{0}' is not being referenced by a 'Receiver Message Component' component!",
     "Error_DuplicateReceiverComponentReference": "'Gameplay Function' property '{0}' is referenced by '{1}', but it is already being referenced by '{2}'!",
     "Error_NullReceiverComponentReference": "'Receiver Message Component' '{0}' is not referencing a 'Gameplay Function' property! Set its 'Event Function' property",
     "Error_OverriddenReceiverComponentReference": "'Receiver Message Component' '{0}' references 'Gameplay Function' property '{1}' but its archetype references '{2}'! Overriding the archetype value is not allowed",
@@ -433,6 +430,9 @@
     "CategoryText": "Initialization Category",
     "QtyX": "x"
   },
+  "FDynamicUIEditorToolkit": {
+    "DynamicUIEditorSinglePropertyView": "Edit Allowed Widget"
+  },
   "FeedbackHandleCustomization": {
     "EventLabel": "Event",
     "EventNameLabel": "Event Name",
@@ -608,7 +608,6 @@
     "PersistDADAssetsTooltip": "Persists asset changes from DAD and writes them to P4.",
     "PickZoneDescription": "Pick Fortnite Zone to load into",
     "PickZoneButton": "Pick Zone",
-    "ObjectiveDebugger": "Quest Objective Debugger",
     "RespawnDaySequenceActor": "Respawn Day Sequence Actor",
     "RespawnDaySequenceActorTooltip": "Respawn Day Sequence Actor",
     "CheckContentDescription": "Runs the Content Validation job on all checked out assets to look for warnings and errors",
@@ -630,6 +629,7 @@
     "ValidateDataTitle": "Validate Data...",
     "ValidateDataTooltip": "Validates user data.",
     "ValidatingDataTask": "Validating Data...",
+    "VerbDebugger": "Verb Debugger",
     "FortReleaseVersionSelector_Label": "Version: {0}",
     "FortZoneSelectTab": "Zone Select",
     "LongDescription_NeedsFilledOut": "[Longer user-facing flavor text / item desc.]",
@@ -696,6 +696,9 @@
   },
   "FortHomebaseNodeGameplayEffectDataTableFactory": {
     "Error_NotEnoughTemplates": "Cannot import. Require {0} template gameplay effect assets, but only {1} have been provided."
+  },
+  "FortItemDefinitions": {
+    "ErrorIfCookedInWrongReleaseVersion": "This asset won't cook.\n{0} version is newer than the owning plugin {1}."
   },
   "FortLevelEditorDragDropHandler": {
     "ContentBundleInLevelInstance": "Cannot drop content from {0} to level instance {1}. Place it in {2} instead. Placing plugin actors is not supported within level instance.",
@@ -853,13 +856,14 @@
     "AnimSequence_DuplicateCurveEntries": "Animation Sequences {0} contains duplicate float curve entries with name {1}. Please correct invalid data and resave.",
     "TextureValidator_UDIMBlockTooBig": "Block {0} in non-cinematic UDIM texture is too big. It is {1}x{2}. Reduce the block's size to {3} or lower",
     "StaticMesh_CannotAccessMeshDescription": "Cannot access HiResMeshDescription for Static Mesh [{0}]",
+    "PlaylistAthenaValidator_InvalidChangelist": "Changelist is invalid!",
     "PlaylistAthenaValidator_CompetitivePointClampLte0": "Competitive Point Clamp ({0}) cannot be <= 0 if Is Tournament is true.",
     "PlaylistAthenaValidator_EnableDynamicBotBackfillTrue": "Enable Dynamic Bot Backfill cannot be true if Use Player Rating is false.",
     "Load_FailedLoad": "Failed to get package load warnings and errors",
     "FortExposedContent.FailedToSpawnValidationActor": "Failed to spawn exposed content validation actor",
     "ItemDefinition_InvalidReleaseVersion": "FortReleaseVersion '{0}' is not a real version. You may not use any value that is not in the AllVersions array in DefaultFortReleaseVersion.ini",
     "IllegalReference_AssetFilterVersionFail": "FortReleaseVersion is 'Future' but referenced by non-Future asset {0}",
-    "ValidationError.GameFeature": "GameFeaturePlugin {0} does not depend on any Root Game Feature Plugin. Please list this plugin as a dependency of the appropriate Root Game Feature Plugin.",
+    "ValidationError.GameFeature": "GameFeaturePlugin {0} does not depend on any Root Game Feature Plugin. Please use the \"Add To RootGFP\" Game Feature Action.",
     "IllegalReference_HardDependency": "Illegally hard references {0} asset {1}",
     "IllegalReference_AssetFilterFail": "Illegally references asset {0}. {1}",
     "IllegalReference_AssetFilterFailNative": "Illegally references native code in plugin '{0}'. The module package is '{1}'. {2}",
@@ -886,6 +890,8 @@
     "StaticMesh_NonNaniteTooManyVerts": "Non-Nanite Static Mesh[{0}] exceeding vert budget[LOD{1} has {2} verts out of an allowed budget {3}]. This will introduce an unacceptable runtime rendering cost!!",
     "TextureValidator_TooBig": "Non-cinematic texture is too big. It is {0}x{1}. Use LODBias to reduce its size to {2} or lower",
     "CreativeCostValidator": "OldCost({DoNotLocalizeOldCost}kb) NewCost({DoNotLocalizeNewCost}kb). Asset grew by {DoNotLocalizeChangePercent}%. Questions see Eric.Knapik\nPotentially cut down on the number of hard references by using soft references instead.\nPlease fix or run past Creative Team for approval, must be approved by Zak Phelps or Carlos Cuello.\nIgnore asset validation by adding to DefaultEngine.ini under [/Script/FortniteEditor.FortValidator_CreativeCost] add the following line\n+ClassesToSkipValidator=(Class={DoNotLocalizeAssetName},PercentIncreased={DoNotLocalizeChangePercent})\n",
+    "PlaylistAthenaValidator_HardDepOnUploadedPlugin": "Playlist contains a hard reference to \"{package}\" in \"{plugin}\"  but plugin is marked for upload to the artifact service.A hard reference to a plugin that uploads to the artifact service is not allowed!",
+    "PlaylistAthenaValidator_HardDepOnModifiedPlugin": "Plugin \"{plugin}\" uploads to artifact service but is a hard dependency for playlist \"{playlist}\" due to a reference to \"{package}\"! Hard dependency needs to be removed for playlist to be valid.",
     "PhysicsAsset_TooManyPhysicsCollisionPolys": "Polygon count for Physics Collision shapes exceeds {0} budget. It currently has {1}. Reduce to less than {2}",
     "ValidationError.AssetPathLength_BrowserUtils": "Potential cook path for asset {0} is too long and might go over the path length on certain platforms. {1} of max {2}.\nThis is an assumed potential path for what cook machines could use, your path locally might be shorter than the cook machines.",
     "PresubmitAssetCheck": "Pre-Submit Asset Check",
@@ -901,11 +907,15 @@
     "BPValidationError_RestrictedData": "This asset contains restricted data.",
     "FortExposedContent.ValidatingDirtyPackage": "This package has unsaved in-memory changes, so the validation result of the on-disk file may not be accurate. Save this package for accurate results.",
     "SkeletalMeshes_TooManyVerts": "Too many verts in LOD(s): {0} for budget {1}. It currently has {2}. Reduce to less than {3}",
+    "PlaylistAthenaValidator_UnableToGetDepsForPlaylist": "Unable to get dependencies for playlist. Cannot validate playlist dependencies!",
     "PlaylistAthenaValidator_UseMultidivisionQueuesTrue": "Use Multidivision Queues cannot be true if Is Tournament is false.",
     "Particles_SkelVertSurface": "Use of SkelVertSurface Cascade module is not allowed in Fortnite. Please replace with BoneSocket module. Emitter: {0}",
     "AnimationBlueprint_DefaultMeshSimulation": "default mesh physics asset",
     "SkeletalMeshes_MissingLODs": "{0} missing LOD(s): {1}",
     "NiagaraSystem_NoEffectType": "{0} missing an Effect Type asset"
+  },
+  "FortVehicleCosmeticsItemDefinitions": {
+    "ErrorItemTypeTagEmpty": "You must have an item type tag to make {0} a valid item definition."
   },
   "GameplayEventCachedBindingDetails": {
     "NullProperty": "None"
@@ -946,6 +956,10 @@
   },
   "HeroAssetFormCueReferences": {
     "Check": "Check Cue References..."
+  },
+  "ItemAssetDefinition": {
+    "AssetDefinition_ItemFortWrapperDefinition": "Item Fort Wrapper Definition",
+    "AssetTypeActions_ItemVariant": "Item Variant"
   },
   "ItemDefInPlaylists": {
     "Playlist": "Playlist"
@@ -1088,6 +1102,7 @@
     "GridSnapping": "Grid Snapping",
     "Height": "Height",
     "DynamicUIEditorMoveAllowedWidget": "Move Allowed Widget",
+    "TransactionReplaceActiveConstraint": "Replace Active Constraint",
     "LocationGridSnap_ToolTip": "Set the grid snap value",
     "CurrentGridSnapValue": "Snapping Value",
     "Width": "Width"
@@ -1185,17 +1200,21 @@
     "SingleTagCopyTooltip": "Copy as ObjectiveFilter_{0}",
     "CreateQuestLabel": "Create Quest with ObjectiveFilter_{0}",
     "CreateQuestTooltip": "Create a new quest asset that already has objective with selected objective filter",
+    "Column_Events": "Events",
     "FilterVerbTypesButton": "Filter Verb Types",
     "ObjectiveDebugger_Pause": "Pause",
     "ObjectiveDebugger_PauseToolTip": "Pause incoming objective events",
     "ObjectiveDebugger_Record": "Record",
     "CheckBoxListVerbTypes": "Show All Verb Types",
+    "DistanceTravelledSettingsButton": "Show Distance Travelled",
     "Show_GameplayEvents": "Show Gameplay Events",
+    "Show_RegisteredEvents": "Show Registered Events",
     "ObjectiveDebugger_RecordToolTip": "Start recording objective events",
     "Column_Time": "Time",
     "VerbMessageActions": "Verb Actions",
     "Column_Verb": "Verb Message",
-    "ObjectiveDebugger_ShowGameplayEventsToolTip": "When enabled, gameplay event messages appear in the debugger"
+    "ObjectiveDebugger_ShowGameplayEventsToolTip": "When enabled, gameplay event messages appear in the debugger",
+    "ObjectiveDebugger_RegisteredEventsToolTip": "When enabled, registered events will show in the debugger"
   },
   "SolarisEditor": {
     "StaleClassCheck_Message_StaleInstance": "'{Object}' is an instance of a stale class {Class} that no longer exists. This instance will not work until class is redefined and map is re-loaded.",
@@ -1223,9 +1242,9 @@
     "LinkComplete": "Linking complete.",
     "VerseDeadInstancesCheck.PossibleCauses": "Missing Verse script class definitions and renaming, deleting, or moving .verse files containing Verse script classes can cause validation failure.\n\nFix code and rebuild Verse before continuing?",
     "VerseLogTooltip": "Open Message Log to view Verse errors and build status",
+    "OpenVSCodeButton": "Open Project in VS Code",
     "VkProjectVerseCheck.OpenVSCode": "Open VS Code",
     "VerseExplorerToolTip": "Open Verse Explorer to manage the Verse project. Options to add, remove and manage files can be accessed by right clicking",
-    "OpenVSCodeButton": "Open project in VS Code",
     "OpenVSCodeButtonToolTip": "Open the current project in VS Code",
     "VkProjectVerseCheck.OpenVSCodeTooltip": "Open the current project's workspace in VS Code.",
     "EditWithVersaTileToolTip": "Opens this verse file in an experimental Visual Verse Composer",
@@ -1421,6 +1440,7 @@
     "InitializingUpload": "Initializing...",
     "ModuleDependencyCycle": "Module dependency cycle detected on {0}",
     "StagingModules": "Preparing project for upload...",
+    "StagingModulesWithoutUpload": "Preparing project...",
     "NoModuleToUpload": "Project has no root or public module to upload",
     "BasicUserError": "Project is not valid, see message log for more detail",
     "BasicUserWarning": "Project may not be valid for basic users, see message log for more detail",
@@ -1670,7 +1690,6 @@
     "CreateNewScriptComponentModuleFailed": "Failed to create Verse script component module named {0}",
     "CreateNewScriptComponentFailed": "Failed to create Verse script component named {0}",
     "VerseComponentModeToggle_ToolTip": "Toggle Verse Component Mode",
-    "CreateNewScriptComponentFailed_NoVerseIncluded": "Verse is not included in this build - Failed to create Verse script component",
     "VerseComponentSingleObjectFormat": "{0} {1}",
     "VerseComponentMultipleObjectFormat": "{0} {1}({2})"
   },
@@ -1741,8 +1760,7 @@
     "InvalidOriginatingIslandId": "Only island projects should be attempted to be converted through this flow",
     "ConvertedBeforeTitle": "Regenerating Project Data",
     "InvalidIslandTemplate": "This island template is not supported and can not be converted",
-    "ConvertedBeforeMessage": "This project has had UEFN Data generated before but we can't find it locally. We can regenerate this data from the Creative island but would not include changes you've worked on in UEFN.\n\nAre you sure?",
-    "ConversionWarningMessage": "You are about to convert this island to a UEFN project. You will not be able to open it from Fortnite Creative anymore.\n\nPersistence is not available for the following devices:\n• Timer\n• Tracker\n• Switch\n\nPlayer data associated with Save Point devices will not transfer if you decide to publish from the Editor or Creator Portal. <a id=\"conversion_docs\" href=\"{IslandConversionDocsURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Learn More</>\n\nYou can revert the project to a Creative island from the <a id=\"creator_portal\" href=\"{CreatorPortalURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Creator Portal</> at any time. This will restore players' Save Point data, but will discard any changes you made in the Editor.\n\nConverting can take a long time for large islands with many actors."
+    "ConvertedBeforeMessage": "This project has had UEFN Data generated before but we can't find it locally. We can regenerate this data from the Creative island but would not include changes you've worked on in UEFN.\n\nAre you sure?"
   },
   "ValkyrieDetailsViewObjectFilter": {
     "RemoveEntityComponent_ToolTip": "Removes the component"
@@ -1820,10 +1838,7 @@
     "ValkyrieCloseProject_ToolTip": "Closes the current Project.",
     "Coming Soon": "Coming Soon!",
     "ContinueToLoad": "Continue to load",
-    "ValkyrieConvertSelectedToPrefab": "Convert Selected To Prefab",
-    "ValkyrieCreatePrefab": "Create Prefab",
     "ValkyrieOpenProject_ToolTip": "Create a new Project or open existing Projects.",
-    "ValkyrieCreatePrefab_ToolTip": "Create prefab from selection.",
     "VkProjectSubMenuDebugSection": "Debug",
     "ExportProjectLocalization.ErrorTitle": "Error",
     "ExportProjectLocalization.Label": "Export Localization",
@@ -1831,6 +1846,7 @@
     "LocalizationSectionLabel": "Localization",
     "ExportProjectLocalization.SuccessMessage": "Localization data was successfully updated.\n\nWould you like to browse to the localization data?",
     "SetAsCurrentProjectTooltip": "Make this project the current one",
+    "ModerationMenuEntryText": "Moderation",
     "ValkyrieOpenProject": "New/Open Project...",
     "NewsWindowTitle": "News",
     "ValkyrieOpenProjectFolder": "Open Project Folder...",
@@ -1850,6 +1866,7 @@
     "RemoveReferenceContentLabel": "Remove Referenced Content",
     "RemoveReferenceContentTooltip": "Remove Referenced Content from the project",
     "ValkyrieRestrictiveMode": "Restrictive Mode",
+    "ResolveModerationIssuesTooltip": "Review asset compliance issues encountered during project moderation.",
     "SetAsCurrentProjectLabel": "Set As Current Project",
     "ExportProjectLocalization.SuccessTitle": "Success",
     "ValkyrieRestrictiveMode_ToolTip": "Toggle Restrictive Mode",
@@ -1973,9 +1990,11 @@
     "InvalidPermissionsFound": "{0}({1}) has missing permissions.\n\nUsing the maximum allowable permission.\n\nPlease contact Epic Support to fix this error."
   },
   "ValkyrieFortniteEditorFlows": {
+    "PrepareUploadProject.Error.InternalError": "Internal error",
     "UploadProject.Error.InternalError": "Internal error",
     "PrepareProjectSourceDataForUpload.FailCleanupIntermediateAssets": "Internal error: There is no project opened",
-    "UploadProject.Error.NoProject": "No project is loaded"
+    "UploadProject.Error.NoProject": "No project is loaded",
+    "PrepareUploadProject.Error.ValidationFailed": "Validation failed"
   },
   "ValkyrieFortniteEditorInternalPlayMenu": {
     "ValkyriePlayAsClient": "Valkyrie Connect As Client",
@@ -1998,6 +2017,7 @@
     "ValkyrieDocumentation_ToolTip": "Authoritative, in-depth technical resources for using {0}",
     "ValkyriePlaySubMenuAutoStartGame": "Auto Start Game",
     "CreateBuild.MemoryCheckWarning": "Before publishing in Creator Portal, you must Launch Memory Calculation.\r\nReturn here after you have created the final private version to check your project's memory.\r\nYour memory calculation result will be updated in Creator Portal, allowing you to Publish your project.\r\n<a id=\"memory_management_docs\" href=\"{0}\" style=\"ValkyrieEditor.HyperlinkStyle\">Learn More</>",
+    "CreateBuild.ToolTip.Error.ModerationSoftfail": "Before you can publish this project, you must resolve the moderation issues identified on the Creator Portal.",
     "ValkyrieBindToNewProjectOnContentService_MenuEntry": "Bind to New Project on Content Service",
     "MemorySamplingStateDialog.CalculateAnywayButton": "Calculate Anyway",
     "CreateBuild.CancelButton": "Cancel",
@@ -2010,7 +2030,7 @@
     "FailedToOpenClient": "Cannot Launch Fortnite. Please Ensure That the Epic Games Launcher is Installed and Up To Date.",
     "PushChangesButtonToolTip": "Changes you've made will be pushed into the session view.",
     "CreateBuild.CheckInPrompt": "Check in to revision control to back up your recently published project?",
-    "PlayerSaveDataWarningOnPublishTitle": "Clear Save Point Data",
+    "PlayerDataResetOnInitialPublishWarningTitle": "Clear Player Data",
     "ResetProjectBindingsConfirmation.Title": "Confirm New Project",
     "ValkyriePlaySubMenuConnectToPlatform": "Connect To Platform",
     "PlayStatusWidget_Connected": "Connected",
@@ -2032,6 +2052,7 @@
     "ValkyriePlaySubMenuPlayOptionsSection": "Dev Play Options",
     "ValkyriePlaySubMenuDevSection": "Dev Status",
     "ValkyriePlaySubMenuSyncSection": "Dev Sync",
+    "PublishWithIslandAuthorityWarningTitle": "Discard Island Changes",
     "CreateBuild.Done": "Done",
     "ValkyrieLiveEdit_ToolTip_Base": "Enables or disables live updates in a connected game session while editing.",
     "StopGameLabel": "End Game",
@@ -2115,14 +2136,14 @@
     "CreateBuild.BuildCodeLabel": "Private Version",
     "CreateBuild.SuccessTitle": "Private version has been created!",
     "ValkyrieProjectSubMenuProjectSection": "Project",
-    "PlayerSaveDataWarningPublicVersionButtonText": "Publish",
+    "CreateBuildPublicVersionButtonText": "Publish",
     "PublishProjectDialogTitle": "Publish Project",
     "PublishProjectMenu": "Publish Project...",
     "PublishProjectMessage": "Publishing Project...",
-    "PlayerSaveDataWarningOnPublishMessage": "Publishing this project from the Editor or Creator Portal for the first time will not transfer the player data associated with Save Point devices. Returning players will experience your island as if playing it for the first time.\n",
     "PushChangesButton": "Push Changes",
     "PushVerseChangesButton": "Push Verse Changes",
     "PushChangesButtonToolTip_MatchActive": "Push changes is disabled while the game is running.",
+    "PushChangesButtonToolTip_PushRequired": "Push changes is required to view changes.",
     "RefreshButtonToolTip": "Re-upload changes to the server to see them in the Fortnite client.",
     "VkProjectSubMenuReferencesSection": "References",
     "PlayStatusWidget_StatusRefresh": "Refresh to upload changes.",
@@ -2174,7 +2195,7 @@
     "Play.Error.Title": "Unable to Play",
     "Refresh.Error.Title": "Unable to Refresh",
     "CreateBuild.UploadButton": "Upload",
-    "PlayerSaveDataWarningPrivateVersionButtonText": "Upload",
+    "CreateBuildPrivateVersionButtonText": "Upload",
     "PlayStatusWidget_StatusUptoDate": "Upload Complete.",
     "ValkyrieUploadProject_MenuEntry": "Upload Project",
     "ValkyrieUploadProject_MenuEntry_ToolTip": "Upload current project to content service",
@@ -2182,6 +2203,8 @@
     "UploadToTestCode": "Upload to Private Version...",
     "UploadToTestCodeMessage": "Uploading to Private Version...",
     "PlayStatusWidget_StatusSpinner": "Uploading...",
+    "UtilityMenu": "Utility",
+    "UtilityMenu_ToolTip": "Utility actions & widgets to speed up development.",
     "ValkyrieValidateProject_MenuEntry": "Validate Project",
     "ValkyrieValidateProject_MenuEntry_ToolTip": "Validate current project",
     "ValkyrieFortniteEditor": "Valkyrie Fortnite Editor Commands",
@@ -2199,6 +2222,13 @@
     "ValkyrieFortniteEditorMenuCommon_FailedToCreateSessionError": "{0}\n\nYour backend is: {1}\nYour Build is: {2}\nRegion: {3}\nBuildIdOverride is: {4}",
     "ValkyrieBrowseCSProjectNeedsUpload_ToolTip": "{0}/nYour Project is not yet present in the backend, this option will become available after you've uploaded for the first time.",
     "MemorySamplingStateDialog.MemoryRatio": "{0}/{1}"
+  },
+  "ValkyrieFortniteTexts": {
+    "IslandConversionWarningMessage": "Opening this island will convert it to a UEFN project. You will not be able to open it from Fortnite Creative anymore.\n\n{PlayerDataResetWarning}\nYou can revert the project to a Creative island from the <a id=\"creator_portal\" href=\"{CreatorPortalURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Creator Portal</> at any time. This will restore players' data, but will discard any changes you made in the Editor.\n\nConverting can take a long time for large islands with many actors.",
+    "PlayerDataResetWarningMessage": "Player data associated with the following devices will not transfer if you decide to publish from the Editor or Creator Portal (<a id=\"conversion_docs\" href=\"{IslandConversionDocsURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Learn More</>):\n{DevicesWithoutDataMigrationSupport}",
+    "PlayerDataResetOnInitialPublishWarningMessage": "Publishing this project from the Editor or Creator Portal for the first time will not transfer the player data associated with the following devices:\n{DevicesWithoutDataMigrationSupport}\nReturning players will experience your island as if playing it for the first time.\n",
+    "IslandDataAuthorityWarningMessage": "This island was last published from Fortnite Creative.\n\n{PlayerDataResetMessage}\nIn addition, you will lose any changes made to the island in Creative since you last reverted it from UEFN.\n",
+    "DevicesWithoutDataMigrationSupport": "• Save Point\n• Timer\n• Tracker\n• Switch\n"
   },
   "ValkyrieImportIslandDialog": {
     "CancelButtonText": "Cancel",
@@ -2236,7 +2266,6 @@
   "ValkyrieIslandProjectCustomization": {
     "ConvertIslandActionText": "Convert",
     "ConversionDisallowedAnnotationText": "Converting this island is not allowed because you are not the original creator.",
-    "NoUEFNDataAnnotationText": "Opening this island will convert it to a UEFN project. You will not be able to open it from Fortnite Creative anymore.\n\nPersistence is not available for the following devices:\n• Timer\n• Tracker\n• Switch\n\nPlayer data associated with Save Point devices will not transfer if you decide to publish from the Editor or Creator Portal. <a id=\"conversion_docs\" href=\"{IslandConversionDocsURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Learn More</>\n\nYou can revert the project to a Creative island from the <a id=\"creator_portal\" href=\"{CreatorPortalURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Creator Portal</> at any time. This will restore players' Save Point data, but will discard any changes you made in the Editor.\n\nConverting can take a long time for large islands with many actors.",
     "HasUEFNDataButNoLocalDataAnnotationText": "This project has been opened in the editor before but the project data can't be found locally. Regenerating the data from the Creative Island will not include any changes you made in the editor."
   },
   "ValkyrieLocalProjectCustomization": {
@@ -2271,9 +2300,6 @@
     "MissingVKPluginJson": "Missing ValkyrieSettings json object",
     "InvalidVKPluginDescriptor": "Plugin descriptor is invalid\n{0}\n{1}"
   },
-  "ValkyriePrefab": {
-    "CreateBlueprintFromActorFailed": "Unable to create a blueprint from actor."
-  },
   "ValkyrieProject": {
     "ContentRemoval.Indent": "\t\t",
     "ContentRemoval.ReferencedAssets": "\tReferenced asset(s):",
@@ -2294,7 +2320,6 @@
     "ExternalContentRemovalTitle": "Confirm Referenced Content Removal",
     "ContentRemoval": "Content Removal",
     "ContentRemovalPage": "Content Removal",
-    "RefContentFailNotif.CopyToClipboard": "Copy To Clipboard",
     "RemovePublicApiErrorNotif": "Could not remove project public api",
     "RefContentFailNotif.Dismiss": "Dismiss",
     "VKPluginNotExplicitlyLoaded": "ExplicitlyLoaded must be set to true in {0} plugin descriptor\n{1}",
@@ -2488,10 +2513,16 @@
     "ProjectSizeTabToolTip": "View a breakdown of your project size"
   },
   "ValkyrieProjectStagingContext": {
+    "Cancel": "Cancel",
     "FailLoadBindings": "Failed to load bindings for project {0}",
-    "FailSyncWithContentService": "Failed to sync project {0} with content service\nError: {1}",
+    "FailSyncWithContentService": "Failed to sync project {0} with content service",
     "FailSyncWithContentServiceNotLoggedIn": "Failed to sync project {0} with content service because user is not logged in\nError: {1}",
+    "FailWriteBindings": "Failed to write project bindings for {0}",
     "UnauthorizedAccessDialog.No": "No, leave as is",
+    "FValkyrieFortniteModerationStatus_ErrorNotificationContent": "One or more of your assets violates the <a id=\"epic_guidelines\" href=\"https://www.epicgames.com/site/en-US/content-guidelines\" style=\"ValkyrieEditor.HyperlinkStyle\">Epic Content Guidelines</>.\n\nFor the list of these assets go to the Creator Portal.",
+    "FValkyrieFortniteModerationStatus_ErrorDialogContent": "One or more of your assets violates the <a id=\"epic_guidelines\" href=\"https://www.epicgames.com/site/en-US/content-guidelines\" style=\"ValkyrieEditor.HyperlinkStyle\">Epic Content Guidelines</>.\n\nFor the list of these assets go to the Creator Portal. You must ensure that all of your assets comply with the guidelines. Continued violation will result in your project being locked.",
+    "OpenCreatorPortal": "Open Creator Portal",
+    "FValkyrieFortniteModerationStatus_ErrorDialogTitle": "Project Moderation Warning",
     "UnauthorizedAccess.Title": "Unauthorized Access",
     "UnauthorizedAccessDialog.Yes": "Yes, change project",
     "UnauthorizedAccessDialog.Message": "You don't have access to project {0} on the content service.\n\nDo you want to bind this local project with a new project on the content service?"
@@ -2557,6 +2588,7 @@
     "ConnectToBeaconFailInit": "Failed to init beacon",
     "QueryUserSessionIdTokenFailed": "Failed to query game session token",
     "QueryEncryptionKeyFailed": "Failed to query session encryption key",
+    "Matchmaking": "Matchmaking ...",
     "MatchmakingFail": "Matchmaking failed",
     "PlatformCook": "Platform Cook",
     "QueryUserSessionIdToken": "Querying game session token",
