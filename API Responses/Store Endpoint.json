@@ -1,7 +1,7 @@
 {
   "refreshIntervalHrs" : 1,
   "dailyPurchaseHrs" : 24,
-  "expiration" : "2023-11-16T09:00:00.000Z",
+  "expiration" : "2023-11-16T10:00:00.000Z",
   "storefronts" : [ {
     "name" : "CurrencyStorefront",
     "catalogEntries" : [ {
@@ -1795,241 +1795,8 @@
   }, {
     "name" : "BRWeeklyStorefront",
     "catalogEntries" : [ {
-      "devName" : "[VIRTUAL]1 x Stash'd for 800 MtxCurrency",
-      "offerId" : "v2:/11028de658bfbb37f633ee5aaa1341466d4e0e888da00c625746aa8c34b902c5",
-      "fulfillmentIds" : [ ],
-      "dailyLimit" : -1,
-      "weeklyLimit" : -1,
-      "monthlyLimit" : -1,
-      "categories" : [ ],
-      "prices" : [ {
-        "currencyType" : "MtxCurrency",
-        "currencySubType" : "",
-        "regularPrice" : 800,
-        "dynamicRegularPrice" : 800,
-        "finalPrice" : 800,
-        "saleExpiration" : "9999-12-31T23:59:59.999Z",
-        "basePrice" : 800
-      } ],
-      "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_326_M_SharpDresserBlack.DAv2_CID_A_326_M_SharpDresserBlack",
-        "SectionId" : "",
-        "LayoutId" : "Rufus14.99",
-        "TileSize" : "Small",
-        "AnalyticOfferGroupId" : "Rufus-GalaxyPack"
-      },
-      "matchFilter" : "",
-      "filterWeight" : 0.0,
-      "appStoreId" : [ ],
-      "requirements" : [ {
-        "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaCharacter:cid_a_326_athena_commando_m_sharpdresserblack",
-        "minQuantity" : 1
-      } ],
-      "offerType" : "StaticPrice",
-      "giftInfo" : {
-        "bIsEnabled" : true,
-        "forcedGiftBoxTemplateId" : "",
-        "purchaseRequirements" : [ ],
-        "giftRecordIds" : [ ]
-      },
-      "refundable" : true,
-      "metaInfo" : [ {
-        "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_326_M_SharpDresserBlack.DAv2_CID_A_326_M_SharpDresserBlack"
-      }, {
-        "key" : "SectionId",
-        "value" : ""
-      }, {
-        "key" : "LayoutId",
-        "value" : "Rufus14.99"
-      }, {
-        "key" : "TileSize",
-        "value" : "Small"
-      }, {
-        "key" : "AnalyticOfferGroupId",
-        "value" : "Rufus-GalaxyPack"
-      } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_326_Athena_Commando_M_SharpDresserBlack.DA_Featured_CID_A_326_Athena_Commando_M_SharpDresserBlack",
-      "itemGrants" : [ {
-        "templateId" : "AthenaCharacter:cid_a_326_athena_commando_m_sharpdresserblack",
-        "quantity" : 1
-      } ],
-      "additionalGrants" : [ ],
-      "sortPriority" : -6,
-      "catalogGroupPriority" : 0
-    }, {
-      "devName" : "[VIRTUAL]1 x Galaxy Scout, 1 x Nucleus, 1 x Stardust Strikers, 1 x Celestia for -1 MtxCurrency",
-      "offerId" : "v2:/797ac8ffd3d49b753b9bf8559daa7e1706ddf8855bb2d11e9a70646aa694d8c7",
-      "fulfillmentIds" : [ ],
-      "dailyLimit" : -1,
-      "weeklyLimit" : -1,
-      "monthlyLimit" : -1,
-      "categories" : [ ],
-      "prices" : [ ],
-      "dynamicBundleInfo" : {
-        "discountedBasePrice" : -1200,
-        "regularBasePrice" : 0,
-        "floorPrice" : 200,
-        "currencyType" : "MtxCurrency",
-        "currencySubType" : "",
-        "displayType" : "AmountOff",
-        "bundleItems" : [ {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 2000,
-          "discountedPrice" : 2000,
-          "alreadyOwnedPriceReduction" : 2000,
-          "item" : {
-            "templateId" : "AthenaCharacter:cid_337_athena_commando_f_celestial",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 0,
-          "discountedPrice" : 0,
-          "alreadyOwnedPriceReduction" : 0,
-          "item" : {
-            "templateId" : "AthenaBackpack:bid_562_celestialfemale",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 1200,
-          "discountedPrice" : 1200,
-          "alreadyOwnedPriceReduction" : 1200,
-          "item" : {
-            "templateId" : "AthenaPickaxe:pickaxe_id_429_celestialfemale1h",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 800,
-          "discountedPrice" : 800,
-          "alreadyOwnedPriceReduction" : 800,
-          "item" : {
-            "templateId" : "AthenaGlider:glider_id_228_celestialfemale",
-            "quantity" : 1
-          }
-        } ]
-      },
-      "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Featured_GalaxyPack.DAv2_Featured_GalaxyPack",
-        "SectionId" : "",
-        "LayoutId" : "Rufus14.99",
-        "TileSize" : "DoubleWide",
-        "AnalyticOfferGroupId" : "Rufus-GalaxyPack"
-      },
-      "matchFilter" : "",
-      "filterWeight" : 0.0,
-      "appStoreId" : [ ],
-      "requirements" : [ ],
-      "offerType" : "DynamicBundle",
-      "giftInfo" : {
-        "bIsEnabled" : true,
-        "forcedGiftBoxTemplateId" : "",
-        "purchaseRequirements" : [ ],
-        "giftRecordIds" : [ ]
-      },
-      "refundable" : true,
-      "metaInfo" : [ {
-        "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Featured_GalaxyPack.DAv2_Featured_GalaxyPack"
-      }, {
-        "key" : "SectionId",
-        "value" : ""
-      }, {
-        "key" : "LayoutId",
-        "value" : "Rufus14.99"
-      }, {
-        "key" : "TileSize",
-        "value" : "DoubleWide"
-      }, {
-        "key" : "AnalyticOfferGroupId",
-        "value" : "Rufus-GalaxyPack"
-      } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_GalaxyPack.DA_Featured_GalaxyPack",
-      "itemGrants" : [ {
-        "templateId" : "AthenaCharacter:cid_337_athena_commando_f_celestial",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaBackpack:bid_562_celestialfemale",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaPickaxe:pickaxe_id_429_celestialfemale1h",
-        "quantity" : 1
-      }, {
-        "templateId" : "AthenaGlider:glider_id_228_celestialfemale",
-        "quantity" : 1
-      } ],
-      "additionalGrants" : [ ],
-      "sortPriority" : -1,
-      "catalogGroupPriority" : 0
-    }, {
-      "devName" : "[VIRTUAL]1 x It's a Vibe for 300 MtxCurrency",
-      "offerId" : "v2:/cf5d693f3a139186be355d85d924efbfa0f860ce929774b259b28b0ae683c1f3",
-      "fulfillmentIds" : [ ],
-      "dailyLimit" : -1,
-      "weeklyLimit" : -1,
-      "monthlyLimit" : -1,
-      "categories" : [ ],
-      "prices" : [ {
-        "currencyType" : "MtxCurrency",
-        "currencySubType" : "",
-        "regularPrice" : 300,
-        "dynamicRegularPrice" : 300,
-        "finalPrice" : 300,
-        "saleExpiration" : "9999-12-31T23:59:59.999Z",
-        "basePrice" : 300
-      } ],
-      "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_Aloha_C82XX.DAv2_EID_Aloha_C82XX",
-        "SectionId" : "",
-        "LayoutId" : "Rufus14.99",
-        "TileSize" : "Small",
-        "AnalyticOfferGroupId" : "Rufus-GalaxyPack"
-      },
-      "matchFilter" : "",
-      "filterWeight" : 0.0,
-      "appStoreId" : [ ],
-      "requirements" : [ {
-        "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaDance:eid_aloha_c82xx",
-        "minQuantity" : 1
-      } ],
-      "offerType" : "StaticPrice",
-      "giftInfo" : {
-        "bIsEnabled" : true,
-        "forcedGiftBoxTemplateId" : "",
-        "purchaseRequirements" : [ ],
-        "giftRecordIds" : [ ]
-      },
-      "refundable" : true,
-      "metaInfo" : [ {
-        "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_Aloha_C82XX.DAv2_EID_Aloha_C82XX"
-      }, {
-        "key" : "SectionId",
-        "value" : ""
-      }, {
-        "key" : "LayoutId",
-        "value" : "Rufus14.99"
-      }, {
-        "key" : "TileSize",
-        "value" : "Small"
-      }, {
-        "key" : "AnalyticOfferGroupId",
-        "value" : "Rufus-GalaxyPack"
-      } ],
-      "itemGrants" : [ {
-        "templateId" : "AthenaDance:eid_aloha_c82xx",
-        "quantity" : 1
-      } ],
-      "additionalGrants" : [ ],
-      "sortPriority" : -3,
-      "catalogGroupPriority" : 0
-    }, {
-      "devName" : "[VIRTUAL]1 x Everybody Loves Me for 500 MtxCurrency",
-      "offerId" : "v2:/601a328b8e09b5a80832151581f145ef5535ae447733aebf5572523ee293440a",
+      "devName" : "[VIRTUAL]1 x Toosie Slide for 500 MtxCurrency",
+      "offerId" : "v2:/8149690dbcc440f81a18ec45da6ae13f572e7940e3011df9e0e736ed2aa938be",
       "fulfillmentIds" : [ ],
       "dailyLimit" : -1,
       "weeklyLimit" : -1,
@@ -2045,20 +1812,18 @@
         "basePrice" : 500
       } ],
       "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_DuckTeacher_9IPLU.DAv2_EID_DuckTeacher_9IPLU",
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_ArtGiant.DAv2_EID_ArtGiant",
         "SectionId" : "",
-        "LayoutId" : "Rufus14.99",
+        "LayoutId" : "Rufus13.99",
         "TileSize" : "Small",
-        "AnalyticOfferGroupId" : "Rufus-GalaxyPack",
-        "StoreToastHeader" : "Back",
-        "StoreToastBody" : "ItemAvailableNow"
+        "AnalyticOfferGroupId" : "Rufus-Camille"
       },
       "matchFilter" : "",
       "filterWeight" : 0.0,
       "appStoreId" : [ ],
       "requirements" : [ {
         "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaDance:eid_duckteacher_9iplu",
+        "requiredId" : "AthenaDance:eid_artgiant",
         "minQuantity" : 1
       } ],
       "offerType" : "StaticPrice",
@@ -2071,108 +1836,65 @@
       "refundable" : true,
       "metaInfo" : [ {
         "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_DuckTeacher_9IPLU.DAv2_EID_DuckTeacher_9IPLU"
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_EID_ArtGiant.DAv2_EID_ArtGiant"
       }, {
         "key" : "SectionId",
         "value" : ""
       }, {
         "key" : "LayoutId",
-        "value" : "Rufus14.99"
+        "value" : "Rufus13.99"
       }, {
         "key" : "TileSize",
         "value" : "Small"
       }, {
         "key" : "AnalyticOfferGroupId",
-        "value" : "Rufus-GalaxyPack"
-      }, {
-        "key" : "StoreToastHeader",
-        "value" : "Back"
-      }, {
-        "key" : "StoreToastBody",
-        "value" : "ItemAvailableNow"
+        "value" : "Rufus-Camille"
       } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_EID_ArtGiant.DA_EID_ArtGiant",
       "itemGrants" : [ {
-        "templateId" : "AthenaDance:eid_duckteacher_9iplu",
+        "templateId" : "AthenaDance:eid_artgiant",
         "quantity" : 1
       } ],
       "additionalGrants" : [ ],
-      "sortPriority" : -2,
+      "sortPriority" : -6,
       "catalogGroupPriority" : 0
     }, {
-      "devName" : "[VIRTUAL]1 x Focus, 1 x Chuck Pack, 1 x Fixation, 1 x Vision Board, 1 x Controlled Focus for -1 MtxCurrency",
-      "offerId" : "v2:/866a178efcf685b972a90999a3cc7226a9efffeafce76a98ed10e7ff1ef9a454",
+      "devName" : "[VIRTUAL]1 x Zadie, 1 x Zadie Challenges for 1200 MtxCurrency",
+      "offerId" : "v2:/78553471ced048e15a0c96d0a0fa3d20436106ad0a58622a6e09391f9ebbae2e",
       "fulfillmentIds" : [ ],
       "dailyLimit" : -1,
       "weeklyLimit" : -1,
       "monthlyLimit" : -1,
       "categories" : [ ],
-      "prices" : [ ],
-      "dynamicBundleInfo" : {
-        "discountedBasePrice" : -1500,
-        "regularBasePrice" : 0,
-        "floorPrice" : 200,
+      "prices" : [ {
         "currencyType" : "MtxCurrency",
         "currencySubType" : "",
-        "displayType" : "AmountOff",
-        "bundleItems" : [ {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 1200,
-          "discountedPrice" : 1200,
-          "alreadyOwnedPriceReduction" : 1200,
-          "item" : {
-            "templateId" : "AthenaCharacter:cid_452_athena_commando_f_cyberfu",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 0,
-          "discountedPrice" : 0,
-          "alreadyOwnedPriceReduction" : 0,
-          "item" : {
-            "templateId" : "AthenaBackpack:bid_292_cyberfufemale",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 800,
-          "discountedPrice" : 800,
-          "alreadyOwnedPriceReduction" : 800,
-          "item" : {
-            "templateId" : "AthenaPickaxe:pickaxe_id_226_cyberfublade",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 800,
-          "discountedPrice" : 800,
-          "alreadyOwnedPriceReduction" : 800,
-          "item" : {
-            "templateId" : "AthenaGlider:glider_cyberfuglitch",
-            "quantity" : 1
-          }
-        }, {
-          "bCanOwnMultiple" : false,
-          "regularPrice" : 500,
-          "discountedPrice" : 500,
-          "alreadyOwnedPriceReduction" : 500,
-          "item" : {
-            "templateId" : "AthenaItemWrap:wrap_cyberfu_glitch",
-            "quantity" : 1
-          }
-        } ]
-      },
+        "regularPrice" : 1200,
+        "dynamicRegularPrice" : 1200,
+        "finalPrice" : 1200,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 1200
+      } ],
       "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/S24/DAv2_Bundle_Featured_CyberFu.DAv2_Bundle_Featured_CyberFu",
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_625_F_PinkTrooper.DAv2_CID_625_F_PinkTrooper",
         "SectionId" : "",
-        "LayoutId" : "Rufus14.99",
-        "TileSize" : "DoubleWide",
-        "AnalyticOfferGroupId" : "Rufus-GalaxyPack"
+        "LayoutId" : "Rufus13.99",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "Rufus-Camille"
       },
       "matchFilter" : "",
       "filterWeight" : 0.0,
       "appStoreId" : [ ],
-      "requirements" : [ ],
-      "offerType" : "DynamicBundle",
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_625_athena_commando_f_pinktrooper",
+        "minQuantity" : 1
+      }, {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "ChallengeBundleSchedule:bundleschedule_styles_pink_trooper_female",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
       "giftInfo" : {
         "bIsEnabled" : true,
         "forcedGiftBoxTemplateId" : "",
@@ -2182,43 +1904,121 @@
       "refundable" : true,
       "metaInfo" : [ {
         "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/S24/DAv2_Bundle_Featured_CyberFu.DAv2_Bundle_Featured_CyberFu"
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_625_F_PinkTrooper.DAv2_CID_625_F_PinkTrooper"
       }, {
         "key" : "SectionId",
         "value" : ""
       }, {
         "key" : "LayoutId",
-        "value" : "Rufus14.99"
+        "value" : "Rufus13.99"
       }, {
         "key" : "TileSize",
-        "value" : "DoubleWide"
+        "value" : "Normal"
       }, {
         "key" : "AnalyticOfferGroupId",
-        "value" : "Rufus-GalaxyPack"
+        "value" : "Rufus-Camille"
       } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CyberFu_Bundle.DA_Featured_CyberFu_Bundle",
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_625_Athena_Commando_F_PinkTrooper.DA_Featured_CID_625_Athena_Commando_F_PinkTrooper",
       "itemGrants" : [ {
-        "templateId" : "AthenaCharacter:cid_452_athena_commando_f_cyberfu",
+        "templateId" : "AthenaCharacter:cid_625_athena_commando_f_pinktrooper",
         "quantity" : 1
       }, {
-        "templateId" : "AthenaBackpack:bid_292_cyberfufemale",
-        "quantity" : 1
+        "templateId" : "ChallengeBundleSchedule:bundleschedule_styles_pink_trooper_female",
+        "quantity" : 1,
+        "attributes" : {
+          "refund_optional" : "true",
+          "remove_if_owned" : [ {
+            "templateId" : "CosmeticVariantToken:vtid_444_pinktrooperfemale_styleb",
+            "quantity" : 1
+          }, {
+            "templateId" : "CosmeticVariantToken:vtid_445_pinktrooperfemale_stylec",
+            "quantity" : 1
+          } ],
+          "extra_grant" : true
+        }
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -3,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Windwalker Echo for 800 MtxCurrency",
+      "offerId" : "v2:/3031ea35637c87e0050a6a7ef0966f0fc505cb3bc98b00b5675138c12b1c1218",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_047_F_Windwalker.DAv2_CID_A_047_F_Windwalker",
+        "offertag" : "tattooreactivity",
+        "ViolatorTag" : "Unreal",
+        "ViolatorIntensity" : "High",
+        "SectionId" : "",
+        "LayoutId" : "Rufus13.99",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "Rufus-Camille"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaCharacter:cid_a_047_athena_commando_f_windwalker",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_A_047_F_Windwalker.DAv2_CID_A_047_F_Windwalker"
       }, {
-        "templateId" : "AthenaPickaxe:pickaxe_id_226_cyberfublade",
-        "quantity" : 1
+        "key" : "offertag",
+        "value" : "tattooreactivity"
       }, {
-        "templateId" : "AthenaGlider:glider_cyberfuglitch",
-        "quantity" : 1
+        "key" : "ViolatorTag",
+        "value" : "Unreal"
       }, {
-        "templateId" : "AthenaItemWrap:wrap_cyberfu_glitch",
+        "key" : "ViolatorIntensity",
+        "value" : "High"
+      }, {
+        "key" : "SectionId",
+        "value" : ""
+      }, {
+        "key" : "LayoutId",
+        "value" : "Rufus13.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "Rufus-Camille"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_047_Athena_Commando_F_Windwalker.DA_Featured_CID_A_047_Athena_Commando_F_Windwalker",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:cid_a_047_athena_commando_f_windwalker",
         "quantity" : 1
       } ],
       "additionalGrants" : [ ],
       "sortPriority" : -4,
       "catalogGroupPriority" : 0
     }, {
-      "devName" : "[VIRTUAL]1 x Kuno, 1 x Dual Kama for 1500 MtxCurrency",
-      "offerId" : "v2:/ed1da80e22ecf9850811d77c1934ad814a5e1a328d892488f6f29bf52db4b69b",
+      "devName" : "[VIRTUAL]1 x Camille, 1 x Heartzattak for 1500 MtxCurrency",
+      "offerId" : "v2:/a369fc3f82b0528c6a33523e36192e09f9e18cade3ac7da588f0aa549cbdb5d0",
       "fulfillmentIds" : [ ],
       "dailyLimit" : -1,
       "weeklyLimit" : -1,
@@ -2234,22 +2034,27 @@
         "basePrice" : 1500
       } ],
       "meta" : {
-        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_362_F_BandageNinja.DAv2_CID_362_F_BandageNinja",
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/S22/DAv2_Character_Mouse.DAv2_Character_Mouse",
+        "offertag" : "promodesc69",
+        "ViolatorTag" : "Transform",
+        "ViolatorIntensity" : "High",
         "SectionId" : "",
-        "LayoutId" : "Rufus14.99",
-        "TileSize" : "Small",
-        "AnalyticOfferGroupId" : "Rufus-GalaxyPack"
+        "LayoutId" : "Rufus13.99",
+        "TileSize" : "Normal",
+        "AnalyticOfferGroupId" : "Rufus-Camille",
+        "StoreToastHeader" : "Back",
+        "StoreToastBody" : "ItemAvailableNow"
       },
       "matchFilter" : "",
       "filterWeight" : 0.0,
       "appStoreId" : [ ],
       "requirements" : [ {
         "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaCharacter:cid_362_athena_commando_f_bandageninja",
+        "requiredId" : "AthenaCharacter:character_mouse",
         "minQuantity" : 1
       }, {
         "requirementType" : "DenyOnItemOwnership",
-        "requiredId" : "AthenaBackpack:bid_226_bandageninjafemale",
+        "requiredId" : "AthenaBackpack:backpack_mouse",
         "minQuantity" : 1
       } ],
       "offerType" : "StaticPrice",
@@ -2262,33 +2067,297 @@
       "refundable" : true,
       "metaInfo" : [ {
         "key" : "NewDisplayAssetPath",
-        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_CID_362_F_BandageNinja.DAv2_CID_362_F_BandageNinja"
+        "value" : "/Game/Catalog/NewDisplayAssets/S22/DAv2_Character_Mouse.DAv2_Character_Mouse"
+      }, {
+        "key" : "offertag",
+        "value" : "promodesc69"
+      }, {
+        "key" : "ViolatorTag",
+        "value" : "Transform"
+      }, {
+        "key" : "ViolatorIntensity",
+        "value" : "High"
       }, {
         "key" : "SectionId",
         "value" : ""
       }, {
         "key" : "LayoutId",
-        "value" : "Rufus14.99"
+        "value" : "Rufus13.99"
       }, {
         "key" : "TileSize",
-        "value" : "Small"
+        "value" : "Normal"
       }, {
         "key" : "AnalyticOfferGroupId",
-        "value" : "Rufus-GalaxyPack"
+        "value" : "Rufus-Camille"
+      }, {
+        "key" : "StoreToastHeader",
+        "value" : "Back"
+      }, {
+        "key" : "StoreToastBody",
+        "value" : "ItemAvailableNow"
       } ],
-      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_CID_362_Athena_Commando_F_BandageNinja.DA_Featured_CID_362_Athena_Commando_F_BandageNinja",
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Character_Mouse.DA_Featured_Character_Mouse",
       "itemGrants" : [ {
-        "templateId" : "AthenaCharacter:cid_362_athena_commando_f_bandageninja",
+        "templateId" : "AthenaCharacter:character_mouse",
         "quantity" : 1
       }, {
-        "templateId" : "AthenaBackpack:bid_226_bandageninjafemale",
+        "templateId" : "AthenaBackpack:backpack_mouse",
         "quantity" : 1,
         "attributes" : {
           "extra_grant" : true
         }
       } ],
       "additionalGrants" : [ ],
+      "sortPriority" : -2,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Reaper for 800 MtxCurrency",
+      "offerId" : "v2:/d6bb25bfc640a6a2c520045fe7c3411caadc0f5dcdd7f8a02ab2664ef751ea5f",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 800,
+        "dynamicRegularPrice" : 800,
+        "finalPrice" : 800,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 800
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_HalloweenScythe.DAv2_Pickaxe_HalloweenScythe",
+        "SectionId" : "",
+        "LayoutId" : "Rufus13.99",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "Rufus-Camille"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaPickaxe:halloweenscythe",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_HalloweenScythe.DAv2_Pickaxe_HalloweenScythe"
+      }, {
+        "key" : "SectionId",
+        "value" : ""
+      }, {
+        "key" : "LayoutId",
+        "value" : "Rufus13.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "Rufus-Camille"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_PickaxeHalloween.DA_Featured_PickaxeHalloween",
+      "itemGrants" : [ {
+        "templateId" : "AthenaPickaxe:halloweenscythe",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
       "sortPriority" : -5,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Camille, 1 x Heartzattak, 1 x Rat Tail, 1 x Rattus Wrappus, 1 x Street Ratz for -1 MtxCurrency",
+      "offerId" : "v2:/734722b36498012a50c88a5837d4e87b24c7f54c785f61db65421560f4a59f05",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ ],
+      "prices" : [ ],
+      "dynamicBundleInfo" : {
+        "discountedBasePrice" : -800,
+        "regularBasePrice" : 0,
+        "floorPrice" : 200,
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "displayType" : "AmountOff",
+        "bundleItems" : [ {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 1500,
+          "discountedPrice" : 1500,
+          "alreadyOwnedPriceReduction" : 1500,
+          "item" : {
+            "templateId" : "AthenaCharacter:character_mouse",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 0,
+          "discountedPrice" : 0,
+          "alreadyOwnedPriceReduction" : 0,
+          "item" : {
+            "templateId" : "AthenaBackpack:backpack_mouse",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 800,
+          "discountedPrice" : 800,
+          "alreadyOwnedPriceReduction" : 800,
+          "item" : {
+            "templateId" : "AthenaPickaxe:pickaxe_mouse",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 300,
+          "discountedPrice" : 300,
+          "alreadyOwnedPriceReduction" : 300,
+          "item" : {
+            "templateId" : "AthenaItemWrap:wrap_mouse",
+            "quantity" : 1
+          }
+        }, {
+          "bCanOwnMultiple" : false,
+          "regularPrice" : 0,
+          "discountedPrice" : 0,
+          "alreadyOwnedPriceReduction" : 0,
+          "item" : {
+            "templateId" : "AthenaLoadingScreen:loadingscreen_mouse",
+            "quantity" : 1
+          }
+        } ]
+      },
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/S22/DAv2_Bundle_Mouse.DAv2_Bundle_Mouse",
+        "offertag" : "mousebundledesc",
+        "SectionId" : "",
+        "LayoutId" : "Rufus13.99",
+        "TileSize" : "DoubleWide",
+        "AnalyticOfferGroupId" : "Rufus-Camille"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ ],
+      "offerType" : "DynamicBundle",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/S22/DAv2_Bundle_Mouse.DAv2_Bundle_Mouse"
+      }, {
+        "key" : "offertag",
+        "value" : "mousebundledesc"
+      }, {
+        "key" : "SectionId",
+        "value" : ""
+      }, {
+        "key" : "LayoutId",
+        "value" : "Rufus13.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "DoubleWide"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "Rufus-Camille"
+      } ],
+      "displayAssetPath" : "/Game/Catalog/DisplayAssets/DA_Featured_Mouse_Bundle.DA_Featured_Mouse_Bundle",
+      "itemGrants" : [ {
+        "templateId" : "AthenaCharacter:character_mouse",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaBackpack:backpack_mouse",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaPickaxe:pickaxe_mouse",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaItemWrap:wrap_mouse",
+        "quantity" : 1
+      }, {
+        "templateId" : "AthenaLoadingScreen:loadingscreen_mouse",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -1,
+      "catalogGroupPriority" : 0
+    }, {
+      "devName" : "[VIRTUAL]1 x Boy's a Liar for 500 MtxCurrency",
+      "offerId" : "v2:/ea7d18d2a1abb7bf66694371b960fb386d0fbd91c09ed6f03ea96e6fdad6e4fc",
+      "fulfillmentIds" : [ ],
+      "dailyLimit" : -1,
+      "weeklyLimit" : -1,
+      "monthlyLimit" : -1,
+      "categories" : [ ],
+      "prices" : [ {
+        "currencyType" : "MtxCurrency",
+        "currencySubType" : "",
+        "regularPrice" : 500,
+        "dynamicRegularPrice" : 500,
+        "finalPrice" : 500,
+        "saleExpiration" : "9999-12-31T23:59:59.999Z",
+        "basePrice" : 500
+      } ],
+      "meta" : {
+        "NewDisplayAssetPath" : "/Game/Catalog/NewDisplayAssets/S26/DAv2_EID_Deceiver.DAv2_EID_Deceiver",
+        "SectionId" : "",
+        "LayoutId" : "Rufus13.99",
+        "TileSize" : "Small",
+        "AnalyticOfferGroupId" : "Rufus-Camille"
+      },
+      "matchFilter" : "",
+      "filterWeight" : 0.0,
+      "appStoreId" : [ ],
+      "requirements" : [ {
+        "requirementType" : "DenyOnItemOwnership",
+        "requiredId" : "AthenaDance:eid_deceiver",
+        "minQuantity" : 1
+      } ],
+      "offerType" : "StaticPrice",
+      "giftInfo" : {
+        "bIsEnabled" : true,
+        "forcedGiftBoxTemplateId" : "",
+        "purchaseRequirements" : [ ],
+        "giftRecordIds" : [ ]
+      },
+      "refundable" : true,
+      "metaInfo" : [ {
+        "key" : "NewDisplayAssetPath",
+        "value" : "/Game/Catalog/NewDisplayAssets/S26/DAv2_EID_Deceiver.DAv2_EID_Deceiver"
+      }, {
+        "key" : "SectionId",
+        "value" : ""
+      }, {
+        "key" : "LayoutId",
+        "value" : "Rufus13.99"
+      }, {
+        "key" : "TileSize",
+        "value" : "Small"
+      }, {
+        "key" : "AnalyticOfferGroupId",
+        "value" : "Rufus-Camille"
+      } ],
+      "itemGrants" : [ {
+        "templateId" : "AthenaDance:eid_deceiver",
+        "quantity" : 1
+      } ],
+      "additionalGrants" : [ ],
+      "sortPriority" : -7,
       "catalogGroupPriority" : 0
     } ]
   }, {
@@ -9389,7 +9458,7 @@
         "value" : "LimitedTime"
       }, {
         "key" : "LayoutId",
-        "value" : "Rufus19.99"
+        "value" : "LimitedTime.1"
       }, {
         "key" : "NewDisplayAssetPath",
         "value" : "/Game/Catalog/NewDisplayAssets/DAv2_RMT_FrozenLegends.DAv2_RMT_FrozenLegends"

@@ -12721,6 +12721,62 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.BronzeLoud": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BronzeLoud"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BronzeLoud_DisplayName",
+          "SourceString": "Set_01",
+          "LocalizedString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RiverCredit": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RiverCredit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RiverCredit_DisplayName",
+          "SourceString": "Set_02",
+          "LocalizedString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.EarthSavior": {
+        "tag": {
+          "TagName": "Cosmetics.Set.EarthSavior"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.EarthSavior_DisplayName",
+          "SourceString": "Guardians of the Globe",
+          "LocalizedString": "Guardians of the Globe"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DarkSnooping": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DarkSnooping"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkSnooping_DisplayName",
+          "SourceString": "Grim Reconning",
+          "LocalizedString": "Grim Reconning"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

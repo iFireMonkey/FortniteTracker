@@ -270,6 +270,31 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_FrostyFlights",
+            "SourceString": "FROSTY FLIGHTS",
+            "LocalizedString": "FROSTY FLIGHTS"
+          },
+          "WorldLocation": {
+            "X": -27967.877,
+            "Y": -124173.336,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.FrostyFlights"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj21",
+          "ActiveDiscoverableBlodIds": [
+            85
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_LuckyLanding",
             "SourceString": "LUCKY LANDING",
             "LocalizedString": "LUCKY LANDING"

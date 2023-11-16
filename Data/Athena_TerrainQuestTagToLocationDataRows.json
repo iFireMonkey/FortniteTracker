@@ -1,0 +1,645 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Athena_TerrainQuestTagToLocationDataRows",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'FortQuestTagToLocationDataRow'",
+        "ObjectPath": "/Script/FortniteGame"
+      }
+    },
+    "Rows": {
+      "Athena.Location.Meta.RiftPortalLoc.08": {
+        "WorldLocation": {
+          "X": -70032.0,
+          "Y": 54456.0,
+          "Z": -1824.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.07": {
+        "WorldLocation": {
+          "X": -60928.0,
+          "Y": -9728.0,
+          "Z": 768.0
+        }
+      },
+      "Athena.Location.POI.DustyDivot": {
+        "WorldLocation": {
+          "X": 26496.0,
+          "Y": 7520.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.02": {
+        "WorldLocation": {
+          "X": 19884.0,
+          "Y": 85076.0,
+          "Z": 2316.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole06": {
+        "WorldLocation": {
+          "X": 98048.0,
+          "Y": -6144.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.POI.HauntedHills": {
+        "WorldLocation": {
+          "X": 109568.0,
+          "Y": -115712.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.RetailRow": {
+        "WorldLocation": {
+          "X": 24832.0,
+          "Y": 36864.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.JunkJunction": {
+        "WorldLocation": {
+          "X": 132864.0,
+          "Y": -106784.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.05": {
+        "WorldLocation": {
+          "X": -43080.0,
+          "Y": 46312.0,
+          "Z": 5612.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.05": {
+        "WorldLocation": {
+          "X": 81408.0,
+          "Y": 17920.0,
+          "Z": 1408.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.04": {
+        "WorldLocation": {
+          "X": -18704.0,
+          "Y": 33196.0,
+          "Z": 1144.0
+        }
+      },
+      "Athena.Location.POI.PleasantPark": {
+        "WorldLocation": {
+          "X": 86528.0,
+          "Y": -82432.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.ParadisePalms": {
+        "WorldLocation": {
+          "X": -28416.0,
+          "Y": 55296.0,
+          "Z": 4096.0
+        }
+      },
+      "Building.Type.Explosive": {
+        "WorldLocation": {
+          "X": -61232.0,
+          "Y": -10256.0,
+          "Z": -376.0
+        }
+      },
+      "Athena.Location.Meta.AnimalBuilding.Llama": {
+        "WorldLocation": {
+          "X": 139776.0,
+          "Y": -110080.0,
+          "Z": 7168.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.07": {
+        "WorldLocation": {
+          "X": -60592.0,
+          "Y": 35980.0,
+          "Z": 4040.0
+        }
+      },
+      "Athena.Location.Meta.AnimalBuilding.Fox": {
+        "WorldLocation": {
+          "X": 90624.0,
+          "Y": 77056.0,
+          "Z": 3072.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole05": {
+        "WorldLocation": {
+          "X": 92928.0,
+          "Y": -16640.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.Crater.03": {
+        "WorldLocation": {
+          "X": 15602.0,
+          "Y": -89190.0,
+          "Z": 4388.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.10": {
+        "WorldLocation": {
+          "X": -68984.0,
+          "Y": -27556.0,
+          "Z": 1348.0
+        }
+      },
+      "Athena.Location.Meta.Crater.05": {
+        "WorldLocation": {
+          "X": 92526.0,
+          "Y": 11154.0,
+          "Z": 1156.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.06": {
+        "WorldLocation": {
+          "X": 1280.0,
+          "Y": 54272.0,
+          "Z": 2944.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.08": {
+        "WorldLocation": {
+          "X": 7424.0,
+          "Y": -6144.0,
+          "Z": 2944.0
+        }
+      },
+      "Athena.Location.POI.FatalFields": {
+        "WorldLocation": {
+          "X": -38912.0,
+          "Y": 8704.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.01": {
+        "WorldLocation": {
+          "X": 12860.0,
+          "Y": 61396.0,
+          "Z": 3260.0
+        }
+      },
+      "Athena.Location.Meta.Crater.01": {
+        "WorldLocation": {
+          "X": -68982.0,
+          "Y": -27554.0,
+          "Z": 1348.0
+        }
+      },
+      "Athena.Location.Meta.TacoShop.01": {
+        "WorldLocation": {
+          "X": -27392.0,
+          "Y": -61696.0,
+          "Z": 2688.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.20": {
+        "WorldLocation": {
+          "X": 92524.0,
+          "Y": 11152.0,
+          "Z": 1156.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.22": {
+        "WorldLocation": {
+          "X": 50276.0,
+          "Y": 56264.0,
+          "Z": 5716.0
+        }
+      },
+      "Building.Type.Explosive_0": {
+        "WorldLocation": {
+          "X": 114688.016,
+          "Y": -52607.984,
+          "Z": 0.0
+        }
+      },
+      "Athena.Location.POI.FrostyFlights": {
+        "WorldLocation": {
+          "X": -27967.877,
+          "Y": -124173.336,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.LuckyLanding": {
+        "WorldLocation": {
+          "X": -71314.0,
+          "Y": -7243.0,
+          "Z": 4096.0
+        }
+      },
+      "Building.Type.Explosive_1": {
+        "WorldLocation": {
+          "X": 128656.38,
+          "Y": -103935.62,
+          "Z": 1920.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.23": {
+        "WorldLocation": {
+          "X": -30040.0,
+          "Y": 81520.0,
+          "Z": 1424.0
+        }
+      },
+      "Athena.Location.Meta.Crater.04": {
+        "WorldLocation": {
+          "X": 121490.0,
+          "Y": -85962.0,
+          "Z": 3388.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.01": {
+        "WorldLocation": {
+          "X": 3072.0,
+          "Y": -95232.0,
+          "Z": 2176.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.21": {
+        "WorldLocation": {
+          "X": 124596.0,
+          "Y": 56540.0,
+          "Z": 1156.0
+        }
+      },
+      "Athena.Location.POI.FlushFactory": {
+        "WorldLocation": {
+          "X": -62976.0,
+          "Y": -64000.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole03": {
+        "WorldLocation": {
+          "X": 100096.0,
+          "Y": -30720.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.Crater.02": {
+        "WorldLocation": {
+          "X": -14994.0,
+          "Y": -38186.0,
+          "Z": 2392.0
+        }
+      },
+      "Athena.Location.POI.ShiftyShafts": {
+        "WorldLocation": {
+          "X": -3000.0,
+          "Y": -61184.0,
+          "Z": 1920.0
+        }
+      },
+      "Building.Type.Explosive_2": {
+        "WorldLocation": {
+          "X": -57348.11,
+          "Y": 19092.816,
+          "Z": 1536.0004
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.18": {
+        "WorldLocation": {
+          "X": 121488.0,
+          "Y": -85964.0,
+          "Z": 3388.0
+        }
+      },
+      "Athena.Location.Meta.TacoShop.04": {
+        "WorldLocation": {
+          "X": 39219.0,
+          "Y": -94101.0,
+          "Z": 2093.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole07": {
+        "WorldLocation": {
+          "X": 109056.0,
+          "Y": -10496.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Quests.IceMachine.Athena": {
+        "WorldLocation": {
+          "X": -66660.0,
+          "Y": 57820.0,
+          "Z": -748.0
+        }
+      },
+      "Athena.Location.POI.RiskyReels": {
+        "WorldLocation": {
+          "X": 110592.0,
+          "Y": 35584.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.LootLake": {
+        "WorldLocation": {
+          "X": 63936.0,
+          "Y": -44000.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Quests.Fountain": {
+        "WorldLocation": {
+          "X": -64516.0,
+          "Y": 37660.0,
+          "Z": 1896.0
+        }
+      },
+      "Athena.Location.POI.LonelyLodge": {
+        "WorldLocation": {
+          "X": 54016.0,
+          "Y": 72704.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.TomatoTown": {
+        "WorldLocation": {
+          "X": 76816.0,
+          "Y": 13824.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.Crater.07": {
+        "WorldLocation": {
+          "X": 53282.0,
+          "Y": -14290.0,
+          "Z": 2808.0
+        }
+      },
+      "Athena.Location.Meta.TacoShop.03": {
+        "WorldLocation": {
+          "X": 83968.0,
+          "Y": 14848.0,
+          "Z": 1152.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole09": {
+        "WorldLocation": {
+          "X": 114176.0,
+          "Y": -13824.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole08": {
+        "WorldLocation": {
+          "X": 113920.0,
+          "Y": -3584.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.02": {
+        "WorldLocation": {
+          "X": 40448.0,
+          "Y": -90880.0,
+          "Z": 2176.0
+        }
+      },
+      "Athena.Location.Biome.Jungle": {
+        "WorldLocation": {
+          "X": 75564.0,
+          "Y": 13824.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.SnobbyShores": {
+        "WorldLocation": {
+          "X": 46592.0,
+          "Y": -133376.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.TacoShop.02": {
+        "WorldLocation": {
+          "X": 24576.0,
+          "Y": 36864.0,
+          "Z": 2432.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.19": {
+        "WorldLocation": {
+          "X": 53280.0,
+          "Y": -14292.0,
+          "Z": 2808.0
+        }
+      },
+      "Athena.Location.POI.LazyLinks": {
+        "WorldLocation": {
+          "X": 104448.0,
+          "Y": -15104.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.POI.WailingWoods": {
+        "WorldLocation": {
+          "X": 83456.0,
+          "Y": 64000.0,
+          "Z": 4096.0
+        }
+      },
+      "Building.Type.Explosive_3": {
+        "WorldLocation": {
+          "X": 5488.0703,
+          "Y": 58378.297,
+          "Z": 1536.0
+        }
+      },
+      "Building.Type.Explosive_4": {
+        "WorldLocation": {
+          "X": 1686.2612,
+          "Y": 59017.207,
+          "Z": 1536.0
+        }
+      },
+      "Athena.Location.Meta.Crater.06": {
+        "WorldLocation": {
+          "X": 50278.0,
+          "Y": 56266.0,
+          "Z": 5716.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.06": {
+        "WorldLocation": {
+          "X": -40764.0,
+          "Y": 67484.0,
+          "Z": 6284.0
+        }
+      },
+      "Athena.Location.POI.SaltySprings": {
+        "WorldLocation": {
+          "X": 3328.0,
+          "Y": -8192.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.03": {
+        "WorldLocation": {
+          "X": -17984.0,
+          "Y": 51912.0,
+          "Z": 2316.0
+        }
+      },
+      "Athena.Location.POI.TiltedTowers": {
+        "WorldLocation": {
+          "X": 33792.0,
+          "Y": -58880.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Biome.Arid": {
+        "WorldLocation": {
+          "X": -39936.0,
+          "Y": 66048.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.04": {
+        "WorldLocation": {
+          "X": 88064.0,
+          "Y": -76800.0,
+          "Z": 3456.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole04": {
+        "WorldLocation": {
+          "X": 99584.0,
+          "Y": -19712.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.14": {
+        "WorldLocation": {
+          "X": 24720.0,
+          "Y": -117380.0,
+          "Z": 9596.0
+        }
+      },
+      "Athena.Location.POI.GreasyGrove": {
+        "WorldLocation": {
+          "X": 3000.0,
+          "Y": -96256.0,
+          "Z": 4096.0
+        }
+      },
+      "Building.Type.Explosive_5": {
+        "WorldLocation": {
+          "X": -61120.0,
+          "Y": -9728.0,
+          "Z": -376.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole01": {
+        "WorldLocation": {
+          "X": 111280.0,
+          "Y": -33648.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.GolfCourse.Green.LazyLinksHole02": {
+        "WorldLocation": {
+          "X": 104192.0,
+          "Y": -32512.0,
+          "Z": 256.0
+        }
+      },
+      "Athena.Location.Meta.TacoShop.05": {
+        "WorldLocation": {
+          "X": 34308.0,
+          "Y": -65026.0,
+          "Z": 1158.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.11": {
+        "WorldLocation": {
+          "X": -14996.0,
+          "Y": -38188.0,
+          "Z": 2392.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.12": {
+        "WorldLocation": {
+          "X": 15600.0,
+          "Y": -89192.0,
+          "Z": 4388.0
+        }
+      },
+      "Building.Type.Explosive_6": {
+        "WorldLocation": {
+          "X": -61248.0,
+          "Y": -9744.0,
+          "Z": -376.0
+        }
+      },
+      "Building.Type.Explosive_7": {
+        "WorldLocation": {
+          "X": 131712.05,
+          "Y": -103399.984,
+          "Z": 1920.0
+        }
+      },
+      "Athena.Location.Meta.AnimalBuilding.Crab": {
+        "WorldLocation": {
+          "X": -71040.0,
+          "Y": 44544.0,
+          "Z": 3328.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.17": {
+        "WorldLocation": {
+          "X": 89204.0,
+          "Y": -59536.0,
+          "Z": 4132.0
+        }
+      },
+      "Building.Type.Explosive_8": {
+        "WorldLocation": {
+          "X": -61136.0,
+          "Y": -10240.0,
+          "Z": -376.0
+        }
+      },
+      "Athena.Location.Quests.JunkYardCrane": {
+        "WorldLocation": {
+          "X": 130048.41,
+          "Y": -106495.695,
+          "Z": 2320.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.24": {
+        "WorldLocation": {
+          "X": 49800.0,
+          "Y": -85872.0,
+          "Z": 6532.0
+        }
+      },
+      "Athena.Location.Meta.GasStation.03": {
+        "WorldLocation": {
+          "X": 64512.0,
+          "Y": -75776.0,
+          "Z": 3200.0
+        }
+      },
+      "Athena.Location.POI.TomatoTemple": {
+        "WorldLocation": {
+          "X": 76816.0,
+          "Y": 13824.0,
+          "Z": 4096.0
+        }
+      },
+      "Athena.Location.Meta.RiftPortalLoc.09": {
+        "WorldLocation": {
+          "X": -59828.0,
+          "Y": 7604.0,
+          "Z": 2640.0
+        }
+      }
+    }
+  }
+]

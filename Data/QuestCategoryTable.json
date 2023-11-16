@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests16": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests16_Name",
+          "SourceString": "Save the World Starter Bundle",
+          "LocalizedString": "Save the World Starter Bundle"
+        },
+        "SortPriority": 500
+      },
       "StarterBundleQuests15": {
         "Name": {
           "Namespace": "QuestCategoryTable",
