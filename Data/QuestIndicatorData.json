@@ -84,1989 +84,512 @@
       },
       "CaptureCameraName": "MinimapCaptureCamera",
       "CaptureCameraData": {
-        "OrthoWidth": 299926,
+        "OrthoWidth": 262426,
         "WorldOffset": {
-          "X": 9524.0,
-          "Y": -9732.0
+          "X": 28321.8,
+          "Y": -21131.031
         },
         "Rotation": -90.0
       },
       "ChallengeMapPoiData": [
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_KapokCove",
-            "SourceString": "Kapok Cove",
-            "LocalizedString": "Kapok Cove"
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_DustyDivot",
+            "SourceString": "DUSTY DIVOT",
+            "LocalizedString": "DUSTY DIVOT"
           },
           "WorldLocation": {
-            "X": 43512.0,
-            "Y": -19416.0,
-            "Z": 1412.0
+            "X": 41496.0,
+            "Y": -2480.0,
+            "Z": 4096.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.KapokCove"
+            "TagName": "Athena.Location.POI.DustyDivot"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_KapokCove",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_IslandTower",
-            "SourceString": "Seaside Sentry",
-            "LocalizedString": "Seaside Sentry"
-          },
-          "WorldLocation": {
-            "X": -16700.0,
-            "Y": -110452.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.IslandTower"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_IslandTower",
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj14",
           "ActiveDiscoverableBlodIds": [
-            215
+            210
           ]
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_NeonCity",
-            "SourceString": "MEGA CITY",
-            "LocalizedString": "MEGA CITY"
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_HauntedHills",
+            "SourceString": "HAUNTED HILLS",
+            "LocalizedString": "HAUNTED HILLS"
           },
           "WorldLocation": {
-            "X": -51724.0,
-            "Y": 27208.0,
-            "Z": 1964.0
+            "X": 109568.0,
+            "Y": -115712.0,
+            "Z": 4096.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.NeonCity"
+            "TagName": "Athena.Location.POI.HauntedHills"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_NeonCity",
-          "ActiveDiscoverableBlodIds": [
-            41
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CastleTower_2",
-            "SourceString": "Eastern Watch",
-            "LocalizedString": "Eastern Watch"
-          },
-          "WorldLocation": {
-            "X": 56580.0,
-            "Y": -59828.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CastleTower.2"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CastleTower2",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_IODrill",
-            "SourceString": "Beached Bit",
-            "LocalizedString": "Beached Bit"
-          },
-          "WorldLocation": {
-            "X": 7720.0,
-            "Y": 80180.0,
-            "Z": -1376.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.IODrill"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_IODrill",
-          "ActiveDiscoverableBlodIds": [
-            105
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_FortaniumQuarry",
-            "SourceString": "SHATTERED SLABS",
-            "LocalizedString": "SHATTERED SLABS"
-          },
-          "WorldLocation": {
-            "X": -17556.0,
-            "Y": -83340.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.FortaniumQuarry"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_FortaniumQuarry",
-          "ActiveDiscoverableBlodIds": [
-            60
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BambooLake",
-            "SourceString": "Whispering Waters",
-            "LocalizedString": "Whispering Waters"
-          },
-          "WorldLocation": {
-            "X": -83304.0,
-            "Y": -20344.0,
-            "Z": 1776.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BambooLake"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BambooLake",
-          "ActiveDiscoverableBlodIds": [
-            161
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FrozenWaterfall",
-            "SourceString": "Frostbite Falls",
-            "LocalizedString": "Frostbite Falls"
-          },
-          "WorldLocation": {
-            "X": 49416.0,
-            "Y": 34884.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FrozenWaterfall"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_FrozenWaterfall",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Battlements",
-            "SourceString": "Coastal Battlement",
-            "LocalizedString": "Coastal Battlement"
-          },
-          "WorldLocation": {
-            "X": 112076.0,
-            "Y": -71460.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Battlements"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_Battlements",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenTemple",
-            "SourceString": "Hidden Ruin",
-            "LocalizedString": "Hidden Ruin"
-          },
-          "WorldLocation": {
-            "X": 47112.0,
-            "Y": -32252.0,
-            "Z": 860.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.HiddenTemple"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_HiddenTemple",
-          "ActiveDiscoverableBlodIds": [
-            188
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_HillHouse",
-            "SourceString": "Shore Shack",
-            "LocalizedString": "Shore Shack"
-          },
-          "WorldLocation": {
-            "X": -52812.0,
-            "Y": -96308.0,
-            "Z": 2940.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.HillHouse"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_HillHouse",
-          "ActiveDiscoverableBlodIds": [
-            85
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_InnerSanctum",
-            "SourceString": "Inner Sanctum",
-            "LocalizedString": "Inner Sanctum"
-          },
-          "WorldLocation": {
-            "X": 60992.0,
-            "Y": -79000.0,
-            "Z": 2412.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.InnerSanctum"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_InnerSanctum",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindyCanyon",
-            "SourceString": "Gusty Gorge",
-            "LocalizedString": "Gusty Gorge"
-          },
-          "WorldLocation": {
-            "X": 44752.0,
-            "Y": 25616.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindyCanyon"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_WindyCanyon",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BigIceLake",
-            "SourceString": "Icy Islets",
-            "LocalizedString": "Icy Islets"
-          },
-          "WorldLocation": {
-            "X": 52780.0,
-            "Y": -3000.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BigIceLake"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BigIceLake",
-          "ActiveDiscoverableBlodIds": [
-            12
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_IndustrialTown",
-            "SourceString": "SLAPPY SHORES",
-            "LocalizedString": "SLAPPY SHORES"
-          },
-          "WorldLocation": {
-            "X": 19468.0,
-            "Y": 62984.0,
-            "Z": -12.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.IndustrialTown"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Visit_Location_Ch4_IndustrialTown",
-          "ActiveDiscoverableBlodIds": [
-            20
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TempleOutpost_4",
-            "SourceString": "The Hall of Whispers",
-            "LocalizedString": "The Hall of Whispers"
-          },
-          "WorldLocation": {
-            "X": 29252.0,
-            "Y": 18428.0,
-            "Z": 3496.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TempleOutpost.4"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_TempleOutpost4",
-          "ActiveDiscoverableBlodIds": [
-            55
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_IceBarge",
-            "SourceString": "Berg Barge",
-            "LocalizedString": "Berg Barge"
-          },
-          "WorldLocation": {
-            "X": 118500.0,
-            "Y": -19536.0,
-            "Z": 688.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.IceBarge"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_IceBarge",
-          "ActiveDiscoverableBlodIds": [
-            120
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BambooDuelingRing",
-            "SourceString": "Bamboo Circle",
-            "LocalizedString": "Bamboo Circle"
-          },
-          "WorldLocation": {
-            "X": -20396.0,
-            "Y": 12764.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BambooDuelingRing"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BambooDuelingRing",
-          "ActiveDiscoverableBlodIds": [
-            76
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CollabDuelingRing",
-            "SourceString": "Marine Monoliths",
-            "LocalizedString": "Marine Monoliths"
-          },
-          "WorldLocation": {
-            "X": -86900.0,
-            "Y": 78232.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CollabDuelingRing"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CollabDuelingRing",
-          "ActiveDiscoverableBlodIds": [
-            36
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CastleTower_1",
-            "SourceString": "Western Watch",
-            "LocalizedString": "Western Watch"
-          },
-          "WorldLocation": {
-            "X": 38116.0,
-            "Y": -88856.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CastleTower.1"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CastleTower1",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TempleOutpost_2",
-            "SourceString": "The Stone Tower",
-            "LocalizedString": "The Stone Tower"
-          },
-          "WorldLocation": {
-            "X": 94060.0,
-            "Y": 10700.0,
-            "Z": 4484.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TempleOutpost.2"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_TempleOutpost2",
-          "ActiveDiscoverableBlodIds": [
-            230
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_GenshinGas",
-            "SourceString": "Fallow Fuel",
-            "LocalizedString": "Fallow Fuel"
-          },
-          "WorldLocation": {
-            "X": -84328.0,
-            "Y": 59328.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.GenshinGas"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_GenshinGas",
-          "ActiveDiscoverableBlodIds": [
-            236
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_IsolatedKnightTower",
-            "SourceString": "Secluded Spire",
-            "LocalizedString": "Secluded Spire"
-          },
-          "WorldLocation": {
-            "X": 3836.0,
-            "Y": 33568.0,
-            "Z": -192.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.IsolatedKnightTower"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_IsolatedKnightTower",
-          "ActiveDiscoverableBlodIds": [
-            235
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenTemple",
-            "SourceString": "Hidden Ruin",
-            "LocalizedString": "Hidden Ruin"
-          },
-          "WorldLocation": {
-            "X": 49996.0,
-            "Y": -32252.0,
-            "Z": 972.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.HiddenTemple"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_HiddenTemple",
-          "ActiveDiscoverableBlodIds": [
-            188
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CliffTheMountain",
-            "SourceString": "Trickchaser's Jump",
-            "LocalizedString": "Trickchaser's Jump"
-          },
-          "WorldLocation": {
-            "X": -45460.0,
-            "Y": 7160.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CliffTheMountain"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "None",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BambooBoulders",
-            "SourceString": "Moment's Rest",
-            "LocalizedString": "Moment's Rest"
-          },
-          "WorldLocation": {
-            "X": -75904.0,
-            "Y": 65056.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BambooBoulders"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BambooBoulders",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_MuddyMounds",
-            "SourceString": "Mesa's Reach",
-            "LocalizedString": "Mesa's Reach"
-          },
-          "WorldLocation": {
-            "X": -26392.0,
-            "Y": 45920.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.MuddyMounds"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_MuddyMounds",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_JungleTempleNorth",
-            "SourceString": "Northern Ruin",
-            "LocalizedString": "Northern Ruin"
-          },
-          "WorldLocation": {
-            "X": 101424.0,
-            "Y": -9716.0,
-            "Z": 3064.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.JungleTempleNorth"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_JungleTempleNorth",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BambooIsland",
-            "SourceString": "Restful Retreat",
-            "LocalizedString": "Restful Retreat"
-          },
-          "WorldLocation": {
-            "X": -21648.0,
-            "Y": 93180.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BambooIsland"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BambooIsland",
-          "ActiveDiscoverableBlodIds": [
-            136
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_HiddenTemple",
-            "SourceString": "Hidden Ruin",
-            "LocalizedString": "Hidden Ruin"
-          },
-          "WorldLocation": {
-            "X": 44364.0,
-            "Y": -32256.0,
-            "Z": 916.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.HiddenTemple"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_HiddenTemple",
-          "ActiveDiscoverableBlodIds": [
-            188
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_DriftCarTrack",
-            "SourceString": "Drift Ridge",
-            "LocalizedString": "Drift Ridge"
-          },
-          "WorldLocation": {
-            "X": -16348.0,
-            "Y": 31428.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.DriftCarTrack"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_DriftCarTrack",
-          "ActiveDiscoverableBlodIds": [
-            196
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Village",
-            "SourceString": "Woodsy Ward",
-            "LocalizedString": "Woodsy Ward"
-          },
-          "WorldLocation": {
-            "X": 93132.0,
-            "Y": -58576.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Village"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_Village",
-          "ActiveDiscoverableBlodIds": [
-            245
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindChimes",
-            "SourceString": "Windcatch Lake",
-            "LocalizedString": "Windcatch Lake"
-          },
-          "WorldLocation": {
-            "X": -51068.0,
-            "Y": 62216.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindChimes"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_WindChimes",
-          "ActiveDiscoverableBlodIds": [
-            96
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CoastalGas",
-            "SourceString": "King's Launch",
-            "LocalizedString": "King's Launch"
-          },
-          "WorldLocation": {
-            "X": 65404.0,
-            "Y": -105484.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CoastalGas"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CoastalGas",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SquadHQ",
-            "SourceString": "The Getaway",
-            "LocalizedString": "The Getaway"
-          },
-          "WorldLocation": {
-            "X": -49224.0,
-            "Y": -37800.0,
-            "Z": 0.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SquadHQ"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SquadHQ",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_JungleTown",
-            "SourceString": "SHADY STILTS",
-            "LocalizedString": "SHADY STILTS"
-          },
-          "WorldLocation": {
-            "X": 83384.0,
-            "Y": -21256.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.JungleTown"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_JungleTown",
-          "ActiveDiscoverableBlodIds": [
-            228
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CherryDuelingRing",
-            "SourceString": "Sakura Circle",
-            "LocalizedString": "Sakura Circle"
-          },
-          "WorldLocation": {
-            "X": -119404.0,
-            "Y": 38092.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CherryDuelingRing"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CherryDuelingRIng",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_NeonBayBridge",
-            "SourceString": "Neon Bay Bridge",
-            "LocalizedString": "Neon Bay Bridge"
-          },
-          "WorldLocation": {
-            "X": -101684.0,
-            "Y": 16908.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.NeonBayBridge"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_NeonBayBridge",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_JungleTempleSouth",
-            "SourceString": "Southern Ruin",
-            "LocalizedString": "Southern Ruin"
-          },
-          "WorldLocation": {
-            "X": -19020.0,
-            "Y": -8752.0,
-            "Z": 1412.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.JungleTempleSouth"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_JungleTempleSouth",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallIsland",
-            "SourceString": "Lotus Lookout",
-            "LocalizedString": "Lotus Lookout"
-          },
-          "WorldLocation": {
-            "X": -108252.0,
-            "Y": -12104.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SmallIsland"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SmallIsland",
-          "ActiveDiscoverableBlodIds": [
-            16
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_MountainSummit",
-            "SourceString": "Stormy Spire",
-            "LocalizedString": "Stormy Spire"
-          },
-          "WorldLocation": {
-            "X": 79448.0,
-            "Y": 37312.0,
-            "Z": 12696.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.MountainSummit"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_MountainSummit",
-          "ActiveDiscoverableBlodIds": [
-            110
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_ThunderPagoda",
-            "SourceString": "Fireglow Sanctuary",
-            "LocalizedString": "Fireglow Sanctuary"
-          },
-          "WorldLocation": {
-            "X": -28728.0,
-            "Y": 64472.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.ThunderPagoda"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_ThunderPagoda",
-          "ActiveDiscoverableBlodIds": [
-            146
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Boat",
-            "SourceString": "Baywatcher Barge",
-            "LocalizedString": "Baywatcher Barge"
-          },
-          "WorldLocation": {
-            "X": -80148.0,
-            "Y": 38716.0,
-            "Z": 368.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Boat"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_Boat",
-          "ActiveDiscoverableBlodIds": [
-            126
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_JungleTemple",
-            "SourceString": "RUMBLE RUINS",
-            "LocalizedString": "RUMBLE RUINS"
-          },
-          "WorldLocation": {
-            "X": 116.0,
-            "Y": -44000.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.JungleTemple"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_JungleTemple",
-          "ActiveDiscoverableBlodIds": [
-            8
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_Hotel",
-            "SourceString": "SANGUINE SUITES",
-            "LocalizedString": "SANGUINE SUITES"
-          },
-          "WorldLocation": {
-            "X": 93375.41,
-            "Y": 69472.31,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.Hotel"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_Hotel",
-          "ActiveDiscoverableBlodIds": [
-            150
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BlacksmithSpring",
-            "SourceString": "Forest Forge",
-            "LocalizedString": "Forest Forge"
-          },
-          "WorldLocation": {
-            "X": 2708.0,
-            "Y": -96692.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BlacksmithSpring"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BlacksmithSpring",
-          "ActiveDiscoverableBlodIds": [
-            70
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindPagoda",
-            "SourceString": "Wildwind Sanctuary",
-            "LocalizedString": "Wildwind Sanctuary"
-          },
-          "WorldLocation": {
-            "X": -35672.0,
-            "Y": -244.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindPagoda"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_WindPagoda",
-          "ActiveDiscoverableBlodIds": [
-            101
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SlapStation",
-            "SourceString": "Slap N' Gone",
-            "LocalizedString": "Slap N' Gone"
-          },
-          "WorldLocation": {
-            "X": 5140.0,
-            "Y": 19948.0,
-            "Z": -192.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SlapStation"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SlapStation",
-          "ActiveDiscoverableBlodIds": [
-            125
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_LightHouseEast",
-            "SourceString": "Twilight Torch",
-            "LocalizedString": "Twilight Torch"
-          },
-          "WorldLocation": {
-            "X": -50604.0,
-            "Y": 99944.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.LightHouseEast"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_LighthouseEast",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallFarm2",
-            "SourceString": "Rowdy Acres",
-            "LocalizedString": "Rowdy Acres"
-          },
-          "WorldLocation": {
-            "X": -70576.0,
-            "Y": -36704.0,
-            "Z": 2940.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SmallFarm2"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SmallFarm2",
-          "ActiveDiscoverableBlodIds": [
-            35
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TrailerPark",
-            "SourceString": "Hitches and Ditches",
-            "LocalizedString": "Hitches and Ditches"
-          },
-          "WorldLocation": {
-            "X": -22664.0,
-            "Y": -21184.0,
-            "Z": 768.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TrailerPark"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_TrailerPark",
-          "ActiveDiscoverableBlodIds": [
-            130
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_LightHouseSouth",
-            "SourceString": "Burning Beacon",
-            "LocalizedString": "Burning Beacon"
-          },
-          "WorldLocation": {
-            "X": -120912.0,
-            "Y": 20676.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.LightHouseSouth"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_LighthouseSouth",
-          "ActiveDiscoverableBlodIds": [
-            246
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CargoCrash",
-            "SourceString": "Mayday Landing",
-            "LocalizedString": "Mayday Landing"
-          },
-          "WorldLocation": {
-            "X": 76896.0,
-            "Y": -41984.0,
-            "Z": 3064.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CargoCrash"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CargoCrash",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_LightHouseWest",
-            "SourceString": "Luminous Lantern",
-            "LocalizedString": "Luminous Lantern"
-          },
-          "WorldLocation": {
-            "X": -106544.0,
-            "Y": 9140.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.LightHouseWest"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_LighthouseWest",
-          "ActiveDiscoverableBlodIds": [
-            186
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_NorthHarbor",
-            "SourceString": "BREAKWATER BAY",
-            "LocalizedString": "BREAKWATER BAY"
-          },
-          "WorldLocation": {
-            "X": 87688.0,
-            "Y": -88244.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.NorthHarbor"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_NorthHarbor",
-          "ActiveDiscoverableBlodIds": [
-            15
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BambooPond",
-            "SourceString": "Placid Pond",
-            "LocalizedString": "Placid Pond"
-          },
-          "WorldLocation": {
-            "X": -41000.0,
-            "Y": -15292.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BambooPond"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BambooPond",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_RealityFortress",
-            "SourceString": "BRUTAL BASTION",
-            "LocalizedString": "BRUTAL BASTION"
-          },
-          "WorldLocation": {
-            "X": 61856.0,
-            "Y": 32312.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.RealityFortress"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_RealityFortress",
-          "ActiveDiscoverableBlodIds": [
-            200
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SnowShelter",
-            "SourceString": "Mogul Home",
-            "LocalizedString": "Mogul Home"
-          },
-          "WorldLocation": {
-            "X": 35328.0,
-            "Y": 27792.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SnowShelter"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SnowShelter",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TempleOutpost_1",
-            "SourceString": "Aegis Temple",
-            "LocalizedString": "Aegis Temple"
-          },
-          "WorldLocation": {
-            "X": 97216.0,
-            "Y": 43752.0,
-            "Z": 3204.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TempleOutpost.1"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_TempleOutpost1",
-          "ActiveDiscoverableBlodIds": [
-            25
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_GreenGas",
-            "SourceString": "Beep 'n Bounce",
-            "LocalizedString": "Beep 'n Bounce"
-          },
-          "WorldLocation": {
-            "X": 112280.0,
-            "Y": 6372.0,
-            "Z": 4484.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.GreenGas"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_GreenGas",
-          "ActiveDiscoverableBlodIds": [
-            75
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_KazeCanyon",
-            "SourceString": "Windrush Ravine",
-            "LocalizedString": "Windrush Ravine"
-          },
-          "WorldLocation": {
-            "X": -38224.0,
-            "Y": -10512.0,
-            "Z": 56.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.KazeCanyon"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_KazeCanyon",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_KnightFuel",
-            "SourceString": "Feudal Fuel",
-            "LocalizedString": "Feudal Fuel"
-          },
-          "WorldLocation": {
-            "X": 71228.0,
-            "Y": -49828.0,
-            "Z": 2804.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.KnightFuel"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_KnightFuel",
-          "ActiveDiscoverableBlodIds": [
-            100
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_DenseForest",
-            "SourceString": "Frosty Firs",
-            "LocalizedString": "Frosty Firs"
-          },
-          "WorldLocation": {
-            "X": 92292.0,
-            "Y": 5948.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.DenseForest"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_DenseForest",
-          "ActiveDiscoverableBlodIds": [
-            155
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_CherryBlossomForest",
-            "SourceString": "STEAMY SPRINGS",
-            "LocalizedString": "STEAMY SPRINGS"
-          },
-          "WorldLocation": {
-            "X": -85748.0,
-            "Y": -5756.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.CherryBlossomForest"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_CherryBlossomForest",
-          "ActiveDiscoverableBlodIds": [
-            180
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SmallQuarryDock",
-            "SourceString": "Rocky Docks",
-            "LocalizedString": "Rocky Docks"
-          },
-          "WorldLocation": {
-            "X": -26004.0,
-            "Y": -111480.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SmallQuarryDock"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_SmallQuarryDock",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_Farm",
-            "SourceString": "FRENZY FIELDS",
-            "LocalizedString": "FRENZY FIELDS"
-          },
-          "WorldLocation": {
-            "X": -52584.0,
-            "Y": -33532.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.Farm"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_Farm",
-          "ActiveDiscoverableBlodIds": [
-            240
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_MountainDojo",
-            "SourceString": "KENJUTSU CROSSING",
-            "LocalizedString": "KENJUTSU CROSSING"
-          },
-          "WorldLocation": {
-            "X": -101504.0,
-            "Y": 55384.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.MountainDojo"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_MountainDojo",
-          "ActiveDiscoverableBlodIds": [
-            140
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnnamedPOI_CrackshotsCabin",
-            "SourceString": "Crackshot's Cabin",
-            "LocalizedString": "Crackshot's Cabin"
-          },
-          "WorldLocation": {
-            "X": 40352.0,
-            "Y": 936.0,
-            "Z": 3836.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnnamedPOI.CrackshotsCabin"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CrackshotsCabin",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_Resort",
-            "SourceString": "RELENTLESS RETREAT",
-            "LocalizedString": "RELENTLESS RETREAT"
-          },
-          "WorldLocation": {
-            "X": -70104.0,
-            "Y": -78080.0,
-            "Z": 2944.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.Resort"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_Resort",
-          "ActiveDiscoverableBlodIds": [
-            190
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_FishingVillageIsland",
-            "SourceString": "KNOTTY NETS",
-            "LocalizedString": "KNOTTY NETS"
-          },
-          "WorldLocation": {
-            "X": -62772.0,
-            "Y": 93844.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.FishingVillageIsland"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_FishingVillageIsland",
-          "ActiveDiscoverableBlodIds": [
-            160
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TheApparatus",
-            "SourceString": "The Apparatus",
-            "LocalizedString": "The Apparatus"
-          },
-          "WorldLocation": {
-            "X": -204.0,
-            "Y": -560.0,
-            "Z": 1412.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TheApparatus"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_TheApparatus",
-          "ActiveDiscoverableBlodIds": [
-            98
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FirePagoda",
-            "SourceString": "Coldwater Sanctuary",
-            "LocalizedString": "Coldwater Sanctuary"
-          },
-          "WorldLocation": {
-            "X": -82644.0,
-            "Y": 25392.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FirePagoda"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_FirePagoda",
-          "ActiveDiscoverableBlodIds": [
-            206
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CoastalTower",
-            "SourceString": "Royal Ruin",
-            "LocalizedString": "Royal Ruin"
-          },
-          "WorldLocation": {
-            "X": 39536.0,
-            "Y": -113980.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CoastalTower"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CoastalTower",
-          "ActiveDiscoverableBlodIds": [
-            145
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CoastalContainers",
-            "SourceString": "Crusty Crates",
-            "LocalizedString": "Crusty Crates"
-          },
-          "WorldLocation": {
-            "X": 52356.0,
-            "Y": 80792.0,
-            "Z": 1108.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CoastalContainers"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CoastalContainers",
-          "ActiveDiscoverableBlodIds": [
-            65
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Lagoon",
-            "SourceString": "Sunswoon Lagoon",
-            "LocalizedString": "Sunswoon Lagoon"
-          },
-          "WorldLocation": {
-            "X": 23472.0,
-            "Y": -40824.0,
-            "Z": 1412.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Lagoon"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_Lagoon",
-          "ActiveDiscoverableBlodIds": [
-            48
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_EstateLair",
-            "SourceString": "ECLIPSED ESTATE",
-            "LocalizedString": "ECLIPSED ESTATE"
-          },
-          "WorldLocation": {
-            "X": 42704.0,
-            "Y": -73144.0,
-            "Z": 1964.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.EstateLair"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_EstateLair",
-          "ActiveDiscoverableBlodIds": [
-            220
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FuelDocks",
-            "SourceString": "Crude Harbor",
-            "LocalizedString": "Crude Harbor"
-          },
-          "WorldLocation": {
-            "X": 116052.0,
-            "Y": 22236.0,
-            "Z": 3204.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.FuelDocks"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_FuelDocks",
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj1",
           "ActiveDiscoverableBlodIds": [
             90
           ]
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_BeachDuelingRing",
-            "SourceString": "Sandy Circle",
-            "LocalizedString": "Sandy Circle"
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_RetailRow",
+            "SourceString": "RETAIL ROW",
+            "LocalizedString": "RETAIL ROW"
           },
           "WorldLocation": {
-            "X": -101624.0,
-            "Y": -20752.0,
-            "Z": 1776.0
+            "X": 24832.0,
+            "Y": 36864.0,
+            "Z": 4096.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.BeachDuelingRing"
+            "TagName": "Athena.Location.POI.RetailRow"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_BeachDuelingRing",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_LoggingCamp",
-            "SourceString": "Timbercut Camp",
-            "LocalizedString": "Timbercut Camp"
-          },
-          "WorldLocation": {
-            "X": -52688.0,
-            "Y": -13160.0,
-            "Z": 1992.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.LoggingCamp"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_LoggingCamp",
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj15",
           "ActiveDiscoverableBlodIds": [
-            11
+            250
           ]
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CedarDuelingRing",
-            "SourceString": "Cedar Circle",
-            "LocalizedString": "Cedar Circle"
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_JunkJunction",
+            "SourceString": "JUNK JUNCTION",
+            "LocalizedString": "JUNK JUNCTION"
           },
           "WorldLocation": {
-            "X": -36068.0,
-            "Y": 79996.0,
-            "Z": 1992.0
+            "X": 132864.0,
+            "Y": -106784.0,
+            "Z": 4096.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CedarDuelingRing"
+            "TagName": "Athena.Location.POI.JunkJunction"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_Landmarks.Quest_C4_Discover_Landmarks",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_Landmarks_CedarDuelingRing",
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj0",
           "ActiveDiscoverableBlodIds": [
-            46
+            20
           ]
         },
         {
           "Text": {
-            "Namespace": "DisplayNamesForPOIs_Asteria_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_JungleCompound",
-            "SourceString": "CREEKY COMPOUND",
-            "LocalizedString": "CREEKY COMPOUND"
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_PleasantPark",
+            "SourceString": "PLEASANT PARK",
+            "LocalizedString": "PLEASANT PARK"
           },
           "WorldLocation": {
-            "X": 27096.0,
-            "Y": -15528.0,
-            "Z": 1964.0
+            "X": 86528.0,
+            "Y": -82432.0,
+            "Z": 4096.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.JungleCompound"
+            "TagName": "Athena.Location.POI.PleasantPark"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_C4_Discover_NamedLocations.Quest_C4_Discover_NamedLocations",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_C4_Discover_NamedLocations_JungleCompound",
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj2",
           "ActiveDiscoverableBlodIds": [
-            248
+            240
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_ParadisePalms",
+            "SourceString": "PARADISE PALMS",
+            "LocalizedString": "PARADISE PALMS"
+          },
+          "WorldLocation": {
+            "X": -28416.0,
+            "Y": 55296.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.ParadisePalms"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj19",
+          "ActiveDiscoverableBlodIds": [
+            110
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_FatalFields",
+            "SourceString": "FATAL FIELDS",
+            "LocalizedString": "FATAL FIELDS"
+          },
+          "WorldLocation": {
+            "X": -36912.0,
+            "Y": 4704.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.FatalFields"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj17",
+          "ActiveDiscoverableBlodIds": [
+            220
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_LuckyLanding",
+            "SourceString": "LUCKY LANDING",
+            "LocalizedString": "LUCKY LANDING"
+          },
+          "WorldLocation": {
+            "X": -71314.0,
+            "Y": -7243.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.LuckyLanding"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj18",
+          "ActiveDiscoverableBlodIds": [
+            140
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_FlushFactory",
+            "SourceString": "FLUSH FACTORY",
+            "LocalizedString": "FLUSH FACTORY"
+          },
+          "WorldLocation": {
+            "X": -62976.0,
+            "Y": -64000.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.FlushFactory"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj8",
+          "ActiveDiscoverableBlodIds": [
+            30
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_ShiftyShafts",
+            "SourceString": "SHIFTY SHAFTS",
+            "LocalizedString": "SHIFTY SHAFTS"
+          },
+          "WorldLocation": {
+            "X": -10000.0,
+            "Y": -61184.0,
+            "Z": 1920.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.ShiftyShafts"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj7",
+          "ActiveDiscoverableBlodIds": [
+            160
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_RiskyReels",
+            "SourceString": "RISKY REELS",
+            "LocalizedString": "RISKY REELS"
+          },
+          "WorldLocation": {
+            "X": 110592.0,
+            "Y": 35584.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.RiskyReels"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj10",
+          "ActiveDiscoverableBlodIds": [
+            180
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_LootLake",
+            "SourceString": "LOOT LAKE",
+            "LocalizedString": "LOOT LAKE"
+          },
+          "WorldLocation": {
+            "X": 63936.0,
+            "Y": -44000.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.LootLake"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj6",
+          "ActiveDiscoverableBlodIds": [
+            60
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_LonelyLodge",
+            "SourceString": "LONELY LODGE",
+            "LocalizedString": "LONELY LODGE"
+          },
+          "WorldLocation": {
+            "X": 54016.0,
+            "Y": 72704.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.LonelyLodge"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj13",
+          "ActiveDiscoverableBlodIds": [
+            200
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_TomatoTown",
+            "SourceString": "TOMATO TEMPLE",
+            "LocalizedString": "TOMATO TEMPLE"
+          },
+          "WorldLocation": {
+            "X": 76816.0,
+            "Y": 13824.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.TomatoTown"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj11",
+          "ActiveDiscoverableBlodIds": [
+            100
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_SnobbyShores",
+            "SourceString": "SNOBBY SHORES",
+            "LocalizedString": "SNOBBY SHORES"
+          },
+          "WorldLocation": {
+            "X": 46592.0,
+            "Y": -133376.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.SnobbyShores"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj3",
+          "ActiveDiscoverableBlodIds": [
+            190
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_LazyLinks",
+            "SourceString": "LAZY LINKS",
+            "LocalizedString": "LAZY LINKS"
+          },
+          "WorldLocation": {
+            "X": 104448.0,
+            "Y": -15104.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.LazyLinks"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj9",
+          "ActiveDiscoverableBlodIds": [
+            80
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_WailingWoods",
+            "SourceString": "WAILING WOODS",
+            "LocalizedString": "WAILING WOODS"
+          },
+          "WorldLocation": {
+            "X": 89456.0,
+            "Y": 64000.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.WailingWoods"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj12",
+          "ActiveDiscoverableBlodIds": [
+            50
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_SaltySprings",
+            "SourceString": "SALTY SPRINGS",
+            "LocalizedString": "SALTY SPRINGS"
+          },
+          "WorldLocation": {
+            "X": 3328.0,
+            "Y": -8192.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.SaltySprings"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj16",
+          "ActiveDiscoverableBlodIds": [
+            70
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_TiltedTowers",
+            "SourceString": "TILTED TOWERS",
+            "LocalizedString": "TILTED TOWERS"
+          },
+          "WorldLocation": {
+            "X": 33792.0,
+            "Y": -58880.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.TiltedTowers"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj5",
+          "ActiveDiscoverableBlodIds": [
+            120
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Athena_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_GreasyGrove",
+            "SourceString": "GREASY GROVE",
+            "LocalizedString": "GREASY GROVE"
+          },
+          "WorldLocation": {
+            "X": 5500.0,
+            "Y": -96256.0,
+            "Z": 4096.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.GreasyGrove"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Rufus_Discover_NamedLocations.Quest_Rufus_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Rufus_Discover_NamedLocations_obj4",
+          "ActiveDiscoverableBlodIds": [
+            40
           ]
         },
         {

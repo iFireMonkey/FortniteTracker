@@ -2422,8 +2422,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "FF3BB48E4950AA20519E0B86E1E4D0C6",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Reactive to weak points!",
+          "LocalizedString": "Reactive to weak points!"
         }
       },
       "promodesc92": {
@@ -2446,32 +2446,32 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "021757F646F4069BB1C17DA61A8C7CEE",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Reactive to eliminations! ",
+          "LocalizedString": "Reactive to eliminations! "
         }
       },
       "promodesc95": {
         "FormatedText": {
           "Namespace": "",
           "Key": "4E0288FA43A0A2547F25B49CCA520B7A",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Pick a color for armor accents on the <text color=\"FFFFFFFF\">VERITY</> Outfit! ",
+          "LocalizedString": "Pick a color for armor accents on the <text color=\"FFFFFFFF\">VERITY</> Outfit! "
         }
       },
       "promodesc96": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1CC2CBA04E65FB534D52948B64840332",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Bundle includes <text color=\"FFFFFFFF\">SOARING SHIELD</> Contrail!",
+          "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">SOARING SHIELD</> Contrail!"
         }
       },
       "promodesc97": {
         "FormatedText": {
           "Namespace": "",
           "Key": "304D2F934D0DA051D77FD1B1D382F683",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "<text color=\"FFFFFFFF\">BOGSTICK</>'s fireflies will glow on eliminations and at night!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">BOGSTICK</>'s fireflies will glow on eliminations and at night!"
         }
       },
       "promodesc98": {
@@ -2750,56 +2750,232 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "64E325D34E987A7629B04EAA0C8A032B",
-          "SourceString": "Bundle includes <text color=\"FFFFFFFF\">PHOTON WAVE</> Wrap! Show off any of your wraps! Pick a color for armor accents on Outfits! Customizable Pickaxe!",
-          "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">PHOTON WAVE</> Wrap! Show off any of your wraps! Pick a color for armor accents on Outfits! Customizable Pickaxe!"
+          "SourceString": "Bundle includes <text color=\"FFFFFFFF\">PHOTON WAVE</> Wrap! Show off any of your wraps! Pick a color for armor accents on the <text color=\"FFFFFFFF\">VERITY</> Outfit! Customizable Pickaxe!",
+          "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">PHOTON WAVE</> Wrap! Show off any of your wraps! Pick a color for armor accents on the <text color=\"FFFFFFFF\">VERITY</> Outfit! Customizable Pickaxe!"
         }
       },
       "chicleveilbundle": {
         "FormatedText": {
           "Namespace": "",
           "Key": "3C89B27E4F147D0D22C420A812F5BDB9",
-          "SourceString": "<text color=\"FFFFFFFF\">JAMILA</>, <text color=\"FFFFFFFF\">ANIYAH</>, and their Back Blings are all reactive to eliminations! Both pickaxes are also reactive to weak points!",
-          "LocalizedString": "<text color=\"FFFFFFFF\">JAMILA</>, <text color=\"FFFFFFFF\">ANIYAH</>, and their Back Blings are all reactive to eliminations! Both pickaxes are also reactive to weak points!"
-        }
-      },
-      "privatejetbundle": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "20BB0F7F47A88FFB3F336D8C5E4F4EFB",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "emotebuiltin": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "F9F7464C4BD08B7EAC9B50A9F9B85085",
-          "SourceString": "Built-in emote!",
-          "LocalizedString": "Built-in emote!"
-        }
-      },
-      "3weakpoints": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "2123E1EA49905179B2F479A9B828FAAC",
-          "SourceString": "Reactive to weak points! Max 3 weak points.",
-          "LocalizedString": "Reactive to weak points! Max 3 weak points."
-        }
-      },
-      "emissiveglow": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "3FC5BF554B9E6C147C2D1E86F980F180",
-          "SourceString": "Emissive glow at night!",
-          "LocalizedString": "Emissive glow at night!"
+          "SourceString": "Outfits and Back Blings are all reactive to eliminations! The <text color=\"FFFFFFFF\">ENCHANTER'S STAFF</> Pickaxe and <text color=\"FFFFFFFF\">RELIC RAVESWORDS</> Pickaxe are reactive when hitting weak points!",
+          "LocalizedString": "Outfits and Back Blings are all reactive to eliminations! The <text color=\"FFFFFFFF\">ENCHANTER'S STAFF</> Pickaxe and <text color=\"FFFFFFFF\">RELIC RAVESWORDS</> Pickaxe are reactive when hitting weak points!"
         }
       },
       "letiltzglider": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "8113B5594A68B58566DC8EB127E6F3FF",
+          "Key": "2D26A1764D1CF4BCA49CD2AFCA368DCE",
           "SourceString": "Bundle includes <text color=\"FFFFFFFF\">SKELLON</> Glider! Includes 3 selectable styles!",
           "LocalizedString": "Bundle includes <text color=\"FFFFFFFF\">SKELLON</> Glider! Includes 3 selectable styles!"
+        }
+      },
+      "emissiveglow": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D96E1EC941402094D20AD6A02BB3674A",
+          "SourceString": "Emissive glow at night!",
+          "LocalizedString": "Emissive glow at night!"
+        }
+      },
+      "3weakpoints": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1FF7613446D8A9828683B48BC60B1195",
+          "SourceString": "Reactive to weak points! Max 3 weak points.",
+          "LocalizedString": "Reactive to weak points! Max 3 weak points."
+        }
+      },
+      "emotebuiltin": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9B7BF3A84D65A8C6DC179FBE3D8786F0",
+          "SourceString": "Built-in emote!",
+          "LocalizedString": "Built-in emote!"
+        }
+      },
+      "privatejetbundle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "8BD670CA416D98A746D657BE278C7D2E",
+          "SourceString": "Bundle includes  <text color=\"FFFFFFFF\">JACK SKELLINGTON</>! Additional style included!",
+          "LocalizedString": "Bundle includes  <text color=\"FFFFFFFF\">JACK SKELLINGTON</>! Additional style included!"
+        }
+      },
+      "promodesc100": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc101": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc102": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc103": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc104": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc105": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc106": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc107": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc108": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc109": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc110": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc111": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc112": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc113": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc114": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc115": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc116": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc117": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc118": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc119": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc120": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "rhombcamo": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4388B39F492832F2E324E4A15C7CBA8A",
+          "SourceString": "Includes four selectable styles and all are reactive to eliminations!",
+          "LocalizedString": "Includes four selectable styles and all are reactive to eliminations!"
         }
       }
     }
