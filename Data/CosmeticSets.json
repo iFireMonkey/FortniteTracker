@@ -12729,8 +12729,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.BronzeLoud_DisplayName",
-          "SourceString": "Set_01",
-          "LocalizedString": "Set_01"
+          "SourceString": "F1 Racers",
+          "LocalizedString": "F1 Racers"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12743,8 +12743,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.RiverCredit_DisplayName",
-          "SourceString": "Set_02",
-          "LocalizedString": "Set_02"
+          "SourceString": "Lewis Hamilton",
+          "LocalizedString": "Lewis Hamilton"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12773,6 +12773,20 @@
           "Key": "Cosmetics.Set.DarkSnooping_DisplayName",
           "SourceString": "Grim Reconning",
           "LocalizedString": "Grim Reconning"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ThickBottle": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ThickBottle"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ThickBottle_DisplayName",
+          "SourceString": "Set_01",
+          "LocalizedString": "Set_01"
         },
         "Description": {
           "CultureInvariantString": null
