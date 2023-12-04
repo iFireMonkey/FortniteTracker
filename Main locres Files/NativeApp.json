@@ -15,11 +15,7 @@
   "GameFeatureCanChange": {
     "SameFeature": "Already in client Feature",
     "TooEarly": "Cannot change active feature yet",
-    "GameplayToKairos": "Cannot go from gameplay to capture",
-    "GameplayToElectraPlayer": "Cannot go from gameplay to media player",
-    "InitialToFrontend": "Cannot go from initial to Frontend, must go to capture first",
     "EarlyStartup": "Cannot return to early startup",
-    "KairosInitial": "Cannot return to initial load",
     "DedicatedServer": "Clients cannot change to dedicated server",
     "DedicatedServerOnly": "Dedicated servers cannot change client Feature",
     "DownloadFailed": "Feature failed to download",
@@ -28,11 +24,6 @@
     "Invalid": "Invalid Feature",
     "OtherToGameplay": "Must be Frontend to enter gameplay",
     "NoPC": "No Player Controller"
-  },
-  "Kairos": {
-    "NotificationTitle": "Voice session ending soon!",
-    "VoiceNotificationBody2": "Your voice session is going to end in {0} minute. Tap to keep your session active.",
-    "VoiceNotificationBody1": "Your voice session is going to end in {0} minutes. Tap to keep your session active."
   },
   "ReturnToMainMenuReason": {
     "PlaybackError": "There was an error during replay playback."

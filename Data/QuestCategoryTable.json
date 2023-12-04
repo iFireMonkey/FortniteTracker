@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests17": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests17_Name",
+          "SourceString": "Rogue Scout Starter Bundle",
+          "LocalizedString": "Rogue Scout Starter Bundle"
+        },
+        "SortPriority": 510
+      },
       "StarterBundleQuests16": {
         "Name": {
           "Namespace": "QuestCategoryTable",

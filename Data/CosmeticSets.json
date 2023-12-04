@@ -12785,8 +12785,190 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.ThickBottle_DisplayName",
+          "SourceString": "Eminem",
+          "LocalizedString": "Eminem"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HidingTime": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HidingTime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HidingTime_DisplayName",
+          "SourceString": "Sneaking",
+          "LocalizedString": "Sneaking"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PotassiumChase": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PotassiumChase"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PotassiumChase_DisplayName",
+          "SourceString": "Nana Quest",
+          "LocalizedString": "Nana Quest"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HugeKittyFight": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HugeKittyFight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HugeKittyFight_DisplayName",
+          "SourceString": "Big Cat Brawler",
+          "LocalizedString": "Big Cat Brawler"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FendOff": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FendOff"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FendOff_DisplayName",
+          "SourceString": "En Garde",
+          "LocalizedString": "En Garde"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Perfection": {
+        "tag": {
+          "TagName": "Cosmetics.Set.Perfection"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Perfection_DisplayName",
+          "SourceString": "Flawless",
+          "LocalizedString": "Flawless"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FireMoney": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FireMoney"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FireMoney_DisplayName",
+          "SourceString": "Flame & Fortune",
+          "LocalizedString": "Flame & Fortune"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HugeSilk": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HugeSilk"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HugeSilk_DisplayName",
           "SourceString": "Set_01",
           "LocalizedString": "Set_01"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MainReturn": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MainReturn"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MainReturn_DisplayName",
+          "SourceString": "Jones's Revenge",
+          "LocalizedString": "Jones's Revenge"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RealAdventurers": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RealAdventurers"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RealAdventurers_DisplayName",
+          "SourceString": "Set_02",
+          "LocalizedString": "Set_02"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BuriedUnder": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BuriedUnder"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BuriedUnder_DisplayName",
+          "SourceString": "The Underground",
+          "LocalizedString": "The Underground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShoutCause": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ShoutCause"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ShoutCause_DisplayName",
+          "SourceString": "Family Guy",
+          "LocalizedString": "Family Guy"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BerryFling": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BerryFling"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BerryFling_DisplayName",
+          "SourceString": "Rocket Racing",
+          "LocalizedString": "Rocket Racing"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SalonFlatware": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SalonFlatware"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SalonFlatware_DisplayName",
+          "SourceString": "Festival Favorites",
+          "LocalizedString": "Festival Favorites"
         },
         "Description": {
           "CultureInvariantString": null

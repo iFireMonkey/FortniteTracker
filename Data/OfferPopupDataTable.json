@@ -439,7 +439,7 @@
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
           "SourceString": "Kratos has arrived on the island.",
-          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
+          "LocalizedString": "Kratos has arrived on the island."
         }
       },
       "promodesc2": {
@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "LocalizedString": "Drop in with the Master Chief and finish the fight."
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
+          "LocalizedString": "Marcus has arrived on the island."
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
+          "LocalizedString": "Marcus and Kait have arrived on the island."
         }
       },
       "promodesc17": {
@@ -2031,7 +2031,7 @@
           "Namespace": "",
           "Key": "54E63B2147EDADEFE9D074BE9560539E",
           "SourceString": "<text color=\"FFFFFFFF\">BALEFUL BELLOW</> lights up when hitting weak points!",
-          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> lights up when hitting weak points!"
+          "LocalizedString": "<text color=\"FFFFFFFF\">BALEFUL BELLOW</> lights up when hitting weak points!"
         }
       },
       "defectbundledesc": {
@@ -3040,6 +3040,46 @@
           "Key": "7E30CB6F48C31A83508557B4B67D87FB",
           "SourceString": "Attend The Big Bang on December 2nd, and unlock the exclusive <text color=\"FFFFFFFF\">MARSHALL MAGMA</> style for <text color=\"FFFFFFFF\">MARSHALL NEVER MORE</>!",
           "LocalizedString": "Attend The Big Bang on December 2nd, and unlock the exclusive <text color=\"FFFFFFFF\">MARSHALL MAGMA</> style for <text color=\"FFFFFFFF\">MARSHALL NEVER MORE</>!"
+        }
+      },
+      "rebar": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "35FF01CF4F30BE8E3F775292895A6A2D",
+          "SourceString": "Placeholder Rebar ISB",
+          "LocalizedString": "Placeholder Rebar ISB"
+        }
+      },
+      "squash": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "39D7507644AF2210D8A238AD316C0F48",
+          "SourceString": "Placeholder Squash ISB",
+          "LocalizedString": "Placeholder Squash ISB"
+        }
+      },
+      "sourdough": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B2F6521C4823F895A7B69FBB1DD2B015",
+          "SourceString": "Placeholder Sourdough ISB",
+          "LocalizedString": "Placeholder Sourdough ISB"
+        }
+      },
+      "oblong": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "8B4267BC4C77A6E4D1C4B38B19D1427A",
+          "SourceString": "Placeholder Oblong ISB",
+          "LocalizedString": "Placeholder Oblong ISB"
+        }
+      },
+      "sparksjamloop": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1788BA184D71FD264DC938901AE5D568",
+          "SourceString": "Jam Tracks are playable, interactive songs that includes Festival Main Stage gameplay, plus 4 Jam Loops!",
+          "LocalizedString": "Jam Tracks are playable, interactive songs that includes Festival Main Stage gameplay, plus 4 Jam Loops!"
         }
       }
     }
