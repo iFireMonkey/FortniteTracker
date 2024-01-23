@@ -439,7 +439,7 @@
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
           "SourceString": "Kratos has arrived on the island.",
-          "LocalizedString": "Kratos has arrived on the island."
+          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
         }
       },
       "promodesc2": {
@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Drop in with the Master Chief and finish the fight."
+          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island."
+          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island."
+          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
         }
       },
       "promodesc17": {
@@ -2030,8 +2030,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "54E63B2147EDADEFE9D074BE9560539E",
-          "SourceString": "<text color=\"FFFFFFFF\">BALEFUL BELLOW</> lights up when hitting weak points!",
-          "LocalizedString": "<text color=\"FFFFFFFF\">BALEFUL BELLOW</> lights up when hitting weak points!"
+          "SourceString": "<text color=\"FFFFFFFF\">BELLOW OF THE DEAD</> lights up when hitting weak points!",
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> lights up when hitting weak points!"
         }
       },
       "defectbundledesc": {
@@ -2246,8 +2246,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "7C0CE3954FF7EC6AE055D7A02FD4E695",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Select a color and customize with sprays! Includes 9 Sprays with purchase!",
+          "LocalizedString": "Select a color and customize with sprays! Includes 9 Sprays with purchase!"
         }
       },
       "promodesc79": {
@@ -2802,172 +2802,12 @@
           "LocalizedString": "Bundle includes  <text color=\"FFFFFFFF\">JACK SKELLINGTON</>! Additional style included!"
         }
       },
-      "promodesc100": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
       "promodesc101": {
         "FormatedText": {
           "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc102": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc103": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc104": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc105": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc106": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc107": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc108": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc109": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc110": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc111": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc112": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc113": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc114": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc115": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc116": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc117": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc118": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc119": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
-        }
-      },
-      "promodesc120": {
-        "FormatedText": {
-          "Namespace": "",
-          "Key": "D8C75F5D410F546CC1AAEC8A96242F0E",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "Key": "967A1D034F5A12AF3B98ED8068A4508A",
+          "SourceString": "Use <text color=\"FFFFFFFF\">THE WEEKND COMBAT</>'s built-in Emote to don his mask with the White Style!",
+          "LocalizedString": "Use <text color=\"FFFFFFFF\">THE WEEKND COMBAT</>'s built-in Emote to don his mask with the White Style!"
         }
       },
       "rhombcamo": {
@@ -3039,47 +2879,151 @@
           "Namespace": "",
           "Key": "7E30CB6F48C31A83508557B4B67D87FB",
           "SourceString": "Attend The Big Bang on December 2nd, and unlock the exclusive <text color=\"FFFFFFFF\">MARSHALL MAGMA</> style for <text color=\"FFFFFFFF\">MARSHALL NEVER MORE</>!",
-          "LocalizedString": "Attend The Big Bang on December 2nd, and unlock the exclusive <text color=\"FFFFFFFF\">MARSHALL MAGMA</> style for <text color=\"FFFFFFFF\">MARSHALL NEVER MORE</>!"
+          "LocalizedString": "Selectable Styles!"
         }
       },
       "rebar": {
         "FormatedText": {
           "Namespace": "",
           "Key": "35FF01CF4F30BE8E3F775292895A6A2D",
-          "SourceString": "Placeholder Rebar ISB",
-          "LocalizedString": "Placeholder Rebar ISB"
+          "SourceString": "Some items are restricted to select Car Bodies.",
+          "LocalizedString": "Some items are restricted to select Car Bodies."
         }
       },
       "squash": {
         "FormatedText": {
           "Namespace": "",
           "Key": "39D7507644AF2210D8A238AD316C0F48",
-          "SourceString": "Placeholder Squash ISB",
-          "LocalizedString": "Placeholder Squash ISB"
+          "SourceString": "Some items are restricted to select Car Bodies.",
+          "LocalizedString": "Some items are restricted to select Car Bodies."
         }
       },
       "sourdough": {
         "FormatedText": {
           "Namespace": "",
           "Key": "B2F6521C4823F895A7B69FBB1DD2B015",
-          "SourceString": "Placeholder Sourdough ISB",
-          "LocalizedString": "Placeholder Sourdough ISB"
+          "SourceString": "Some items are restricted to select Car Bodies.",
+          "LocalizedString": "Some items are restricted to select Car Bodies."
         }
       },
       "oblong": {
         "FormatedText": {
           "Namespace": "",
           "Key": "8B4267BC4C77A6E4D1C4B38B19D1427A",
-          "SourceString": "Placeholder Oblong ISB",
-          "LocalizedString": "Placeholder Oblong ISB"
+          "SourceString": "Some items are restricted to select Car Bodies.",
+          "LocalizedString": "Some items are restricted to select Car Bodies."
         }
       },
       "sparksjamloop": {
         "FormatedText": {
           "Namespace": "",
           "Key": "1788BA184D71FD264DC938901AE5D568",
-          "SourceString": "Jam Tracks are playable, interactive songs that includes Festival Main Stage gameplay, plus 4 Jam Loops!",
-          "LocalizedString": "Jam Tracks are playable, interactive songs that includes Festival Main Stage gameplay, plus 4 Jam Loops!"
+          "SourceString": "Perform a Jam Track on the Festival Main Stage. Or, bust out your own Jam off the Main Stage with the Track's 4 Jam Loops!",
+          "LocalizedString": "Perform a Jam Track on the Festival Main Stage. Or, bust out your own Jam off the Main Stage with the Track's 4 Jam Loops!"
+        }
+      },
+      "brightion": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5DA61B3F4F06E711361720ACCE6439BB",
+          "SourceString": "<text color=\"FFFFFFFF\">RIP WRECKER</> Pickaxe spins faster on hits!",
+          "LocalizedString": "<text color=\"FFFFFFFF\">RIP WRECKER</> Pickaxe spins faster on hits!"
+        }
+      },
+      "falsevulture": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CF579EA543BD28F8283AE7B5FCB4F97B",
+          "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">HIGH-FREQUENCY BLADE</> Pickaxe from the Back Bling when both are equipped!",
+          "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">HIGH-FREQUENCY BLADE</> Pickaxe from the Back Bling when both are equipped!"
+        }
+      },
+      "endo": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "729766BF48DE6F4E28B5658215D8F822",
+          "SourceString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">ENDO</> car body.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">ENDO</> car body."
+        }
+      },
+      "promodesc100": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6927E4B447F9E020F73492BDAB998208",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc102": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "D7C9C90D4B3143A8D8610AB3357AB51A",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc103": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "EB40BEAA44D3EA59BA1E61A8679F666A",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc104": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "19299AC34108CAC1D11415A23839A473",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc105": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9A2F36174295CC72BD196EA1B94E549B",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc106": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "90B9B0DD4554F3913651548481EBFAAD",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc107": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "A567672944ED2AEB07FCC7A40FBDF36C",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc108": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "CE23905D4DEC885E211A0690B6C86D31",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc109": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "6B637DC343BDCE7837F5929707080200",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
+        }
+      },
+      "promodesc110": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "4E7C84C14AFF22972897ABA7E017C79E",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
         }
       }
     }

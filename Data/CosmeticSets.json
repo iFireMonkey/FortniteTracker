@@ -12883,8 +12883,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.HugeSilk_DisplayName",
-          "SourceString": "Set_01",
-          "LocalizedString": "Set_01"
+          "SourceString": "The Weeknd",
+          "LocalizedString": "The Weeknd"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12911,8 +12911,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.RealAdventurers_DisplayName",
-          "SourceString": "Set_02",
-          "LocalizedString": "Set_02"
+          "SourceString": "True Explorers",
+          "LocalizedString": "True Explorers"
         },
         "Description": {
           "CultureInvariantString": null
@@ -12969,6 +12969,244 @@
           "Key": "Cosmetics.Set.SalonFlatware_DisplayName",
           "SourceString": "Festival Favorites",
           "LocalizedString": "Festival Favorites"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TumbleCourt": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TumbleCourt"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.TumbleCourt_DisplayName",
+          "SourceString": "TMNT",
+          "LocalizedString": "TMNT"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RascalGuard": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RascalGuard"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RascalGuard_DisplayName",
+          "SourceString": "Rogue Scout",
+          "LocalizedString": "Rogue Scout"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Coolfeels": {
+        "tag": {
+          "TagName": "Cosmetics.Set.Coolfeels"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.Coolfeels_DisplayName",
+          "SourceString": "Chill Vibez",
+          "LocalizedString": "Chill Vibez"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PeakHero": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PeakHero"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PeakHero_DisplayName",
+          "SourceString": "Summit's Idol",
+          "LocalizedString": "Summit's Idol"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GoldenPrime": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GoldenPrime"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GoldenPrime_DisplayName",
+          "SourceString": "Gilded Elites",
+          "LocalizedString": "Gilded Elites"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BareExit": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BareExit"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BareExit_DisplayName",
+          "SourceString": "Voidlands Exile",
+          "LocalizedString": "Voidlands Exile"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.VenomRoyalty": {
+        "tag": {
+          "TagName": "Cosmetics.Set.VenomRoyalty"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.VenomRoyalty_DisplayName",
+          "SourceString": "Poison Prince",
+          "LocalizedString": "Poison Prince"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BelowExpert": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BelowExpert"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BelowExpert_DisplayName",
+          "SourceString": "Underground Ace",
+          "LocalizedString": "Underground Ace"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CultureDriver": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CultureDriver"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.CultureDriver_DisplayName",
+          "SourceString": "Society Operator",
+          "LocalizedString": "Society Operator"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SunSweetie": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SunSweetie"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SunSweetie_DisplayName",
+          "SourceString": "Solar Sweetheart",
+          "LocalizedString": "Solar Sweetheart"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PowerNight": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PowerNight"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.PowerNight_DisplayName",
+          "SourceString": "Dominion's Dusk",
+          "LocalizedString": "Dominion's Dusk"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AtomFix": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AtomFix"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AtomFix_DisplayName",
+          "SourceString": "Neutron Repair",
+          "LocalizedString": "Neutron Repair"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BrokenMetal": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BrokenMetal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BrokenMetal_DisplayName",
+          "SourceString": "Breaker of Cages",
+          "LocalizedString": "Breaker of Cages"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ActingSecret": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ActingSecret"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ActingSecret_DisplayName",
+          "SourceString": "Be the Mystery",
+          "LocalizedString": "Be the Mystery"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.QuilledDirection": {
+        "tag": {
+          "TagName": "Cosmetics.Set.QuilledDirection"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QuilledDirection_DisplayName",
+          "SourceString": "Feathered West",
+          "LocalizedString": "Feathered West"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HootinLeader": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HootinLeader"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HootinLeader_DisplayName",
+          "SourceString": "Squawkin' Sergeant",
+          "LocalizedString": "Squawkin' Sergeant"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FloofBegin": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FloofBegin"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FloofBegin_DisplayName",
+          "SourceString": "Llana Origins",
+          "LocalizedString": "Llana Origins"
         },
         "Description": {
           "CultureInvariantString": null

@@ -24,6 +24,7 @@
     "F323D3324C1E2BF0E3D873853A57C7DA": "Features Expo",
     "E9C4E4D04CE32EDEFB35F98B1579F659": "Fortnite Foundation",
     "D3AF322F4EE75BAAC57EC8973B0766A5": "Learn how to make your levels more engaging by incorporating high-quality lighting, post-processing, and VFX. This level demonstrates how it’s done.",
+    "310BF5F942CB152931478BAE9315B9D7": "Learn how you can use the Character Device and MetaHuman Animator to add new levels of creativity to your islands. Explore the Chair and Input Trigger Devices to unlock gameplay not previously possible in UEFN.",
     "44879C174A60DB82AB62E8952784D36F": "Loading",
     "7B1C419A4304D8A74EDC138135C2FBD3": "Metallic",
     "960BC884415F37CD97EB41897877731C": "No Data Found",
@@ -44,6 +45,7 @@
     "74D6D0744C1DBDD819753C968E9E869E": "Verse - Detonation",
     "997E73E547DE5A156B61FBA2A0D6A4D9": "Verse - Elimination",
     "449C6D19488D0556A388BB86AA381531": "Verse - Parkour",
+    "3CDA334540C99862E466C488117736EB": "Verse - Stand Up Template",
     "3C9C06E4403062399419DB98CFA944F9": "Visit the Valkyrie Features Expo and see the capabilities of the toolset.",
     "39D7D94B400B907EF68A91B996109915": "Whether to only show unseen news on startup as opposed to always showing them",
     "5E83F86A41FD565912384293DB9FAA84": "^ Add Parent",
@@ -123,24 +125,28 @@
     "AssetVerseSubMenu": "Verse",
     "AssetTypeActions_VerseClass": "Verse Class"
   },
+  "Athena": {
+    "UnknownNPCName": "Unknown"
+  },
+  "BuildingInstructions": {
+    "CommandletInfo": "After modifying either the value of Template Map or the map file Template Map points to you will need to generate building instructions to see your changes.\nYou can generate building instructions by running the editor exe with the following commandline: \"-run=FortBuildingInstructionsCommandlet\".\nRunning the editor exe with that commandline will not open the editor, instead it will run a commandlet that will rebuild all building instructions and check-out any building instructions that have changes.",
+    "CommandletInfoRowName": "Commandlet Info"
+  },
   "CanCreateActor": {
     "NoDaySequenceAsset": "A valid Day sequence asset must be specified."
-  },
-  "CharacterCustomization": {
-    "CharacterCustomization": "Missing skeletal mesh in the character customization!"
-  },
-  "CharacterDefinition": {
-    "MissingCharacterModifier": "Missing character modifier!",
-    "MissingType": "Missing type!",
-    "DuplicatedModifier": "Multiple modifiers of type {0}!",
-    "UnsupportedModifier": "Unsupported modifiers of type {0} for identity {1}!"
   },
   "CharacterModifier_CosmeticSpawn": {
     "MissingCharacterBlueprintDefinition": "Missing Character Blueprint in the Spawn Modifier!",
     "MissingCharacterCosmeticDefinition": "Missing or not found Character Cosmetic Definition in the Spawn Modifier!"
   },
+  "CharacterModifier_Emotes": {
+    "MissingEmoteDefinition": "Missing emote definition in the emotes modifier!"
+  },
   "CharacterModifier_Inventory": {
     "MissingItemDefinition": "Missing item definition in the inventory modifier!"
+  },
+  "CharacterModifier_PatrolPath": {
+    "IncompatibleModifier": "Patrol Path Modifier on Custom Characters can only be used with 'Character Item Definition' Cosmetic Type for the moment."
   },
   "CharacterModifier_Team": {
     "TeamIndex": "Team index must be between 1 and 100!"
@@ -166,6 +172,7 @@
   },
   "ContentResolver": {
     "ResolveVersePathAttempt": "Attempting to resolve verse path {VersePath} for platform {PlatformName} {Role}",
+    "ResolveVersePathComplete": "Completed resolution of verse path {VersePath} for platform {PlatformName} {Role}, error {Error}",
     "ExecResolveIDError": "Error resolving client {PlatformName} role {Role} param {ID}, errordetails {Error}",
     "ExecResolveLinkError": "Error resolving param {LinkCode}, errordetails {Error}",
     "ExecResolveVersePathError": "Error resolving param {VersePath}, errordetails {Error}",
@@ -224,6 +231,18 @@
     "Preview": "Preview",
     "PreviewSequenceSlider": "Preview Sequence",
     "Sequence": "Sequence"
+  },
+  "DaySequenceConditionSetCombo": {
+    "DaySequenceConditionSetCombo_Empty": "Empty",
+    "DaySequenceConditionSetCombo_EmptyTooltip": "Empty Condition Set"
+  },
+  "DaySequenceConditionSetPicker": {
+    "DaySequenceConditionSetPicker_ClearAllTags": "Clear All Tags",
+    "SectionConditionSet": "Condition Set",
+    "DaySequenceConditionSetPicker_SearchBoxHint": "Search Condition Tags"
+  },
+  "DaySequenceConditionTagChip": {
+    "ClearTag": "Clear Tag"
   },
   "DaySequenceEditor": {
     "TabSuffixAsterix": "*",
@@ -287,7 +306,8 @@
     "DefaultBindingName": "Root Day Sequence Actor"
   },
   "DaySequenceModifierComponent": {
-    "ModifierTrackFormat": "Modifier ({0})"
+    "ModifierTrackFormat": "Modifier ({0})",
+    "ModifierPropertyTrackFormat": "{0} ({1})"
   },
   "DaySequenceModifierDeviceCustomization": {
     "BlendAmount": "Blend Distance",
@@ -464,6 +484,12 @@
     "ShortTextCustomData": "{0} [{1} : {2}.{3}]",
     "ShortTextNoCustomData": "{0} [{1} : {2}]"
   },
+  "FileHelper": {
+    "RewoundDialog_ConfirmText": "Close",
+    "RewoundDialog_CheckBoxText": "Don't show this again",
+    "RewoundDialogTitle": "Warning - You've made changes to this snapshot",
+    "RewoundDialogMessage": "You are about to work in a rewound snapshot. We recommend to sync to head before working to avoid conflicts."
+  },
   "FMcpCatalogHelper": {
     "CatalogOutOfDateErrorMsg": "Prices and offers may have changed. Please try your purchase again."
   },
@@ -484,6 +510,7 @@
   "FortBuildingActorDetails": {
     "Transaction.EditPropertyOverride": "Edit {0}",
     "OptionName.ItemList": "Item List",
+    "UserOptionsCategoryLabel.FabricLegalInfo": "Legal",
     "OptionError.MissingProperty": "Missing property for user option!\nProperty: {0}\nOption: {1}",
     "NoItemLabel": "No Item",
     "OptionError.PropertyNotEditable": "Property is transient or not instance editable!\nProperty: {0}\nOption: {1}",
@@ -529,6 +556,14 @@
   "FortContentEncryption": {
     "EncryptionManifestViewerTitle": "Encryption Manifest"
   },
+  "FortContentValidationCommandlet": {
+    "InPath": "Files In Path {0}",
+    "P4Filter": "P4 Filter {0}",
+    "P4Opened": "P4 Opened Files",
+    "P4Changelist": "P4 changelist {0}",
+    "CommandLinePackages": "Packages from command line",
+    "OfType": "Packages of type {0}"
+  },
   "FortCreateQuestAssetScreen": {
     "CreateQuestTemplate": "Quest Template",
     "SelectQuestTemplate": "Select Quest Template"
@@ -554,6 +589,7 @@
     "ApplyValetRaisinTags": "Apply Autogenerated Valet Raisin Tags (SLOW!)",
     "AssetsStillScanningError": "Cannot export templates while still discovering assets. Slow your roll :).",
     "FortReleaseVersionSelector_Tooltip": "Change the FortReleaseVersion. Only changeable in Main.",
+    "FortGameFeaturePluginProfile_Tooltip": "Change the current GameFeaturePlugin Profile to limit the number of GameFeaturePlugins enabled",
     "CheckContentButton": "Check Content",
     "ConvertAnimSequencePlaySoundToEmoteSound": "Convert PlaySound to EmoteSound Notifies",
     "ConvertPlaySoundToFortEmoteSound": "Convert PlaySound to EmoteSound Notifies",
@@ -566,14 +602,13 @@
     "KeyExportError": "Encryption Keys failed to export fully. See the log for details.",
     "EncryptionNotConfiguredError": "Encryption doesn't seem to be configured.",
     "ExportAchievementsTitle": "Export Achievements...",
-    "FortExportCalendarsLabel": "Export Calendars",
     "ExportKeysTitleDA": "Export Encryption Keys [Discovering Assets]",
     "ExportKeysTitle": "Export Encryption Keys...",
     "ExportTemplatesTitleDA": "Export MCP Templates [Discovering Assets]",
     "ExportTemplatesTitle": "Export MCP Templates...",
     "ExportAchievementTooltip": "Export achievement files for PSN and Xbox Live.",
     "ExportKeyChainTooltip": "Export encryption keys for content.",
-    "FortExportCalendarsToolTip": "Export various FORT calendar ICS files.",
+    "FortExportCalendarsToolTip": "Export {0} calendar ICS files.",
     "ExportingCalendarTask": "Exporting Calendar from ICS URL...",
     "ExportingEncryptionKeysTask": "Exporting Keys...",
     "ExportingTemplatesTask": "Exporting Templates...",
@@ -585,6 +620,7 @@
     "FlashlightButton": "Flashlight",
     "Fortnite": "Fortnite",
     "WorkspaceMenu_FortniteGroup": "Fortnite Tools",
+    "FortGameFeaturePluginProfileSelector_Label": "GFP Profile: {0}",
     "GenerateAlterationInformation": "Generate Alteration Information",
     "GenerateHeroInformation": "Generate Hero Information",
     "GenerateHomebaseNodeItemDefinitions": "Generate Homebase Node Item Definitions",
@@ -599,6 +635,7 @@
     "MakeWeaponDefinition": "Make Weapon Item Definition",
     "MakeDesignAssetDescription": "Makes a asset for Design.",
     "TitleForDestructiveAction": "Modifying UEFN-Exposed Asset",
+    "FortGameFeaturePluginProfileNone": "None",
     "FortReleaseVersionSelectorOlderVersions": "Older Versions",
     "FinalOptionsTooltip": "Options that are actually passed to the server when running PIE",
     "OutpostItem": "Outpost Item ID",
@@ -608,8 +645,10 @@
     "PersistDADAssetsTooltip": "Persists asset changes from DAD and writes them to P4.",
     "PickZoneDescription": "Pick Fortnite Zone to load into",
     "PickZoneButton": "Pick Zone",
+    "FortGameFeaturePluginProfile_Reset": "Reset",
     "RespawnDaySequenceActor": "Respawn Day Sequence Actor",
     "RespawnDaySequenceActorTooltip": "Respawn Day Sequence Actor",
+    "FortGameFeaturePluginProfile_None_Tooltip": "Restores the default GameFeaturePlugin enabling without using profiles",
     "CheckContentDescription": "Runs the Content Validation job on all checked out assets to look for warnings and errors",
     "FortReleaseVersionSelectorOlderVersions_Tooltip": "Select older versions to use as the FortReleaseVersion",
     "SetParentActorToAttachTo": "Set parent actor to attach to",
@@ -634,23 +673,22 @@
     "FortZoneSelectTab": "Zone Select",
     "LongDescription_NeedsFilledOut": "[Longer user-facing flavor text / item desc.]",
     "DisplayName_NeedsFilledOut": "[User-facing item name]",
+    "FortExportCalendarsLabel": "{0}",
     "FortReleaseVersionSelectorDefaultVersionFormat": "{0} (Default)"
+  },
+  "FortEditorSubmitTool": {
+    "ValidationTag": "#changelist validated"
   },
   "FortEditorValidator": {
     "ContentValidationFailed": "!!!!!!! Your checked out content has issues. Don't submit until they are fixed !!!!!!!\r\n\r\nSee the MessageLog and OutputLog for details",
-    "ContentValidationPassedWithWarnings": "All checked out content passed but there were warnings. See the MessageLog and OutputLog for details",
     "ContentValidationPassed": "All checked out content passed. Nice job.",
-    "ChangelistValidationSucceeded": "Changelist validation {Result}",
-    "CheckingContentTask": "Checking content...",
     "Failed": "FAILED",
-    "CompilingAssetsBeforeCheckingContentTask": "Finishing asset compilations before checking content...",
     "ContentValidationFailedWithNoMessages": "No errors or warnings were found, but there was an error return code. Look in the OutputLog and log file for details. You may need engineering help.",
     "ValidateProjectSettings": "Project settings validation {Result}",
     "Succeeded": "SUCCEEDED",
-    "DiscoveringAssets": "Still discovering assets. Try again once it is complete.",
-    "ValidateContent": "Validate Content",
-    "ValidatingAllChangelistsTask": "Validating all changelists...",
-    "ValidatingChangelist": "Validating changelist '{0}' ",
+    "ValidateContent": "Validate Checked Out Content"
+  },
+  "FortEditorValidatorSubsystem": {
     "HeaderChangeAssetValidation": "{0} is adding {1} dependent asset check(s)"
   },
   "FortExposedContentValidationDashboard": {
@@ -658,18 +696,23 @@
     "ActorValidation.Heading": "Actor Validation",
     "BuildCurrentManifest.Label": "Build Manifest",
     "BuildCurrentManifest.Tooltip": "Build the manifest state for the current version of Fortnite from the local permission lists and content",
+    "PermissionLevels.ToolTip": "Controls which permission level content is validated against",
     "CreateValidationWorld.Label": "Create Validation World",
     "CreateValidationWorld.Tooltip": "Create a transient editor world used to perform instanced actor validation",
     "SpawnActor.Tooltip.NoValidationWorld": "Create a validation world prior to spawning actor instances",
     "SpawnPlayset.Tooltip.NoValidationWorld": "Create a validation world prior to spawning playset instances",
     "CurrentManifest.LabelFmt": "Current Manifest: {0} ({1})",
+    "PermissionLevel.EarlyAccess": "Early Access",
     "EditActor.Label": "Edit",
     "Tab.Label": "Exposed Content Validation",
     "CurrentValidationActors.Column.Id": "ID",
+    "PermissionLevel.Internal": "Internal",
     "CurrentValidationActors.Column.Label": "Label",
     "ManifestManagement.Heading": "Manifest Management",
     "None": "None",
     "Tab.Tooltip": "Open a dashboard of tools used to perform exposed content validation",
+    "PermissionLevel.Partner": "Partner",
+    "PermissionLevel.Public": "Public",
     "SpawnPlayset.Tooltip.NoPlaysetProvider": "Select a playset prior to spawning playset instances",
     "SpawnActor.Tooltip.NoActorClass": "Select an actor class prior to spawning actor instances",
     "ValidateSelection.Tooltip.NoSelection": "Select the actors you want to validate in the list view",
@@ -698,7 +741,7 @@
     "Error_NotEnoughTemplates": "Cannot import. Require {0} template gameplay effect assets, but only {1} have been provided."
   },
   "FortItemDefinitions": {
-    "ErrorIfCookedInWrongReleaseVersion": "This asset won't cook.\n{0} version is newer than the owning plugin {1}."
+    "ErrorIfCookedInWrongReleaseVersion": "This asset won't cook.\n{0} version is newer than the current release."
   },
   "FortLevelEditorDragDropHandler": {
     "ContentBundleInLevelInstance": "Cannot drop content from {0} to level instance {1}. Place it in {2} instead. Placing plugin actors is not supported within level instance.",
@@ -738,7 +781,7 @@
     "SavingFailed": "Saving Failed. Aborting hotfix creation.",
     "SeasonProgressLevelPrefix_SeasonFree": "Season",
     "ShowMessageLogHyperlink": "Show Output Log",
-    "TooManyAccoladeDevices": "There can be only {0} accolade devices in a map. There are currently {1} instances in {2}.",
+    "TooManyDevices": "There can be only {0} {1} devices in a map. There are currently {2} instances in {3}.",
     "CannotHaveMultipleMinigameSettings": "There can only be one instance of Actor type {0} in a map. There are currently {1} instances in {2}.",
     "RewardLevelRowHeading": "{0} Reward {1}",
     "CreativeTag_Index_Desc": "{0} {1}",
@@ -855,16 +898,22 @@
     "AnimMontage_InvalidSectionLength": "AnimMontage {0} contains a Segment for Slot {1} for which the playable length {2} is out-of-sync with the represented AnimationSequence its length {3} ({4}). Please up-date the segment and resave.",
     "AnimSequence_DuplicateCurveEntries": "Animation Sequences {0} contains duplicate float curve entries with name {1}. Please correct invalid data and resave.",
     "TextureValidator_UDIMBlockTooBig": "Block {0} in non-cinematic UDIM texture is too big. It is {1}x{2}. Reduce the block's size to {3} or lower",
-    "StaticMesh_CannotAccessMeshDescription": "Cannot access HiResMeshDescription for Static Mesh [{0}]",
-    "PlaylistAthenaValidator_InvalidChangelist": "Changelist is invalid!",
+    "StaticMesh_CannotAccessMeshDescription": "Cannot access HiResMeshDescription for Static Mesh",
     "PlaylistAthenaValidator_CompetitivePointClampLte0": "Competitive Point Clamp ({0}) cannot be <= 0 if Is Tournament is true.",
     "PlaylistAthenaValidator_EnableDynamicBotBackfillTrue": "Enable Dynamic Bot Backfill cannot be true if Use Player Rating is false.",
-    "Load_FailedLoad": "Failed to get package load warnings and errors",
+    "FortValidator_Blueprints.ReferencerErrors": "Errors encountered in loading copy of asset to validate it",
+    "FortValidator_MaterialFunction.ReferencerErrors": "Errors encountered in referencing asset",
+    "FortValidator_Skeleton.ReferencerErrors": "Errors encountered in referencing asset",
+    "DataValidation.LoadErrors": "Errors loading asset {0}",
+    "DataValidation.FailedToLoadAsset": "Failed to load asset",
+    "FortValidator_Blueprints.LoadFailure": "Failed to load copy of object to validate it: {0}",
+    "FortValidator_MaterialFunction.LoadFailure": "Failed to load referencer to validate it: {0}",
+    "FortValidator_Skeleton.LoadFailure": "Failed to load referencer to validate it: {0}",
     "FortExposedContent.FailedToSpawnValidationActor": "Failed to spawn exposed content validation actor",
     "ItemDefinition_InvalidReleaseVersion": "FortReleaseVersion '{0}' is not a real version. You may not use any value that is not in the AllVersions array in DefaultFortReleaseVersion.ini",
     "IllegalReference_AssetFilterVersionFail": "FortReleaseVersion is 'Future' but referenced by non-Future asset {0}",
     "ValidationError.GameFeature": "GameFeaturePlugin {0} does not depend on any Root Game Feature Plugin. Please use the \"Add To RootGFP\" Game Feature Action.",
-    "IllegalReference_HardDependency": "Illegally hard references {0} asset {1}",
+    "IllegalReference_HardDependency": "Illegally hard references {0}",
     "IllegalReference_AssetFilterFail": "Illegally references asset {0}. {1}",
     "IllegalReference_AssetFilterFailNative": "Illegally references native code in plugin '{0}'. The module package is '{1}'. {2}",
     "PlaylistAthenaValidator_InvalidStrategyType": "Invalid Strategy Type: {0}, must be one of: {1}.",
@@ -883,33 +932,34 @@
     "PlaylistAthenaValidator_MaxTeamSizeLte0": "Max Team Size ({0}) cannot be <= 0.",
     "PlaylistAthenaValidator_MaxTeamSizeGtMaxHumanAndBotParticipants": "Max Team Size ({0}) cannot be > Max Human And Bot Participants ({1}).",
     "PlaylistAthenaValidator_MaxTeamSizeGtMaxPlayers": "Max Team Size ({0}) cannot be > Max Players ({1}).",
-    "StaticMesh_MeshDescriptionInvalid": "MeshDescription for Static Mesh [{0}] is invalid",
+    "StaticMesh_MeshDescriptionInvalid": "MeshDescription for Static Mesh is invalid",
     "PlaylistAthenaValidator_MinBackfillMatchPlayersLte0": "Min Backfill Match Players ({0}) cannot be <= 0 if Allow Backfill is true.",
     "PlaylistAthenaValidator_MinPlayersGtMaxTeamCountTimesMaxTeamSize": "Min Player Count ({0}) cannot be > Max Team Count ({1}) multiplied by Max Team Size ({2}).",
     "PlaylistAthenaValidator_MinPlayersLte0": "Min Players ({0}) cannot be <= 0.",
-    "StaticMesh_NonNaniteTooManyVerts": "Non-Nanite Static Mesh[{0}] exceeding vert budget[LOD{1} has {2} verts out of an allowed budget {3}]. This will introduce an unacceptable runtime rendering cost!!",
+    "StaticMesh_NonNaniteTooManyVerts": "Non-Nanite Static Mesh exceeding vert budget[LOD{0} has {1} verts out of an allowed budget {2}]. This will introduce an unacceptable runtime rendering cost!!",
     "TextureValidator_TooBig": "Non-cinematic texture is too big. It is {0}x{1}. Use LODBias to reduce its size to {2} or lower",
     "CreativeCostValidator": "OldCost({DoNotLocalizeOldCost}kb) NewCost({DoNotLocalizeNewCost}kb). Asset grew by {DoNotLocalizeChangePercent}%. Questions see Eric.Knapik\nPotentially cut down on the number of hard references by using soft references instead.\nPlease fix or run past Creative Team for approval, must be approved by Zak Phelps or Carlos Cuello.\nIgnore asset validation by adding to DefaultEngine.ini under [/Script/FortniteEditor.FortValidator_CreativeCost] add the following line\n+ClassesToSkipValidator=(Class={DoNotLocalizeAssetName},PercentIncreased={DoNotLocalizeChangePercent})\n",
     "PlaylistAthenaValidator_HardDepOnUploadedPlugin": "Playlist contains a hard reference to \"{package}\" in \"{plugin}\"  but plugin is marked for upload to the artifact service.A hard reference to a plugin that uploads to the artifact service is not allowed!",
     "PlaylistAthenaValidator_HardDepOnModifiedPlugin": "Plugin \"{plugin}\" uploads to artifact service but is a hard dependency for playlist \"{playlist}\" due to a reference to \"{package}\"! Hard dependency needs to be removed for playlist to be valid.",
     "PhysicsAsset_TooManyPhysicsCollisionPolys": "Polygon count for Physics Collision shapes exceeds {0} budget. It currently has {1}. Reduce to less than {2}",
     "ValidationError.AssetPathLength_BrowserUtils": "Potential cook path for asset {0} is too long and might go over the path length on certain platforms. {1} of max {2}.\nThis is an assumed potential path for what cook machines could use, your path locally might be shorter than the cook machines.",
-    "PresubmitAssetCheck": "Pre-Submit Asset Check",
-    "PreSubmitValidateFailed": "Pre-Submit asset validation failed: See 'Asset Check' message log for details.",
     "PlaylistAthenaValidator_RankScalingMaxMinInvalid": "RankScalingMinDelta must be less than or equal to RankScalingMaxDelta",
     "PlaylistAthenaValidator_RatingTypeEmpty": "Rating Type cannot be empty if Use Player Rating is true.",
     "IllegalReference_AssetFilterFailRedirector": "Redirected reference from '{0}' illegally references asset {1}. {2}",
     "IllegalReference_MissingRef": "References {0} which does not exist",
     "SourceControl_NotMarkedForAdd": "References {0} which is not marked for add in source control",
+    "SKeletalMeshes_MissingBones": "Skeletal mesh contains bones not found on its skeleton ({0}): {1}",
     "SkeletalMeshes_MissingAlternateInfluenceProfile": "Skin profile {0} missing influence weights on LOD {1}",
-    "StaticMesh_TooManySections": "Static Mesh [{0}] has [{1}] mesh sections which exceeds the allowed number of mesh sections per mesh of [{2}]. This is likely due to having more than [{2}] materials for a given mesh. Please break up the mesh into smaller meshes with [{2}] materials max per mesh",
+    "StaticMesh_TooManySections": "Static Mesh has [{0}] mesh sections which exceeds the allowed number of mesh sections per mesh of [{1}]. This is likely due to having more than [{1}] materials for a given mesh. Please break up the mesh into smaller meshes with [{1}] materials max per mesh",
     "AnimationBlueprint_NoSynchronousSimulation": "Synchronous rigid body simulation is disabled for node using {0} in group {1}",
     "BPValidationError_RestrictedData": "This asset contains restricted data.",
     "FortExposedContent.ValidatingDirtyPackage": "This package has unsaved in-memory changes, so the validation result of the on-disk file may not be accurate. Save this package for accurate results.",
     "SkeletalMeshes_TooManyVerts": "Too many verts in LOD(s): {0} for budget {1}. It currently has {2}. Reduce to less than {3}",
+    "FortValidator_CreativeCost.NoGeneratedClass": "Unable to find generated blueprint class - is it compiled?",
     "PlaylistAthenaValidator_UnableToGetDepsForPlaylist": "Unable to get dependencies for playlist. Cannot validate playlist dependencies!",
     "PlaylistAthenaValidator_UseMultidivisionQueuesTrue": "Use Multidivision Queues cannot be true if Is Tournament is false.",
     "Particles_SkelVertSurface": "Use of SkelVertSurface Cascade module is not allowed in Fortnite. Please replace with BoneSocket module. Emitter: {0}",
+    "DataValidation.LoadWarnings": "Warnings loading asset {0}",
     "AnimationBlueprint_DefaultMeshSimulation": "default mesh physics asset",
     "SkeletalMeshes_MissingLODs": "{0} missing LOD(s): {1}",
     "NiagaraSystem_NoEffectType": "{0} missing an Effect Type asset"
@@ -958,11 +1008,42 @@
     "Check": "Check Cue References..."
   },
   "ItemAssetDefinition": {
-    "AssetDefinition_ItemFortWrapperDefinition": "Item Fort Wrapper Definition",
+    "AssetDefinition_EquipmentHotBar": "Equipment Hot Bar",
+    "AssetDefinition_EquipmentSlot": "Equipment Slot",
+    "AssetTypeActions_EquipmentSlot": "Equipment Slot",
+    "Inventory": "Inventory",
+    "AssetDefinition_InventoryDefinition": "Inventory Definition",
+    "AssetTypeActions_InventoryDefinition": "Inventory Definition",
+    "AssetDefinition_ItemAbilityConfigurationAsset": "Item Ability Configuration Asset",
+    "AssetTypeActions_ItemAbilityConfigurationAsset": "Item Ability Configuration Asset",
+    "AssetDefinition_ItemAttribute": "Item Attribute",
+    "AssetDefinition_ItemDefinition": "Item Definition",
+    "AssetTypeActions_ItemDefinition": "Item Definition",
+    "AssetDefinition_ItemOwnerPoseAsset": "Item Owner Pose",
+    "AssetTypeActions_ItemOwnerPoseAsset": "Item Owner Pose",
+    "ItemOwnerPoseAssetHasNullProxyTable": "Item Owner Pose requires a ProxyTable to be set",
+    "AssetDefinition_ItemRarity": "Item Rarity",
+    "AssetTypeActions_ItemRarity": "Item Rarity",
+    "AssetDefinition_ItemRarityTable": "Item Rarity Table",
+    "AssetTypeActions_ItemRarityTable": "Item Rarity Table",
+    "AssetDefinition_ItemRequirements": "Item Requirements",
+    "AssetTypeActions_ItemRequirements": "Item Requirements",
+    "AssetDefinition_ItemType": "Item Type",
+    "AssetTypeActions_ItemType": "Item Type",
+    "AssetDefinition_ItemVariant": "Item Variant",
     "AssetTypeActions_ItemVariant": "Item Variant"
+  },
+  "ItemComponentContainerCustomization": {
+    "ComponentRowName": "Index [ {0} ]",
+    "PropertyDisplayName": "{0}*"
   },
   "ItemDefInPlaylists": {
     "Playlist": "Playlist"
+  },
+  "Itemization": {
+    "ItemAbilityConfigurationAssetHasNullAbility": "Item Ability requires a GameplayAbilityClass to be set",
+    "ItemDefinitionWarning_NullComponent": "Item Definition {0} has null component at index {1}. This is very upsetting.",
+    "ItemGameplayAbilitiesNeedInstancing": "Item Gameplay Ability blueprints must be set to Instanced"
   },
   "K2Node": {
     "NoTarget": "You need to specify a target in @@!",
@@ -1026,6 +1107,18 @@
     "HasCollision": "has collision",
     "NoCollision": "no collision"
   },
+  "NPCCharacterDefinition": {
+    "MissingCharacterModifier": "Missing character modifier!",
+    "MissingType": "Missing type!",
+    "DuplicatedModifier": "Multiple modifiers of type {0}!",
+    "UnsupportedModifier": "Unsupported modifiers of type {0} for identity {1}!"
+  },
+  "NPCCharacterDefinitionComponent": {
+    "MissingDefinition": "Missing NPC Definition!",
+    "MissingCharacterModifier": "Missing character modifier!",
+    "DuplicatedModifier": "Multiple modifiers of type {0}!",
+    "UnsupportedModifier": "Unsupported modifiers of type {0} for identity {1}!"
+  },
   "OpenExternalUrl": {
     "DialogTitle": "Confirm External Website",
     "NoButton": "No",
@@ -1077,8 +1170,7 @@
     "CopyMessageHyperlink": "Copy Message"
   },
   "ScriptDevice": {
-    "IsDataValid_HasDataLayers": "Assigning a script device to data layer(s) is currently unsupported. Clear the data layer assignement of actor '{0}'.",
-    "IsDataValid_IsSpatiallyLoaded": "Spatially loaded script devices are currently unsupported. Uncheck the 'Spatially Loaded' property for actor '{0}' ."
+    "IsDataValid_HasDataLayers": "Assigning a script device to data layer(s) is currently unsupported. Clear the data layer assignement of actor '{0}'."
   },
   "ScriptDeviceActorDetails": {
     "MissingScriptMessage": "Failed to load Verse class. Fix any Verse compilation errors, then close and re-open the project.\nIf this problem persists or there are no compilation errors, it is possible this class was renamed, moved or deleted. If you wish to restore this device you may need to return the associated Verse code to that state it was in when the level was saved.\nSaving in this state may result in data loss, and may mean you need to replace or delete the device."
@@ -1134,11 +1226,16 @@
     "Conflicted_Not_Latest": "Could not edit asset(s): Sync latest, and try again."
   },
   "SkeinSourceControl": {
+    "Tab_ConflictResolution_DisplayName": "Conflict Resolution",
     "SkeinNoAccessToken": "Could not authenticate with Unreal Revision Control servers. Are you logged into the Editor?",
     "CreatedByUE": "Created by Unreal Editor.",
+    "SkeinCheckInSuccessWithSequence": "Created snapshot {0}.",
     "SkeinCheckInSuccess": "Created snapshot.",
     "SkeinCheckoutErrorNotCurrent": "File '{Filename}' has a newer revision available.",
     "SkeinCheckoutErrorLocked": "File '{Filename}' is exclusively checked out by someone else.",
+    "Tab_ConflictResolution_ToolTip": "Opens a tab to resolve conflicts in-editor.",
+    "Tab_SnapshotHistory_ToolTip": "Opens a tab to switch between revisions in-editor.",
+    "Tab_SnapshotHistory_DisplayName": "Snapshot History",
     "SkeinNotAvailable": "The Unreal Revision Control binary is missing on your system.",
     "SkeinProjectDuplicateId": "The Unreal Revision Control project could not be created because it's already created by someone else.",
     "SkeinProjectNotCreated": "The Unreal Revision Control project could not be created.",
@@ -1146,7 +1243,6 @@
     "SkeinDirectoryNotCreated": "The Unreal Revision Control project directory cannot be created.",
     "SkeinDirectoryNotFound": "The Unreal Revision Control project directory cannot be found.",
     "SkeinProjectIdError": "The Unreal Revision Control project id could not be determined.",
-    "SkeinProjectAlreadyCreated": "The Unreal Revision Control project is already created by {CreatedBy} at {CreatedAt}.\nBackup and then remove your local copy and re-install it through the Project Browser.",
     "SkeinStatusError": "The Unreal Revision Control project status could not be determined.",
     "SkeinOutOfSyncError": "The project directory contains Unreal Revision Control data for a different project.",
     "SkeinNotEnabled": "There is no Unreal Revision Control project initialized.",
@@ -1177,11 +1273,33 @@
     "Unknown": "Unknown",
     "Unknown_Tooltip": "Unknown revision control state"
   },
+  "SkeinSourceControlConflictResolutionController": {
+    "Confirm_Cancel": "Cancel",
+    "Discard_Cancel": "Cancel",
+    "Discard_Confirm": "Discard Changes",
+    "Discard_Title": "Discard latest changes",
+    "Confirm_Message": "For conflicts you have resolved with \"Mine\": your changes will overwrite your teammate's changes in the latest snapshot. Their changes will still be saved in the Snapshot History.\n\nFor conflicts you have resolved with \"Theirs\": your changes will be overwritten by your teammate's. Your changes will not be recoverable later. \"Theirs\" selections will not trigger changes to check-in as they are already tracked in revision control.",
+    "LoadLevel_Title": "Loading Level",
+    "LoadLevel_Cancel": "No",
+    "Confirm_Confirm": "Resolve Conflicts",
+    "Confirm_Title": "Resolve Conflicts",
+    "Revision_Text_Extended_Unknown": "Snapshot ?",
+    "Revision_Text_Extended": "Snapshot {0}",
+    "Discard_Message": "Switching your selection will discard the local changes you've made on top of your previous selection. Are you sure you wish to proceed?",
+    "LoadLevel_Message": "This conflict is in a different level. Would you like to load that level in order to preview it?",
+    "LoadLevel_Confirm": "Yes",
+    "Revision_Text": "{0}"
+  },
   "SkeinSourceControlProvider": {
+    "ConflictWarningModal_No": "Cancel",
+    "ConflictWarningModal_Title": "Conflicting Changes",
+    "ConflictWarningModal_CheckBoxText": "Don't show this again",
     "DataChangedDialog_CheckBoxText": "Don't show this again",
     "DataChangedDialog_ConfirmText": "Ok",
     "UnsupportedOperation": "Operation '{OperationName}' not supported by revision control provider '{ProviderName}'",
     "SkeinStatusText": "ProjectRoot: {ProjectRoot}",
+    "ConflictWarningModal_Yes": "Review Conflicts",
+    "ConflictWarningModal_Message": "Some of your local changes conflict with the latest snapshot of the project.\n\nTo continue, you need to review each conflict and choose whether to keep your changes or your teammate's.",
     "SkeinBinaryMissing": "The Unreal Revision Control binary is missing on your system.",
     "SkeinEditorLoggedOut": "The Unreal Revision Control environment is not connected.\nPlease log into the editor.",
     "SkeinLoggedOut": "The Unreal Revision Control environment is not connected.\nPlease reauthenticate.",
@@ -1194,6 +1312,27 @@
     "DataChangedDialogTitle": "Warning - Data Incompatible",
     "DataChangedDialogMessage": "Your local copy of this project is no longer compatible with the Unreal Revision Control server. Changes you've made locally between that version and now will be lost.\r\n\r\nPlease take the following steps to resume work on the project:\r\n\r\n1. Close the project\r\n2. Backup your local copy of the project\r\n3. Remove the project from your Fortnite Projects folder in your filesystem\r\n4. Resync the last uploaded version of the project from the UEFN Project Browser"
   },
+  "SkeinSourceControlSnapshotHistoryController": {
+    "RevertAllModifiedFiles": "Are you sure you want to revert all local changes? By proceeding, your local changes will be discarded, and the state of your last synced snapshot will be restored.",
+    "SyncLatestWhileRewoundDialog_CheckinText": "Bring my changes and sync",
+    "CheckInDialog_CancelText": "Cancel",
+    "FurtherRewindDialog_CancelText": "Cancel",
+    "SyncLatestWhileRewound_CancelText": "Cancel",
+    "CheckInDialog_CheckinText": "Check in my changes",
+    "FurtherRewindDialog_ConfirmText": "Discard my changes and rewind to {0}",
+    "FurtherRewindDialog_CheckBoxText": "Don't show this again",
+    "RevertAllFiles_Tooltip": "Opens a dialog to revert any assets which have been modified.",
+    "RevertAllFiles_Label": "Revert All Files",
+    "RevertAllModifiedFiles_Title": "Revert all local changes",
+    "CheckInDialog_RevertText": "Revert my changes and continue",
+    "SyncLatestWhileRewound_RevertText": "Revert my changes and sync",
+    "SyncLatestWhileRewoundTitle": "Warning: Changes made to rewound snapshot",
+    "CheckInDialogTitle": "Warning: Check in before syncing older snapshot",
+    "CheckInDialogMessage": "You have local changes that are not yet checked in. By continuing to sync this older version without first checking in you will lose your local changes.",
+    "FurtherRewindDialogMessage": "You have made changes to a snapshot you've rewound to. To further rewind you must decide to either discard these changes or cancel this operation. After canceling you can choose to sync back to latest and attempt to merge in these changes or promote snapshot {0} to latest with your changes.",
+    "SyncLatestWhileRewoundMessage": "You have made changes while rewound to Snapshot {0}. You may choose to either attempt to bring your changes forward alongside the latest snapshot or revert your changes to sync a clean copy of the latest snapshot.",
+    "FurtherRewindDialogTitle": "You've made changes to this snapshot"
+  },
   "SObjectiveDebugger": {
     "Clear": "Clear",
     "ObjectiveDebugger_ClearEventsToolTip": "Clear all objective events",
@@ -1205,6 +1344,7 @@
     "ObjectiveDebugger_Pause": "Pause",
     "ObjectiveDebugger_PauseToolTip": "Pause incoming objective events",
     "ObjectiveDebugger_Record": "Record",
+    "DistanceTravelledTimeBetweenTooltip": "Sets the delay time between reports",
     "CheckBoxListVerbTypes": "Show All Verb Types",
     "DistanceTravelledSettingsButton": "Show Distance Travelled",
     "Show_GameplayEvents": "Show Gameplay Events",
@@ -1241,6 +1381,7 @@
     "VSCodeInstallTitle": "Install Visual Studio Code?",
     "LinkComplete": "Linking complete.",
     "VerseDeadInstancesCheck.PossibleCauses": "Missing Verse script class definitions and renaming, deleting, or moving .verse files containing Verse script classes can cause validation failure.\n\nFix code and rebuild Verse before continuing?",
+    "ValidateVRIFullName": "Name cannot contain invalid characters: {0}",
     "VerseLogTooltip": "Open Message Log to view Verse errors and build status",
     "OpenVSCodeButton": "Open Project in VS Code",
     "VkProjectVerseCheck.OpenVSCode": "Open VS Code",
@@ -1270,11 +1411,20 @@
     "VerseDeadInstancesCheck.Title": "Verse Validation Warning",
     "VSCodeUpdateRequest": "Verse language support features require Microsoft Visual Studio Code version {0}.{1}, but you have {2}.{3}. Would you like to update now?",
     "VisualVerseComposer": "Visual Verse Composer",
-    "Existing instance(s) of the Verse language server were found. In order to continue installing the Verse extension for Visual Studio Code, all existing sessions of VS Code (and the language server) must first be closed.\n": "Would you like to continue?\nSelect [Continue] to attempt to close all existing language servers associated with the Verse VS Code extension. This will also close all VS Code sessions that launched those servers.\nYou may also close your existing sessions manually, and select [Retry] to check again.\nHitting [Cancel] will abort installation of the Verse VS Code extension.\n",
-    "ValidateVRIFullName": "{0} is a verse reserved word and can't be used as a name."
+    "Existing instance(s) of the Verse language server were found. In order to continue installing the Verse extension for Visual Studio Code, all existing sessions of VS Code (and the language server) must first be closed.\n": "Would you like to continue?\nSelect [Continue] to attempt to close all existing language servers associated with the Verse VS Code extension. This will also close all VS Code sessions that launched those servers.\nYou may also close your existing sessions manually, and select [Retry] to check again.\nHitting [Cancel] will abort installation of the Verse VS Code extension.\n"
   },
   "SolarisEditorCommands": {
     "Solaris Editor Commands": "Solaris Editor Commands"
+  },
+  "SolarisEditorUtils": {
+    "CouldNotWriteToPathError": "Could not write to {0}",
+    "FileCreationFailureBody": "Could not write to {0}",
+    "VerseCreatedFailed": "Failed to register Verse file",
+    "FileCreationFailure": "File Creation Failure!",
+    "FileExistsErrorHeader": "File already exists!",
+    "CheckoutFailure": "Mark For Add Failed",
+    "VerseCreatedFailedBody": "There was an issue adding {0} to the asset registry, it will be unable to build. Confirm its save location is within a Verse enabled plugin",
+    "CheckoutFailureBody": "There was an issue checking out {0}, check if revision control is properly configured"
   },
   "SolarisNotifications": {
     "DiagnosticConcatFmt": ": {0}",
@@ -1288,6 +1438,14 @@
     "SingularError": "error",
     "PluralErrors": "errors",
     "ErrorWarningFormat": "{ErrorCount} Verse build {DiagnosticPlurality}"
+  },
+  "SourceControl": {
+    "SourceControl_ResolvingConcluding": "Concluding resolving file(s) in Revision Control...",
+    "SourceControl_GetSnapshotFileList": "Getting delta list for snapshot in Revision Control...",
+    "SourceControl_PromoteSnapshot": "Promoting Snapshot to Latest...",
+    "SourceControl_ResolvingMine": "Resolving file(s) in Revision Control...",
+    "SourceControl_ResolvingTheirs": "Resolving file(s) in Revision Control...",
+    "SourceControl_ResolvingVisualMerge": "Resolving file(s) in Source Code editor..."
   },
   "SourceControl.HistoryWindow.Menu": {
     "GetRevision": "Sync this revision",
@@ -1312,24 +1470,13 @@
     "WarningTitleChangesUndone": "Assets not Available for Edit",
     "CloseButton": "Close",
     "NeverShowMessageAgain": "Don't show this message again",
-    "ForceSyncButton": "Sync Latest and Overwrite My Changes",
     "UserNameLabel": "User Name",
     "UndoneNotCurrentConflictText": "You cannot edit the following assets because the project is not synced to the latest snapshot.\r\n\r\nAny changes you attempted to make were automatically rolled back to their original state. To proceed making changes to these assets, sync the latest snapshot.\r\n\r\n<RichTextBlock.BoldHighlight>Tip</>: To avoid this issue in the future, always sync to the latest version and check in changes regularly.",
     "UndoneLockedByOtherConflictText": "You cannot edit the following assets because they are checked out by another user.\r\n\r\nAny changes you attempted to make were automatically rolled back to their original state. To proceed making changes to these checked out assets, coordinate with your teammate to check them back in.",
-    "AcquireConflictText": "You made changes to the following assets that are checked out by someone else. To resolve this issue, they need to check in their changes so you can sync to the latest version and apply your changes after.\r\n\r\n<RichTextBlock.BoldHighlight>1</>. Manually take note of your edits. <RichTextBlock.BoldHighlight>2</>. Ask your teammate to check in their changes. <RichTextBlock.BoldHighlight>3</>. Sync your snapshot to the latest version. Note that this will overwrite your changes. <RichTextBlock.BoldHighlight>4</>. Check out the assets. <RichTextBlock.BoldHighlight>5</>. Make your edits again. <RichTextBlock.BoldHighlight>6</>. Save and check in the changes.\r\n\r\n<RichTextBlock.BoldHighlight>Tip</>: To avoid conflicts in the future, always sync to the latest version and check out assets before you start making changes.",
-    "SyncConflictText": "Your changes to the following assets conflict with the latest snapshot of the project. To resolve this issue, you will need to sync to the latest version then redo your changes.\r\n\r\n<RichTextBlock.BoldHighlight>1</>. Manually take note of your edits. <RichTextBlock.BoldHighlight>2</>. Sync to the latest version. Note that this will overwrite your changes. <RichTextBlock.BoldHighlight>3</>. Check out the assets. <RichTextBlock.BoldHighlight>4</>. Make your edits again. <RichTextBlock.BoldHighlight>5</>. Save and check in the changes.\r\n\r\n<RichTextBlock.BoldHighlight>Tip</>: To avoid conflicts in the future, always sync to the latest version and check out assets before you start making changes.",
-    "CheckInConflictText": "Your changes to the following assets conflict with the latest version of the project. To resolve this issue, you will need to sync to the latest version and <RichTextBlock.BoldHighlight>reapply your changes</>.\r\n\r\n<RichTextBlock.BoldHighlight>1</>. Manually take note of your edits. <RichTextBlock.BoldHighlight>2</>. Sync to the latest version. Note that this will overwrite your changes. <RichTextBlock.BoldHighlight>3</>. Check out the assets. <RichTextBlock.BoldHighlight>4</>. Make your edits again. <RichTextBlock.BoldHighlight>5</>. Save and check in the changes.\r\n\r\n<RichTextBlock.BoldHighlight>Tip</>: To avoid conflicts in the future, always sync to the latest version and check out assets before you start making changes."
-  },
-  "SSkeinSourceControlConflictOverwrite": {
-    "CancelButton": "Cancel",
-    "ForceSyncButton": "Sync Latest and Overwrite My Changes",
-    "DialogText": "Your conflicting <RichTextBlock.BoldHighlight>edits will be lost</> when you sync to the latest version.\r\n\r\nDo you want to sync to the latest version now?"
+    "AcquireConflictText": "You made changes to the following assets that are checked out by someone else. To resolve this issue, they need to check in their changes so you can sync to the latest version and apply your changes after.\r\n\r\n<RichTextBlock.BoldHighlight>1</>. Manually take note of your edits. <RichTextBlock.BoldHighlight>2</>. Ask your teammate to check in their changes. <RichTextBlock.BoldHighlight>3</>. Sync your snapshot to the latest version. Note that this will overwrite your changes. <RichTextBlock.BoldHighlight>4</>. Check out the assets. <RichTextBlock.BoldHighlight>5</>. Make your edits again. <RichTextBlock.BoldHighlight>6</>. Save and check in the changes.\r\n\r\n<RichTextBlock.BoldHighlight>Tip</>: To avoid conflicts in the future, always sync to the latest version and check out assets before you start making changes."
   },
   "SSkeinSourceControlConflictWarningTitleAcquireFailed": {
     "Title": "Check-In Failed: Assets Already Checked Out"
-  },
-  "SSkeinSourceControlConflictWarningTitleSyncFailed": {
-    "Title": "Sync Failed: Conflicting Assets"
   },
   "SSkeinSourceControlSettings": {
     "AutoCheckout": "Automatically check out files on edit",
@@ -1385,6 +1532,12 @@
     "SizeInMBFmt": "{0} MB",
     "DownloadSizeWithLimitFmt": "{CombinedDownloadSize} / {ProjectDownloadSizeLimit}",
     "UploadSizeWithLimitFmt": "{ProjectUploadSize} / {ProjectUploadSizeLimit}"
+  },
+  "SValkyrieProjectVersePathDialog": {
+    "CancelButton": "Cancel",
+    "InvalidVersePathSyntax": "Invalid verse path syntax",
+    "DialogTitle": "Set Project Verse Path",
+    "SetVersePathButton": "Set Verse Path"
   },
   "SVerseTemplateDialog": {
     "CancelButton": "Cancel",
@@ -1477,12 +1630,10 @@
     "BakeTransform_ToolTip": "Bake transform in world space, removing any existing transform and attach tracks",
     "OpenDaySequenceEditor": "DaySequence",
     "FixActorReferences": "Fix Actor References",
-    "OpenDaySequence": "Open Day Sequence",
     "OpenDaySequenceActor": "Open Day Sequence Actor",
     "OpenRootSequence": "Open Root Sequence",
     "OpenDaySequenceActor_ToolTip": "Opens the Day Sequence Actor blueprint",
     "OpenDaySequenceEditor_ToolTip": "Opens the Day Sequence Editor",
-    "OpenDaySequence_ToolTip": "Opens the Day Sequence on the Day Sequence Actor",
     "OpenRootSequence_ToolTip": "Opens the root sequence on the Day Sequence Actor",
     "RefreshDaySequenceActor": "Refresh Day Sequence Actor",
     "RefreshDaySequenceActor_ToolTip": "Refreshes the Main Sequence in the Day Sequence Actor",
@@ -1512,9 +1663,15 @@
   },
   "UICommands.FortniteEditorCommands": {
     "AttachBuildingActor": "Attach Building Actor",
+    "MirrorSelectedBuildingActors": "Mirror Selected Building Actors",
+    "MirrorSelectedBuildingActors_ToolTip": "Mirrors the selected building actors in the viewport",
     "AttachBuildingActor_ToolTip": "Pick building actor to attach the selected building actors to",
     "ReplaceSelectedActorsWithSelectedType": "Replace Selected Actors with Selected Type",
-    "ReplaceSelectedActorsWithSelectedType_ToolTip": "Replaces the selected actors in the viewport with the actor type selected in the content browser"
+    "ReplaceSelectedActorsWithSelectedType_ToolTip": "Replaces the selected actors in the viewport with the actor type selected in the content browser",
+    "ResetTextureOnSelectedSaticMeshBuildingActors": "Reset Texture on Selected Static Mesh Building Actors",
+    "ResetTextureOnSelectedSaticMeshBuildingActors_ToolTip": "Resets to the default texture for the selected static mesh building actors",
+    "RotateSelectedBuildingActors": "Rotate Selected Building Actors",
+    "RotateSelectedBuildingActors_ToolTip": "Rotates the selected building actors in the viewport"
   },
   "UICommands.SolarisEditor": {
     "BuildVerse": "Build Verse Code",
@@ -1723,28 +1880,21 @@
     "PendingChangesSummary.MissingModifiedAssets": "  • {0} {0}|plural(one=asset has,other=assets have) been modified",
     "PendingChangesSummary.MissingReferencedAssets": "  • {0} {0}|plural(one=asset is,other=assets are) newly referenced",
     "PendingChangesSummary.MissingTransactions": "  • {0} {0}|plural(one=change was,other=changes were) skipped",
-    "MemoryTestResults.BrowseToActor": "Browse",
-    "MemoryTestResults_Summary_Duration": "Duration: {0}",
-    "MemoryTestResults_Summary_Result_Failed": "FAILED",
-    "MemoryTestResults_Summary_HighestMemoryLocation": "Highest Memory Location: ",
-    "MemoryTestResults_Summary_HighestMemoryUsage": "Highest Memory Usage: {MemoryValue} / {MemoryThreshold}",
     "MemoryTestResultsPage": "Memory Calculation - {StartTime}",
-    "MemoryTestResults_Summary_Header": "Memory Calculation Results Summary",
     "PendingChangesSummary.NoChangesHeader": "No changes have been made during the Edit Session.",
-    "MemoryTestResults_Summary_NumLocationsSampled": "Number of Locations Sampled: {0}",
     "PlatformCook": "Platform Cook",
+    "PushChangesFallbackPromptTitle": "Push all changes?",
     "PendingChangesSummary.MissingChangesFooter": "Push changes to ensure that your session has all changes.",
-    "MemoryTestResults_Summary_Result": "Result: {0}",
-    "MemoryTestResults_Summary_Result_Success": "SUCCESS",
+    "PushChangesFallbackPrompt": "Pushing only Verse changes failed; would you like to instead attempt pushing all changes?\nThis may potentially take longer, but should be reliable.\nSelecting no will discontinue the attempt to start the session.",
     "PendingChangesSummary.MissingChangesHeader": "Some changes may not be reflected in the Edit Session.",
-    "MemoryTestResults_TopTotalExclActors_Header": "Top Actors by Total Exclusive Size",
+    "VerseDiagnostics": "Verse Diagnostics",
     "PendingChangesSummary.SentChangesHeader": "{0} {0}|plural(one=change has,other=changes have) been sent to the Edit Session."
   },
   "ValkyrieBeaconHost": {
     "ThrottlingVerseLogs": "Throttling replicated verse log entries"
   },
   "ValkyrieChangelistValidator": {
-    "VkChangelistInvalid": "Changelist {0} does not correctly specify the #preflight tag. Please proceed to Horde to run a preflight before submitting."
+    "VkChangelistInvalid": "Changelist does not correctly specify the #preflight tag. Please proceed to Horde to run a preflight before submitting."
   },
   "ValkyrieConvertIslandProjectFlow": {
     "ConvertedBeforeWarning_Cancelled": "Cancelled when warned about prior island conversion",
@@ -1756,6 +1906,7 @@
     "CreatedProjectIsInvalid": "Created project is not valid",
     "InvalidProjectFilePath": "Failed validation with the project location (\"{0}\") and project name (\"{1}\"): {2}",
     "InvalidProjectDocument": "Invalid project document provided when attempting to convert an island project. Online data is necessary to retrieve island information for the project.",
+    "InvalidProjectWhenSyncingWithContentService": "Invalid project while trying to sync with content service to apply project document updates",
     "InvalidProjectWhenUpdatingMetadata": "Invalid project while trying to update metadata after project creation",
     "InvalidOriginatingIslandId": "Only island projects should be attempted to be converted through this flow",
     "ConvertedBeforeTitle": "Regenerating Project Data",
@@ -1775,7 +1926,16 @@
     "UEFN_VersionInfo": "Version: {0} (Unreal Engine: {1})"
   },
   "ValkyrieEditor": {
+    "ArchiveProject": "Archiving project '{0}'",
+    "ArchiveProjects": "Archiving projects...",
+    "ConfirmProjectArchiving.Msg": "Are you sure you want to archive the following project(s)?",
     "BlankTemplateMapDisplayNameText": "Blank",
+    "ConfirmProjectArchiving.Title": "Confirm Project Archiving",
+    "ErrorArchivingProject": "Error Archiving Project",
+    "ErrorGatheringProjects": "Error Gathering Projects",
+    "FoundProject": "Found '{0}'",
+    "NoProjectToArchive": "Found no project to archive",
+    "GatherProjects": "Gathering projects...",
     "MemoryTestResults": "Memory Test Results",
     "PublicAssetChangeNoContentService": "Project must be synced with content service to tamper with public assets\nMake sure you're logged in",
     "InvalidReferenceToAnotherProject": "Project {0} cannot reference assets from local project {1}\nReferencing another project can only be achieved via Referenced Content",
@@ -1787,7 +1947,8 @@
     "SimpleTemplateMapDisplayNameText": "Simple",
     "SimpleTemplateMapDescriptionText": "Simple level example.",
     "BlankTemplateMapDescriptionText": "Simple level with two spawners.",
-    "UEFNValidation": "UEFN Validation"
+    "UEFNValidation": "UEFN Validation",
+    "ProjectArchivingListItem": "[{0}] {1}"
   },
   "ValkyrieEditorConfig": {
     "SectionDescription": "Configure {0} features",
@@ -1810,6 +1971,7 @@
     "UploadProject.FailedToRequestPrepareProjectSourceData": "Internal error: Failed to request preparation of project source data",
     "PrepareProjectSourceDataForUpload.FailedToRequestSaveDirtyPackages": "Internal error: Failed to request save of dirty packages",
     "FixMissingGameFeatureData.NoProjectOpened": "Internal error: There is no project opened",
+    "PrepareProjectSourceDataForUpload.AssignProjectVersePath": "Internal error: There is no project opened",
     "StartMemorySamplingFlow.Message": "Launching Memory Calculation...",
     "LocalizeProject.Error.ExportFailed": "Localization export failed - check your log for more info",
     "StartMemorySamplingFlow.Canceled": "Memory Calculation Canceled",
@@ -1825,11 +1987,10 @@
     "CreateBuild.PreparePlatformData.MessageLog.CookSuccess": "{0}: Successfully prepared data for {1}"
   },
   "ValkyrieEditorMenus": {
-    "VkAddReferenceContent_ToolTip": "Add Referenced Content to the Project",
-    "VkAddReferenceContent": "Add Referenced Content...",
+    "VkAddReferencedContent_ToolTip": "Add Referenced Content to the Project",
+    "VkAddReferencedContent": "Add Referenced Content...",
     "CancelLoading": "Cancel loading",
     "ValkyrieProjectMenu_ToolTip": "Change / Manage / Publish your project with actions in this menu",
-    "VkRemapLocalContentToReferenceContent_Tooltip": "Change references to local public assets with equivalent assets in the Referenced Content within the root plugin of the Project",
     "LiveEditWarningWindowText": "Changing a project and launching a session could result in collaborators getting exposed to the content of the new project. To prevent this, close all your Fortnite clients running on this PC and other platforms before you load a different project. Hit cancel to exit the Fortnite clients, before loading a new project.",
     "GoToUnsupportedDocs_Tooltip": "Click to open documentation",
     "CloseProjectLabel": "Close Project",
@@ -1860,11 +2021,12 @@
     "ValkyrieProjectSettings": "Project Settings",
     "ValkyrieProjectSize": "Project Size",
     "VkProjectSubMenuReferencesSection": "References",
-    "VkRemapLocalContentToReferenceContent": "Remap Local Content to Referenced Content",
     "RemoveProjectPluginsLabel": "Remove Content",
     "RemoveProjectPluginsTooltip": "Remove Content from the project",
     "RemoveReferenceContentLabel": "Remove Referenced Content",
     "RemoveReferenceContentTooltip": "Remove Referenced Content from the project",
+    "ValkyrieReportProject": "Report Project",
+    "ValkyrieReportProject_ToolTip": "Report the current project",
     "ValkyrieRestrictiveMode": "Restrictive Mode",
     "ResolveModerationIssuesTooltip": "Review asset compliance issues encountered during project moderation.",
     "SetAsCurrentProjectLabel": "Set As Current Project",
@@ -1942,11 +2104,11 @@
     "FetchingExternalContentInfo": "Fetching Referenced Content Info",
     "GettingLinkCode": "Getting Link Code",
     "InvalidExternalContentId": "Incorrectly formatted Referenced Content identifier",
-    "NoContentService": "Internal Error: No content service",
     "LoadedExternalContent": "Loaded Referenced Content",
     "LoadingExternalContent": "Loading Referenced Content",
     "NoEditorArtifacts": "No editor artifacts to download",
     "PreparingCookExternalContent": "Preparing to Cook Referenced Content",
+    "EmptyResolvedContent": "Received Empty Resolved content",
     "ContentPackageWithoutProjectId": "Received content package doesn't have a project id",
     "EmptyArtifactId": "Received empty artifact id",
     "ShowMessageLogHyperlink": "Show Output Log",
@@ -2009,6 +2171,7 @@
   "ValkyrieFortniteEditorToolbarMenus": {
     "StopActionToolTipRefreshRequired": "A refresh is required, you must push your changes to be able to end the game.",
     "StartActionToolTipRefreshRequired": "A refresh is required, you must push your changes to be able to start the game.",
+    "ShowMemorySamplingResultModal.ShowInCreatorPortalCheckBox": "Add Version Notes",
     "CreateBuild.CommitMessageLabel": "Add a description for this version of your content (optional):",
     "ValkyrieMemorySamplingContentFinishedLoading_ToolTip": "All Content must finish loading on Client and Server to Launch Memory Calculation.",
     "ResetProjectBindingsConfirmation.Message": "Are you sure you want to bind this local project with a new project on the content service?",
@@ -2019,7 +2182,11 @@
     "CreateBuild.MemoryCheckWarning": "Before publishing in Creator Portal, you must Launch Memory Calculation.\r\nReturn here after you have created the final private version to check your project's memory.\r\nYour memory calculation result will be updated in Creator Portal, allowing you to Publish your project.\r\n<a id=\"memory_management_docs\" href=\"{0}\" style=\"ValkyrieEditor.HyperlinkStyle\">Learn More</>",
     "CreateBuild.ToolTip.Error.ModerationSoftfail": "Before you can publish this project, you must resolve the moderation issues identified on the Creator Portal.",
     "ValkyrieBindToNewProjectOnContentService_MenuEntry": "Bind to New Project on Content Service",
+    "ResetProjectBindings.SlowTask": "Binding to a new project on content service...",
     "MemorySamplingStateDialog.CalculateAnywayButton": "Calculate Anyway",
+    "MemorySamplingDialog.ConfirmButton": "Calculate Memory",
+    "OnMemoryTestResultsReceived.PendingMessage": "Calculating Memory",
+    "ValkyrieStatusBoxMemorySamplerInProgress": "Calculating Memory...",
     "CreateBuild.CancelButton": "Cancel",
     "MemorySamplingDialog.CancelButton": "Cancel",
     "MemorySamplingStateDialog.CancelButton": "Cancel",
@@ -2038,9 +2205,7 @@
     "PlayStatusWidget_ConnectedWSession": "Connected with an active session",
     "PlayStatusWidget_ConnectionHeaderText": "Connection:",
     "CreateBuild.PublishButton": "Continue",
-    "MemorySamplingDialog.ConfirmButton": "Continue",
     "CreateBuild.Copy": "Copy",
-    "CreatorPortalNoTeamSubMenuCreateNewTeamToolTip": "Create New Team",
     "CreatorPortalNoTeamSubMenuCreateNewTeam": "Create New Team...",
     "CreateBuild.ToolTip.Publish": "Create a Private Version of your project as publishing candidate.",
     "CreateBuild.ToolTip.TestCode": "Create a Private Version of your project to be shared among team members.",
@@ -2052,15 +2217,15 @@
     "ValkyriePlaySubMenuPlayOptionsSection": "Dev Play Options",
     "ValkyriePlaySubMenuDevSection": "Dev Status",
     "ValkyriePlaySubMenuSyncSection": "Dev Sync",
-    "PublishWithIslandAuthorityWarningTitle": "Discard Island Changes",
+    "OnMemoryTestResultsReceived.ButtonDismiss": "Dismiss",
     "CreateBuild.Done": "Done",
+    "ShowMemorySamplingResultModal.Done": "Done",
     "ValkyrieLiveEdit_ToolTip_Base": "Enables or disables live updates in a connected game session while editing.",
     "StopGameLabel": "End Game",
     "StopGameToolTip": "End the game but keep the session view open",
     "StopGameTooltip": "End your game.",
     "CreateBuild.ErrorTitle": "Error",
     "Valkyrie_SetupSessionErrorTitle": "Error on Play attempt",
-    "CreatorPortalNoTeamSubMenuExistingTeamsToolTip": "Existing Teams",
     "CreatorPortalNoTeamSubMenuExistingTeams": "Existing Teams...",
     "ExitSessionButtonLabel": "Exit Session",
     "ExitSession.Confirm.Title": "Exit Session?",
@@ -2069,6 +2234,7 @@
     "ValkyrieStatusBoxGameInProgress": "Game in Progress",
     "NoRevisionControl": "In order to collaborate across multiple UEFN users in this project you'll need to enable a Revision Control solution in addition to transferring it to a team in the Creator Portal.\r\n\r\nWould you like to enable Unreal Revision Control for this project?",
     "FailedToStartMemorySampling_LaunchErrorTitle": "Invalid Session State",
+    "ShowMemorySamplingResultModal.IslandVersion": "Island Version: {0}",
     "StartActionToolTipNoPlayersConnected": "Join as a player to start the game!",
     "SetDefaultLevelDialog.PlayButton": "Just Play",
     "ValkyrieLaunchClient": "Launch Client",
@@ -2095,13 +2261,17 @@
     "ManageTeam": "Manage Team...",
     "MemorySamplingDialog.Title": "Memory Calculation",
     "MemorySamplingStateDialog.Title": "Memory Calculation",
+    "ShowMemorySamplingResultModal.Title": "Memory Calculation",
     "PushChangesButtonToolTip_MemorySamplerInProgress": "Memory Calculation in progress.",
     "RefreshButtonToolTip_MemorySamplerInProgress": "Memory Calculation in progress.",
     "StartActionToolTipMemorySamplerInProgress": "Memory Calculation in progress.",
     "ValkyrieMemorySamplingInProgress_ToolTip": "Memory Calculation is already in progress.",
+    "ShowMemorySamplingResultModal.Failure": "Memory Calculation is complete. This project is over budget.\n\n{0}\n\n{1}",
+    "ShowMemorySamplingResultModal.Success": "Memory Calculation is complete. This project is within budget.\n\n{0}\n\n{1}",
     "ValkyrieMemorySamplerNotReady_ToolTip": "Memory Sampler is not ready yet.",
-    "MemorySamplingDialog.Message": "Memory calculation will automatically launch after the private version is uploaded. Click below to proceed.\n\n",
-    "MemorySamplingStateDialog.Failure": "Memory has already been calculated and the project is over budget.\n\n{0}\n\nYou have not made any changes in your project since the last calculation. Changes must be made to reduce the memory usage.\n\n",
+    "ShowMemorySamplingResultModal.MemoryRatio": "Memory Usage: {0} / {1}",
+    "MemorySamplingDialog.Message": "Memory calculation will automatically launch after the private version is uploaded. Click below to proceed.",
+    "MemorySamplingStateDialog.Failure": "Memory has already been calculated and the project is over budget.\n\n{0}\n\nYou have not made any changes in your project since the last calculation. Changes must be made to reduce the memory usage.",
     "ValkyrieDebugSession_Tooltip": "NOT IMPLEMENTED",
     "ValkyrieSessionStatus_Tooltip": "NOT IMPLEMENTED",
     "ValkyrieNews": "News",
@@ -2136,7 +2306,11 @@
     "CreateBuild.BuildCodeLabel": "Private Version",
     "CreateBuild.SuccessTitle": "Private version has been created!",
     "ValkyrieProjectSubMenuProjectSection": "Project",
+    "OnMemoryTestResultsReceived.FailedSubText": "Project is over budget",
+    "OnMemoryTestResultsReceived.FailedSubTextWhenJamEnabled": "Project is over budget. You can turn off Jam Emotes in the IslandSetting to help.",
+    "OnMemoryTestResultsReceived.SuccessSubText": "Project is within budget",
     "CreateBuildPublicVersionButtonText": "Publish",
+    "PublishWithIslandAuthorityWarningTitle": "Publish Over Creative Island",
     "PublishProjectDialogTitle": "Publish Project",
     "PublishProjectMenu": "Publish Project...",
     "PublishProjectMessage": "Publishing Project...",
@@ -2145,7 +2319,6 @@
     "PushChangesButtonToolTip_MatchActive": "Push changes is disabled while the game is running.",
     "PushChangesButtonToolTip_PushRequired": "Push changes is required to view changes.",
     "RefreshButtonToolTip": "Re-upload changes to the server to see them in the Fortnite client.",
-    "VkProjectSubMenuReferencesSection": "References",
     "PlayStatusWidget_StatusRefresh": "Refresh to upload changes.",
     "UnregisteredLevelDialog.RegisterButton": "Register Level",
     "ReportIssueNoLoginDialog.Title": "Report Issue",
@@ -2171,7 +2344,10 @@
     "PlayerListConnectedMembersSubMenuCameraSet": "Set camera to user view",
     "ShareWithTeam": "Share With Team",
     "ShareWithTeamTooltip": "Share With Team",
+    "CreatorPortalNoTeamSubMenuCreateNewTeamToolTip": "Share project with a new team",
+    "CreatorPortalNoTeamSubMenuExistingTeamsToolTip": "Share project with an existing team",
     "ShowInCreatorPortalCheckBox": "Show In Creator Portal",
+    "OnMemoryTestResultsReceived.ButtonShow": "Show Results",
     "ValkyrieNews_ToolTip": "Show news",
     "StartGameLabel": "Start Game",
     "StartActionToolTipNotConnectedConnected": "Start a session to start the game!",
@@ -2182,7 +2358,7 @@
     "PlayerListConnectedMembersSubMenuTeleportUser": "Teleport user to me",
     "NonDefaultLevelDialog.Message": "The current level ({0}) is not the default level ({1}).\n\nWhich level do you want to play?",
     "SetDefaultLevelDialog.Message": "The default level is not set in the project GameFeatureData.\n\nDo you want to set the default level to {0}?",
-    "MemorySamplingStateDialog.Success": "The last memory calculation on this project is within budget.\n\n{0}\n\nYou have not made any changes in your project since, a new calculation is not required.\n\n",
+    "MemorySamplingStateDialog.Success": "The last memory calculation on this project is within budget.\n\n{0}\n\nYou have not made any changes in your project since, a new calculation is not required.",
     "PushChangesButtonToolTip_VerseAssetsNeedCook": "The new Verse code requires cooking the content to make sure all assets are present.",
     "UpToDateButtonToolTip": "The server is up to date with your local project's changes.",
     "FailedToStartMemorySampling_LaunchErrorMsg": "The session is currently on a game state that prevents memory calculation from launching.\r\n\r\nTry relaunching the calculation when the player character is idle and no update or loading is in progress.",
@@ -2211,6 +2387,7 @@
     "PushVerseChangesButtonToolTip": "Verse code changes you've made will be pushed directly to the server without updating the Content Service",
     "CreateBuild.ToolTip.Error.BuildInProgress": "Wait for the current upload/build to finish before starting another...",
     "ResetProjectBindingsConfirmation.Yes": "Yes, change project",
+    "CannotShareTooltip": "You must be logged in to share the project with a team",
     "ValkyrieMemorySamplingGameStarted_ToolTip": "You must end the Game to Launch Memory Calculation.",
     "ValkyrieMemorySamplingNeedClient_ToolTip": "You must have a Session to Launch Memory Calculation.",
     "ValkyrieMemorySamplingMiniGame_ToolTip": "You must join as a Client to Launch Memory Calculation.",
@@ -2224,11 +2401,11 @@
     "MemorySamplingStateDialog.MemoryRatio": "{0}/{1}"
   },
   "ValkyrieFortniteTexts": {
-    "IslandConversionWarningMessage": "Opening this island will convert it to a UEFN project. You will not be able to open it from Fortnite Creative anymore.\n\n{PlayerDataResetWarning}\nYou can revert the project to a Creative island from the <a id=\"creator_portal\" href=\"{CreatorPortalURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Creator Portal</> at any time. This will restore players' data, but will discard any changes you made in the Editor.\n\nConverting can take a long time for large islands with many actors.",
+    "IslandConversionWarningMessage": "Opening this island will convert it to a UEFN project. You will not be able to open it from Fortnite Creative anymore.\n\n{PlayerDataResetWarning}\n\nYou can revert the project to a Creative island from the <a id=\"creator_portal\" href=\"{CreatorPortalURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Creator Portal</> at any time. This will restore players' data, but will discard any changes you made in the Editor.\n\nConverting can take a long time for large islands with many actors.",
     "PlayerDataResetWarningMessage": "Player data associated with the following devices will not transfer if you decide to publish from the Editor or Creator Portal (<a id=\"conversion_docs\" href=\"{IslandConversionDocsURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Learn More</>):\n{DevicesWithoutDataMigrationSupport}",
-    "PlayerDataResetOnInitialPublishWarningMessage": "Publishing this project from the Editor or Creator Portal for the first time will not transfer the player data associated with the following devices:\n{DevicesWithoutDataMigrationSupport}\nReturning players will experience your island as if playing it for the first time.\n",
-    "IslandDataAuthorityWarningMessage": "This island was last published from Fortnite Creative.\n\n{PlayerDataResetMessage}\nIn addition, you will lose any changes made to the island in Creative since you last reverted it from UEFN.\n",
-    "DevicesWithoutDataMigrationSupport": "• Save Point\n• Timer\n• Tracker\n• Switch\n"
+    "PlayerDataResetOnInitialPublishWarningMessage": "Publishing this project from the Editor or Creator Portal for the first time will not transfer the player data associated with the following devices:\n{DevicesWithoutDataMigrationSupport}\n\nReturning players will experience your island as if playing it for the first time.",
+    "IslandDataAuthorityWarningMessage": "This project has been reverted back to a Creative island.\n\n{PlayerDataResetMessage}\n\nIn addition, any changes made to the island in Creative since you last reverted it from UEFN will not transfer.",
+    "DevicesWithoutDataMigrationSupport": "• Save Point\n• Timer\n• Tracker\n• Switch"
   },
   "ValkyrieImportIslandDialog": {
     "CancelButtonText": "Cancel",
@@ -2279,15 +2456,19 @@
     "DisplayNameText": "Island Templates"
   },
   "ValkyrieOnlineAccount": {
+    "AllowCreativeSettingInvalidMsg": "Allow Creative Access Value Invalid",
     "ValkyrieApplyPreferredQosSettings": "Applying region preferences...",
     "ValkyrieQueryOwnership": "Checking item ownership...",
+    "AllowCreativeSettingDisabledMsg": "Creative Access Disallowed By Parental Controls.",
     "ValkyrieDownloadingClientSettings": "Downloading client settings...",
+    "SupervisedSettingsDownloadFailedMsg": "Failed to download Supervised Settings.",
     "ValkyrieFetchCreativeProfile": "Fetching Creative mode profile...",
     "ValkyrieFetchExchangeCode": "Fetching exchange code...",
     "ValkyrieEOSPrimaryLogin": "Logging in to Epic Online Services...",
     "ValkyrieMCPRefreshTokenLogin": "Logging in with refresh token...",
     "ValkyrieAccountLogout": "Logging out of Epic Online Services...",
     "ValkyrieAccountSetup": "Setting up Valkyrie Account system...",
+    "ValkyrieVerifyCreativeAccess": "Verifying Creative Access...",
     "ValkyrieCheckUserId": "Verifying Login...",
     "ValkyrieVerifyAgeGateRequirements": "Verifying Requirements...",
     "ValkyrieEOSAccountPortalLogin": "Waiting for account portal response in web browser...",
@@ -2304,9 +2485,14 @@
     "ContentRemoval.Indent": "\t\t",
     "ContentRemoval.ReferencedAssets": "\tReferenced asset(s):",
     "ContentRemoval.ReferencingAssets": "\tReferencing asset(s):",
+    "PluginWriteErrorsEllipsis": "...",
     "AddPluginsTask": "Adding plugin(s)...",
+    "ProjectVersePathConfirmation.ChangeMessage": "Are you sure you want to change the verse path of project {0}?\n\nCurrent project verse path:\n'{1}'\n\nNew project verse path:\n'{2}'",
     "PluginRemovalQuestion": "Are you sure you want to remove the following Content from the project?",
     "ExternalContentRemovalQuestion": "Are you sure you want to remove this Referenced Content?",
+    "ProjectVersePathConfirmation.SetMessage": "Are you sure you want to set the verse path of project {0} to:\n\n'{1}'",
+    "AssignVersePath.SlowTask": "Assigning project verse path...",
+    "ProjectVersePathConfirmation.CancelButton": "Cancel",
     "AddReferencedContent.ProjectNotOpened": "Cannot add Referenced Content\n{0}\nProject '{1}' is not opened",
     "AddReferencedContent.NotPermitted": "Cannot add Referenced Content\n{0}\nUser doesn't have permission",
     "AddReferencedContent.UserNotLoggedIn": "Cannot add Referenced Content\n{0}\nUser isn't logged in",
@@ -2316,14 +2502,22 @@
     "CannotFindVKProjectRootPlugin": "Cannot find project root plugin named {0}\n{1}",
     "PublishedPublicApiError": "Cannot remove project public api because it has been published live",
     "AssetContainedInPublishedPublicApiError": "Cannot sanitize project public api because it has been published live",
+    "ProjectVersePathConfirmation.ChangeButton": "Change Project Verse Path",
+    "SetProjectVersePath.SlowTask": "Changing project verse path...",
     "PluginRemovalTitle": "Confirm Content Removal",
+    "ProjectVersePathConfirmation.Title": "Confirm Project Verse Path",
     "ExternalContentRemovalTitle": "Confirm Referenced Content Removal",
     "ContentRemoval": "Content Removal",
     "ContentRemovalPage": "Content Removal",
     "RemovePublicApiErrorNotif": "Could not remove project public api",
     "RefContentFailNotif.Dismiss": "Dismiss",
+    "AssignVersePath.ProjectOwnerInfoError": "Error getting project owner info:\n{0}",
+    "UpdateVerseLocalizationError": "Error updating verse path in localization files",
     "VKPluginNotExplicitlyLoaded": "ExplicitlyLoaded must be set to true in {0} plugin descriptor\n{1}",
+    "FailAssignVersePath": "Failed to assign a verse path to project {0}",
+    "FailFindProjectPlugin": "Failed to find project plugin(s)",
     "RefContentFailNotif.Text": "Failed to load Referenced Content\n'{0}'",
+    "FailWritePluginFile": "Failed to write plugin file(s)",
     "RefContentFailNotif.CacheSizePref": "Increase cache size in Editor Preferences",
     "VerifyLivePublicAssetsPluginMissingModuleId": "Internal error: couldn't find module ID for plugin %s",
     "RemoveReferencedContentWarning": "It's highly recommended that those references be removed first (see logs for full list).\n\nRemoving this content will reload the project but some of its assets might be broken or fail to load.\n\n",
@@ -2334,21 +2528,28 @@
     "VKPluginCannotHaveC++": "Plugin {0} cannot have C++ code\nModules must be removed from the plugin descriptor\n{1}",
     "VKPluginDependencyNotFound": "Plugin {0} dependency {1} cannot be found\n{2}",
     "InvalidVKProjectFileName": "Project file name is invalid\n{0}",
+    "SetProjectVersePath.NotSyncedWithContentService": "Project must be synced with content service to change its verse path",
     "VerifyLivePublicAssetsNoContentService": "Project must be synced with content service to verify its live public api\nMake sure you're logged in",
+    "ProjectVersePathUpdated": "Project verse path was set to:",
     "PublicPluginOnlyInLibrary": "Public plugins are only allowed in a {0} project",
     "RefContentAlreadyAdded": "Referenced Content\n'{0}'\nalready in project",
     "RefContentFailNotif.CacheOutOfSpace": "Referenced Content cache is out of space",
     "RefContentFailNotif.Remove": "Remove Referenced Content",
     "RemovingProjectPublicApi": "Removing project public API...",
     "SanitizingProjectPublicApi": "Sanitizing project public API...",
-    "ShowMessageLogHyperlink": "Show Output Log",
+    "ProjectVersePathConfirmation.SetButton": "Set Project Verse Path",
+    "ShowOutputLogHyperlink": "Show Output Log",
     "ContentRemoval.AssetsReferencingContent": "Some assets are still referencing this content:",
     "RemovePublicApiFailedToLoadAssets": "Some public assets could not be loaded; consider deleting them (see log for details)",
     "RemovePublicApiFailedToPrivatizeAssets": "Some public assets could not be made private (see log for details)",
     "RemovePublicApiFailedToSaveAssets": "Some public assets that were made private could not be saved (see log for details)",
+    "ProjectVersePathPrompter.DefaultMessage": "The default verse path for project {0} could not be used.\n\nReason:\n{1}\n\nPlease enter the project verse path:",
     "RemovePublicApiConfirmation": "This operation will privatize plugins, assets and verse in this project\n\nDo you want to continue?",
+    "InvalidProjectVersePath": "This verse path is not valid for project {0}:\n'{1}'\n\nReason:\n{2}",
     "RemoveContent": "Yes, remove content",
     "RemoveContentAndReload": "Yes, remove content and reload project",
+    "SetProjectVersePath.NotLoggedIn": "You must be logged in to change the project verse path",
+    "ProjectVersePathPrompter.ErrorMessage": "{0}\n\nPlease enter the project verse path:",
     "ContentRemoval.Header": "{0} Content"
   },
   "ValkyrieProjectBrowser": {
@@ -2415,7 +2616,6 @@
     "CannotRenameVKProjectToEmptyName": "Cannot reanme a project to an empty name",
     "CannotRenameProjectDuringStagingSync": "Cannot rename project while it's syncing with the content service\nTry again shortly",
     "CloseProjectTask": "Closing project '{0}'...",
-    "CopyTemplatePluginAssets.CopyingAssets": "Copying Assets...",
     "VkProjectIncompatible": "Could not open project as its version ({0}) is incompatible with the current engine ({1})",
     "CreatePluginTask": "Creating plugin {0}...",
     "CreateProjectTask": "Creating project '{0}'...",
@@ -2514,16 +2714,17 @@
   },
   "ValkyrieProjectStagingContext": {
     "Cancel": "Cancel",
+    "CannotChangePublishedProjectVersePath": "Cannot change the verse path of project '{0}' because it's been published",
     "FailLoadBindings": "Failed to load bindings for project {0}",
     "FailSyncWithContentService": "Failed to sync project {0} with content service",
     "FailSyncWithContentServiceNotLoggedIn": "Failed to sync project {0} with content service because user is not logged in\nError: {1}",
-    "FailWriteBindings": "Failed to write project bindings for {0}",
     "UnauthorizedAccessDialog.No": "No, leave as is",
     "FValkyrieFortniteModerationStatus_ErrorNotificationContent": "One or more of your assets violates the <a id=\"epic_guidelines\" href=\"https://www.epicgames.com/site/en-US/content-guidelines\" style=\"ValkyrieEditor.HyperlinkStyle\">Epic Content Guidelines</>.\n\nFor the list of these assets go to the Creator Portal.",
     "FValkyrieFortniteModerationStatus_ErrorDialogContent": "One or more of your assets violates the <a id=\"epic_guidelines\" href=\"https://www.epicgames.com/site/en-US/content-guidelines\" style=\"ValkyrieEditor.HyperlinkStyle\">Epic Content Guidelines</>.\n\nFor the list of these assets go to the Creator Portal. You must ensure that all of your assets comply with the guidelines. Continued violation will result in your project being locked.",
     "OpenCreatorPortal": "Open Creator Portal",
     "FValkyrieFortniteModerationStatus_ErrorDialogTitle": "Project Moderation Warning",
     "UnauthorizedAccess.Title": "Unauthorized Access",
+    "VersePathNotInProjectSysMetadata": "Verse path wasn't sucessfully set in project sys metadata",
     "UnauthorizedAccessDialog.Yes": "Yes, change project",
     "UnauthorizedAccessDialog.Message": "You don't have access to project {0} on the content service.\n\nDo you want to bind this local project with a new project on the content service?"
   },
@@ -2531,21 +2732,22 @@
     "CreateProjectActionText": "Create"
   },
   "ValkyrieProjectUtils": {
-    "RemapLocalContentToReferenceContent.CannotFindModule": "Cannot find a public Referenced Content module for local plugin '{0}'",
+    "RemapLocalVsReferencedContent.CannotFindExternalModule": "Cannot find Referenced Content for project plugin {0}",
+    "RemapLocalVsReferencedContent.CannotFindLocalPlugin": "Cannot find a public project plugin for Referenced Content '{0}'",
     "VKCannotFindPlugin": "Cannot find plugin",
     "VKProjectLocationIsEmpty": "Empty project location is not allowed",
-    "RemapLocalContentToReferenceContent.ModulesWithSameName": "External module {0} is being ignored because it has the same name '{1}' as module {2}",
     "VKFailFindLoadedPlugin": "Failed to find plugin that is supposedly loaded\n{0}",
     "FailFixMissingGameFeatureData": "Failed to fix missing GameFeatureData (see log for details)",
     "VKFailLoadPluginWithExistingName": "Failed to load plugin\n{0}\n\nThere's already a registered plugin named {1} at this location:\n{2}",
     "VKFailLoadGameFeaturePlugin": "Failed to load plugin\n{0}\n\n{1}",
     "VKFailLoadPlugin": "Failed to load plugin\n{0}\n{1}",
-    "RemapLocalContentToReferenceContent.FailedToLoadAsset": "Failed to load {0}",
-    "RemapLocalContentToReferenceContent.FailedToRemap": "Failed to remap some reference(s) in {0}",
-    "RemapLocalContentToReferenceContent.FailSave": "Failed to save some assets (see Message Log)",
+    "RemapLocalVsReferencedContent.FailedToLoadAsset": "Failed to load {0}",
+    "RemapLocalVsReferencedContent.FailedToRemap": "Failed to remap some reference(s) in {0}",
+    "RemapLocalVsReferencedContent.FailSave": "Failed to save some assets (see Message Log)",
     "VKFailTerminateGameFeaturePlugin": "Failed to terminate unsuccessful game feature plugin \n{0}\n\n{1}",
     "FixingProjectSlowTask": "Fixing project...",
-    "RemapLocalContentToReferenceContent.NothingToRemap": "Nothing to remap!",
+    "LoadPlugin.SlowTask": "Loading plugin {0}",
+    "RemapLocalVsReferencedContent.NothingToRemap": "Nothing to remap!",
     "PluginTerm": "Plugin",
     "VKPluginIsStillMounted": "Plugin is still mounted",
     "VkNewPluginNameInUse": "Plugin name is currently in use",
@@ -2554,19 +2756,23 @@
     "VKProjectFolderIsFile": "Project folder is invalid because the following file is in the way\n{0}",
     "VKProjectFolderNotEmpty": "Project folder must be empty\n{0}",
     "VKProjectLocationIsNotValidPath": "Project location is not a valid path\n{0}",
-    "RemapLocalContentToReferenceContent.ProjectIsNotOpened": "Project must be opened",
+    "RemapLocalVsReferencedContent.ProjectIsNotOpened": "Project must be opened",
     "VkNewProjectNameInUse": "Project name is currently in use",
+    "RemapLocalVsReferencedContent.ProjectPluginsWithSameName": "Project plugin {0} is being ignored because it has the same friendly name '{1}' as plugin {2}",
     "ProjectMissingGameFeatureData": "Project {0} is broken because it's missing its GameFeatureData.\n\nDo you want to fix it automatically?",
-    "RemapLocalContentToReferenceContentLog": "Remap Local Content to Referenced Content",
-    "RemapLocalContentToReferenceContentPage": "Remap Local Content to Referenced Content",
-    "RemapLocalContentToReferenceContentTask": "Remapping Local Content to External Content...",
-    "RemapLocalContentToReferenceContent.Cancelled": "Saving of remapped asset references was cancelled",
-    "RemapLocalContentToReferenceContent.Success": "Succesfully remapped asset references",
-    "RemapLocalContentToReferenceContent.NoRootPlugin": "There is no root plugin in the project",
-    "RemapLocalContentToReferenceContent.NoModuleEquivalence": "There is nothing to remap because none of the local public plugins have a Referenced Content module equivalence",
-    "RemapLocalContentToReferenceContent.SinglePluginProject": "There is nothing to remap because the project only has a single plugin",
-    "RemapLocalContentToReferenceContent.NoPublicPlugin": "There is nothing to remap because there's no public plugin in the project",
-    "RemapLocalContentToReferenceContent.UnexpectedRemapPathError": "Unexpected error remapping {0}",
+    "RemapLocalVsReferencedContent.ModulesWithSameName": "Referenced module {0} is being ignored because it has the same name '{1}' as module {2}",
+    "RemapLocalContentToReferencedContentLog": "Remap Local Content to Referenced Content",
+    "RemapLocalContentToReferencedContentPage": "Remap Local Content to Referenced Content",
+    "RemapReferencedContentToLocalContentLog": "Remap Referenced Content to Local Content",
+    "RemapReferencedContentToLocalContentPage": "Remap Referenced Content to Local Content",
+    "RemapLocalContentToReferencedContentTask": "Remapping Local Content to Referenced Content...",
+    "RemapReferencedContentToLocalContentTask": "Remapping Referenced Content to Local Content...",
+    "RemapLocalVsReferencedContent.Cancelled": "Saving of remapped asset references was cancelled",
+    "RemapLocalVsReferencedContent.Success": "Succesfully remapped asset references",
+    "RemapLocalVsReferencedContent.NoRootPlugin": "There is no root plugin in the project",
+    "RemapLocalVsReferencedContent.SinglePluginProject": "There is nothing to remap because the project only has a single plugin",
+    "RemapLocalVsReferencedContent.NoRefencedContent": "There is nothing to remap because there's no Referenced Content",
+    "RemapLocalVsReferencedContent.UnexpectedRemapPathError": "Unexpected error remapping {0}",
     "VKUnloadPlugins": "Unloading plugins...",
     "CheckProjectUnderExternalBackupSystemWarning": "Your project appears to be backed by {0} which may cause conflicts or unexpected behavior with other systems.",
     "VKPluginNameTooLong": "{0} name cannot be more than {1} characters long",
@@ -2674,6 +2880,10 @@
     "Invalid Parent": "Asset {0} is a child of illegal class {1}",
     "Hard Reference": "Illegal hard reference from {0} to {1}",
     "Soft Reference": "Illegal soft reference from {0} to {1}",
+    "NonUITextureNeverStreamed": "Non-UI texture is set to never stream. Update NeverStream on the texture",
+    "NonUITextureTooBig": "Non-UI texture is too big. It is {SizeX}x{SizeY}. Reduce the texture's dimensions to {MaxSize}x{MaxSize} or lower",
+    "NonUITextureNotPow2": "Non-UI texture size is not power-of-2. It is {SizeX}x{SizeY}. Reimport the texture with appropriate dimensions, or update PowerOfTwoMode on the texture",
+    "UITextureTooBig": "UI texture is too big. It is {SizeX}x{SizeY}. Reduce the texture's dimensions to {MaxSize}x{MaxSize} or lower",
     "MaterialCompilation.ErrorFmt": "[{0}] {1}",
     "ValkyrieVerseValidationError": "{0} encountered error(s) while compiling Verse. See Verse Build Diagnostics.",
     "MissingGameFeatureData": "{0} is missing a GameFeatureData asset"
