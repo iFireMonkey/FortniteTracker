@@ -1,11 +1,13 @@
 {
   "": {
+    "E9F1D59148DBA8199A98AEB75A161BB3": "A checkpoint for a DelMar race",
     "4166F5334DB6E9C6E09D9BA464A8727B": "AO",
     "4D22A7984E0B00F7E14F779B27759A23": "Capsule",
     "98E0F773453AF7724AE0ABBAEFEA318F": "Creates an EMP Hazard that slows vehicles.",
     "74E0166946E9F86D679F3B96A1A11F09": "Curvature",
     "E6F0AACD42183D424244859CA9EDBBDE": "Cylinder",
     "3ABAE1094CFDEC6B12346A8C7EB2FDCE": "Default",
+    "284ABBBA4565481CBCF15CA9A2E41DEF": "DelMar Checkpoint",
     "457967A34D7B95FEC9DD1F8E735E8A9E": "DelMar EMP Hazard",
     "B20D82ED421ABAE5479EA8B3359C3A94": "DelMar Speed Pad",
     "2E6FE66D449AD579CCB5008D71BA74F8": "Density",
@@ -44,7 +46,6 @@
     "6F54C7584A2126B5DA29518AAE919694": "Turbo",
     "6BC03F3741F0BC9EC7F65AB9A18080A2": "Turbo Trigger",
     "4B298D2F452D0E5E8075288F63199B0A": "Underthrust / Flying",
-    "C83B649B4BC649F2D02D178930EFBFEB": "Wedge",
     "17C2FE8D43739DA9053634809CF440FB": "When Jelly Triggered Transmit On",
     "B4FFAE3C424062CE87667C871E8220A5": "speed Y"
   },
@@ -121,7 +122,7 @@
     "Tutorial_Hint_DriveForward_KBM": "Hold <delmaraction>DelMar_IA_Throttle</> to accelerate",
     "Tutorial_Guided_Fly_Gamepad": "Hold <delmaraction>DelMar_IA_Underthrust</> to <HighlightStyle>Fly</>",
     "Tutorial_Guided_Fly_KBM": "Hold <delmaraction>DelMar_IA_Underthrust</> to <HighlightStyle>Fly</>",
-    "Tutorial_Hint_DriveForward_Touch": "Hold <img id=\"TouchJoystickUp\" stretch=\"ScaleBySafeZone\" width=\"desired\"/> to accelerate",
+    "Tutorial_Hint_DriveForward_Touch": "Hold <img id=\"TouchAccelerate\" stretch=\"ScaleBySafeZone\" width=\"desired\"/> to accelerate",
     "Tutorial_Guided_Fly_Touch": "Hold <img id=\"TouchJump\" stretch=\"ScaleBySafeZone\" width=\"desired\"/> to <HighlightStyle>Fly</>",
     "Tutorial_Guided_Drift_Out": "Straighten your car out to <HighlightStyle>Boost</>",
     "Tutorial_Hint_Drift_Generic": "Taking tight turns causes your car to <HighlightStyle>Drift</>",

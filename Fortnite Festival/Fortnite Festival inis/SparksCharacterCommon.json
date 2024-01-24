@@ -1,0 +1,3 @@
+[CoreRedirects]
+ClassRedirects=(OldName="/Script/SparksCoreRuntime.SparksAnimations", NewName="/Script/SparksCharacterCommonRuntime.SparksInstrumentAnimations")
+ClassRedirects=(OldName="/Script/SparksCoreRuntime.SparksAnimationSubsystem", NewName="/Script/SparksCharacterCommonRuntime.SparksAnimationSubsystem")

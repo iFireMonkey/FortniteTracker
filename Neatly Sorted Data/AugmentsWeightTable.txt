@@ -1,46 +1,40 @@
 Weight: 1.0
-- Light Fingers (Weapons using light ammo reload faster.)
-- First Assault (The first bullet in the magazine of your assault rifle deals bonus damage.)
-- Steady Hands (Marksman Rifles have reduced recoil.)
-- SMG Signoff (The last 4 bullets of your SMG magazines deals bonus damage.)
-- Sniper Surplus (Sniper Rifles gain 1 extra ammo in their magazine.)
-- Medium Ammo Acquired (Instantly gain Medium ammo and gain additional medium ammo when opening containers.)
-- Mud Warrior (You regenerate health and partial shields while covered in Mud.)
-- Scoped Salvo (Scoped weapons deal increased damage but have decreased fire rate.)
-- Fast Fisher (Increase swim speed and instantly loot a fishing hole when you swim through it.)
-- Ammo Drop (Instantly gain ammo. Eliminated players drop additional ammo.)
-- First Shotgun (Shotguns deal increased damage on the first shot. Does not increase maximum headshot damage.)
-- Pistol Salvo (Pistols have reduced fire rate but increased damage.)
-- High Voltage (Instantly gain a Business Turret and Shield Breaker EMPs. Eliminations grant additional Shield Breaker EMPs.)
-- Explosive Surplus (Instantly gain Rocket ammo and gain additional Rocket ammo when opening containers.)
-- Reckless SMG Reload (SMGs reload faster when reloaded with an empty clip.)
-- Game Time (Grants a Pizza Party and some Chug Splash.)
-- Shell Slide (Gain shotgun shells while sliding.)
-- Bloodhound (Enemies hit by your marksman rifle and sniper shots are revealed for a brief duration.)
-- Marksman Headshots (Marksman Rifle headshots deal increased damage.)
-- Shrub Mud (You become covered in Mud when in Big Bushes, Leaf Piles, and Tall Grass.)
+- Mini Reward (Instantly gain Mini Shields and gain additional Mini Shields when opening containers.)
+- Shield BreakAway (Gain the Slap effect when your shield breaks (overshield excluded).)
+- Cluster Collector (Gain 2 Cluster Clingers. Eliminations grant additional Cluster Clingers.)
+- Laser Precision (Weapons with a Laser mod deal slightly increased headshot damage. Gain a Rare weapon with a Laser mod.)
+- Shield Suppressor (Weapons with Suppressors deal increased damage to shields. Gain a Rare weapon with a Suppressor.)
+- Barrier Braker (Weapons with a Muzzle Brake mod deal increased structure damage. Gain a Rare weapon with a Muzzle Brake mod.)
+- Agile Mending (Reduce the movement speed penalty while channeling healing items.)
+- Soothing Slap (Gain Slap energy regen after using any healing consumable.)
+- Aquatic Warrior (You move faster and regenerate health and partial shields while in a body of water, except while in the storm.)
+- Countless Crash Pad Jrs  (Gain a few Crash Pad Jrs. Gain more when the storm changes.)
+- Gilded Survivor (Gain bars as you survive on the island. Gain 150 bars every time the storm circle updates.)
 
 Weight: 0.8
-- On The Go Bag (Instantly gain mobility consumables and gain additional mobility consumables when opening containers.)
+- Swift Combatant (Gain increased movement speed while aiming down sights, reloading, and after downing enemies.)
+
+Weight: 0.75
+- Hide and Heal (Gain a Cardboard Box, and regenerate health and partial shields while in a hidable prop.)
+- Quickend Camo (Gain increased movement speed while stealthed. Gain a Stealth Camo Item.)
 
 Weight: 0.6
-- Supercharged (Vehicles you're inside have increased health and only consume fuel while boosting.)
-- Sprint Lines (Gain Slap effect when using Vines, Rails, Ziplines, and Ascenders.)
-- Storm Chaser (Reduce the amount of stamina drained while tactical sprinting. Reduced further while in the storm.)
-- More Parkour (Your energy regenerates briefly after mantling.)
-- Ninja Training (Increased movement speed while crouching.)
+- Jump Time (Gain a super sprint jump every 20 seconds.)
 
 Weight: 0.5
-- Jump Balloon (Gain a Balloon when you jump.)
-- Soaring Sprints (Jump much higher and with lower gravity while Sprinting.)
+- Rare Riches (Randomly receives numerous gold Bars, a Ballistic Shield or a Grapple Blade. )
 
-Weight: 0.4
-- Roaming Redeploy (Gain Glider Redeploy whenever you gain immunity to fall damage, such as exiting Vines, Rails, Ziplines, or using Hop Flowers.)
-
-Weight: 0.3
-- Keymaster (Grants two Keys for opening Holo-Chests.)
-- Sniper Striker (Snipers give Siphon on hit against players.)
-
-Weight: 0.2
-- Rarity Check (You gain siphon on eliminations with common or uncommon weapons.)
+Weight: 0.0
+- Flow Finder (Gain a FlowBerry Fizz, and get a splash of Flow when opening any container.)
+- Magazine Munitions (Receive ammo when reloading a weapon with a Drum Mag. Gain a Rare weapon with a Drum Mag.)
+- Pinpoint P2X (Enemies are revealed when hit by a weapon with a P2X Optic. Gain a Rare weapon with a P2X Optic.)
+- Water Rifter (Get rifted into the air when you swim into a fishing spot or if you stay in the water for 15 seconds.)
+- Light FlowBerry Bullets (Gain FlowBerry low gravity for a few seconds after firing a weapon with light ammo.)
+- Shotgun SharpShooter (Shotguns have reduced damage fall off at medium and long ranges.)
+- Light Fingers (Weapons using light ammo reload faster.)
+- Shotgun Recycle (Shotguns have a chance not to consume ammo.)
+- First Assault (The first bullet in the magazine of your assault rifle deals bonus damage.)
+- Rifle Refresh (Assault and Sniper rifles will instantly reload their magazine when downing or eliminating a player.)
+- Icy Slide (Gain icy speed boost while sliding.)
+- Storm Chaser (Reduce the amount of stamina drained while tactical sprinting. Reduced further while in the storm.)
 
