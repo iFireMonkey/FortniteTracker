@@ -36,6 +36,7 @@
     "B1B123714A29F3E829D0529E15C8566B": "Speed Y",
     "D5F1EA7C41FF5AA3F3947CB32D78803A": "Speed Y",
     "D8CD286C4B6AFDE2FF0F62916C8B3741": "Spherical",
+    "E6FA526F43425C075C7045998CEEC193": "The collision type of the Jelly",
     "2FBD2DD641D3C1FAC8CCBE81355FDDA0": "Tiling X",
     "AB35A55D4F306E0BAF78BF9BFFD0E4E3": "Tiling X",
     "D252B04E45B1CF9869D459AC001680BC": "Tiling X",
@@ -149,13 +150,18 @@
   },
   "UserOptionDefinition": {
     "DelMar_SpeedUpPad_BP_C.SpeedAmount.Description": "Amount of speed to add to vehicles driving over this",
+    "E_ObstacleCollisionType.Capsule.DisplayName": "Capsule",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "Cylinder",
     "DelMar_Jelly_BP_C.Duration.DisplayName": "Duration",
     "DelMar_Jelly_BP_C.Duration.Description": "How long to disable throttle for.",
     "DelMar_Jelly_BP_C.MaxReducedTargetSpeed.DisplayName": "Max Reduced Target Speed",
     "DelMar_SpeedUpPad_BP_C.SpeedEffectDuration.Description": "Number of seconds the speed increase stays in effect for",
     "DelMar_Jelly_BP_C.OnEMPHazardTriggered.DisplayName": "On EMPHazard Triggered",
+    "E_ObstacleCollisionType.Sizeable Box.DisplayName": "Sizeable Box",
     "DelMar_SpeedUpPad_BP_C.SpeedAmount.DisplayName": "Speed Amount",
     "DelMar_SpeedUpPad_BP_C.SpeedEffectDuration.DisplayName": "Speed Effect Duration",
-    "DelMar_Jelly_BP_C.MaxReducedTargetSpeed.Description": "The maximum amount of target speed to remove on collision."
+    "E_ObstacleCollisionType.Spherical.DisplayName": "Spherical",
+    "DelMar_Jelly_BP_C.MaxReducedTargetSpeed.Description": "The maximum amount of target speed to remove on collision.",
+    "DelMar_Jelly_BP_C.Type.DisplayName": "Type"
   }
 }

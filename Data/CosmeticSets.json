@@ -13211,6 +13211,76 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.StarFly": {
+        "tag": {
+          "TagName": "Cosmetics.Set.StarFly"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.StarFly_DisplayName",
+          "SourceString": "Interstellar Aerial",
+          "LocalizedString": "Interstellar Aerial"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AnnualFire": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AnnualFire"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.AnnualFire_DisplayName",
+          "SourceString": "Year of the Dragon",
+          "LocalizedString": "Year of the Dragon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlackestAqua": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BlackestAqua"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlackestAqua_DisplayName",
+          "SourceString": "Darkest Waters",
+          "LocalizedString": "Darkest Waters"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ScrapePlace": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ScrapePlace"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ScrapePlace_DisplayName",
+          "SourceString": "Skratch Company",
+          "LocalizedString": "Skratch Company"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LaterGroove": {
+        "tag": {
+          "TagName": "Cosmetics.Set.LaterGroove"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LaterGroove_DisplayName",
+          "SourceString": "FutureSound",
+          "LocalizedString": "FutureSound"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }
