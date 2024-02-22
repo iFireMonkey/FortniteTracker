@@ -51246,6 +51246,105 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "STWStarterBundle18_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_05_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_05",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_getrewards",
+        "TemplateId": "Quest:stwstarterbundle18_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_getrewards",
+        "TemplateId": "Quest:stwstarterbundle18_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_getrewards",
+        "TemplateId": "Quest:stwstarterbundle18_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_getrewards",
+        "TemplateId": "Quest:stwstarterbundle18_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_getrewards",
+        "TemplateId": "Quest:stwstarterbundle18_05",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle18_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle18_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle18",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

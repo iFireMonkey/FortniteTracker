@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests18": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests18_Name",
+          "SourceString": "Dr. VinderBot Starter Bundle",
+          "LocalizedString": "Dr. VinderBot Starter Bundle"
+        },
+        "SortPriority": 520
+      },
       "StarterBundleQuests17": {
         "Name": {
           "Namespace": "QuestCategoryTable",

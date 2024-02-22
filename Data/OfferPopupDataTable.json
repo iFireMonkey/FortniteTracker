@@ -231,7 +231,7 @@
           "Namespace": "",
           "Key": "6933F24E4496532E3BAFFABC0C4F0098",
           "SourceString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!",
-          "LocalizedString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!"
+          "LocalizedString": "Select a <text color=\\\"FFFFFFFF\\\">STATIC</> emoticon from your locker to show off!"
         }
       },
       "createhero1": {
@@ -3080,6 +3080,22 @@
           "Key": "4501BAE0422D1BC06EC9B584C2AB4F4D",
           "SourceString": "Selectable Styles!",
           "LocalizedString": "Selectable Styles!"
+        }
+      },
+      "carrot": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "2606752D4EB7DEBE09056BBF5F10B0B4",
+          "SourceString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">DIESTRO</> car body.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">DIESTRO</> car body."
+        }
+      },
+      "builddesc": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "1F8CD42C46AA793F184B1EB780CEC66A",
+          "SourceString": "TBD",
+          "LocalizedString": "TBD"
         }
       }
     }
