@@ -1,0 +1,22 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "space between: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: generate outside of {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "JunoStorageChest": {
+    "Open": "Open",
+    "Search": "Search"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}'s Village {VillageCount}"
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Enter Guided Build"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "This is the last of your friends' worlds in which you can place owned content this week.",
+    "MCPItemPlacedMessageTitleText": "Warning! Owned Content",
+    "MCPItemPlacedMessageDescription_NLeft": "You can place owned content in {0} more of your friends' worlds this week."
+  }
+}
