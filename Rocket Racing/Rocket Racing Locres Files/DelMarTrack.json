@@ -1,4 +1,8 @@
 {
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Activates a given track when a racer enters this volume. Typically used on for tracks without geometry.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "RR Active Track Valoume"
+  },
   "DelMarSelectedNodesWidget": {
     "ChangeShapeOfMultipleNodes": "Change Shape of Multiple Nodes",
     "DeleteMultipleNodeConfirmation": "Delete Mulitple Nodes?",
@@ -17,13 +21,11 @@
     "SplitNodeConfirmation": "Split At Node?"
   },
   "DelMarStyleEditorWidget": {
-    "Bounds": "Bounds",
     "Device": "Device",
     "DeviceProperties": "Device Properties",
-    "EditBounds": "Edit Bounds",
     "EditDevice": "Edit Device",
     "EditTrack": "Edit Track",
-    "GlobalTrackBounds": "Global Track Bounds",
+    "Looping Track": "Looping Track",
     "None": "None",
     "RoadStyle": "Road Style",
     "SelectSplinePoints": "Select Spline Points",
@@ -65,6 +67,7 @@
   },
   "SDelMarRoadShapeWidget": {
     "BankedRoad": "Banked Road",
+    "Change Road Shape": "Change Road Shape",
     "FlatRoad": "Flat Road",
     "HalfPipe": "Half Pipe",
     "Pipe": "Pipe",

@@ -230,8 +230,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "6933F24E4496532E3BAFFABC0C4F0098",
-          "SourceString": "Show off any <text color=\"FFFFFFFF\" fontface=\"black\">EMOTICON</> in your locker!",
-          "LocalizedString": "Select a <text color=\\\"FFFFFFFF\\\">STATIC</> emoticon from your locker to show off!"
+          "SourceString": "Select a <text color=\"FFFFFFFF\">STATIC</> emoticon from your locker to show off!",
+          "LocalizedString": "Select a <text color=\"FFFFFFFF\">STATIC</> emoticon from your locker to show off!"
         }
       },
       "createhero1": {
@@ -439,7 +439,7 @@
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
           "SourceString": "Kratos has arrived on the island.",
-          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
+          "LocalizedString": "Kratos has arrived on the island."
         }
       },
       "promodesc2": {
@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "LocalizedString": "Drop in with the Master Chief and finish the fight."
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
+          "LocalizedString": "Marcus has arrived on the island."
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
+          "LocalizedString": "Marcus and Kait have arrived on the island."
         }
       },
       "promodesc17": {
@@ -2031,7 +2031,7 @@
           "Namespace": "",
           "Key": "54E63B2147EDADEFE9D074BE9560539E",
           "SourceString": "<text color=\"FFFFFFFF\">BELLOW OF THE DEAD</> lights up when hitting weak points!",
-          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> lights up when hitting weak points!"
+          "LocalizedString": "<text color=\"FFFFFFFF\">BELLOW OF THE DEAD</> lights up when hitting weak points!"
         }
       },
       "defectbundledesc": {
@@ -2879,7 +2879,7 @@
           "Namespace": "",
           "Key": "7E30CB6F48C31A83508557B4B67D87FB",
           "SourceString": "Attend The Big Bang on December 2nd, and unlock the exclusive <text color=\"FFFFFFFF\">MARSHALL MAGMA</> style for <text color=\"FFFFFFFF\">MARSHALL NEVER MORE</>!",
-          "LocalizedString": "Selectable Styles!"
+          "LocalizedString": "Attend The Big Bang on December 2nd, and unlock the exclusive <text color=\"FFFFFFFF\">MARSHALL MAGMA</> style for <text color=\"FFFFFFFF\">MARSHALL NEVER MORE</>!"
         }
       },
       "rebar": {
@@ -2910,8 +2910,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "8B4267BC4C77A6E4D1C4B38B19D1427A",
-          "SourceString": "Some items are restricted to select Car Bodies.",
-          "LocalizedString": "Some items are restricted to select Car Bodies."
+          "SourceString": "Includes customizable decals and wheels! Decals in this bundle are restricted to the <text color=\"FFFFFFFF\">LAMBORGHINI HURACÁN STO</> car body.",
+          "LocalizedString": "Includes customizable decals and wheels! Decals in this bundle are restricted to the <text color=\"FFFFFFFF\">LAMBORGHINI HURACÁN STO</> car body."
         }
       },
       "sparksjamloop": {
@@ -3096,6 +3096,30 @@
           "Key": "1F8CD42C46AA793F184B1EB780CEC66A",
           "SourceString": "TBD",
           "LocalizedString": "TBD"
+        }
+      },
+      "musclecar2": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "10B80E6B4871884840FA8092B4EC36A9",
+          "SourceString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">DOMINUS GT</> car body.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">DOMINUS GT</> car body."
+        }
+      },
+      "rankedmetal": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "B1E3CEC248BB3369BEC9488D3D0337EA",
+          "SourceString": "Outfit metal material changes color based on current Rank!",
+          "LocalizedString": "Outfit metal material changes color based on current Rank!"
+        }
+      },
+      "rankedpickaxe": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "064E19414BA1E3D7FC9786B6B7732C40",
+          "SourceString": "Piackaxe blade changes color based on current Rank!",
+          "LocalizedString": "Piackaxe blade changes color based on current Rank!"
         }
       }
     }

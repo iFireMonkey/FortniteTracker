@@ -13421,6 +13421,174 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.BelowRoyalty": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BelowRoyalty"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BelowRoyalty_DisplayName",
+          "SourceString": "Underworld King",
+          "LocalizedString": "Underworld King"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MorbidWatch": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MorbidWatch"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.MorbidWatch_DisplayName",
+          "SourceString": "Grim Gatekeeper",
+          "LocalizedString": "Grim Gatekeeper"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.QueenLove": {
+        "tag": {
+          "TagName": "Cosmetics.Set.QueenLove"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QueenLove_DisplayName",
+          "SourceString": "Goddess of the Heart",
+          "LocalizedString": "Goddess of the Heart"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SnakeRock": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SnakeRock"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.SnakeRock_DisplayName",
+          "SourceString": "The Serpentstone",
+          "LocalizedString": "The Serpentstone"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LadyTrack": {
+        "tag": {
+          "TagName": "Cosmetics.Set.LadyTrack"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.LadyTrack_DisplayName",
+          "SourceString": "Queen of the Hunt",
+          "LocalizedString": "Queen of the Hunt"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RoyalGods": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RoyalGods"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.RoyalGods_DisplayName",
+          "SourceString": "King of Olympus",
+          "LocalizedString": "King of Olympus"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OceanRoyalty": {
+        "tag": {
+          "TagName": "Cosmetics.Set.OceanRoyalty"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.OceanRoyalty_DisplayName",
+          "SourceString": "Tidal King",
+          "LocalizedString": "Tidal King"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GlimmerFlame": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GlimmerFlame"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlimmerFlame_DisplayName",
+          "SourceString": "Shimmering Onibi",
+          "LocalizedString": "Shimmering Onibi"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GlowingCheese": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GlowingCheese"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GlowingCheese_DisplayName",
+          "SourceString": "Radiant Moon",
+          "LocalizedString": "Radiant Moon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ClimbingGold": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ClimbingGold"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ClimbingGold_DisplayName",
+          "SourceString": "The Rise of Midas",
+          "LocalizedString": "The Rise of Midas"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HarshPat": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HarshPat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.HarshPat_DisplayName",
+          "SourceString": "Avatar",
+          "LocalizedString": "Avatar"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.YoungTravel": {
+        "tag": {
+          "TagName": "Cosmetics.Set.YoungTravel"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.YoungTravel_DisplayName",
+          "SourceString": "Ageless Odyssey",
+          "LocalizedString": "Ageless Odyssey"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

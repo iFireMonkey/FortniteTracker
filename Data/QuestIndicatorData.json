@@ -22,61 +22,71 @@
       },
       "QuestOjectiveTypeToIconMap": [
         {
-          "EFortQuestObjectiveStatEvent::Kill": {
+          "Key": "EFortQuestObjectiveStatEvent::Kill",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Elim.UI_ChallengeIcon_Elim",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Damage": {
+          "Key": "EFortQuestObjectiveStatEvent::Damage",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Damage.UI_ChallengeIcon_Damage",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Visit": {
+          "Key": "EFortQuestObjectiveStatEvent::Visit",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Visit.UI_ChallengeIcon_Visit",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Land": {
+          "Key": "EFortQuestObjectiveStatEvent::Land",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Land.UI_ChallengeIcon_Land",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Emote": {
+          "Key": "EFortQuestObjectiveStatEvent::Emote",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Emote.UI_ChallengeIcon_Emote",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Collect": {
+          "Key": "EFortQuestObjectiveStatEvent::Collect",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Collect.UI_ChallengeIcon_Collect",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Destroy": {
+          "Key": "EFortQuestObjectiveStatEvent::Destroy",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Destroy.UI_ChallengeIcon_Destroy",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Heal": {
+          "Key": "EFortQuestObjectiveStatEvent::Heal",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Heal.UI_ChallengeIcon_Heal",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Interact": {
+          "Key": "EFortQuestObjectiveStatEvent::Interact",
+          "Value": {
             "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Replay/T-Icon-Replay-Exclamation-L.T-Icon-Replay-Exclamation-L",
             "SubPathString": ""
           }
         },
         {
-          "EFortQuestObjectiveStatEvent::Spray": {
+          "Key": "EFortQuestObjectiveStatEvent::Spray",
+          "Value": {
             "AssetPathName": "/Game/Athena/UI/Challenges/Art/ChallengeTypeIcons/UI_ChallengeIcon_Mark.UI_ChallengeIcon_Mark",
             "SubPathString": ""
           }
@@ -122,29 +132,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindMill_03",
-            "SourceString": "The Other Other Windmill",
-            "LocalizedString": "The Other Other Windmill"
-          },
-          "WorldLocation": {
-            "X": 64400.0,
-            "Y": -78824.0,
-            "Z": 5220.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindMill.03"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_MoulinBleu",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SocietyCemetery",
             "SourceString": "The Cemetery",
             "LocalizedString": "The Cemetery"
@@ -170,24 +157,47 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WinterIsland",
-            "SourceString": "Winterburg",
-            "LocalizedString": "Winterburg"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_SummitTemple",
+            "SourceString": "Summit Temple",
+            "LocalizedString": "Summit Temple"
           },
           "WorldLocation": {
-            "X": 121208.0,
-            "Y": 13836.003,
-            "Z": 4757.0
+            "X": -30260.0,
+            "Y": 93544.0,
+            "Z": 4756.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WinterIsland"
+            "TagName": "Athena.Location.UnNamedPOI.SummitTemple"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WinterIsland",
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CharonsCrossing",
+            "SourceString": "Charon's Crossing",
+            "LocalizedString": "Charon's Crossing"
+          },
+          "WorldLocation": {
+            "X": 17124.0,
+            "Y": -85092.0,
+            "Z": 5220.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.CharonsCrossing"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -214,6 +224,29 @@
           "ActiveDiscoverableBlodIds": [
             20
           ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_ArchOlympus",
+            "SourceString": "Pantheon Path",
+            "LocalizedString": "Pantheon Path"
+          },
+          "WorldLocation": {
+            "X": -49516.0,
+            "Y": 31772.0,
+            "Z": 2584.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.ArchOlympus"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -426,38 +459,11 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_ResearchSttion",
-          "ActiveDiscoverableBlodIds": [
-            75
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnnamedPOI_WeatherStation",
-            "SourceString": "Stormy Station",
-            "LocalizedString": "Stormy Station"
-          },
-          "WorldLocation": {
-            "X": -56612.0,
-            "Y": 79848.0,
-            "Z": 4756.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnnamedPOI.WeatherStation"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WeatherStation",
-          "ActiveDiscoverableBlodIds": [
-            205
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -578,26 +584,6 @@
         },
         {
           "Text": {
-            "CultureInvariantString": null
-          },
-          "WorldLocation": {
-            "X": 19620.0,
-            "Y": -70984.0,
-            "Z": 12768.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.SunRuin"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "None",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_CostalAirstrip",
             "SourceString": "Sandy Strip",
@@ -650,8 +636,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_AbandonedRuins",
-            "SourceString": "RUINED REELS",
-            "LocalizedString": "RUINED REELS"
+            "SourceString": "RESTORED REELS",
+            "LocalizedString": "RESTORED REELS"
           },
           "WorldLocation": {
             "X": -1892.0,
@@ -695,29 +681,6 @@
           "ActiveDiscoverableBlodIds": [
             240
           ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_UndergroundHQ",
-            "SourceString": "Underground HQ",
-            "LocalizedString": "Underground HQ"
-          },
-          "WorldLocation": {
-            "X": -38004.0,
-            "Y": -51532.0,
-            "Z": 2584.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.UndergroundHQ"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_UndergroundHQ",
-          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -767,31 +730,6 @@
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_CostalRuins",
           "ActiveDiscoverableBlodIds": [
             190
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_MountainSummit",
-            "SourceString": "Superior Summit",
-            "LocalizedString": "Superior Summit"
-          },
-          "WorldLocation": {
-            "X": -39414.11,
-            "Y": 90880.37,
-            "Z": 26327.518
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.MountainSummit"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_Summit",
-          "ActiveDiscoverableBlodIds": [
-            25
           ]
         },
         {
@@ -944,8 +882,8 @@
             "LocalizedString": "The Marigold"
           },
           "WorldLocation": {
-            "X": 4248.0,
-            "Y": -102224.0,
+            "X": 9073.0,
+            "Y": -116194.0,
             "Z": 2584.0
           },
           "LocationTag": {
@@ -1010,9 +948,9 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TrainStation_06",
-            "SourceString": "Riviera Station",
-            "LocalizedString": "Riviera Station"
+            "Key": "NameForLocation_Athena_Location_POI_Gate",
+            "SourceString": "GRIM GATE",
+            "LocalizedString": "GRIM GATE"
           },
           "WorldLocation": {
             "X": 18608.0,
@@ -1020,14 +958,14 @@
             "Z": 2584.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TrainStation.06"
+            "TagName": "Athena.Location.POI.Gate"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_IslandTrainStation",
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_Gate",
           "ActiveDiscoverableBlodIds": [
             85
           ]
@@ -1035,24 +973,24 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_MarinaTown",
-            "SourceString": "RITZY RIVIERA",
-            "LocalizedString": "RITZY RIVIERA"
+            "Key": "NameForLocation_Athena_Location_POI_Hades",
+            "SourceString": "THE UNDERWORLD",
+            "LocalizedString": "THE UNDERWORLD"
           },
           "WorldLocation": {
-            "X": 49224.0,
-            "Y": -91092.0,
+            "X": 55712.0,
+            "Y": -84900.0,
             "Z": 112.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.POI.MarinaTown"
+            "TagName": "Athena.Location.POI.Hades"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_MarinaTown",
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_Hades",
           "ActiveDiscoverableBlodIds": [
             100
           ]
@@ -1122,13 +1060,11 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_C5_Discover_Landmarks_CliffHouse",
-          "ActiveDiscoverableBlodIds": [
-            5
-          ]
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1152,6 +1088,56 @@
           },
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_Glacier",
           "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_MountOlympus",
+            "SourceString": "MOUNT OLYMPUS",
+            "LocalizedString": "MOUNT OLYMPUS"
+          },
+          "WorldLocation": {
+            "X": -55820.0,
+            "Y": 63184.0,
+            "Z": 4756.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.MountOlympus"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_MountOlympus",
+          "ActiveDiscoverableBlodIds": [
+            205
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_Arena",
+            "SourceString": "BRAWLER`S BATTLEGROUND",
+            "LocalizedString": "BRAWLER`S BATTLEGROUND"
+          },
+          "WorldLocation": {
+            "X": -94424.0,
+            "Y": 61156.0,
+            "Z": 4756.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.Arena"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_Arena",
+          "ActiveDiscoverableBlodIds": [
+            75
+          ]
         },
         {
           "Text": {
@@ -1298,6 +1284,29 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TrainStation_06",
+            "SourceString": "Underworld Station",
+            "LocalizedString": "Underworld Station"
+          },
+          "WorldLocation": {
+            "X": 45540.0,
+            "Y": -57416.0,
+            "Z": 5220.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.TrainStation.06"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_RockMansion",
             "SourceString": "Cloistered Castle",
             "LocalizedString": "Cloistered Castle"
@@ -1317,31 +1326,6 @@
           },
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_RockMansion",
           "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_MountainVillage",
-            "SourceString": "HAZY HILLSIDE",
-            "LocalizedString": "HAZY HILLSIDE"
-          },
-          "WorldLocation": {
-            "X": -44944.0,
-            "Y": 44096.0,
-            "Z": 112.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.MountainVillage"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_MountainVillage",
-          "ActiveDiscoverableBlodIds": [
-            150
-          ]
         },
         {
           "Text": {

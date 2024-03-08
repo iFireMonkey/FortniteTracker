@@ -149,7 +149,9 @@
     "DEDFA1B74F7697319D30A5AEDF8D7ECD": "Del Mar - Death Race Mode",
     "75115D3E4BA2EF094F1D81B408393066": "Del Mar - Easy Rider",
     "F6AB3BD84C3E95DB22C03E997B6EED19": "Del Mar - Perf Test 01",
+    "7F7A5BCC4A4D825B2536A281C2F97A7E": "Del Mar - Speed Run Rotation",
     "92F738D5459C3BE2ADF108955A72CDDE": "Del Mar - Speed Run Rotation",
+    "DE90B8ED4613FA3031C4A0AF84DE58B9": "Del Mar - Speed Run Rotation",
     "A45FBC554386D2CEF76E61BD1F9CAB78": "Del Mar - Tutorials",
     "E81C3EFB48F6127D18C36F9702623628": "Del Mar - Tutorials",
     "AB8BDD7D46E277328A2A2A99348F47E3": "Diamond I",
@@ -316,6 +318,7 @@
     "A8E6474A4115CD43A9F93F80C5FF44B7": "Racing!",
     "A9AC260D4A65892C670970B50674DC29": "Racing!",
     "AC99DBBA47E6EBD3113C7691FAA8B5E6": "Racing!",
+    "AF46E523406BAF833EC057B77AE026E6": "Racing!",
     "AFB33D394C4A5C25E0DDD38AFE24AD26": "Racing!",
     "AFB62B1345AC7E46760B82AB57188B9D": "Racing!",
     "B002691D4BA55198A539928D8922342C": "Racing!",
@@ -325,6 +328,7 @@
     "BB5FDA5449EE3CEB253FA5A95734D68B": "Racing!",
     "BF780748432110049EDCE8B0F2BC8E5C": "Racing!",
     "C30B02C84513C128CE413EB152A3D0B5": "Racing!",
+    "C364E71A418B827F9294E98AF98E9C7B": "Racing!",
     "C3755CB04309887B0F03C49C3B1A22C8": "Racing!",
     "C3E14926404953751661D3BC9FD41BA3": "Racing!",
     "C48701264655D547532EB98156F4D5AE": "Racing!",
@@ -582,7 +586,8 @@
   },
   "DelMarCore": {
     "Rotation Error": "Error retrieving map from rotation service",
-    "PostMatchFlowError": "Failed Matchmaking",
+    "MapRotation": "Failed to Report Link Code to Complete Map Rotation Service. Reason={0}",
+    "PostRace": "Failed to continue matchmaking after downloading island.",
     "Failed To Install Content": "Failed to install downloadable content \"{0}\"",
     "Failed To Install Content With Error": "Failed to install downloadable content \"{0}\".",
     "Failed To Query LinkCode": "Failed to query link \"{0}\".",
@@ -614,6 +619,32 @@
     "ConvertedCheckpoints_Message": "Successfully converted {0} checkpoints to use parallel path.",
     "TrackSettings_Label": "Track Settings",
     "ValidateTrack_Label": "Validate Track"
+  },
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "A non-circuit (not looping) track that is more than one lap must have Teleport Enabled on the Finish Line RR Checkpoint, and its Next Checkpoint array must reference only your Starting Line RR Checkpoint. {0}",
+    "MultipleFinishLines": "More than one RR Checkpoint is marked as \"Finish Line\". There must be exactly one Finish Line RR Checkpoint in a RR Track. {0}",
+    "MultipleStartLines": "More than one RR Checkpoint is marked as \"Starting Line\". There must be exactly one Starting Line RR Checkpoint in a RR Track. {0}",
+    "NoFinishLine": "No RR Checkpoint is marked as \"Finish Line\". There must be exactly one Finish Line RR Checkpoint in a RR Track. {0}",
+    "NoStartLine": "No RR Checkpoint is marked as a \"Starting Line\". There must be exactly one Starting Line RR Checkpoint in a RR Track. {0}",
+    "Loop": "You cannot loop back to already visited checkpoints within a lap. Device {0} has a Next Checkpoints Array that references {1}, which was referenced by {2} earlier in the lap. {3}",
+    "DoesntOverlapFinishLine": "Your Primary RR Track must extend from your Starting Line RR Checkpoint to your Finish Line RR Checkpoint. It is not currently intersecting your RR Checkpoint marked as your Finish Line. {0}",
+    "DoesntOverlapStartingLine": "Your Primary RR Track must extend from your Starting Line RR Checkpoint to your Finish Line RR Checkpoint. It is not currently intersecting your RR Checkpoint marked as your Starting Line. {0}",
+    "DeadEnd": "{0} does not contain one or more \"Next Checkpoints\" references that eventually lead to the Finish Line RR Checkpoint. {1}"
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManager": "There is more than one RR Race Manager placed. Tracks must contain exactly one RR Race Manager. {0}",
+    "NoModeManager": "There is no RR Race Manager placed. Tracks must contain exactly one RR Race Manager. RR Competitive Race Manager, RR Speed Run Race Manager, etc. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "More than one RR Track has the Track Type value set to \"Primary\". There must be exactly one Primary Track. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "No RR Track has the Track Type value set to \"Primary\". There must be exactly one Primary Track. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "When your Starting and Finish Line RR Checkpoints are the same RR Checkpoint, the track is considered a circuit and your Primary Track Spline must have \"Closed Loop\" set to true. {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} has a Track Type of \"Secondary\", but is set to Closed Loop. Only \"Primary\" and \"Cosmetic\" Track Types can be set to Closed Loop. {1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} has a final node placement that connects to the track at an earlier point in the lap than the first node. This RR Track may be authored backwards, against the flow of the track, OR either end of the spline may be too close to a part of the track you don’t intend players to navigate to. Select this RR Track in perspective view, and check that the connection lines from this Secondary RR Track spline connect back to your track as expected. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
   },
   "UEFNAseetExposedValidation": {
     "DataValidationLogPage": "UEFN Exposed Assets Check",
