@@ -250,7 +250,8 @@
     "D3E2B7FE4BFAA963EEB530893448575A": "Top 100",
     "4FAAEA8F48F42860AD6160BEA416BC94": "Total Bonus Speed: ",
     "F7AC09A94F8CBB0B061FDC8EFDFAA811": "Touch any surface with all of your tires to instantly refuel!",
-    "C5E692EC473C49EE6C77BE8CF521A473": "Track by: {CreatorName}",
+    "0335955D4FCD6C2CCD7A2A96092DAC6E": "Track by: {CreatorName}",
+    "43CB6EC84C072E3E62C673BAE6C146CE": "Track by: {CreatorName}",
     "86963DEC446E09DD050141B6057D354F": "Turbo Bonus Speed: ",
     "76CD40A44E82BCF6B3EF5E8B83D12BA5": "Turbo Charges: ",
     "8CB63FA14BC774A07D89C1A2C7436F7B": "Turbo Seconds Remaining: ",
@@ -298,8 +299,8 @@
     "145AC6C946D1558DBAD2088B3BF99C43": "Your car's <BoldStyle>Thrusters</> provide limited flight time. Thrusters instantly recharge when you land on a surface.",
     "1565403043E5CC378DBCA1A55F6C9F09": "Your turbo meter fills over time and can store up to three turbo charges.",
     "AA74DEA94C0D13C6AD8F96894904C5FB": "[MapName]",
-    "BE1C17D648FBBB15BEDDAD9799A13469": "by {CreatorName}",
-    "C3575EEE41FF0C56066A2E99322CA252": "by {CreatorName}",
+    "02A2B31342BFB359D30BEF8D0DAE5502": "by {CreatorName}",
+    "468339BA4A6970019A20C9861B63CC7A": "by {CreatorName}",
     "0FF46BD54B9EC87D134B318EADAF5516": "of",
     "6F4871D8409D2E8103B1DA972469A678": "th",
     "0971C0704C5AD2F64CC6D4A1B9BCBBAA": "{0}%",
@@ -367,6 +368,7 @@
     "DelMarToggleThrottle_Name": "Toggle Throttle",
     "DelMarTouchControlsLayout_Name": "Touch Controls Layout",
     "DelMarAerialBrakeThrottleKBM_Description": "Using Throttle Backward in the air will act like Throttle Forward when not using a gamepad.",
+    "DelMarAerialBrakeThrottleGamepad_Mobile_Description": "Using Throttle Backward in the air will act like Throttle Forward when using a gamepad or touch controls.",
     "DelMarAerialBrakeThrottleGamepad_Description": "Using Throttle Backward in the air will act like Throttle Forward when using a gamepad."
   }
 }

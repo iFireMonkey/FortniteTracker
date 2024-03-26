@@ -439,7 +439,7 @@
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
           "SourceString": "Kratos has arrived on the island.",
-          "LocalizedString": "Kratos has arrived on the island."
+          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
         }
       },
       "promodesc2": {
@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Drop in with the Master Chief and finish the fight."
+          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island."
+          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island."
+          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
         }
       },
       "promodesc17": {
@@ -2031,7 +2031,7 @@
           "Namespace": "",
           "Key": "54E63B2147EDADEFE9D074BE9560539E",
           "SourceString": "<text color=\"FFFFFFFF\">BELLOW OF THE DEAD</> lights up when hitting weak points!",
-          "LocalizedString": "<text color=\"FFFFFFFF\">BELLOW OF THE DEAD</> lights up when hitting weak points!"
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\">BALEFUL BELLOW</> lights up when hitting weak points!"
         }
       },
       "defectbundledesc": {
@@ -2959,7 +2959,7 @@
           "Namespace": "",
           "Key": "D7C9C90D4B3143A8D8610AB3357AB51A",
           "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "LocalizedString": "<text color=\\\"FFFFFFFF\\\" fontface=\\\"black\\\">Reactive Outfit:</> Reacts on eliminations!"
         }
       },
       "promodesc103": {
@@ -3118,8 +3118,24 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "064E19414BA1E3D7FC9786B6B7732C40",
-          "SourceString": "Piackaxe blade changes color based on current Rank!",
-          "LocalizedString": "Piackaxe blade changes color based on current Rank!"
+          "SourceString": "Pickaxe blade changes color based on current Rank!",
+          "LocalizedString": "Pickaxe blade changes color based on current Rank!"
+        }
+      },
+      "neocar": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "5FFBEE574BEB04D384B48B94CAD4E723",
+          "SourceString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">MASAMUNE</> car body.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the <text color=\"FFFFFFFF\">MASAMUNE</> car body."
+        }
+      },
+      "octanedecal": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "87641DF24862E147E00C71921BFD65A9",
+          "SourceString": "This bundle contains decals that are restricted to the <text color=\"FFFFFFFF\">OCTANE</> car body. The <text color=\"FFFFFFFF\">OCTANE</> car body is not included in the bundle and can be obtained by logging into Rocket Racing or Rocket League.",
+          "LocalizedString": "This bundle contains decals that are restricted to the <text color=\"FFFFFFFF\">OCTANE</> car body. The <text color=\"FFFFFFFF\">OCTANE</> car body is not included in the bundle and can be obtained by logging into Rocket Racing or Rocket League."
         }
       }
     }

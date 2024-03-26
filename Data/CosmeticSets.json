@@ -11903,8 +11903,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SkyLove_DisplayName",
-          "SourceString": "Airphoria",
-          "LocalizedString": "Airphoria"
+          "SourceString": "Nike Airphoria",
+          "LocalizedString": "Nike Airphoria"
         },
         "Description": {
           "CultureInvariantString": null
@@ -13585,6 +13585,132 @@
           "Key": "Cosmetics.Set.YoungTravel_DisplayName",
           "SourceString": "Ageless Odyssey",
           "LocalizedString": "Ageless Odyssey"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DarkCaptain": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DarkCaptain"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.DarkCaptain_DisplayName",
+          "SourceString": "Stygian Boatman",
+          "LocalizedString": "Stygian Boatman"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ExplosiveRemote": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ExplosiveRemote"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.ExplosiveRemote_DisplayName",
+          "SourceString": "Detonator",
+          "LocalizedString": "Detonator"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WonderingExplorer": {
+        "tag": {
+          "TagName": "Cosmetics.Set.WonderingExplorer"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.WonderingExplorer_DisplayName",
+          "SourceString": "Curious Pathwalker",
+          "LocalizedString": "Curious Pathwalker"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FightKing": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FightKing"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.FightKing_DisplayName",
+          "SourceString": "Warrior God",
+          "LocalizedString": "Warrior God"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.QuietMetal": {
+        "tag": {
+          "TagName": "Cosmetics.Set.QuietMetal"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.QuietMetal_DisplayName",
+          "SourceString": "Silence is Golden",
+          "LocalizedString": "Silence is Golden"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GildedRuler": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GildedRuler"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.GildedRuler_DisplayName",
+          "SourceString": "Golden King",
+          "LocalizedString": "Golden King"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BumpyClouds": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BumpyClouds"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BumpyClouds_DisplayName",
+          "SourceString": "Turbulent Sky",
+          "LocalizedString": "Turbulent Sky"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BloomCat": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BloomCat"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BloomCat_DisplayName",
+          "SourceString": "Blossoming Nyanjitsu",
+          "LocalizedString": "Blossoming Nyanjitsu"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlockyFN": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BlockyFN"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "Cosmetics.Set.BlockyFN_DisplayName",
+          "SourceString": "LEGO® Fortnite",
+          "LocalizedString": "LEGO® Fortnite"
         },
         "Description": {
           "CultureInvariantString": null

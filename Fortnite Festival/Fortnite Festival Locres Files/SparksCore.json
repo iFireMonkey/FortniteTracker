@@ -1,12 +1,7 @@
 {
-  "SparksSetting": {
-    "GameplayMusicVolume_Description": "Adjusts the volume of gameplay music in Festival.",
-    "SparksAudio_Name": "Festival",
-    "GameplayMusicVolume_Name": "Gameplay Music"
-  },
   "SparksSongItemDetails": {
     "RarityDisplayText": "Jam Track",
     "SparksSongCosmeticRatingRestriction": "This Jam Track contains lyrics that may not be suitable for all ages. Only the instrumental loops will be available when jamming in islands rated {0} or lower, not the lyrics.",
-    "ItemCategoryName": "| {Year} | {Duration}"
+    "ItemCategoryName": "{Year} | {Duration}"
   }
 }

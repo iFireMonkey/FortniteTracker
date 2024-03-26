@@ -51345,6 +51345,78 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W09_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w09",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W09_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w09",
+        "TemplateId": "HomebaseBannerIcon:brs29_stw_moonrock",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W10_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w10",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W10_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w10",
+        "TemplateId": "AthenaDance:spray_stw_gnomerave",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W11_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w11",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W11_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w11",
+        "TemplateId": "AthenaDance:spray_stw_blastersmasher",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W12_001": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w12",
+        "TemplateId": "STWAccoladeReward:stwaccolade_quest_hordev3_weekly",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HordeV3_Quest_Weekly_W12_002": {
+        "QuestTemplateId": "Quest:hordev3_quest_weekly_w12",
+        "TemplateId": "HomebaseBannerIcon:brs29_stw_volcano",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

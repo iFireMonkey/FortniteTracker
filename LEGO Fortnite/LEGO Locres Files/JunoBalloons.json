@@ -1,8 +1,6 @@
 {
   "": {
     "589BC8C545D9D766C0F02DAA67AF848E": "Attach bigger balloons and take to the skies!",
-    "59F271554015E0F6AA077DBB3DF08AB7": "Balloon",
-    "0FD92341405BD7C7319784B8845DA5EC": "Balloon Large",
     "644DE9964A9EB1D0E32D6CB2C74B7685": "Whatever floats your boat. In this case, a balloon. "
   },
   "Juno_GameplayItemToTagMapping": {
@@ -10,5 +8,9 @@
     "B3815C7846E7DD14D5367CAC8F99EB48": "Attach small balloons onto existing structures and dynamic objects.",
     "000401864743389FEA88AFA4F5CC7938": "Large Balloon",
     "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Small Balloon"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "BalloonLarge_DisplayName": "Large Balloon",
+    "Balloon_DisplayName": "Small Balloon"
   }
 }
