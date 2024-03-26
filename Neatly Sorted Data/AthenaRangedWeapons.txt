@@ -1478,6 +1478,66 @@ Ammo Count: 25
 Fire Rate: 3.95
 Reload Time: 1.87 Seconds
 
+Weapon ID: Assault_Sunrose_Athena_C_Ore_T00
+Player Damage (Close Range): 24.0 (36.0 Headshot)
+Player Damage (Mid Range): 19.2 (28.799999999999997 Headshot)
+Player Damage (Long Range): 16.2 (24.299999999999997 Headshot)
+Vertical Recoil: 3.85 (Controller Recoil: 1.925)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 35
+Fire Rate: 7.2
+Reload Time: 3.85 Seconds
+
+Weapon ID: Assault_Sunrose_Athena_UC_Ore_T00
+Player Damage (Close Range): 26.0 (39.0 Headshot)
+Player Damage (Mid Range): 20.8 (31.200000000000003 Headshot)
+Player Damage (Long Range): 17.55 (26.325000000000003 Headshot)
+Vertical Recoil: 3.675 (Controller Recoil: 1.8375)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 35
+Fire Rate: 7.2
+Reload Time: 3.675 Seconds
+
+Weapon ID: Assault_Sunrose_Athena_R_Ore_T00
+Player Damage (Close Range): 27.0 (40.5 Headshot)
+Player Damage (Mid Range): 21.6 (32.400000000000006 Headshot)
+Player Damage (Long Range): 18.225 (27.337500000000002 Headshot)
+Vertical Recoil: 3.5 (Controller Recoil: 1.75)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 35
+Fire Rate: 7.2
+Reload Time: 3.5 Seconds
+
+Weapon ID: Assault_Sunrose_Athena_VR_Ore_T00
+Player Damage (Close Range): 28.0 (42.0 Headshot)
+Player Damage (Mid Range): 22.4 (33.599999999999994 Headshot)
+Player Damage (Long Range): 18.9 (28.349999999999998 Headshot)
+Vertical Recoil: 3.325 (Controller Recoil: 1.6625)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 35
+Fire Rate: 7.2
+Reload Time: 3.325 Seconds
+
+Weapon ID: Assault_Sunrose_Athena_SR_Ore_T00
+Player Damage (Close Range): 30.0 (45.0 Headshot)
+Player Damage (Mid Range): 24.0 (36.0 Headshot)
+Player Damage (Long Range): 20.25 (30.375 Headshot)
+Vertical Recoil: 3.15 (Controller Recoil: 1.575)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 35
+Fire Rate: 7.2
+Reload Time: 3.15 Seconds
+
+Weapon ID: Assault_Sunrose_Athena_UR_Ore_T00
+Player Damage (Close Range): 31.0 (46.5 Headshot)
+Player Damage (Mid Range): 24.8 (37.2 Headshot)
+Player Damage (Long Range): 20.925 (31.387500000000003 Headshot)
+Vertical Recoil: 2.975 (Controller Recoil: 1.4875)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 35
+Fire Rate: 7.2
+Reload Time: 2.975 Seconds
+
 Weapon ID: Pistol_Scavenger_Athena_UC_Ore_T03
 Player Damage (Close Range): 18.0 (31.5 Headshot)
 Player Damage (Mid Range): 12.6 (22.05 Headshot)
@@ -1787,6 +1847,46 @@ Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
 Ammo Count: 26
 Fire Rate: 15.0
 Reload Time: 1.275 Seconds
+
+Weapon ID: SMG_SunRose_DrumGun_Athena_R_Ore_T03
+Player Damage (Close Range): 21.0 (31.5 Headshot)
+Player Damage (Mid Range): 18.9 (28.349999999999998 Headshot)
+Player Damage (Long Range): 17.85 (26.775000000000002 Headshot)
+Vertical Recoil: 2.9 (Controller Recoil: 2.9)
+Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
+Ammo Count: 30
+Fire Rate: 8.1
+Reload Time: 3.0 Seconds
+
+Weapon ID: SMG_SunRose_DrumGun_Athena_VR_Ore_T03
+Player Damage (Close Range): 22.0 (33.0 Headshot)
+Player Damage (Mid Range): 19.8 (29.700000000000003 Headshot)
+Player Damage (Long Range): 18.7 (28.049999999999997 Headshot)
+Vertical Recoil: 2.755 (Controller Recoil: 2.755)
+Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
+Ammo Count: 30
+Fire Rate: 8.1
+Reload Time: 2.85 Seconds
+
+Weapon ID: SMG_SunRose_DrumGun_Athena_SR_Ore_T03
+Player Damage (Close Range): 23.0 (34.5 Headshot)
+Player Damage (Mid Range): 20.7 (31.049999999999997 Headshot)
+Player Damage (Long Range): 19.55 (29.325000000000003 Headshot)
+Vertical Recoil: 2.61 (Controller Recoil: 2.61)
+Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
+Ammo Count: 30
+Fire Rate: 8.1
+Reload Time: 2.7 Seconds
+
+Weapon ID: SMG_SunRose_DrumGun_Athena_UR_Ore_T03
+Player Damage (Close Range): 23.0 (34.5 Headshot)
+Player Damage (Mid Range): 20.7 (31.049999999999997 Headshot)
+Player Damage (Long Range): 19.6 (29.400000000000002 Headshot)
+Vertical Recoil: 2.465 (Controller Recoil: 2.465)
+Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
+Ammo Count: 30
+Fire Rate: 8.3
+Reload Time: 2.55 Seconds
 
 Weapon ID: SMG_Stinger_Athena_C_Ore_T03
 Player Damage (Close Range): 15.0 (22.5 Headshot)
@@ -2337,6 +2437,76 @@ Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
 Ammo Count: 27
 Fire Rate: 3.5
 Reload Time: 1.9125 Seconds
+
+Weapon ID: SMG_SunRose_Athena_C_Ore_T03
+Player Damage (Close Range): 17.0 (25.5 Headshot)
+Player Damage (Mid Range): 11.9 (17.85 Headshot)
+Player Damage (Long Range): 9.52 (14.28 Headshot)
+Vertical Recoil: 2.2 (Controller Recoil: 1.1)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.86 Seconds
+
+Weapon ID: SMG_SunRose_Athena_UC_Ore_T03
+Player Damage (Close Range): 18.0 (27.0 Headshot)
+Player Damage (Mid Range): 12.6 (18.9 Headshot)
+Player Damage (Long Range): 10.08 (15.120000000000001 Headshot)
+Vertical Recoil: 2.1 (Controller Recoil: 1.05)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.73 Seconds
+
+Weapon ID: SMG_SunRose_Athena_R_Ore_T03
+Player Damage (Close Range): 19.0 (28.5 Headshot)
+Player Damage (Mid Range): 13.3 (19.950000000000003 Headshot)
+Player Damage (Long Range): 10.64 (15.96 Headshot)
+Vertical Recoil: 2.0 (Controller Recoil: 1.0)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.6 Seconds
+
+Weapon ID: SMG_SunRose_Athena_VR_Ore_T03
+Player Damage (Close Range): 20.0 (30.0 Headshot)
+Player Damage (Mid Range): 14.0 (21.0 Headshot)
+Player Damage (Long Range): 11.2 (16.799999999999997 Headshot)
+Vertical Recoil: 1.9 (Controller Recoil: 0.95)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.47 Seconds
+
+Weapon ID: SMG_SunRose_Athena_SR_Ore_T03
+Player Damage (Close Range): 21.0 (31.5 Headshot)
+Player Damage (Mid Range): 14.7 (22.049999999999997 Headshot)
+Player Damage (Long Range): 11.76 (17.64 Headshot)
+Vertical Recoil: 1.8 (Controller Recoil: 0.9)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.34 Seconds
+
+Weapon ID: SMG_SunRose_Athena_UR_Ore_T03
+Player Damage (Close Range): 22.0 (33.0 Headshot)
+Player Damage (Mid Range): 15.4 (23.1 Headshot)
+Player Damage (Long Range): 12.32 (18.48 Headshot)
+Vertical Recoil: 1.7 (Controller Recoil: 0.85)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.21 Seconds
+
+Weapon ID: SMG_SunRose_Boss_Athena_UR_Ore_T03
+Player Damage (Close Range): 23.0 (34.5 Headshot)
+Player Damage (Mid Range): 16.1 (24.150000000000002 Headshot)
+Player Damage (Long Range): 12.88 (19.32 Headshot)
+Vertical Recoil: 1.7 (Controller Recoil: 0.85)
+Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
+Ammo Count: 30
+Fire Rate: 9.5
+Reload Time: 2.21 Seconds
 
 Weapon ID: SMG_Undefeated_RayGun_Athena_R_Ore_T03
 Player Damage (Close Range): 11.0 (13.75 Headshot)
@@ -4608,6 +4778,66 @@ Ammo Count: 8
 Fire Rate: 2.5
 Reload Time: 3.995 Seconds
 
+Weapon ID: Shotgun_Gatekeeper_Athena_C_Ore_T03
+Player Damage (Close Range): 76.0 (114.0 Headshot)
+Player Damage (Mid Range): 57.0 (85.5 Headshot)
+Player Damage (Long Range): 26.6 (39.900000000000006 Headshot)
+Vertical Recoil: 5.5 (Controller Recoil: 4.125)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.75 Seconds
+
+Weapon ID: Shotgun_Gatekeeper_Athena_UC_Ore_T03
+Player Damage (Close Range): 80.0 (120.0 Headshot)
+Player Damage (Mid Range): 60.0 (90.0 Headshot)
+Player Damage (Long Range): 28.0 (42.0 Headshot)
+Vertical Recoil: 5.25 (Controller Recoil: 3.9375)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.625 Seconds
+
+Weapon ID: Shotgun_Gatekeeper_Athena_R_Ore_T03
+Player Damage (Close Range): 84.0 (126.0 Headshot)
+Player Damage (Mid Range): 63.0 (94.5 Headshot)
+Player Damage (Long Range): 29.4 (44.099999999999994 Headshot)
+Vertical Recoil: 5.0 (Controller Recoil: 3.75)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.5 Seconds
+
+Weapon ID: Shotgun_Gatekeeper_Athena_VR_Ore_T03
+Player Damage (Close Range): 88.0 (132.0 Headshot)
+Player Damage (Mid Range): 66.0 (99.0 Headshot)
+Player Damage (Long Range): 30.8 (46.2 Headshot)
+Vertical Recoil: 4.75 (Controller Recoil: 3.5625)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.375 Seconds
+
+Weapon ID: Shotgun_Gatekeeper_Athena_SR_Ore_T03
+Player Damage (Close Range): 92.0 (138.0 Headshot)
+Player Damage (Mid Range): 69.0 (103.5 Headshot)
+Player Damage (Long Range): 32.2 (48.300000000000004 Headshot)
+Vertical Recoil: 4.5 (Controller Recoil: 3.375)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.25 Seconds
+
+Weapon ID: Shotgun_Gatekeeper_Athena_UR_Ore_T03
+Player Damage (Close Range): 97.0 (145.5 Headshot)
+Player Damage (Mid Range): 72.75 (109.125 Headshot)
+Player Damage (Long Range): 33.95 (50.925000000000004 Headshot)
+Vertical Recoil: 4.25 (Controller Recoil: 3.1875)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.125 Seconds
+
 Weapon ID: Sniper_BoltAction_Hunter_Athena_C_Ore_T03
 Player Damage (Close Range): 90.0 (225.0 Headshot)
 Player Damage (Mid Range): 90.0 (225.0 Headshot)
@@ -5477,6 +5707,66 @@ Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
 Ammo Count: 20
 Fire Rate: 20.0
 Reload Time: 2.997 Seconds
+
+Weapon ID: DMR_SunRose_Athena_C_Ore_T03
+Player Damage (Close Range): 58.0 (101.5 Headshot)
+Player Damage (Mid Range): 55.1 (96.425 Headshot)
+Player Damage (Long Range): 52.2 (91.35000000000001 Headshot)
+Vertical Recoil: 14.465 (Controller Recoil: 11.572000000000001)
+Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
+Ammo Count: 7
+Fire Rate: 1.46
+Reload Time: 2.805 Seconds
+
+Weapon ID: DMR_SunRose_Athena_UC_Ore_T03
+Player Damage (Close Range): 61.0 (106.75 Headshot)
+Player Damage (Mid Range): 57.95 (101.41250000000001 Headshot)
+Player Damage (Long Range): 54.9 (96.075 Headshot)
+Vertical Recoil: 13.8075 (Controller Recoil: 11.046)
+Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
+Ammo Count: 7
+Fire Rate: 1.46
+Reload Time: 2.6775 Seconds
+
+Weapon ID: DMR_SunRose_Athena_R_Ore_T03
+Player Damage (Close Range): 64.0 (112.0 Headshot)
+Player Damage (Mid Range): 60.8 (106.39999999999999 Headshot)
+Player Damage (Long Range): 57.6 (100.8 Headshot)
+Vertical Recoil: 13.15 (Controller Recoil: 10.520000000000001)
+Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
+Ammo Count: 7
+Fire Rate: 1.46
+Reload Time: 2.55 Seconds
+
+Weapon ID: DMR_SunRose_Athena_VR_Ore_T03
+Player Damage (Close Range): 67.0 (117.25 Headshot)
+Player Damage (Mid Range): 63.65 (111.3875 Headshot)
+Player Damage (Long Range): 60.3 (105.52499999999999 Headshot)
+Vertical Recoil: 12.4925 (Controller Recoil: 9.994)
+Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
+Ammo Count: 7
+Fire Rate: 1.46
+Reload Time: 2.4225 Seconds
+
+Weapon ID: DMR_SunRose_Athena_SR_Ore_T03
+Player Damage (Close Range): 70.0 (122.5 Headshot)
+Player Damage (Mid Range): 66.5 (116.375 Headshot)
+Player Damage (Long Range): 63.0 (110.25 Headshot)
+Vertical Recoil: 11.835 (Controller Recoil: 9.468000000000002)
+Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
+Ammo Count: 7
+Fire Rate: 1.46
+Reload Time: 2.295 Seconds
+
+Weapon ID: DMR_SunRose_Athena_UR_Ore_T03
+Player Damage (Close Range): 75.0 (131.25 Headshot)
+Player Damage (Mid Range): 71.0 (124.25 Headshot)
+Player Damage (Long Range): 67.0 (117.25 Headshot)
+Vertical Recoil: 11.1775 (Controller Recoil: 8.942)
+Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
+Ammo Count: 7
+Fire Rate: 1.46
+Reload Time: 2.1675 Seconds
 
 Weapon ID: DMR_Excaliber_Athena_C_Ore_T03
 Player Damage (Close Range): 35.0 (87.5 Headshot)
@@ -7056,7 +7346,7 @@ Vertical Recoil: 2.2 (Controller Recoil: 1.1)
 Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
 Ammo Count: 30
 Fire Rate: 9.5
-Reload Time: 3.52 Seconds
+Reload Time: 2.86 Seconds
 
 Weapon ID: TestWeap9_Athena_UC_Ore_T03
 Player Damage (Close Range): 18.0 (27.0 Headshot)
@@ -7066,7 +7356,7 @@ Vertical Recoil: 2.1 (Controller Recoil: 1.05)
 Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
 Ammo Count: 30
 Fire Rate: 9.5
-Reload Time: 3.36 Seconds
+Reload Time: 2.73 Seconds
 
 Weapon ID: TestWeap9_Athena_R_Ore_T03
 Player Damage (Close Range): 19.0 (28.5 Headshot)
@@ -7076,7 +7366,7 @@ Vertical Recoil: 2.0 (Controller Recoil: 1.0)
 Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
 Ammo Count: 30
 Fire Rate: 9.5
-Reload Time: 3.2 Seconds
+Reload Time: 2.6 Seconds
 
 Weapon ID: TestWeap9_Athena_VR_Ore_T03
 Player Damage (Close Range): 20.0 (30.0 Headshot)
@@ -7086,7 +7376,7 @@ Vertical Recoil: 1.9 (Controller Recoil: 0.95)
 Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
 Ammo Count: 30
 Fire Rate: 9.5
-Reload Time: 3.04 Seconds
+Reload Time: 2.47 Seconds
 
 Weapon ID: TestWeap9_Athena_SR_Ore_T03
 Player Damage (Close Range): 21.0 (31.5 Headshot)
@@ -7096,7 +7386,7 @@ Vertical Recoil: 1.8 (Controller Recoil: 0.9)
 Horizontal Recoil: 1.45 (Controller Recoil: 1.45)
 Ammo Count: 30
 Fire Rate: 9.5
-Reload Time: 2.88 Seconds
+Reload Time: 2.34 Seconds
 
 Weapon ID: TestWeap10_Athena_C_Ore_T03
 Player Damage (Close Range): 99.0 (247.5 Headshot)
@@ -7209,69 +7499,69 @@ Fire Rate: 6.6
 Reload Time: 1.53 Seconds
 
 Weapon ID: TestWeap12_Athena_C_Ore_T03
-Player Damage (Close Range): 15.0 (26.25 Headshot)
-Player Damage (Mid Range): 10.5 (18.375 Headshot)
-Player Damage (Long Range): 6.75 (11.8125 Headshot)
+Player Damage (Close Range): 21.0 (36.75 Headshot)
+Player Damage (Mid Range): 14.7 (25.724999999999998 Headshot)
+Player Damage (Long Range): 9.45 (16.537499999999998 Headshot)
 Vertical Recoil: 1.65 (Controller Recoil: 1.2374999999999998)
 Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
-Ammo Count: 40
-Fire Rate: 10.0
-Reload Time: 4.84 Seconds
+Ammo Count: 25
+Fire Rate: 8.0
+Reload Time: 3.08 Seconds
 
 Weapon ID: TestWeap12_Athena_UC_Ore_T03
-Player Damage (Close Range): 16.0 (28.0 Headshot)
-Player Damage (Mid Range): 11.2 (19.599999999999998 Headshot)
-Player Damage (Long Range): 7.2 (12.6 Headshot)
+Player Damage (Close Range): 22.0 (38.5 Headshot)
+Player Damage (Mid Range): 15.4 (26.95 Headshot)
+Player Damage (Long Range): 9.9 (17.325 Headshot)
 Vertical Recoil: 1.575 (Controller Recoil: 1.18125)
 Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
-Ammo Count: 40
-Fire Rate: 10.0
-Reload Time: 4.62 Seconds
+Ammo Count: 25
+Fire Rate: 8.0
+Reload Time: 2.94 Seconds
 
 Weapon ID: TestWeap12_Athena_R_Ore_T03
-Player Damage (Close Range): 17.0 (29.75 Headshot)
-Player Damage (Mid Range): 11.9 (20.825 Headshot)
-Player Damage (Long Range): 7.65 (13.387500000000001 Headshot)
+Player Damage (Close Range): 23.0 (40.25 Headshot)
+Player Damage (Mid Range): 16.1 (28.175000000000004 Headshot)
+Player Damage (Long Range): 10.35 (18.1125 Headshot)
 Vertical Recoil: 1.5 (Controller Recoil: 1.125)
 Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
-Ammo Count: 40
-Fire Rate: 10.0
-Reload Time: 4.4 Seconds
+Ammo Count: 25
+Fire Rate: 8.0
+Reload Time: 2.8 Seconds
 
 Weapon ID: TestWeap12_Athena_VR_Ore_T03
-Player Damage (Close Range): 18.0 (31.5 Headshot)
-Player Damage (Mid Range): 12.6 (22.05 Headshot)
-Player Damage (Long Range): 8.1 (14.174999999999999 Headshot)
+Player Damage (Close Range): 24.0 (42.0 Headshot)
+Player Damage (Mid Range): 16.8 (29.400000000000002 Headshot)
+Player Damage (Long Range): 10.8 (18.900000000000002 Headshot)
 Vertical Recoil: 1.425 (Controller Recoil: 1.06875)
 Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
-Ammo Count: 40
-Fire Rate: 10.0
-Reload Time: 4.18 Seconds
+Ammo Count: 25
+Fire Rate: 8.0
+Reload Time: 2.66 Seconds
 
 Weapon ID: TestWeap12_Athena_SR_Ore_T03
-Player Damage (Close Range): 19.0 (33.25 Headshot)
-Player Damage (Mid Range): 13.3 (23.275000000000002 Headshot)
-Player Damage (Long Range): 8.55 (14.962500000000002 Headshot)
+Player Damage (Close Range): 25.0 (43.75 Headshot)
+Player Damage (Mid Range): 17.5 (30.625 Headshot)
+Player Damage (Long Range): 11.25 (19.6875 Headshot)
 Vertical Recoil: 1.35 (Controller Recoil: 1.0125000000000002)
 Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
-Ammo Count: 40
-Fire Rate: 10.0
-Reload Time: 3.96 Seconds
+Ammo Count: 25
+Fire Rate: 8.0
+Reload Time: 2.52 Seconds
 
 Weapon ID: TestWeap12_Athena_UR_Ore_T03
-Player Damage (Close Range): 20.0 (35.0 Headshot)
-Player Damage (Mid Range): 14.0 (24.5 Headshot)
-Player Damage (Long Range): 9.0 (15.75 Headshot)
+Player Damage (Close Range): 26.0 (45.5 Headshot)
+Player Damage (Mid Range): 18.2 (31.849999999999998 Headshot)
+Player Damage (Long Range): 11.7 (20.474999999999998 Headshot)
 Vertical Recoil: 1.275 (Controller Recoil: 0.9562499999999999)
 Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
-Ammo Count: 40
-Fire Rate: 10.0
-Reload Time: 3.74 Seconds
+Ammo Count: 25
+Fire Rate: 8.0
+Reload Time: 2.38 Seconds
 
 Weapon ID: TestWeap13_Athena_C_Ore_T03
 Player Damage (Close Range): 76.0 (114.0 Headshot)
-Player Damage (Mid Range): 53.96 (80.94 Headshot)
-Player Damage (Long Range): 19.0 (28.5 Headshot)
+Player Damage (Mid Range): 57.0 (85.5 Headshot)
+Player Damage (Long Range): 26.6 (39.900000000000006 Headshot)
 Vertical Recoil: 5.5 (Controller Recoil: 4.125)
 Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
 Ammo Count: 3
@@ -7280,8 +7570,8 @@ Reload Time: 2.75 Seconds
 
 Weapon ID: TestWeap13_Athena_UC_Ore_T03
 Player Damage (Close Range): 80.0 (120.0 Headshot)
-Player Damage (Mid Range): 56.8 (85.19999999999999 Headshot)
-Player Damage (Long Range): 20.0 (30.0 Headshot)
+Player Damage (Mid Range): 60.0 (90.0 Headshot)
+Player Damage (Long Range): 28.0 (42.0 Headshot)
 Vertical Recoil: 5.25 (Controller Recoil: 3.9375)
 Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
 Ammo Count: 3
@@ -7290,8 +7580,8 @@ Reload Time: 2.625 Seconds
 
 Weapon ID: TestWeap13_Athena_R_Ore_T03
 Player Damage (Close Range): 84.0 (126.0 Headshot)
-Player Damage (Mid Range): 59.64 (89.46000000000001 Headshot)
-Player Damage (Long Range): 21.0 (31.5 Headshot)
+Player Damage (Mid Range): 63.0 (94.5 Headshot)
+Player Damage (Long Range): 29.4 (44.099999999999994 Headshot)
 Vertical Recoil: 5.0 (Controller Recoil: 3.75)
 Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
 Ammo Count: 3
@@ -7300,8 +7590,8 @@ Reload Time: 2.5 Seconds
 
 Weapon ID: TestWeap13_Athena_VR_Ore_T03
 Player Damage (Close Range): 88.0 (132.0 Headshot)
-Player Damage (Mid Range): 62.480000000000004 (93.72 Headshot)
-Player Damage (Long Range): 22.0 (33.0 Headshot)
+Player Damage (Mid Range): 66.0 (99.0 Headshot)
+Player Damage (Long Range): 30.8 (46.2 Headshot)
 Vertical Recoil: 4.75 (Controller Recoil: 3.5625)
 Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
 Ammo Count: 3
@@ -7310,79 +7600,89 @@ Reload Time: 2.375 Seconds
 
 Weapon ID: TestWeap13_Athena_SR_Ore_T03
 Player Damage (Close Range): 92.0 (138.0 Headshot)
-Player Damage (Mid Range): 65.32 (97.97999999999999 Headshot)
-Player Damage (Long Range): 23.0 (34.5 Headshot)
+Player Damage (Mid Range): 69.0 (103.5 Headshot)
+Player Damage (Long Range): 32.2 (48.300000000000004 Headshot)
 Vertical Recoil: 4.5 (Controller Recoil: 3.375)
 Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
 Ammo Count: 3
 Fire Rate: 1.7
 Reload Time: 2.25 Seconds
 
+Weapon ID: TestWeap13_Athena_UR_Ore_T03
+Player Damage (Close Range): 97.0 (145.5 Headshot)
+Player Damage (Mid Range): 72.75 (109.125 Headshot)
+Player Damage (Long Range): 33.95 (50.925000000000004 Headshot)
+Vertical Recoil: 4.25 (Controller Recoil: 3.1875)
+Horizontal Recoil: 1.0 (Controller Recoil: 1.0)
+Ammo Count: 3
+Fire Rate: 1.7
+Reload Time: 2.125 Seconds
+
 Weapon ID: TestWeap14_Athena_C_Ore_T03
-Player Damage (Close Range): 77.0 (138.6 Headshot)
-Player Damage (Mid Range): 53.9 (97.02 Headshot)
-Player Damage (Long Range): 51.359 (92.4462 Headshot)
+Player Damage (Close Range): 67.0 (120.60000000000001 Headshot)
+Player Damage (Mid Range): 46.9 (84.42 Headshot)
+Player Damage (Long Range): 44.689 (80.4402 Headshot)
 Vertical Recoil: 3.52 (Controller Recoil: 2.64)
 Horizontal Recoil: 0.75 (Controller Recoil: 0.75)
 Ammo Count: 7
-Fire Rate: 0.55
+Fire Rate: 0.7
 Reload Time: 2.42 Seconds
 
 Weapon ID: TestWeap14_Athena_UC_Ore_T03
-Player Damage (Close Range): 81.0 (145.8 Headshot)
-Player Damage (Mid Range): 56.7 (102.06 Headshot)
-Player Damage (Long Range): 54.027 (97.24860000000001 Headshot)
+Player Damage (Close Range): 70.0 (126.0 Headshot)
+Player Damage (Mid Range): 49.0 (88.2 Headshot)
+Player Damage (Long Range): 46.69 (84.042 Headshot)
 Vertical Recoil: 3.36 (Controller Recoil: 2.52)
 Horizontal Recoil: 0.75 (Controller Recoil: 0.75)
 Ammo Count: 7
-Fire Rate: 0.55
+Fire Rate: 0.7
 Reload Time: 2.31 Seconds
 
 Weapon ID: TestWeap14_Athena_R_Ore_T03
-Player Damage (Close Range): 85.0 (153.0 Headshot)
-Player Damage (Mid Range): 59.5 (107.10000000000001 Headshot)
-Player Damage (Long Range): 56.695 (102.051 Headshot)
+Player Damage (Close Range): 74.0 (133.20000000000002 Headshot)
+Player Damage (Mid Range): 51.8 (93.24 Headshot)
+Player Damage (Long Range): 49.358 (88.8444 Headshot)
 Vertical Recoil: 3.2 (Controller Recoil: 2.4000000000000004)
 Horizontal Recoil: 0.75 (Controller Recoil: 0.75)
 Ammo Count: 7
-Fire Rate: 0.55
+Fire Rate: 0.7
 Reload Time: 2.2 Seconds
 
 Weapon ID: TestWeap14_Athena_VR_Ore_T03
-Player Damage (Close Range): 89.0 (160.20000000000002 Headshot)
-Player Damage (Mid Range): 62.3 (112.14 Headshot)
-Player Damage (Long Range): 59.363 (106.85340000000001 Headshot)
+Player Damage (Close Range): 78.0 (140.4 Headshot)
+Player Damage (Mid Range): 54.6 (98.28 Headshot)
+Player Damage (Long Range): 52.026 (93.64680000000001 Headshot)
 Vertical Recoil: 3.04 (Controller Recoil: 2.2800000000000002)
 Horizontal Recoil: 0.75 (Controller Recoil: 0.75)
 Ammo Count: 7
-Fire Rate: 0.55
+Fire Rate: 0.7
 Reload Time: 2.09 Seconds
 
 Weapon ID: TestWeap14_Athena_SR_Ore_T03
-Player Damage (Close Range): 94.0 (169.20000000000002 Headshot)
-Player Damage (Mid Range): 65.8 (118.44 Headshot)
-Player Damage (Long Range): 62.698 (112.85640000000001 Headshot)
+Player Damage (Close Range): 81.0 (145.8 Headshot)
+Player Damage (Mid Range): 56.7 (102.06 Headshot)
+Player Damage (Long Range): 54.027 (97.24860000000001 Headshot)
 Vertical Recoil: 2.88 (Controller Recoil: 2.16)
 Horizontal Recoil: 0.75 (Controller Recoil: 0.75)
 Ammo Count: 7
-Fire Rate: 0.55
+Fire Rate: 0.7
 Reload Time: 1.98 Seconds
 
 Weapon ID: TestWeap14_Athena_UR_Ore_T03
-Player Damage (Close Range): 98.0 (176.4 Headshot)
-Player Damage (Mid Range): 68.6 (123.47999999999999 Headshot)
-Player Damage (Long Range): 65.366 (117.6588 Headshot)
+Player Damage (Close Range): 85.0 (153.0 Headshot)
+Player Damage (Mid Range): 59.5 (107.10000000000001 Headshot)
+Player Damage (Long Range): 56.695 (102.051 Headshot)
 Vertical Recoil: 2.72 (Controller Recoil: 2.04)
 Horizontal Recoil: 0.75 (Controller Recoil: 0.75)
 Ammo Count: 7
-Fire Rate: 0.55
+Fire Rate: 0.7
 Reload Time: 1.87 Seconds
 
 Weapon ID: TestWeap15_Athena_C_Ore_T03
 Player Damage (Close Range): 58.0 (101.5 Headshot)
 Player Damage (Mid Range): 55.1 (96.425 Headshot)
 Player Damage (Long Range): 52.2 (91.35000000000001 Headshot)
-Vertical Recoil: 8.305 (Controller Recoil: 6.644)
+Vertical Recoil: 14.465 (Controller Recoil: 11.572000000000001)
 Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
 Ammo Count: 7
 Fire Rate: 1.46
@@ -7392,7 +7692,7 @@ Weapon ID: TestWeap15_Athena_UC_Ore_T03
 Player Damage (Close Range): 61.0 (106.75 Headshot)
 Player Damage (Mid Range): 57.95 (101.41250000000001 Headshot)
 Player Damage (Long Range): 54.9 (96.075 Headshot)
-Vertical Recoil: 7.9275 (Controller Recoil: 6.3420000000000005)
+Vertical Recoil: 13.8075 (Controller Recoil: 11.046)
 Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
 Ammo Count: 7
 Fire Rate: 1.46
@@ -7402,7 +7702,7 @@ Weapon ID: TestWeap15_Athena_R_Ore_T03
 Player Damage (Close Range): 64.0 (112.0 Headshot)
 Player Damage (Mid Range): 60.8 (106.39999999999999 Headshot)
 Player Damage (Long Range): 57.6 (100.8 Headshot)
-Vertical Recoil: 7.55 (Controller Recoil: 6.04)
+Vertical Recoil: 13.15 (Controller Recoil: 10.520000000000001)
 Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
 Ammo Count: 7
 Fire Rate: 1.46
@@ -7412,7 +7712,7 @@ Weapon ID: TestWeap15_Athena_VR_Ore_T03
 Player Damage (Close Range): 67.0 (117.25 Headshot)
 Player Damage (Mid Range): 63.65 (111.3875 Headshot)
 Player Damage (Long Range): 60.3 (105.52499999999999 Headshot)
-Vertical Recoil: 7.1725 (Controller Recoil: 5.738)
+Vertical Recoil: 12.4925 (Controller Recoil: 9.994)
 Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
 Ammo Count: 7
 Fire Rate: 1.46
@@ -7422,7 +7722,7 @@ Weapon ID: TestWeap15_Athena_SR_Ore_T03
 Player Damage (Close Range): 70.0 (122.5 Headshot)
 Player Damage (Mid Range): 66.5 (116.375 Headshot)
 Player Damage (Long Range): 63.0 (110.25 Headshot)
-Vertical Recoil: 6.795 (Controller Recoil: 5.436)
+Vertical Recoil: 11.835 (Controller Recoil: 9.468000000000002)
 Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
 Ammo Count: 7
 Fire Rate: 1.46
@@ -7432,70 +7732,70 @@ Weapon ID: TestWeap15_Athena_UR_Ore_T03
 Player Damage (Close Range): 74.0 (129.5 Headshot)
 Player Damage (Mid Range): 70.3 (123.02499999999999 Headshot)
 Player Damage (Long Range): 66.6 (116.54999999999998 Headshot)
-Vertical Recoil: 6.4175 (Controller Recoil: 5.134)
+Vertical Recoil: 11.1775 (Controller Recoil: 8.942)
 Horizontal Recoil: 1.25 (Controller Recoil: 0.625)
 Ammo Count: 7
 Fire Rate: 1.46
 Reload Time: 2.1675 Seconds
 
 Weapon ID: TestWeap16_Athena_C_Ore_T03
-Player Damage (Close Range): 20.0 (30.0 Headshot)
-Player Damage (Mid Range): 18.0 (27.0 Headshot)
-Player Damage (Long Range): 17.0 (25.5 Headshot)
+Player Damage (Close Range): 19.0 (28.5 Headshot)
+Player Damage (Mid Range): 17.1 (25.650000000000002 Headshot)
+Player Damage (Long Range): 16.15 (24.224999999999998 Headshot)
 Vertical Recoil: 3.19 (Controller Recoil: 3.19)
 Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
 Ammo Count: 30
-Fire Rate: 7.7
+Fire Rate: 8.1
 Reload Time: 3.3 Seconds
 
 Weapon ID: TestWeap16_Athena_UC_Ore_T03
-Player Damage (Close Range): 21.0 (31.5 Headshot)
-Player Damage (Mid Range): 18.9 (28.349999999999998 Headshot)
-Player Damage (Long Range): 17.85 (26.775000000000002 Headshot)
+Player Damage (Close Range): 20.0 (30.0 Headshot)
+Player Damage (Mid Range): 18.0 (27.0 Headshot)
+Player Damage (Long Range): 17.0 (25.5 Headshot)
 Vertical Recoil: 3.045 (Controller Recoil: 3.045)
 Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
 Ammo Count: 30
-Fire Rate: 7.7
+Fire Rate: 8.1
 Reload Time: 3.15 Seconds
 
 Weapon ID: TestWeap16_Athena_R_Ore_T03
-Player Damage (Close Range): 22.0 (33.0 Headshot)
-Player Damage (Mid Range): 19.8 (29.700000000000003 Headshot)
-Player Damage (Long Range): 18.7 (28.049999999999997 Headshot)
+Player Damage (Close Range): 21.0 (31.5 Headshot)
+Player Damage (Mid Range): 18.9 (28.349999999999998 Headshot)
+Player Damage (Long Range): 17.85 (26.775000000000002 Headshot)
 Vertical Recoil: 2.9 (Controller Recoil: 2.9)
 Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
 Ammo Count: 30
-Fire Rate: 7.7
+Fire Rate: 8.1
 Reload Time: 3.0 Seconds
 
 Weapon ID: TestWeap16_Athena_VR_Ore_T03
-Player Damage (Close Range): 23.0 (34.5 Headshot)
-Player Damage (Mid Range): 20.7 (31.049999999999997 Headshot)
-Player Damage (Long Range): 19.55 (29.325000000000003 Headshot)
+Player Damage (Close Range): 22.0 (33.0 Headshot)
+Player Damage (Mid Range): 19.8 (29.700000000000003 Headshot)
+Player Damage (Long Range): 18.7 (28.049999999999997 Headshot)
 Vertical Recoil: 2.755 (Controller Recoil: 2.755)
 Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
 Ammo Count: 30
-Fire Rate: 7.7
+Fire Rate: 8.1
 Reload Time: 2.85 Seconds
 
 Weapon ID: TestWeap16_Athena_SR_Ore_T03
-Player Damage (Close Range): 24.0 (36.0 Headshot)
-Player Damage (Mid Range): 21.6 (32.400000000000006 Headshot)
-Player Damage (Long Range): 20.4 (30.599999999999998 Headshot)
+Player Damage (Close Range): 23.0 (34.5 Headshot)
+Player Damage (Mid Range): 20.7 (31.049999999999997 Headshot)
+Player Damage (Long Range): 19.55 (29.325000000000003 Headshot)
 Vertical Recoil: 2.61 (Controller Recoil: 2.61)
 Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
 Ammo Count: 30
-Fire Rate: 7.7
+Fire Rate: 8.1
 Reload Time: 2.7 Seconds
 
 Weapon ID: TestWeap16_Athena_UR_Ore_T03
-Player Damage (Close Range): 25.0 (37.5 Headshot)
-Player Damage (Mid Range): 22.5 (33.75 Headshot)
-Player Damage (Long Range): 21.25 (31.875 Headshot)
+Player Damage (Close Range): 24.0 (36.0 Headshot)
+Player Damage (Mid Range): 21.6 (32.400000000000006 Headshot)
+Player Damage (Long Range): 20.4 (30.599999999999998 Headshot)
 Vertical Recoil: 2.465 (Controller Recoil: 2.465)
 Horizontal Recoil: 2.2 (Controller Recoil: 1.54)
 Ammo Count: 30
-Fire Rate: 7.7
+Fire Rate: 8.1
 Reload Time: 2.55 Seconds
 
 Weapon ID: TestWeap17_Athena_C_Ore_T03
@@ -7619,64 +7919,64 @@ Fire Rate: 1.0
 Reload Time: 0.0 Seconds
 
 Weapon ID: TestWeap19_Athena_C_Ore_T03
-Player Damage (Close Range): 76.5 (133.875 Headshot)
-Player Damage (Mid Range): 45.9 (80.325 Headshot)
-Player Damage (Long Range): 38.25 (66.9375 Headshot)
-Vertical Recoil: 8.8 (Controller Recoil: 6.6000000000000005)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 5.5 Seconds
+Player Damage (Close Range): 113.0 (203.4 Headshot)
+Player Damage (Mid Range): 113.0 (203.4 Headshot)
+Player Damage (Long Range): 113.0 (203.4 Headshot)
+Vertical Recoil: 4.4 (Controller Recoil: 3.3000000000000003)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
+Ammo Count: 2
+Fire Rate: 0.8
+Reload Time: 4.4 Seconds
 
 Weapon ID: TestWeap19_Athena_UC_Ore_T03
-Player Damage (Close Range): 80.10000000000001 (140.175 Headshot)
-Player Damage (Mid Range): 48.06 (84.105 Headshot)
-Player Damage (Long Range): 40.050000000000004 (70.0875 Headshot)
-Vertical Recoil: 8.4 (Controller Recoil: 6.300000000000001)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 5.25 Seconds
+Player Damage (Close Range): 119.0 (214.20000000000002 Headshot)
+Player Damage (Mid Range): 119.0 (214.20000000000002 Headshot)
+Player Damage (Long Range): 119.0 (214.20000000000002 Headshot)
+Vertical Recoil: 4.2 (Controller Recoil: 3.1500000000000004)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
+Ammo Count: 2
+Fire Rate: 0.8
+Reload Time: 4.2 Seconds
 
 Weapon ID: TestWeap19_Athena_R_Ore_T03
-Player Damage (Close Range): 84.60000000000001 (148.05 Headshot)
-Player Damage (Mid Range): 50.76 (88.83 Headshot)
-Player Damage (Long Range): 42.300000000000004 (74.025 Headshot)
-Vertical Recoil: 8.0 (Controller Recoil: 6.0)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 5.0 Seconds
+Player Damage (Close Range): 125.0 (225.0 Headshot)
+Player Damage (Mid Range): 125.0 (225.0 Headshot)
+Player Damage (Long Range): 125.0 (225.0 Headshot)
+Vertical Recoil: 4.0 (Controller Recoil: 3.0)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
+Ammo Count: 2
+Fire Rate: 0.8
+Reload Time: 4.0 Seconds
 
 Weapon ID: TestWeap19_Athena_VR_Ore_T03
-Player Damage (Close Range): 89.10000000000001 (155.925 Headshot)
-Player Damage (Mid Range): 53.46 (93.555 Headshot)
-Player Damage (Long Range): 44.550000000000004 (77.9625 Headshot)
-Vertical Recoil: 7.6 (Controller Recoil: 5.699999999999999)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 4.75 Seconds
+Player Damage (Close Range): 131.0 (235.8 Headshot)
+Player Damage (Mid Range): 131.0 (235.8 Headshot)
+Player Damage (Long Range): 131.0 (235.8 Headshot)
+Vertical Recoil: 3.8 (Controller Recoil: 2.8499999999999996)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
+Ammo Count: 2
+Fire Rate: 0.8
+Reload Time: 3.8 Seconds
 
 Weapon ID: TestWeap19_Athena_SR_Ore_T03
-Player Damage (Close Range): 92.7 (162.225 Headshot)
-Player Damage (Mid Range): 55.62 (97.335 Headshot)
-Player Damage (Long Range): 46.35 (81.1125 Headshot)
-Vertical Recoil: 7.2 (Controller Recoil: 5.4)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 4.5 Seconds
+Player Damage (Close Range): 138.0 (248.4 Headshot)
+Player Damage (Mid Range): 138.0 (248.4 Headshot)
+Player Damage (Long Range): 138.0 (248.4 Headshot)
+Vertical Recoil: 3.6 (Controller Recoil: 2.7)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
+Ammo Count: 2
+Fire Rate: 0.8
+Reload Time: 3.6 Seconds
 
 Weapon ID: TestWeap19_Athena_UR_Ore_T03
-Player Damage (Close Range): 97.2 (170.1 Headshot)
-Player Damage (Mid Range): 58.32000000000001 (102.06000000000002 Headshot)
-Player Damage (Long Range): 48.6 (85.05 Headshot)
-Vertical Recoil: 6.8 (Controller Recoil: 5.1)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 4.25 Seconds
+Player Damage (Close Range): 144.0 (259.2 Headshot)
+Player Damage (Mid Range): 144.0 (259.2 Headshot)
+Player Damage (Long Range): 144.0 (259.2 Headshot)
+Vertical Recoil: 3.4 (Controller Recoil: 2.55)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
+Ammo Count: 2
+Fire Rate: 0.8
+Reload Time: 3.4 Seconds
 
 Weapon ID: TestWeap20_Athena_C_Ore_T03
 Player Damage (Close Range): 16.0 (24.0 Headshot)
@@ -7739,114 +8039,114 @@ Fire Rate: 9.5
 Reload Time: 2.432 Seconds
 
 Weapon ID: TestWeap21_Athena_C_Ore_T03
-Player Damage (Close Range): 72.0 (108.0 Headshot)
-Player Damage (Mid Range): 43.2 (64.80000000000001 Headshot)
-Player Damage (Long Range): 18.0 (27.0 Headshot)
-Vertical Recoil: 4.4 (Controller Recoil: 3.3000000000000003)
+Player Damage (Close Range): 79.2 (118.80000000000001 Headshot)
+Player Damage (Mid Range): 55.44 (83.16 Headshot)
+Player Damage (Long Range): 47.52 (71.28 Headshot)
+Vertical Recoil: 5.5 (Controller Recoil: 4.125)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 8
-Fire Rate: 1.5
-Reload Time: 6.27 Seconds
-
-Weapon ID: TestWeap21_Athena_UC_Ore_T03
-Player Damage (Close Range): 76.0 (114.0 Headshot)
-Player Damage (Mid Range): 45.599999999999994 (68.39999999999999 Headshot)
-Player Damage (Long Range): 19.0 (28.5 Headshot)
-Vertical Recoil: 4.2 (Controller Recoil: 3.1500000000000004)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 8
-Fire Rate: 1.5
-Reload Time: 5.985 Seconds
-
-Weapon ID: TestWeap21_Athena_R_Ore_T03
-Player Damage (Close Range): 80.0 (120.0 Headshot)
-Player Damage (Mid Range): 48.0 (72.0 Headshot)
-Player Damage (Long Range): 20.0 (30.0 Headshot)
-Vertical Recoil: 4.0 (Controller Recoil: 3.0)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 8
-Fire Rate: 1.5
-Reload Time: 5.7 Seconds
-
-Weapon ID: TestWeap21_Athena_VR_Ore_T03
-Player Damage (Close Range): 84.0 (126.0 Headshot)
-Player Damage (Mid Range): 50.4 (75.6 Headshot)
-Player Damage (Long Range): 21.0 (31.5 Headshot)
-Vertical Recoil: 3.8 (Controller Recoil: 2.8499999999999996)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 8
-Fire Rate: 1.5
-Reload Time: 5.415 Seconds
-
-Weapon ID: TestWeap21_Athena_SR_Ore_T03
-Player Damage (Close Range): 88.0 (132.0 Headshot)
-Player Damage (Mid Range): 52.800000000000004 (79.2 Headshot)
-Player Damage (Long Range): 22.0 (33.0 Headshot)
-Vertical Recoil: 3.6 (Controller Recoil: 2.7)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 8
-Fire Rate: 1.5
-Reload Time: 5.13 Seconds
-
-Weapon ID: TestWeap21_Athena_UR_Ore_T03
-Player Damage (Close Range): 92.0 (138.0 Headshot)
-Player Damage (Mid Range): 55.199999999999996 (82.8 Headshot)
-Player Damage (Long Range): 23.0 (34.5 Headshot)
-Vertical Recoil: 3.4 (Controller Recoil: 2.55)
-Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
-Ammo Count: 8
-Fire Rate: 1.5
-Reload Time: 4.845 Seconds
-
-Weapon ID: TestWeap22_Athena_C_Ore_T03
-Player Damage (Close Range): 24.0 (36.0 Headshot)
-Player Damage (Mid Range): 19.2 (28.799999999999997 Headshot)
-Player Damage (Long Range): 16.2 (24.299999999999997 Headshot)
-Vertical Recoil: 7.7 (Controller Recoil: 3.85)
-Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
-Ammo Count: 42
-Fire Rate: 6.6
+Ammo Count: 6
+Fire Rate: 1.7
 Reload Time: 4.4 Seconds
 
-Weapon ID: TestWeap22_Athena_UC_Ore_T03
-Player Damage (Close Range): 26.0 (39.0 Headshot)
-Player Damage (Mid Range): 20.8 (31.200000000000003 Headshot)
-Player Damage (Long Range): 17.55 (26.325000000000003 Headshot)
-Vertical Recoil: 7.35 (Controller Recoil: 3.675)
-Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
-Ammo Count: 42
-Fire Rate: 6.6
+Weapon ID: TestWeap21_Athena_UC_Ore_T03
+Player Damage (Close Range): 84.0 (126.0 Headshot)
+Player Damage (Mid Range): 58.8 (88.19999999999999 Headshot)
+Player Damage (Long Range): 50.4 (75.6 Headshot)
+Vertical Recoil: 5.25 (Controller Recoil: 3.9375)
+Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
+Ammo Count: 6
+Fire Rate: 1.7
 Reload Time: 4.2 Seconds
 
-Weapon ID: TestWeap22_Athena_R_Ore_T03
-Player Damage (Close Range): 27.0 (40.5 Headshot)
-Player Damage (Mid Range): 21.6 (32.400000000000006 Headshot)
-Player Damage (Long Range): 18.225 (27.337500000000002 Headshot)
-Vertical Recoil: 7.0 (Controller Recoil: 3.5)
-Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
-Ammo Count: 42
-Fire Rate: 6.6
+Weapon ID: TestWeap21_Athena_R_Ore_T03
+Player Damage (Close Range): 88.0 (132.0 Headshot)
+Player Damage (Mid Range): 61.6 (92.4 Headshot)
+Player Damage (Long Range): 52.8 (79.19999999999999 Headshot)
+Vertical Recoil: 5.0 (Controller Recoil: 3.75)
+Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
+Ammo Count: 6
+Fire Rate: 1.7
 Reload Time: 4.0 Seconds
 
-Weapon ID: TestWeap22_Athena_VR_Ore_T03
-Player Damage (Close Range): 28.0 (42.0 Headshot)
-Player Damage (Mid Range): 22.4 (33.599999999999994 Headshot)
-Player Damage (Long Range): 18.9 (28.349999999999998 Headshot)
-Vertical Recoil: 6.65 (Controller Recoil: 3.325)
-Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
-Ammo Count: 42
-Fire Rate: 6.6
+Weapon ID: TestWeap21_Athena_VR_Ore_T03
+Player Damage (Close Range): 92.8 (139.2 Headshot)
+Player Damage (Mid Range): 64.96 (97.44 Headshot)
+Player Damage (Long Range): 55.68 (83.52 Headshot)
+Vertical Recoil: 4.75 (Controller Recoil: 3.5625)
+Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
+Ammo Count: 6
+Fire Rate: 1.7
 Reload Time: 3.8 Seconds
 
-Weapon ID: TestWeap22_Athena_SR_Ore_T03
+Weapon ID: TestWeap21_Athena_SR_Ore_T03
+Player Damage (Close Range): 96.8 (145.2 Headshot)
+Player Damage (Mid Range): 67.76 (101.64000000000001 Headshot)
+Player Damage (Long Range): 58.08 (87.12 Headshot)
+Vertical Recoil: 4.5 (Controller Recoil: 3.375)
+Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
+Ammo Count: 6
+Fire Rate: 1.7
+Reload Time: 3.6 Seconds
+
+Weapon ID: TestWeap21_Athena_UR_Ore_T03
+Player Damage (Close Range): 101.6 (152.39999999999998 Headshot)
+Player Damage (Mid Range): 71.12 (106.68 Headshot)
+Player Damage (Long Range): 60.96 (91.44 Headshot)
+Vertical Recoil: 4.25 (Controller Recoil: 3.1875)
+Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
+Ammo Count: 6
+Fire Rate: 1.7
+Reload Time: 3.4 Seconds
+
+Weapon ID: TestWeap22_Athena_C_Ore_T03
+Player Damage (Close Range): 27.0 (40.5 Headshot)
+Player Damage (Mid Range): 24.3 (36.45 Headshot)
+Player Damage (Long Range): 22.95 (34.425 Headshot)
+Vertical Recoil: 7.7 (Controller Recoil: 3.85)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 40
+Fire Rate: 5.85
+Reload Time: 4.07 Seconds
+
+Weapon ID: TestWeap22_Athena_UC_Ore_T03
+Player Damage (Close Range): 29.0 (43.5 Headshot)
+Player Damage (Mid Range): 26.1 (39.150000000000006 Headshot)
+Player Damage (Long Range): 24.65 (36.974999999999994 Headshot)
+Vertical Recoil: 7.35 (Controller Recoil: 3.675)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 40
+Fire Rate: 5.85
+Reload Time: 3.885 Seconds
+
+Weapon ID: TestWeap22_Athena_R_Ore_T03
 Player Damage (Close Range): 30.0 (45.0 Headshot)
-Player Damage (Mid Range): 24.0 (36.0 Headshot)
-Player Damage (Long Range): 20.25 (30.375 Headshot)
+Player Damage (Mid Range): 27.0 (40.5 Headshot)
+Player Damage (Long Range): 25.5 (38.25 Headshot)
+Vertical Recoil: 7.0 (Controller Recoil: 3.5)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 40
+Fire Rate: 5.85
+Reload Time: 3.7 Seconds
+
+Weapon ID: TestWeap22_Athena_VR_Ore_T03
+Player Damage (Close Range): 32.0 (48.0 Headshot)
+Player Damage (Mid Range): 28.8 (43.2 Headshot)
+Player Damage (Long Range): 27.2 (40.8 Headshot)
+Vertical Recoil: 6.65 (Controller Recoil: 3.325)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 40
+Fire Rate: 5.85
+Reload Time: 3.515 Seconds
+
+Weapon ID: TestWeap22_Athena_SR_Ore_T03
+Player Damage (Close Range): 33.0 (49.5 Headshot)
+Player Damage (Mid Range): 29.7 (44.55 Headshot)
+Player Damage (Long Range): 28.05 (42.075 Headshot)
 Vertical Recoil: 6.3 (Controller Recoil: 3.15)
 Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
-Ammo Count: 42
-Fire Rate: 6.6
-Reload Time: 3.6 Seconds
+Ammo Count: 40
+Fire Rate: 5.85
+Reload Time: 3.33 Seconds
 
 Weapon ID: TestWeap23_Athena_C_Ore_T03
 Player Damage (Close Range): 104.0 (260.0 Headshot)
@@ -7856,7 +8156,7 @@ Vertical Recoil: 11.0 (Controller Recoil: 5.5)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 1
 Fire Rate: 0.64
-Reload Time: 2.068 Seconds
+Reload Time: 3.85 Seconds
 
 Weapon ID: TestWeap23_Athena_UC_Ore_T03
 Player Damage (Close Range): 109.0 (272.5 Headshot)
@@ -7866,7 +8166,7 @@ Vertical Recoil: 10.5 (Controller Recoil: 5.25)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 1
 Fire Rate: 0.64
-Reload Time: 1.974 Seconds
+Reload Time: 3.675 Seconds
 
 Weapon ID: TestWeap23_Athena_R_Ore_T03
 Player Damage (Close Range): 115.0 (287.5 Headshot)
@@ -7876,7 +8176,7 @@ Vertical Recoil: 10.0 (Controller Recoil: 5.0)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 1
 Fire Rate: 0.64
-Reload Time: 1.88 Seconds
+Reload Time: 3.5 Seconds
 
 Weapon ID: TestWeap23_Athena_VR_Ore_T03
 Player Damage (Close Range): 121.0 (302.5 Headshot)
@@ -7886,7 +8186,7 @@ Vertical Recoil: 9.5 (Controller Recoil: 4.75)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 1
 Fire Rate: 0.64
-Reload Time: 1.786 Seconds
+Reload Time: 3.325 Seconds
 
 Weapon ID: TestWeap23_Athena_SR_Ore_T03
 Player Damage (Close Range): 127.0 (317.5 Headshot)
@@ -7896,117 +8196,117 @@ Vertical Recoil: 9.0 (Controller Recoil: 4.5)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 1
 Fire Rate: 0.64
-Reload Time: 1.692 Seconds
+Reload Time: 3.15 Seconds
 
 Weapon ID: TestWeap24_Athena_C_Ore_T03
-Player Damage (Close Range): 72.8 (120.11999999999999 Headshot)
-Player Damage (Mid Range): 58.24 (96.096 Headshot)
-Player Damage (Long Range): 43.68 (72.072 Headshot)
+Player Damage (Close Range): 79.2 (118.80000000000001 Headshot)
+Player Damage (Mid Range): 63.36 (95.03999999999999 Headshot)
+Player Damage (Long Range): 47.52 (71.28 Headshot)
 Vertical Recoil: 4.4 (Controller Recoil: 3.3000000000000003)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 4.07 Seconds
+Fire Rate: 1.15
+Reload Time: 4.4 Seconds
 
 Weapon ID: TestWeap24_Athena_UC_Ore_T03
-Player Damage (Close Range): 76.3 (125.89499999999998 Headshot)
-Player Damage (Mid Range): 61.040000000000006 (100.71600000000001 Headshot)
-Player Damage (Long Range): 45.78 (75.53699999999999 Headshot)
+Player Damage (Close Range): 84.0 (126.0 Headshot)
+Player Damage (Mid Range): 67.2 (100.80000000000001 Headshot)
+Player Damage (Long Range): 50.4 (75.6 Headshot)
 Vertical Recoil: 4.2 (Controller Recoil: 3.1500000000000004)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 3.885 Seconds
+Fire Rate: 1.15
+Reload Time: 4.2 Seconds
 
 Weapon ID: TestWeap24_Athena_R_Ore_T03
-Player Damage (Close Range): 80.5 (132.825 Headshot)
-Player Damage (Mid Range): 64.39999999999999 (106.25999999999998 Headshot)
-Player Damage (Long Range): 48.300000000000004 (79.69500000000001 Headshot)
+Player Damage (Close Range): 88.0 (132.0 Headshot)
+Player Damage (Mid Range): 70.4 (105.60000000000001 Headshot)
+Player Damage (Long Range): 52.8 (79.19999999999999 Headshot)
 Vertical Recoil: 4.0 (Controller Recoil: 3.0)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 3.7 Seconds
+Fire Rate: 1.15
+Reload Time: 4.0 Seconds
 
 Weapon ID: TestWeap24_Athena_VR_Ore_T03
-Player Damage (Close Range): 84.7 (139.755 Headshot)
-Player Damage (Mid Range): 67.75999999999999 (111.80399999999997 Headshot)
-Player Damage (Long Range): 50.82 (83.853 Headshot)
+Player Damage (Close Range): 92.8 (139.2 Headshot)
+Player Damage (Mid Range): 74.24 (111.35999999999999 Headshot)
+Player Damage (Long Range): 55.68 (83.52 Headshot)
 Vertical Recoil: 3.8 (Controller Recoil: 2.8499999999999996)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 3.515 Seconds
+Fire Rate: 1.15
+Reload Time: 3.8 Seconds
 
 Weapon ID: TestWeap24_Athena_SR_Ore_T03
-Player Damage (Close Range): 88.89999999999999 (146.68499999999997 Headshot)
-Player Damage (Mid Range): 71.12 (117.348 Headshot)
-Player Damage (Long Range): 53.34 (88.011 Headshot)
+Player Damage (Close Range): 96.8 (145.2 Headshot)
+Player Damage (Mid Range): 77.44 (116.16 Headshot)
+Player Damage (Long Range): 58.08 (87.12 Headshot)
 Vertical Recoil: 3.6 (Controller Recoil: 2.7)
 Horizontal Recoil: 2.0 (Controller Recoil: 2.0)
 Ammo Count: 6
-Fire Rate: 1.2
-Reload Time: 3.33 Seconds
+Fire Rate: 1.15
+Reload Time: 3.6 Seconds
 
 Weapon ID: TestWeap25_Athena_C_Ore_T03
-Player Damage (Close Range): 32.0 (80.0 Headshot)
-Player Damage (Mid Range): 32.0 (80.0 Headshot)
-Player Damage (Long Range): 32.0 (80.0 Headshot)
-Vertical Recoil: 9.075 (Controller Recoil: 6.8062499999999995)
-Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
-Ammo Count: 1
-Fire Rate: 0.95
-Reload Time: 1.32 Seconds
-
-Weapon ID: TestWeap25_Athena_UC_Ore_T03
-Player Damage (Close Range): 34.0 (85.0 Headshot)
-Player Damage (Mid Range): 34.0 (85.0 Headshot)
-Player Damage (Long Range): 34.0 (85.0 Headshot)
-Vertical Recoil: 8.6625 (Controller Recoil: 6.496874999999999)
-Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
-Ammo Count: 1
-Fire Rate: 0.95
-Reload Time: 1.26 Seconds
-
-Weapon ID: TestWeap25_Athena_R_Ore_T03
 Player Damage (Close Range): 36.0 (90.0 Headshot)
 Player Damage (Mid Range): 36.0 (90.0 Headshot)
 Player Damage (Long Range): 36.0 (90.0 Headshot)
-Vertical Recoil: 8.25 (Controller Recoil: 6.1875)
+Vertical Recoil: 9.075 (Controller Recoil: 6.8062499999999995)
 Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
-Ammo Count: 1
-Fire Rate: 0.95
-Reload Time: 1.2 Seconds
+Ammo Count: 3
+Fire Rate: 0.8
+Reload Time: 2.75 Seconds
 
-Weapon ID: TestWeap25_Athena_VR_Ore_T03
+Weapon ID: TestWeap25_Athena_UC_Ore_T03
 Player Damage (Close Range): 38.0 (95.0 Headshot)
 Player Damage (Mid Range): 38.0 (95.0 Headshot)
 Player Damage (Long Range): 38.0 (95.0 Headshot)
-Vertical Recoil: 7.8375 (Controller Recoil: 5.878125000000001)
+Vertical Recoil: 8.6625 (Controller Recoil: 6.496874999999999)
 Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
-Ammo Count: 1
-Fire Rate: 0.95
-Reload Time: 1.14 Seconds
+Ammo Count: 3
+Fire Rate: 0.8
+Reload Time: 2.625 Seconds
 
-Weapon ID: TestWeap25_Athena_SR_Ore_T03
+Weapon ID: TestWeap25_Athena_R_Ore_T03
 Player Damage (Close Range): 40.0 (100.0 Headshot)
 Player Damage (Mid Range): 40.0 (100.0 Headshot)
 Player Damage (Long Range): 40.0 (100.0 Headshot)
+Vertical Recoil: 8.25 (Controller Recoil: 6.1875)
+Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
+Ammo Count: 3
+Fire Rate: 0.8
+Reload Time: 2.5 Seconds
+
+Weapon ID: TestWeap25_Athena_VR_Ore_T03
+Player Damage (Close Range): 42.0 (105.0 Headshot)
+Player Damage (Mid Range): 42.0 (105.0 Headshot)
+Player Damage (Long Range): 42.0 (105.0 Headshot)
+Vertical Recoil: 7.8375 (Controller Recoil: 5.878125000000001)
+Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
+Ammo Count: 3
+Fire Rate: 0.8
+Reload Time: 2.375 Seconds
+
+Weapon ID: TestWeap25_Athena_SR_Ore_T03
+Player Damage (Close Range): 44.0 (110.0 Headshot)
+Player Damage (Mid Range): 44.0 (110.0 Headshot)
+Player Damage (Long Range): 44.0 (110.0 Headshot)
 Vertical Recoil: 7.425 (Controller Recoil: 5.56875)
 Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
-Ammo Count: 1
-Fire Rate: 0.95
-Reload Time: 1.08 Seconds
+Ammo Count: 3
+Fire Rate: 0.8
+Reload Time: 2.25 Seconds
 
 Weapon ID: TestWeap25_Athena_UR_Ore_T04
-Player Damage (Close Range): 41.0 (102.5 Headshot)
-Player Damage (Mid Range): 41.0 (102.5 Headshot)
-Player Damage (Long Range): 41.0 (102.5 Headshot)
+Player Damage (Close Range): 46.0 (115.0 Headshot)
+Player Damage (Mid Range): 46.0 (115.0 Headshot)
+Player Damage (Long Range): 46.0 (115.0 Headshot)
 Vertical Recoil: 7.0125 (Controller Recoil: 5.259375)
 Horizontal Recoil: 0.4 (Controller Recoil: 0.4)
-Ammo Count: 1
-Fire Rate: 0.95
-Reload Time: 1.02 Seconds
+Ammo Count: 3
+Fire Rate: 0.8
+Reload Time: 2.125 Seconds
 
 Weapon ID: TestWeap26_Athena_SR_Ore_T03
 Player Damage (Close Range): 83.0 (83.0 Headshot)
@@ -8034,7 +8334,7 @@ Player Damage (Mid Range): 0.0 (0.0 Headshot)
 Player Damage (Long Range): 0.0 (0.0 Headshot)
 Vertical Recoil: 0.0 (Controller Recoil: 0.0)
 Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
-Ammo Count: 6
+Ammo Count: 5
 Fire Rate: 1.5
 Reload Time: 1.8 Seconds
 
@@ -8042,30 +8342,30 @@ Weapon ID: TestWeap29_Athena_R_Ore_T03
 Player Damage (Close Range): 24.0 (24.0 Headshot)
 Player Damage (Mid Range): 24.0 (24.0 Headshot)
 Player Damage (Long Range): 24.0 (24.0 Headshot)
-Vertical Recoil: 1.5 (Controller Recoil: 0.75)
-Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
+Vertical Recoil: 0.0 (Controller Recoil: 0.0)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
 Ammo Count: 30
-Fire Rate: 1.0
+Fire Rate: 3.0
 Reload Time: 6.0 Seconds
 
 Weapon ID: TestWeap29_Athena_VR_Ore_T03
 Player Damage (Close Range): 25.0 (25.0 Headshot)
 Player Damage (Mid Range): 25.0 (25.0 Headshot)
 Player Damage (Long Range): 25.0 (25.0 Headshot)
-Vertical Recoil: 1.425 (Controller Recoil: 0.7125)
-Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
+Vertical Recoil: 0.0 (Controller Recoil: 0.0)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
 Ammo Count: 30
-Fire Rate: 1.0
+Fire Rate: 3.0
 Reload Time: 5.7 Seconds
 
 Weapon ID: TestWeap29_Athena_SR_Ore_T03
 Player Damage (Close Range): 26.0 (26.0 Headshot)
 Player Damage (Mid Range): 26.0 (26.0 Headshot)
 Player Damage (Long Range): 26.0 (26.0 Headshot)
-Vertical Recoil: 1.35 (Controller Recoil: 0.675)
-Horizontal Recoil: 0.5 (Controller Recoil: 0.5)
+Vertical Recoil: 0.0 (Controller Recoil: 0.0)
+Horizontal Recoil: 0.0 (Controller Recoil: 0.0)
 Ammo Count: 30
-Fire Rate: 1.0
+Fire Rate: 3.0
 Reload Time: 5.4 Seconds
 
 Weapon ID: TestWeap30_Athena_C_Ore_T03
@@ -8259,64 +8559,64 @@ Fire Rate: 2.0
 Reload Time: 0.0 Seconds
 
 Weapon ID: TestWeap35_Athena_C_Ore_T03
-Player Damage (Close Range): 31.0 (51.15 Headshot)
-Player Damage (Mid Range): 27.9 (46.035 Headshot)
-Player Damage (Long Range): 25.42 (41.943 Headshot)
-Vertical Recoil: 3.63 (Controller Recoil: 2.904)
-Horizontal Recoil: 0.3 (Controller Recoil: 0.15)
-Ammo Count: 20
-Fire Rate: 5.4
-Reload Time: 1.43 Seconds
+Player Damage (Close Range): 19.0 (28.5 Headshot)
+Player Damage (Mid Range): 18.05 (27.075000000000003 Headshot)
+Player Damage (Long Range): 17.1 (25.650000000000002 Headshot)
+Vertical Recoil: 16.5 (Controller Recoil: 12.375)
+Horizontal Recoil: 0.22 (Controller Recoil: 0.11)
+Ammo Count: 35
+Fire Rate: 9.0
+Reload Time: 3.41 Seconds
 
 Weapon ID: TestWeap35_Athena_UC_Ore_T03
-Player Damage (Close Range): 32.0 (52.8 Headshot)
-Player Damage (Mid Range): 28.8 (47.519999999999996 Headshot)
-Player Damage (Long Range): 26.24 (43.29599999999999 Headshot)
-Vertical Recoil: 3.465 (Controller Recoil: 2.7720000000000002)
-Horizontal Recoil: 0.3 (Controller Recoil: 0.15)
-Ammo Count: 20
-Fire Rate: 5.4
-Reload Time: 1.365 Seconds
+Player Damage (Close Range): 20.0 (30.0 Headshot)
+Player Damage (Mid Range): 19.0 (28.5 Headshot)
+Player Damage (Long Range): 18.0 (27.0 Headshot)
+Vertical Recoil: 15.75 (Controller Recoil: 11.8125)
+Horizontal Recoil: 0.22 (Controller Recoil: 0.11)
+Ammo Count: 35
+Fire Rate: 9.0
+Reload Time: 3.255 Seconds
 
 Weapon ID: TestWeap35_Athena_R_Ore_T03
-Player Damage (Close Range): 34.0 (56.099999999999994 Headshot)
-Player Damage (Mid Range): 30.6 (50.49 Headshot)
-Player Damage (Long Range): 27.88 (46.001999999999995 Headshot)
-Vertical Recoil: 3.3 (Controller Recoil: 2.64)
-Horizontal Recoil: 0.3 (Controller Recoil: 0.15)
-Ammo Count: 20
-Fire Rate: 5.4
-Reload Time: 1.3 Seconds
+Player Damage (Close Range): 21.0 (31.5 Headshot)
+Player Damage (Mid Range): 19.95 (29.924999999999997 Headshot)
+Player Damage (Long Range): 18.9 (28.349999999999998 Headshot)
+Vertical Recoil: 15.0 (Controller Recoil: 11.25)
+Horizontal Recoil: 0.22 (Controller Recoil: 0.11)
+Ammo Count: 35
+Fire Rate: 9.0
+Reload Time: 3.1 Seconds
 
 Weapon ID: TestWeap35_Athena_VR_Ore_T03
-Player Damage (Close Range): 36.0 (59.4 Headshot)
-Player Damage (Mid Range): 32.4 (53.459999999999994 Headshot)
-Player Damage (Long Range): 29.52 (48.708 Headshot)
-Vertical Recoil: 3.135 (Controller Recoil: 2.508)
-Horizontal Recoil: 0.3 (Controller Recoil: 0.15)
-Ammo Count: 20
-Fire Rate: 5.4
-Reload Time: 1.235 Seconds
+Player Damage (Close Range): 22.0 (33.0 Headshot)
+Player Damage (Mid Range): 20.9 (31.349999999999998 Headshot)
+Player Damage (Long Range): 19.8 (29.700000000000003 Headshot)
+Vertical Recoil: 14.25 (Controller Recoil: 10.6875)
+Horizontal Recoil: 0.22 (Controller Recoil: 0.11)
+Ammo Count: 35
+Fire Rate: 9.0
+Reload Time: 2.945 Seconds
 
 Weapon ID: TestWeap35_Athena_SR_Ore_T03
-Player Damage (Close Range): 37.0 (61.05 Headshot)
-Player Damage (Mid Range): 33.3 (54.94499999999999 Headshot)
-Player Damage (Long Range): 30.34 (50.061 Headshot)
-Vertical Recoil: 2.97 (Controller Recoil: 2.3760000000000003)
-Horizontal Recoil: 0.3 (Controller Recoil: 0.15)
-Ammo Count: 20
-Fire Rate: 5.4
-Reload Time: 1.17 Seconds
+Player Damage (Close Range): 23.0 (34.5 Headshot)
+Player Damage (Mid Range): 21.85 (32.775000000000006 Headshot)
+Player Damage (Long Range): 20.7 (31.049999999999997 Headshot)
+Vertical Recoil: 13.5 (Controller Recoil: 10.125)
+Horizontal Recoil: 0.22 (Controller Recoil: 0.11)
+Ammo Count: 35
+Fire Rate: 9.0
+Reload Time: 2.79 Seconds
 
 Weapon ID: TestWeap35_Athena_UR_Ore_T03
-Player Damage (Close Range): 39.0 (64.35 Headshot)
-Player Damage (Mid Range): 35.1 (57.915 Headshot)
-Player Damage (Long Range): 31.98 (52.766999999999996 Headshot)
-Vertical Recoil: 2.805 (Controller Recoil: 2.244)
-Horizontal Recoil: 0.3 (Controller Recoil: 0.15)
-Ammo Count: 20
-Fire Rate: 5.4
-Reload Time: 1.105 Seconds
+Player Damage (Close Range): 24.0 (36.0 Headshot)
+Player Damage (Mid Range): 22.8 (34.2 Headshot)
+Player Damage (Long Range): 21.6 (32.400000000000006 Headshot)
+Vertical Recoil: 12.75 (Controller Recoil: 9.5625)
+Horizontal Recoil: 0.22 (Controller Recoil: 0.11)
+Ammo Count: 35
+Fire Rate: 9.0
+Reload Time: 2.635 Seconds
 
 Weapon ID: TestWeap36_Athena_C_Ore_T03
 Player Damage (Close Range): 19.0 (28.5 Headshot)
@@ -8377,6 +8677,16 @@ Horizontal Recoil: 0.25 (Controller Recoil: 0.125)
 Ammo Count: 30
 Fire Rate: 7.0
 Reload Time: 1.87 Seconds
+
+Weapon ID: Shielder_Athena_SR_Ore_T03
+Player Damage (Close Range): 0.0 (0.0 Headshot)
+Player Damage (Mid Range): 0.0 (0.0 Headshot)
+Player Damage (Long Range): 0.0 (0.0 Headshot)
+Vertical Recoil: 3.15 (Controller Recoil: 1.575)
+Horizontal Recoil: 0.25 (Controller Recoil: 0.25)
+Ammo Count: 100
+Fire Rate: 2.0
+Reload Time: 0.0 Seconds
 
 Weapon ID: Shotgun_Ostrich_Athena_R_Ore_T03
 Player Damage (Close Range): 50.0 (75.0 Headshot)
