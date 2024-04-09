@@ -13715,6 +13715,48 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.MorningRoyalty": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MorningRoyalty"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "093A44CE44EF27B6E82D1CB821ED663E",
+          "SourceString": "Dawn's King",
+          "LocalizedString": "Dawn's King"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ScreamingSun": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ScreamingSun"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "C76BF0A74FFEFC810A57F7BA06A62ABE",
+          "SourceString": "Shrieking Star",
+          "LocalizedString": "Shrieking Star"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SeasAsk": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SeasAsk"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "A018204F41B6218F02EF47B7FCE2B2B2",
+          "SourceString": "Chiton's Call",
+          "LocalizedString": "Chiton's Call"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

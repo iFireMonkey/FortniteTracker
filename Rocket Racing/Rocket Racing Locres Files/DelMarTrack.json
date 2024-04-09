@@ -3,6 +3,14 @@
     "AEC3E5D145654881107EABA1385B7959": "Activates a given track when a racer enters this volume. Typically used on for tracks without geometry.",
     "9F99EFB641D35FBC23B43D816B0D87D3": "RR Active Track Valoume"
   },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Force Hidden Track Respawns",
+    "MultipleValues": "Multiple Values",
+    "Off Track Radius": "Off Track Radius",
+    "Use Back Endcap": "Use Back Endcap",
+    "Use Front Endcap": "Use Front Endcap",
+    "Use Stable Roll": "Use Stable Roll"
+  },
   "DelMarSelectedNodesWidget": {
     "ChangeShapeOfMultipleNodes": "Change Shape of Multiple Nodes",
     "DeleteMultipleNodeConfirmation": "Delete Mulitple Nodes?",
@@ -61,6 +69,9 @@
     "SelectedSplineTabTitle": "Selected Node",
     "SplineLengthTitle": "Spline Length: {SplineLength}"
   },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
   "SDelMarOobSelectedNodesWidget": {
     "SelectSplinePoints": "Select Spline Points",
     "SelectedPoints": "Selected Points"
@@ -89,5 +100,8 @@
   "UICommands.DelMarTrackSplineComponentVisualizer": {
     "ToggleUseStableRoll_ToolTip": "Toggle the selected spline point's to UseStableRoll flag",
     "ToggleUseStableRoll": "Use Stable Roll"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Track to Activate"
   }
 }
