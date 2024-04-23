@@ -9,12 +9,12 @@
     "0543AC9A42B83420E765149897CA51A4": "Attach small wheels onto existing structures and dynamic objects.",
     "765C88EC48D17A74F9E180A8750ECD23": "Large Powered Wheel",
     "E90B23314823AB3C6F5B118AB04CD994": "Large Simple Wheel",
-    "0802974540A98C76D4589EB0BBDC7B7E": "Large Turnable Wheel",
+    "0802974540A98C76D4589EB0BBDC7B7E": "Large Steerable Wheel",
     "58CAD8CD489BA279918B91B15ECD65E4": "Medium Powered Wheel",
-    "E21006B74A7C6000CEB9DCA65F94F071": "Medium Turnable Wheel",
+    "E21006B74A7C6000CEB9DCA65F94F071": "Medium Steerable Wheel",
     "95DF699B40FEBEF7CD25DDBA6B4DA86C": "Small Powered Wheel",
     "B8AAB3E0475AA97DB27C7097EBFD8473": "Small Simple Wheel",
-    "97B775654F98D4839EFA95AB36531855": "Small Turnable Wheel"
+    "97B775654F98D4839EFA95AB36531855": "Small Steerable Wheel"
   },
   "Juno_UpdateItemData": {
     "E07BA5004580C1D7181D4B97C2EE64F2": "Spins and turns when given signals from a Driver's Seat. Consumes a bit of Power per second from a Power Center.",

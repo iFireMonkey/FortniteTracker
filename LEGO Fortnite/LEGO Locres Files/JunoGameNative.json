@@ -8,8 +8,8 @@
     "Open": "Open",
     "Search": "Search"
   },
-  "JunoUI": {
-    "JunoUI_CampNameFormat": "{PlayerName}'s Village {VillageCount}"
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Kicked for idle. Your connection to the host was lost because you were idle for too long."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Enter Guided Build"
