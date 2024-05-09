@@ -11,9 +11,8 @@
     "8AB45CA14243936809FE4B9592743F07": "Decor Bundles",
     "2D37E6CB46E69B2A21412B9C345DA20B": "Default",
     "363E72B24C7A3AC5C0A40AAD1A202634": "Default",
-    "1E585BFD44DA297C1097B7B797DC83E8": "In Survival Mode, you must gather all resources before you can build this owned item.",
-    "E70BBD5F44C4322B7F13B8923CD58FD7": "In Survival Mode, you must gather all resources before you can build this owned item.",
-    "16181CED4CA61931C8A86DBBCB14A135": "LEGO® Kits",
+    "1E585BFD44DA297C1097B7B797DC83E8": "In Survival Mode, you must gather all required resources before you can build this owned item.",
+    "E70BBD5F44C4322B7F13B8923CD58FD7": "In Survival Mode, you must gather all required resources before you can build this owned item.",
     "906833E049258972292CE0A5B610ECC7": "Only works in",
     "4D0F3C734947548D3840DC9D937109ED": "Placeholder item Name",
     "0613299247F4A6754F56EC94F01995A5": "Required Resources",
@@ -30,5 +29,9 @@
   },
   "JunoBuildingCosmetics": {
     "PartQuantityAndName": "{0} {1}"
+  },
+  "JunoBuildingCosmeticsEditor": {
+    "ImGuiLEGOAccountItemEditor": "LEGO Account Item Editor",
+    "ImGuiLEGOAccountItemEditorTooltip": "Tool for creating LEGO Account Items in batches"
   }
 }

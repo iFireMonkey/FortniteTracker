@@ -12855,8 +12855,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.Perfection_DisplayName",
-          "SourceString": "Flawless",
-          "LocalizedString": "Flawless"
+          "SourceString": "Flawless Flora",
+          "LocalizedString": "Flawless Flora"
         },
         "Description": {
           "CultureInvariantString": null
@@ -13753,6 +13753,216 @@
           "Key": "A018204F41B6218F02EF47B7FCE2B2B2",
           "SourceString": "Chiton's Call",
           "LocalizedString": "Chiton's Call"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AngerFate": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AngerFate"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2768CA474780C5DB943761A43AF4FE50",
+          "SourceString": "Billie Eilish",
+          "LocalizedString": "Billie Eilish"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PinFail": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PinFail"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "4B177E1344E441967B9BA6A3A714B3A9",
+          "SourceString": "Nike Victory",
+          "LocalizedString": "Nike Victory"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ConcreteRound": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ConcreteRound"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "37BA8D4C4476D42DC1D58CB66EC1BB82",
+          "SourceString": "Blacktop Ballers",
+          "LocalizedString": "Blacktop Ballers"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PotassiumScience": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PotassiumScience"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "27A363524FB96D5E5791579407218938",
+          "SourceString": "Bananontology",
+          "LocalizedString": "Bananontology"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StormyWorld": {
+        "tag": {
+          "TagName": "Cosmetics.Set.StormyWorld"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "D6F23D9748301355F29FF18770C6873C",
+          "SourceString": "Ragnarok",
+          "LocalizedString": "Ragnarok"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FableDestroy": {
+        "tag": {
+          "TagName": "Cosmetics.Set.FableDestroy"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "B8C150E1460E961ECBC9B190F57BE430",
+          "SourceString": "Mythbreaker",
+          "LocalizedString": "Mythbreaker"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.EndlessPupil": {
+        "tag": {
+          "TagName": "Cosmetics.Set.EndlessPupil"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "246E0CC44E929B6E0B454899BE72E929",
+          "SourceString": "Eternal Eye",
+          "LocalizedString": "Eternal Eye"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Alchemy": {
+        "tag": {
+          "TagName": "Cosmetics.Set.Alchemy"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "950646434F94296CC6AD8B8FCE8C119C",
+          "SourceString": "Mystical Might",
+          "LocalizedString": "Mystical Might"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PCB": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PCB"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "AAA9816544549BB5E892A49E9F7D17A6",
+          "SourceString": "Expandable Systems",
+          "LocalizedString": "Expandable Systems"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WoodenBlade": {
+        "tag": {
+          "TagName": "Cosmetics.Set.WoodenBlade"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "386F8890474D005CC636A39253CF8E73",
+          "SourceString": "Fate-Carved Warrior",
+          "LocalizedString": "Fate-Carved Warrior"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GearBuilder": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GearBuilder"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "A79844054029B555136E9CA1B9A01AF1",
+          "SourceString": "Natural Constructor",
+          "LocalizedString": "Natural Constructor"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GorgeousCape": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GorgeousCape"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "6A95BB114F3E8DB6424D3AA79254C357",
+          "SourceString": "Loki",
+          "LocalizedString": "Loki"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MaxedCar": {
+        "tag": {
+          "TagName": "Cosmetics.Set.MaxedCar"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "574618F94C6B7B208CAA02A3F8D3E0BD",
+          "SourceString": "Redline Rider",
+          "LocalizedString": "Redline Rider"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.RedJail": {
+        "tag": {
+          "TagName": "Cosmetics.Set.RedJail"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "6BCC04144A32D890994783B9BE33E9B4",
+          "SourceString": "Crimson Warden",
+          "LocalizedString": "Crimson Warden"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BrickHeadset": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BrickHeadset"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "564006F740969DEEEB302289C59E5A31",
+          "SourceString": "Fall Guys",
+          "LocalizedString": "Fall Guys"
         },
         "Description": {
           "CultureInvariantString": null

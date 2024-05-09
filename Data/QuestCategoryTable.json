@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests19": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests19_Name",
+          "SourceString": "Natural Constructor Starter Bundle",
+          "LocalizedString": "Natural Constructor Starter Bundle"
+        },
+        "SortPriority": 530
+      },
       "StarterBundleQuests18": {
         "Name": {
           "Namespace": "QuestCategoryTable",
