@@ -328,7 +328,6 @@
     "7D7993C74B8CA049EEB431A8E593136D": "{x} got a new best time! {y}"
   },
   "DelMar": {
-    "PsyonixName": "Psyonix",
     "CountdownTimer": "{0} Seconds."
   },
   "DelMarDebug": {
@@ -339,50 +338,5 @@
     "CheckpointTime": "{0}",
     "Countdown": "{0}",
     "LapTime": "{0}"
-  },
-  "DelMarSetting": {
-    "DelMarAerialPitchActivation_Description": "A button must be pressed in addition to the vehicle pitch up/down buttons in order to pitch the vehicle in the air when not using a gamepad (see Aerial Pitch Activation keybind). \nWhen this setting is turned off, the vehicle will pitch in the air immediately upon pressing Pitch Vehicle Up or Pitch Vehicle Down keybinds.",
-    "DelMarMusicVolume_Description": "Adjusts the volume of music in Rocket Racing.",
-    "DelMarCameraDeadzone_Name": "Camera Swivel Deadzone",
-    "DelMarTouchControlsDpad": "D-Pad",
-    "CeilingReleaseInput": "Default",
-    "ShakeIntensityDefault": "Default",
-    "CeilingTimeDelay": "Delayed",
-    "DelMarInvertSteerMethod_Description": "Determines how steering changes when the vehicle goes upside down.\n\nDefault - Steering direction does not change until Left Stick is returned to neutral, moved in the opposite direction, or another input is pressed.\nImmediate - Steering direction changes as soon as the vehicle inverts.\nDelayed - Steering direction changes 0.5s after the vehicle inverts.\nNever - Steering direction never inverts.\n",
-    "DelMarScreenShakeIntensity_Description": "Determines intensity of Screen Shake effects.",
-    "DelMarTouchControlsLayout_Description": "Determines what touch controls layout is used.\n\nD-Pad - Uses four directional buttons to control the vehicle's steer and pitch.\nJoystick - Virtual joystick to hold and drag in each direction to control the vehicle's steer and pitch.\n",
-    "DelMarIconOnlyNameplates_Name": "Icon Only Nameplates",
-    "Always": "Immediate",
-    "DelMarInvertSteerMethod_Name": "Invert Steer Method",
-    "DelMarVerticalKickflipInverted_Name": "Invert Vertical Air Dodge Direction",
-    "DelMarVerticalKickflipInverted_Description": "Inverts vertical air dodge direction. Turning this setting on will make air dodge go downward when pitching up and vice versa.",
-    "DelMarTouchControlsJoystick": "Joystick",
-    "ShakeIntensityLow": "Low",
-    "DelMarPitchDeadzone_Description": "Minimum amount of aerial pitch that will be registered for the vehicle when using an axis binding.",
-    "DelMarCameraDeadzone_Description": "Minimum amount of camera swivel that will be registered for the camera when using an axis binding.",
-    "DelMarSteerDeadzone_Description": "Minimum amount of steer that will be registered for the vehicle when using an axis binding.",
-    "DelMarThrottleDeadzone_Description": "Minimum amount of throttle that will be registered for the vehicle when using an axis binding.",
-    "DelMarMusicVolume_Name": "Music",
-    "Never": "Never",
-    "ShakeIntensityOff": "Off",
-    "DelMarAerialBrakeThrottleGamepad_Name": "Only Throttle Forward In Air",
-    "DelMarAerialBrakeThrottleKBM_Name": "Only Throttle Forward In Air",
-    "DelMarIconOnlyNameplates_Description": "Only display player character icons on the nameplates attached to vehicles.",
-    "DelMarPitchDeadzone_Name": "Pitch Deadzone",
-    "DelMarAerialPitchActivation_Name": "Require Aerial Pitch Activation",
-    "DelMarCollectionAudio_Name": "Rocket Racing",
-    "DelMarCollectionGame_Name": "Rocket Racing",
-    "DelMarCollectionGamepad_Name": "Rocket Racing",
-    "DelMarCollectionHUD_Name": "Rocket Racing",
-    "DelMarCollectionKBM_Name": "Rocket Racing",
-    "DelMarScreenShakeIntensity_Name": "Screen Shake Intensity",
-    "DelMarSteerDeadzone_Name": "Steer Deadzone",
-    "DelMarThrottleDeadzone_Name": "Throttle Deadzone",
-    "DelMarToggleThrottle_Description": "Throttle forward turns on/off with the press of a button and stays on/off until the button is pressed again rather than requiring the button to be held down. \nThrottle forward will turn off if throttle backwards is pressed while on the ground.",
-    "DelMarToggleThrottle_Name": "Toggle Throttle",
-    "DelMarTouchControlsLayout_Name": "Touch Controls Layout",
-    "DelMarAerialBrakeThrottleKBM_Description": "Using Throttle Backward in the air will act like Throttle Forward when not using a gamepad.",
-    "DelMarAerialBrakeThrottleGamepad_Mobile_Description": "Using Throttle Backward in the air will act like Throttle Forward when using a gamepad or touch controls.",
-    "DelMarAerialBrakeThrottleGamepad_Description": "Using Throttle Backward in the air will act like Throttle Forward when using a gamepad."
   }
 }

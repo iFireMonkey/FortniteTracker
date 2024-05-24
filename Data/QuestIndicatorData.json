@@ -132,6 +132,31 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_NitroDome",
+            "SourceString": "NITRODROME",
+            "LocalizedString": "NITRODROME"
+          },
+          "WorldLocation": {
+            "X": -41552.0,
+            "Y": -13839.999,
+            "Z": 2584.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.NitroDome"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_NitroDome",
+          "ActiveDiscoverableBlodIds": [
+            15
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_SocietyCemetery",
             "SourceString": "The Cemetery",
             "LocalizedString": "The Cemetery"
@@ -168,6 +193,29 @@
           },
           "LocationTag": {
             "TagName": "Athena.Location.UnNamedPOI.SummitTemple"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_FuelDepot",
+            "SourceString": "Megalo Depot",
+            "LocalizedString": "Megalo Depot"
+          },
+          "WorldLocation": {
+            "X": -104408.0,
+            "Y": -16304.0,
+            "Z": 2584.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.FuelDepot"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
@@ -325,8 +373,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_IslandMansion",
-            "SourceString": "Unmoored Manor",
-            "LocalizedString": "Unmoored Manor"
+            "SourceString": "No Moored Manor",
+            "LocalizedString": "No Moored Manor"
           },
           "WorldLocation": {
             "X": -84308.0,
@@ -338,38 +386,11 @@
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_Society",
-          "ActiveDiscoverableBlodIds": [
-            55
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_POI_Orchard",
-            "SourceString": "FENCING FIELDS",
-            "LocalizedString": "FENCING FIELDS"
-          },
-          "WorldLocation": {
-            "X": -34960.0,
-            "Y": -15236.0,
-            "Z": 112.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.POI.Orchard"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_Orchard",
-          "ActiveDiscoverableBlodIds": [
-            15
-          ]
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -515,11 +536,11 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_CostalCity",
-            "SourceString": "SNOOTY STEPPES",
-            "LocalizedString": "SNOOTY STEPPES"
+            "SourceString": "SANDY STEPPES",
+            "LocalizedString": "SANDY STEPPES"
           },
           "WorldLocation": {
-            "X": -82904.0,
+            "X": -79904.0,
             "Y": -69808.0,
             "Z": 112.0
           },
@@ -610,6 +631,54 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_ModStation_05",
+            "SourceString": "Cliffside Lodge",
+            "LocalizedString": "Cliffside Lodge"
+          },
+          "WorldLocation": {
+            "X": -19543.998,
+            "Y": -13439.999,
+            "Z": 4756.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.ModStation.05"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C5_Discover_Landmarks_CliffHouse",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_Megalodon",
+            "SourceString": "BRUTAL BEACHHEAD",
+            "LocalizedString": "BRUTAL BEACHHEAD"
+          },
+          "WorldLocation": {
+            "X": -105460.0,
+            "Y": -47044.0,
+            "Z": 2584.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.Megalodon"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_Megalodon",
+          "ActiveDiscoverableBlodIds": [
+            40
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_SocietyEstate",
             "SourceString": "LAVISH LAIR",
             "LocalizedString": "LAVISH LAIR"
@@ -631,6 +700,29 @@
           "ActiveDiscoverableBlodIds": [
             110
           ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_YardDock",
+            "SourceString": "Lil Dirty Dock",
+            "LocalizedString": "Lil Dirty Dock"
+          },
+          "WorldLocation": {
+            "X": -119632.0,
+            "Y": 44560.0,
+            "Z": 2584.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.YardDock"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -680,6 +772,31 @@
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_GasStation03",
           "ActiveDiscoverableBlodIds": [
             240
+          ]
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_POI_NitroTown",
+            "SourceString": "REDLINE RIG",
+            "LocalizedString": "REDLINE RIG"
+          },
+          "WorldLocation": {
+            "X": -103404.0,
+            "Y": 17264.0,
+            "Z": 2584.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.POI.NitroTown"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_NamedLocations.Quest_Ch5_Discover_NamedLocations",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_NamedLocations_NitroTown",
+          "ActiveDiscoverableBlodIds": [
+            55
           ]
         },
         {
@@ -736,8 +853,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindMill_01",
-            "SourceString": "The Windmill",
-            "LocalizedString": "The Windmill"
+            "SourceString": "The Wreckmill",
+            "LocalizedString": "The Wreckmill"
           },
           "WorldLocation": {
             "X": -69676.0,
@@ -753,6 +870,29 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WindMill",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Oasis_05",
+            "SourceString": "The Dam Bridge",
+            "LocalizedString": "The Dam Bridge"
+          },
+          "WorldLocation": {
+            "X": -63396.0,
+            "Y": -40840.0,
+            "Z": 4756.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Oasis.05"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -877,57 +1017,32 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Yacht",
-            "SourceString": "The Marigold",
-            "LocalizedString": "The Marigold"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WinterIsland",
+            "SourceString": "Winterburg",
+            "LocalizedString": "Winterburg"
           },
           "WorldLocation": {
-            "X": 9073.0,
-            "Y": -116194.0,
-            "Z": 2584.0
+            "X": 117724.0,
+            "Y": 18744.004,
+            "Z": 4756.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Yacht"
+            "TagName": "Athena.Location.UnNamedPOI.WinterIsland"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
             "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_Yacht",
-          "ActiveDiscoverableBlodIds": [
-            30
-          ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CostalVilla",
-            "SourceString": "Seaside Villa",
-            "LocalizedString": "Seaside Villa"
-          },
-          "WorldLocation": {
-            "X": -92680.0,
-            "Y": -38268.0,
-            "Z": 2584.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CostalVilla"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_CostalVilla",
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WinterIsland",
           "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_LoversLodge",
-            "SourceString": "Lovely Lodge",
-            "LocalizedString": "Lovely Lodge"
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_PeaBoisHQ",
+            "SourceString": "Pea Bois HQ",
+            "LocalizedString": "Pea Bois HQ"
           },
           "WorldLocation": {
             "X": -78152.0,
@@ -935,14 +1050,14 @@
             "Z": 5220.0
           },
           "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.LoversLodge"
+            "TagName": "Athena.Location.UnNamedPOI.PeaBoisHQ"
           },
           "CalendarEventsRequired": [],
           "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "AssetPathName": "",
             "SubPathString": ""
           },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_LoversLodge",
+          "DiscoverObjectiveBackendName": "None",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -953,7 +1068,7 @@
             "LocalizedString": "GRIM GATE"
           },
           "WorldLocation": {
-            "X": 18608.0,
+            "X": 23608.0,
             "Y": -55336.0,
             "Z": 2584.0
           },
@@ -978,7 +1093,7 @@
             "LocalizedString": "THE UNDERWORLD"
           },
           "WorldLocation": {
-            "X": 55712.0,
+            "X": 56712.0,
             "Y": -84900.0,
             "Z": 112.0
           },
@@ -1020,6 +1135,26 @@
         },
         {
           "Text": {
+            "CultureInvariantString": null
+          },
+          "WorldLocation": {
+            "X": -80604.0,
+            "Y": -24072.0,
+            "Z": 5220.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.RadioTower"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_Nightclub",
             "SourceString": "Slumberyard",
@@ -1042,29 +1177,6 @@
           "ActiveDiscoverableBlodIds": [
             225
           ]
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_CliffHouse",
-            "SourceString": "Cliffside Lodge",
-            "LocalizedString": "Cliffside Lodge"
-          },
-          "WorldLocation": {
-            "X": -102816.0,
-            "Y": 45720.0,
-            "Z": 4756.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.CliffHouse"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_C5_Discover_Landmarks_CliffHouse",
-          "ActiveDiscoverableBlodIds": []
         },
         {
           "Text": {
@@ -1097,8 +1209,8 @@
             "LocalizedString": "MOUNT OLYMPUS"
           },
           "WorldLocation": {
-            "X": -55820.0,
-            "Y": 63184.0,
+            "X": -61820.0,
+            "Y": 69184.0,
             "Z": 4756.0
           },
           "LocationTag": {
@@ -1118,11 +1230,11 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_Arena",
-            "SourceString": "BRAWLER`S BATTLEGROUND",
-            "LocalizedString": "BRAWLER`S BATTLEGROUND"
+            "SourceString": "BRAWLER'S BATTLEGROUND",
+            "LocalizedString": "BRAWLER'S BATTLEGROUND"
           },
           "WorldLocation": {
-            "X": -94424.0,
+            "X": -100424.0,
             "Y": 61156.0,
             "Z": 4756.0
           },
@@ -1254,6 +1366,29 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_AbandonedVilla",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_ModStation_02",
+            "SourceString": "Cliffside Lodge",
+            "LocalizedString": "Cliffside Lodge"
+          },
+          "WorldLocation": {
+            "X": -75628.0,
+            "Y": 14652.0,
+            "Z": 4756.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.ModStation.02"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_C5_Discover_Landmarks_CliffHouse",
           "ActiveDiscoverableBlodIds": []
         },
         {

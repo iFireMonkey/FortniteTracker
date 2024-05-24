@@ -92,7 +92,7 @@
     "68BE73464085FB522D005E90F5CCECBF": "Move to Inventory",
     "7767F1EA48135D90B4C943BC982844EA": "Move to Quickbar",
     "3188B8ED448F5CC890438297D6B3CC77": "Name is used on existing world",
-    "D4F5D7B943E711FBB08D58897A22BD83": "Names need to be 20 characters or less",
+    "D4F5D7B943E711FBB08D58897A22BD83": "Names need to be 32 characters or less",
     "A8F042384ED472DA9729C7A9BC0ABFD3": "Next",
     "174A7AFC4FD3B31919BFB5940F07C630": "Next Tip",
     "B50F0627453B97A303E1FE9E64C9F6BC": "Not In World",
@@ -144,6 +144,7 @@
     "C6B70B774B1806C51813D9BB7F87741E": "Select Recipe",
     "87607B044D7688D793BDEA83553DACDB": "Sleep Yourself",
     "40A543A4413988FB40DB68A44F46F071": "Smart Deposit",
+    "1F31A3E3430E82307FC062BFB0873E74": "Sort",
     "DD75FD514857A3BE4A2FC78594E8B432": "Stamina",
     "A64A76CB48AD98F7815FAFB4A4446D73": "Survival",
     "3E08458A4CBFE09274059CBADF9B70B1": "Take",
@@ -173,11 +174,24 @@
     "A989A5CF4C0499F047E6528187C64E28": "{button}"
   },
   "Juno_UserGeneratedTextStringTable": {
+    "Error_CharacterLimitReached_Title": "Character Limit Reached",
+    "Error_SpecialCharacter_Title": "Contains Special Characters",
     "CommunityRulesURL": "Fortnite Community Rules: https://www.epicgames.com/site/community-rules",
-    "AppealSanctionAction": "If you would like to <75_24_T1>appeal</> this decision, please visit <75_24_T1>https://epic.gm/my-sanctions</>",
+    "AppealSanctionAction": "If you would like to <ModalEmphasis>appeal</> this decision, please visit <ModalEmphasis>https://epic.gm/my-sanctions</>",
     "ParentalPermissionURL": "Learn more about parental permissions at rl.gg/cabinedaccounts",
+    "Error_NameChanged_Title": "Name Changed",
+    "Error_NameAlreadyUsed_Title": "Name Is In Use",
+    "Error_NameNotSupported_Title": "Name Is Not supported",
+    "Error_NameViolation_Title": "Name Violation",
     "OpenParentalControls": "Open Parental Controls",
-    "TryAgain": "Please try again."
+    "Error_CharacterLimitReached_Description": "Please note that <ModalEmphasis>names</> need to be <ModalEmphasis>32 characters</> or less.\r\n\r\nPlease try again.",
+    "Error_SpecialCharacter_Description": "Please note that <ModalEmphasis>special characters (/ : ? <> @) cannot</> be used in <ModalEmphasis>names</>.\r\n\r\nPlease try again.",
+    "TryAgain": "Please try again.",
+    "Error_NameChanged_Description_Moderation_WorldName": "The previous <ModalEmphasis>name</> for this <ModalEmphasis>world</> did not <ModalEmphasis>comply</> with our <ModalEmphasis>community rules</> and was <ModalEmphasis>changed</> to a default name.\r\n\r\nIf you would like to <ModalEmphasis>appeal</> this decision, please visit <ModalEmphasis>https://epic.gm/my-sanctions</>",
+    "Error_NameViolation_Description": "There are <ModalEmphasis>name violations</> in this world that <ModalEmphasis>did not comply</> with our <ModalEmphasis>community rules</>. <ModalEmphasis>Offending names</> have been <ModalEmphasis>changed</> to default names.\r\n\r\nIf you would like to <ModalEmphasis>appeal</> this decision, please visit <ModalEmphasis>https://epic.gm/my-sanctions</>",
+    "Error_NameNotSupported_Description": "This <ModalEmphasis>name</> is <ModalEmphasis>not supported</> per our <ModalEmphasis>community rules</>.\r\n\r\nPlease try again.",
+    "Error_NameChanged_Description_CabinedAccount_WorldName": "This account <ModalEmphasis>cannot</> enter <ModalEmphasis>user generated names</>.\r\n\r\nTherefore, <ModalEmphasis>all</> of your <ModalEmphasis>world names</> were <ModalEmphasis>changed</> to default names.",
+    "Error_NameAlreadyUsed_Description": "This name is <ModalEmphasis>currently used</> by an existing world.\r\n\r\nPlease try again."
   },
   "JunoWorldDataViewModel": {
     "CustomTag": "Custom",
