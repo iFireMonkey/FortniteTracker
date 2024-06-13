@@ -540,8 +540,8 @@
             "LocalizedString": "SANDY STEPPES"
           },
           "WorldLocation": {
-            "X": -79904.0,
-            "Y": -69808.0,
+            "X": -78214.0,
+            "Y": -70796.0,
             "Z": 112.0
           },
           "LocationTag": {
@@ -1017,29 +1017,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WinterIsland",
-            "SourceString": "Winterburg",
-            "LocalizedString": "Winterburg"
-          },
-          "WorldLocation": {
-            "X": 117724.0,
-            "Y": 18744.004,
-            "Z": 4756.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WinterIsland"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WinterIsland",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_PeaBoisHQ",
             "SourceString": "Pea Bois HQ",
             "LocalizedString": "Pea Bois HQ"
@@ -1234,8 +1211,8 @@
             "LocalizedString": "BRAWLER'S BATTLEGROUND"
           },
           "WorldLocation": {
-            "X": -100424.0,
-            "Y": 61156.0,
+            "X": -92352.0,
+            "Y": 59634.0,
             "Z": 4756.0
           },
           "LocationTag": {

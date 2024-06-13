@@ -14135,6 +14135,90 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.Vacation": {
+        "tag": {
+          "TagName": "Cosmetics.Set.Vacation"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "B81DF03A4D9F095C196AF6AB3AC983F3",
+          "SourceString": "Tropicalia",
+          "LocalizedString": "Tropicalia"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ComicPop": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ComicPop"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2C94FB734B2586478D9DD8A22E845100",
+          "SourceString": "Ultra Pop",
+          "LocalizedString": "Ultra Pop"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.Blob": {
+        "tag": {
+          "TagName": "Cosmetics.Set.Blob"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "FBD180FB42D89781B950FE84F1859438",
+          "SourceString": "Slurple Haze",
+          "LocalizedString": "Slurple Haze"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SidewayFragrance": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SidewayFragrance"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "DF28F2AB43C2E536E10888A489292EAA",
+          "SourceString": "Nick Eh 30",
+          "LocalizedString": "Nick Eh 30"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AngryStone": {
+        "tag": {
+          "TagName": "Cosmetics.Set.AngryStone"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "1112FB774B459ECF733A9C8B72BC5973",
+          "SourceString": "Metallica",
+          "LocalizedString": "Metallica"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.JunkPunk": {
+        "tag": {
+          "TagName": "Cosmetics.Set.JunkPunk"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "F8BC06F247BCFE8F3B26FBB366E69D73",
+          "SourceString": "Junks Not Dead",
+          "LocalizedString": "Junks Not Dead"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }
