@@ -12855,8 +12855,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.Perfection_DisplayName",
-          "SourceString": "Flawless Flora",
-          "LocalizedString": "Flawless Flora"
+          "SourceString": "Flawless",
+          "LocalizedString": "Flawless"
         },
         "Description": {
           "CultureInvariantString": null
@@ -14215,6 +14215,132 @@
           "Key": "F8BC06F247BCFE8F3B26FBB366E69D73",
           "SourceString": "Junks Not Dead",
           "LocalizedString": "Junks Not Dead"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GroanScheme": {
+        "tag": {
+          "TagName": "Cosmetics.Set.GroanScheme"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "CFFC5C17446A6CF539CE44AE4338D8AF",
+          "SourceString": "Pirates of the Caribbean",
+          "LocalizedString": "Pirates of the Caribbean"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PepperEnemy": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PepperEnemy"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "B04820EA4FD6D9E8E1095D98563A76FF",
+          "SourceString": "The Scovillain",
+          "LocalizedString": "The Scovillain"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShelterFish": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ShelterFish"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "ADA3972A41F98BC5C72AFD8BECEB4906",
+          "SourceString": "Safety Shark",
+          "LocalizedString": "Safety Shark"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DistinctDorm": {
+        "tag": {
+          "TagName": "Cosmetics.Set.DistinctDorm"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "E8725A5D4E4DA6C1B69EC7ABE4613490",
+          "SourceString": "Vault-Tec",
+          "LocalizedString": "Vault-Tec"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BelowEmpress": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BelowEmpress"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "D85F1F304D7A41058CA06C9092F6C669",
+          "SourceString": "Underworld Queen",
+          "LocalizedString": "Underworld Queen"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlindGrace": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BlindGrace"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "310C8D644663DC669C21C6B0298DE704",
+          "SourceString": "Weapon X",
+          "LocalizedString": "Weapon X"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CopperTube": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CopperTube"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "690F2C2047E75EDB1C81B5BA9EEA20B9",
+          "SourceString": "The Bronze Barrel",
+          "LocalizedString": "The Bronze Barrel"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ChiefInspire": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ChiefInspire"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "F329B28848992E19F72A35A6BCA42069",
+          "SourceString": "X-Men",
+          "LocalizedString": "X-Men"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PlatoCarnation": {
+        "tag": {
+          "TagName": "Cosmetics.Set.PlatoCarnation"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "D766921E4C412343DFAA67A2FF94F626",
+          "SourceString": "Flawless Flora",
+          "LocalizedString": "Flawless Flora"
         },
         "Description": {
           "CultureInvariantString": null
