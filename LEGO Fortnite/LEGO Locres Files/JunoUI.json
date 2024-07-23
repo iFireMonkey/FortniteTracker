@@ -127,8 +127,6 @@
     "7A1DC87D433B64E6BC8279968B916E0E": "<Subheading20_60p>Saved by the totem of</>\r\nTHE IMMORTAL",
     "9ACBB5E54EEBECC5078D0EB0739F0213": "<Teal>One more</>\r\n<LargeWhite>chance</><LargeTeal>!</>",
     "83C0F8FF48A7F03E498A4AB4E314272F": "<Yellow>Let's get</>\r\n<LargeWhite>back </><LargeYellow>up!</>",
-    "27BD7B0343C8DC90FE95B4A517BD84AD": "<text color=\"088899\">Loc:</> ???",
-    "69722B62475A9777E86B50A27E94B53E": "<text color=\"088899\">Loc:</> {X}, {Y}, {Z}",
     "40C2C330494007C8E08327BF6A54BDD7": "<text color=\"088899FF\">{StatType}</> <text color=\"{Color}\">{Value}</>",
     "784C8A564E59E68792817C86A6EBC30F": "<text color=\"1CFFD6\">1</><text size=\"20\"> / 1</>",
     "50331CB94659B8EE92D9B2B8A8801733": "<text color=\"33EEFF\">1</><text size=\"20\"> / 1</>",
@@ -241,7 +239,6 @@
     "A9AF388C463C30B53458BFAB1B1A6A73": "Category",
     "BF433D304653458822CBC4875BFD4D00": "Category",
     "605572654F771F3F95F5B98023D5A11E": "Cave",
-    "7D3D145D415A12C4C4C282A3ED2903B5": "Cave",
     "E44966DF4434FD16CE38028BB8E91712": "Cave",
     "46B501DB49B019FA5BED01BEFEA0B179": "Cave Exploration Essentials",
     "10E3163C455D61404921BCB3484F5327": "Caves",
@@ -827,6 +824,11 @@
   },
   "JunoCompassWidget": {
     "JunoCompassDistance": "{0} m"
+  },
+  "JunoFullscreenMap": {
+    "CaveLocationText": "<text color=\"088899\">Loc:</> ???",
+    "LocationRichText": "<text color=\"088899\">Loc:</> {0}, {1}, {2}",
+    "CaveBiomeText": "Cave"
   },
   "UJunoLocalPlayerViewModel": {
     "DescriptionOwnerDisconnected": "All world guests will be removed in {0} minutes.",

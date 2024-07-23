@@ -1,5 +1,6 @@
 {
   "": {
+    "D53C0AFD41781274D60256874411534D": "<75_24_T1>{OptionName}</>",
     "FDFAF905493991CCABE0838C367853DF": "Add Name",
     "A05C87B1470F538EC6069BB6F075D28A": "Advanced Settings - {GameMode} Mode",
     "0E5A20344448615F1E9EDE933998513F": "BY {OwnerUsername}",
@@ -45,6 +46,7 @@
     "4829F90D4D1E3D0E0E7189945D693FB5": "Last Played : {DateTime}",
     "595AF25046E2FD4E1F49289FD02A1EEE": "Loading Available Worlds",
     "BA67B4374E916D09AC33C7B0C3F1E61D": "Loading Completed!",
+    "1FDE3E724B17B0A56797DCBAD4090D64": "Manage Players",
     "81A837E64CD3865BCBCC748DAE25D4E8": "Moderation",
     "419149764893A35FC8C8F8BA49E3D3D6": "Multiplayer is unavailable due to a sanction.",
     "B4DACD6B4A97A7BDEB0AC8B1E80397A2": "My Worlds",
@@ -59,7 +61,6 @@
     "083484614241B88BFCC99391BEDAA3A9": "Okay",
     "548FD1BB4AFF599DEBD0B986E6EAC9C3": "Okay",
     "E80D253A476B04CAA3E544BB601BF2B9": "Okay",
-    "EC1DCF0844DC558CFFEC47AF01469A8D": "Okay",
     "34F81E9B43F149F78B0D3C8C82B7DBBA": "Overwrite",
     "520C351948C8AE6A110EA2A816DB8D80": "Overwrite World",
     "B8350FD64991059317021E8E08D94326": "Overwrite world?",
@@ -113,6 +114,8 @@
     "BF98C7A6417A4C3DC740D49A3C01C6CC": "World names will be visible to anyone you invite to your world. Do not include any personal information like your real name, address, or phone number.",
     "1F610AF744DF12212C1D37ADF585915E": "Worlds that you have access to when the owner is offline",
     "F9878CF447CEDD1BBE429C9F2E458688": "Yes",
+    "CF9470F14DA22B9FA50660A734938CD0": "You have been eliminated in this world.\r\nThere {NumSurvivingKeyholders}|plural(one=is,other=are) {NumSurvivingKeyholders} surviving {NumSurvivingKeyholders}|plural(one=keyholder,other=keyholders) to continue this adventure.",
+    "17F917FD42B58AFD06FED8B7368BA06C": "You have been eliminated in this world.\r\nYou can no longer join this adventure.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "You have not currently been made a\r\n<text color=\"CCF2FF\">key holder</> to any worlds.",
     "FAE7BC0A4BC16343FB96FE91127DDC3D": "You will be removed as a keyholder on this world and it will be cleared from your \"shared\" worlds. You will not be able to return to this world without an invitation from the world owner.",
     "973A30134C49780EE4639A9FF055650B": "Your Worlds",
@@ -144,6 +147,7 @@
   "Juno.WorldSelect": {
     "SelectWorld": "Select World",
     "WaitingPartyLeader": "Waiting For Party Leader...",
-    "WorldText": "World"
+    "WorldText": "World",
+    "WorldName": "{0}'s World"
   }
 }
