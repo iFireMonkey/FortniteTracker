@@ -14241,8 +14241,8 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "B04820EA4FD6D9E8E1095D98563A76FF",
-          "SourceString": "The Scovillain",
-          "LocalizedString": "The Scovillain"
+          "SourceString": "Well-Seasoned",
+          "LocalizedString": "Well-Seasoned"
         },
         "Description": {
           "CultureInvariantString": null
@@ -14318,20 +14318,6 @@
           "CultureInvariantString": null
         }
       },
-      "Cosmetics.Set.ChiefInspire": {
-        "tag": {
-          "TagName": "Cosmetics.Set.ChiefInspire"
-        },
-        "DisplayName": {
-          "Namespace": "",
-          "Key": "F329B28848992E19F72A35A6BCA42069",
-          "SourceString": "X-Men",
-          "LocalizedString": "X-Men"
-        },
-        "Description": {
-          "CultureInvariantString": null
-        }
-      },
       "Cosmetics.Set.PlatoCarnation": {
         "tag": {
           "TagName": "Cosmetics.Set.PlatoCarnation"
@@ -14341,6 +14327,132 @@
           "Key": "D766921E4C412343DFAA67A2FF94F626",
           "SourceString": "Flawless Flora",
           "LocalizedString": "Flawless Flora"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WhaleDay": {
+        "tag": {
+          "TagName": "Cosmetics.Set.WhaleDay"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "486DFB5D4D9E674CAC48E8A414F9A759",
+          "SourceString": "Deadpool & Wolverine",
+          "LocalizedString": "Deadpool & Wolverine"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TripleLines": {
+        "tag": {
+          "TagName": "Cosmetics.Set.TripleLines"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "4E50234F4C4A1D7E9D41779FAD94C006",
+          "SourceString": "Three Stripe Squad",
+          "LocalizedString": "Three Stripe Squad"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ChaosFighter": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ChaosFighter"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "88C6A8314FDAED262740E4BF9225FD95",
+          "SourceString": "Mayhem Marauder",
+          "LocalizedString": "Mayhem Marauder"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BrokeCrown": {
+        "tag": {
+          "TagName": "Cosmetics.Set.BrokeCrown"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "BBF7ED5C4E92454B0DB62DAB6BE0CC65",
+          "SourceString": "Crash King",
+          "LocalizedString": "Crash King"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ClothWings": {
+        "tag": {
+          "TagName": "Cosmetics.Set.ClothWings"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "7A490200442C87B0970EC7A7216E9AFA",
+          "SourceString": "Streetwear Batsassin",
+          "LocalizedString": "Streetwear Batsassin"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CalmStar": {
+        "tag": {
+          "TagName": "Cosmetics.Set.CalmStar"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "B6EB025647169987BCC8D795661CCAA9",
+          "SourceString": "Space-Touched Serenity",
+          "LocalizedString": "Space-Touched Serenity"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HotTaker": {
+        "tag": {
+          "TagName": "Cosmetics.Set.HotTaker"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "4AFA2DC4413B0E58121962985D8498D6",
+          "SourceString": "The Red Reaver",
+          "LocalizedString": "The Red Reaver"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.QuickSigns": {
+        "tag": {
+          "TagName": "Cosmetics.Set.QuickSigns"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "51B2CBD949F824AA3DDDC5A482D9B117",
+          "SourceString": "Ultrafast Firebrand",
+          "LocalizedString": "Ultrafast Firebrand"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SecretSonar": {
+        "tag": {
+          "TagName": "Cosmetics.Set.SecretSonar"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "AF3F3BF54E82601C4E6514A689542A51",
+          "SourceString": "Underground Batsassin",
+          "LocalizedString": "Underground Batsassin"
         },
         "Description": {
           "CultureInvariantString": null

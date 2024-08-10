@@ -837,15 +837,6 @@
           "LocalizedString": "Challenges"
         },
         "SortPriority": 1
-      },
-      "Test": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Test_Name",
-          "SourceString": "Test",
-          "LocalizedString": "Test"
-        },
-        "SortPriority": 0
       }
     }
   }
