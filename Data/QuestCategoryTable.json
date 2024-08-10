@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests20": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests20_Name",
+          "SourceString": "Scrapper Kyle Starter Bundle",
+          "LocalizedString": "Scrapper Kyle Starter Bundle"
+        },
+        "SortPriority": 540
+      },
       "StarterBundleQuests19": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -376,6 +385,15 @@
           "Key": "LTE_Brainstorm_Name",
           "SourceString": "Event: Eye of the Brainstorm",
           "LocalizedString": "Event: Eye of the Brainstorm"
+        },
+        "SortPriority": 52
+      },
+      "LTE_Outlandish": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_Outlandish_Name",
+          "SourceString": "Event: Outlandish Oddities",
+          "LocalizedString": "Event: Outlandish Oddities"
         },
         "SortPriority": 52
       },
@@ -837,6 +855,15 @@
           "LocalizedString": "Challenges"
         },
         "SortPriority": 1
+      },
+      "Test": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "Test_Name",
+          "SourceString": "Test",
+          "LocalizedString": "Test"
+        },
+        "SortPriority": 0
       }
     }
   }

@@ -4,10 +4,9 @@
     "1BB406B64426B670EC23788C7BD02275": "Channel 1",
     "46AB4B11404926906F96D880A1724DB5": "Channel 2",
     "195E29F74D7B4DA44C3F9CB3895332DA": "Channel 3",
-    "33C1B7ED4D19D21ACE1D93952EF45454": "Exit",
+    "BF3F19AF4F39DC6A0C5F1192E91531CB": "Channel 4",
     "4DDDC6034E9B797EFEB161AD5749A8AD": "Flip Vehicle",
     "0B956AC74715D6456D5C02B1803AB062": "Forward",
-    "FB49E2744CC3A6090D210A96B4288F87": "Hide/Show Controls",
     "59086AA54612D974BE9E3BB33086DE2A": "LEGO® Fortnite (Driver's Seat)",
     "90C797C6400B1294EC5CFEA24638A7FD": "Reverse",
     "047B56814FE243B3B28023A16A3BB1AE": "Sit",
@@ -17,11 +16,13 @@
     "B3BFC46945FAAA02DF3C3F9FC9B14DB1": "Sit",
     "F382B5F6415D1A089FECD497F897789C": "Steer Left",
     "8E2A6EE0493C0FA56A234986B87D2703": "Steer Right",
+    "4EE544AB3DB317776EB6344B7B76EE43": "Use up to <EmphA>four separate channels</> to drive power from switches to thrusters, wheels, and other toys, allowing them to be activated individually.",
     "9CE3966D4DC5991040547E98AECE8078": "VCU",
     "AF5BDB7D4D5F99444504F090BE04BD28": "VCU",
     "B3A685654359E63155446599B709643B": "VCU",
     "C4CE2DAA4C135B8204EBE2893C5BA75A": "VCU",
-    "E030E6764B0D0BD98948AD8C33880444": "VCU"
+    "E030E6764B0D0BD98948AD8C33880444": "VCU",
+    "4EE544AB3DB317776EB6344B91EEFBE1": "You'll need a <EmphA>Crafting Bench</> and an <EmphA>explosive</> resource."
   },
   "Juno_GameplayItemToTagMapping": {
     "404B070F44C946E47B10B19B17A28302": "Use this to make things go BOOM!",
@@ -46,7 +47,6 @@
     "303B45A14571A1B8C78221A9633EEAEA": "Wrench"
   },
   "PP_CraftingFormulas_ControlUnit": {
-    "11F0F03641F42598D00127A92D927E08": "ControlUnitProto",
     "ControlUnit_Large_DisplayName": "Large Driver's Seat",
     "ControlUnit_Medium_DisplayName": "Medium Driver's Seat",
     "ControlUnit_SmallA_DisplayName": "Small Driver's Seat",

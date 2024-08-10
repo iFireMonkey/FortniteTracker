@@ -51516,6 +51516,240 @@
         "Feature": false,
         "Selectable": false,
         "Exportable": true
+      },
+      "Outlandish_Quest_A01_Destroy_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a01_destroy",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A01_Destroy_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a01_destroy",
+        "TemplateId": "Quest:outlandish_quest_a02_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A02_Fetch_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a02_fetch",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A02_Fetch_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a02_fetch",
+        "TemplateId": "Quest:outlandish_quest_a03_rescuesurvivors",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A03_RescueSurvivors_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a03_rescuesurvivors",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A03_RescueSurvivors_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a03_rescuesurvivors",
+        "TemplateId": "Quest:outlandish_quest_a04_interact",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A04_Interact_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a04_interact",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A04_Interact_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a04_interact",
+        "TemplateId": "Quest:outlandish_quest_a05_fetch",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A05_Fetch_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a05_fetch",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A05_Fetch_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a05_fetch",
+        "TemplateId": "Quest:outlandish_quest_a06_destroy",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A06_Destroy_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a06_destroy",
+        "TemplateId": "Hero:hid_outlander_043_madcommander_vr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A06_Destroy_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a06_destroy",
+        "TemplateId": "Quest:outlandish_quest_a07_landmark",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A07_Landmark_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a07_landmark",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A07_Landmark_002": {
+        "QuestTemplateId": "Quest:outlandish_quest_a07_landmark",
+        "TemplateId": "Quest:outlandish_quest_a08_resupply",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "Outlandish_Quest_A08_Resupply_001": {
+        "QuestTemplateId": "Quest:outlandish_quest_a08_resupply",
+        "TemplateId": "Hero:hid_outlander_042_madcap_sr_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_01_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_01",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_02_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_02",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 200,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_03_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_03",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 300,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_04_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_04",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 400,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_05_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_05",
+        "TemplateId": "Currency:mtxgiveaway",
+        "Quantity": 500,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_GetRewards_001": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_getrewards",
+        "TemplateId": "Quest:stwstarterbundle20_01",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_GetRewards_002": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_getrewards",
+        "TemplateId": "Quest:stwstarterbundle20_02",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_GetRewards_003": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_getrewards",
+        "TemplateId": "Quest:stwstarterbundle20_03",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_GetRewards_004": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_getrewards",
+        "TemplateId": "Quest:stwstarterbundle20_04",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_GetRewards_005": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_getrewards",
+        "TemplateId": "Quest:stwstarterbundle20_05",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "STWStarterBundle20_GetRewards_006": {
+        "QuestTemplateId": "Quest:stwstarterbundle20_getrewards",
+        "TemplateId": "Token:quests_stwstarterbundle20",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
       }
     }
   }

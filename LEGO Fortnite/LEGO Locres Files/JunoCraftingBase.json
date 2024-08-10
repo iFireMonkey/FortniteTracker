@@ -137,6 +137,7 @@
     "F5BB78AC498920E1DB212CA81944E54C": "Roofs",
     "645D64A94B0AC0EAF146B5B999681892": "Rugged Rollers",
     "B05F029047926E229A3F6CB0C070F881": "Rugs",
+    "A97881924251D1E7E8FEF5BF925FF89B": "Salty Seaport",
     "C4D825F847165DFE95087EA52B6BD683": "Sandstone",
     "74D1394A4C1EC94F164D45BA0D6ACFAF": "Scrap Durasteel",
     "BA37F7FA4A8ADB3F01187AA897FC9CE3": "Sculptures",
@@ -298,5 +299,9 @@
     "30D9A002430652D6F079809C804C22AE": "Vines",
     "272FBB644F0D249A935B5FAAB8046805": "Wood",
     "EF2EE5F640860F10FD5C768349A98EA7": "Wooden Rod"
+  },
+  "JunoFECraftingDataTool": {
+    "ImGuiFrontendCraftingDataTool": "Juno Frontend Crafting Data Tool",
+    "ImGuiFrontendCraftingDataToolTooltip": "Tool for copying UI data for use in the frontend"
   }
 }
