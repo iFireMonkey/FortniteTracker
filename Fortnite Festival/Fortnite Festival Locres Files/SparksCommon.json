@@ -35,6 +35,7 @@
     "ACEBA7B34AD20A15C4351CA402FB77DB": "Measure",
     "03DBB3E249BF4153D3DF489917C2E3F3": "Measures",
     "E2B9760341AC41D5EB4D75B345EA6B18": "Metallic",
+    "779FA07F49D6496D312B8DB33E5C0F74": "Missing widget class.\r\n\r\nGo to your project's implementation, and find the Playspace blueprint that it uses.\r\n\r\nSet the 'CaptureToolWidgetClass' on the SparksCommonUtils playspace component to the widget that you would like to create here.",
     "33D2225C433B474DC991768B4E33F2E7": "Multiply",
     "E5B9F8B5426AF10631F0A98B79D92532": "MusicEnd",
     "A35D2F5840A32257BAF543A190AA9BA1": "MusicStart",

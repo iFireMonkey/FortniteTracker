@@ -18,6 +18,7 @@
     "B656578B4999CEEA0C3674B1409B5C1F": "3",
     "1BFEB20844B9A4132D05788DD039A558": "4",
     "DD3AC0AA473A5215427BA19230D3D674": "4",
+    "C15493854895E63D67D771A2C343C482": "ATTACK",
     "C016FA3F4A2829605E6F658F18AFC54B": "Analog Modulation Trigger",
     "327FE34A4C66E427D03D26B3C00F3BA9": "Apply",
     "D6775FB7491BD0DAEBD4B8A7482F7F4A": "Apply & Next",
@@ -134,6 +135,7 @@
     "1C2503C74112F65E87B99EB23969FB5B": "Note Passed",
     "219FD47E4DCB7E05FC82AFACEE9832FA": "NoteMissed",
     "28969F47429051C8BAA98CA3A885CB6E": "OVERDRIVE",
+    "7EF664FC406D3A1CC995CB9B474F04E7": "OVERDRIVE",
     "FAA6C44548C1FADF3912B28ED95E1B92": "One Hand",
     "3522210B449C9ECD40C35588F56D8A1E": "One Hand A",
     "3BEF8B2446A5B0EA42B66EB771A60B03": "One Hand A",
@@ -233,6 +235,9 @@
     "17DD8ECB46F03E95BB7F78A2F8E49953": "YOU'RE READY TO PLAY!",
     "FCC90785485575E608C1CDBEBDE40D20": "{value}x"
   },
+  "FortKeybindWidget": {
+    "Unbound": "Unbound"
+  },
   "PilgrimFilters": {
     "PilgrimArtistSort": "Artist Name",
     "PilgrimAvailableFilter": "Available",
@@ -241,6 +246,7 @@
     "PilgrimFeaturedFilter": "New & Featured",
     "PilgrimOwnedFilter": "Owned",
     "PilgrimOwnedSort": "Ownership",
+    "PilgrimSongSecondaryFilterUnarchivedOnly": "Show Archived",
     "PilgrimAlphaSort": "Song Title, A-Z",
     "PilgrimAlphaSortReverse": "Song Title, Z-A"
   },
@@ -273,9 +279,11 @@
     "NonProTrackInputButtonVisibility_Description": "Show reminders about the controls when playing Lead, Bass, Drums, or Vocals.",
     "ProTrackInputButtonVisibility_Description": "Show reminders about the controls when playing Pro Lead or Pro Bass.",
     "TrackSpeed_Name": "Track Speed",
+    "EnableVibrationForHittingNotes_Description": "Turns controller vibration when hitting notes on/off.",
     "UseAlternative5LaneTouchLayout_Description": "Turns the usage of an alternative 5-lane touch layout on/off. When on, the left side of the screen will be presented with 3 (three) buttons instead of 2 (two), and when playing a 5-lane song. The button for the third lane will be available on both sides of the screen. When off, the left side of the screen will be presented with 2 (two) buttons when playing a 5-lane song.",
     "UseAlternative5LaneTouchLayout_Name": "Use Alternative 5-Lanes Touch Layout",
     "UseProColorsForAllParts_Name": "Use Pro Colors for All Parts",
+    "EnableVibrationForHittingNotes_Name": "Vibration for Hitting Notes",
     "AudioOffset": "{0} milliseconds",
     "VideoOffset": "{0} milliseconds",
     "TrackSpeed_Display": "{0}x"

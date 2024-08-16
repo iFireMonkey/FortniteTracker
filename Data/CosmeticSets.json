@@ -6191,8 +6191,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.ProcessNotebook_DisplayName",
-          "SourceString": "The Mandalorian ",
-          "LocalizedString": "The Mandalorian "
+          "SourceString": "The Mandalorian",
+          "LocalizedString": "The Mandalorian"
         },
         "Description": {
           "CultureInvariantString": null
@@ -14523,6 +14523,202 @@
           "Key": "C3D748B74987365AF06001B2DFC7BC56",
           "SourceString": "Scrap & Burn",
           "LocalizedString": "Scrap & Burn"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HexagonVoxel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HexagonVoxel"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "131B245044E7FC70A8C168822C2D602F",
+          "SourceString": "Dimension Hex",
+          "LocalizedString": "Dimension Hex"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.NeonTubes": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.NeonTubes"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "BA10BAEE4DD115FAAD1BDB88F61D7AE8",
+          "SourceString": "Neon Encore",
+          "LocalizedString": "Neon Encore"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LipTherapist": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LipTherapist"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "19265BE34E072F6437BB6880D43AE454",
+          "SourceString": "Karol G",
+          "LocalizedString": "Karol G"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TalentedBother": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TalentedBother"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "0B11378745D1AC02F242D88E1CA0BE6D",
+          "SourceString": "Captain Jones",
+          "LocalizedString": "Captain Jones"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BeardMosaic": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BeardMosaic"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "1AB227E64FE170AC3C4F3E96D4DEA838",
+          "SourceString": "Iron Spider",
+          "LocalizedString": "Iron Spider"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AsylumBar": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AsylumBar"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "9A2E20D940EBF3505DED468C697FEFAA",
+          "SourceString": "War Machine",
+          "LocalizedString": "War Machine"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HypothesisFlow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HypothesisFlow"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "42367B764DF882821BE175A0648CF6E8",
+          "SourceString": "Gwenpool",
+          "LocalizedString": "Gwenpool"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SopranoSip": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SopranoSip"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "63CE371147149F7067765B884832518A",
+          "SourceString": "Emma Frost",
+          "LocalizedString": "Emma Frost"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MedievalSmoke": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MedievalSmoke"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "CF8F72284548C26BDEC757B4228684E2",
+          "SourceString": "Mysterio",
+          "LocalizedString": "Mysterio"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BananaFury": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BananaFury"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "251DED1A4783A6090E54C28E941B6486",
+          "SourceString": "Peelverine",
+          "LocalizedString": "Peelverine"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GreenEarthquake": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GreenEarthquake"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "D55B430842A7F43DB08EE19B1DE8AC2D",
+          "SourceString": "Fuzzy Phenom",
+          "LocalizedString": "Fuzzy Phenom"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WarmPopulation": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WarmPopulation"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "FD4961A345BB784674101EB5E9C9536B",
+          "SourceString": "Doom of Latveria",
+          "LocalizedString": "Doom of Latveria"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SwimCoin": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SwimCoin"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "65B063C84913D4F67FC09DA326123EC7",
+          "SourceString": "Hope Bringer",
+          "LocalizedString": "Hope Bringer"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.KangarooCrow": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.KangarooCrow"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "C7A62CE64739F66FC13E36A5BAA83429",
+          "SourceString": "Meowtooth",
+          "LocalizedString": "Meowtooth"
         },
         "Description": {
           "CultureInvariantString": null
