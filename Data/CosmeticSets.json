@@ -14723,6 +14723,76 @@
         "Description": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.Set.SquishShield": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SquishShield"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "1C4975814067C9D5AE05B7920C9F0376",
+          "SourceString": "Gummi Guard",
+          "LocalizedString": "Gummi Guard"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HonorTape": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HonorTape"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "C336210749E488CA76E8AC98415C21BC",
+          "SourceString": "Black Cat",
+          "LocalizedString": "Black Cat"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ForestSky": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ForestSky"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2D8D1AFA490874B831EF0EBE10195771",
+          "SourceString": "Fae Sunrise",
+          "LocalizedString": "Fae Sunrise"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CloudyWheel": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CloudyWheel"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "CE5768CE49BEF2E87D807E9E0C169C19",
+          "SourceString": "Roadstorm",
+          "LocalizedString": "Roadstorm"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SleepPlant": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SleepPlant"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "563E04324553B679DDC4DEADEE8C97DB",
+          "SourceString": "Midnight Rose",
+          "LocalizedString": "Midnight Rose"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }
