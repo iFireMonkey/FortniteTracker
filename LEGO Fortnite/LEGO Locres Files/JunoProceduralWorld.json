@@ -1,4 +1,7 @@
 {
+  "FJunoProceduralWorldEditorModule": {
+    "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors"
+  },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Adds the following attributes:{ActorPath} : String : A string path for the actor to spawn (copied from the table row){Representation} : Name : An EJunoRepresentation value for how it should be created (copied from the table row){RowName} : Float : The name of the chosen row.)docs",

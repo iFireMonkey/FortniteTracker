@@ -35,7 +35,6 @@
     "B5B175EB45FEF6411E67A79C0A9FB83C": "Enter a World ID to load a creator's world",
     "DAAFE0464D46AD52C041579CA7448FAC": "Enter a valid world ID below:",
     "95591845467C9AAEADCB06AEE8DB67BC": "Error",
-    "3EDE0F1D43B2AF0A248149B99CFD9978": "Every world will receive future content updates!",
     "A9F61A214D11F65BE415E0A6DD8FB48F": "If you have <75_24_T1>questions</> or would like to <75_24_T1>appeal</> this decision, please visit the <75_24_T1>sanction portal</> at <75_24_T1>safety.epicgames.com</> or contact <75_24_T1>Player Support</>.",
     "4829F90D4D1E3D0E0E7189945D693FB5": "Last Played : {DateTime}",
     "595AF25046E2FD4E1F49289FD02A1EEE": "Loading Available Worlds",
@@ -115,12 +114,6 @@
     "8CAF019C4F8114B4A1018B960A558327": "{WorldName}\r\n<text color=\"088899\" size=\"28\">OVERWRITTEN</>",
     "0E354CE64314DC89A65EC195D74E2DAE": "{WorldName}\r\n<text color=\"088899\" size=\"28\">REMOVED FROM SHARED WORLDS</>",
     "F0802B3843D67FD0717B9ABFF579A528": "{WorldTag1} - {WorldTag2}"
-  },
-  "Juno.CanMatchmakeErrors": {
-    "YouMustWaitForWorldToBeSelected": "Party Leader must select world first",
-    "WaitingForIslandRefresh": "Waiting for Island refresh",
-    "WorldUnavailable": "You don't have access to this world",
-    "YouMustSelectWorldFirst": "You must select a world first"
   },
   "Juno.WorldSelect": {
     "SelectWorld": "Select World",

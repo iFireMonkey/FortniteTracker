@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Pressure Plate",
+    "53154EE74D5D376B3B686BB88086E6C1": "Trigger Plate"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "A button you can stand on to turn on channels. The button needs to stay down to work! Can be connected to channel to allow triggering on and off.",
+    "5105BE2640EF2F340BFDACBBD992B887": "A button you can stand on to turn on channels. Unlike a Pressure Plate, the button doesn’t have to stay down.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "A switch you can stand behind... AND on top of!",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Pressure Plate",
+    "72407BB74A3BB4361BC8138E65BE9602": "Trigger Plate",
+    "B007D95344C458E23652D897346A66AE": "Works best under pressure."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Pressure Plate",
+    "TriggerPlate_DisplayName": "Trigger Plate"
+  }
+}

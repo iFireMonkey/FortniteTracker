@@ -5561,8 +5561,8 @@
         "DisplayName": {
           "Namespace": "CosmeticSets",
           "Key": "Cosmetics.Set.SpiderCrime_DisplayName",
-          "SourceString": "Web of Corruption ",
-          "LocalizedString": "Web of Corruption "
+          "SourceString": "Web of Corruption",
+          "LocalizedString": "Web of Corruption"
         },
         "Description": {
           "CultureInvariantString": null
@@ -14789,6 +14789,146 @@
           "Key": "563E04324553B679DDC4DEADEE8C97DB",
           "SourceString": "Midnight Rose",
           "LocalizedString": "Midnight Rose"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ShawlTime": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ShawlTime"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "6AE804814723442321E998BB0DB09B0E",
+          "SourceString": "The Incredibles",
+          "LocalizedString": "The Incredibles"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LockDose": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LockDose"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "17905E754BB789A1CCFEEE9FE04CFBA0",
+          "SourceString": "Rubius",
+          "LocalizedString": "Rubius"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OpenBird": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OpenBird"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "E06528AB4A67DE0536AC4AB284427B05",
+          "SourceString": "Feathered Freedom",
+          "LocalizedString": "Feathered Freedom"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DarkBeak": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkBeak"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "A58716E64D7EC8BD1236D593EE6A70B7",
+          "SourceString": "Feathermore",
+          "LocalizedString": "Feathermore"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TastyFire": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TastyFire"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "A69A5ECC49B39D476A98508EB5041B96",
+          "SourceString": "Ghost Ri-Durrr",
+          "LocalizedString": "Ghost Ri-Durrr"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SquashTemple": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SquashTemple"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "C68806B9479789E74FD0E9B5DD196C12",
+          "SourceString": "7th Birthday",
+          "LocalizedString": "7th Birthday"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HotPebble": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HotPebble"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "5FD63C82457378BA4CB93BBD2F95A0D3",
+          "SourceString": "Stone Aflame",
+          "LocalizedString": "Stone Aflame"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SaltyWant": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SaltyWant"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "11407B034D2DD96FA50E11B1CE8E2804",
+          "SourceString": "Cracker Craver",
+          "LocalizedString": "Cracker Craver"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ThinkerMixture": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ThinkerMixture"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "6083A1E747AFF79C3A260084520753E0",
+          "SourceString": "Kat's M.E.O.W.",
+          "LocalizedString": "Kat's M.E.O.W."
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.BlackHobbet": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.BlackHobbet"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2A512CA6452614F01B24CB8D153C9277",
+          "SourceString": "PUMA Rocket League Championship",
+          "LocalizedString": "PUMA Rocket League Championship"
         },
         "Description": {
           "CultureInvariantString": null
