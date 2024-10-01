@@ -1,6 +1,7 @@
 {
   "": {
     "3A683E3948BE98CB2E5A759104E06FA7": "/Script/FortniteGame.FortItemComponentData_Series(Series=\"/Script/FortniteGame.FortItemSeriesDefinition'/Game/Athena/Items/Cosmetics/Series/MarvelSeries.MarvelSeries'\")",
+    "4D66CE9D447704CC02CF9EAC90B204C3": "/Script/FortniteGame.FortItemComponentData_Series(Series=\"/Script/FortniteGame.FortItemSeriesDefinition'/Game/Athena/Items/Cosmetics/Series/MarvelSeries.MarvelSeries'\")",
     "D11E130D4DEC735D7305D58A827D4E52": "A cool blue choice for chilling riffs.",
     "17FAFF004432ADFD7AE53FA02E3CB166": "A rhythmic wrecker.",
     "73FF011846580A69C6BF0AB88E638F7C": "A shimmering transcendent harbinger of tone. ",
@@ -202,6 +203,7 @@
     "C47A3A4E4DDE87546DE627A0220FC3C5": "Drums",
     "C48F984D49C6B8711FB4DF891DCC82A7": "Drums",
     "C4CC762D44DA1CAC8DA59E8A83292DC7": "Drums",
+    "C7E6CAC84E7671F8E7E3329141474BF2": "Drums",
     "D18F5CBF46357616CDDA17A3CFC01D97": "Drums",
     "F35788414B7D44BB5E7F1A8C2A0C2F6F": "Drums",
     "E92B3CBB40899E0F43F53AA4C5C68112": "Dusk Light",
@@ -284,6 +286,7 @@
     "FB5BCEAB45F4132E5060C68D8A170C21": "Garage Classic",
     "2681C1E541D1AE94A15AF2A3812AFF9D": "Get Lost",
     "E758A8E4405ED916AA003197E0BF3BFC": "Get your kicks.",
+    "916E7FF14774D70596CF209C8CA1EDE5": "Ghost notes not included. ",
     "CAFD2F9046E86892F1BCB3B3655127BA": "Give 'em shell.",
     "2F59852745DB483F405C0A939835CF48": "Glacier Electric",
     "945EA4A94257266078051C98016494C1": "Glitch Groove",
@@ -343,7 +346,6 @@
     "4AFDFA6D49ADF2C213975B8F7760499D": "If Deadpool were a bass, what would he look like?",
     "1D119CC9417738B96D0BA18E032D661A": "Infuse your set with the mellow glow of late night neon.",
     "2CF708514ECF58B09811A68C4B79F605": "Instruments",
-    "USparksInstruments_SubMenu": "Instruments",
     "BAF9EEB7469165EEDD380DBD93CCFDFB": "Inventively industrial.",
     "8264F2A0445F12C0E782E5BCCF1B068E": "Iridescent",
     "6E5DDD1242F34AB24A9C488844DDA25B": "Iron Spider",
@@ -491,6 +493,7 @@
     "5E5C80F94A0C7706BC2F8D8B898A3CA2": "Pop Squid",
     "4864935346BBEB582D03EEA5766D28DC": "Potion Master",
     "89B774E84757D1F23988809839473BAB": "Punch the low end.",
+    "8F0E013041C1BDA71DAE15BFD63DD1DC": "Punkin' Basher",
     "4CD1FADA49BD95D6FAADD0BADF054658": "Purple",
     "71516EED4AA13353C2253E9D37E2AA3B": "Purple",
     "C55C44DB450B41A377791B9E294B639B": "Purple",
@@ -592,7 +595,6 @@
     "A92C765848F9A9A9EC05D099F27211B3": "SpeedY",
     "75BAF6334FE4AFD33F239A9F23483EF6": "Spinback",
     "197EA4714D7CA2913D79089E36159919": "Spit hot fire.",
-    "USparksSpotlight_SubMenu": "Spotlights",
     "CEA1136043AD48AF60FCAD9260542C46": "Starlight",
     "8518709A4211732296ADDEB9F83B376E": "Stay on beat and keep the peace.",
     "1F7DF6174F980023FDC8489DEAC2A210": "Stay on your toes. ",
@@ -600,6 +602,7 @@
     "137E9B7048A635481F4240B1D8ADBBF2": "Stowaway",
     "3083CD114D3055AB11A492A32C4EDCEE": "Strap Spin",
     "A01879324CBA4CFDA4BEFC99CAF888FD": "Stretch It",
+    "5DDC71D241BAB96CC8D228AAA9E61582": "Strummy Mummy",
     "E882642F48F99E9F91DA70AC3ABEA456": "Style",
     "BE71C2C643E585DA97E08F96FC676DC6": "Summon some ancient distortion.",
     "273E2235450D1A28F252CF983E59161E": "Summon the thunder.",
@@ -716,6 +719,7 @@
     "D43DC2F14CD4FE7465ECA490465C9286": "You have no <B>RECENT KEYBOARD</>.",
     "2E5B5B5D45F97E8B339E6BBC8BFEFA7A": "You have no <B>RECENT MICROPHONE</> archived.",
     "94FD98914BFCDF86481E2FBA9D64C61E": "You have no <B>RECENT MICROPHONE</>.",
+    "F4A355834895E6645181FC8F00D04CCC": "You will be cursed. It will be worth it. ",
     "FFA2A93C4873ED107C0AA091A39DD690": "You're a star.",
     "1C02BCA643801A20A9F939A6FDA504F6": "You're on FIRE! No, seriously, you're on fire.",
     "839EB387408359673B4FCA928656BFC1": "Your neighbors will forgive you eventually. ",
@@ -723,8 +727,6 @@
     "F9A933244E9BE8553B49C18E0E751864": "{0} {1}"
   },
   "AssetFactory": {
-    "INSTRUMENT_ASSET_KEY(ASSET_TYPE)": "INSTRUMENT_ASSET_NAME(ASSET_TYPE)",
-    "SPOTLIGHT_ASSET_KEY(ASSET_TYPE)": "SPOTLIGHT_ASSET_NAME(ASSET_TYPE)",
     "AssetFactory_SparksAuraAsset": "Sparks Aura"
   },
   "SparksCosmetics": {
