@@ -14920,8 +14920,6 @@
           "CultureInvariantString": null
         }
       },
-<<<<<<< Updated upstream
-=======
       "Cosmetics.Set.SoftFear": {
         "Tag": {
           "TagName": "Cosmetics.Set.SoftFear"
@@ -14978,6 +14976,20 @@
           "CultureInvariantString": null
         }
       },
+      "Cosmetics.Set.AmberMuseum": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AmberMuseum"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "9AF8C5414880CE819B06FC90D008BBEA",
+          "SourceString": "Mephisto",
+          "LocalizedString": "Mephisto"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
       "Cosmetics.Set.GourdArmor": {
         "Tag": {
           "TagName": "Cosmetics.Set.GourdArmor"
@@ -14987,6 +14999,20 @@
           "Key": "7BF865564D101F3047251B9207A8A8B0",
           "SourceString": "Knight of the Patch",
           "LocalizedString": "Knight of the Patch"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LeanIdea": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LeanIdea"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "11ACEE694FF0A85C8C6CE9B6598D715C",
+          "SourceString": "Sewn Sally",
+          "LocalizedString": "Sewn Sally"
         },
         "Description": {
           "CultureInvariantString": null
@@ -15020,26 +15046,159 @@
           "CultureInvariantString": null
         }
       },
->>>>>>> Stashed changes
+      "Cosmetics.Set.StickyOctagon": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StickyOctagon"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticSets",
+          "Key": "CD7BE0254FEE7B77E1D0F9A74BF04F97",
+          "SourceString": "Spider-Woman",
+          "LocalizedString": "Spider-Woman"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SharpCarpals": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SharpCarpals"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "3B354C664683A07895A031BF7D803E33",
+          "SourceString": "Edward Scissorhands",
+          "LocalizedString": "Edward Scissorhands"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
       "Cosmetics.Set.BlackHobbet": {
         "Tag": {
           "TagName": "Cosmetics.Set.BlackHobbet"
         },
         "DisplayName": {
           "Namespace": "",
-<<<<<<< Updated upstream
-          "Key": "2A512CA6452614F01B24CB8D153C9277",
-=======
-          "Key": "506C8EC244776563AEF3E883DD317C6C",
->>>>>>> Stashed changes
+          "Key": "6772B10F41798749D45BD395CF5504DE",
           "SourceString": "PUMA Rocket League Championship",
           "LocalizedString": "PUMA Rocket League Championship"
         },
         "Description": {
           "CultureInvariantString": null
         }
-<<<<<<< Updated upstream
-=======
+      },
+      "Cosmetics.Set.StateDiamond": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StateDiamond"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "B43AD1904E9687427BA8C5867C30FDFF",
+          "SourceString": "Disney Villains",
+          "LocalizedString": "Disney Villains"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AffectionateMetal": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AffectionateMetal"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "32CCE5CC4776EFD24D6CB5877CDE40F0",
+          "SourceString": "Leatherface",
+          "LocalizedString": "Leatherface"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StuffedEars": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StuffedEars"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "FECE1EA84FD62550611172824394EA27",
+          "SourceString": "Scare Bear",
+          "LocalizedString": "Scare Bear"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HistoryCreature": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HistoryCreature"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "9BEACD164D76C619822607AEB4F0AEFF",
+          "SourceString": "Mythical Monster",
+          "LocalizedString": "Mythical Monster"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.SmartHit": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.SmartHit"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "14FBDAC54FC71EF82811D4919C8FD1AA",
+          "SourceString": "Impact Tactical",
+          "LocalizedString": "Impact Tactical"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DarkBrat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DarkBrat"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "EA07FBF34B2B4F37ED35B885959228E8",
+          "SourceString": "Ghoul Punk",
+          "LocalizedString": "Ghoul Punk"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.HypeRock": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.HypeRock"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "26DF62554D91000FBA991EB8B519351E",
+          "SourceString": "Party Moon",
+          "LocalizedString": "Party Moon"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.WorkMisdeed": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.WorkMisdeed"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "9BD736A64A26442A02FE238490365BFA",
+          "SourceString": "Toil & Trouble",
+          "LocalizedString": "Toil & Trouble"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       },
       "Cosmetics.Set.TinyRino": {
         "Tag": {
@@ -15047,14 +15206,27 @@
         },
         "DisplayName": {
           "Namespace": "",
-          "Key": "E0833EE6488E2A075597B59997184A6D",
+          "Key": "0F487A1046235AAFFD59559BDFF52FA5",
           "SourceString": "Fast & Furious",
           "LocalizedString": "Fast & Furious"
         },
         "Description": {
           "CultureInvariantString": null
         }
->>>>>>> Stashed changes
+      },
+      "Cosmetics.Set.FusciaBrass": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FusciaBrass"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "E42BDCB44456CDA7865E49A5A2EB14FE",
+          "SourceString": "Cobalt Snow",
+          "LocalizedString": "Cobalt Snow"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
       }
     }
   }
