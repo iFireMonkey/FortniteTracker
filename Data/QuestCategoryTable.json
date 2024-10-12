@@ -64,6 +64,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests21": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests21_Name",
+          "SourceString": "Ghoul Punk Starter Bundle",
+          "LocalizedString": "Ghoul Punk Starter Bundle"
+        },
+        "SortPriority": 550
+      },
       "StarterBundleQuests20": {
         "Name": {
           "Namespace": "QuestCategoryTable",

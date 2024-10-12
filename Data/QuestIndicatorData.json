@@ -348,8 +348,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_RiverCapital",
-            "SourceString": "RECKLESS RAILWAYS",
-            "LocalizedString": "RECKLESS RAILWAYS"
+            "SourceString": "Freaky Fields",
+            "LocalizedString": "Freaky Fields"
           },
           "WorldLocation": {
             "X": 20536.0,
@@ -555,29 +555,6 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WaterMill",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_TrainStation_03",
-            "SourceString": "Grand Station",
-            "LocalizedString": "Grand Station"
-          },
-          "WorldLocation": {
-            "X": 19124.0,
-            "Y": 50668.0,
-            "Z": 5220.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.TrainStation.03"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_GrandTrainStation",
           "ActiveDiscoverableBlodIds": []
         },
         {
@@ -1179,29 +1156,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Glacier",
-            "SourceString": "Zenith Wall",
-            "LocalizedString": "Zenith Wall"
-          },
-          "WorldLocation": {
-            "X": 5154.6733,
-            "Y": 82110.88,
-            "Z": 4756.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.Glacier"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_Glacier",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_MountOlympus",
             "SourceString": "MOUNT OLYMPUS",
             "LocalizedString": "MOUNT OLYMPUS"
@@ -1251,8 +1205,8 @@
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_POI_Arena",
-            "SourceString": "BRAWLER'S BATTLEGROUND",
-            "LocalizedString": "BRAWLER'S BATTLEGROUND"
+            "SourceString": "Brawler's Patch",
+            "LocalizedString": "Brawler's Patch"
           },
           "WorldLocation": {
             "X": -92352.0,
@@ -1371,29 +1325,6 @@
         {
           "Text": {
             "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
-            "Key": "NameForLocation_Athena_Location_UnNamedPOI_WindTurbines",
-            "SourceString": "Breezy Coast",
-            "LocalizedString": "Breezy Coast"
-          },
-          "WorldLocation": {
-            "X": 69344.0,
-            "Y": 119908.0,
-            "Z": 4756.0
-          },
-          "LocationTag": {
-            "TagName": "Athena.Location.UnNamedPOI.WindTurbines"
-          },
-          "CalendarEventsRequired": [],
-          "DiscoveryQuest": {
-            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
-            "SubPathString": ""
-          },
-          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_WindTurbines",
-          "ActiveDiscoverableBlodIds": []
-        },
-        {
-          "Text": {
-            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
             "Key": "NameForLocation_Athena_Location_UnNamedPOI_AbandonedVilla",
             "SourceString": "Reclaimed Villa",
             "LocalizedString": "Reclaimed Villa"
@@ -1460,6 +1391,29 @@
             "SubPathString": ""
           },
           "DiscoverObjectiveBackendName": "None",
+          "ActiveDiscoverableBlodIds": []
+        },
+        {
+          "Text": {
+            "Namespace": "DisplayNamesForPOIs_Helios_Terrain",
+            "Key": "NameForLocation_Athena_Location_UnNamedPOI_Glacier",
+            "SourceString": "Zenith Wall",
+            "LocalizedString": "Zenith Wall"
+          },
+          "WorldLocation": {
+            "X": 4349.0,
+            "Y": 95908.0,
+            "Z": 9362.0
+          },
+          "LocationTag": {
+            "TagName": "Athena.Location.UnNamedPOI.Glacier"
+          },
+          "CalendarEventsRequired": [],
+          "DiscoveryQuest": {
+            "AssetPathName": "/Game/Athena/Items/Quests/BattlePass/LocationDiscoveryQuests/Quest_Ch5_Discover_Landmarks.Quest_Ch5_Discover_Landmarks",
+            "SubPathString": ""
+          },
+          "DiscoverObjectiveBackendName": "Quest_Ch5_Discover_Landmarks_Glacier",
           "ActiveDiscoverableBlodIds": []
         },
         {

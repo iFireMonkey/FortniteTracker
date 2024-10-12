@@ -439,7 +439,7 @@
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
           "SourceString": "Kratos has arrived on the island.",
-          "LocalizedString": "Kratos has arrived on the island."
+          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
         }
       },
       "promodesc2": {
@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Drop in with the Master Chief and finish the fight."
+          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island."
+          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island."
+          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
         }
       },
       "promodesc17": {
@@ -3222,8 +3222,8 @@
         "FormatedText": {
           "Namespace": "",
           "Key": "497FEC044852B0BA7325C1BA55D44761",
-          "SourceString": "TBD",
-          "LocalizedString": "TBD"
+          "SourceString": "Wrap matches Outfit colors and logo when wearing a Boundless set Outfit!",
+          "LocalizedString": "Wrap matches Outfit colors and logo when wearing a Boundless set Outfit!"
         }
       },
       "promodesc120": {
@@ -3336,6 +3336,22 @@
           "Key": "6C15CB9840525E6936F7849424EFD598",
           "SourceString": "Items in this bundle are restricted to The Incredibile car body. This car can only use the decals included in this bundle. This car will fill the Sports Car slot in relevant Fortnite experiences.",
           "LocalizedString": "Items in this bundle are restricted to The Incredibile car body. This car can only use the decals included in this bundle. This car will fill the Sports Car slot in relevant Fortnite experiences."
+        }
+      },
+      "bullet": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "9776A50741FFB6F2D1C61988115C2D25",
+          "SourceString": "Includes car, car variants, and customizable decals! Decals in this bundle are restricted to the McLaren Senna car body. This Car will fill the Sports Car slot in relevant Fortnite experiences.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Decals in this bundle are restricted to the McLaren Senna car body. This Car will fill the Sports Car slot in relevant Fortnite experiences."
+        }
+      },
+      "canvasprint": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "BB31B719482FD72922E3DC984AF264A4",
+          "SourceString": "Outfit reacts to music! Backbling & Wrap reacts to eliminations!",
+          "LocalizedString": "Outfit reacts to music! Backbling & Wrap reacts to eliminations!"
         }
       }
     }

@@ -4,7 +4,6 @@
     "789FE0AB49DD5D65B5C8E7AAE155EE24": "#{rank}",
     "551700474DA870454FEA11A21EC9D5D0": "<Title>",
     "3E79DC0E43398520BD9DB887E22E6B74": "<b>Finish matches</> in <b>Racing</> to progress through the ranks!",
-    "7534AEDF4FEFF194B87718AB3D510EE0": "<b>Inferno Island</> is the latest update to Rocket Racing's ranked play!",
     "613BB3BF4240B3F09D3B1381E2496B29": "<b>Matchmaking is based on the highest ranked player in your party.</>",
     "8F14737F4DC76C0DAC97508DF88D97CE": "Back",
     "F8487B4544F29BEF453831A184B226B2": "Back",
@@ -32,8 +31,6 @@
     "C2F8B0DB465AF75428DB158BCB72A1B5": "I",
     "C4AF24D840C84E9907B7909EFB322F0F": "II",
     "04CC329040FA301903C013A0B204DC38": "III",
-    "3D8B390B4E6AD89D8D0662A094AC57C2": "INFERNO ISLAND",
-    "77E65678498408FD5BB578A7F27A423F": "INFERNO ISLAND",
     "08BAE510476A0EC6D6542DAB6791B4ED": "Label",
     "1FF734AF4229E0DB17D3B6950D2CC2F8": "Label",
     "2ED822434CC306CF01BC1CA7E7A4EF7A": "Learn The Ropes",
@@ -79,7 +76,6 @@
     "DFB05B3849C423C870AD3C8F742B87DC": "Select",
     "8832010B4307C60D5C03CE9C4E25CEF4": "Speed Run",
     "591D5D494B556AF923324ABA6818D2FA": "The highest rank is Unreal. When you reach this rank, you'll be able to see your rank on the global leaderboard. This will be proudly showcased alongside your badge!",
-    "5F7821134EB959CDBC6485847781C655": "There are new tracks at each rank -- challenge yourself to play them all!",
     "32931FA8430D727F5B669B82EB64DF2F": "Thrash Mountain",
     "4A56D23040F7598B8BFBB4AE59ACE3A0": "Time Left",
     "F6EC27E04C3A0D88CBFE049459922346": "Time Left",
@@ -89,7 +85,7 @@
     "8DD34B4D48A2C6CE26953E81BFC94E5F": "Welcome to Rocket Racing!",
     "1D5C75534515C47D8D71AEA0ACF53AA4": "Welcome to the big leagues! From this point forward, ranking up will be more challenging.",
     "8C0564C64919FA98895F44974FC97AD8": "You will continue to earn rank points for each race.",
-    "B000C6934955D81D9F25EB9050EF479A": "Your rank will reset at the next rank update.",
+    "2715DDE84DED6CECF8475BAC71BE7EEB": "Your rank will reset at the next ranked update. Speed Run Leaderboards are also reset at this time.",
     "6598EFC8474B25FAF03A2F9623F0B5C2": "[PH] Content descriptor, Blood and Gore, Intense Violence, Nudity, Sexual Content, Strong Language, Use of Drugs",
     "4909D5A4459F3B55F408E3B6B1FAE9E6": "[PH] Interaction descriptor, In-Game Purchases, Users Interact",
     "EA909F204AD0A4A64D21D999B7ED1602": "[PH] Teen very long text",
@@ -98,7 +94,6 @@
     "AFFD698441615521BDCF47BFC6A7F05E": "{number}%"
   },
   "ActivityBrowserView": {
-    "00C0EB064AD99EA92A8EEF9FA3B70F86": "Discover",
     "58F5F4A04D60864F6A9F04A357728AE9": "Discover"
   }
 }

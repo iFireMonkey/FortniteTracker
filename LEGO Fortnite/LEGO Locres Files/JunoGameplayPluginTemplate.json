@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-{}
-=======
 {
   "": {
     "36CF320596A3ABE3DE446281EA7678B0": "01x12",
@@ -25,7 +22,7 @@
     "17BD8C5D4E960C29DA9BC5A555B7F3FF": "A set of Pirate beds for sweet dreams of treasure",
     "A6E061CF423A7CCC43B962A2D802FD55": "A set of bone-chilling decor ",
     "E5DBE46345A8C3273029C790CF0710C3": "A small home perfect for a seaside view.",
-    "2FE71E06163B32266EB6344B8290B00F": "A stinky item dropped by an <EmphA>hostile creature</> from the <img id=\"IcoGra\"/> <Gra>Grasslands</>.",
+    "2FE71E06163B32266EB6344B8290B00F": "A stinky item dropped by an <EmphA>hostile creature</>.",
     "0583A8CB49139F4586E155A7256371E7": "A two-handed musket used to knock enemies ashore.",
     "32650FED4DD92291D3FB4891676381C1": "A two-handed musket used to knock enemies ashore.",
     "5CFF2F3042730C67029FA9A8EC12D45F": "A two-handed musket used to knock enemies ashore.",
@@ -35,6 +32,8 @@
     "2A81087743E48C1D55B778B6AAFA5904": "Aim this one carefully...",
     "2FE71E06163B32266EB6344B9FC4346D": "An expensive <EmphA>metal</> from <Klo>lush Caves</>.",
     "2FE71E06163B32266EB6344BF0A8E2AD": "An item dropped by <EmphA>Pirates</>.",
+    "697648D049D58792F95E9F8DAD5ECF4D": "Audio",
+    "E383AEEB4921720627ECD980C4301570": "Audio",
     "E1C63BEF42A64D30672E639948F9B046": "Banana",
     "D799740849C5150A962037A78913B82C": "Banana Pancakes",
     "060A8B5449DFEF0C49E98589193DF37D": "Bone",
@@ -80,14 +79,14 @@
     "76028CF6437B565808CB868605BEE659": "Flintknock Pistol",
     "A6FC8413405A0EFBAD948B9D5FB3E311": "Flintknock Pistol",
     "2FE71E06163B32266EB6344B6B537964": "Found in <EmphB>all Biomes</>.",
+    "2FE71E06163B32266EB6344B3F5483C5": "Found in <EmphB>most Biomes</>.",
+    "2FE71E06163B32266EB6344B19B02B35": "Found in the <Klo>Lost Isles Caves</> and in the <img id=\"IcoDes\"/> <Des>Dry Valley Caves</>.",
     "2FE71E06163B32266EB6344B67BD4226": "Found in the <Klo>Lost Isles Jungle</>.",
     "2FE71E06163B32266EB6344BA251EB4A": "Found in the <img id=\"IcoFro\"/> <Fro>Frostlands</>.",
     "2FE71E06163B32266EB6344B057D1548": "Found in the <img id=\"IcoGra\"/> <Gra>Grasslands</>.",
-    "2FE71E06163B32266EB6344B3F5483C5": "Found in the <img id=\"IcoGra\"/> <Gra>Grasslands</>.",
     "2FE71E06163B32266EB6344B4E69E1AA": "Found on the <Klo>Lost Isles Beaches</>.",
     "2FE71E06163B32266EB6344B57E1E225": "Found on the <Klo>Lost Isles Beaches</>.",
     "2FE71E06163B32266EB6344B3053CBC4": "Found on the <Klo>Lost Isles Caves</> and in the <img id=\"IcoDes\"/> <Des>Dry Valley Caves</>.",
-    "2FE71E06163B32266EB6344B19B02B35": "Found on the <Klo>Lost Isles</> caves and in the <img id=\"IcoDes\"/> <Des>Dry Valley Caves</>.",
     "2FE71E06163B32266EB6344B178C34B5": "Found on the <Klo>Lost Isles</>.",
     "2FE71E06163B32266EB6344B2A655179": "Found on the <Klo>Lost Isles</>.",
     "2FE71E06163B32266EB6344B43362CE6": "Found on the <Klo>Lost Isles</>.",
@@ -107,6 +106,7 @@
     "BE9416624EFE1FBC20545E8640599945": "Just a little trim...",
     "50B6F5264E6BACBE11B405ABA9D80A7E": "Just a small slash 'n hack...",
     "E16677F34AC1FC3B5DC7CBB432E0CB87": "Klomberry",
+    "672464B3419EF861C03756BBC9D49884": "Klomberry Seed",
     "C10064E4442FFE174E3187816FFA15C3": "Klombo Island Peely Tribe enemies",
     "E4877563432D0396B05C969E0E00BDEA": "Klombo Island Tomato Cult enemies",
     "2FE71E06163B32266EB6344B685BB845": "Klombo's favorite <EmphA>stone</>.",
@@ -191,6 +191,7 @@
     "0DDE18E44820159363D495B9C6866EC6": "Tomato",
     "33584A834DC702C1468E208F335671E9": "Tomato",
     "91DEC8D7459215A2B3E078B98DB7EC5A": "Tomato Cult",
+    "9C5A2F8D46E94AE8E9BFBABB2D11B8B1": "Tomato Seed",
     "D439FD0E47BFB9247C78479752687EA3": "Topiaries beware!",
     "3556E2384C49C3580AE534AA0CE8B9BB": "Tropical Smoothie",
     "E5EE0FB64204FDEF770A758D73AC53BD": "Tudor House",
@@ -398,6 +399,8 @@
     "DA6BCF6B4D328D57AE6A4FBC1FD7A014": "Frost Bear Pelt",
     "A8CEDD1A4C8167C79C6F739FBCCC70F9": "Gold Ore",
     "C5D4C2B742B0E5872E2C46BF55A0986A": "Klomberry Seed",
+    "2EC8FD814E073E6B093C92964F891CB5": "One small step towards fresh klomberries.",
+    "065539694D69A7FB236EDD8295271166": "One small step towards fresh tomatos.",
     "CDB149C5479646ABFEB8BE82493408D2": "Red Rock",
     "90577E9F410CD69C3516BF9B8A233DA7": "Red Rock Slab",
     "E65FAAA84E2C71FA77E829BE302B7AF6": "Rough Emerald",
@@ -541,6 +544,21 @@
     "F1ABEF1048A53E2DF31BA190C0CE9E7A": "You know, it's got an even sharper point.",
     "551353D246778B0225A37385B8B293D3": "You know, it's got the sharpest point I've ever seen.",
     "F05ABA11494F3C597DAF7C92B30EAC38": "placeholder"
+  },
+  "UObjectToolTips": {
+    "SoundLibrarySimpleContextSettings:PitchMultiplier": "A linear scalar multiplied with the pitch",
+    "SoundLibrarySimpleContextSettings:VolumeMultiplier": "A linear scalar multiplied with the volume, in order to make the sound louder or softer",
+    "SoundLibrarySimpleContextSettings:AttachToComponent": "Component used for spawning attached sounds.  If not specified, will fall back to the actor's default attach component.",
+    "SoundLibrarySimpleContextSettings:Location": "Either a relative offset from attach component or an absolute world position translated to a relative offset. (Depends on the value of Location Type)",
+    "SoundLibrarySimpleContextSettings:bAttachedSound": "If true, an audio component is created and attached to the scene component specified in the USoundLibrarySimpleContext.",
+    "SoundLibrarySimpleContextSettings:StartTime": "Length (in seconds) in which to begin playback",
+    "SoundLibrarySimpleContextSettings:AttenuationSettings": "Override Attenuation settings package",
+    "SoundLibrarySimpleContextSettings:ConcurrencySettings": "Override Concurrency settings package",
+    "SoundLibrarySimpleContextSettings:bAutoDestroy": "Should we cleanup the audio component when the sound completes or is stopped",
+    "SoundLibrarySimpleContextSettings:bStopWhenAttachedDestroyed": "Should we stop playing when the owner of the attach component is destroyed",
+    "SoundLibrarySimpleContextSettings:AttachName": "Socket or bone name used for attachment",
+    "SoundLibrarySimpleContextSettings:LocationType": "Specifies whether Location is a relative offset or an absolute world position",
+    "SoundLibrarySimpleContextSettings:EventName": "The name of the corresponding event in a SoundLibrary",
+    "SoundLibrarySimpleContextSettings:bForceComponentCreation": "force creation of an audio component"
   }
 }
->>>>>>> Stashed changes
