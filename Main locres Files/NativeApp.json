@@ -12,19 +12,6 @@
     "TripleElimination": "Triple Elimination",
     "Win": "Win"
   },
-  "GameFeatureCanChange": {
-    "SameFeature": "Already in client Feature",
-    "TooEarly": "Cannot change active feature yet",
-    "EarlyStartup": "Cannot return to early startup",
-    "DedicatedServer": "Clients cannot change to dedicated server",
-    "DedicatedServerOnly": "Dedicated servers cannot change client Feature",
-    "DownloadFailed": "Feature failed to download",
-    "Downloading": "Feature is still downloading",
-    "Unavailable": "Feature is unavailable",
-    "Invalid": "Invalid Feature",
-    "OtherToGameplay": "Must be Frontend to enter gameplay",
-    "NoPC": "No Player Controller"
-  },
   "ReturnToMainMenuReason": {
     "PlaybackError": "There was an error during replay playback."
   },

@@ -2,6 +2,10 @@
   "AllChatChannelNS": {
     "AllChatChannelKey": "All"
   },
+  "AppleRHI": {
+    "MetalRHIOptionsError": "-sm6 is selected but Mac requires OS 15 to support SM6",
+    "MetalMissingTargetError": "No Targeted RHI is set for this project, defaulting to SM5"
+  },
   "AssetTypeActions": {
     "DataTable_MissingRowStructListEntry": "* {0} (Row Structure: {1})",
     "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",

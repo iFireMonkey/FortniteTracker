@@ -433,6 +433,7 @@
     "850AED9A47FCB3E017F067A26B7F8570": "Hungry",
     "E2CD3998402D425533B76A9332D600CA": "Hungry",
     "61A45DD44841C4D3517AFB87257BC23E": "Hunting for Knotroot?",
+    "0788CA954A2C5A200A3BF0B90EBFCC2B": "ITEMS ACQUIRED",
     "769842DF42521C320617929F558601AF": "If an enemy charges at you, time a Dodge Roll or raise your Knight Shield to avoid damage.",
     "EC987CA5440A6E6C67BD0C8C3BFDB088": "If you have <text color=\"D5E8E4\">questions</> or would like to <text color=\"D5E8E4\">appeal</> this decision, please visit the <text color=\"D5E8E4\">sanction portal</> at <text color=\"D5E8E4\">safety.epicgames.com</> or contact <text color=\"D5E8E4\">Player Support</>.",
     "AED72E684EA274FAB2D90FBF22D9460C": "If you need Copper, you'll need to brave the hazards of the Lava Caves.",
@@ -741,6 +742,7 @@
     "493EE2D14AC85EBDFCA05AB258C83AA5": "Tap",
     "C8C96C274DD3AC9CB03ED69DD4D78D3B": "Tap",
     "0359A7AF410B8E9713C20294BE1D4D7D": "Tap to place marker",
+    "AE5A41F04A654CCA1300768E62D1B99A": "Thanks for playing LEGO® Fortnite!",
     "A796105A42ADF0C707EE72A447CD8E18": "The Frostlands areas offer the harshest challenge in the world.",
     "6D6E46CD4B4135C56B243C92A3908B17": "Theme",
     "8399EBCE4A7917A67270D9BF58C7A023": "Theme",
@@ -940,6 +942,8 @@
     "478D68374170DFC5FF08A2A9684364DD": "{Text}",
     "1A55618F4A51D8AAA640F0849B610D52": "{Text}{Colon}",
     "96DCFDC848A8D4E4050517A5B4A9E19B": "{X}  {Y}  {Z}",
+    "0B2EE3A44F1007D00C7FDA8C165FC16F": "{assetString}",
+    "B769F7AD4E3E6DCA0B7483A2A883505B": "{assetString}",
     "EBBBC9DA485509F019ECE8921408BF79": "{assetString}",
     "22C37E0947235F5A09D5CB9A88C8775E": "{button}",
     "BBC3386742CED8A3EBFDB5AC0CF76FD5": "{count} Build recipes",
@@ -952,5 +956,21 @@
   },
   "FortTabListWidgetBase": {
     "UnspecifiedTab": "Unspecified"
+  },
+  "JunoCompassWidget": {
+    "JunoCompassDistance": "{0} m"
+  },
+  "JunoFullscreenMap": {
+    "CaveLocationText": "<text color=\"088899\">Loc:</> ???",
+    "LocationRichText": "<text color=\"088899\">Loc:</> {0}, {1}, {2}"
+  },
+  "UJunoLocalPlayerViewModel": {
+    "DescriptionOwnerDisconnected": "All world guests will be removed in {0} minutes.",
+    "TitleOwnerDisconnected": "The owner of this world has disconnected",
+    "DescriptionKeyholder": "You can now re-enter this world at any time from the Shared tab in the World selection screen.",
+    "TitleKeyholder": "{0} made you a keyholder!"
+  },
+  "UJunoPlayerIndicatorWidget": {
+    "Distance": "{0}m"
   }
 }
