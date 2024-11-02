@@ -231,21 +231,32 @@
           "LocalizedString": "This item has a tied in emote that alters outfit"
         }
       },
+      "Cosmetics.UserFacingFlags.Emote.BeatSynced": {
+        "Tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Emote.BeatSynced"
+        },
+        "DisplayName": {
+          "Namespace": "CosmeticUserFacingTags",
+          "Key": "CD404D73427F86B65C875C872B451694",
+          "SourceString": "Beat Synced",
+          "LocalizedString": "Beat Synced"
+        },
+        "HelpText": {
+          "CultureInvariantString": null
+        }
+      },
       "Cosmetics.UserFacingFlags.UniversalDecal": {
         "Tag": {
           "TagName": "Cosmetics.UserFacingFlags.UniversalDecal"
         },
         "DisplayName": {
-          "Namespace": "CosmeticUserFacingTags",
-          "Key": "492E0A5D477A4496E3BB88B424E89A01",
+          "Namespace": "",
+          "Key": "2723D381406896E07292B881A6E5A57B",
           "SourceString": "Universal Decal",
           "LocalizedString": "Universal Decal"
         },
         "HelpText": {
-          "Namespace": "CosmeticUserFacingTags",
-          "Key": "FB54D6AA4F7A6427DBA18AA18FF30BFC",
-          "SourceString": "Vehicle Cosmetics Skin Universal",
-          "LocalizedString": "Vehicle Cosmetics Skin Universal"
+          "CultureInvariantString": null
         }
       }
     }
