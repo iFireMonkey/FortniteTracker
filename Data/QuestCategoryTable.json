@@ -10,42 +10,6 @@
       }
     },
     "Rows": {
-      "Compendium": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Compendium_Name",
-          "SourceString": "Battle Royale Compendium",
-          "LocalizedString": "Battle Royale Compendium"
-        },
-        "SortPriority": 1000
-      },
-      "BRDailyChallenges": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "BRDailyChallenges_Name",
-          "SourceString": "Battle Royale Daily Challenges",
-          "LocalizedString": "Battle Royale Daily Challenges"
-        },
-        "SortPriority": 990
-      },
-      "BREvent": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "BREvent_Name",
-          "SourceString": "Battle Royale Event",
-          "LocalizedString": "Battle Royale Event"
-        },
-        "SortPriority": 980
-      },
-      "BR_BattlePass": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "BR_BattlePass_Name",
-          "SourceString": "Battle Pass",
-          "LocalizedString": "Battle Pass"
-        },
-        "SortPriority": 970
-      },
       "MainQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -262,15 +226,6 @@
         },
         "SortPriority": 340
       },
-      "StreamerQuests": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "StreamerQuests_Name",
-          "SourceString": "Live Streaming Quests",
-          "LocalizedString": "Live Streaming Quests"
-        },
-        "SortPriority": 320
-      },
       "TutorialQuests": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -394,6 +349,15 @@
           "Key": "LTE_Brainstorm_Name",
           "SourceString": "Event: Eye of the Brainstorm",
           "LocalizedString": "Event: Eye of the Brainstorm"
+        },
+        "SortPriority": 52
+      },
+      "LTE_HuntMonster": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "LTE_HuntMonster_Name",
+          "SourceString": "Event: Hunt the Titan",
+          "LocalizedString": "Event: Hunt the Titan"
         },
         "SortPriority": 52
       },
@@ -586,15 +550,6 @@
         },
         "SortPriority": 33
       },
-      "Promo_BattleBreakers": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "Promo_BattleBreakers_Name",
-          "SourceString": "Promotion: Battle Breakers",
-          "LocalizedString": "Promotion: Battle Breakers"
-        },
-        "SortPriority": 31
-      },
       "LTE_Starlight": {
         "Name": {
           "Namespace": "QuestCategoryTable",
@@ -646,15 +601,6 @@
           "Key": "LTE_Fortnite_Bday_2_Name",
           "SourceString": "Event: Fortnite 2nd Birthday Celebration",
           "LocalizedString": "Event: Fortnite 2nd Birthday Celebration"
-        },
-        "SortPriority": 26
-      },
-      "LTE_Fortnite_Bday_3": {
-        "Name": {
-          "Namespace": "QuestCategoryTable",
-          "Key": "LTE_Fortnite_Bday_3_Name",
-          "SourceString": "Event: Fortnite 3rd Birthday Celebration",
-          "LocalizedString": "Event: Fortnite 3rd Birthday Celebration"
         },
         "SortPriority": 26
       },

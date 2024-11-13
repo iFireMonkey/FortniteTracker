@@ -17,7 +17,8 @@
     "Loop": "You cannot loop back to already visited checkpoints within a lap. Device {0} has a Next Checkpoints Array that references {1}, which was referenced by {2} earlier in the lap. {3}",
     "DoesntOverlapFinishLine": "Your Primary RR Track must extend from your Starting Line RR Checkpoint to your Finish Line RR Checkpoint. It is not currently intersecting your RR Checkpoint marked as your Finish Line. {0}",
     "DoesntOverlapStartingLine": "Your Primary RR Track must extend from your Starting Line RR Checkpoint to your Finish Line RR Checkpoint. It is not currently intersecting your RR Checkpoint marked as your Starting Line. {0}",
-    "DeadEnd": "{0} does not contain one or more \"Next Checkpoints\" references that eventually lead to the Finish Line RR Checkpoint. {1}"
+    "DeadEnd": "{0} does not contain one or more \"Next Checkpoints\" references that eventually lead to the Finish Line RR Checkpoint. {1}",
+    "Orphan": "{0} is not connected in the track."
   },
   "DelMarValidator_ModeManager": {
     "MultipleModeManager": "There is more than one RR Race Manager placed. Tracks must contain exactly one RR Race Manager. {0}",

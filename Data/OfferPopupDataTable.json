@@ -439,7 +439,7 @@
           "Namespace": "",
           "Key": "2C72E6254A90740BA8BC67A8577A0AE8",
           "SourceString": "Kratos has arrived on the island.",
-          "LocalizedString": "Kratos has arrived on the island. Complete a match on PS5 to unlock the Armored Kratos style!"
+          "LocalizedString": "Kratos has arrived on the island."
         }
       },
       "promodesc2": {
@@ -447,7 +447,7 @@
           "Namespace": "",
           "Key": "45B2D0C548992CF87F317FBE530975AA",
           "SourceString": "Drop in with the Master Chief and finish the fight.",
-          "LocalizedString": "Master Chief has arrived on the island. Complete a match on Xbox Cloud Gaming to unlock a matte black style!"
+          "LocalizedString": "Drop in with the Master Chief and finish the fight."
         }
       },
       "historianpickaxedesc": {
@@ -1407,7 +1407,7 @@
           "Namespace": "",
           "Key": "CFC36DCB477F92E47248AEB5CC8A3CDE",
           "SourceString": "Marcus has arrived on the island.",
-          "LocalizedString": "Marcus has arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style!"
+          "LocalizedString": "Marcus has arrived on the island."
         }
       },
       "promodesc16": {
@@ -1415,7 +1415,7 @@
           "Namespace": "",
           "Key": "922C91A44B2A1780F3B9FD9D22AD688E",
           "SourceString": "Marcus and Kait have arrived on the island.",
-          "LocalizedString": "Marcus and Kait have arrived on the island. Complete a match on Xbox Cloud Gaming or Xbox Series X|S to unlock a matte black style for Marcus!"
+          "LocalizedString": "Marcus and Kait have arrived on the island."
         }
       },
       "promodesc17": {
@@ -3368,6 +3368,14 @@
           "Key": "40DBB8534640982570B644A36C3DFD1F",
           "SourceString": "Unsheathe the <text color=\"FFFFFFFF\">DECA-FLAIL</> Pickaxe from the Back Bling when both are equipped!",
           "LocalizedString": "Unsheathe the <text color=\"FFFFFFFF\">DECA-FLAIL</> Pickaxe from the Back Bling when both are equipped!"
+        }
+      },
+      "jam": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "EC5DBE054C492D04E44FBC8FA215F1D9",
+          "SourceString": "Includes car, car variants, and customizable decals! Decals in this bundle are restricted to the Porsche 911 GT3 RS car body. This Car will fill the Sports Car slot in relevant Fortnite experiences.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Decals in this bundle are restricted to the Porsche 911 GT3 RS car body. This Car will fill the Sports Car slot in relevant Fortnite experiences."
         }
       }
     }

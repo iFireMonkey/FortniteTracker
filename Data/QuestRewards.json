@@ -24580,924 +24580,6 @@
         "Selectable": false,
         "Exportable": true
       },
-      "ProgressionTest_T1_1_001": {
-        "QuestTemplateId": "Quest:progressiontest_t1_1",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_1_002": {
-        "QuestTemplateId": "Quest:progressiontest_t1_1",
-        "TemplateId": "Quest:progressiontest_t1_2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_1_003": {
-        "QuestTemplateId": "Quest:progressiontest_t1_1",
-        "TemplateId": "Quest:progressiontest_t1_2v",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_2_001": {
-        "QuestTemplateId": "Quest:progressiontest_t1_2",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_2_002": {
-        "QuestTemplateId": "Quest:progressiontest_t1_2",
-        "TemplateId": "Quest:progressiontest_t1_3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_2_003": {
-        "QuestTemplateId": "Quest:progressiontest_t1_2",
-        "TemplateId": "Quest:progressiontest_t1_3v",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_3_001": {
-        "QuestTemplateId": "Quest:progressiontest_t1_3",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_3_002": {
-        "QuestTemplateId": "Quest:progressiontest_t1_3",
-        "TemplateId": "Quest:progressiontest_t1_4",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_3_003": {
-        "QuestTemplateId": "Quest:progressiontest_t1_3",
-        "TemplateId": "Quest:progressiontest_t1_4v",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_4_001": {
-        "QuestTemplateId": "Quest:progressiontest_t1_4",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_4_002": {
-        "QuestTemplateId": "Quest:progressiontest_t1_4",
-        "TemplateId": "Quest:progressiontest_t1_5",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_4_003": {
-        "QuestTemplateId": "Quest:progressiontest_t1_4",
-        "TemplateId": "Quest:progressiontest_t1_5v",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_5_001": {
-        "QuestTemplateId": "Quest:progressiontest_t1_5",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T1_5_002": {
-        "QuestTemplateId": "Quest:progressiontest_t1_5",
-        "TemplateId": "Quest:outpostquest_t4_l2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_1_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_1",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_1_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_1",
-        "TemplateId": "Quest:progressiontest_t2_2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_1_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_1",
-        "TemplateId": "Quest:progressiontest_t2_v2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_10_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_10",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_10_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_10",
-        "TemplateId": "Quest:progressiontest_t2_11",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_10_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_10",
-        "TemplateId": "Quest:progressiontest_t2_v11",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_11_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_11",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_11_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_11",
-        "TemplateId": "Quest:progressiontest_t2_12",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_11_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_11",
-        "TemplateId": "Quest:progressiontest_t2_v12",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_12_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_12",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_12_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_12",
-        "TemplateId": "Quest:outpostquest_t4_l3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_2_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_2",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_2_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_2",
-        "TemplateId": "Quest:progressiontest_t2_3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_2_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_2",
-        "TemplateId": "Quest:progressiontest_t2_v3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_3_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_3",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_3_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_3",
-        "TemplateId": "Quest:progressiontest_t2_4",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_3_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_3",
-        "TemplateId": "Quest:progressiontest_t2_v4",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_4_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_4",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_4_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_4",
-        "TemplateId": "Quest:progressiontest_t2_5",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_4_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_4",
-        "TemplateId": "Quest:progressiontest_t2_v5",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_5_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_5",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_5_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_5",
-        "TemplateId": "Quest:progressiontest_t2_6",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_5_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_5",
-        "TemplateId": "Quest:progressiontest_t2_v6",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_6_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_6",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_6_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_6",
-        "TemplateId": "Quest:progressiontest_t2_7",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_6_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_6",
-        "TemplateId": "Quest:progressiontest_t2_v7",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_7_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_7",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_7_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_7",
-        "TemplateId": "Quest:progressiontest_t2_8",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_7_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_7",
-        "TemplateId": "Quest:progressiontest_t2_v8",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_8_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_8",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_8_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_8",
-        "TemplateId": "Quest:progressiontest_t2_9",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_8_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_8",
-        "TemplateId": "Quest:progressiontest_t2_v9",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_9_001": {
-        "QuestTemplateId": "Quest:progressiontest_t2_9",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_9_002": {
-        "QuestTemplateId": "Quest:progressiontest_t2_9",
-        "TemplateId": "Quest:progressiontest_t2_10",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T2_9_003": {
-        "QuestTemplateId": "Quest:progressiontest_t2_9",
-        "TemplateId": "Quest:progressiontest_t2_v10",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_1_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_1",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_1_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_1",
-        "TemplateId": "Quest:progressiontest_t3_2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_1_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_1",
-        "TemplateId": "Quest:progressiontest_t3_v2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_10_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_10",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_10_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_10",
-        "TemplateId": "Quest:progressiontest_t3_11",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_10_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_10",
-        "TemplateId": "Quest:progressiontest_t3_v11",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_11_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_11",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_11_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_11",
-        "TemplateId": "Quest:progressiontest_t3_12",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_11_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_11",
-        "TemplateId": "Quest:progressiontest_t3_v12",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_12_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_12",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_12_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_12",
-        "TemplateId": "Quest:progressiontest_t3_13",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_12_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_12",
-        "TemplateId": "Quest:progressiontest_t3_v13",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_13_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_13",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_13_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_13",
-        "TemplateId": "Quest:progressiontest_t3_14",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_13_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_13",
-        "TemplateId": "Quest:progressiontest_t3_v14",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_14_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_14",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_14_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_14",
-        "TemplateId": "Quest:progressiontest_t3_15",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_14_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_14",
-        "TemplateId": "Quest:progressiontest_t3_v15",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_15_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_15",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_15_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_15",
-        "TemplateId": "Quest:progressiontest_t3_16",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_15_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_15",
-        "TemplateId": "Quest:progressiontest_t3_v16",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_16_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_16",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_16_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_16",
-        "TemplateId": "Quest:progressiontest_t3_17",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_16_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_16",
-        "TemplateId": "Quest:progressiontest_t3_v17",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_17_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_17",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_17_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_17",
-        "TemplateId": "Quest:progressiontest_t3_18",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_17_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_17",
-        "TemplateId": "Quest:progressiontest_t3_v18",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_18_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_18",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_18_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_18",
-        "TemplateId": "Quest:outpostquest_t4_l4",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_2_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_2",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_2_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_2",
-        "TemplateId": "Quest:progressiontest_t3_3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_2_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_2",
-        "TemplateId": "Quest:progressiontest_t3_v3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_3_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_3",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_3_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_3",
-        "TemplateId": "Quest:progressiontest_t3_4",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_3_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_3",
-        "TemplateId": "Quest:progressiontest_t3_v4",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_4_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_4",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_4_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_4",
-        "TemplateId": "Quest:progressiontest_t3_5",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_4_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_4",
-        "TemplateId": "Quest:progressiontest_t3_v5",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_5_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_5",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_5_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_5",
-        "TemplateId": "Quest:progressiontest_t3_6",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_5_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_5",
-        "TemplateId": "Quest:progressiontest_t3_v6",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_6_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_6",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_6_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_6",
-        "TemplateId": "Quest:progressiontest_t3_7",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_6_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_6",
-        "TemplateId": "Quest:progressiontest_t3_v7",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_7_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_7",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_7_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_7",
-        "TemplateId": "Quest:progressiontest_t3_8",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_7_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_7",
-        "TemplateId": "Quest:progressiontest_t3_v8",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_8_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_8",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_8_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_8",
-        "TemplateId": "Quest:progressiontest_t3_9",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_8_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_8",
-        "TemplateId": "Quest:progressiontest_t3_v9",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_9_001": {
-        "QuestTemplateId": "Quest:progressiontest_t3_9",
-        "TemplateId": "AccountResource:heroxp",
-        "Quantity": 2000,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_9_002": {
-        "QuestTemplateId": "Quest:progressiontest_t3_9",
-        "TemplateId": "Quest:progressiontest_t3_10",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "ProgressionTest_T3_9_003": {
-        "QuestTemplateId": "Quest:progressiontest_t3_9",
-        "TemplateId": "Quest:progressiontest_t3_v10",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
       "PromoQuest_RoosterTeeth2017_001": {
         "QuestTemplateId": "Quest:promoquest_roosterteeth2017",
         "TemplateId": "Weapon:wid_pistol_semiauto_r_ore_t01",
@@ -34518,15 +33600,6 @@
       },
       "TestQuest_SelectableRewards_002": {
         "QuestTemplateId": "Quest:testquest_selectablerewards",
-        "TemplateId": "Quest:testquest_selectablerewards2",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "TestQuest_SelectableRewards_003": {
-        "QuestTemplateId": "Quest:testquest_selectablerewards",
         "TemplateId": "WorldItem:stoneitemdata",
         "Quantity": 50,
         "Hidden": false,
@@ -34534,7 +33607,7 @@
         "Selectable": true,
         "Exportable": true
       },
-      "TestQuest_SelectableRewards_004": {
+      "TestQuest_SelectableRewards_003": {
         "QuestTemplateId": "Quest:testquest_selectablerewards",
         "TemplateId": "WorldItem:wooditemdata",
         "Quantity": 100,
@@ -34559,15 +33632,6 @@
         "Hidden": false,
         "Feature": false,
         "Selectable": true,
-        "Exportable": true
-      },
-      "TestQuest_SelectableRewards2_003": {
-        "QuestTemplateId": "Quest:testquest_selectablerewards2",
-        "TemplateId": "Quest:testquest_selectablerewards3",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
         "Exportable": true
       },
       "TestQuest_SelectableRewards3_001": {
@@ -34617,15 +33681,6 @@
       },
       "TestQuest10_004": {
         "QuestTemplateId": "Quest:testquest10",
-        "TemplateId": "Quest:testquest9",
-        "Quantity": 1,
-        "Hidden": false,
-        "Feature": false,
-        "Selectable": false,
-        "Exportable": true
-      },
-      "TestQuest10_005": {
-        "QuestTemplateId": "Quest:testquest10",
         "TemplateId": "WorldItem:metalitemdata",
         "Quantity": 100,
         "Hidden": false,
@@ -34633,7 +33688,7 @@
         "Selectable": true,
         "Exportable": true
       },
-      "TestQuest10_006": {
+      "TestQuest10_005": {
         "QuestTemplateId": "Quest:testquest10",
         "TemplateId": "WorldItem:stoneitemdata",
         "Quantity": 100,
@@ -34642,7 +33697,7 @@
         "Selectable": true,
         "Exportable": true
       },
-      "TestQuest10_007": {
+      "TestQuest10_006": {
         "QuestTemplateId": "Quest:testquest10",
         "TemplateId": "WorldItem:wooditemdata",
         "Quantity": 100,
@@ -51844,6 +50899,69 @@
       "STWStarterBundle21_GetRewards_006": {
         "QuestTemplateId": "Quest:stwstarterbundle21_getrewards",
         "TemplateId": "Token:quests_stwstarterbundle21",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "GenericQuest_CompleteBetaStorms_Repeatable_001": {
+        "QuestTemplateId": "Quest:genericquest_completebetastorms_repeatable",
+        "TemplateId": "AccountResource:eventcurrency_scaling",
+        "Quantity": 100,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "GenericQuest_CompleteBetaStorms_Repeatable_002": {
+        "QuestTemplateId": "Quest:genericquest_completebetastorms_repeatable",
+        "TemplateId": "Quest:genericquest_completebetastorms_repeatable",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HuntMonster_Quest_A01_Interact_001": {
+        "QuestTemplateId": "Quest:huntmonster_quest_a01_interact",
+        "TemplateId": "AccountResource:campaign_event_currency",
+        "Quantity": 250,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HuntMonster_Quest_A01_Interact_002": {
+        "QuestTemplateId": "Quest:huntmonster_quest_a01_interact",
+        "TemplateId": "Quest:huntmonster_quest_a02_destroycrystal",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HuntMonster_Quest_A02_DestroyCrystal_001": {
+        "QuestTemplateId": "Quest:huntmonster_quest_a02_destroycrystal",
+        "TemplateId": "Schematic:sid_sniper_primal_flamebow_sr_ore_t01",
+        "Quantity": 1,
+        "Hidden": false,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HuntMonster_Quest_A02_DestroyCrystal_002": {
+        "QuestTemplateId": "Quest:huntmonster_quest_a02_destroycrystal",
+        "TemplateId": "Quest:huntmonster_quest_a03_completehuntmission",
+        "Quantity": 1,
+        "Hidden": true,
+        "Feature": false,
+        "Selectable": false,
+        "Exportable": true
+      },
+      "HuntMonster_Quest_A03_CompleteHuntMission_001": {
+        "QuestTemplateId": "Quest:huntmonster_quest_a03_completehuntmission",
+        "TemplateId": "Hero:hid_ninja_045_snowstrike_sr_t01",
         "Quantity": 1,
         "Hidden": false,
         "Feature": false,
