@@ -1,0 +1,46 @@
+{
+  "": {
+    "34989E094E237548945454956F57E11F": "ABOUT THIS CREATOR",
+    "BEE1662C4A50AA7A49E104AC7508E513": "CLOSE",
+    "D11FCA22415D3E957505D889AC9D850C": "Creator Name",
+    "08092A8D4764AD16113A4084E71B8F11": "Creator Profile",
+    "305045AD4C0A9D29B36D31A8CBABA058": "Creator Profile",
+    "7508EF1F4A7E8C05C6F26FB7497704C5": "Creator Profile",
+    "AADFE0374A1B1790B25BA28F4F6A7831": "Example Device",
+    "2BFE3DCF4C7A89B1B90F62A4BB0A64E6": "Markus Mayham",
+    "F05710F34D6CB6D9450A6AB0B9023915": "More",
+    "297621F74D515A6F7F9E3088B18AE3BB": "Not a creator? Enroll now!",
+    "6ABD7FD845CEEBD8EC4E02A3AF779DB2": "Presents links to profile information about the island’s creator.",
+    "BF7A44F24958950C3B72C09F1D138187": "Presents links to profile information about the island’s creator.",
+    "DBB3A6D44E7D0EB24398B586BA4D7B13": "Presents links to profile information about the island’s creator.",
+    "1240A49848D5A59C2C01A1A9FC9CDA89": "QR Unavailable",
+    "3DCAF11D4E2457AA548CA5A8A25F3198": "QR Unavailable",
+    "6ACDD64D426B5F624236628F5947DC4E": "Unavailable in Edit Mode"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Always",
+    "EEnabledOnPhase.Create Only.DisplayName": "Create Only",
+    "Device_CreatorProfile_C.TwoSided.Description": "Determines if the device will display on both sides of the billboard.",
+    "Device_CreatorProfile_C.EnabledDuringPhase.Description": "Determines which phases the device is enabled in. Pre-Game includes all phases that occur before the game starts (including while waiting for players in the lobby).",
+    "Device_CreatorProfile_C.Disable.DisplayName": "Disable",
+    "Device_CreatorProfile_C.Disabled.DisplayName": "Disabled",
+    "Device_CreatorProfile_C.Disable.Description": "Disables the device",
+    "Device_CreatorProfile_C.Enable.DisplayName": "Enable",
+    "Device_CreatorProfile_C.Enabled.DisplayName": "Enabled",
+    "Device_CreatorProfile_C.EnabledDuringPhase.DisplayName": "Enabled During Phase",
+    "Device_CreatorProfile_C.Enable.Description": "Enables the device",
+    "Device_CreatorProfile_C.FaceCamera.DisplayName": "Face Camera",
+    "Device_CreatorProfile_C.Disabled.Description": "Fires an event when the device is Disabled",
+    "Device_CreatorProfile_C.Enabled.Description": "Fires an event when the device is Enabled",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Gameplay Only",
+    "EEnabledOnPhase.None.DisplayName": "None",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Pre-Game Only",
+    "Device_CreatorProfile_C.TwoSided.DisplayName": "Two Sided",
+    "Device_CreatorProfile_C.FaceCamera.Description": "When enabled the creator profile information will automatically rotate to face players’ cameras."
+  }
+}

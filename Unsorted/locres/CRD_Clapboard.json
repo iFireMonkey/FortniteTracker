@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "Clapboard",
+    "56A03FF7436EC20DE829418960AB9A08": "Clapboard",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "Count Down",
+    "54EF511B43B2E65B7886F99DA6DD9816": "Count Up",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "Disabled",
+    "AE5B62204B1FB18FD103519F4F38C337": "If set, this clapboard will only send a signal if the stream hitting its timestamp is the stream specified.",
+    "77D7DD294A81C19292A44388D4D1A105": "Invalid Stream",
+    "15CAFDE0497C42D493DB10828B7326A0": "Sends a signal when the currently playing video reaches a defined timestamp.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "Sends signals when the playing stream reaches a point in its playback.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "Sets the timer on the clapboard to count down to 0 or up to it's set time.",
+    "47A0B0E747D41C694384768BB2B392E6": "Specific Stream",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "Time (Milliseconds)",
+    "2ED1F344488EB2612D092586C1725442": "Time (Minutes)",
+    "5750BFD542FFB083102152A0A1BC2154": "Time (Seconds)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "Time Readout",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "Transmit when Time Reached",
+    "FF2400934566662794B5DB97A137A842": "When this device's timer elapses, transmit a signal on this channel.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0}ms",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0}s",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "Disable",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "Disables the device on receiving a signal from the selected channel.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "Enable",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "Enables the device on receiving a signal from the selected channel.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "Time Reached",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "When this device's timer elapses, transmit a signal on this channel."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "OnlineError": {
+    "AccessDenied": "Access denied",
+    "CantParse": "Cannot parse results",
+    "FailExtended": "Extended error",
+    "RequestFailure": "Failed to send request",
+    "IncompatibleVersion": "Incompatible client version",
+    "MissingInterface": "Interface not found",
+    "InvalidCreds": "Invalid credentials",
+    "InvalidParams": "Invalid params specified",
+    "InvalidAuth": "No valid auth",
+    "NotConfigured": "No valid configuration",
+    "NotConnected": "No valid connection",
+    "InvalidUser": "No valid user",
+    "NotImplemented": "Not implemented",
+    "Canceled": "Operation was canceled",
+    "AlreadyPending": "Request already pending",
+    "InvalidResults": "Results were invalid",
+    "TooManyRequests": "Too many requests",
+    "Unknown": "Unknown error"
+  },
+  "OnlinePresence": {
+    "Away": "Away",
+    "Chat": "Chat",
+    "DoNotDisturb": "Do Not Disturb",
+    "ExtendedAway": "Extended Away",
+    "Offline": "Offline",
+    "Online": "Online"
+  }
+}

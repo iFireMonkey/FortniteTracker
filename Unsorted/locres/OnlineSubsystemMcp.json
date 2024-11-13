@@ -1,0 +1,33 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "Failed to checkout, user has in progress transaction.",
+    "ErrorPurchaseNotAllowed": "Failed to checkout, user not allowed to purchase.",
+    "ErrorNoUIHandler": "Failed to show purchase flow UI."
+  },
+  "McpQueryResult": {
+    "GenericError": "An error occurred while communicating with the game servers ({0}).",
+    "GenericHTTPError": "An error occurred while communicating with the game servers:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "Connection to the server failed.",
+    "JsonError": "Server error of type {0}",
+    "InvalidJson": "Unable to parse server response. Bad JSON. Error {0}",
+    "NonObjectJson": "Unable to parse server response. Not a JSON object."
+  },
+  "OnlineFriend": {
+    "AlreadyFriends": "Already invited friend.",
+    "MissingFriend": "No cached friend entry. Read friends list first.",
+    "NoFriendsList": "Unable to find friends lists."
+  },
+  "OnlineIdentity": {
+    "AlreadyPendingClientAuth": "Already pending auth request for user",
+    "AlreadyPendingUserAuth": "Already pending auth request for user",
+    "AlreadyPendingUserInfo": "Already pending info request user",
+    "AlreadyPendingMetaData": "Already pending meta data request for user",
+    "AlreadyPendingUserPrivilege": "Already pending user privilege check"
+  },
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "Unable to parse receipts from purchasing service."
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

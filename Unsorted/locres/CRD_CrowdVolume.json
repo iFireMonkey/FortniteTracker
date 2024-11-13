@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Crowd Volume",
+    "CBA0009043A15E05890AC68F8056B814": "Crowd Volume",
+    "E1067A64427AA66B822488B1D608CD94": "Crowd Volume",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Disable",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Disables the device on receiving a signal from the selected channel.",
+    "BFBBEB534C644E161C3AE491501828F6": "Enable",
+    "650644994C28CFD38E31829A56E3464F": "Enables the device on receiving a signal from the selected channel.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Spawns a crowd to cheer you on.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Spawns a crowd to cheer you on.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Spawns a crowd to cheer you on.",
+    "7EDB5C9C49AC528E948643B2245928A7": "This device allows you to set up a crowd",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=Tile, other=Tiles)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=Tile, other=Tiles)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=Tile, other=Tiles)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Always",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Character Alignment",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Character Angle Randomness",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Character Scale Randomness",
+    "EEnabledOnPhase.Create Only.DisplayName": "Create Only",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Crowd Density",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Determines the game phases during which the device will be enabled. Pre-Game includes all phases prior to the Game starting (the waiting for players lobby on Featured Islands and the Game Start Countdown).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Disable",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Disables the device on receiving a signal from the selected channel.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Enable",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Enabled During Phase",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Enables the device on receiving a signal from the selected channel.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Gameplay Only",
+    "EEnabledOnPhase.None.DisplayName": "None",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Pre-Game Only",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Sets how densely packed the crowd is.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Sets how precisely crowd members are aligned on a grid.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Sets the amount of randomness in the size of crowd members.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Sets the amount of randomness in which way the crowd members are facing.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Sets the depth of the zone in tiles.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Sets the height of the zone in tiles.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Sets the width of the zone in tiles.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Zone Depth",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Zone Height",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Zone Width"
+  }
+}

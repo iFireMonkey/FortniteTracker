@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "Disabled",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "Disabled",
+    "7F622AD141A596DB6DA4A69D874C2761": "Enabled",
+    "F635B92B4F6D69AC48F18D8428078A2F": "Enabled",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "Lets players run a custom Verse script",
+    "0156B90F4D5E75298F886FA5AFC000E7": "Loads and runs a specified Verse script.",
+    "12BB4013449DF18D296F85AA4CB849E1": "Script Device",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "Script Device",
+    "4033820A43CE091C31CEF486B399093F": "Script Device"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "Determines whether the script device is visible during games.",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "Enabled At Game Start",
+    "VerseDevice_C.VisibleInGame.DisplayName": "Visible in Game",
+    "VerseDevice_C.Enabled at Game Start.Description": "Whether or not the attached script will run during the game."
+  }
+}

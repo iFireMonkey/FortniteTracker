@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Level Loader Device",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Level Loader Device",
+    "6290D58B473E479F05752B83814E9464": "The level loader device loads levels created in the level instance device and allows you to place and rotate them anywhere on your island, including on top of other level loader devices.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "The level loader device loads levels created in the level instance device and allows you to place and rotate them anywhere on your island, including on top of other level loader devices.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "The level loader device loads levels created in the level instance device and allows you to place and rotate them anywhere on your island, including on top of other level loader devices."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Disable",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Disables the device on receiving a signal from the selected channel.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Enable",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Enable at Game Start",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Enables the device on receiving a signal from the selected channel.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Level Instance Name",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Name of the level that will be loaded.",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Whether or not this device is enabled when the game is started."
+  }
+}

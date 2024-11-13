@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Item Shop Portal",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Item Shop Portal",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Item Shop Portal",
+    "F0DA7B7A455C002838011E9950021E4F": "Item Shop Portal",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Item Shop Portal",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Open Store",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Open Store",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Open Store When Receiving From",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Open Store: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Open Store: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Opens the Store for the triggering player when receiving on the selected channel.",
+    "18E3F3AD48251A9142A05A8349684E89": "This device opens the item shop when activated.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "This device opens the item shop when activated.",
+    "79656CFD409EE4E11B68988ACDCA8585": "This device opens the item shop when activated.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "This device opens the item shop when activated.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "This device opens the item shop when activated."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Always",
+    "EEnabledOnPhase.Create Only.DisplayName": "Create Only",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Determines the game phases during which the device will be enabled. Pre-Game includes all phases prior to the Game starting (the waiting for players lobby on Featured Islands and the Game Start Countdown).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Determines the length of interaction required to activate the device.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Disable",
+    "Device_Store_C.Disable.DisplayName": "Disable",
+    "Device_Store_C.Disable.Description": "Disables the device on receiving a signal from the selected channel.",
+    "Device_ItemShop_V2_C.Disable.Description": "Disables the device.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Enable",
+    "Device_Store_C.Enable.DisplayName": "Enable",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Enabled on Phase",
+    "Device_Store_C.Enable.Description": "Enables the device on receiving a signal from the selected channel.",
+    "Device_ItemShop_V2_C.Enable.Description": "Enables the device.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Gameplay Only",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Interact Time",
+    "EEnabledOnPhase.None.DisplayName": "None",
+    "Device_Store_C.OpenStore.DisplayName": "Open Store",
+    "Device_Store_C.OpenStore.Description": "Opens the Store for the triggering player when receiving on the selected channel.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Pre-Game Only"
+  }
+}

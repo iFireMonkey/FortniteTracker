@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Add To End Game Queue When Receiving From",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Forces all players in a session on the island to matchmake.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Game Stream",
+    "D6605AA24CE9BB51B09055B216381F62": "Game Stream",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Island Code",
+    "4906BC4442B704E71E23E9B9A01FF370": "Level Portal",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Sets the island code that the matchmaking portal will point to.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Transfer Population When Receiving From"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Disable when Receiving From",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Disables the device on receiving a signal from the selected channel.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Enable when Receiving From",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Enables the device on receiving a signal from the selected channel.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Queue at End Game",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Transfer Population"
+  }
+}

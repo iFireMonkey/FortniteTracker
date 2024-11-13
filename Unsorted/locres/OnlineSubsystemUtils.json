@@ -1,0 +1,28 @@
+{
+  "EPartyReservationResult": {
+    "Accepted": "Accepted",
+    "InvalidReservation": "Bad reservation request",
+    "DuplicateReservation": "Duplicate reservation detected",
+    "FullGame": "Game full",
+    "ReservationNotFound": "No Reservation",
+    "NoResponse": "No response",
+    "DeniedResponse": "Not accepting connections",
+    "ContainsExistingPlayers": "Party members already in session",
+    "BannedResponse": "Player Banned",
+    "GeneralError": "Unknown Error"
+  },
+  "K2Node": {
+    "FlushLeaderboards": "Flush Leaderboards",
+    "K2Node_LeaderboardFlush_Tooltip": "Flushes leaderboards for a session",
+    "LeaderboardFlushCategory": "Online|Leaderboard"
+  },
+  "NetworkErrors": {
+    "GenericBeaconConnectionFailed": "Beacon Connection Failed.",
+    "BeaconSpawnFailureError": "Join failure, Couldn't spawn beacon.",
+    "BeaconSpawnClientWorldPackageNameError": "Join failure, existing ClientWorldPackageName.",
+    "BeaconSpawnExistingActorError": "Join failure, existing beacon actor.",
+    "BeaconSpawnNetGUIDAckError2": "Join failure, no actor at NetGUIDAck.",
+    "BeaconSpawnNetGUIDAckError1": "Join failure, no host object at NetGUIDAck.",
+    "BeaconSpawnUnexpectedError": "Join failure, unexpected control message."
+  }
+}

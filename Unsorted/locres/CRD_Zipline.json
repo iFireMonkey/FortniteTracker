@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Cannot Ride Zipline",
+    "768283974295183A2A78FCBFBAFE1742": "Create a zipline that moves players from point to point",
+    "C7C925214E0954D490E48DB594FCAE7C": "Create a zipline that moves players from point to point",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Customize ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Transient Create-Only device that acts as a phone tool interface to Zipline spline points",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Zipline",
+    "8CE167104123A4888338D3A2901028D8": "Zipline",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Zipline Control Point"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Any",
+    "ECreativeTeamType.Any.DisplayName": "Any",
+    "ClassSlotMetaData.DisplayPattern": "Class {0}",
+    "Device_Zipline_C.Color.DisplayName": "Color",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Determines how much the forward direction of this Control Point influences the curve of the path at this location.",
+    "Device_Zipline_C.UseCustomColor.Description": "Determines if we use a custom color rather than the default",
+    "Device_Zipline_C.Color.Description": "Determines the custom color to use.",
+    "Device_Zipline_C.Selected Class.Description": "Determines which class is able to use this Zipline.",
+    "Device_Zipline_C.Selected Team.Description": "Determines which team is able to use this Zipline.",
+    "Device_Zipline_C.Invert Class Selection.Description": "If set, the device will allow all but the selected class.",
+    "Device_Zipline_C.Invert Team Selection.Description": "If set, the device will allow all but the selected team.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Invert Class Selection",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Invert Team Selection",
+    "ECreativeClassType.NoClass.DisplayName": "No Class",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "Device_Zipline_C.OnAttach.DisplayName": "On Attach",
+    "Device_Zipline_C.OnDetach.DisplayName": "On Detach",
+    "Device_Zipline_C.Selected Class.DisplayName": "Selected Class",
+    "Device_Zipline_C.Selected Team.DisplayName": "Selected Team",
+    "Device_Zipline_C.OnAttach.Description": "Sends a signal when an agent attaches to the zipline.",
+    "Device_Zipline_C.OnDetach.Description": "Sends an event when an agent detaches from the zipline",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Tangent Intensity",
+    "TeamIndexMetaData.DisplayPattern": "Team {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Use Custom Color"
+  }
+}

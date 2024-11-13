@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "A container that allows you to collectively save and place props in relation to each other.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "A container that allows you to collectively save and place props in relation to each other.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "A container that allows you to collectively save and place props in relation to each other.",
+    "B83B1047441082FB019A61A98B6D0581": "Creative",
+    "5407FED74DA205FC418FA485B7622650": "Editable",
+    "3D5826A149B0F5277962A9A36BFFE13F": "Editing",
+    "78335B4046FF677AC12593921618222C": "Error",
+    "4AA32A31415D1CEE34CCED9C69768627": "Level Instance Device",
+    "85848E934539608AA1BD9D834830CA76": "Level Instance Device",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "Locked",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "Placed",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "Placing"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "This will clear the contents of all devices currently referencing this level."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "Content Collection",
+    "BP_LevelInstanceDevice_C.EditState.Description": "Determines if objects can be added to this level.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "Disable",
+    "BP_LevelInstanceDevice_C.Disable.Description": "Disables the device on receiving a signal from the selected channel.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "Edit State",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "Editable",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "Enable",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "Enable at Game Start",
+    "BP_LevelInstanceDevice_C.Enable.Description": "Enables the device on receiving a signal from the selected channel.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "Level Depth",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "Level Height",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "Level Instance Name",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "Level Width",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "Locked",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "Name of the level that will be loaded.",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "Prevents content that is not compatible with the selection from being included in the level instance.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "The depth of the plot in tiles. \r\n\r\nWARNING: Reducing the size may delete props that are no longer within the bounds of the plot.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "The height of the plot in tiles. \r\n\r\nWARNING: Reducing the size may delete props that are no longer within the bounds of the plot.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "The width of the plot in tiles. \r\n\r\nWARNING: Reducing the size may delete props that are no longer within the bounds of the plot.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "Whether or not this device is enabled when the game is started."
+  }
+}

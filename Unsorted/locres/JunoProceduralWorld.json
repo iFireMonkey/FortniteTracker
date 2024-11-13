@@ -1,0 +1,14 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Adds the following attributes:{ActorPath} : String : A string path for the actor to spawn (copied from the table row){Representation} : Name : An EJunoRepresentation value for how it should be created (copied from the table row){RowName} : Float : The name of the chosen row.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Reads the following attributes on the spatial data stream:{BiomeTableName} : String : A path for the biome data table to read{FilterName} : Name : Optional. If specified, it will only select rows with a type name that matches the value of this property.{LayerWeight} : Float : Optional. If specified, the 'LayerWeights' column will be used instead of 'Weight', interpolated by this value.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Settings properties may be overridden with:{P0} : Name{P1} : Name{P2} : Name{P3} : Name{P4} : Name{P5} : Name)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Shape to pathfind across (probably Landscape!)",
+    "UnableToGetPointData": "Unable to get Point data from input",
+    "UnableToGetSpatialData": "Unable to get Spatial data from input"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Playback video based on a schedule.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Schedule video playback in UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Video Schedule",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "VideoSchedule"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Align When Filling Schedule",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Control Video Player",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Daily",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Don't repeat",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Fill Schedule",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Gap When Filling Schedule",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Hourly",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Link to video player device that should be controlled by this schedule.",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Repeat Schedule",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Schedule (Test)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Start",
+    "Device_VideoSchedule_Native_C.Start.Description": "Start playback of video schedule.",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Start playback of video schedule.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Stop",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Test Control Receive",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Test function to receice control video player event.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Whether or not schedule should be repeated"
+  }
+}

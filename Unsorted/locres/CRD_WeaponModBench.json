@@ -1,0 +1,45 @@
+{
+  "": {
+    "25652B514CD1440D83C4688003ED8B76": "A device that allows players to purchase and apply or remove mods on moddable weapons.",
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "A device that allows players to purchase and apply or remove mods on moddable weapons.",
+    "C71343894A060847493A649689759A65": "A set of cases that can be interacted with to spawn modded weapons.",
+    "460F73D54CB382F639D9F28B319DB307": "CUSTOMIZE ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Cannot Use Mod Bench",
+    "A30B8506487121E7C4E703A5629FBE05": "Disable When Receiving From",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Disabled",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Disables the device, preventing mods from being purchased or removed.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Enable When Receiving From",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Enables the device and allows players to start grinding.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Modded Weapon Case Gallery",
+    "0B7642504100909455884BA8ECBE7AD4": "Weapon Mod Bench",
+    "1EBC090141D82557511D43B7E5342FD4": "Weapon Mod Bench"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Allowed Class",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Allowed Team",
+    "ECreativeClassType.Any.DisplayName": "Any",
+    "ECreativeTeamType.Any.DisplayName": "Any",
+    "ClassSlotMetaData.DisplayPattern": "Class {0}",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Determines if this device should be enabled when the minigame starts.",
+    "Device_WeaponModBench_C.ModCost.Description": "Determines the cost to equip a mod to a moddable weapon. This value applies to all selectable mods. Do Not Override uses the costs that Battle Royale uses and is subject to change.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Determines which class is able to use this Weapon Mod Bench.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Determines which team is able to use this Weapon Mod Bench.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Disable",
+    "Device_WeaponModBench_C.Disable.Description": "Disables the device, preventing mods from being purchased or removed.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Enable",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Enabled on Minigame Start",
+    "Device_WeaponModBench_C.Enable.Description": "Enables the device and allows for mods to be purchased and removed.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "If set, the device will allow all but the Allowed Class.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "If set, the device will allow all but the Allowed Team.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Invert Class Selection",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Invert Team Selection",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Mod Cost",
+    "ECreativeClassType.NoClass.DisplayName": "No Class",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "TeamIndexMetaData.DisplayPattern": "Team {0}"
+  }
+}

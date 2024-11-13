@@ -1,0 +1,36 @@
+{
+  "": {
+    "39AFB32446569697402D1D827A10908B": "A placeable ledge which allows players to ledge launching from it.",
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "A placeable ledge which allows players to ledge launching from it.",
+    "EFF5545942BE6E906FA09492A029002C": "A placeable ledge which allows players to ledge launching from it.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Disable When Receiving From",
+    "39698C45412DE4DC33043394E36BCF15": "Disables the device on receiving a signal from the selected channel.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Enable When Receiving From",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Enables the device on receiving a signal from the selected channel.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Metal Ring",
+    "7E36FA504A82288E8BFF03B718AAF93E": "None",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Placeable Ledge",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Placeable Ledge",
+    "97078157436AE317038738A4DBF33EAE": "Wood Beam"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Custom Mesh",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Determines whether the ledge should be enabled and visible during game.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Disable",
+    "Device_PlaceableLedge_C.Disable.Description": "Disables the device.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Enable",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Enable During Game",
+    "Device_PlaceableLedge_C.Enable.Description": "Enables the device.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "If true, this device will use a climable ring instead of a beam ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Ledge Mesh Selection",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Metal Ring",
+    "ELedgeMeshSelections.None.DisplayName": "None",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "The custom mesh to use for the ledge if the mesh option is set to Custom",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Wood Beam"
+  }
+}
