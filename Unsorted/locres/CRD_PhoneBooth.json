@@ -2,7 +2,27 @@
   "": {
     "1E039F624E334709DAACC381A0EAF6CA": "Allows players to change their outfit in game!",
     "36DF7C804C2683DF3CAA5384A43E82E4": "Allows players to change their outfit in game!",
+    "6858477D482601B747C2A5B828C69E76": "Allows players to change their outfit in game!",
     "069CC8AE4ED9E11514DC138D49FAE7B8": "Change\r\nOutfit",
-    "8951F4C1460E491F9313AAA5E16BE4CA": "Changing Booth"
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Changing Booth",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Changing Booth",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Customize",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Removes all players from the changing booth when receiving a signal from the selected channel.",
+    "1F0C513442C1083AE99BE581F865957A": "Removes the instigating player from the changing booth when receiving a signal from the selected channel."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Disable",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Disables the device, removes all players from the changing booth and prevents it from being used.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Enable",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Enabled at Game Start",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Enables the device, allowing players to use the changing booth.",
+    "BoolMetaData.FalseDisplayName": "Off",
+    "BoolMetaData.TrueDisplayName": "On",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Remove All Players",
+    "C8A4072D491C9059C5CFF1854936E573": "Remove Instigating Player",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Whether or not this device is enabled when the game is started."
   }
 }
