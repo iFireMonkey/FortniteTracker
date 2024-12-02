@@ -42,7 +42,7 @@
     "BP_Device_ModularEmitter_C.Compressor Settings.Description": "Determines how much to adjust the dynamic range of the signal. A \"Hard\" setting will more aggressively turn down loud sounds and turn up the quiet sounds.",
     "BP_Device_ModularEmitter_C.SFX Ducking.Description": "Determines how much to reduce the volume of sound effects while the speaker is playing.",
     "BP_Device_ModularEmitter_C.AllowPortSelection.Description": "Determines if the Patchwork Tool can access any cable input or output ports on the device.",
-    "BP_Device_ModularEmitter_C.PlayAtLocation.Description": "Determines if the audio should be played from the device location or any registered players' location.",
+    "BP_Device_ModularEmitter_C.PlayAtLocation.Description": "Determines if the audio is played from the device location or any registered players' locations.",
     "BP_Device_ModularEmitter_C.EnabledOnPhase.Description": "Determines the game phases during which the device will be enabled. Pre-game includes all phases prior to start of game (like the pre-game lobby or countdown to start of game.) This setting does not affect Edit Mode.",
     "BP_Device_ModularEmitter_C.MusicEventGroup.Description": "Determines which speakers can be heard at the same time.",
     "BP_Device_ModularEmitter_C.CanBeHeardBy.Description": "Determines who will be able to hear the sound played from this speaker.",

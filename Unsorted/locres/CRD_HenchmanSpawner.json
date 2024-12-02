@@ -542,7 +542,7 @@
     "Device_GuardSpawner_V2_C.Guard Team Index.Description": "Determines in which Team the Guard will be assigned to.",
     "Device_GuardSpawner_V2_C.GuardTeamOption.Description": "Determines in which Team the Guard will be assigned to.",
     "Device_GuardSpawner_V2_C.ChangePatrolPathTimer.Description": "Determines the amount of time of new spawned Guards will be selecting the Patrol Path. After it ends, new spawned Guards will randomly select Patrol Paths. This won't impact Guards that have been spawned already.",
-    "Device_GuardSpawner_V2_C.MaximumHiredGuards.Description": "Determines the limit of Guards from this device that a player can hire in game. The hire limit on device won't be larger than the island setting limit.",
+    "Device_GuardSpawner_V2_C.MaximumHiredGuards.Description": "Determines the limit of Guards from this device that a player can hire in game. The maximum hired Guards allowed on device will be capped by \"Maximum Hired Guards\" on the Island Setting.",
     "Device_GuardSpawner_V2_C.Invulnerable.Description": "Determines where the Guards spawned from this device is damageable or not.",
     "Device_GuardSpawner_V2_C.SpawnOnTimer.Description": "Determines whether the Guard is spawned on the Spawn Timer countdown, or spawn on events.",
     "Device_GuardSpawner_V2_C.PlaySpawnVisualEffect.Description": "Determines whether the Spawn visual effect is played when Guard is spawned.",

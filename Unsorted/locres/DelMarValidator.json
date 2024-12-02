@@ -1,12 +1,4 @@
 {
-  "": {
-    "384A34B7441EE2643FC074B61C57254C": "At least 2 RR Player Start Position share the same Race Start Priority value. In Competitive Race mode, all RR Player Start Position need to have unique priority values (0-99) to ensure multiple players do not spawn at the same position. {0}",
-    "A5776CA04F9E49CB07E6DBB8261ED9A5": "More than one RR Player Start Position shares the lowest Race Start Priority value of {0}. In Speed Run Race mode, one RR Player Start Position needs to have the lowest Race Start Priority value to ensure all players spawn at the same starting position. {1}",
-    "BA1C3E194F1C5F0B4CB8E48D33C2828B": "Not enough RR Player Start Position placed. RR Competitive Race mode requires exactly 12 RR Player Start Position placed along the track just before the Starting Line RR Checkpoint.  {0}",
-    "C98DD69544947C1CBCF15F8E292D2D81": "Speed Run Race mode requires at least 1 RR Player Start Position placed along the track just before the Starting Line RR Checkpoint. {0}",
-    "BAE2B7FC454069CAF7FEF9AE192C072D": "Too Many RR Player Start Position placed. RR Competitive Race mode requires exactly 12 RR Player Start Position placed along the track just before the Starting Line RR Checkpoint.  {0}",
-    "13CCF4BA4E11870653B3CFBA202EA654": "{0} overlaps the Starting Line RR Checkpoint. Make sure no RR Player Start Position overlaps the Starting Line RR Checkpoint. {1}"
-  },
   "DelMarValidator_Checkpoints": {
     "IncorrectTeleportSetup": "A non-circuit (not looping) track that is more than one lap must have Teleport Enabled on the Finish Line RR Checkpoint, and its Next Checkpoint array must reference only your Starting Line RR Checkpoint. {0}",
     "MultipleFinishLines": "More than one RR Checkpoint is marked as \"Finish Line\". There must be exactly one Finish Line RR Checkpoint in a RR Track. {0}",

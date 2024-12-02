@@ -66,7 +66,7 @@
     "Device_FabricNoteTrigger_C.NoteOut.Description": "Sets the destination for this device's Note Out cable.",
     "Device_FabricNoteTrigger_C.NoteIn.Description": "Sets the inputs for this device's Note In port.",
     "Device_FabricNoteTrigger_C.OctaveIn.Description": "Sets the inputs for this device's Octave carousel",
-    "Device_FabricNoteTrigger_C.Octave.Description": "Sets whether the device should be triggered by notes in a specific octave. When set to 7, notes in all octaves will trigger the device.",
+    "Device_FabricNoteTrigger_C.Octave.Description": "Sets whether the device should be triggered by notes in a specific octave. When set to 11, notes in all octaves will trigger the device.",
     "Device_FabricNoteTrigger_C.WhenNoteReceivedTransmitOn.Description": "Triggers an event when a selected note input begins playing.",
     "Device_FabricNoteTrigger_C.WhenNoteOffReceivedTransmitOn.Description": "Triggers an event when a selected note input stops playing. This occurs after any sustain applied to the note.",
     "Device_FabricNoteTrigger_C.OnDisabled.Description": "Triggers an event when the device is disabled.",
