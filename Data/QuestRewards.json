@@ -3,6 +3,7 @@
     "Type": "DataTable",
     "Name": "QuestRewards",
     "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "RowStruct": {
         "ObjectName": "Class'FortQuestRewardTableRow'",

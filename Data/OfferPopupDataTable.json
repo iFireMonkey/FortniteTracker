@@ -3,6 +3,7 @@
     "Type": "DataTable",
     "Name": "OfferPopupDataTable",
     "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "RowStruct": {
         "ObjectName": "Class'OfferPopUpData'",
@@ -3376,6 +3377,22 @@
           "Key": "EC5DBE054C492D04E44FBC8FA215F1D9",
           "SourceString": "Includes car, car variants, and customizable decals! Decals in this bundle are restricted to the Porsche 911 GT3 RS car body. This Car will fill the Sports Car slot in relevant Fortnite experiences.",
           "LocalizedString": "Includes car, car variants, and customizable decals! Decals in this bundle are restricted to the Porsche 911 GT3 RS car body. This Car will fill the Sports Car slot in relevant Fortnite experiences."
+        }
+      },
+      "pickle": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "317F1506412FFE5153C9E8A0955FA096",
+          "SourceString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the Void Burn car body. This Car will fill the Sports Car slot in relevant Fortnite experiences.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the Void Burn car body. This Car will fill the Sports Car slot in relevant Fortnite experiences."
+        }
+      },
+      "claw": {
+        "FormatedText": {
+          "Namespace": "",
+          "Key": "FB41ACF146141DED307E01A6BFCD595E",
+          "SourceString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the Fast & Furious Dodge Charger SRT Hellcat car body. This Car will fill the Sports Car slot in relevant Fortnite experiences.",
+          "LocalizedString": "Includes car, car variants, and customizable decals! Items in this bundle are restricted to the Fast & Furious Dodge Charger SRT Hellcat car body. This Car will fill the Sports Car slot in relevant Fortnite experiences."
         }
       }
     }

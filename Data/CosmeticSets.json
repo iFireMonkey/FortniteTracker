@@ -3,6 +3,7 @@
     "Type": "DataTable",
     "Name": "CosmeticSets",
     "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Properties": {
       "RowStruct": {
         "ObjectName": "Class'CosmeticSetDataRow'",
@@ -15487,8 +15488,218 @@
         "DisplayName": {
           "Namespace": "",
           "Key": "9E1E674C43D4D8B8701DA0990EB95CB9",
-          "SourceString": "Set01",
-          "LocalizedString": "Set01"
+          "SourceString": "Juice WRLD",
+          "LocalizedString": "Juice WRLD"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.GiantRoyalty": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.GiantRoyalty"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "ACC1537D42E371038E630DBB45476FE9",
+          "SourceString": "Monarch's Titans",
+          "LocalizedString": "Monarch's Titans"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.MetalWalk": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.MetalWalk"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "546FE6C245F113209F3138B76388143F",
+          "SourceString": "Wandering Warrior",
+          "LocalizedString": "Wandering Warrior"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.TinyDark": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.TinyDark"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "F0B00BFD48AB3DE464B1F1BD9B865254",
+          "SourceString": "In the Shadows",
+          "LocalizedString": "In the Shadows"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.FaceHat": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.FaceHat"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "0FCAE002484D89D8D7CC9A843BFB5378",
+          "SourceString": "Thousand Faces",
+          "LocalizedString": "Thousand Faces"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.StandardGrid": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.StandardGrid"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "190D8FC34040889D9371B995F2EDE186",
+          "SourceString": "Big Hero 6",
+          "LocalizedString": "Big Hero 6"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.AuraBlocker": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.AuraBlocker"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "24C6579B44F88C92B4E32B9939B26BE5",
+          "SourceString": "Cursed Guardian",
+          "LocalizedString": "Cursed Guardian"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CloseThorn": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CloseThorn"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "E156BC374156003FBD26DEB06BB70F96",
+          "SourceString": "The Night Rose",
+          "LocalizedString": "The Night Rose"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.OtherComeback": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.OtherComeback"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "98DEE08C4EB939070F33BD9CA9C22A5A",
+          "SourceString": "Return of the Renegade",
+          "LocalizedString": "Return of the Renegade"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.PawThief": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.PawThief"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "05DE7D1047A0D8CF208AE7BFC77DC3E7",
+          "SourceString": "Nekomata Rogue",
+          "LocalizedString": "Nekomata Rogue"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.LeftSky": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.LeftSky"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "776258CB425184BE122FE88F0A17BE0E",
+          "SourceString": "Return Flight",
+          "LocalizedString": "Return Flight"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.ViralWheels": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.ViralWheels"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2AC78B1B43AA7B09FF6F20BF0AB1D642",
+          "SourceString": "UT",
+          "LocalizedString": "UT"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DifferentPerson": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DifferentPerson"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "A79ACC0846957AF3D46F56AF17B84209",
+          "SourceString": "Rivals",
+          "LocalizedString": "Rivals"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.DownturnBlade": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.DownturnBlade"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "DA0DFD074772466C9C247A83282EE9AE",
+          "SourceString": "Deadly Shogun",
+          "LocalizedString": "Deadly Shogun"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.CannedCocumber": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.CannedCocumber"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "125D2B0A4E1B51E3157A9BA8D412A58B",
+          "SourceString": "Void Burn",
+          "LocalizedString": "Void Burn"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        }
+      },
+      "Cosmetics.Set.IceWater": {
+        "Tag": {
+          "TagName": "Cosmetics.Set.IceWater"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "673931C344D12E66CC56A6B3B97D70EC",
+          "SourceString": "Glacial Groove",
+          "LocalizedString": "Glacial Groove"
         },
         "Description": {
           "CultureInvariantString": null
