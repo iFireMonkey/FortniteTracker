@@ -4,7 +4,6 @@
     "FriendToastAlreadyRequestedFmt": " {0} already requested",
     "FriendToastPlayerBlockedFmt": " {0} is blocked",
     "OneCharacterOverLimitFmt": "1 Character Over Limit",
-    "2393A5C742D18201665DEDA270D675C1": "1-2 Floors",
     "F42E2868449E0804313B089A21566D1C": "1/2",
     "0AC715144E18513791684B9692958897": "1/4",
     "152AB97749E90133A9C6D4A70AFAA7E4": "10 tiers (100 stars)",
@@ -21,7 +20,6 @@
     "CC7FE0084C0A1A5FE6AA70B0936FF86F": "10 tiers (100 stars)",
     "F352DA1544834E2971678A8FD5FFB6EB": "10 tiers (100 stars)",
     "FC870B584C51C32E110B1C856197D9A5": "10 tiers (100 stars)",
-    "0152AAA04CDE85702E58DFACA3BAFC5A": "3-4 Floors",
     "95C4FAC642A07BFB60EA05BF62EDEA25": "3/4",
     "2E0E045E44F3044E3E03ED912CBCA954": "8-Ball (Scratch)",
     "9C17FC3C491AFAE6C5B10C82A4EE68F7": "8-Ball (Scratch)",
@@ -96,7 +94,6 @@
     "0802B35F41C78353417EF282A13C6C04": "Always Upload Logs",
     "A2223F2944E33C6AF09C19B6905EDFA1": "Ammo",
     "E164C33C40D457E7773413A6F040F72F": "Ammo",
-    "0A86A07C408C733394F3A3ACE7E16D3D": "Ammo Box",
     "ECAA560D41B73558F01E48873C697CB7": "Ammo CO2",
     "1EB6BE6E4D8BBCE37F9E5F91D4AB0357": "Ammo for weapons that use a power source instead of traditional bullets. You can carry up to 3,000 energy cells.",
     "D2DE83494017E931B9ED59AEA876373B": "Ammo for weapons that use shells. Typically used in shotguns.",
@@ -245,7 +242,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Big-Barrel DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplane",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplane",
-    "DF56207843F6244003548CA79CFAA0F4": "Biplane",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Bling",
@@ -1423,6 +1419,13 @@
     "32C523A04121D341A148559D4BD400FB": "Honk",
     "E479FB494E4BCEF3B6FBF38C5388CA91": "Hop Rock Dualies",
     "1FEE6FBC480E7F774C6F8192C353F961": "Hover Platform",
+    "39501DE04D6C6949D91A4CB64A85B92C": "Hunting Rifle",
+    "46124F1642D55111C8FE38B3176206F3": "Hunting Rifle",
+    "6CAB082E4FAACA3E4F89A98151C60CDC": "Hunting Rifle",
+    "B9F5435D4CAB2F3778271BA8944901E8": "Hunting Rifle",
+    "D1031344410A9E091F83799294FACA13": "Hunting Rifle",
+    "D29EE9294C3C6ACC03577885D6B34262": "Hunting Rifle",
+    "DFD2853F433A8DA06177BFAAF22D0CED": "Hunting Rifle",
     "373148A84286304FAD517FB94FE89900": "Husky",
     "F3EC1ECC4CABEC7A2B010E88A7E1839C": "Husky",
     "65B9AF3B4DC62CA7C55A519531EB2644": "I am a scientist aboard the USG Ishimura. I have...concerns.",
@@ -1803,7 +1806,6 @@
     "86E2379F4227C83CED41E698AE88E83E": "Primary Fire: Toss an explosive charge out at a short range. The charge will explode if it takes any damage. \r\nSecondary Fire: Detonate all placed charges. \r\nDoesn't persist outside of mission.",
     "35EE6F8D4D5AB96B3FBBFF8E417C56F7": "Promise to guard it. Protect it. Keep it stocked with snacks.",
     "630028554D40F04646EF31B902F09E9F": "Proto: ",
-    "935EBB944F183C78D23A8DB75637F534": "Pump Fuel",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "Pump Shotgun",
     "1F9599FA45B3E36B856BAAB8D9EADDF6": "Punch",
     "41E29A0A4539564794978280A4D6CCEA": "Punch Card Completion Token",
@@ -1845,7 +1847,6 @@
     "6183B4BC472EEE87F5ABEF888ADB5751": "Ranged Weapon",
     "DF8DE162471A4D50B1379A9F5B67392A": "Ranged Weapon",
     "F5BCCB244A957943767D688D51D7862D": "Rapid Fire SMG",
-    "6083E9A340F646132B684096B008BC31": "Rare Ammo Box",
     "B1CFA5584EBD1878822A699ECEB629A6": "Rare Chest",
     "101BBD144878EB1AA8CCD292737797AE": "Recon Scanner",
     "B1F06E544F8B1DAA4893F48EF011260C": "Recruit",
@@ -2006,6 +2007,13 @@
     "8492176B41637BD4ECA9868BE672FE38": "Small groups of buildings usually have more loot than enemies!",
     "877B52BD4C4617C7424BCDA2EBB5B676": "Small groups of buildings usually have more loot than enemies!",
     "E72D7990488977EC9E88CAA2F852A420": "Sneaky Snowman",
+    "0966B87F47EB50926BCC2B8F2AECEFE3": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
+    "0C152BB24E479E75252D738FE601ACEE": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
+    "9CC618BE420623BCB631749AFF75E0B8": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
+    "A301DEA347A8785EA6379BBFDDEE85BF": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
+    "BB30576347CA7A3556694EBA606CE9D6": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
+    "F77B73634A22FD691FC4F2882F861B08": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
+    "F947336740A29E69C4EF4A9FF223C7E1": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
     "8795C48D481800B04C1D5DAD4CA295BF": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. It will ignite flammable structures.",
     "2001FD8A4B09DC97E1C165B6D5C9B0E8": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. The scope reveals the next storm circle.",
     "038A265A44A18F2DB8815C9CAF30CC43": "Sniper Rifle: Heavy. Powerful and accurate rifle with a bolt-action mechanism with an extremely slow reload.",
@@ -2272,7 +2280,6 @@
     "EDCF44D84FBAD5F36B32ADB7E446442F": "Tomato",
     "C74F625E42463681A48244BC83F68CAA": "Toni Challenges",
     "C085E97047AC665AE9DD79A99AD0CB42": "Too far away. Move closer to the other Teleporter.",
-    "768A6B4042EC9C2CFD6F9799319797CA": "Tool Box",
     "B77696AD481B06D6FFEB10B94FF582A7": "Torch",
     "A5C6EB4E4FC6259BC62EBCBD504850C2": "Toss to splash all nearby players. Instantly applies Health and Shields to those in splash area.",
     "06B8D6624AAC122415F9C0BFABD33BD4": "Training Bot",
@@ -2286,7 +2293,6 @@
     "56BBE3E74AE6DB15660FCF809A757724": "Turk (Riptide)",
     "A3272248449552460CF52FB0063DA19B": "Turk (Riptide)",
     "FriendUnavailable": "Type \"/\" for options",
-    "71363D584E8A57318C77B4ABF36A2AFE": "UScale",
     "E2B68F114FD20CA07EB18080C1CCFBC6": "Ultimate Tech",
     "FE052D2D4F1870CC28F734AD32A39D32": "Ultimate Tech",
     "LostConnection": "Unable to connect to the chat server",
@@ -2383,7 +2389,6 @@
     "0C21390543CC60D3A0B708A196F493AA": "VK Legacy",
     "474D73BE47CF7BA331EA8EA9AD70BEAC": "VK Release",
     "454B71ED42ED250EDBECF59B7A7D9643": "VK Untested",
-    "84768B8F4D3FC529CEFE20930FDC9261": "VScale",
     "494DF9DA4B4484A4D9AB2BB0EDA97C20": "Valuable currency used to purchase goods from the store.",
     "67E0A04E48C18017454CB4B84AF5716F": "Valuable currency used to purchase goods from the store.",
     "C1AEDD2241C7119F2131B09C7D775BF2": "Valuable currency used to purchase goods from the store.",
@@ -2695,8 +2700,10 @@
     "PipModeEnabled": "PiP Mode Enabled"
   },
   "AthenaChallengeDetailsEntry": {
-    "MouseKeyboardUnbind_Title": "Key Already Bound",
-    "MouseKeyboardUnbind_Message": "This change will unbind another action.\nAre you sure?"
+    "MouseKeyboardUnbind_TitleButtonType": "Button",
+    "MouseKeyboardUnbind_TitleKeyType": "Key",
+    "MouseKeyboardUnbind_Message": "This change will unbind another action.\nAre you sure?",
+    "MouseKeyboardUnbind_Title": "{0} Already Bound"
   },
   "AthenaChallengeDisplayData": {
     "StagedChallengeDescFormat": "<text color=\"FFF\" fontface=\"black\">Stage {StageIdx} of {NumStages}</> - {Description}",
@@ -5806,6 +5813,7 @@
     "ShoesOfferIncompatibilityText": "Select Kicks Usability to see which Outfits in your Locker are usable with Kicks prior to purchasing or go to fn.gg/KicksUsability for more info. Kicks are not usable with every Outfit.",
     "DefaultLegalText": "These cosmetic items grant no competitive advantage. Outfits and wraps don't include weapons. Not all cosmetics are usable in all experiences. For more details on cosmetic variations and limitations of use, see fn.gg/cosmetics",
     "ShoesOutfitSpecificIncompatibilityText": "This Outfit is not usable with Kicks. For more info see fn.gg/KicksUsability.",
+    "XPLegalText": "XP earned between {0} at {1} and {2} at {3} counts towards the XP needed to unlock the ability to purchase.",
     "PercentOff": "{0} Off",
     "AmountOff": "{0} V-Bucks Off",
     "LegalTextAppendFormat": "{0} {1}"
@@ -8502,7 +8510,7 @@
     "SwitchToPartyChat": "Switch to Fortnite Party Voice Chat",
     "InsufficientSearchTermLengthError": "User search must be at least {0} characters long.",
     "VoiceDisabled": "Voice chat disabled",
-    "XboxLiveVOIP": "Xbox Live",
+    "XboxLiveVOIP": "Xbox network",
     "NotInGame": "You are not in a game",
     "NotAvailableNoPartyText": "You are not in a party",
     "ChannelHasRestrictedParent": "Your voice chat is restricted: Parental Controls",
@@ -8548,7 +8556,7 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "Voice reporting helps us review reported violations of our Community Rules.\n\n• When voice chat is turned on, this feature stores voice chat audio on each participant's device on a rolling five-minute basis, which will be sent to Epic Games only if a participant reports a violation.\n\n• Voice reporting is always on if you're under 18.\n\nSee your voice chat settings for more details and options.",
     "VoiceChatVRR_Accept_O18_NewPlayer": "Voice reporting helps us review reported violations of our Community Rules.\n\n• When voice chat is turned on, this feature stores voice chat audio on each participant's device on a rolling five-minute basis, which will be sent to Epic Games only if a participant reports a violation.\n\n• Voice reporting is usually on, except in parties formed among friends where all players prefer voice reporting off.\n\n• You can see if voice reporting is currently on or off in the Sidebar.\n\nSee your voice chat settings for more details and options.",
-    "XboxFriendPlatformName": "Xbox Live"
+    "XboxFriendPlatformName": "Xbox network"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "Became friends {timesince} ago",
@@ -11017,6 +11025,9 @@
     "WaitingForMatchmakingStartTime": "Waiting Matchmaking Start Time",
     "WaitingForPlaylistPlugin": "Waiting for secret key"
   },
+  "UFortWinterfestPresentCounter": {
+    "QuestCompletionBlockedSingle": "Open <text color=\"FFEFBA\" size=\"18\">{0} {0}|plural(one=PRESENT,other=PRESENTS)!</>"
+  },
   "UGiftBoxVM": {
     "PurchaseBody": "Thanks for playing Fortnite!",
     "PurchaseHeader": "{0}|plural(one=Item,other=Items) Acquired"
@@ -11212,6 +11223,11 @@
   },
   "WeaponModsUI": {
     "WeaponModsUICustomModSetText": "Custom"
+  },
+  "WinterfestDetailsScreen": {
+    "ItemDescription": "{0}",
+    "SetFormat": "{0} Set",
+    "QuantityFormat": "{0} {1}"
   },
   "WorkerItem": {
     "SearchTags2": "{0} {1} {2} {3}",
