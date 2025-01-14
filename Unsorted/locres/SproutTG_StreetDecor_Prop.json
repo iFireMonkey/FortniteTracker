@@ -1,5 +1,7 @@
 {
   "": {
+    "0E9A69BCEF5E16FF53E0C058C7CA42CF": "SBID_CT_Deco_Clock_01_A",
+    "0E9A69BCEF5E16FF53E0C058CEAF2645": "SBID_CT_Deco_Clock_01_A",
     "6E7143527B41189E53E0C058C7CA42CF": "SBID_Prop_GNSD_Decor_Floor_M_ABoardSign_01_A",
     "6E7143527B41189E53E0C058CEAF2645": "SBID_Prop_GNSD_Decor_Floor_M_ABoardSign_01_A",
     "0BD2167A14FB667153E0C058C7CA42CF": "SBID_Prop_GNSD_Decor_Floor_M_NoEntry_01_A",
@@ -26,11 +28,5 @@
     "E27DDD025306C3B053E0C058CEAF2645": "SBID_Prop_GNSD_Decor_Floor_S_ParkingMeter_01_A",
     "DE3D3ACC63E8F0D953E0C058C7CA42CF": "SBID_Prop_GNSD_Decor_Wall_M_NoEntry_01_A",
     "DE3D3ACC63E8F0D953E0C058CEAF2645": "SBID_Prop_GNSD_Decor_Wall_M_NoEntry_01_A"
-  },
-  "Fort.Actor.Building.Defaults": {
-    "BuildingActor": "Press E to Edit"
-  },
-  "UserOptionDefinition": {
-    "OptionDefinitionContainer.Customize": "Customize"
   }
 }

@@ -33,7 +33,6 @@
     "F75C61CE4199CBBB285FFC9A8D31E937": "Choose Resource",
     "717122B049B04AF0191A66843997740D": "Craft",
     "3BF0A5704363EA321B2F01874A4C6D3E": "Craft Many",
-    "B375B04E402DD7553D75F9A49C8C8CFD": "Crafting In Progress",
     "9AE49094423DA1C45309F5B4BC72B6E4": "Grip",
     "78D017D449841317BBD7379ACA0114DF": "Handle",
     "7D9A85744AA8C3AE3C670EAB532AB1FB": "Handle",
@@ -71,6 +70,7 @@
     "C62AE6E34CBD4394D744F8802AF043F3": "Take",
     "6D1F62CF4B54F9849DBC5399AA902300": "The {PartName} slot dictates the rarity of the item and the maximum amount of rune slots the item has.\r\n\r\nCertain resources will unlock rune slots when inserted into Secondary parts.",
     "548C9C5244748F27A302C384D6FB7E6F": "x",
-    "C9A207434910DD51FD4943BA8906D478": "x{RequiredCount}"
+    "C9A207434910DD51FD4943BA8906D478": "x{RequiredCount}",
+    "7BDCA4AC406D1B56F1051197F07CB334": "{Name} (x{Count})"
   }
 }
