@@ -14,6 +14,8 @@
     "D8F2A1E9487F3072166746B141BDFC6F": "Facebook",
     "BD201EE44C7E818FEC3636B3CE765BF2": "Fortitude",
     "4242EC5C4815C73CB32C9692DC653B86": "Fortnite Eula",
+    "5B9EBCBD494A316CE78435A2C2E9B9A1": "If the object is capable of physics, applies \"Building.Type.Physics\" and removes \"Granted.PhysicsObject.Simulation.Disabled\" to enable physics simulations on it.",
+    "AE9CEC7E4D1A6E42E6FD74AE4EB91BCD": "If the object is capable of physics, applies \"Granted.PhysicsObject.Simulation.Disabled\" and removes \"Building.Type.Physics\" to disable physics simulations on it.",
     "44EB7293461A878D7879BBBCEE28C421": "Kill Count",
     "368BFD484812A0855F1DF0935EF70DF5": "MAC",
     "F3DC255049F4092BD44B319AF6ABE521": "Main Menu",
