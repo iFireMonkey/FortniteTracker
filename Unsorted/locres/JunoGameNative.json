@@ -25,6 +25,7 @@
   },
   "JunoPlayerPersistenceHandler": {
     "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Attempted to initialize player persistence after it's been initialized already",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Invalid player persistence storage",
     "PlayerCheckpointHandlerCreationFailedErrorMessage": "Unable to create checkpoint handler"
   },
   "JunoPlayerPersistenceManager": {
@@ -32,7 +33,8 @@
     "DuplicatePlayerPersistenceInitializationErrorMessage": "Attempting to initialize player persistence multiple times",
     "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Attempting to initialize player persistence with invalid player id",
     "StalePlayerPersistenceHandlerErrorMessage": "Stale player persistence handler upon completing initialization",
-    "UnableToCreatePlayerPersistenceErrorMessage": "Unable to create player persistence handler"
+    "UnableToCreatePlayerPersistenceErrorMessage": "Unable to create player persistence handler",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Unable to retrieve valid player persistence storage"
   },
   "JunoStorageChest": {
     "Open": "Open",

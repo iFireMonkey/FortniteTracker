@@ -28,10 +28,39 @@
     "8D56ED064BDBC9A9CA7519AAF3E0F472": "<Emphasized>Pickaxe damage</> increases with <Emphasized>successive hits</> vs opponents",
     "F098D2D04AC64FEAABFAD4A9370613CE": "<Emphasized>Reduced flinch</> after receiving damage",
     "DDA8D03F4DEA0238335DC484544906BD": "<Emphasized>Reveal your location</> to opponents at all times",
+    "14EB69E8451CFA3720025789DCD5057F": "<TeamKiller>{ConfirmingPlayer}</> has health for {MarkerOwner}",
+    "72DA0B3C4DDD24840AC09EBB31DD1269": "<TeamKiller>{ConfirmingPlayer}</> has heavy bullets for {MarkerOwner}",
+    "5FBDF1AE4CAE8BAF32749EA7C9461800": "<TeamKiller>{ConfirmingPlayer}</> has light bullets for {MarkerOwner}",
+    "3337037F4AC29CE302F7E18449270106": "<TeamKiller>{ConfirmingPlayer}</> has medium bullets for {MarkerOwner}",
+    "5402A5F6466452B1EA2374A9ECB98CC2": "<TeamKiller>{ConfirmingPlayer}</> has metal for {MarkerOwner}",
+    "0A32C1104455530F9F53F3B0A91F2D0B": "<TeamKiller>{ConfirmingPlayer}</> has rockets for {MarkerOwner}",
+    "21501ABC458E1A6C312E308EB1B28672": "<TeamKiller>{ConfirmingPlayer}</> has shells for {MarkerOwner}",
+    "13F327E84249D18148C103AEB1052CAF": "<TeamKiller>{ConfirmingPlayer}</> has stone for {MarkerOwner}",
+    "D51B7B4948CA9680794F69BDD9606610": "<TeamKiller>{ConfirmingPlayer}</> has wood for {MarkerOwner}",
+    "A6ECB4B043D47477AC2611B8BC49EFDB": "<TeamKiller>{ConfirmingPlayer}</> is coming to help {MarkerOwner}",
+    "5A5F96FF49E2D091393AEC90F11E6F79": "<TeamKiller>{PlayerName}</> confirmed an attack location from {MarkerOwner}",
+    "9F1ADCC84CAACE9179C392821E4142B9": "<TeamKiller>{PlayerName}</> has a ride for {MarkerOwner}",
+    "B51E846243739177C4159D8DB4317994": "<TeamKiller>{PlayerName}</> marked a destination",
+    "973E45B544F52AC70001A399716836ED": "<TeamKiller>{PlayerName}</> marked an <red>attack</> location",
+    "1ADF8C6E4219CE80298818B3277A6C76": "<TeamKiller>{PlayerName}</> pinged <red>Fall Back</>!",
+    "A741863B4DA85D6AA8D995BE4E373C39": "<TeamKiller>{PlayerName}</> pinged <red>Someone's Been Here</>",
+    "03FCCF0B4EC53B3F08FAF9A9AB1E20F5": "<TeamKiller>{PlayerName}</> plans to join {MarkerOwner}",
+    "D127C33E45859EE70C98E39F92F5330E": "<TeamKiller>{PlayerName}</> requests <blue>help</>",
+    "C821633E410822F1AEE947A1DABFDAF9": "<TeamKiller>{PlayerName}</> requests <green>health</>",
+    "5DBABCEC4C17F8FFE062319672AEFF23": "<TeamKiller>{PlayerName}</> requests a ride",
+    "0ED15AF3454AD084CC29E886DE0310A7": "<TeamKiller>{PlayerName}</> requests heavy bullets",
+    "300EEA27439994BFD373FC80B84E842F": "<TeamKiller>{PlayerName}</> requests light bullets",
+    "6AE6F5B447A4455B4FA0B7B4F570EA5E": "<TeamKiller>{PlayerName}</> requests medium bullets",
+    "E724DB754D5330A514922BA6216A80B5": "<TeamKiller>{PlayerName}</> requests metal",
+    "8657D46D44F9DB1BE731109003357C85": "<TeamKiller>{PlayerName}</> requests rockets",
+    "7BCCD91545F4134B69E3049C4C30772E": "<TeamKiller>{PlayerName}</> requests shells",
+    "10E7D290415923EA6A984FB6D534D7D6": "<TeamKiller>{PlayerName}</> requests stone",
+    "0CD79A7142058339A75B418245AD317D": "<TeamKiller>{PlayerName}</> requests wood",
     "231AF36049841BCCCB72619C0346D63B": "<Viper Glitch> Style",
     "60A3E9644DDBB10D58CF2F9303973C35": "? ? ?",
     "31CD900F4FA8D77724E2058309069ADF": "A blade that has a powerful secondary leap attack.",
     "BEFEB0CC4887556D5F83EA8C31563F5F": "A blade that has a powerful secondary leap attack.",
+    "5CA4C768442DACE154F650919AEBF7CC": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
     "62060089487721326B23BBA33709B481": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
     "E3CC934341A94BE69FC6B09CFA0692FB": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
@@ -59,6 +88,7 @@
     "FC7458584E93A2CCE3222B9CB21FFF51": "Achievement Completion Token",
     "647B590E4A6D893A4E58DB921F805840": "Activity",
     "9FEF179645D8A343518563AEFE302A2A": "Activity",
+    "6C51924A4C22709445F1668C1CBC44FA": "Add this to an item so we know we have to build navmesh in an UEFN experience for it (ie Decoy Grenade)",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "Additional quests for Driftwalker.",
     "C0AD274548543104E8F3ABB507431A91": "Additional quests for Goldenbane Guardian Quest Pack",
     "916DE7F248E76BE44BE7559B52C8814B": "Additional quests for Hiss Clique Quest Pack",
@@ -231,6 +261,7 @@
     "1AA9AB014D937FFA56E28D93AE330484": "Boost Jump Pack",
     "219647494F4BA404D31755B9FB3B0F7C": "Boost Jump Pack",
     "32E5EFAA40F4FB2EA9C968B7003FF7E5": "Boost Jump Pack",
+    "6C10D462407A599C6133C48FDDAD2E16": "Boost Jump Pack",
     "1173101B499715638D94D7A76BA852F6": "Bottle Rocket",
     "F008BC9741473EF16B7DDD96C977E321": "Bounces players in the direction it's facing.  Traps must be attached to the relevant building piece.",
     "25BECD6E4D71E9FE2E4D60A1CDB22CE1": "Bounty Token",
@@ -1110,6 +1141,7 @@
     "C8074EE14AC9A4E1D5B5AF8809072D41": "FOUNDERS PACK 4",
     "D3FB59734B08E81911D0A19A44AE4ACA": "FOUNDERS PACK 5",
     "F0CE215A4C43A35A4F9FAA975385DD4B": "Fabric Device",
+    "06008C0946E45C609F2F8BA89B94AE05": "Fallback!",
     "60D1D03745EB8ABC351FB88EF780BB3E": "Figment Consumable Template",
     "83709366496215B44F9A2ABFB16705E2": "Figment Weapon Template",
     "Filter Friends Hint": "Filter",
@@ -1184,7 +1216,7 @@
     "E0A7D8494FDD59B9719B639C9A2F4FC6": "Fortnite Game Feature (With Code)",
     "1AB37EA64A1C7061DB8B6C92915E95A8": "Fortnite Remix Chapter 2",
     "5FA09E37434E8B8FA4B4D494E65D80D9": "Fortnite Root Game Feature Plugin",
-    "C4228E304A1E5D6FF266A5A25671C9BA": "Fortnite: Ballistic",
+    "BF3721FB4415FF394E9A33B9BAC74CDB": "Fortnite: Ballistic",
     "CB572F8C4A66B67E2E064FBDAB06C068": "Fortnite: OG",
     "2CB1797942F961B6ED6C68A7091888F1": "Fortnitemares Challenge Completion Token",
     "30E33C724420C42AFE94899DD58721F9": "Forward",
@@ -1238,6 +1270,7 @@
     "3EE66B45445529688679ECA705E465CD": "Galileo Challenge Stage 1 Completion Token",
     "EB0D224A42376A7E5CE1F59DEF264700": "Galileo Challenge Stage 2 Completion Token",
     "8E59C6C24CF0E3A29AEFF39469F1D1B5": "Galileo Challenge Stage 3 Completion Token",
+    "AABA721F494384FA4BB400B577A3D77E": "General Physics Experimental Support",
     "813C217146D9D093654CB2B70AC8F306": "Get a head start in the next season with a Match XP Boost.\r\n(Automatically applied when the next season starts)",
     "CE7AD16A48F6051FE29990BCA62C7659": "Get a head start on the next season with these free tiers.",
     "C7392E354E2D0E97216FBE92E9BEDB07": "Ghoul Punk Challenges",
@@ -1393,6 +1426,7 @@
     "BBFF5C7B47A36BDC4D5696A1969E38D6": "It was overextending my power. My only solution? Set new limits.",
     "2FE737664382787DC8208C8E62DA707A": "Item",
     "529CA22849760850B61CF2818E7CF43B": "Jam It",
+    "0960E74F422CDB844E149EAFCBFD3252": "Jetpack",
     "3F71B030493D924F66F6868E19EBF3F6": "Jetpack",
     "DACA67B54BD3A972CC90A49224E233C8": "Jetpack",
     "FC35C92B491FB39A858C71B2C3E73E0A": "Jetpack (Infinite Fuel)",
@@ -1444,6 +1478,7 @@
     "0F7B64234D0A0DA8CDE07586E6CD0394": "Launches an explosive container of purple paint.",
     "88806CFB4EB0682488D1C7AE774E0122": "Launches an explosive container of purple paint.",
     "B36B4C124DAD23E03A2E7E883E7A5294": "Launches players into the air.",
+    "E2DA1CD14AC4F4D275B8CA86AE16AC85": "Lawless",
     "2D0B839F4F8468BBC8E434A930003EC0": "Lazy Big-Barrel",
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "Lazy Flatliner",
     "CA6D0D87420CCE166090BAB2B3B09E44": "Lazy G-Flip",
@@ -1552,6 +1587,16 @@
     "1C6847F04727ADFA238CEE8F3CC62B4D": "Myths & Mortals",
     "0DD368AE4439FC99C95A4595D62837AC": "Natural Constructor Challenges",
     "688E65C943BC171D5807FE974D7E59A9": "Ned the Eternal Challenges",
+    "CB755A5B4F36E65C32CFE8BDC6BE489B": "Need Health!",
+    "BC4D1EFE4D6E94175A763DA67D371CAE": "Need Heavy Ammo!",
+    "AACA776E492359A4D8D3C48E155631F1": "Need Light Ammo!",
+    "17FF64F34A5E5CB0AA2EABB8CF6C8DE3": "Need Medium Ammo!",
+    "B87CC91942CAEEB321D235BD80056DDB": "Need Metal!",
+    "3E05C58446BDD7156C7F6D9360C80CF4": "Need Rockets!",
+    "DD4C70E3404574787E8EECA594D7501F": "Need Shells!",
+    "420F8FF743D3D6EF7A0DCC845A4C5AB8": "Need Shields!",
+    "5196202449A577044AD2259D555A97DF": "Need Stone!",
+    "B75FEE214C5FBA33C7745F95A1408428": "Need Wood!",
     "NetworkConnectionLost": "Network Connection Lost",
     "3DBC7C6E4965FCC0298EB89E59E290BB": "New Tech",
     "489B637D45AA679EE623BB91084E4502": "New Tech",
@@ -1646,6 +1691,7 @@
     "0A0DAE2B4FE1793623CB7CBC3C61CB5D": "Perhaps she was searching for life's purpose. Or maybe some corn to eat.",
     "42BE8AEA47AC24A46AC90FBAC18CF477": "Personal XP Boost",
     "9A0379234914781523C92E86524D9CAE": "Personal XP Boost",
+    "CEA0FBF443439C8479DD90A1C9D3318E": "Pick Me Up",
     "B3CFEDE943AA56C0AEE82CA08F806463": "Pick up",
     "91F4A2794D81253C6E03C7A0B78CC383": "Pickup Fire Extinguisher",
     "5420A1B24353C5F6DBB3BD990912171C": "Pirate Cannon",
@@ -1737,7 +1783,7 @@
     "F5BCCB244A957943767D688D51D7862D": "Rapid Fire SMG",
     "CD11F0974CF81C39A4CE2B82BDE7AF5A": "Recruit",
     "167CC2194EACDD44651600B615B1A49C": "Red",
-    "CC185F254E43E911EF36D6BF927DB81F": "Redline Rig",
+    "5DC02D724D91964247194388E4FCCF11": "Redline Rig",
     "7125E4704BEA318C6BD3D69B5893D080": "Refined crafting ingredient. Can be made with other ingredients, and commonly found in chests.",
     "24AFC7CB4E6519D2D27262A969A547FF": "Reloading is disabled",
     "E3F05AA241FB26B25ECA579A24C851D6": "Reloading is disabled",
@@ -1773,6 +1819,7 @@
     "977E9BFB45C1866F6E808EB566475306": "Roughness",
     "24A34EC54C5C6860E198EDABECBBDAA3": "Rounder DX",
     "14286CBB48B5F1ED65845BA3FE5C891C": "Ruby Shadows Quest Token",
+    "8EAB0D0A41B155832EE5A6AD8A102CA5": "Rumble Ruins",
     "91555784446CCFE9B48292B312D9AAC4": "S",
     "E2FDD2F448867B818FA0EA80CDF99D73": "S10 Mission Season Level Token",
     "70B5E1F944A54D9F37B036B9A2FA37EB": "S10 Mission Week1A Token",
@@ -1831,6 +1878,7 @@
     "5464E4A846DED49CA96CC7B5AF584EAC": "Set_01_OB",
     "59AAAA4D494F08A4A8EEA0B852F8CC0B": "Shadow Bomb",
     "0C8019A64E58CE38EE7E2AA578270235": "Shadow Stone",
+    "4625A5F441CB0921986D50A8EFBA8BA1": "Shady Stilts",
     "484502334A928A65854932AFD2634D25": "Shark Keycard",
     "671540624E3B8F2A70C7D6B88182F30F": "Shark Keycard",
     "32499E5A4E84DEE0D1A9C582C870A222": "Sharp Shooter",
@@ -1889,6 +1937,7 @@
     "CC5EC4C247D4751DCE756FBD2B6794E0": "Special limited time offer on 10 tiers (100 stars) to advance your Battle Pass",
     "FFC43D234E85697EE57FB695EC1E1BAC": "Special limited time offer on 10 tiers (100 stars) to advance your Battle Pass",
     "E3CB72D7464A4616C818CCB54324F540": "Special offer to level up your Battle Pass.",
+    "B4EF96A445130B1D9502DFAFB0E89546": "Specifies this item requires this navmesh",
     "062950214BC78ACD70D592873D68EB06": "Specular",
     "CD5B0A744223502F67BABD81B1230D5D": "Spray",
     "0F3E554B4DC8C535967C939D8FA178F0": "Spray an ice cream truck",
@@ -2158,6 +2207,7 @@
     "BEFB1C8E4A05A8450B035E97B3885725": "VK Experimental",
     "6761758B4844F0DAEB5AB99029439F84": "VK Filtered",
     "0C21390543CC60D3A0B708A196F493AA": "VK Legacy",
+    "452B0D514DA75A60F936BA85333C2B3D": "VK Physics Experimental Support",
     "474D73BE47CF7BA331EA8EA9AD70BEAC": "VK Release",
     "454B71ED42ED250EDBECF59B7A7D9643": "VK Untested",
     "494DF9DA4B4484A4D9AB2BB0EDA97C20": "Valuable currency used to purchase goods from the store.",
@@ -2338,6 +2388,7 @@
   },
   "AHoverDronePawn": {
     "CameraFocusActorFormat": "Focused actor name is {0}",
+    "CameraFocusActorFormatCharBone": "Focused character name is {0}, bone name is {1}",
     "CameraFocusActor": "Focused on target"
   },
   "AntiCheat": {
@@ -2662,7 +2713,9 @@
   "AthenaInventoryPanel": {
     "ConfirmDrop": "Drop",
     "DropItems": "Drop Items",
-    "DropStack": "Drop Stack ({StackCount})"
+    "DropStack": "Drop Stack ({StackCount})",
+    "RequestAmmo": "Request Ammo",
+    "RequestMaterial": "Request Material"
   },
   "AthenaItemDetailsHeaderBase": {
     "AmmoLoadedAbsolute": "x{0}",
@@ -2720,7 +2773,7 @@
     "AthenaIndicatorDistanceFormatText": "{0}m"
   },
   "AthenaMarkerComponent": {
-    "QuickChatNeedHelp": "<{SpectatorStyle}>{PlayerName}</> needs <{Color}>Help</>!"
+    "FallbackPlayerName": "Player"
   },
   "AthenaMatchXPScreenWidget": {
     "KeepPlayingTogether.PartyMemberInLobbyOptedOutText": "A party member is in the lobby",
@@ -2962,6 +3015,9 @@
   "CollectionBook": {
     "SecondaryNotificationExpired Reason": "The notification server failed to respond. Please try again later."
   },
+  "CompeteUI": {
+    "SeriesPointTournamentName": "Series Leaderboard"
+  },
   "ConditionalBenefitsLevel": {
     "RequiresRep": "Requires Rep {0}"
   },
@@ -3022,9 +3078,6 @@
   "ContentBeaconHostObjectV2": {
     "ThrottlingVerseLogs": "Throttling replicated Verse log entries"
   },
-  "ContentbeaconV2": {
-    "ServerRestarted": "Server shutdown unexpectedly. Please try again\n{InnerErrorMessage}"
-  },
   "ContentBeaconV2": {
     "ClientCancelledDownload": "Client {Client} cancelled download.",
     "FailedToSetProjectId": "Client {Client} failed setting project:{VkProjectId}, module:{VkModuleId}.",
@@ -3039,6 +3092,7 @@
     "ProjectDuplicationErrorTitle": "Project Duplication Error",
     "RequestInvalid": "Request was malformed in some way {RequestDescription}\n{ShortErrorCode}",
     "InvalidSourceVersionShort": "Requested content is not compatible with this version of fortnite. \n{ErrorCode}\nCookJobId:{CookJobId}\n{InnerErrorMessage}",
+    "InvalidSourceVersionShortErrCd": "Requested content is not compatible with this version of fortnite. {ShortErrorCode}",
     "TimeoutServerGenericShort": "Server took to long to install the required content.\n{ShortErrorCode}",
     "ServerReadyForClientsTimeout": "Server took too long to be ready for clients to join.",
     "TimeoutServerGenericLong": "Server took too long to get from {StartState} to {DestinationState} for the required content, {VkProjectId}, {VkModuleId}.",
@@ -3051,12 +3105,23 @@
     "FailedToConnect": "We failed to establish a connection to the server\n{ShortErrorCode}",
     "FailedToInstallModule": "We failed to install the request content\n{ShortErrorCode}",
     "CookFailureErrorMessageShort": "We hit an error while cooking this content\n{ErrorCode}\nCookJobId:{CookJobId}\n{InnerErrorMessage}",
+    "CookFailureErrorMessageShortErrCd": "We hit an error while cooking this content\n{ShortErrorCode}",
     "CookFailureOutOfMemoryErrorMessageShort": "We hit an error while cooking this content, try reducing the size of the project\n{ErrorCode}\nCookJobId:{CookJobId}\n{InnerErrorMessage}",
+    "CookFailureOutOfMemoryErrorMessageShortErrCd": "We hit an error while cooking this content, try reducing the size of the project\n{ShortErrorCode}",
     "ContentServiceFailureShort": "We hit an error while requesting this content from content service\n{ErrorCode}\nCookJobId:{CookJobId}\n{InnerErrorMessage}",
+    "ContentServiceFailureShortErrCd": "We hit an error while requesting this content from content service\n{ShortErrorCode}",
     "InternalDownloadingErrorShort": "We hit an internal downloading error\n{ErrorCode}\nCookJobId:{CookJobId}\n{InnerErrorMessage}",
+    "InternalDownloadingErrorShortErrCd": "We hit an internal downloading error\n{ShortErrorCode}",
     "DiskspaceErrorShort": "We ran out of diskspace\n{ErrorCode}\nCookJobId:{CookJobId}\n{InnerErrorMessage}",
+    "DiskspaceErrorShortErrCd": "We ran out of diskspace\n{ShortErrorCode}",
+    "TimeoutClientGenericShortCheckDownloadSpd": "We took to long to install the required content, check download speed.\n{ShortErrorCode}",
+    "TimeoutClientGenericShort": "We took to long to install the required content.\n{ShortErrorCode}",
     "UnauthorizedClient": "You don't have permission to play this content\n{ShortErrorCode}",
     "TimeoutClientGenericLong": "{Client} took too long to get from {StartState} to {DestinationState} for the required content, {VkProjectId}, {VkModuleId}."
+  },
+  "ContentbeaconV2": {
+    "ServerRestarted": "Server shutdown unexpectedly. Please try again\n{InnerErrorMessage}",
+    "ServerRestartedShortErrCd": "Server shutdown unexpectedly. Please try again\n{ShortErrorCode}"
   },
   "ContentOnDemand": {
     "WrongDataReceived": "'Failed to fetch additional player data."
@@ -3538,7 +3603,9 @@
     "SeasonLaunchBenefitText": "Season Launch Benefit"
   },
   "CrewVMData": {
+    "SubscriptionButtonTextContMembership": "Continue Membership",
     "SubscriptionButtonText": "Join Fortnite Crew",
+    "SubscriptionButtonTextRejoinCrew": "Rejoin Crew",
     "UserInformation_MultiAutoRenewAlertText": "You are currently subscribed on multiple platforms. To avoid being billed multiple times, we recommend cancelling extra subscriptions. See cancellation info.",
     "UserInformation_ActiveFormat_NoPriceMultiAutoRenew": "You will be charged on {Date} on another subscribed platform",
     "UserInformation_ActiveFormat": "You will be charged {Price} on your next billing date: {Date}",
@@ -4213,7 +4280,6 @@
     "GamepadToggleFullScreenMapWhileBuilding": "Toggle Map",
     "GamepadToggleFullScreenMapWhileEditing": "Toggle Map",
     "GamepadToggleHarvestWeaponOrAltInteract": "Toggle Pickaxe or Carry",
-    "GamepadToggleTargetMode": "Toggle Scope Mode",
     "GamepadTrapPicker": "Trap Equip/Picker",
     "GamepadUseOrTrapPicker": "Trap Equip/Picker or Use",
     "GamepadUseOrTrapPickerAndPlace": "Trap Equip/Picker/Place or Use",
@@ -4437,7 +4503,6 @@
     "ToggleInventory": "Toggle Inventory",
     "ToggleFullScreenMap": "Toggle Map",
     "TogglePickAxe": "Toggle Pickaxe",
-    "ToggleTargetMode": "Toggle Scope Mode",
     "TrapSlot": "Trap",
     "TrapPicker": "Trap Equip / Picker",
     "TetherExit": "Unhook",
@@ -4544,7 +4609,6 @@
     "GamepadToggleFullScreenMapWhileBuilding": "Toggle Map",
     "GamepadToggleFullScreenMapWhileEditing": "Toggle Map",
     "GamepadToggleHarvestWeaponOrAltInteract": "Toggle Pickaxe or Carry",
-    "GamepadToggleTargetMode": "Toggle Scope Mode",
     "GamepadTrapPicker": "Trap Equip / Picker",
     "GamepadUseOrTrapPickerAndPlace": "Trap Equip / Picker / Place or Use",
     "GamepadUseOrTrapPicker": "Trap Equip / Picker or Use",
@@ -4999,6 +5063,10 @@
   "FortCommunityVotingRevealScreen": {
     "ItemReturnsText": "<yellowcom>{ItemName}</>\r\n<whitecom>AVAILABLE NOW!</>"
   },
+  "FortCompeteUIManager": {
+    "AlternativeLeaderboardCategory": "Alternative #{0}",
+    "DefaultLeaderboardCategory": "Main"
+  },
   "FortConnectionsUserListEntry": {
     "Social_MutualFriendsFormat": "{0} Mutual {0}|plural(one=Friend,other=Friends)"
   },
@@ -5138,10 +5206,6 @@
   },
   "FortDuelBrief": {
     "DuelFormat": "Challenge <Name>{0}</>"
-  },
-  "FortDynamicXpComponent": {
-    "ToManyAccoladesDesc": "ALL ACCOLADES DISABLED",
-    "ToManyAccoladesName": "Accolade limit of {0} has been exceeded."
   },
   "FortEliminationScreen": {
     "FortEliminationScreen.ContinueButtonDefaultText": "Continue",
@@ -5306,9 +5370,6 @@
     "TitleWhenGiftFromSomeoneElse": "You received a gift!",
     "SanitizedUserMessage": "{message} -{sender}"
   },
-  "FortItemPresentationScreen": {
-    "FortItemPresentationScreen": "{0} {0}|plural(one=Item,other=Items) Collected"
-  },
   "FortItemRestrictionVM": {
     "ShoesLockerCompatibilityFormat": "These Kicks are compatible with {0} of {1} {1}|plural(one=Outfit,other=Outfits) in your Locker.",
     "ShoesIncompatibleEquippedText": "These Kicks are not currently usable with your equipped Outfit.",
@@ -5385,7 +5446,7 @@
   },
   "FortKWSSupervisedSettingsManager": {
     "SettingSaveFailed_Title": "Failed to save settings",
-    "SettingSaveFailed_Description": "Looks like the parenal controls service is running into an issue. Give it another shot in a few minutes. If it keeps up, visit https://status.epicgames.com."
+    "SettingSaveFailed_Description": "Looks like the Parental Controls service is running into an issue. Give it another shot in a few minutes. If it keeps up, visit https://status.epicgames.com."
   },
   "FortLibraryStorageManager": {
     "StorageItemTitle_BR": "Combat Content",
@@ -5426,7 +5487,7 @@
     "HideUnsupportedItemsText": "Hide Unsupported Items"
   },
   "FortLockerEquipUtilityVM": {
-    "CategoryNameWithArchetype": "{CategoryGroup} {Category}"
+    "CombinedCategoriesNames": "{0} and {1}"
   },
   "FortLoginInteractions": {
     "AccountLinkingFailed": "Account Linking Failed",
@@ -5495,9 +5556,12 @@
     "MemoryTestResults_Summary_HighestMemoryUsage": "Highest Memory Usage: {MemoryValue} / {MemoryThreshold}",
     "MemoryTestResults_Summary_Header": "Memory Calculation Results Summary",
     "MemoryTestResults_Summary_NumLocationsSampled": "Number of Locations Sampled: {0}",
+    "MemoryTestResults_ResourceSizesByType_Header": "Resource Sizes by Type",
     "MemoryTestResults_Summary_Result": "Result: {0}",
     "MemoryTestResults_Summary_Result_Success": "SUCCESS",
-    "MemoryTestResults_TopTotalExclActors_Header": "Top Actors by Total Exclusive Size"
+    "MemoryTestResults_TopTotalExclActors_Header": "Top Actors by Total Exclusive Size",
+    "MemoryTestResults_TopResources_Header": "Top Resources by Size",
+    "MemoryTestResults_VerseName": "Verse"
   },
   "FortMessagesV3Controller": {
     "ErrorSendingMessage": "Error sending message:{0}",
@@ -5542,6 +5606,7 @@
     "GenericErrorMessages": "Unable to retrieve leaderboard"
   },
   "Fortnite.DateTimeLibrary": {
+    "NegativeTimespan": "-{0}",
     "Days_Full": "{0} {0}|plural(one=Day,other=Days)",
     "Hours_Full": "{0} {0}|plural(one=Hour,other=Hours)",
     "Minutes_Full": "{0} {0}|plural(one=Minute,other=Minutes)",
@@ -5586,6 +5651,7 @@
     "Message.EstimatedTimeRemaining": "Estimated Time Remaining: {0}",
     "Fill": "FILL",
     "TeamFill": "Fill",
+    "Message.FindingMatchNoETA": "Finding match...\nElapsed: {0}",
     "Message.FindingMatch": "Finding match...\nElapsed: {0}, ETA: {1}",
     "message.localplayerstreamer": "Hidden Matchmaking Delay enabled",
     "Message.InitiatingTravelToServer": "Initiating travel to server...",
@@ -5639,7 +5705,6 @@
     "Message.WaitingForServer": "Waiting for server...",
     "Message.WaitingForReadyFormat_Two": "Waiting for {0} and {1} to ready up...",
     "Message.WaitingForReadyFormat_More": "Waiting for {0} more players to ready up...",
-    "Message.WaitingForPlayers": "Waiting for {0} more {0}|plural(one=player,other=players)...\nElapsed: {1}, ETA: {2}",
     "Message.WaitingForReadyFormat_Single": "Waiting for {0} to ready up...",
     "MatchmakingSettingsButtonText": "{0} - {1}",
     "ContentDownloadInstallPercent": "{0}%"
@@ -5676,6 +5741,47 @@
   "Fortnite.FortMatchmakingV2": {
     "MFAModalExitButton": "Exit",
     "MFAModalDescription": "Two-Factor Authentication (2FA) is required to compete for cash prizes!"
+  },
+  "Fortnite.FortTournamentFilters": {
+    "TournamentFilterRegion.ASIA": "ASIA",
+    "TournamentFilterEligibility.All": "All Eligibilities",
+    "TournamentFilterExperience.All": "All Fortnite",
+    "TournamentFilterTeamSize.All": "All Sizes",
+    "TournamentFilterType.All": "All Types",
+    "TournamentFilterRegion.BR": "BR (Brazil)",
+    "TournamentFilterType.CashCup": "Cash Cup",
+    "TournamentFilterTeamSize.Duo": "Duo",
+    "TournamentFilterRegion.EU": "EU (Europe)",
+    "TournamentFilterEligibility.Title": "Eligibility",
+    "TournamentFilterEligibility.Eligible": "Eligible",
+    "TournamentFilterExperience.Title": "Experience",
+    "TournamentFilterType.FNCS": "FNCS",
+    "TournamentFilterExperience.BR": "Fortnite Battle Royale",
+    "TournamentFilterExperience.ZB": "Fortnite Zero Build",
+    "TournamentTileDate.Friday": "Friday",
+    "TournamentFilterEligibility.Ineligible": "Ineligible",
+    "TournamentFilterRegion.ME": "ME (Middle East)",
+    "TournamentTileDate.Monday": "Monday",
+    "TournamentFilterRegion.NAC": "NAC (North America Central)",
+    "TournamentFilterRegion.NAE": "NAE (North America East)",
+    "TournamentFilterRegion.NAW": "NAW (North America West)",
+    "TournamentFilterRegion.OCE": "OCE (Oceania)",
+    "TournamentFilterType.Other": "Other Types",
+    "TournamentFilterType.RankedCup": "Ranked Cup",
+    "TournamentFilterRegion.Title": "Region",
+    "TournamentTileDate.Saturday": "Saturday",
+    "TournamentFilterType.ShopCup": "Shop Cup",
+    "TournamentFilterTeamSize.Solo": "Solo",
+    "TournamentFilterTeamSize.Squad": "Squad",
+    "TournamentTileDate.Sunday": "Sunday",
+    "TournamentFilterTeamSize.Title": "Team Size",
+    "TournamentTileDate.Thursday": "Thursday",
+    "TournamentFilterType.Title": "Tournament Type",
+    "TournamentFilterTeamSize.Trio": "Trio",
+    "TournamentTileDate.Tuesday": "Tuesday",
+    "TournamentFilterType.VictoryCup": "Victory Cup",
+    "TournamentTileDate.Wednesday": "Wednesday",
+    "TournamentFilterType.WorkshopCup": "Workshop Cup"
   },
   "Fortnite.MatchmakingSuggestionWidget": {
     "MissingTournamentName": "Missing Tournament Name",
@@ -5736,6 +5842,7 @@
     "CrossplayRestricted_Remote_UnableToUseInput": "The input device you're attempting to use requires cross-platform play.  However, a player in your party does not have permission to crossplay and won't be able to enable it.  You will need to use the standard input device for this platform.",
     "JIPPartyFull": "The party in game you are trying to join is full.",
     "InvalidSessionId": "The session id is invalid.",
+    "Error.TournamentPlaylistDisabled": "The tournament playlist is disabled.",
     "NotServersDeployed": "There aren't any servers deployed for that particular region/bucket combination.",
     "MemberCrossplayRestricted": "This game is cross-platform restricted.\n\nTo join this game all other members must have cross-platform play enabled in their Settings menu.",
     "JoinerCrossplayRestricted": "To join this game you must have cross-platform play enabled.\n\nYou can enable cross-platform play in your Settings menu.",
@@ -5776,6 +5883,9 @@
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "Invalid backend requested! Exiting."
   },
+  "Fortnite.PoblanoTournamentTile": {
+    "TournamentTileTimeRange": "{0} - {1}"
+  },
   "Fortnite.UFortCreativeIslandSelect": {
     "Starter": "Starter Islands",
     "Templates": "Template Islands"
@@ -5796,7 +5906,6 @@
   },
   "FortniteEngineLoadingScreen": {
     "ErrorDialog_DefaultBody": "An error occured. Please restart Fortnite.",
-    "Connecting": "CONNECTING",
     "BootupRedesignConnecting": "Connecting",
     "ErrorDialog_DefaultTitle": "Error"
   },
@@ -5879,7 +5988,6 @@
     "GamepadToggleFullScreenMapWhileBuilding": "Toggle Map",
     "GamepadToggleFullScreenMapWhileEditing": "Toggle Map",
     "GamepadToggleHarvestWeaponOrAltInteract": "Toggle Pickaxe or Carry",
-    "GamepadToggleTargetMode": "Toggle Scope Mode",
     "GamepadTrapPicker": "Trap Equip/Picker",
     "GamepadUseOrTrapPicker": "Trap Equip/Picker or Use",
     "GamepadUseOrTrapPickerAndPlace": "Trap Equip/Picker/Place or Use",
@@ -6249,6 +6357,7 @@
     "RoleText_Teammate": "Your Teammate"
   },
   "FortPlayerFeedbackSubscreens": {
+    "ReportIDNumber": "<DefaultBold>To track the status of your report and any enforcement actions taken, check your My Reports page at</><a id=\"url\" href=\"https://epic.gm/my-reports\" style=\"Hyperlink\">https://epic.gm/my-reports</> <DefaultBold>(ID: {0}).</>",
     "EpicQASummary": "Bug submitted to JIRA.",
     "NoIslands": "No Islands to Report",
     "NoPlayers": "No Players to Report",
@@ -6258,10 +6367,9 @@
     "PlayerSummary": "Thank you for your player report on {0} for {1}.",
     "WorldSummaryNoPlayer": "Thank you for your world report for {0}.",
     "WorldSummary": "Thank you for your world report on {0} for {1}.",
-    "ReportIDNumber": "To track the status of your report and any enforcement actions taken, check your My Reports page at <URL>https://epic.gm/my-reports</> (ID: {0}).",
     "JunoSubmissionNoPlayer": "You are about to report for {0}",
+    "CreatorSubmission": "You are about to report {0} for their {1}",
     "CreativeSubmission": "You are about to report {0} for {1}",
-    "CreatorSubmission": "You are about to report {0} for {1}",
     "JunoSubmission": "You are about to report {0} for {1}",
     "PlayerSubmission": "You are about to report {0} for {1}",
     "BugSubmission": "You are about to submit a bug for: {0}",
@@ -6433,10 +6541,17 @@
     "DescriptionBuildingGoalGenerator": "{SentenceText}{ContextDescription}\n{FloatParams}",
     "DescriptionBuildingOnCachedPathsGoalGenerator": "{SentenceText}{ContextDescription}\n{FloatParams}"
   },
+  "FortQueryGenerator_DefendSpots": {
+    "DescriptionTitle": "{DescriptionTitle}: Gather all Defend Spots from owner's Defend Volume."
+  },
   "FortQueryGenerator_OnRectangle": {
     "OnRectangleDescriptionDetailsByPoints": "Rectangle width: {0}, Rectangle length: {1}, Number Of Points : {2} x {3}",
     "OnRectangleDescriptionDetails": "Rectangle width: {0}, Rectangle length: {1}, Space between: {2}",
     "OnRectangleDescriptionTitle": "{0}: Generate points on rectangle around {1}"
+  },
+  "FortQueryGenerator_OnSphere": {
+    "OnSphereDescriptionDetails": "Radius {0}, Slice Count {1}, Stack Count {2}",
+    "OnSphereDescriptionTitle": "{0}: Generate points on sphere around {1}"
   },
   "FortQueryGenerator_ValidSpawnRiftActors": {
     "DescriptionGenerateActorsAroundContext": "{DescriptionTitle}: generate set of spawn rift actors which have enough slots to spawn each AI group around."
@@ -6464,6 +6579,17 @@
   },
   "FortQueryTest_CanAttackTarget": {
     "DescDetailsPattern": "{0}{1}"
+  },
+  "FortQueryTest_DefendSpot": {
+    "CanShootDescriptionTitle": "{DescriptionTitle}: Defend Spot has a clear shooting path to {TargetActorContext}.",
+    "AlreadyReservedDescriptionTitle": "{DescriptionTitle}: Defend spot is not already reserved by another NPC.",
+    "PathfindLengthDescriptionTitle": "{DescriptionTitle}: Length of the pathfind from the owner to the Defend Spot.",
+    "ReservedDescriptionTitle": "{DescriptionTitle}: Time owner has been at the Defend Spot. 0 if the Defend Spot is assigned but owner is not yet at it.",
+    "PreviouslyOccupiedDescriptionTitle": "{DescriptionTitle}: Time passed since owner last occupied the Defend Spot. Time is max if never occupied.",
+    "PenalizedDescriptionTitle": "{DescriptionTitle}: Time passed since the Defend Spot has been penalized."
+  },
+  "FortQueryTest_DistanceClamped": {
+    "DescriptionTitle": "{DescriptionTitle}: Measuring {MeasurementType} to {ContextLocation}. Lower bound {LowerBound}. Upper bound {UpperBound}."
   },
   "FortQueryTest_GoalNumberOfAIAssigned": {
     "TypeOfMatchInvalid": "<INVALID>!",
@@ -6569,6 +6695,7 @@
   "FortSetting": {
     "OpenSqueegeeParentalSubscreen_Action": " Open",
     "OpenTimeLimitsParentalSubscreen_Action": " Open",
+    "SimpleBuild_PlacementTiming_Disabled": "\"Mode\" must be either Secondary Wall or Secondary Stairs to use this setting.",
     "SuppressEmoteMusicInJam_Disabled": "\"Synchronize My Emotes to Jam Tracks\" must be disabled to edit this setting.",
     "LumenRequiresNanite": "'Nanite Virtualized Geometry' must be set to 'On' in order to use Lumen",
     "ControllerHardware_Description": ".",
@@ -6642,12 +6769,19 @@
     "TriggerHapticsStrength_Name": "Adaptive Trigger Strength",
     "UserInterfaceContrast_Description": "Adjust the contrast of the user interface.",
     "Brightness_Description": "Adjusts the brightness.",
+    "531C2DFC42577A28EC9D468375001303": "Adjusts the volume of all sounds. Specific types of audio can be adjusted at scale to the main volume.",
     "MasterVolume_Description": "Adjusts the volume of all sounds. Specific types of audio can be adjusted at scale to the main volume.",
+    "62698DEC4D5B1E0F27F85E836C1251D4": "Adjusts the volume of cinematics or cut scene videos.",
     "CinematicVolume_Description": "Adjusts the volume of cinematics or cut scene videos.",
+    "1657F25C48D8960E187280952F600712": "Adjusts the volume of dialogue for game characters and voice overs.",
     "DialogueVolume_Description": "Adjusts the volume of dialogue for game characters and voice overs.",
+    "2C89BD894DE8AB67A6509EA8E3F6FA4B": "Adjusts the volume of music.",
     "MusicVolume_Description": "Adjusts the volume of music.",
+    "64586EC2442E7978C4A72E9B26751470": "Adjusts the volume of picture in picture.",
     "PIPVolume_Description": "Adjusts the volume of picture in picture.",
+    "41BF8C544C3778813A4C04B33044F49B": "Adjusts the volume of sound effects.",
     "SoundEffectsVolume_Description": "Adjusts the volume of sound effects.",
+    "459F681D4E97124974E97C96FC78AFF2": "Adjusts the volume of voice chat.",
     "VoiceChatVolume_Description": "Adjusts the volume of voice chat.",
     "AdvancedAimSensitivityCollection_Name": "Advanced - Aim Down Sights (ADS) Sensitivity",
     "BasicLookOptionsCollection_Name": "Advanced - Look Sensitivity",
@@ -6745,6 +6879,7 @@
     "AutoConfirmEditsBoth": "Both",
     "CameraResetAxisBoth": "Both",
     "QuickWeaponButtonGroupBoth": "Both",
+    "SimpleBuild_ItemSet_BoxAndBridge": "Box and Bridge",
     "Brightness_Name": "Brightness",
     "BuildButtonsCollection_Name": "Build Buttons",
     "EnableTryBuildOnFocus_Name": "Build Immediately (Builder Pro)",
@@ -6776,6 +6911,7 @@
     "AudioOutputDevice_Description": "Changes the audio output device.",
     "VoiceChatInputDevice_Description": "Changes the voice chat input device, the device with a microphone that will receive your voice chat that teammates will hear.",
     "VoiceChatOutputDevice_Description": "Changes the voice chat output device, where you will hear your teammates that are using voice chat.",
+    "SimpleBuild_ItemSet_Description": "Changes what builds are possible with primary and secondary builds.\n\n<strong>Secondary Wall:</> Floors and Stairs on Primary.  Wall on Secondary.\n<strong>Secondary Stairs:</> Floors and Walls on Primary.  Stairs on Secondary.\n<strong>Box and Bridge:</> OG Box and Bridge modes.",
     "JunoCombatAnyDirection_Enabled": "Character Direction",
     "OpenBlog_Description": "Check out the official Fortnite website to help you get the most out of the Video settings.",
     "SelectAndroidStore_Name": "Checkout",
@@ -6784,6 +6920,7 @@
     "SubtitleTextColor_Description": "Choose different colors for the subtitle text.",
     "SubtitleTextSize_Description": "Choose different sizes of the the subtitle text.",
     "InstalledTextureQuality_Description": "Choose the level of detail for Fortnite's textures. High-quality textures make Fortnite look more detailed, but need more storage space.\n\nLow: Fortnite will use low-quality textures and uninstall previously downloaded high-quality textures.\n\nHigh: Fortnite will install and stream high-quality textures.\n\n",
+    "CC5F0FCA49FC6B54695AAD9CBC05E2A7": "Cinematics",
     "CinematicVolume_Name": "Cinematics",
     "MinimapCircularShape_Name": "Circular Minimap",
     "EFortSubtitleBackgroundOpacity_Clear": "Clear",
@@ -6844,6 +6981,7 @@
     "EnableCustomKeyboardDiagonals_Description": "Customize the direction of your diagonal movement when moving with keyboard controls.",
     "FortReticleColorCyan_Name": "Cyan",
     "QuickWeaponButtonGroupNoneDPad": "D-Pad",
+    "QuickWeaponButtonGroupNoneDPad_Switch": "D-Pad",
     "RenderingAPID3D11": "DIRECTX 11",
     "RenderingAPID3D12": "DIRECTX 12",
     "DLSS is Enabled": "DLSS must be disabled.",
@@ -6865,6 +7003,7 @@
     "AllowedConfrontationalEmoteSources_Description": "Determines which players you will see overly confrontational emotes from.\n\n<strong>FROM ANYONE:</> You will see these emotes from all players.\n\n<strong>FROM FRIENDS IN PARTY:</> You will only see these emotes from friends in your party.\n\n<strong>NEVER:</> You will not see these emotes from other players.\n<strong>Emotes:</>\n\t<strong>•</> Laugh It Up\n\t<strong>•</> Take the L\n\t<strong>•</> Whip Crack\n\t<strong>•</> Make It Plantain\n",
     "ColorBlindRotatorSettingDeuteranope": "Deuteranope",
     "GamepadVibrationBlocksDevice_Name": "Device Vibration Blocked by Controller",
+    "49370FD8446BB8B6E61FD396B984CB89": "Dialogue",
     "DialogueVolume_Name": "Dialogue",
     "GyroButtonDisable": "Disable Gyro",
     "DisablePreEditsWhenPlacingBuilding_Name": "Disable Pre-Edit Option",
@@ -6952,6 +7091,7 @@
     "EFortSubtitleTextSize_ExtraSmall": "Extra Small",
     "AntiAliasingMethodFXAA": "FXAA",
     "QuickWeaponButtonGroupSecondaryFaceButtons": "Face Buttons",
+    "QuickWeaponButtonGroupSecondaryFaceButtons_Switch": "Face Buttons",
     "ViewDistanceFar": "Far",
     "GyroAccelMultiplier_Name": "Fast Multiplier",
     "FilterControllerVibrationFromGyro_Name": "Filter Controller Vibration",
@@ -7101,6 +7241,7 @@
     "FilterControllerVibrationFromGyro_Description": "If controller vibration is enabled, add a narrow filter to reduce camera vibration. This can add a tiny bit of input latency to gyro aiming. This filter is automatically disabled if the Vibration option is disabled in the Controller Options tab.",
     "CrossplayPreference_Description": "If enabled you can participate in parties and game modes with other platforms. If disabled, some game modes will be unavailable, and others may have Limited Pools with longer queue times, lower match populations, or higher latency.",
     "HoldToSwapPickup_Description": "If enabled, current weapon can be swapped with pickup on the ground by holding use.",
+    "SwapFireInputsDualWieldShotgunSMG_Description": "If enabled, fire inputs on mouse will be swapped for Pump & Dump weapons.",
     "GyroButtonHoldTime_Description": "If the Gyro Modifier button is shared with a short-press action, this is how long the button needs to be held to skip the short-press action.",
     "ShowQuickbarKeybinds_Description": "If true it will display keybinds for the quickbar slots.",
     "LicensedAudioTreatment_Description": "If you are a content creator, you can select this option to avoid playing licensed music from audio sources and also avoid viewing copyrighted videos from any video player. This setting does not apply to event playlists that feature content that is licensed like concerts.\n\n<strong>Play</>: The audio is played normally (Default).\n\n<strong>Mute</>: All sources containing licensed audio will be muted.",
@@ -7187,6 +7328,7 @@
     "ReflectionsHigh": "Lumen High",
     "LumenUnavailableInGameMode": "Lumen is not available in this game mode",
     "FortReticleColorMagenta_Name": "Magenta",
+    "8656BDB34CE4A1E56F3F1584443491CD": "Main",
     "MasterVolume_Name": "Main",
     "ShowFriendRequest_Description": "Manages notifications for friend requests. They will still appear in the social menu.",
     "ShowFriendRequest_DescriptionMobile": "Manages notifications for friend requests. They will still appear in the social menu.\n\n      <Icon.Warning></> Also affects <strong>mobile push notifications</>.",
@@ -7210,6 +7352,7 @@
     "MapPickupDotRarity_Name": "Minimap Pickup Indicators",
     "FOVMinimum_Name": "Minimum Field of View (FOV)",
     "MobileFPSType_Name": "Mobile Framerate",
+    "SimpleBuild_ItemSet_Name": "Mode",
     "SimpleBuild_PlacementTiming_Hold": "Modify Primary",
     "GyroYawAxis_Name": "Motion Axis",
     "MotionBlur_Name": "Motion Blur",
@@ -7228,6 +7371,7 @@
     "MouseSensitivityMultiplierForAircraft_Name": "Mouse Sensitivity Multiplier For Aircraft Steering",
     "MovementCollection_Name": "Movement",
     "FollowCamera_Name": "Moving Turns Camera",
+    "8AC2F48B470B5C94D2D42C980BC3F872": "Music",
     "MusicVolume_Name": "Music",
     "LicensedAudioTreatment_Mute": "Mute",
     "AntiAliasingMethodDLSS": "NVIDIA DLSS",
@@ -7318,6 +7462,7 @@
     "InvitePermissions_Description": "Pick who can send you Friend Requests.\n\n      <Icon.Warning></> This <strong>may</> remove pending invites.",
     "GyroV2HarvestingToolSensitivity_Name": "Pickaxe Sensitivity Multiplier",
     "RadialPickersCollection_Name": "Picker Wheels Cheats",
+    "A482A95A46AD9836C921E8AD678ED4A5": "Picture In Picture",
     "PIPVolume_Name": "Picture In Picture",
     "CameraResetAxisPitch": "Pitch",
     "GyroV2InvertPitch_Name": "Pitch Axis Direction",
@@ -7359,7 +7504,6 @@
     "OpenBlog_Name": "Quality Setting Guidance",
     "QuickWeaponInput_Name": "Quick Weapon",
     "QuickWeaponToggle_Name": "Quick Weapon",
-    "SimpleBuild_SecondaryBuild_Ramp": "Ramp",
     "GyroTrackballDecay_Description": "Rate of slow-down for gyro trackball (only affects behavior of the TRACKBALL options for Gyro Button X and Gyro Button Y).",
     "AnnualRefundTokenRequests_Name": "Recent Purchases",
     "TSRRecommended": "Recommended",
@@ -7415,8 +7559,9 @@
     "ScopedSpeedMultiplier_Name": "Scoped Speed Multiplier",
     "ReflectionsMedium": "Screen Space",
     "SeasonalCheatsCollection_Name": "Seasonal Cheats",
-    "SimpleBuild_SecondaryBuild_Name": "Secondary Build",
     "SimpleBuild_PlacementTiming_Name": "Secondary Input",
+    "SimpleBuild_ItemSet_SecondaryStairs": "Secondary Stairs",
+    "SimpleBuild_ItemSet_SecondaryWall": "Secondary Wall",
     "AllowedConfrontationalEmoteSources_Name": "See Confrontational Emotes",
     "FortniteCredits_Description": "See everyone who contributed to the making of Fortnite.",
     "SelectTouchFireMode_Action": "Select Fire Mode",
@@ -7473,6 +7618,7 @@
     "HUDScale_DescriptionMobile": "Sets the size of heads up display (HUD) elements when using a controller or a Keyboard and mouse. 100% will show the default HUD size. Lower the settings will make HUD elements smaller.",
     "HUDScale_Description": "Sets the size of heads up display (HUD) elements. 100% will show the default HUD size. Lower settings will make HUD elements smaller.",
     "SoundQuality_Description": "Sets the sound quality. 'High' quality sounds better, but may decrease performance.",
+    "EForceMaxTouchpadSensitivity_Description": "Sets the touchpad sensitivity so that keyboard usage will not suppress touchpad mouse events.  This greatly improves the trackpad as a game control, however if a mouse is being used accidental touchpad touches may register.",
     "Setting Enabled": "Setting Disabled when Performance is not selected.",
     "Setting Disabled": "Setting Disabled when Performance is selected.",
     "ResolutionScale_Warning": "Setting the 3D resolution to a higher value than the device's capacity may impact performance.",
@@ -7520,6 +7666,7 @@
     "UserInterfaceParallax_Description": "Some menus like the Item Shop may have parallax effects. Disable this setting for those effects to remain static.",
     "MotionBlur_Description": "Some people are very sensitive to motion blur. Disable this effect to prevent nausea or keep it enabled to get more fluent animations.",
     "SoundCollection_Name": "Sound",
+    "496E14504BFA4221906EBE8D2CBCDA2C": "Sound Effects",
     "SoundEffectsVolume_Name": "Sound Effects",
     "SoundQuality_Name": "Sound Quality",
     "AISpawningCollection_Name": "Spawning",
@@ -7540,6 +7687,7 @@
     "Subtitles_Name": "Subtitles",
     "SuppressMusicInJam_Name": "Suppress My Emote Music to Hear Jam Tracks",
     "AutoMulchMode_Survivors_Name": "Survivors",
+    "SwapFireInputsDualWieldShotgunSMG_Name": "Swap Fire Inputs for Pump & Dump",
     "AllowEmoteBeatSyncing_Name": "Synchronize My Emotes to Jam Tracks",
     "AntiAliasingMethodTAA": "TAA",
     "AntiAliasingMethodTSREpic": "TSR Epic",
@@ -7593,7 +7741,7 @@
     "AllowDiscoveryPersonalization_Description": "This setting enables you to receive Island Recommendations based upon information we have about you and your play history.\n\n<strong>ON</>: You will receive additional Island recommendations based upon information we have about you and your play history.\n\n<strong>OFF</>: You will not receive additional Island recommendations based upon information we have about you and your play history. You can still customize your recommendations using favorited Collections.",
     "SocialStatus_PartyJoinability_Description": "This setting is for how players join your party.\n\n<strong>Invite Only</>: You or someone in your party have to invite players or accept their requests to join in order for them to join the party.\n\n<strong>Friends</>: Players on your friends list and friends of party members will be able to join your party at any time.\n\nNOTE: A party can always be joined via invite.",
     "MatureLanguageFilter_Description": "This setting lets you filter mature language in text chat messages in Party Channels and Direct Messages. The Mature Language filter will always be on in Game Channels and for players under 13.\n\nWhen this setting is active, mature language that you send or receive will be replaced with heart symbols.\n\n\n<strong>ON</>: Mature language will be filtered and replaced with heart symbols.\n<strong>OFF</>: Mature language can appear in text chat.",
-    "FilterMatureLanguage_Desc": "This setting lets you filter mature language in text chat messages in Party Channels and Direct Messages. The Mature Language filter will always be on in Game Channels and for players under 13.\n\nWhen this setting is active, mature language that you send or receive will be replaced with heart symbols.\n\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">ON</>: Mature language will be filtered and replaced with heart symbols.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">OFF</>: Mature language can appear in text chat.",
+    "FilterMatureLanguage_Desc": "This setting lets you filter mature language in text chat messages in Party Channels and Direct Messages. The Mature Language filter will always be on in Game Channels.\n\nWhen this setting is active, mature language that you send or receive will be replaced with heart symbols.\n\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">ON</>: Mature language will be filtered and replaced with heart symbols.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">OFF</>: Mature language can appear in text chat.",
     "PIIFilter_Description": "This setting lets you filter personal information, like email addresses and credit card numbers, in text chat messages in Party Channels and Direct Messages. When this setting is active, certain types of personal information that you send or receive will be replaced with heart symbols.\n\nThe Personal Information filter will always be on in Game Channels and for players under the age of 13. \n\n<strong>ON</>: Personal information will be filtered and replaced with heart symbols.\n<strong>OFF</>: Personal information can appear in text chat.",
     "PreferredFilledMatchAudioChannel_Description": "This setting only applies when you choose to play a mode while already in a party and have Fill turned ON.\n\nFill is when your empty slots are filled with random players. Note: this setting does not apply when playing a game mode by yourself.\n\n<strong>GAME:</>\n\nBy selecting this Game setting your voice chat will leave the Party Channel and automatically be switched into the Game Channel and you will be able to chat with the random players on your team.\n\n<strong>PARTY:</>\n\nBy selecting this Party setting you will stay in the Party Voice Channel and will have to manually switch to the Game Channel in order to chat with the random players on your team.",
     "FlickSmoothingThreshold_Description": "Threshold above which no smoothing will be applied to rotations (rotations per second).",
@@ -7621,6 +7769,8 @@
     "TouchSensitivity_Name": "Touch Sensitivity",
     "TouchDragTargetingSensitivity_Name": "Touch Targeting Sensitivity",
     "TouchAndMotionCollection_Name": "Touch and Motion",
+    "TouchpadCollection_Name": "Touchpad",
+    "EForceMaxTouchpadSensitivity_Name": "Touchpad Sensitivity to Maximum",
     "GyroButton_Touch": "Touchpad Touch",
     "GyroButtonTrackball": "Trackball",
     "GyroTrackballDecay_Name": "Trackball Decay",
@@ -7709,6 +7859,7 @@
     "VirtualShadows_Name": "Virtual Shadows",
     "VisualizeSoundEffects_Name": "Visualize Sound Effects",
     "VisualizeSoundEffectsPriority_Name": "Visualize Sound Effects Priority",
+    "697471314AAE92B4E203BF9C98A59671": "Voice Chat",
     "VoiceChat": "Voice Chat",
     "VoiceChatCollection_Name": "Voice Chat",
     "VoiceChatVolume_Name": "Voice Chat",
@@ -7718,9 +7869,9 @@
     "ShowVoiceIndicators_Name": "Voice Chat Notifications",
     "VoiceChatOutputDevice_Name": "Voice Chat Output Device",
     "VoiceChatRVR": "Voice Reporting",
+    "19AA46A24BAFD95FD134479893C4A4F7": "Volume",
     "VolumeCollection_Name": "Volume",
     "Vsync_Name": "Vsync",
-    "SimpleBuild_SecondaryBuild_Wall": "Wall",
     "AutoMulchMode_Weapons_Name": "Weapons",
     "PlaytimeReportingFrequency_Name": "Weekly Playtime Reports",
     "ReticleColorForEnemy_Description": "What color the reticle is when an enemy is in range",
@@ -7750,7 +7901,6 @@
     "ResolutionForcedNative": "When the Window Mode is set to <strong>Windowed Fullscreen</>, the resolution must match the native desktop resolution.",
     "CameraResetAxes_Description": "Which axes get reset by the Reset Camera button?\n\nIf PITCH or BOTH are selected, pressing the Reset Camera button will bring the camera back to looking at the horizon.\n\nIf YAW or BOTH are selected, pressing the Reset Camera button will flick the camera to face the direction the Move Stick is pointing. For example, quickly look behind you by moving backwards and pressing the Reset Camera button. If the Move Stick is not engaged, the Reset Camera button will have no effect on the camera's yaw.",
     "CameraResetAxes_Description_Switch": "Which axes get reset by the Reset Camera button?\n\nIf PITCH or BOTH are selected, pressing the Reset Camera button will bring the camera back to looking at the horizon.\n\nIf YAW or BOTH are selected, pressing the Reset Camera button will flick the camera to face the direction the Move Stick is pointing. For example, quickly look behind you by moving backwards and pressing the Reset Camera button. If the Move Stick is not engaged, the Reset Camera button will have no effect on the camera's yaw.",
-    "SimpleBuild_SecondaryBuild_Description": "Which build type will be on the secondary input.\nThe other build type will be on the primary input.",
     "TouchADSFireMode_WhileHeld": "While Held",
     "QuickWeaponButtonGroup_Description": "While Quick Weapon is held, which group of buttons should be used for selecting weapons? Use the directional pad, the face buttons, or both.",
     "QuickWeaponButtonGroup_Description_Switch": "While Quick Weapon is held, which group of buttons should be used for selecting weapons? Use the directional pad, the face buttons, or both.",
@@ -8395,6 +8545,7 @@
     "ReportUser": "Report",
     "UnmuteInteractionDisplayName": "Unmute",
     "UnmuteTextInteractionDisplayName": "Unmute Text",
+    "VoiceMuteInteractionDisplayNameUnmuteVoice": "Unmute Voice",
     "SpectateFriendsGameInteractionDisplayName": "Watch Game",
     "SlashCommand_JoinGame": "joingame",
     "SlashCommand_MuteText": "mutetext",
@@ -8523,6 +8674,7 @@
     "GooglePlayRatingPopupTitle": "Having fun?",
     "GooglePlayRatingPopupLaterButtonText": "Later",
     "SamsungPressureSensor_NeverShowAgain": "Never Show Again",
+    "NoNetworkConnectionError": "No network currently available. Please review your settings.",
     "GooglePlayRatingPopupDescription": "Please, take a moment to rate us.",
     "GooglePlayRatingPopupRateButtonText": "Rate",
     "BadMatchPopup_ReportButton": "Report",
@@ -9302,6 +9454,13 @@
     "SnapEditorRotateInPlace": "In Place",
     "Toolbar": "Snap Editor Toolbar"
   },
+  "JunoCVD": {
+    "JunoCVDConnectivityDataFlagsMenuLabel": "Juno Connectivity Data Flags",
+    "JunoCVDConnectivityDataShowMenuLabel": "Juno Connectivity Data Visualization",
+    "JunoCVDConnectivitySettingsMenuLabel": "Juno Connectivity Visualization Settings",
+    "JunoCVDConnectivitySettingsMenuToolTip": "Options to change how the recorded Juno Connectivity data is debug drawn",
+    "JunoCVDConnectivityDataFlagsMenuToolTip": "Set of flags to enable/disable visibility of specific types of Juno Connectivity data"
+  },
   "JunoEditor": {
     "NoEditorAssetSubSystem": "Could not get EditorAssetSubSystem",
     "NoEditor": "Could not get GEditor",
@@ -9363,7 +9522,16 @@
   },
   "K2Node_GuidedMotionMME": {
     "GuidedMotionMME_Title": "Apply Guided Motion MME",
+    "GuidedMotionMME_TitleFormatClass": "Apply Guided Motion MME - {MMEClass}",
+    "GuidedMotionMME_InternalConnectionErrorFinDelConErr": "K2Node_GuidedMotionMME: Finished Delegate Connection Error. @@",
+    "GuidedMotionMME_InternalConnectionErrorIntConErr": "K2Node_GuidedMotionMME: Internal connection error. @@",
+    "GuidedMotionMME_InternalConnectionErrorMvPinLnks": "K2Node_GuidedMotionMME: Pin @@ Error when MovePinLinksToIntermediate @@",
+    "GuidedMotionMME_InternalConnectionErrorErrCreatingCon": "K2Node_GuidedMotionMME: Pin @@ Error when creating Connection @@",
+    "GuidedMotionMME_InternalConnectionErrorSeq1stExPinErr": "K2Node_GuidedMotionMME: Sequence First Executution Pin Error. @@",
     "GuidedMotionMME_InternalConnectionError": "K2Node_GuidedMotionMME: Sequence Node Error. @@",
+    "GuidedMotionMME_InternalConnectionErrorSeq2ndExPinErr": "K2Node_GuidedMotionMME: Sequence Second Executution Pin Error. @@",
+    "GuidedMotionMME_InternalConnectionErrorIntermOnFinExErr": "K2Node_GuidedMotionMME: intermediate OnFinished event exec to original OnFinished output Error. @@",
+    "GuidedMotionMME_InternalConnectionErrorConRetValErr": "K2Node_GuidedMotionMME:Connect Return Value Error. @@",
     "GuidedMotionMME_TitleFormat": "[WorkInProgress] Apply Guided Motion MME:\n{Data}"
   },
   "K2Node_HandleClientEvent": {
@@ -9842,7 +10010,7 @@
     "FailedLoginNoRealId": "You must complete the RealID verification flow before proceeding further.",
     "FailedLoginAgeVerificationIncomplete": "You need permission from your parent to continue playing.  If your parent hasn't received the email visit epicgames.com/login to re-send.",
     "FailedLoginLockoutMsg": "Your account has been locked because of too many login failures.",
-    "FailedLoginRequiresMFA": "Your account has two-factor security enabled. Enter the security code emailed to you at\n{Email}.",
+    "FailedLoginRequiresMFA": "Your account has two-factor security enabled. Enter the security code emailed to you.",
     "FailedLoginRequiresAuthAppMFA": "Your account has two-factor security enabled. Enter the security code from your authenticator app.",
     "FailedCorrectiveAction": "Your account is missing information required to play the game.",
     "PlayAccessRevoked": "Your account no longer has play access",
@@ -10208,6 +10376,9 @@
     "DebugCompatibility_NoDisplayName": "WARNING: MISSING DISPLAY NAME FOR {0}!",
     "DebugCompatibility_Unsupported": "WARNING: UNSUPPORTED EXPRESSION!"
   },
+  "QuestUITrackerVM": {
+    "DisplayName": "Tracked Quests"
+  },
   "RadioMenuPicker": {
     "RadioStationCurrentArtistDesc": "{0}",
     "RadioStationCurrentSongDesc": "{0}"
@@ -10387,6 +10558,8 @@
     "UnknownRegion": "Unknown"
   },
   "SpatialMetricsProfiler": {
+    "SplashTextName": "Spatial Metrics Profiler",
+    "WindowTitle": "Spatial Metrics Profiler",
     "AppTitle": "Spatial Profiler"
   },
   "SpectatorLensSettings": {
@@ -10689,7 +10862,6 @@
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "Codex data table [row {0}] does not have valid SubCateogry tag.",
     "NeitherItemNorTag": "Codex data table [row {0}] has neither an item definition nor an item tag. Must have at least one.",
-    "NeitherCodexNorFreeBuild": "Codex data table [row {0}] is set to not show in Codex and not show in FreeBuild. At least one must be selected.",
     "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
     "CategoryTagInvalid": "Codex data table [row {0}], does not have valid Cateogry tag.",
     "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
@@ -10704,11 +10876,21 @@
     "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingDisplayActorDataEntry at index [{0}] has a blank recipe!! This can cause issues at runtime."
   },
   "UJunoValidator_Journal": {
+    "PrereqTownbuilderInvalidALINotValidIndexAPG": "Journal data table [row {0}], Prerequistites Index [{1}] AwesomeLevelIndex is not a valid index for {2}'s AwesomePointGoals.",
+    "PrereqTownbuilderInvalidALINotValidIndexUpReq": "Journal data table [row {0}], Prerequistites Index [{1}] AwesomeLevelIndex is not a valid index for {2}'s UpgradeRequirements.",
+    "PrereqTownbuilderInvalidCTCKNotMapFDT": "Journal data table [row {0}], Prerequistites Index [{1}] CampTagConfigKey does not map to a FJunoAwesomePoiConfigTableRow DataTable.",
+    "PrereqTownbuilderInvalidNoValidALI": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid AwesomeLevelIndex.",
     "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrerequistitesInvalidNoValidPreReqType": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid Prereq Type.",
+    "PrereqQuestInvalidNotNeededPFComponent": "Journal data table [row {0}], Prerequistites Index [{1}] has a PersistenceFramework component, this is not needed.",
+    "PrereqTownbuilderInvalidUnsupportedType": "Journal data table [row {0}], Prerequistites Index [{1}] has an unsupported type [{2}], please update this validator.",
     "PrereqQuestInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] has no QuestDef.",
+    "PrereqTownbuilderInvalidRCButEmptyRL": "Journal data table [row {0}], Prerequistites Index [{1}] references a ResourceCost, but the {2} has an empty ResourceList.",
+    "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "Journal data table [row {0}], Prerequistites Index [{1}], Could not find UpgradeStep with UpgradeStepIdentifer {2} for {3}'s UpgradeStages.",
     "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
     "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
     "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "Journal data table [row {0}], is setup to reveal itself via NextTaskRowName, uncheck RevealNextTaskOnComplete to get unblocked and talk to an engineer!",
     "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
     "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
   },

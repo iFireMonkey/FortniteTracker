@@ -16,6 +16,7 @@
     "F06C553B40C0650DDC09EAAE3776FD0A": "True",
     "E6809D7B4C69C6150EAB5990844016DD": "{0} m/s",
     "CC82B2CA49FB779B5CDC60AEDD15C2B3": "{0} x",
+    "BD8F0C8F45892217242BD3A7AD76C322": "{0} {1}|plural(one=Second, other=Seconds)",
     "FB4B6CCD4F6CDBD0EBFA208A726606FD": "{0} {1}|plural(one=Second, other=Seconds)"
   },
   "Fort.Actor.Building.Defaults": {
@@ -27,10 +28,12 @@
     "Device_NitroHoop_C.bAddStand.Description": "Add a short stand on the very bottom.",
     "Device_NitroHoop_C.Add Columns.Description": "Add a stack of columns to hold up the hoop.",
     "Device_NitroHoop_C.AddedPlayerVelocity.DisplayName": "Added Player Velocity",
+    "Device_NitroHoop_C.CooldownDelay.Description": "After triggering a cooldown, wait this many seconds before entering the cooldown phase. Does not apply to cooldowns triggered by Start Cooldown or Disable.",
     "Device_NitroHoop_C.AllowCooldown.DisplayName": "Allow Cooldown",
     "Device_NitroHoop_C.AllowCooldown.Description": "Allow the device to enter the cooldown state after a player or vehicle triggers it.",
     "EEnabledOnPhase.Always.DisplayName": "Always",
     "Device_NitroHoop_C.BaseType.DisplayName": "Base Type",
+    "Device_NitroHoop_C.CooldownDelay.DisplayName": "Cooldown Delay",
     "Device_NitroHoop_C.CooldownDuration.DisplayName": "Cooldown Duration",
     "Device_NitroHoop_C.bCooldownAtGameStart.DisplayName": "Cooldown at Game Start",
     "Device_NitroHoop_C.bCooldownAtRoundStart.DisplayName": "Cooldown at Round Start",

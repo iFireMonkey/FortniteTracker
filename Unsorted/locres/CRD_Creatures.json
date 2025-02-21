@@ -160,7 +160,7 @@
     "Device_CreatureSpawner_V2_C.Enable Ambience Sound.Description": "Determines whether the Spawner will play loop sound or not.",
     "Device_CreatureSpawner_V2_C.Enabled at Game Start.Description": "Determines whether the spawner is already enabled when the game starts.",
     "Device_CreaturePlacer_V2_C.Spawn Only If Needed.Description": "Determines whether the spawner will wait for a previously spawned Creature to be destroyed before spawning another one.",
-    "Device_CreatureSpawner_V2_C.Spawn Through Walls.Description": "Determines whether this A.I. must spawn within line of sight of the Spawner or if they can spawn behind obstructing walls.",
+    "Device_CreatureSpawner_V2_C.Spawn Through Walls.Description": "Determines whether this A.I. must spawn within line of sight of the Spawner or if they can spawn behind obstructing walls.\r\nNOTE: Turning this OFF disables the ability to destroy structures at a creature's spawn location.",
     "Device_CreatureSpawner_V2_C.Limit Spawned Creatures.Description": "Determines whether to limit the number of total spawned Creatures.",
     "Device_CreatureManager_V2_C.Affected Creatures.Description": "Determines which Creatures will be affected while this device is enabled.",
     "Device_CreatureManager_V2_C.Disable.DisplayName": "Disable",
