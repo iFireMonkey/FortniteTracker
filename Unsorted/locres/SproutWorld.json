@@ -96,6 +96,10 @@
   "Fort.Actor.Building.Defaults": {
     "BuildingActor": "Press E to Edit"
   },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "Welcome to Victory Lane",
+    "RaceWinReward_Body": "You're the <b>fastest</> in Brick Bay! Congrats on <emphasis>winning the rally race</>! Display this with pride - you've earned it.\r\n- <name>Drift</>"
+  },
   "UserOptionDefinition": {
     "OptionDefinitionContainer.Customize": "Customize"
   }

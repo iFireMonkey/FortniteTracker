@@ -31,7 +31,6 @@
     "C4D0086E48D33C121B07858ABBAB3487": "Beautiful! \r\nThis castle is really starting to feel \r\nlike a home fit for a <b>Duke.</>",
     "CF459CAC4B21EDECB29CD49179DE7CA1": "Captain",
     "691A6EE948F2D7E9BBB60F997C13E9E8": "Chef",
-    "56FB76B5473B754D5954389FFFDA6EF0": "Complete!",
     "202967504178D62095240C9325D2938D": "Compost Maker",
     "6915D33C467BE9811C88108FE1A4E707": "DEBUG",
     "DACE56574A75443207C1FF9C16BD8482": "DEBUG",
@@ -43,7 +42,6 @@
     "59D600D84791DC3232C195B9B281BE56": "Do you happen to have\r\nany <b>pine wood</>?",
     "F874C18B49DE248D3A535ABDEE5C639C": "Fabric Worker",
     "31145A96482230091B8A2BA2C1CC90D6": "Farmer",
-    "50B1FA2D4E3E96A0E1446C865E95091B": "Find an axe.",
     "D98D4DB2440FA3E2619765950C5DCB97": "Fishmonger",
     "2855BBF44F198BE53A5CF89FF1D19580": "Forager",
     "5F433B404DDB64C0674BA9B485212992": "Gem Cutter",
@@ -73,7 +71,6 @@
     "E64C56364E1E81A9FE18FA99573ACA11": "It seems the <b> rain clouds</> are gathering...\r\n...and I <enemy>hate</> being wet.",
     "76EFD5CE401806022878CFB1A1035D91": "It's the last thing she gave me.",
     "6C18CAF94CF97A9B5E8C53AD44147553": "Just don't tell my grandomther about this, alright?",
-    "72E5BF51487B9E8EB441D3AEC119692C": "Locate an axe for the Quest Giver.",
     "797B90744825A8E9DB48818D292A8774": "Metal Worker",
     "1ED17D35445DBAB0EB1CDB8FEAF56F33": "Miller",
     "D71166314E22A696C46C3880CCF83960": "My goodness... the <enemy>Storm</> is no joke, it blew my house down to the studs! sniff...sniff...",
@@ -140,8 +137,6 @@
     "982CB458482A83BECAFDDC95FB772447": "That's terrible...",
     "081F5AFB40A881D36AFAC0AE7DD86BA9": "The rain just pours through that <enemy>hole in the roof!</>",
     "7BB213564C44B09F9AC4F9BB12834822": "Try <b>Harvesting</> objects like <b>Tress</>, <b>Rocks</>, <b>Iron Deposits</>, and such... ",
-    "2D807D9D41A5BF119D788496FAD52946": "Umbrella Test",
-    "5498A0E54B2F0559C7CA86A8F68D3392": "Umbrella pt1",
     "822BC27A4FB679BFFDFC89A6E5242365": "Ummm...",
     "E93F136F4C1AE1365E27448E176A1BD1": "Vendor",
     "21412FCF4BBF84832D3E45846EB96774": "Villager",
@@ -166,8 +161,7 @@
     "F116655B42EE01C88DBD998097D9F627": "You should be more careful in the future.",
     "8D8161A147B9DE653775969DA4A7C71A": "You will!?!... I can't thank you enough... Just follow the <b>Building Plans</> and it should be a breeze (for you at least)...",
     "3DB5601B4CA9E6B102B8ED9C4687402A": "You're right, this is no time to dilly-dally.",
-    "B4409E1F41BB1CF855F0899A0E05F306": "Your Welcome!",
-    "F6E641B64D0C0F02644C5FB7808843AC": "woah"
+    "B4409E1F41BB1CF855F0899A0E05F306": "Your Welcome!"
   },
   "FJunoStateDrivenEvent_InsertItem": {
     "InsertItem": "Place {ItemName}"

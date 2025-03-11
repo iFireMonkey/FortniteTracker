@@ -275,6 +275,8 @@
     "NetworkErrors": "Media streaming error detected."
   },
   "PilgrimSetting": {
+    "AlwaysShowProInstrumentTrackSelection_Name": "Always Display Pro Parts",
+    "AlwaysShowProInstrumentTrackSelection_Description": "Always show Pro parts in Festival's Part Selector, even when no instrument has been detected.",
     "VideoOffset_Name": "Audio/Video Offset",
     "EnableAutoCalibration_Name": "Auto-Optimize Input Latency",
     "EnableAutoCalibration_Description": "Automatically improve Input Latency as you play.",
