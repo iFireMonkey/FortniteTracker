@@ -188,6 +188,7 @@
     "E594B1074C33153A382BB5BAAAC6CC05": "Rhythm - 5 Lane",
     "11B54702421FE6A6FDE00E94192BCC29": "Set Custom Controls",
     "9A5FB7F3450D22C14F40D9B0776190D3": "Set controls for when difficulty is",
+    "CDBBF76B453F25BC576A7792757CCC03": "SetByBP",
     "348A866E441DCEF1BC5381942CEF530A": "Simple Color",
     "68E6F5C343A226AC5E5CC3B2FBF99A3F": "Small",
     "7F108DCC4CF5065CFC3866A810D0C85C": "SoloBass",
@@ -248,6 +249,7 @@
     "A81F972F446CB431A4A35B8CDFD25D67": "XLarge",
     "3ADD53E6402D614D8CB0DEBF099502CC": "XXLarge",
     "17DD8ECB46F03E95BB7F78A2F8E49953": "YOU'RE READY TO PLAY!",
+    "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "FCC90785485575E608C1CDBEBDE40D20": "{value}x"
   },
   "FortKeybindWidget": {
@@ -281,6 +283,7 @@
     "EnableAutoCalibration_Name": "Auto-Optimize Input Latency",
     "EnableAutoCalibration_Description": "Automatically improve Input Latency as you play.",
     "TrackBackgroundOpacity_Name": "Background Opacity",
+    "CalibrationProfile_Name": "Calibration Profile",
     "Pilgrim_Preset_Custom": "Custom",
     "TrackBackgroundOpacity_Description": "Darken the background during Festival gameplay.",
     "RhythmPerformance_Name": "Festival",
@@ -297,6 +300,7 @@
     "UseProColorsForAllParts_Description": "Show multicolored notes when playing Lead, Bass, Drums, or Vocals.",
     "NonProTrackInputButtonVisibility_Description": "Show reminders about the controls when playing Lead, Bass, Drums, or Vocals.",
     "ProTrackInputButtonVisibility_Description": "Show reminders about the controls when playing Pro Lead or Pro Bass.",
+    "CalibrationProfile_Description": "Switches between different sets of Audio/Video Offset and Input Latency values. Useful for Festival players who use multiple audiovisual setups.",
     "TrackSpeed_Name": "Track Speed",
     "EnableVibrationForHittingNotes_Description": "Turns controller vibration when hitting notes on/off.",
     "UseAlternative5LaneTouchLayout_Description": "Turns the usage of an alternative 5-lane touch layout on/off. When on, the left side of the screen will be presented with 3 (three) buttons instead of 2 (two), and when playing a 5-lane song. The button for the third lane will be available on both sides of the screen. When off, the left side of the screen will be presented with 2 (two) buttons when playing a 5-lane song.",

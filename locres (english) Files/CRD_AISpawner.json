@@ -81,6 +81,8 @@
     "NPCCharacterDefinitionComponent_C.NPCCharacterModifiers.Description": "The extra list of modifiers that will be used to spawn the NPC.",
     "Device_AISpawner_Base_C.SpawnRadius.Description": "The maximum distance from the device that an AI can spawn.",
     "Device_AISpawner_Base_C.TotalSpawnLimit.DisplayName": "Total Spawn Limit",
-    "Device_AISpawner_Base_C.DespawnAIsWhenDisabled.Description": "When the device is disabled, this determines whether already spawned AIs remain or are despawned."
+    "Device_AISpawner_Base_C.UseDeviceSpawnLocation.DisplayName": "Use Device Spawn Location",
+    "Device_AISpawner_Base_C.DespawnAIsWhenDisabled.Description": "When the device is disabled, this determines whether already spawned AIs remain or are despawned.",
+    "Device_AISpawner_Base_C.UseDeviceSpawnLocation.Description": "Whether the NPC should spawn on the device location instead of using the Spawn Radius. This option won't work if the NPC  is supposed to spawn on a Patrol Path Group."
   }
 }

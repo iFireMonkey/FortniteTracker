@@ -28,6 +28,9 @@
     "8D56ED064BDBC9A9CA7519AAF3E0F472": "<Emphasized>Pickaxe damage</> increases with <Emphasized>successive hits</> vs opponents",
     "F098D2D04AC64FEAABFAD4A9370613CE": "<Emphasized>Reduced flinch</> after receiving damage",
     "DDA8D03F4DEA0238335DC484544906BD": "<Emphasized>Reveal your location</> to opponents at all times",
+    "5A5F96FF49E2D091393AEC90F11E6F79": "<TeamKiller>{ConfirmingPlayer}</> confirmed an attack location from {MarkerOwner}",
+    "19282BA84EF014533A7D36ACA97CC820": "<TeamKiller>{ConfirmingPlayer}</> confirmed an enemy location from {MarkerOwner}",
+    "9F1ADCC84CAACE9179C392821E4142B9": "<TeamKiller>{ConfirmingPlayer}</> has a ride for {MarkerOwner}",
     "14EB69E8451CFA3720025789DCD5057F": "<TeamKiller>{ConfirmingPlayer}</> has health for {MarkerOwner}",
     "72DA0B3C4DDD24840AC09EBB31DD1269": "<TeamKiller>{ConfirmingPlayer}</> has heavy bullets for {MarkerOwner}",
     "5FBDF1AE4CAE8BAF32749EA7C9461800": "<TeamKiller>{ConfirmingPlayer}</> has light bullets for {MarkerOwner}",
@@ -35,18 +38,19 @@
     "5402A5F6466452B1EA2374A9ECB98CC2": "<TeamKiller>{ConfirmingPlayer}</> has metal for {MarkerOwner}",
     "0A32C1104455530F9F53F3B0A91F2D0B": "<TeamKiller>{ConfirmingPlayer}</> has rockets for {MarkerOwner}",
     "21501ABC458E1A6C312E308EB1B28672": "<TeamKiller>{ConfirmingPlayer}</> has shells for {MarkerOwner}",
+    "FC8FB3AF48F78FFAF4E1E1ABCBBF40AE": "<TeamKiller>{ConfirmingPlayer}</> has shields for {MarkerOwner}",
     "13F327E84249D18148C103AEB1052CAF": "<TeamKiller>{ConfirmingPlayer}</> has stone for {MarkerOwner}",
     "D51B7B4948CA9680794F69BDD9606610": "<TeamKiller>{ConfirmingPlayer}</> has wood for {MarkerOwner}",
     "A6ECB4B043D47477AC2611B8BC49EFDB": "<TeamKiller>{ConfirmingPlayer}</> is coming to help {MarkerOwner}",
     "03FCCF0B4EC53B3F08FAF9A9AB1E20F5": "<TeamKiller>{ConfirmingPlayer}</> plans to join {MarkerOwner}",
-    "5A5F96FF49E2D091393AEC90F11E6F79": "<TeamKiller>{PlayerName}</> confirmed an attack location from {MarkerOwner}",
-    "9F1ADCC84CAACE9179C392821E4142B9": "<TeamKiller>{PlayerName}</> has a ride for {MarkerOwner}",
+    "B2B0AD6644B63FF0A9AAA7BD9EFB15C5": "<TeamKiller>{ConfirmingPlayer}</> tells {MarkerOwner} you're welcome",
+    "8D9C8CB744C60491C4D61A837E968A3F": "<TeamKiller>{PlayerName}</> is thankful",
     "B51E846243739177C4159D8DB4317994": "<TeamKiller>{PlayerName}</> marked a destination",
     "973E45B544F52AC70001A399716836ED": "<TeamKiller>{PlayerName}</> marked an <red>attack</> location",
-    "1ADF8C6E4219CE80298818B3277A6C76": "<TeamKiller>{PlayerName}</> pinged <red>Fall Back</>!",
-    "A741863B4DA85D6AA8D995BE4E373C39": "<TeamKiller>{PlayerName}</> pinged <red>Someone's Been Here</>",
+    "7B9FFFAB42F3B77A2EAE568F794F581B": "<TeamKiller>{PlayerName}</> marked an enemy location",
+    "6817BE6D48D77007E31E9A9D2E586F03": "<TeamKiller>{PlayerName}</> needs <blue>Shields</>!",
+    "152F9D4048DA33A1D8C19297D0E3346B": "<TeamKiller>{PlayerName}</> needs <green>Healing</>!",
     "D127C33E45859EE70C98E39F92F5330E": "<TeamKiller>{PlayerName}</> requests <blue>help</>",
-    "C821633E410822F1AEE947A1DABFDAF9": "<TeamKiller>{PlayerName}</> requests <green>health</>",
     "5DBABCEC4C17F8FFE062319672AEFF23": "<TeamKiller>{PlayerName}</> requests a ride",
     "0ED15AF3454AD084CC29E886DE0310A7": "<TeamKiller>{PlayerName}</> requests heavy bullets",
     "300EEA27439994BFD373FC80B84E842F": "<TeamKiller>{PlayerName}</> requests light bullets",
@@ -247,6 +251,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Big-Barrel DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplane",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplane",
+    "DF56207843F6244003548CA79CFAA0F4": "Biplane",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
     "Block": "Block {0}.",
@@ -518,7 +523,6 @@
     "98A8A87D4B82B773B107BD92E72C2C10": "Complete the Volcanic Assassin Pack Quests",
     "F6B0D1364048320A2B59A48AFB43004E": "Complete the Volcanic Assassin Pack Quests",
     "24E13026404A1C3BF8E304B1701D4196": "Complete the Volcanic Assassin Pack quests to unlock the Tectonic Komplex Outfit!",
-    "AE7B1DE643AAC52B7DBDB588B9BC1282": "Completed",
     "B87C73214CBE9B43354AC18A83CF9E75": "Consider yourself a Hiss Clique member. See you in the wild!",
     "B277435E41CF8D3D5DE281BB25A41C97": "Consumable",
     "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Consume for a large amount of shield.",
@@ -559,6 +563,7 @@
     "1EC519F64DE59D8F19C00AA24D5DA198": "Creative Search & Destroy War Completion Token",
     "2A4E7BE64FAE451A1933E1842FC2C22E": "Creepin' Cardboard",
     "9624A1784D493CC5A0ED82892E736ACA": "Creepin' Cardboard",
+    "ABD56DED4D965E5FA3C73698C66CA46D": "Crime City",
     "BCDDA1D142A2B017257D488D239BF9C2": "Crossbone Double-Barrel",
     "519E612F436C22ADE828A2A783F500CF": "Crossbone G-Force",
     "7BD382B3456961B38D3B11A2C26F52F2": "Crossbone High-Roller",
@@ -668,7 +673,6 @@
     "2518953047DB9C4DDADB66B6557E68BC": "Epic Tsunami",
     "A690F7A048F3CED8AFAF8C8367F187E7": "Epic Voyager",
     "BCE9B6C54613E5474541D9B6DFBB98AF": "Epic benefits",
-    "3D50798D4C0BF22F2C10148E7D1D1B67": "Error",
     "D31FD8904D12B64AC1D1DC85ACB6EF89": "Estate Vault Keycard",
     "E787593A4A14E0E8635FA8898EC81DA7": "Estate Vault Keycard",
     "15C567B14A9C7CE863842A8D04D915C5": "Events",
@@ -690,7 +694,6 @@
     "C8074EE14AC9A4E1D5B5AF8809072D41": "FOUNDERS PACK 4",
     "D3FB59734B08E81911D0A19A44AE4ACA": "FOUNDERS PACK 5",
     "F0CE215A4C43A35A4F9FAA975385DD4B": "Fabric Device",
-    "06008C0946E45C609F2F8BA89B94AE05": "Fallback!",
     "60D1D03745EB8ABC351FB88EF780BB3E": "Figment Consumable Template",
     "83709366496215B44F9A2ABFB16705E2": "Figment Weapon Template",
     "Filter Friends Hint": "Filter",
@@ -1438,6 +1441,7 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Shield Steal",
     "4F611C954A5378BFC1804C96BB3981FE": "Shield Synergy",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Shield Toss",
+    "6FE5EF624909BEBF19A4F7A143733F40": "Ship Cannon",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Ship Cannon",
     "93D0AAC643B7CCE0B45615ADBC124BFD": "Shoot/Retract",
     "8F2CB8B14C13300867F38FB05719A4D2": "Shoots a celebratory bottle rocket into the sky. Consumes on use.\r\nDoesn't persist outside of mission.",
@@ -1465,7 +1469,6 @@
     "F24F341641A4FA3F48ABCB8574D8C08C": "Social",
     "6975749C41271746F89557A170BC3440": "Solo",
     "C2AC491F482A085554AF0AAFC289DC0C": "Someday, the Great Bird may fly over this Island again.",
-    "C603C8AF48D4E001FA95D388CB63810F": "Someone Has Been Here",
     "0784C09346B728C02D1AF5902E492822": "Sparks Season Pass",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Sparks Spotlight Template",
     "BDDC2D064EA8BF85258C269823FFDBCD": "Spawns Left",
@@ -1502,8 +1505,6 @@
     "05011BBC46BC913CEB8E7294E096873C": "Stay sharp. It's hot out there.",
     "515F956A441299A7C7E8F0A53ABEEF53": "Stay sharp. It's hot out there.",
     "45ED60614319C3A6A58AC9802B025B9F": "Steer Cannon",
-    "B17EB8EA49E57763A5EF2486B0ECCE79": "Step",
-    "FD03D1DE46FE6596D9A6228AAC8EB788": "Step",
     "1F73D3BA424CEEC0244715AA22383298": "Stick and move",
     "67B787224887A430EF752C8C36303455": "Stick and move",
     "A700825E43AA6B5E4A7A9DA406727C3B": "Stick and move",
@@ -1600,9 +1601,9 @@
     "080A97174D65E4FBE3FAB79275AB04E6": "Template for creating new cave or dungeons. Includes all needed files to nearly work out the box.",
     "B70DEE644B11C2F166E17DB392CFE702": "Test",
     "CD41514E4F07AB6EE2D86EBA58BBCDDD": "Testing",
+    "3F4FB95D40AEAC69A10697A39527FB6F": "Thank You!",
     "2A90B6A4486E0BF8E8E07DA8F5014A36": "Thank you, trainee. For doing my temple chores for me. ",
     "8AA5648C45337030F5261C97C78FF813": "Thank you, trainee. For doing my temple chores for me. ",
-    "14BBFF9145B131553B2340BA8C895BC2": "Thanks",
     "B469A5B846E384CF3C7815B29B3FB883": "That's when the snake came into play. The Sapphire Serpent of legend. ",
     "C87095C7474D03945A1F0FA8329E77AD": "The <Emphasized>gold</> standard",
     "36ED0D7A44EE844C6C65F59275A915E7": "The Big Bang Pass",
@@ -2155,7 +2156,9 @@
   },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "Place  Marker",
-    "RemoveMapMarker": "Remove  Marker"
+    "PlaceDangerMarker": "Place Danger Marker (Double Tap)",
+    "RemoveMapMarker": "Remove  Marker",
+    "RemoveDangerMarker": "Remove Danger Marker"
   },
   "AthenaFullScreenMapControlsWidget": {
     "RemoveQuestDesc": "Are you sure you want to remove selected quest?",
@@ -2236,7 +2239,7 @@
     "FiftyFifty_LivingPlayers": "<Team>{YourTeamAlive}</>:<EnemyTeam>{EnemyTeamAlive}</>",
     "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Action": "Continue",
     "MemoryThermometerViewModelTitle": "Current Memory Usage",
-    "PackageSizeThermometerViewModelTitle": "Current Package Size Usage",
+    "PackageSizeThermometerViewModelTitle": "Current Resource Usage",
     "EnemyTeamAliveCountName": "ENEMY TEAM {EnemyTeamAliveIndex}:",
     "SingleEnemyTeamAliveCountName": "ENEMY TEAM:",
     "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Failed": "FAILED",
@@ -2560,6 +2563,7 @@
     "RequiresRep": "Requires Rep {0}"
   },
   "ConfigCustom_Athena /Script/FortniteGame.FortPlayerInputSettings": {
+    "CustomControllerConfiguration_Description": "Controller custom setting defaults.",
     "CustomControllerConfiguration": "Custom"
   },
   "ConfigD /Script/FortniteGame.FortPlayerInputSettings": {
@@ -2616,10 +2620,6 @@
   "ContentBeaconHostObjectV2": {
     "ThrottlingVerseLogs": "Throttling replicated Verse log entries"
   },
-  "ContentbeaconV2": {
-    "ServerRestarted": "Server shutdown unexpectedly. Please try again\n{InnerErrorMessage}",
-    "ServerRestartedShortErrCd": "Server shutdown unexpectedly. Please try again\n{ShortErrorCode}"
-  },
   "ContentBeaconV2": {
     "ClientCancelledDownload": "Client {Client} cancelled download.",
     "FailedToSetProjectId": "Client {Client} failed setting project:{VkProjectId}, module:{VkModuleId}.",
@@ -2661,6 +2661,10 @@
     "UnauthorizedClient": "You don't have permission to play this content\n{ShortErrorCode}",
     "TimeoutClientGenericLong": "{Client} took too long to get from {StartState} to {DestinationState} for the required content, {VkProjectId}, {VkModuleId}."
   },
+  "ContentbeaconV2": {
+    "ServerRestarted": "Server shutdown unexpectedly. Please try again\n{InnerErrorMessage}",
+    "ServerRestartedShortErrCd": "Server shutdown unexpectedly. Please try again\n{ShortErrorCode}"
+  },
   "ContentOnDemand": {
     "WrongDataReceived": "'Failed to fetch additional player data."
   },
@@ -2689,19 +2693,30 @@
     "OutfitLockerDescriptionText": "Use your commander's default appearance in place of an Outfit."
   },
   "CosmeticsGatingBlueprintLibrary": {
-    "CosmeticOfferRatingRestrictionSingleItemMRating": "<img id=\"WarningIcon\"/> This item can only be used in experiences rated {0} or above.",
-    "CosmeticOfferRatingRestrictionSingleItem": "<img id=\"WarningIcon\"/> This item can only be used in experiences rated {0}.",
-    "CosmeticOfferRatingRestrictionMRating": "Items with the <img id=\"WarningIcon\"/> symbol can only be used in experiences rated {0} or above.",
-    "CosmeticOfferRatingRestriction": "Items with the <img id=\"WarningIcon\"/> symbol can only be used in experiences rated {0}.",
-    "CosmeticOfferPurchaseConfirmationRestrictionSingleJamTrack": "Only instrumental loops will be available when jamming in islands rated {0} or below, not the lyrics.",
-    "LobbyCharacterCosmeticRatingRestriction": "Some of your character's items can't be equipped in experiences of this rating.",
-    "CosmeticOfferPurchaseConfirmationRestrictionUnderCap": "They will appear as a default when playing experiences rated {0} or below.",
-    "CosmeticOfferRatingRestrictionJamTrack": "This Jam Track contains lyrics that may not be suitable in all experiences. Only the instrumental loops will be available when jamming in islands rated {0} or below, not the lyrics.",
-    "CosmeticOfferRatingRestrictionJamTrackAlt": "This Jam Track contains lyrics that may not be suitable in all experiences. Only the instrumental loops will be available when jamming in islands rated {0}, not the lyrics.",
-    "LockerCosmeticRatingRestriction": "You cannot use this item in experiences rated {0} or below.",
-    "CosmeticOfferPurchaseConfirmationRestrictionMRating": "You will ONLY be able to wear these items in experiences rated {0} or above.",
-    "CosmeticOfferPurchaseConfirmationRestriction": "You will ONLY be able to wear these items in experiences rated {0}.",
-    "CosmeticOfferPurchaseConfirmationRestrictionJamTrack": "You will only be able to use them in experiences rated {0} or above."
+    "SingularRestrictionFormat_OrAbove": "<img id=\"WarningIcon\"/> This item can only be used in experiences rated {Rating} or above.",
+    "SingularRestrictionFormat_OrBelow": "<img id=\"WarningIcon\"/> This item can only be used in experiences rated {Rating} or below.",
+    "SingularRestrictionFormat": "<img id=\"WarningIcon\"/> This item can only be used in experiences rated {Rating}.",
+    "PluralRestrictionFormat_OrAbove": "Items with the <img id=\"WarningIcon\"/> symbol can only be used in experiences rated {Rating} or above.",
+    "PluralRestrictionFormat_OrBelow": "Items with the <img id=\"WarningIcon\"/> symbol can only be used in experiences rated {Rating} or below.",
+    "PluralRestrictionFormat": "Items with the <img id=\"WarningIcon\"/> symbol can only be used in experiences rated {Rating}.",
+    "PurchaseConfirmationRestrictionFormat_VocalRestriction_OrAbove": "Only instrumental loops will be available when jamming in islands rated {Rating} or above, not the lyrics.",
+    "PurchaseConfirmationRestrictionFormat_VocalRestriction_OrBelow": "Only instrumental loops will be available when jamming in islands rated {Rating} or below, not the lyrics.",
+    "PurchaseConfirmationRestrictionFormat_VocalRestriction": "Only instrumental loops will be available when jamming in islands rated {Rating}, not the lyrics.",
+    "PurchaseConfirmationRestrictionFormat_IneligibleToUse_OrAbove": "They will appear as a default when playing experiences rated {Rating} or above.",
+    "PurchaseConfirmationRestrictionFormat_IneligibleToUse_OrBelow": "They will appear as a default when playing experiences rated {Rating} or below.",
+    "PurchaseConfirmationRestrictionFormat_IneligibleToUse": "They will appear as a default when playing experiences rated {Rating}.",
+    "VocalRestrictionFormat_OrAbove": "This Jam Track contains lyrics that may not be suitable in all experiences. Only the instrumental loops will be available when jamming in islands rated {Rating} or above, not the lyrics.",
+    "VocalRestrictionFormat_OrBelow": "This Jam Track contains lyrics that may not be suitable in all experiences. Only the instrumental loops will be available when jamming in islands rated {Rating} or below, not the lyrics.",
+    "VocalRestrictionFormat": "This Jam Track contains lyrics that may not be suitable in all experiences. Only the instrumental loops will be available when jamming in islands rated {Rating}, not the lyrics.",
+    "LockerRestrictionFormat_OrAbove": "You cannot use this item in experiences rated {Rating} or above.",
+    "LockerRestrictionFormat_OrBelow": "You cannot use this item in experiences rated {Rating} or below.",
+    "LockerRestrictionFormat": "You cannot use this item in experiences rated {Rating}.",
+    "PurchaseConfirmationRestrictionFormat_Wear_OrAbove": "You will ONLY be able to wear these items in experiences rated {Rating} or above.",
+    "PurchaseConfirmationRestrictionFormat_Wear_OrBelow": "You will ONLY be able to wear these items in experiences rated {Rating} or below.",
+    "PurchaseConfirmationRestrictionFormat_Wear": "You will ONLY be able to wear these items in experiences rated {Rating}.",
+    "PurchaseConfirmationRestrictionFormat_Use_OrAbove": "You will only be able to use them in experiences rated {Rating} or above.",
+    "PurchaseConfirmationRestrictionFormat_Use_OrBelow": "You will only be able to use them in experiences rated {Rating} or below.",
+    "PurchaseConfirmationRestrictionFormat_Use": "You will only be able to use them in experiences rated {Rating}."
   },
   "CountdownWidget": {
     "FinalCountdown": "FINAL COUNTDOWN",
@@ -3230,6 +3245,15 @@
   },
   "DownloadOnDemandManagementTab": {
     "DownloadOnDemandNoProjectDescription": "No description text found."
+  },
+  "EcosystemMatchmakingSettingsButton": {
+    "Fill": "Fill",
+    "NoFill": "No Fill",
+    "Options": "Options",
+    "Private": "Private",
+    "Public": "Public",
+    "RankedOff": "Ranked: Off",
+    "RankedOn": "Ranked: On"
   },
   "EditTimeWindowModal": {
     "NoSetting": "Oops! Something went wrong. Please try again."
@@ -3975,6 +3999,7 @@
     "AlternateInteractPlace": "Object Place",
     "CreativeModeratorOpenPhotoMode": "Open Moderator Photo Mode",
     "CreativeModeratorOpenToolMode": "Open Moderator Tool Mode",
+    "OpenQuests": "Open Quests",
     "OpenVoteDialog": "Open Vote Dialog",
     "OstrichExitPassenger": "Passenger Exit",
     "OstrichMissilesPassenger": "Passenger Missiles",
@@ -4028,7 +4053,6 @@
     "QuadCrasherSwitchSeat": "Switch Seat",
     "ShoppingCartSwitchSeat": "Switch Seat",
     "Target": "Target",
-    "ToggleMatchObjectivePanel": "Toggle Daily Quests HUD Preview",
     "ToggleInventory": "Toggle Inventory",
     "ToggleFullScreenMap": "Toggle Map",
     "TogglePickAxe": "Toggle Pickaxe",
@@ -4097,6 +4121,7 @@
     "GamepadNextBuilding": "Next",
     "GamepadSelectNextWeapon": "Next Weapon",
     "GamepadNextWeaponOrAltInteractOrHarvestHold": "Next Weapon Or Carry Or Harvest (Hold)",
+    "GamepadOpenQuests": "Open Quests",
     "GamepadBuildConfirm": "Place",
     "GamepadToggleMapCursor": "Place / Remove Map Pin",
     "PlaceMapMarkerInWorld": "Place Marker / Squad Comms (Hold)",
@@ -4129,7 +4154,6 @@
     "GamepadSwitchModeOrEditBuilding": "Switch Mode / Edit (Hold)",
     "GamepadTarget": "Target",
     "GamepadToggleCrouchGyroModifier": "Toggle Crouch (Tap) / Slide (Hold) / Gyro Modifier (Hold)",
-    "GamepadToggleMatchObjectivePanel": "Toggle Daily Quests HUD Preview",
     "GamepadToggleHarvestGyroModifier": "Toggle Harvest / Gyro Modifier (Hold)",
     "GamepadToggleInventory": "Toggle Inventory",
     "GamepadToggleInventoryWhileBuilding": "Toggle Inventory",
@@ -4595,7 +4619,9 @@
   },
   "FortCompeteUIManager": {
     "AlternativeLeaderboardCategory": "Alternative #{0}",
-    "DefaultLeaderboardCategory": "Main"
+    "FrontendToastNotification.DescriptionText": "Join {0}",
+    "DefaultLeaderboardCategory": "Main",
+    "FrontendToastNotification.TitleText": "Tournament starting"
   },
   "FortConnectionsUserListEntry": {
     "Social_MutualFriendsFormat": "{0} Mutual {0}|plural(one=Friend,other=Friends)"
@@ -4914,21 +4940,27 @@
     "OwnershipOptionLabel": "Unowned items"
   },
   "FortItemShopOfferVM": {
+    "AsteriskForLegalText": "*",
     "ShoesOutfitGenericIncompatibilityText": "An Outfit in this offer is not usable with Kicks. For more info see fn.gg/KicksUsability.",
     "DynamicBundleItemDescription": "Bundle",
     "ProgressiveCosmeticShortName": "Crew Legacy Set",
     "LegoDecorOfferDescription": "Decor",
     "JunoLegalText": "In LEGO® Fortnite Odyssey content can be placed in your own and up to 8 other friends’ worlds per week. You must gather all required resources before building and placing the content in LEGO® Fortnite Odyssey Survival Mode.",
+    "ShoesOfferIncompatibilityText": "Kicks are usable with most Outfits. For exceptions and other info see fn.gg/KicksUsability.",
     "LegoKitOfferDescription": "LEGO® Kit",
     "PegiMusicWarning": "MUSIC DOWNLOADS NOT RATED BY PEGI - www.pegi.info",
     "UndoCooldownConfirmation": "Please confirm this purchase. Note that Cancel Purchase will not be available for this transaction. You can still return this purchase normally if you have remaining Return Tickets.\n\nFor more information see fn.gg/cancelpurchase",
-    "ShoesOfferIncompatibilityText": "Select Kicks Usability to see which Outfits in your Locker are usable with Kicks prior to purchasing or go to fn.gg/KicksUsability for more info. Kicks are not usable with every Outfit.",
     "DefaultLegalText": "These cosmetic items grant no competitive advantage. Outfits and wraps don't include weapons. Not all cosmetics are usable in all experiences. For more details on cosmetic variations and limitations of use, see fn.gg/cosmetics",
     "ShoesOutfitSpecificIncompatibilityText": "This Outfit is not usable with Kicks. For more info see fn.gg/KicksUsability.",
     "XPLegalText": "XP earned between {0} at {1} and {2} at {3} counts towards the XP needed to unlock the ability to purchase.",
+    "LegalTextNewLineAppendFormat": "{0}\n{1}",
     "PercentOff": "{0} Off",
     "AmountOff": "{0} V-Bucks Off",
     "LegalTextAppendFormat": "{0} {1}"
+  },
+  "FortItemShopUtils": {
+    "SavingsLegalText": "*Savings refer to the lowest price offered on Fortnite Item Shop in the past 30 days before discount.",
+    "PriceVatIncluded": "VAT Incl."
   },
   "FortItemShopVM": {
     "ExpectedShopRefreshTimeText": "{0} your local time ({1})"
@@ -5090,7 +5122,8 @@
     "MemoryTestResults_Summary_Result": "Result: {0}",
     "MemoryTestResults_Summary_Result_Success": "SUCCESS",
     "MemoryTestResults_TopTotalExclActors_Header": "Top Actors by Total Exclusive Size",
-    "MemoryTestResults_TopResources_Header": "Top Resources by Size",
+    "MemoryTestResults_TopUserResources_Header": "Top User Resources by Size",
+    "MemoryTestResults_UnknownName": "Unknown",
     "MemoryTestResults_VerseName": "Verse"
   },
   "FortMessagesV3Controller": {
@@ -6781,7 +6814,7 @@
     "LookSensitivityPresetAds_Description": "How quickly your view rotates while aiming down sights (ADS).",
     "LookSensitivityPreset_Description": "How quickly your view rotates.",
     "GyroV2SpaceHandheld_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing in handheld mode.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
-    "GyroV2SpaceSwitch_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing with a Pro Controller or Joy-Cons detached from the console.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
+    "GyroV2SpaceSwitch_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing with a Pro Controller or Joy-Con controllers detached from the console.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
     "GyroV2Space_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
     "AutoHurdle_Name": "Hurdle Activation",
     "FilterControllerVibrationFromGyro_Description": "If controller vibration is enabled, add a narrow filter to reduce camera vibration. This can add a tiny bit of input latency to gyro aiming. This filter is automatically disabled if the Vibration option is disabled in the Controller Options tab.",
@@ -7449,8 +7482,8 @@
     "CameraResetAxes_Description": "Which axes get reset by the Reset Camera button?\n\nIf PITCH or BOTH are selected, pressing the Reset Camera button will bring the camera back to looking at the horizon.\n\nIf YAW or BOTH are selected, pressing the Reset Camera button will flick the camera to face the direction the Move Stick is pointing. For example, quickly look behind you by moving backwards and pressing the Reset Camera button. If the Move Stick is not engaged, the Reset Camera button will have no effect on the camera's yaw.",
     "CameraResetAxes_Description_Switch": "Which axes get reset by the Reset Camera button?\n\nIf PITCH or BOTH are selected, pressing the Reset Camera button will bring the camera back to looking at the horizon.\n\nIf YAW or BOTH are selected, pressing the Reset Camera button will flick the camera to face the direction the Move Stick is pointing. For example, quickly look behind you by moving backwards and pressing the Reset Camera button. If the Move Stick is not engaged, the Reset Camera button will have no effect on the camera's yaw.",
     "TouchADSFireMode_WhileHeld": "While Held",
+    "QuickWeaponButtonGroup_Description_Switch": "While Quick Weapon is held, which group of buttons should be used for selecting weapons? Use the directional buttons, the A/B/X/Y buttons, or both.",
     "QuickWeaponButtonGroup_Description": "While Quick Weapon is held, which group of buttons should be used for selecting weapons? Use the directional pad, the face buttons, or both.",
-    "QuickWeaponButtonGroup_Description_Switch": "While Quick Weapon is held, which group of buttons should be used for selecting weapons? Use the directional pad, the face buttons, or both.",
     "VoiceChat_ParentalControls_Description_Expanded": "While in a party with friends or when teamed up with random players during a match, a voice chat channel becomes available. This setting controls who your child can voice chat with.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Everybody</>: Your child can voice chat with any player.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Friends & Teammates</>: Your child can voice chat with players in their Epic friends list and platform friends list, and those on their team.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Friends Only</>: Your child can voice chat only with players in their Epic friends list and platform friends list.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nobody</>: Epic voice chat is disabled for your child.\n",
     "VoiceChat_VRR_ParentalControls_Description_Expanded": "While in a party with friends or when teamed up with random players during a match, a voice chat channel becomes available. This setting controls who your child can voice chat with. Turning on voice chat also turns on voice reporting.\n\n<strong>Everybody</> : Your child can voice chat with any player.\n\n<strong>Friends & Teammates</> : Your child can voice chat with players in their Epic friends list and their platform friends list, and those on their team.\n\n<strong>Friends Only</> : Your child can voice chat only with players in their Epic friends list and platform friends list.\n\n<strong>Off</> : Voice chat and voice reporting is off.\n\n<strong>About Voice Reporting</>\n\nWhen voice chat is on, voice reporting stores voice chat audio on each participant’s device on a rolling five - minute basis, which will be sent to Epic Games only if a participant reports a violation. Voice reporting is usually on, except in parties formed among friends where all players prefer voice reporting off. Players can see if voice reporting is currently on or off in the Sidebar. Voice reporting is always on for players under 18.\n\nSee the voice reporting setting for more details and options.",
     "VoiceChatRVR_Description": "While using Fortnite's voice chat with voice reporting on, each participant's device will capture and store voice chat audio on a rolling five - minute basis, which will be sent to Epic Games only if a participant reports a chat violation to help us evaluate the report.\n\nYou can see if voice reporting is currently on or off in the Sidebar.\n\n<strong>ALWAYS ON</> : Voice reporting will be on in every voice chat conversation.\n\n<strong>OFF WHEN POSSIBLE</> : Voice reporting will be off in parties formed among friends where all players have voice reporting OFF WHEN POSSIBLE.\n\nVoice reporting will be on if party chats include a player with voice reporting ALWAYS ON or a player added through Looking for Party.Voice reporting will also be on in all game channels.\nLearn more about Voice Reporting here : {0} \n\nVoice reporting is always on for players under 18.",
@@ -7713,6 +7746,9 @@
     "UrlFilterPlaceholder": "<redacted URL>",
     "TextChatEnabled": "Text chat has been enabled.",
     "DisabledBySocialBan": "Text chat is disabled due to a social ban on your account.",
+    "WelcomeGeneric": "This chat is public! Please be respectful to other players and never give out your personal information.",
+    "WelcomeSparks": "Welcome to the Main Stage! Chat with your band members while you decide what to play.",
+    "WelcomeJuno": "Welcome to {0}! Chat with other world players in text to increase your odds of survival!",
     "TextChatDisabledByUser": "You have disabled Text Chat in settings.",
     "YouJoinedGameMessage": "You joined the game channel.",
     "YouJoinedPartyMessage": "You joined the party.",
@@ -7720,6 +7756,7 @@
     "YouLeftMessage": "You left the party.",
     "DisabledByParentalControls": "You need your parent's permission to use this feature. They may grant you permission from Parental Controls.",
     "DisabledByPlatformParentalControls": "You need your parent's permission to use this feature. They may grant you permission from your console Parental Controls.",
+    "WelcomeFeral": "You're on attack! Buy weapons, use team chat to coordinate and don't forget to pick up the bomb!",
     "UnmutedOtherPlayer": "{0} has been unmuted in Text Chat.",
     "JoinedGameMessage": "{0} joined the game.",
     "JoinedPartyMessage": "{0} joined the party.",
@@ -7864,11 +7901,8 @@
     "StateAndPresence": "{State} - {Presence}"
   },
   "FortSquadComsPicker": {
-    "QuickChatNeedBandages": "<{SpectatorStyle}>{PlayerName}</> needs <{Color}>Healing</>!",
-    "QuickChatNeedShields": "<{SpectatorStyle}>{PlayerName}</> needs <{Color}>Shields</>!",
     "QuickChatNeedWeapon": "<{SpectatorStyle}>{PlayerName}</> needs a Weapon",
     "QuickChatNeedAmmo": "<{SpectatorStyle}>{PlayerName}</> needs {AmmoType}",
-    "QuickChatThanks": "<{SpectatorStyle}>{PlayerName}</> says Thanks!",
     "FortSquadComsPicker.NPCCommsCategory.FollowerCommands": "Follower Comms",
     "FortSquadComsPicker.RequestCategory": "Request",
     "FortSquadComsPicker.SquadCommsCategory": "Squad Comms",
@@ -8011,6 +8045,7 @@
     "FriendToastInvalidPin": "Invalid parental PIN",
     "FriendIsNowOnlineInvitePartyDescription": "Invite them to the party",
     "PartyInvite": "Invite to party",
+    "PartyJoin": "Join party",
     "PartyJoinedDetails": "Joined <Username>{0}'s</> Party",
     "PartyJoined": "Joined Party",
     "FriendToastPinAttemptsExceeded": "PIN attempts exceeded",
@@ -8967,6 +9002,7 @@
     "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Speed Run",
     "TmntIslandTag": "TMNT",
+    "DarkVortexIslandTag": "The Walking Dead Universe",
     "algorithmic_info": "This content is shown based upon Discover metrics such as what's popular and what's trending. This content can change at any time. This is not a personalized recommendation.",
     "friendrecommendations_info": "This island is being recommended to you based on what your friends have recommended.\n\n Should you want to, you can opt-out of receiving personalized recommendations in Settings by modifying the “Allow Personalization of Discover Recommendations” setting under Account and Privacy->Gameplay Privacy. If you opt-out, you will continue to see recommendations, but they will not be personalized.",
     "recommendations_info": "This island is being recommended to you based on your recently played games and your favorited Collections. It considers your recent play history and the play history of other opted-in users to recommend content to you.\n\n If you want to, you can opt-out of receiving personalized recommendations in Settings by modifying the “Allow Personalization of Discover Recommendations” setting under Account and Privacy->Gameplay Privacy. If you opt-out, you will continue to see recommendations, but they will not be personalized.\n\n You can favorite Collections in Discover and unfavorite Collections in your Library.",
@@ -9020,12 +9056,6 @@
     "JunoCVDConnectivitySettingsMenuLabel": "Juno Connectivity Visualization Settings",
     "JunoCVDConnectivitySettingsMenuToolTip": "Options to change how the recorded Juno Connectivity data is debug drawn",
     "JunoCVDConnectivityDataFlagsMenuToolTip": "Set of flags to enable/disable visibility of specific types of Juno Connectivity data"
-  },
-  "JunoEditor": {
-    "NoEditorAssetSubSystem": "Could not get EditorAssetSubSystem",
-    "NoEditor": "Could not get GEditor",
-    "SaveFail": "Failed to save",
-    "NoSettings": "No settings asset"
   },
   "JunoEditorModule": {
     "JunoExposedAssetsDestructionOperation": "The following assets might theoretically be referenced by Juno persistence data. If you are:\n  1. Trying to delete a released asset - Leave it\n  2. Making API-incompatible changes - Create a new asset and leave the original as-is\n  3. Something else? Ask in #juno-persistence-users-ext.\n\nOperation blocked."
@@ -9101,11 +9131,6 @@
   "K2Node_HandleMissionEvent": {
     "Category": "Add Event|Mission Helpers",
     "HandleMissionEventWithName": "Handle Mission Event (v2): {EventName}"
-  },
-  "K2Node_RootMotionMME": {
-    "RootMotionMME_Title": "Apply Root Motion MME",
-    "RootMotionMME_TitleFormat": "Apply Root Motion {Mode} MME",
-    "RootMotionMME_InternalConnectionError": "K2Node_RootMotionMME: Internal connection error. @@"
   },
   "K2Node_SpawnBuildingActorFromClass": {
     "NodeTooltip": "Attempts to spawn a new Building Actor with the specified transform",
@@ -10027,10 +10052,11 @@
     "NumRewards": "{NumTier} {NumTier}|plural(one=Level,other=Levels)"
   },
   "SeasonPassRewardVM": {
-    "Status_LockedByRewardsInTrack": "Claim all Page {IndexPage} rewards",
-    "Status_LockedByRewardsInSeasonPass": "Claim all other {PassName} rewards",
-    "Status_LockedByRewardsInDependentCategory": "Claim all rewards from the {CategoryDependent}",
+    "Status_LockedByAllRewardsInTrack": "Claim all Page {IndexPage} rewards",
+    "Status_LockedByAllRewardsInCategory": "Claim all other {CategoryName} rewards",
     "Status_LockedByDependentRewards": "Claim base rewards",
+    "Status_LockedByRewardsInCategory": "Claim {Count} more rewards in {CategoryName}",
+    "Status_LockedByRewardsInTrack": "Claim {Count} more rewards on Page {IndexPage}",
     "Status_WeeklyQuestEarnLevels": "Earn {levels} levels",
     "Status_LockedNotAffordableAutoClaimOn": "Earn {levels} {levels}|plural(one=level, other=levels) to auto-claim",
     "Status_LockedFreeRewardNoCurrency": "Level up {times} {times}|plural(one=time, other=times) to claim reward"
@@ -10390,6 +10416,9 @@
     "WaitingForMatchmakingStartTime": "Waiting Matchmaking Start Time",
     "WaitingForPlaylistPlugin": "Waiting for secret key"
   },
+  "UFortValidator_SeasonPassData": {
+    "InvalidSeasonNumber": "Season {0} has invalid season number. Expected {1} (last season + 1), got {2}"
+  },
   "UFortWinterfestPresentCounter": {
     "QuestCompletionBlockedSingle": "Open <text color=\"FFEFBA\" size=\"18\">{0} {0}|plural(one=PRESENT,other=PRESENTS)!</>"
   },
@@ -10422,10 +10451,10 @@
     "MenuEntry": "Asset List"
   },
   "UJunoValidator_Codex": {
-    "SubcategoryTagInvalid": "Codex data table [row {0}] does not have valid SubCateogry tag.",
-    "NeitherItemNorTag": "Codex data table [row {0}] has neither an item definition nor an item tag. Must have at least one.",
+    "SubcategoryTagInvalid": "Codex data table [row {0}] does not have valid SubCategory tag.",
+    "NeitherItemNorTag": "Codex data table [row {0}] has neither an item definition nor an identity tag. Must have at least one.",
     "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
-    "CategoryTagInvalid": "Codex data table [row {0}], does not have valid Cateogry tag.",
+    "CategoryTagInvalid": "Codex data table [row {0}], does not have valid Category tag.",
     "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
   },
   "UJunoValidator_CraftingFormula": {
@@ -10511,12 +10540,34 @@
     "VehicleBouncyChassisController_Description": "Vehicle Bouncy Chassis Controller",
     "VehicleBouncyChassisController_Title": "Vehicle Bouncy Chassis Controller"
   },
+  "VehicleCosmetics": {
+    "FortVehicleCosmeticsActorFactoryDisplayName": "Fort Vehicle Cosmetics Preview Actor",
+    "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort Vehicle Cosmetics Variant Token",
+    "CanCreateActorFrom_InvalidAsset": "Invalid asset given.",
+    "CanCreateActorFrom_NoItemDefinition": "No item definition was specified."
+  },
+  "VehicleCosmeticsEditor": {
+    "MultipleValues": "Multiple Values"
+  },
   "VehicleModComponent": {
     "SwitchSeat": "Switch Seat",
     "SwitchToWeapon": "Switch to Weapon"
   },
   "VkChoiceNode": {
     "OutBoundError": "Conversation nodes are not allowed to connect to other nodes of the same type"
+  },
+  "VkColorNode": {
+    "BODYBACKGROUND": "Body Background",
+    "BODYBORDER": "Body Border",
+    "BODYTEXT": "Body Text",
+    "BUTTONBACKGROUND": "Button Background",
+    "BUTTONHOVERED": "Button Hovered",
+    "BUTTONTEXT": "Button Text",
+    "Format": "Color Set: {ELEMENTCHANGED}",
+    "OutBoundError": "This node cannot connect to other nodes of the same type or Restart nodes",
+    "TITLEBORDER": "Title Border",
+    "TITLETEXT": "Title Text",
+    "TITLEBACKGROUND": "Titled Background"
   },
   "VKConnectionIndicator": {
     "EditMode": "Edit Mode",

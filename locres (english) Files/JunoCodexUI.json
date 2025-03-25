@@ -36,5 +36,10 @@
   },
   "FortTabListWidgetBase": {
     "UnspecifiedTab": "Unspecified"
+  },
+  "JunoCodexTool": {
+    "OpenWritingTrackerCSV": "Choose Writing Tracker CSV export",
+    "ImGuiJunoCodexTool": "Juno Codex Tool",
+    "ImGuiJunoCodexToolTooltip": "Tool for listing all Codex entries"
   }
 }

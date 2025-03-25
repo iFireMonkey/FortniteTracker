@@ -1,8 +1,8 @@
 {
   "": {
     "4F9B238B405E2F8DB4E00CBD24418A9D": "Alert",
-    "CBAA56722A6D52B66EB6344B82E4F938": "Dropped by a <EmphA>Storm-Wild creature</>.",
-    "CBAA56722A6D52B66EB6344B2BFB0876": "Found in <EmphB>all Biomes</>.",
+    "EA20864A4CC7604609AAB6BE94D71BD7": "Dropped by <EmphA>Storm-Wild creatures</>.",
+    "15C3C4FC4486278D18886D94BA62D363": "Found in <EmphB>all Biomes</>.",
     "B3F2234644A3F2EB8DBC0CBA81A5AF4E": "Idle",
     "514B06AC4EF43E88501EE0AAE5B40DFC": "IsHardcoreEnabled = {Value}",
     "CD25CDF54267B44C82E336B3387A1440": "Unknown",
@@ -17,7 +17,7 @@
     "C626059B453C75E962EEE4A63C82E405": "Storm Core"
   },
   "Juno_UpdateItemData": {
-    "37FA60CD4578FC28B94E8199A6C25EB5": "Creepy yet beautiful",
-    "DFF4BB8747FBBF5D49B722AA9F2D9CDE": "Resource dropped from Storm-Wild enemies."
+    "DFF4BB8747FBBF5D49B722AA9F2D9CDE": "A crafting ingredient dropped by Storm-Wild enemies.",
+    "37FA60CD4578FC28B94E8199A6C25EB5": "Creepy yet beautiful"
   }
 }

@@ -170,7 +170,7 @@
     "EFortServerTickRate.Thirty.DisplayName": "30 hz",
     "EFortServerTickRate.Sixty.DisplayName": "60 hz",
     "EFortServerTickRate.UseDefault.DisplayName": "Default (30hz)",
-    "BP_UserOptionComponent_TickRateComponent_C.DesiredTickRate.DisplayName": "Desired Tick Rate",
-    "BP_UserOptionComponent_TickRateComponent_C.DesiredTickRate.Description": "The Desired tick rate of the server"
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Desired Tick Rate",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "The Desired tick rate of the server"
   }
 }
