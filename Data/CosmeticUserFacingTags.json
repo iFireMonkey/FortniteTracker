@@ -259,6 +259,57 @@
         "HelpText": {
           "CultureInvariantString": null
         }
+      },
+      "Cosmetics.UserFacingFlags.TOD": {
+        "Tag": {
+          "TagName": "Cosmetics.UserFacingFlags.TOD"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "D0A3881B4B14766ACECB7A9F050AFD75",
+          "SourceString": "Time Reactive",
+          "LocalizedString": "Time Reactive"
+        },
+        "HelpText": {
+          "Namespace": "",
+          "Key": "D55001874480C4FDBDB2B19C9E486E76",
+          "SourceString": "responds to time of day",
+          "LocalizedString": "responds to time of day"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Music": {
+        "Tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Music"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "34C8F6EF41BBAD5959ACD48FB01B1255",
+          "SourceString": "Music Reactive",
+          "LocalizedString": "Music Reactive"
+        },
+        "HelpText": {
+          "Namespace": "",
+          "Key": "7C31E4EC44F301A28482B28E72A291D0",
+          "SourceString": "responds to music tempo",
+          "LocalizedString": "responds to music tempo"
+        }
+      },
+      "Cosmetics.UserFacingFlags.Damage": {
+        "Tag": {
+          "TagName": "Cosmetics.UserFacingFlags.Damage"
+        },
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "807682504E1067C287B8E39633287FBE",
+          "SourceString": "Damage Reactive",
+          "LocalizedString": "Damage Reactive"
+        },
+        "HelpText": {
+          "Namespace": "",
+          "Key": "5EEBA316433B3A4B164D539287BB1866",
+          "SourceString": "responds to receiving or delivering damage",
+          "LocalizedString": "responds to receiving or delivering damage"
+        }
       }
     }
   }

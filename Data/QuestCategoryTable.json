@@ -29,6 +29,15 @@
         },
         "SortPriority": 950
       },
+      "StarterBundleQuests22": {
+        "Name": {
+          "Namespace": "QuestCategoryTable",
+          "Key": "StarterBundleQuests22_Name",
+          "SourceString": "Cuddle Buns Starter Bundle",
+          "LocalizedString": "Cuddle Buns Starter Bundle"
+        },
+        "SortPriority": 560
+      },
       "StarterBundleQuests21": {
         "Name": {
           "Namespace": "QuestCategoryTable",
