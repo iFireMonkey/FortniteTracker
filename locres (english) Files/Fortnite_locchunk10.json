@@ -4,6 +4,7 @@
     "FriendToastAlreadyRequestedFmt": " {0} already requested",
     "FriendToastPlayerBlockedFmt": " {0} is blocked",
     "OneCharacterOverLimitFmt": "1 Character Over Limit",
+    "2393A5C742D18201665DEDA270D675C1": "1-2 Floors",
     "F42E2868449E0804313B089A21566D1C": "1/2",
     "0AC715144E18513791684B9692958897": "1/4",
     "152AB97749E90133A9C6D4A70AFAA7E4": "10 tiers (100 stars)",
@@ -20,6 +21,7 @@
     "CC7FE0084C0A1A5FE6AA70B0936FF86F": "10 tiers (100 stars)",
     "F352DA1544834E2971678A8FD5FFB6EB": "10 tiers (100 stars)",
     "FC870B584C51C32E110B1C856197D9A5": "10 tiers (100 stars)",
+    "0152AAA04CDE85702E58DFACA3BAFC5A": "3-4 Floors",
     "95C4FAC642A07BFB60EA05BF62EDEA25": "3/4",
     "2E0E045E44F3044E3E03ED912CBCA954": "8-Ball (Scratch)",
     "9C17FC3C491AFAE6C5B10C82A4EE68F7": "8-Ball (Scratch)",
@@ -28,38 +30,40 @@
     "8D56ED064BDBC9A9CA7519AAF3E0F472": "<Emphasized>Pickaxe damage</> increases with <Emphasized>successive hits</> vs opponents",
     "F098D2D04AC64FEAABFAD4A9370613CE": "<Emphasized>Reduced flinch</> after receiving damage",
     "DDA8D03F4DEA0238335DC484544906BD": "<Emphasized>Reveal your location</> to opponents at all times",
-    "5A5F96FF49E2D091393AEC90F11E6F79": "<TeamKiller>{ConfirmingPlayer}</> confirmed an attack location from {MarkerOwner}",
-    "19282BA84EF014533A7D36ACA97CC820": "<TeamKiller>{ConfirmingPlayer}</> confirmed an enemy location from {MarkerOwner}",
-    "9F1ADCC84CAACE9179C392821E4142B9": "<TeamKiller>{ConfirmingPlayer}</> has a ride for {MarkerOwner}",
-    "14EB69E8451CFA3720025789DCD5057F": "<TeamKiller>{ConfirmingPlayer}</> has health for {MarkerOwner}",
-    "72DA0B3C4DDD24840AC09EBB31DD1269": "<TeamKiller>{ConfirmingPlayer}</> has heavy bullets for {MarkerOwner}",
-    "5FBDF1AE4CAE8BAF32749EA7C9461800": "<TeamKiller>{ConfirmingPlayer}</> has light bullets for {MarkerOwner}",
-    "3337037F4AC29CE302F7E18449270106": "<TeamKiller>{ConfirmingPlayer}</> has medium bullets for {MarkerOwner}",
-    "5402A5F6466452B1EA2374A9ECB98CC2": "<TeamKiller>{ConfirmingPlayer}</> has metal for {MarkerOwner}",
-    "0A32C1104455530F9F53F3B0A91F2D0B": "<TeamKiller>{ConfirmingPlayer}</> has rockets for {MarkerOwner}",
-    "21501ABC458E1A6C312E308EB1B28672": "<TeamKiller>{ConfirmingPlayer}</> has shells for {MarkerOwner}",
-    "FC8FB3AF48F78FFAF4E1E1ABCBBF40AE": "<TeamKiller>{ConfirmingPlayer}</> has shields for {MarkerOwner}",
-    "13F327E84249D18148C103AEB1052CAF": "<TeamKiller>{ConfirmingPlayer}</> has stone for {MarkerOwner}",
-    "D51B7B4948CA9680794F69BDD9606610": "<TeamKiller>{ConfirmingPlayer}</> has wood for {MarkerOwner}",
-    "A6ECB4B043D47477AC2611B8BC49EFDB": "<TeamKiller>{ConfirmingPlayer}</> is coming to help {MarkerOwner}",
-    "03FCCF0B4EC53B3F08FAF9A9AB1E20F5": "<TeamKiller>{ConfirmingPlayer}</> plans to join {MarkerOwner}",
-    "B2B0AD6644B63FF0A9AAA7BD9EFB15C5": "<TeamKiller>{ConfirmingPlayer}</> tells {MarkerOwner} you're welcome",
-    "8D9C8CB744C60491C4D61A837E968A3F": "<TeamKiller>{PlayerName}</> is thankful",
-    "B51E846243739177C4159D8DB4317994": "<TeamKiller>{PlayerName}</> marked a destination",
+    "5A5F96FF49E2D091393AEC90F11E6F79": "<LocalKiller>{ConfirmingPlayer}</> confirmed an attack location from <TeamKiller>{MarkerOwner}</>",
+    "19282BA84EF014533A7D36ACA97CC820": "<LocalKiller>{ConfirmingPlayer}</> confirmed an enemy location from <TeamKiller>{MarkerOwner}</>",
+    "9F1ADCC84CAACE9179C392821E4142B9": "<LocalKiller>{ConfirmingPlayer}</> has a ride for <TeamKiller>{MarkerOwner}</>",
+    "14EB69E8451CFA3720025789DCD5057F": "<LocalKiller>{ConfirmingPlayer}</> has health for <TeamKiller>{MarkerOwner}</>",
+    "72DA0B3C4DDD24840AC09EBB31DD1269": "<LocalKiller>{ConfirmingPlayer}</> has heavy bullets for <TeamKiller>{MarkerOwner}</>",
+    "5FBDF1AE4CAE8BAF32749EA7C9461800": "<LocalKiller>{ConfirmingPlayer}</> has light bullets for <TeamKiller>{MarkerOwner}</>",
+    "3337037F4AC29CE302F7E18449270106": "<LocalKiller>{ConfirmingPlayer}</> has medium bullets for <TeamKiller>{MarkerOwner}</>",
+    "5402A5F6466452B1EA2374A9ECB98CC2": "<LocalKiller>{ConfirmingPlayer}</> has metal for <TeamKiller>{MarkerOwner}</>",
+    "0A32C1104455530F9F53F3B0A91F2D0B": "<LocalKiller>{ConfirmingPlayer}</> has rockets for <TeamKiller>{MarkerOwner}</>",
+    "21501ABC458E1A6C312E308EB1B28672": "<LocalKiller>{ConfirmingPlayer}</> has shells for <TeamKiller>{MarkerOwner}</>",
+    "FC8FB3AF48F78FFAF4E1E1ABCBBF40AE": "<LocalKiller>{ConfirmingPlayer}</> has shields for <TeamKiller>{MarkerOwner}</>",
+    "13F327E84249D18148C103AEB1052CAF": "<LocalKiller>{ConfirmingPlayer}</> has stone for <TeamKiller>{MarkerOwner}</>",
+    "D51B7B4948CA9680794F69BDD9606610": "<LocalKiller>{ConfirmingPlayer}</> has wood for <TeamKiller>{MarkerOwner}</>",
+    "A6ECB4B043D47477AC2611B8BC49EFDB": "<LocalKiller>{ConfirmingPlayer}</> is coming to help <TeamKiller>{MarkerOwner}</>",
+    "03FCCF0B4EC53B3F08FAF9A9AB1E20F5": "<LocalKiller>{ConfirmingPlayer}</> plans to join <TeamKiller>{MarkerOwner}</>",
+    "B2B0AD6644B63FF0A9AAA7BD9EFB15C5": "<LocalKiller>{ConfirmingPlayer}</> tells <TeamKiller>{MarkerOwner}</> you're welcome",
+    "A347330A47B12C90CC91508002A10F7F": "<LocalKiller>{ConfirmingPlayer}</> wants <b>{MarkedActorName}</>",
+    "8D9C8CB744C60491C4D61A837E968A3F": "<TeamKiller>{PlayerName}</> is <b>thankful</>",
+    "87B2A4764994CD583C4B998859850D94": "<TeamKiller>{PlayerName}</> marked <b>{MarkedActorName}</>",
+    "B51E846243739177C4159D8DB4317994": "<TeamKiller>{PlayerName}</> marked a <TeamKiller>destination</>",
     "973E45B544F52AC70001A399716836ED": "<TeamKiller>{PlayerName}</> marked an <red>attack</> location",
-    "7B9FFFAB42F3B77A2EAE568F794F581B": "<TeamKiller>{PlayerName}</> marked an enemy location",
-    "6817BE6D48D77007E31E9A9D2E586F03": "<TeamKiller>{PlayerName}</> needs <blue>Shields</>!",
-    "152F9D4048DA33A1D8C19297D0E3346B": "<TeamKiller>{PlayerName}</> needs <green>Healing</>!",
-    "D127C33E45859EE70C98E39F92F5330E": "<TeamKiller>{PlayerName}</> requests <blue>help</>",
-    "5DBABCEC4C17F8FFE062319672AEFF23": "<TeamKiller>{PlayerName}</> requests a ride",
-    "0ED15AF3454AD084CC29E886DE0310A7": "<TeamKiller>{PlayerName}</> requests heavy bullets",
-    "300EEA27439994BFD373FC80B84E842F": "<TeamKiller>{PlayerName}</> requests light bullets",
-    "6AE6F5B447A4455B4FA0B7B4F570EA5E": "<TeamKiller>{PlayerName}</> requests medium bullets",
-    "E724DB754D5330A514922BA6216A80B5": "<TeamKiller>{PlayerName}</> requests metal",
-    "8657D46D44F9DB1BE731109003357C85": "<TeamKiller>{PlayerName}</> requests rockets",
-    "7BCCD91545F4134B69E3049C4C30772E": "<TeamKiller>{PlayerName}</> requests shells",
-    "10E7D290415923EA6A984FB6D534D7D6": "<TeamKiller>{PlayerName}</> requests stone",
-    "0CD79A7142058339A75B418245AD317D": "<TeamKiller>{PlayerName}</> requests wood",
+    "7B9FFFAB42F3B77A2EAE568F794F581B": "<TeamKiller>{PlayerName}</> marked an <red>enemy</> location",
+    "0ED15AF3454AD084CC29E886DE0310A7": "<TeamKiller>{PlayerName}</> requests <b>heavy bullets</>",
+    "D127C33E45859EE70C98E39F92F5330E": "<TeamKiller>{PlayerName}</> requests <b>help</>",
+    "300EEA27439994BFD373FC80B84E842F": "<TeamKiller>{PlayerName}</> requests <b>light bullets</>",
+    "6AE6F5B447A4455B4FA0B7B4F570EA5E": "<TeamKiller>{PlayerName}</> requests <b>medium bullets</>",
+    "E724DB754D5330A514922BA6216A80B5": "<TeamKiller>{PlayerName}</> requests <b>metal</>",
+    "8657D46D44F9DB1BE731109003357C85": "<TeamKiller>{PlayerName}</> requests <b>rockets</>",
+    "7BCCD91545F4134B69E3049C4C30772E": "<TeamKiller>{PlayerName}</> requests <b>shells</>",
+    "10E7D290415923EA6A984FB6D534D7D6": "<TeamKiller>{PlayerName}</> requests <b>stone</>",
+    "0CD79A7142058339A75B418245AD317D": "<TeamKiller>{PlayerName}</> requests <b>wood</>",
+    "6817BE6D48D77007E31E9A9D2E586F03": "<TeamKiller>{PlayerName}</> requests <blue>shields</>",
+    "152F9D4048DA33A1D8C19297D0E3346B": "<TeamKiller>{PlayerName}</> requests <green>health</>",
+    "5DBABCEC4C17F8FFE062319672AEFF23": "<TeamKiller>{PlayerName}</> requests a <b>ride</>",
     "231AF36049841BCCCB72619C0346D63B": "<Viper Glitch> Style",
     "60A3E9644DDBB10D58CF2F9303973C35": "? ? ?",
     "31CD900F4FA8D77724E2058309069ADF": "A blade that has a powerful secondary leap attack.",
@@ -115,6 +119,7 @@
     "538CA0FD407525ED9BF9419C551C8C98": "Allow Clippy",
     "AD7E0ADD41564C07A0AA06A8602FCFD9": "Allow UEKitt Creative",
     "16A0C20E46D239CCDCCF45A485B70A12": "Allows you to access the CTF and Domination theater pin",
+    "E4ED37F24C79B59C2D9DA0BE86F8DFB7": "Already carrying one",
     "FriendRequestAlreadyFriendsFmt": "Already friends with {0}",
     "0802B35F41C78353417EF282A13C6C04": "Always Upload Logs",
     "A2223F2944E33C6AF09C19B6905EDFA1": "Ammo",
@@ -251,9 +256,10 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Big-Barrel DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplane",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplane",
-    "DF56207843F6244003548CA79CFAA0F4": "Biplane",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
+    "7641CC0743ADBB2B2B04ED9883DD8214": "Bling",
+    "C8094ADA4850845D5717FF97928BCF02": "Bling",
     "Block": "Block {0}.",
     "4FB09C764562AFFD09E0E195286C2812": "Blue",
     "23945D5A4C1738C6468DD19DA7C8295F": "Boost",
@@ -268,6 +274,7 @@
     "25BECD6E4D71E9FE2E4D60A1CDB22CE1": "Bounty Token",
     "A7D7F8214B597EAF7E8BA8B0C20F57F0": "Bounty Token",
     "51ABB40640BE2CB61457DDBB4AF7447E": "Brake/Reverse",
+    "B03064804039A6A1A1D81FA848EEDE26": "Bring this to a Getaway van!",
     "9D207DE74F13D3032A282287C94F6875": "Building Materials",
     "1308F661480B45B3CAE00C98A2E186B6": "Building is disabled",
     "C2D66A3E4BB3638A95209AA498DFDD46": "Building is disabled",
@@ -624,6 +631,8 @@
     "839B1DA64513162B774D6DA723CCF2DE": "DisplayName",
     "7A06DE884A995404177AD6A19FDC8892": "Down I went when suddenly--BLINK--I was IN the volcano. Merged.",
     "F92A2BBA4871D636829900B0E138FA81": "Dr. VinderBot Challenges",
+    "E1BED4D745D5C529FA212FB1F3F608E5": "Dragon's Breath Shotgun",
+    "E59090CF454893982874D2A50DE4A337": "Dragon's Breath Shotgun",
     "A40029FC4A42722819C81C98492196A1": "Driftwalker",
     "F4DB413445A0B5E5D14DC589B7303967": "Driftwalker",
     "94E50C1644E53700C42F0F929771E0F7": "Driftwalker's Quest Pack",
@@ -694,6 +703,7 @@
     "C8074EE14AC9A4E1D5B5AF8809072D41": "FOUNDERS PACK 4",
     "D3FB59734B08E81911D0A19A44AE4ACA": "FOUNDERS PACK 5",
     "F0CE215A4C43A35A4F9FAA975385DD4B": "Fabric Device",
+    "1B1226CD42C4EE72F24FE5B4C56A42A8": "Fencing Fields",
     "60D1D03745EB8ABC351FB88EF780BB3E": "Figment Consumable Template",
     "83709366496215B44F9A2ABFB16705E2": "Figment Weapon Template",
     "Filter Friends Hint": "Filter",
@@ -982,6 +992,8 @@
     "3F71B030493D924F66F6868E19EBF3F6": "Jetpack",
     "DACA67B54BD3A972CC90A49224E233C8": "Jetpack",
     "FC35C92B491FB39A858C71B2C3E73E0A": "Jetpack (Infinite Fuel)",
+    "92FA30654E20399C5A7F1081DF70844B": "Jewel",
+    "A5E4185345C69A8A44C372900098C88D": "Jewel",
     "JoinGame": "Join Game",
     "JoinPartyFailedMessage": "Join Party Failed",
     "Join": "Join {0}.",
@@ -1441,7 +1453,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Shield Steal",
     "4F611C954A5378BFC1804C96BB3981FE": "Shield Synergy",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Shield Toss",
-    "6FE5EF624909BEBF19A4F7A143733F40": "Ship Cannon",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Ship Cannon",
     "93D0AAC643B7CCE0B45615ADBC124BFD": "Shoot/Retract",
     "8F2CB8B14C13300867F38FB05719A4D2": "Shoots a celebratory bottle rocket into the sky. Consumes on use.\r\nDoesn't persist outside of mission.",
@@ -1449,6 +1460,8 @@
     "D658A1654DD9535F6E60B9BCBDAC25CC": "ShortDescription",
     "F6BC2C5F4A81B72C1FDDFE85C17FE03C": "ShortDescription",
     "52A97CA746DE4B0EE0516A98998B6203": "Shotgun: Automatic. Very fast firing shotgun with a large magazine",
+    "25959F92401A01E7EE84698DBFC693FA": "Shotgun: Break-Action. Deals high damage at a fast fire rate. Short range and very limited magazine size.",
+    "4AF46CE74B74BCE26916CCA46D1E845F": "Shotgun: Break-Action. Deals high damage at a fast fire rate. Short range and very limited magazine size.",
     "877E6BD14AFCE21D134787A71842A605": "Shotgun: Chargeable. High accuracy shotgun that lets the user charge and hold a powerful blast that can be released at will.",
     "82C81CEB4209B4F78F6DB894345EFEBF": "Shotgun: Pump-Action. Deals high damage at a moderate fire rate. Short range and limited magazine size.",
     "029C79824756DFCA21B1AB85821FF31C": "Show News",
@@ -1735,6 +1748,7 @@
     "51C2C89443FFE3CF302E3ABD5317A169": "Use these to unlock VinderTech upgrades!",
     "73762F8641DEF613214FC08B1CE2D531": "Use these to unlock deployable base upgrades in Operation: Block Party!",
     "EBC913E14877F572796C05A4586C433F": "Use this map to find Buried Treasure",
+    "7A7735C0436E9E5E27ADCBB5144A9AE6": "Use with the Item Spawner and Capture Area to make your own heist.",
     "B1722834419E0020E2534F872A41601B": "Use your pickaxe to dig up the treasure!",
     "C9A93C9E4CDDCB5A65814AA3BB0AF80F": "Used to activate Frag Grenade.",
     "307BC8374905541201697796389321B5": "Used to increase the Battle Royale Season Level.",
@@ -2322,6 +2336,7 @@
     "AthenaIndicatorDistanceFormatText": "{0}m"
   },
   "AthenaMarkerComponent": {
+    "FallbackMarkedActorName": "Object",
     "FallbackPlayerName": "Player"
   },
   "AthenaMatchXPScreenWidget": {
@@ -2498,9 +2513,6 @@
     "Head": "Head",
     "MiscOrTail": "MiscOrTail",
     "UnknownPart": "Unknown Part"
-  },
-  "ChatContainer": {
-    "CombinedChannelName": "All"
   },
   "ChatEntryCommands": {
     "Chat Commands": "Chat Commands"
@@ -4472,6 +4484,7 @@
     "RefreshNotificationDescription": "You have {AvailableCount} Return {AvailableCount}|plural(one=Request,other=Requests) available for use"
   },
   "FortAthenaMatchmakingWidget": {
+    "Ranked_Feral_SeasonNameOverride": "Early Access",
     "MapRotationMessage": "Next Map: {0}",
     "Ranked_Feral_ModeName": "Ranked Ballistic",
     "Ranked_Figment_ModeName": "Ranked Fortnite OG",
@@ -4483,7 +4496,6 @@
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "Season Zero",
     "Ranked_BlastBerry_SeasonNameOverride": "Season Zero",
-    "Ranked_Feral_SeasonNameOverride": "Season Zero",
     "Ranked_Figment_SeasonNameOverride": "Season Zero",
     "BlackoutTimeCountdownFormat": "Unavailable in {0}",
     "Ranked_Matchmaking_ReadyUpWelcome": "Welcome to {0}"
@@ -4585,28 +4597,15 @@
     "BlueprintPropertiesRowText": "vvv Blueprint Properties vvv",
     "NativePropertiesRowText": "vvv Native Properties vvv"
   },
-  "FortChat": {
-    "SendError": "You must be in a channel to send a message.",
-    "SendDisabledError": "Your text chat is disabled."
-  },
-  "FortChatContainer": {
-    "DisabledReasonLine_Parental": "Text chat is disabled due to your parental control settings.",
-    "DisabledReasonLine": "You cannot use text chat due to your text chat settings.",
-    "DisabledReasonLine_Alt": "You need your parent's permission to use this feature. They may grant you permission from Parental Controls."
-  },
   "FortChatManager": {
     "DisplayChannelText_Echo": "Echo Test",
-    "FounderChatLabel": "Founder",
     "DisplayChannelText_GameServer": "Game",
-    "GlobalChatLabel": "Global",
     "DisplayChannelText_None": "No",
     "DisplayChannelFormat_NoChannel": "No Channel",
     "DisplayChannelText_Party": "Party",
     "VoiceChannelType_Platform_Generic": "Platform Party",
     "VoiceChannelType_Platform_PS": "PlayStation Party",
     "VoiceChannelType_Platform_XBL": "Xbox network Party",
-    "DisplayChannelFormat_ThreeChannels": "{0} & {1} & {2} Channels",
-    "DisplayChannelFormat_TwoChannels": "{0} & {1} Channels",
     "DisplayChannelFormat_OneChannel": "{0} Channel"
   },
   "FortColorPickerInternal": {
@@ -4926,11 +4925,6 @@
     "TitleWhenGiftFromSomeoneElse": "You received a gift!",
     "SanitizedUserMessage": "{message} -{sender}"
   },
-  "FortItemRestrictionVM": {
-    "ShoesLockerCompatibilityFormat": "These Kicks are compatible with {0} of {1} {1}|plural(one=Outfit,other=Outfits) in your Locker.",
-    "ShoesIncompatibleEquippedText": "These Kicks are not currently usable with your equipped Outfit.",
-    "ShoesCompatibilityFormat": "{0}\n\n{1}"
-  },
   "FortItemShopOfferDetails": {
     "ConfirmationUndoOnCooldownMessage": "Please confirm this purchase. Note that Cancel Purchase will not be available for this transaction. You can still return this purchase normally if you have remaining Return Tickets.\n\nFor more information see fn.gg/cancelpurchase"
   },
@@ -4948,6 +4942,7 @@
     "JunoLegalText": "In LEGO® Fortnite Odyssey content can be placed in your own and up to 8 other friends’ worlds per week. You must gather all required resources before building and placing the content in LEGO® Fortnite Odyssey Survival Mode.",
     "ShoesOfferIncompatibilityText": "Kicks are usable with most Outfits. For exceptions and other info see fn.gg/KicksUsability.",
     "LegoKitOfferDescription": "LEGO® Kit",
+    "LeavingToday": "Leaving Today",
     "PegiMusicWarning": "MUSIC DOWNLOADS NOT RATED BY PEGI - www.pegi.info",
     "UndoCooldownConfirmation": "Please confirm this purchase. Note that Cancel Purchase will not be available for this transaction. You can still return this purchase normally if you have remaining Return Tickets.\n\nFor more information see fn.gg/cancelpurchase",
     "DefaultLegalText": "These cosmetic items grant no competitive advantage. Outfits and wraps don't include weapons. Not all cosmetics are usable in all experiences. For more details on cosmetic variations and limitations of use, see fn.gg/cosmetics",
@@ -5107,6 +5102,13 @@
     "NoIdentityInterface": "No identity interface!",
     "NoSessionInterface": "No session interface!",
     "NoUniqueId": "Unknown player accepting invite!"
+  },
+  "FortMatchmakingViewModel": {
+    "MatchmakingStatus_FindingServer": "Finding server",
+    "MatchmakingStatus_InvalidIsland": "Invalid island",
+    "MatchmakingStatus_MatchFound": "Match found",
+    "MatchmakingStatus_Unready": "Not ready",
+    "MatchmakingStatus_WaitingForPlayersReadyUp": "Waiting for players to ready up"
   },
   "FortMatmakingWidget": {
     "BackOnContentDownloadDialog_Button": "Back"
@@ -5369,6 +5371,7 @@
     "Error.TeammateRankLevelTooHigh": "A teammate has a rank level too high to play this tournament",
     "AlreadyInSession": "Already joined this session!",
     "ClientCellularDownloadRefusalError": "Cellular download settings prevent content downloading before joining the session.",
+    "Header.ContentError": "Content Download Error",
     "InvalidCustomMatchKey": "Custom matchmaking key must be between 4 and 16 characters long.",
     "DuplicatePlayer": "Err, someone else just logged in on another device. If this wasn't you, contact Customer Support immediately at {SupportURL}.",
     "FailedToCleanupSession": "Failed to cleanup previous session!",
@@ -5385,12 +5388,19 @@
     "MMSCommunicationIssue": "Issue communicating with Matchmaking Service.",
     "BucketTermination": "It looks like the matchmaking queue died while you were in it, please try again!",
     "WinHttpTimeOut": "It looks like there are connection problems, please try again!",
+    "Header.JoinError": "Join Session Error",
     "SessionUnavailable": "Looks like all the Battle Buses headed out are full. Give it another shot in a few minutes. If it keeps up, visit {CheckStatusURL}.",
     "PlaylistNoLongerAvailable": "Looks like you just missed it! That mode is no longer available. Please pick a different mode to play.",
     "LeaderCanceled": "Matchmaking canceled by party leader",
     "Message.Canceled": "Matchmaking canceled.",
+    "Header.MatchmakingError": "Matchmaking error",
+    "Header.MatchmakingError.Number": "Matchmaking error (#1)",
+    "Header.ContentError.Number": "Matchmaking error (#2)",
+    "Header.JoinError.Number": "Matchmaking error (#3)",
+    "Header.PartyError.Number": "Matchmaking error (#4)",
     "NoIdentityInterface": "No identity interface!",
     "NoSessionInterface": "No session interface!",
+    "Header.PartyError": "Party Error",
     "PartyConnectTimeout": "Party failed to connect",
     "PartyMemberDisconnected": "Party member disconnected",
     "FindSessionFailure": "Session has expired.",
@@ -5441,6 +5451,7 @@
     "Unauthorized": "You cannot play this game mode at this time.",
     "MfaRequiredForTournament": "You must have two-factor authentication enabled on your Epic account in order to play in this tournament. Visit {TurnOnMfaURL} to enable.",
     "WrongNumberOfEventPlayers": "You need to be in a full party for this tournament.",
+    "InvalidDate": "Your Nintendo Switch clock is set incorrectly. Please set your clock to Synchronize via Internet in the Date and Time settings.",
     "Error.AccountLevelTooLow": "Your account level ({0}) does not meet the minimum requirements to play: {1}.",
     "Error.BRRankLevelTooLow": "Your current Battle Royale rank level ({0}) does not meet the minimum requirements to play: {1}.",
     "Error.BRRankLevelTooHigh": "Your current Battle Royale rank level ({0}) is too high to play this tournament. The maximun ranking allowed to play is {1}.",
@@ -5470,9 +5481,6 @@
   "Fortnite.UGCEdit": {
     "ExperimentalDeviceToastDescription": "An Experimental asset has been added.\nPublishing will be blocked until all experimental assets are removed.",
     "ExperimentalDeviceToastTitle": "Experimental Asset"
-  },
-  "FortniteChat": {
-    "BanMessage": "Chat disabled due to social ban."
   },
   "FortniteCheatManager": {
     "Error_RetryCompilation": "C++ compilation of module {0} failed!  Details in the log.  \r\nFix the error then click Ok to retry."
@@ -7375,7 +7383,9 @@
     "AutoPickupWeapons_Description": "Turns auto pick up weapons on/off. When on, weapons will automatically be picked up when moving over them, unless your inventory is full.",
     "AutoSortConsumablesToHigherSlots_Description": "Turns auto sort consumables to higher numbered slots on/off. When on, consumable items such as health and shields will default to the highest empty quickbar slot when picked up.",
     "AutoSortConsumablesToRight_Description": "Turns auto sort consumables to right on/off. When on, consumable items such as health and shields will default to the rightmost empty quickbar slot when picked up.",
-    "GamepadAutoRun_Description": "Turns controller auto-run on/off. When on, double clicking the left stick will make you automatically run forward without needing to hold the stick forward.",
+    "GamepadAutoRun_Description_PS4_PS5": "Turns controller auto-run on/off. When on, double clicking the L3 Button will make you automatically run forward without needing to hold the left stick forward.",
+    "GamepadAutoRun_Description_Switch": "Turns controller auto-run on/off. When on, double clicking the Left Stick will make you automatically run forward without needing to hold the Left Stick forward.",
+    "GamepadAutoRun_Description": "Turns controller auto-run on/off. When on, double clicking the left stick will make you automatically run forward without needing to hold the left stick forward.",
     "GamepadVibration_Description": "Turns controller vibration on/off.",
     "GamepadVibrationMobile_Description": "Turns device vibration on/off.",
     "EditModeAimAssist_Description": "Turns edit mode aim assist on/off. When on, this attracts your controller aim to the closest editing square in building edit mode.",
@@ -8071,6 +8081,7 @@
     "FriendToastSelfOutboxFull": "You have too many outgoing friend requests"
   },
   "FortUIStateWidget_Login": {
+    "OfferRHIChangeForStability_Title": "Change rendering mode?",
     "RejoinCheck": "Checking for active game session...",
     "UpdateCheck": "Checking for updates...",
     "ConnectionCheckText": "Checking your connection...",
@@ -8086,6 +8097,8 @@
     "Benchmark": "Running Benchmarks...",
     "ServicesSlow": "Servers not responding",
     "LogoutComplete": "Successfully logged out.",
+    "OfferRHIChangeForStability_DX11_Description": "The graphics driver installed on your computer has known stability issues with the current rendering mode (DirectX 12) and Fortnite might crash while playing. Would you like to switch to DirectX 11 for a more stable experience (Fortnite will restart)?",
+    "OfferRHIChangeForStability_PerfMode_Description": "The graphics driver installed on your computer has known stability issues with the current rendering mode (DirectX 12) and Fortnite might crash while playing. Would you like to switch to Performance Mode for a more stable experience (Fortnite will restart)?",
     "MigratedSettings": "Updated Settings!",
     "FindBestSettingsLong": "Would you like to automatically apply the best settings for your system?",
     "MigratedSettingsLong": "Your rendering settings have been updated. We recommend running Auto Set to update and optimize all of your graphics settings.",
@@ -10516,9 +10529,13 @@
     "Status_LockedRewardFormat": "Claim {NumRewards} more {NumRewards}|plural(one=reward,other=rewards)",
     "Status_NoRewardsToClaimCostOneFormat": "Level up to claim more rewards",
     "Status_NoRewardsToClaimFormat": "Level up {Levels} more times to claim more rewards",
+    "Status_GoToCategoryForMoreRewards": "More rewards are available in {CategoryName}",
+    "Status_GoToNextPageForRewards": "More rewards can be claimed on Page {PageNumber}",
     "Status_LockedLevelFormat": "OR earn {NumLevels} {NumLevels}|plural(one=level,other=levels) to unlock",
+    "Status_PurchaseBattlePassToUnlock": "Unlock more rewards with purchase of {PassName}",
     "Status_LockedDateLockedFormat": "Unlocks on {Date}",
     "Status_RewardsToClaimFormat": "You have available rewards",
+    "Status_PassCompletedAllRewardsClaimed": "You have claimed all {PassName} rewards!",
     "Status_LockedLevelRewardFormat": "{0} {1}"
   },
   "UserOptionDefinition": {
@@ -10552,6 +10569,31 @@
   "VehicleModComponent": {
     "SwitchSeat": "Switch Seat",
     "SwitchToWeapon": "Switch to Weapon"
+  },
+  "VkAnimNode": {
+    "FADEINLEFT": "Fade In Left",
+    "FADEINRIGHT": "Fade In Right",
+    "FADEOUTLEFT": "Fade Out Left",
+    "FADEOUTRIGHT": "Fade Out Right",
+    "JUMPFADEINLEFT": "Jump Fade In Left",
+    "JUMPFADEINRIGHT": "Jump Fade In Right",
+    "JUMPFADEOUTLEFT": "Jump Fade Out Left",
+    "JUMPFADEOUTRIGHT": "Jump Fade Out Right",
+    "JUMPLEFT": "Jump Left",
+    "JUMPRIGHT": "Jump Right",
+    "SHAKELEFT": "Shake Left",
+    "SHAKERIGHT": "Shake Right",
+    "SHAKEWOBBLELEFT": "Shake Wobble Left",
+    "SHAKEWOBBLERIGHT": "Shake Wobble Right",
+    "SLIDEINFASTLEFT": "Slide In Fast Left",
+    "SLIDEINLEFT": "Slide In Left",
+    "SLIDEINRIGHT": "Slide In Right",
+    "SLIDEOUTFLIPLEFT": "Slideout Flip Left",
+    "SLIDEOUTFLIPRIGHT": "Slideout Flip Right",
+    "SLIDEOUTLEFT": "Slideout Left",
+    "SLIDEOUTRIGHT": "Slideout Right",
+    "Format": "Speaker Animation: {ANIMENUM}\nCustom Animation Index :{ANIMINDEX}",
+    "OutBoundError": "This node cannot connect to other nodes of the same type or Restart nodes"
   },
   "VkChoiceNode": {
     "OutBoundError": "Conversation nodes are not allowed to connect to other nodes of the same type"
@@ -10592,6 +10634,12 @@
     "OutBoundError": "This node cannot connect to other nodes of the same type or Restart nodes"
   },
   "VkHideNode": {
+    "OutBoundError": "This node cannot connect to other nodes of the same type or Restart nodes"
+  },
+  "VkMaterialNode": {
+    "ART01": "Art 01",
+    "ART02": "Art 02",
+    "Format": "Material Index: {NUMBER}\nPortraitSelection: {ARTINDEX}",
     "OutBoundError": "This node cannot connect to other nodes of the same type or Restart nodes"
   },
   "VkRandomNode": {

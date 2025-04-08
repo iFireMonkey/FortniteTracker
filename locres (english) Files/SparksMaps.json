@@ -1,1 +1,18 @@
-{}
+{
+  "": {
+    "B34908CB4095CD38700BD9AC72557411": "Body High End",
+    "7E7067F7454DAB7D58484FA6055CF78A": "Body Low End",
+    "FC68F25E4D95AF3AD9A198B8D7D2969E": "Edge High End",
+    "CF11151442D809848D8A6288A01674DA": "Edge Low End",
+    "E2B9760341AC41D5EB4D75B345EA6B18": "Metallic",
+    "779FA07F49D6496D312B8DB33E5C0F74": "Missing widget class.\r\n\r\nGo to your project's implementation, and find the Playspace blueprint that it uses.\r\n\r\nSet the 'CaptureToolWidgetClass' on the SparksCommonUtils playspace component to the widget that you would like to create here.",
+    "C3DAC0734C90E891E9B0708BD53AF049": "Roughness",
+    "43FA13FF4A07677DAC03F997736C6088": "Specular",
+    "D7B049B8461DA29DD95E2FA983DEDE3C": "U Frames",
+    "08C64AC2458FE755FD96FFB35198FE76": "Unused",
+    "0F92081D447FA02CF4F316BB1BB0D40E": "V Frames",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ignored event (no NPS component available)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} increased pool size: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} increased pool size: {size}"
+  }
+}

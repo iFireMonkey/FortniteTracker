@@ -53,8 +53,6 @@
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
-    "CreativeConversation_BoxType.1 Portrait.DisplayName": "1 Portrait",
-    "CreativeConversation_BoxType.2 Portrait.DisplayName": "2 Portrait",
     "Device_Conversation_C.Button Background Color.Description": "Background color of buttons in Box conversations.",
     "Device_Conversation_C.Body Background Color.Description": "Background color of the body in Box conversations.",
     "Device_Conversation_C.Title Background Color.Description": "Background color of the title in Box conversations.",
@@ -104,15 +102,19 @@
     "07EB2C79464B4CDF601991B9FBC86743": "Show Conversation Text in World Space",
     "Device_Conversation_C.Show Indicator Bubble.DisplayName": "Show Indicator Bubble",
     "757B952842CC764817D39A9EF7CF285E": "Show Name When Nearby",
+    "Device_Conversation_C.ConversationType_Box.1 Portrait.DisplayName": "Single Speaker",
     "Device_Conversation_C.SkipTextCrawlMessage.DisplayName": "Skip Text Crawl Message",
     "5FCEA80442278E83D7684DBD430F3DBF": "Speaker Name",
     "CreativeConversation_BoxType.Standard.DisplayName": "Standard",
+    "Device_Conversation_C.ConversationType_Box.Description": "Standard: The default Box UI. One Speaker: There will be a material above the Box UI Speaker Name. Two Speakers: There will be a material above the Box UI Speaker Name. The material needs to be set using the SetConversationMaterial node in the associated conversation graph.",
     "Device_Conversation_C.Body Text Color.Description": "Text color of body text in Box conversations.",
     "Device_Conversation_C.Button Text Color.Description": "Text color of buttons in Box conversations.",
     "Device_Conversation_C.Title Text Color.Description": "Text color of the title in Box conversations.",
     "Device_Conversation_C.Button Hovered Color.Description": "The background color of buttons while they are hovered in Box conversations.",
+    "Device_Conversation_C.SkipTextCrawlMessage.Description": "The message shown in the button to skip the text crawl if CharactersPerSecond is greater than 0.",
     "Device_Conversation_C.Title Background Color.DisplayName": "Title Background Color",
     "Device_Conversation_C.Title Border Color.DisplayName": "Title Border Color",
-    "Device_Conversation_C.Title Text Color.DisplayName": "Title Text Color"
+    "Device_Conversation_C.Title Text Color.DisplayName": "Title Text Color",
+    "Device_Conversation_C.ConversationType_Box.2 Portrait.DisplayName": "Two Speakers"
   }
 }

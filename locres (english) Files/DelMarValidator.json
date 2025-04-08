@@ -13,8 +13,9 @@
     "Orphan": "{0} is not connected in the track."
   },
   "DelMarValidator_ModeManager": {
-    "MultipleModeManagerForMode": "There is more than one RR Race Manager placed with the same level tag. Tracks must contain exactly one RR Race Manager. {0}",
+    "MultipleModeManagerForModeWithLevelTag": "There is more than one RR Race Manager placed with the same level tag. Tracks must contain exactly one RR Race Manager. {0}",
     "MultipleModeManager": "There is more than one RR Race Manager placed. Tracks must contain exactly one RR Race Manager. {0}",
+    "MultipleModeManagerForMode": "There is more than one RR Race Manager placed. Tracks must contain exactly one RR Race Manager. {0}",
     "NoModeManager": "There is no RR Race Manager placed. Tracks must contain exactly one RR Race Manager. RR Competitive Race Manager, RR Speed Run Race Manager, etc. {0}"
   },
   "DelMarValidator_Tracks": {
