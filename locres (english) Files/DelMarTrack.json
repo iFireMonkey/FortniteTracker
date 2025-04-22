@@ -42,7 +42,7 @@
     "Track": "Track"
   },
   "DelMarTrack": {
-    "SecondaryTrackBadConnection": "Secondary Track Bad Connection! Make sure all secondary tracks are connected to Primary or Secondary tracks: {1}). Map: {2}",
+    "SecondaryTrackBadConnection": "Secondary Track Bad Connection! Make sure all secondary tracks are connected to Primary or Secondary tracks: {1}. Map: {2}",
     "NoEndTrackConnection": "Secondary Track Has no EndTrackConnection in {0}. Map: {1}",
     "NoStartTrackConnection": "Secondary Track Has no StartTrackConnection in {0}. Map: {1}",
     "SecondaryTrackLoops": "Secondary Track Loop detected! Loop detected at Track {0} (starting Track: {1}). Map: {2}"

@@ -100,6 +100,7 @@
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
+    "Device_EmoteController_V2_C.EmoteCollection.Description": "A collection of emotes this device controls, only works in UEFN",
     "Device_EmoteController_V2_C.Add or Block Emote.DisplayName": "Add Or Block Emote",
     "EEnabledOnPhase.Always.DisplayName": "Always",
     "BP_EmoteController_Device_C.Enable Player Effects.Description": "Attaches a music reactive particle effect to all players in the volume",
@@ -122,6 +123,7 @@
     "Device_EmoteController_V2_C.Disable Player Effects.DisplayName": "Disable Player Effects",
     "BP_EmoteController_Device_C.Disable.Description": "Disable the Emote Controller, unblocking the blocked emotes or removing the granted emote",
     "Device_EmoteController_V2_C.Disable.Description": "Disable the Emote Controller, unblocking the blocked emotes or removing the granted emote",
+    "Device_EmoteController_V2_C.EmoteCollection.DisplayName": "Emote Collection",
     "Device_EmoteController_V2_C.EmoteID.DisplayName": "Emote ID",
     "BP_EmoteController_Device_C.Enable.DisplayName": "Enable",
     "Device_EmoteController_V2_C.Enable.DisplayName": "Enable",

@@ -61,7 +61,7 @@
     "784C8A564E59E68792817C86A6EBC30F": "<text color=\"1CFFD6\">1</><text size=\"20\"> / 1</>",
     "86FFD3E54D8B3C6E18AFE4BDEEEF83A2": "<text color=\"4B1C7C\">Rifted</>",
     "5228D8A0450F3C88F42547A2692BE786": "<text color=\"67C0CC\">Nothing to process</>",
-    "A766AA8A400FAE19BA18A498A98DF541": "<text color=\"67C0CC\">Processing </><text color=\"CCF2FF\">{Count}|plural(one=item,other=items)</>",
+    "A766AA8A400FAE19BA18A498A98DF541": "<text color=\"67C0CC\">Processing </><text color=\"CCF2FF\">{Count} {Count}|plural(one=item,other=items)</>",
     "50314D1B4B9081C904168083909C7BF2": "<text color=\"67C0CCFF\">Stage 1/4</>",
     "A1986CA745A7C28B00B87495FFF76E4F": "<text color=\"67C0CCFF\">Stage 1/4</>",
     "D22FC5984530D112C6C41696F77A4794": "<text color=\"D5E8E4\">No recipes known!</>\r\nFind resources to unlock recipes.",
