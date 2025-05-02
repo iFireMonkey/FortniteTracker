@@ -33,6 +33,7 @@
     "Device_Volume_C.SelectedTeam.Description": "Determines what team is affected by this volume.",
     "Device_Volume_C.VisibleInGame.Description": "Determines whether the volume is visible in game.",
     "Device_Volume_C.PlayerEventsEnabled.Description": "Determines whether the volume triggers entered and exit events.",
+    "Device_Volume_C.PhysicsEventsEnabled.Description": "Determines whether the volume triggers physics entered and exit events.",
     "Device_Volume_C.ExternalVolume.DisplayName": "External Volume",
     "Device_Volume_C.GuardEventsEnabled.DisplayName": "Guard Events Enabled",
     "Device_Volume_C.Use Custom Shape.Description": "If set, the volume will use a custom mesh rather than a shape.",
@@ -43,6 +44,9 @@
     "BoolMetaData.TrueDisplayName": "On",
     "Device_Volume_C.OnEnter.DisplayName": "On Enter",
     "Device_Volume_C.OnExit.DisplayName": "On Exit",
+    "Device_Volume_C.OnPhysicsEnter.DisplayName": "On Physics Enter",
+    "Device_Volume_C.OnPhysicsExit.DisplayName": "On Physics Exit",
+    "Device_Volume_C.PhysicsEventsEnabled.DisplayName": "Physics Events Enabled",
     "Device_Volume_C.PlayerEventsEnabled.DisplayName": "Player Events Enabled",
     "Device_Volume_C.SelectedClass.DisplayName": "Selected Class",
     "Device_Volume_C.SelectedTeam.DisplayName": "Selected Team",
@@ -61,6 +65,8 @@
     "Device_Volume_C.VolumeShape.DisplayName": "Volume Shape",
     "Device_Volume_C.VolumeWidth.DisplayName": "Volume Width",
     "Device_Volume_C.OnEnter.Description": "Will Trigger Enter Events",
-    "Device_Volume_C.OnExit.Description": "Will Trigger Exit Events"
+    "Device_Volume_C.OnExit.Description": "Will Trigger Exit Events",
+    "Device_Volume_C.OnPhysicsEnter.Description": "Will Trigger Physics Enter Events",
+    "Device_Volume_C.OnPhysicsExit.Description": "Will Trigger Physics Exit Events"
   }
 }

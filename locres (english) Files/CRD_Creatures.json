@@ -123,6 +123,7 @@
     "ECreatureType.All Random.DisplayName": "All Random",
     "EScoreDistributionType.AllToEliminator.DisplayName": "All to Eliminator",
     "Device_CreatureManager_V2_C.Allow Weapon Knockback.DisplayName": "Allow Weapon Knockback",
+    "ESpawnDestructionType.AroundRift.DisplayName": "Around Rift",
     "ESpawnLocationType.AtMaxDistance.DisplayName": "At Max Distance",
     "ECreatureType.Brute.DisplayName": "Brute",
     "Device_CreatureManager_V2_C.Creature Type.DisplayName": "Creature Type",
@@ -190,6 +191,7 @@
     "EActivationGamePhaseType.Game Countdown.DisplayName": "Game Countdown",
     "EActivationGamePhaseType.Game Start.DisplayName": "Game Start",
     "Device_CreatureManager_V2_C.Health.DisplayName": "Health",
+    "Device_CreatureSpawner_V2_C.Rift Spawn Destruction Type.Description": "How we should destroy player built walls on rift spawn.",
     "ECreatureType.Ice Brute.DisplayName": "Ice Brute",
     "ECreatureType.Ice Fiend.DisplayName": "Ice Fiend",
     "ECreatureType.Ice Random.DisplayName": "Ice Random",
@@ -207,12 +209,14 @@
     "ECreatureManagerAffectedTargets.NewPawnsOnly.DisplayName": "New Pawns Only",
     "ECreatureManagerAffectedTargets.NewAndExistingPawns.DisplayName": "New and Existing Pawns",
     "Device_CreatureSpawner_V2_C.Number of Creatures.DisplayName": "Number Of Creatures",
+    "Device_CreatureSpawner_V2_C.Rift Spawn Destruction Type.None.DisplayName": "OFF",
     "BoolMetaData.FalseDisplayName": "Off",
     "BoolMetaData.TrueDisplayName": "On",
     "Device_CreatureSpawner_V2_C.On a Creature is Eliminated.DisplayName": "On A Creature Is Eliminated",
     "Device_CreatureSpawner_V2_C.On a Creature is Spawned.DisplayName": "On A Creature Is Spawned",
     "Device_CreatureManager_V2_C.On a Matching Creature Type is Eliminated.DisplayName": "On A Matching Creature Type Is Eliminated",
     "Device_CreaturePlacer_V2_C.On Eliminated.DisplayName": "On Eliminated",
+    "ESpawnDestructionType.OnSpawnEdge.DisplayName": "On Spawn Edge",
     "Device_CreaturePlacer_V2_C.On Spawned.DisplayName": "On Spawned",
     "ECreatureType.Poison Fiend.DisplayName": "Poison Fiend",
     "Device_CreatureSpawner_V2_C.Preferred Spawn Location.DisplayName": "Preferred Spawn Location",
@@ -222,6 +226,8 @@
     "ECreatureType.Red Fiend.DisplayName": "Red Fiend",
     "Device_CreaturePlacer_V2_C.Restore Player Shield On Elimination.DisplayName": "Restore Player Shield on Elimination",
     "Device_CreatureSpawner_V2_C.Restore Player Shield On Elimination.DisplayName": "Restore Player Shield on Elimination",
+    "Device_CreatureSpawner_V2_C.Rift Spawn Destruction Type.DisplayName": "Rift Spawn Destruction Type",
+    "ESpawnDestructionType.RiftAndSpawnEdge.DisplayName": "Rift and Spawn Edge",
     "ECreatureType.Rush Random.DisplayName": "Rush Random",
     "Device_CreatureManager_V2_C.Score.DisplayName": "Score",
     "Device_CreatureManager_V2_C.ScoreDistribution.DisplayName": "Score Distribution",
@@ -255,6 +261,7 @@
     "Device_CreatureSpawner_V2_C.On a Creature is Spawned.Description": "Transmit a signal on the selected channel when a Creature is spawned by this Spawner.",
     "Device_CreatureSpawner_V2_C.Invincible Spawner.Description": "Used to make the Spawner immune to player damage.",
     "399060C3436C564F69D0998C52C81A59": "Wave Timer",
-    "Device_CreatureManager_V2_C.Enabled on Game Start.Description": "Whether or not this device is enabled when the game is started. For use in conjunction with Transmitters / Receivers."
+    "Device_CreatureManager_V2_C.Enabled on Game Start.Description": "Whether or not this device is enabled when the game is started. For use in conjunction with Transmitters / Receivers.",
+    "ESpawnDestructionType.WholeSpawnArea.DisplayName": "Whole Spawn Area"
   }
 }

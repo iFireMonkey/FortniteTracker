@@ -2,6 +2,7 @@
   "": {
     "573AC0464280857E034A46BAAA199135": "...",
     "79F710C7421CC52D0949439149953308": "Aim Up",
+    "E412B9E84B7F61A3044CA4834C490632": "Aim Up",
     "1229ADE047B25A209C0FB5AD65565DEF": "Be Happy",
     "551863744D18D1FB09F0529BBA240794": "Be Sad",
     "15E9A94346967302BE0D7299B222D716": "Bottom Left",
@@ -38,7 +39,9 @@
     "AD89159E44C95E1CA3AD3397198564EF": "Error",
     "0824678E476158711C7E0398523F6FA3": "Exit Building",
     "36A319464BD34857FDE48FBA7C742EFD": "Exit Building",
+    "2F9B6655411A50FA52D04ABC3686EF71": "Give Item",
     "5DF021D2403491387E4913B36B5ECACD": "Give Item",
+    "682D44634138ED26F51F1AA2978F0AA9": "Give Item",
     "7D6742AC4C9A26D3F2F5E9A883D283C8": "Give Item",
     "CBE2B3E94334A618F1E3E29E7E273FA1": "Give Item",
     "4F9F3A5446693BF66B8AD5ADA6F265BB": "Give away your held Item.",
@@ -73,6 +76,7 @@
     "33DDA3634313A675C188DF8B70AF1857": "Shake Head No",
     "FEF7861442966C607311BBAE6FFD2A67": "Sphere",
     "971C9A6D489827EAE044F4BDE345E2A9": "Sprout",
+    "DA8580024A60D846A7941BB4C11215F1": "Sprout",
     "60BA3D1B4944871A98FB40BC00A5D036": "Sprout MiniGame",
     "A80714824F5142F71973FBBFA4094B9A": "SproutMap",
     "B82AD00543D009B196BA5E93A28FFB3B": "SproutMap",
@@ -94,9 +98,13 @@
   },
   "ST_Sprout_NewContnetMail": {
     "Update3430": "\"<b>CHEFS WANTED SOON!</> Exciting times for Brick Bay foodies: recent reports claim that <emphasis>Durrr Burger</> and <emphasis>Robo-Roll Sushi</> will be the first to launch the new <emphasis>Employee Training and Promotion</> programs. When interviewed, local meat-head, Beef Boss had this to say, \"\"<b>Prep those spatulas and get ready to flip out!</>\"\"  \r\n\r\nIn soggier news, <emphasis>Fisherman Bob</> recently aquired the old fishing shack by the bay, and has been busy with renovations. Bob claims that he is \"\"<b>ready to teach these young whipper snappers a thing or two about fishing</>\"\" and will be giving fishing lessons in the near future!\"",
+    "Update_SomethingWentWrong_Body": "Agent Peely informed us of an escape by the thief, Rotten Peely, that wreaked havoc in Brick Bay! Some Residents reported wiped out inventory, Creds, and even entire homes! However, rest assured that order has been restored.\r\n\r\nThe Brick Bay Municipal Department (in partnership with a generous donation from Midas), is <emphasis>gifting Creds to all Residents</> for the inconvenience. ",
+    "Update_SomethingWentWrong_Subject": "Brick Bay Gazette Special Edition",
     "Update3420": "Brick Bay city workers have been busy handling critical maintenance issues, making <emphasis>quality of life</> better city-wide!\r\n\r\nThe <b>job market</> is looking strong: an <b>upcoming</> <emphasis>Employee Training and Promotion</> program will let chefs <emphasis>learn new recipes</> and hone their <emphasis>cooking skills</> on their way to <emphasis>becoming a master chef</>!",
     "Update3410_Subject": "Headlines",
-    "Update3410": "Residents are clamoring to make their way to the <emphasis>Soccer Field</> to play the world's favorite sport!\r\n\r\nThe Municipal Music Program is gifting each resident a <emphasis>Jukebox</>!\r\n\r\nYou can now <emphasis>rotate decor objects 45 degrees</>. Check out your neighbors' style and <emphasis>use their mailbox to leave a reaction</>!"
+    "Update3410": "Residents are clamoring to make their way to the <emphasis>Soccer Field</> to play the world's favorite sport!\r\n\r\nThe Municipal Music Program is gifting each resident a <emphasis>Jukebox</>!\r\n\r\nYou can now <emphasis>rotate decor objects 45 degrees</>. Check out your neighbors' style and <emphasis>use their mailbox to leave a reaction</>!",
+    "Update3500_Subject": "Your Star Wars Festival Pass",
+    "Update3500_Message": "Your ticket to the <emphasis>Star Wars Festival</> has arrived! \r\n\r\nTalk with <name>Rebel Evie</> to join the <emphasis>Ultimate Fan</> program, visit <emphasis>Merchant Row</> for some sweet swag, and explore the <emphasis>Festival Grounds</> in front of Harmony Hall to discover a galaxy far, far away... right here in Brick Bay! "
   },
   "ST_SproutHousingMessages": {
     "DecorReturnHousingOverflow": "Courier Delivery",

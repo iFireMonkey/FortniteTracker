@@ -2,6 +2,8 @@
   "": {
     "6ED974D8D15444D853E0C058C7CA42CF": "SBID_Prop_RLGM_Decor_Clutter_M_BoxingGloves_01_A",
     "6ED974D8D15444D853E0C058CEAF2645": "SBID_Prop_RLGM_Decor_Clutter_M_BoxingGloves_01_A",
+    "079704F01CE3958A53E0C058C7CA42CF": "SBID_Prop_RLGM_Decor_Floor_Bleacher_L_01_A",
+    "079704F01CE3958A53E0C058CEAF2645": "SBID_Prop_RLGM_Decor_Floor_Bleacher_L_01_A",
     "CFD9B2DC491CBA6D53E0C058C7CA42CF": "SBID_Prop_RLGM_Decor_Floor_M_LockersGym_01_A",
     "CFD9B2DC491CBA6D53E0C058CEAF2645": "SBID_Prop_RLGM_Decor_Floor_M_LockersGym_01_A",
     "D5F0B574A27E102C53E0C058C7CA42CF": "SBID_Prop_RLGM_Decor_Floor_M_TreePalmShort_01_A",
@@ -37,6 +39,16 @@
     "3663D44C643718D653E0C058CEAF2645": "SBID_Prop_RLGM_Recreation_YogaMat_S_01_B",
     "36E7FBDB1F2F7E0153E0C058C7CA42CF": "SBID_Prop_RLGM_Recreation_YogaMat_S_01_C",
     "36E7FBDB1F2F7E0153E0C058CEAF2645": "SBID_Prop_RLGM_Recreation_YogaMat_S_01_C",
+    "B3F7264C89E6146753E0C058C7CA42CF": "SBID_Prop_RLGM_Seat_Bench_Sgl_Bleacher_01_A",
+    "B3F7264C89E6146753E0C058CEAF2645": "SBID_Prop_RLGM_Seat_Bench_Sgl_Bleacher_01_A",
+    "32292947BDF2A03D53E0C058C7CA42CF": "SBID_Prop_RLGM_Seat_Bench_Sgl_Bleacher_02_A",
+    "32292947BDF2A03D53E0C058CEAF2645": "SBID_Prop_RLGM_Seat_Bench_Sgl_Bleacher_02_A",
     "3FA219AB473229E053E0C058C7CA42CF": "Undisputed Gloves"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Press E to Edit"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Customize"
   }
 }

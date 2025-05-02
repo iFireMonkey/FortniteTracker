@@ -1,0 +1,41 @@
+{
+  "AllChatChannelNS": {
+    "AllChatChannelKey": "All"
+  },
+  "MMRegion": {
+    "DevRegion": "Development"
+  },
+  "NetworkErrors": {
+    "KickedPlayerFromParty": "Kicked from party."
+  },
+  "PartyInteractions": {
+    "AcceptPartyInvite": "Accept",
+    "InviteToParty": "Invite to Party",
+    "JoinParty": "Join Party",
+    "KickPartyMember": "Kick",
+    "LeaveParty": "Leave Party",
+    "PromoteToPartyLeader": "Promote",
+    "RejectPartyInvite": "Reject"
+  },
+  "SocialChatRoom": {
+    "SocialChatRoomFoundersTab": "Founders",
+    "SocialChatRoomGeneralTab": "Global",
+    "SocialChatRoomPartyTab": "Party",
+    "SocialChatRoomSystemTab": "System",
+    "SocialChatRoomTeamTab": "Team"
+  },
+  "SocialChatRoomChannel": {
+    "SocialChatRoom_MemberJoined": "{0} has joined.",
+    "SocialChatRoom_MemberExit": "{0} has left."
+  },
+  "UserInteractions": {
+    "AcceptFriendInvite": "Accept",
+    "AddFriend": "Add Friend",
+    "BlockUser": "Block",
+    "RejectFriendInvite": "Reject",
+    "RemoveFriend": "Remove Friend",
+    "UnblockUser": "Unblock",
+    "ShowPlatformProfile": "View Profile",
+    "SendPrivateMessage": "Whisper"
+  }
+}
