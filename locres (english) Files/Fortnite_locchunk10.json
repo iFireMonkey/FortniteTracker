@@ -132,7 +132,6 @@
     "FriendRequestAlreadyFriendsFmt": "Already friends with {0}",
     "0802B35F41C78353417EF282A13C6C04": "Always Upload Logs",
     "A2223F2944E33C6AF09C19B6905EDFA1": "Ammo",
-    "0A86A07C408C733394F3A3ACE7E16D3D": "Ammo Box",
     "ECAA560D41B73558F01E48873C697CB7": "Ammo CO2",
     "1EB6BE6E4D8BBCE37F9E5F91D4AB0357": "Ammo for weapons that use a power source instead of traditional bullets. You can carry up to 3,000 energy cells.",
     "D2DE83494017E931B9ED59AEA876373B": "Ammo for weapons that use shells. Typically used in shotguns.",
@@ -889,7 +888,6 @@
     "3EE66B45445529688679ECA705E465CD": "Galileo Challenge Stage 1 Completion Token",
     "EB0D224A42376A7E5CE1F59DEF264700": "Galileo Challenge Stage 2 Completion Token",
     "8E59C6C24CF0E3A29AEFF39469F1D1B5": "Galileo Challenge Stage 3 Completion Token",
-    "AABA721F494384FA4BB400B577A3D77E": "General Physics Experimental Support",
     "813C217146D9D093654CB2B70AC8F306": "Get a head start in the next season with a Match XP Boost.\r\n(Automatically applied when the next season starts)",
     "CE7AD16A48F6051FE29990BCA62C7659": "Get a head start on the next season with these free tiers.",
     "C1B15B6F48058C0E9BC2649D2886CEFE": "Get ready to jump!",
@@ -906,6 +904,7 @@
     "7B0936A2458A998274ED3484DE00BCDA": "Golden Truffle",
     "D9EE1A844254E2BCF325F0AC7DCF1E4C": "Goldenbane Guardian",
     "9561232349605EB6B23C67AB0EF2E9E0": "Goldenbane Guardian Quest Pack",
+    "E62512474A192002B6287BBD75366836": "Grand Glacier Hotel",
     "9E2FC1E149997E0DDD27D29737305724": "Grants a boost to the amount of match XP you receive for the entire season.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Grants a boost to the amount of match XP you receive when playing with friends this season",
     "563CC660407AD849E23975A6D0785F51": "Grappler",
@@ -1335,8 +1334,6 @@
     "BA80BC654CFB8E01EB9956876F4F2480": "POI Name",
     "49D6D31842D007DC166BF4A177D63B81": "POI Size",
     "86A84DD84459F5837773B3BF3ECA2AAB": "POWER STONE",
-    "00096B70442BB42DA75F6B9A63ADB652": "PanX",
-    "52A4952F4B031C072A96979D88169781": "PanY",
     "5C02F996420B31860834818A09FD5C54": "PannerU",
     "A575A5814FDAB6CD1C73FEB3CBB3D48F": "PannerU",
     "FA6D48B846194B49AFA0A1B1630B87F4": "PannerV",
@@ -1347,6 +1344,7 @@
     "0A0DAE2B4FE1793623CB7CBC3C61CB5D": "Perhaps she was searching for life's purpose. Or maybe some corn to eat.",
     "42BE8AEA47AC24A46AC90FBAC18CF477": "Personal XP Boost",
     "9A0379234914781523C92E86524D9CAE": "Personal XP Boost",
+    "AABA721F494384FA4BB400B577A3D77E": "Physics",
     "CEA0FBF443439C8479DD90A1C9D3318E": "Pick Me Up",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "Pick a landing spot and search for gear.",
     "B3CFEDE943AA56C0AEE82CA08F806463": "Pick up",
@@ -1455,7 +1453,6 @@
     "1CBC3F3747EECA210049B99100CF9AFC": "Ranged Weapon",
     "DF8DE162471A4D50B1379A9F5B67392A": "Ranged Weapon",
     "F5BCCB244A957943767D688D51D7862D": "Rapid Fire SMG",
-    "6083E9A340F646132B684096B008BC31": "Rare Ammo Box",
     "E694E52F41ACFC2FEE2A83A81F3B4CF9": "Rebel's Roost",
     "101BBD144878EB1AA8CCD292737797AE": "Recon Scanner",
     "CD11F0974CF81C39A4CE2B82BDE7AF5A": "Recruit",
@@ -1535,8 +1532,6 @@
     "FFDA86944123F7C85F1A6B9FEFD9E486": "ScaleU",
     "DDB74EC54045221481208A8B3901E72E": "ScaleV",
     "F823EDDC40FAF230E52A9893FFC87255": "ScaleV",
-    "75C6D81941C87B1099DFF9B03A36D06D": "ScaleX",
-    "B3346D984A2666DDD45EA6AAACECB896": "ScaleY",
     "0ABBFCE741D0FACCA33EFF91E4C7E5B7": "Scooter",
     "3CD73BB04F7B2758CFB71598100436E0": "Scoped Revolver +",
     "CC3EFC2B43DA2250BFC4C3ADC20731C5": "Scoped Revolver with improved <Emphasized>fire rate</> and <Emphasized>recoil</>",
@@ -1581,6 +1576,7 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Shield Steal",
     "4F611C954A5378BFC1804C96BB3981FE": "Shield Synergy",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Shield Toss",
+    "6FE5EF624909BEBF19A4F7A143733F40": "Ship Cannon",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Ship Cannon",
     "93D0AAC643B7CCE0B45615ADBC124BFD": "Shoot/Retract",
     "8F2CB8B14C13300867F38FB05719A4D2": "Shoots a celebratory bottle rocket into the sky. Consumes on use.\r\nDoesn't persist outside of mission.",
@@ -1883,7 +1879,6 @@
     "EDCF44D84FBAD5F36B32ADB7E446442F": "Tomato",
     "C74F625E42463681A48244BC83F68CAA": "Toni Challenges",
     "C085E97047AC665AE9DD79A99AD0CB42": "Too far away. Move closer to the other Teleporter.",
-    "768A6B4042EC9C2CFD6F9799319797CA": "Tool Box",
     "B77696AD481B06D6FFEB10B94FF582A7": "Torch",
     "06B8D6624AAC122415F9C0BFABD33BD4": "Training Bot",
     "7937BB634B1121B84A040EB326C1A37F": "Traps",
@@ -2822,6 +2817,9 @@
   "ConfigH_Athena /Script/FortniteGame.FortPlayerInputSettings": {
     "LimitedControllerConfiguration": "Limited"
   },
+  "ConfigJCMS_RightHanded /Script/FortniteGame.FortPlayerInputSettings": {
+    "JCMS_RightHanded_ControllerConfiguration": "Joy-Con Mouse (Right Handed)"
+  },
   "ConfigKBM_Athena /Script/FortniteGame.FortPlayerInputSettings": {
     "StandardConfiguration": "Keyboard/Mouse"
   },
@@ -2848,10 +2846,6 @@
   },
   "ContentBeaconHostObjectV2": {
     "ThrottlingVerseLogs": "Throttling replicated Verse log entries"
-  },
-  "ContentbeaconV2": {
-    "ServerRestarted": "Server shutdown unexpectedly. Please try again\n{InnerErrorMessage}",
-    "ServerRestartedShortErrCd": "Server shutdown unexpectedly. Please try again\n{ShortErrorCode}"
   },
   "ContentBeaconV2": {
     "ClientCancelledDownload": "Client {Client} cancelled download.",
@@ -2893,6 +2887,10 @@
     "TimeoutClientGenericShort": "We took to long to install the required content.\n{ShortErrorCode}",
     "UnauthorizedClient": "You don't have permission to play this content\n{ShortErrorCode}",
     "TimeoutClientGenericLong": "{Client} took too long to get from {StartState} to {DestinationState} for the required content, {VkProjectId}, {VkModuleId}."
+  },
+  "ContentbeaconV2": {
+    "ServerRestarted": "Server shutdown unexpectedly. Please try again\n{InnerErrorMessage}",
+    "ServerRestartedShortErrCd": "Server shutdown unexpectedly. Please try again\n{ShortErrorCode}"
   },
   "ContentOnDemand": {
     "WrongDataReceived": "'Failed to fetch additional player data."
@@ -3139,12 +3137,14 @@
   },
   "CreativeMatchmakingFeedback": {
     "CRMFeedbackOnMatchmakingConnecting": "Conecting to matchmaking...",
+    "CRMFeedbackDownloadProgress": "Download progress: {0}%",
     "CRMFeedbackOnMatchmakingAssignment": "Match Assignment received!",
     "CRMFeedbackOnMatchmakingCanceled": "Matchmaking Canceled!",
     "CRMFeedbackOnMatchmakingFinished": "Matchmaking Complete!",
     "CRMFeedbackOnMatchmakingError": "Matchmaking Error: {0}",
     "CRMFeedbackOnMatchmakingStarted": "Matchmaking started...",
     "CRMFeedbackOnWaitingForAddtionalContentStarted": "Preparing content before travel...",
+    "CRMFeedbackIsPreDownloading": "Preparing to download",
     "CRMFeedbackStarting": "Starting Matchmaking",
     "CRMFeedbackWaitingForReady": "Waiting for other players"
   },
@@ -5164,12 +5164,14 @@
     "UndoCooldownConfirmation": "Please confirm this purchase. Note that Cancel Purchase will not be available for this transaction. You can still return this purchase normally if you have remaining Return Tickets.\n\nFor more information see fn.gg/cancelpurchase",
     "DefaultLegalText": "These cosmetic items grant no competitive advantage. Outfits and wraps don't include weapons. Not all cosmetics are usable in all experiences. For more details on cosmetic variations and limitations of use, see fn.gg/cosmetics",
     "ShoesOutfitSpecificIncompatibilityText": "This Outfit is not usable with Kicks. For more info see fn.gg/KicksUsability.",
+    "OutDateFormat": "This item will be removed from the Item Shop on {0} at {1} your local time ({2}).",
     "XPLegalText": "XP earned between {0} at {1} and {2} at {3} counts towards the XP needed to unlock the ability to purchase.",
     "MatchmakingBanFormat": "Your account has an active matchmaking ban. You won't be able to use this item in-game until your ban is lifted on {0}. Would you like to proceed?",
     "LegalTextNewLineAppendFormat": "{0}\n{1}",
     "PercentOff": "{0} Off",
     "AmountOff": "{0} V-Bucks Off",
-    "LegalTextAppendFormat": "{0} {1}"
+    "LegalTextAppendFormat": "{0} {1}",
+    "XPOutDateFormat": "{0}|plural(one=This item,other=These items) may return to the Item Shop with or without requiring XP to unlock the ability to purchase."
   },
   "FortItemShopUtils": {
     "SavingsLegalText": "*Savings refer to the lowest price offered on Fortnite Item Shop in the past 30 days before discount.",
@@ -5260,7 +5262,8 @@
     "FriendSubscription_On": "on"
   },
   "FortLocker": {
-    "HideUnsupportedItemsText": "Hide Unsupported Items"
+    "HideUnsupportedItemsText": "Hide Unsupported Items",
+    "SorItemstByRelevancyText": "Search by Relevance"
   },
   "FortLockerEquipUtilityVM": {
     "CombinedCategoriesNames": "{0} and {1}"
@@ -6347,6 +6350,7 @@
     "IsVisibleToUser_Hotfixed": "Quest definition is hotfixed.",
     "IsVisibleToUser_Hidden": "Quest definition is marked as hidden.",
     "IsVisibleToUser_NoDefinition": "Quest has no item definition.",
+    "IsVisibleToUser_VisibleWhenActive": "Quest is active and IsVisibleWhenActive is false.",
     "IsVisibleToUser_VisibleWhenClaimed": "Quest is claimed and IsVisibleWhenClaimed is false.",
     "IsVisibleToUser_VisibleWhenCompleted": "Quest is completed and IsVisibleWhenCompleted is false.",
     "IsVisibleToUser_UnclaimedRewards": "Quest is completed or claimed but still has unclaimed premium rewards.",
@@ -6425,7 +6429,6 @@
   "FortSetting": {
     "OpenSqueegeeParentalSubscreen_Action": " Open",
     "OpenTimeLimitsParentalSubscreen_Action": " Open",
-    "AutoImportFriends_Description": "\"Auto Import Friends\" keeps the Friend List on your Console in sync with Fortnite.\n\n<strong>TURN ON</> to allow this regular system sync, without the need for manual management of contacts.",
     "SimpleBuild_PlacementTiming_Disabled": "\"Mode\" must be either Secondary Wall or Secondary Stairs to use this setting.",
     "SuppressEmoteMusicInJam_Disabled": "\"Synchronize My Emotes to Jam Tracks\" must be disabled to edit this setting.",
     "LumenRequiresNanite": "'Nanite Virtualized Geometry' must be set to 'On' in order to use Lumen",
@@ -6556,6 +6559,7 @@
     "ControllerBindingPreset_Description": "Allows you to select which controller preset to use.\n\n<strong>Old School</>: Original controls for Fortnite.\n\n<strong>Quick Builder</>: A preset that focuses on quick building.\n\n<strong>Combat Pro</>: A preset that focuses on combat.\n\n<strong>Builder Pro (Default)</>: A preset that focuses on building. <strong>This is the recommended default for Fortnite.</>\n\n<strong>Custom</>: Custom controls set by the mappings below.",
     "GyroActiveBuildMode_All": "Always",
     "GyroActiveMode_All": "Always",
+    "ReducedDataUsageAlwaysOn": "Always On",
     "TextChatRTR_Record": "Always On",
     "VoiceChatRVR_Record": "Always On",
     "GlobalIlluminationMedium": "Ambient Occlusion",
@@ -6588,7 +6592,6 @@
     "AutoConfirmEdits_Name": "Auto Confirm Edits",
     "AutoDownloadHighResTextures_Name": "Auto Download High Resolution Textures",
     "STW_AutoEquipBetterItems_Name": "Auto Equip Better Items",
-    "AutoImportFriends_Name": "Auto Import Friends",
     "AutoOpenDoors_Name": "Auto Open Doors",
     "AutoPickupWeaponsConsolePC_Name": "Auto Pick Up Weapons",
     "AutoPickupWeapons_Name": "Auto Pick Up Weapons",
@@ -6669,6 +6672,9 @@
     "CinematicVolume_Name": "Cinematics",
     "MinimapCircularShape_Name": "Circular Minimap",
     "EFortSubtitleBackgroundOpacity_Clear": "Clear",
+    "ClearGameCache_Action": "Clear ({0})",
+    "ClearGameCache_Name": "Clear Game Cache",
+    "ClearGameCache_Clearing": "Clearing",
     "ClippingAccountCollection_Name": "Clipping",
     "ColorBlindMode_Name": "Color Blind Mode",
     "ColorBlindStrength_Name": "Color Blind Strength",
@@ -6729,6 +6735,7 @@
     "RenderingAPID3D11": "DIRECTX 11",
     "RenderingAPID3D12": "DIRECTX 12",
     "DLSS is Enabled": "DLSS must be disabled.",
+    "DataCollection_Name": "Data",
     "GyroDeadZone_Name": "Dead Zone",
     "DefaultVoiceChatInput": "Default Input",
     "DefaultVoiceChatOutput": "Default Output",
@@ -6872,6 +6879,7 @@
     "RudderMaxThrottle_Name": "Foot Controller Max Throttle",
     "ReleaseToFire_Description": "For sniper rifles. Instead of firing when you press the touch look & fire button, fire sniper rifles when you release the look & fire button. This means you can line up the shot with one finger and then fire with that same finger by releasing. Other fire buttons will still fire on press.",
     "FortniteCredits_Name": "Fortnite Credits",
+    "ClearGameCache_Description": "Fortnite downloads and caches game data to reduce the time it takes to load a game and improve performance. Cached game data is automatically removed as necessary to maintain a minimal install size on your device.\n\nClearing the game cache will free up the specified amount of space on your device, but it will result in some games loading more slowly the next time you play as they have to be redownloaded.\n\n<strong>Clearing the game cache will not delete your save data.</>",
     "PredownloadCosmetics_Description": "Fortnite streams in cosmetic textures as they are encountered in-game. By turning this feature on, you will pre-download all of these textures up front instead of as they are encountered. This uses much more disk space but allows Fortnite to look more detailed without costing any bandwidth. This can improve Fortnite's visual quality if you frequently play using a cellular connection.\n\nNo: Fortnite will uninstall any previously downloaded cosmetic textures and will not pre-download them in the future.\n\nYes: Fortnite will download and install all high-quality textures up front.\n\n",
     "ParsleyIdle_Description": "Fortnite will go into Sleep Mode after you are inactive for the selected number of minutes. This setting applies to all devices where you are signed in.",
     "FlickForwardDeadZone_Name": "Forward DeadZone",
@@ -6880,6 +6888,8 @@
     "FrameRateLimit_Name": "Frame Rate Limit",
     "FrameRateLimit_Description": "Frame rate limit sets the highest frame rate that is allowed. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.",
     "InvitePermissions_Name": "Friend Invite Permission",
+    "InvitePermissions_Name_PS4_PS5": "Friend Invite Permission",
+    "InvitePermissions_Name_Switch": "Friend Invite Permission",
     "ShowFriendInvitesPush_Name": "Friend Invites",
     "TextChatSetting_Friends": "Friends Only",
     "VoiceChatSetting_FriendsOnly": "Friends Only",
@@ -6941,7 +6951,7 @@
     "HUDOptionsCollection_Name": "HUD Options",
     "HUDScale_Name": "HUD Scale",
     "HUDScale_NameMobile": "HUD Scale (Non-Touch Devices)",
-    "GyroV2SpaceAttached_Name": "Handheld Gyro Space",
+    "GyroV2SpaceAttached_Name": "Handheld Mode Gyro Space",
     "ControllerHardwareCollection_Name": "Hardware",
     "EnableHardwareRayTracing_Name": "Hardware Ray Tracing",
     "EnableHardwareRayTracing_Description": "Hardware Ray Tracing enables higher quality Lumen global illumination and reflections, but can reduce performance.",
@@ -6988,8 +6998,8 @@
     "LookVerticalSpeed_Description": "How quickly your view rotates up and down.",
     "LookSensitivityPresetAds_Description": "How quickly your view rotates while aiming down sights (ADS).",
     "LookSensitivityPreset_Description": "How quickly your view rotates.",
-    "GyroV2SpaceHandheld_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing in handheld mode.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
-    "GyroV2SpaceSwitch_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing with a Pro Controller or Joy-Con controllers detached from the console.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
+    "GyroV2SpaceHandheld_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing in Handheld Mode.\n\nLOCAL space means rotation is detected from the Nintendo Switch console's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld mode.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in TV mode or tabletop mode.",
+    "GyroV2SpaceSwitch_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations when playing with a Pro Controller or Joy-Con controllers detached from the console.\n\nLOCAL space means rotation is detected from the Nintendo Switch console's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld mode.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in TV mode or tabletop mode.",
     "GyroV2Space_Description": "How the motion inputs are converted to camera Yaw and Pitch rotations.\n\nLOCAL space means rotation is detected from the device's point of view, and will work the same whether you're lying down, sitting up, in zero gravity, etc. This means it's often the best option for handheld gaming.\n\nPLAYER space will detect motion relative to the direction of gravity, giving you the most freedom of movement and the most natural camera control when you're playing with a controller in front of a fixed screen.",
     "AutoHurdle_Name": "Hurdle Activation",
     "FilterControllerVibrationFromGyro_Description": "If controller vibration is enabled, add a narrow filter to reduce camera vibration. This can add a tiny bit of input latency to gyro aiming. This filter is automatically disabled if the Vibration option is disabled in the Controller Options tab.",
@@ -7026,6 +7036,7 @@
     "InvertPitchForAircraftPrimary_Name": "Invert Airborne Controls",
     "InvertPitchForAircraftSecondary_Name": "Invert Aircraft Mouse Controls",
     "InvertPitch_Name": "Invert Controller View",
+    "InvertPitchForFighters_Name": "Invert Fighter Controls",
     "InvertMouse_Name": "Invert Mouse View",
     "InvertYawForMotion_Description": "Invert left/right turn.",
     "GyroV2InvertPitch_Description": "Invert or disable the Pitch axis.",
@@ -7038,6 +7049,7 @@
     "FlickDeadZone_Description_PS4_PS5": "It's better for the flick to only be triggered towards the outer edge of the stick's range, because that will give a more accurate measure of your intended angle. So this DeadZone is how far between the right stick DeadZone below and the outer edge that Flick Stick should actually be triggered.",
     "GyroV2JoyConSelection_Name": "Joy-Con Gyro",
     "ControllerName_Switch": "Joy‑Con / Pro Controller",
+    "AutoImportFriends_Description": "Keeps your Friends List in sync with your console.\n\n<strong>TURN ON</> to allow this regular system sync, without the need for manual management of friends.",
     "KBMBindingPreset_Name": "Keyboard Binding Presets",
     "KeyboardMovementCollection_Name": "Keyboard Movement",
     "LanguageSetting_Name": "Language",
@@ -7184,6 +7196,7 @@
     "MouseBuildRequireConfirm": "Off",
     "MouseZoomScaling_Off": "Off",
     "Off": "Off",
+    "ReducedDataUsageOff": "Off",
     "ReflectionsLow": "Off",
     "ShadowLow": "Off",
     "TouchInteractMode_Off": "Off",
@@ -7195,6 +7208,7 @@
     "LatencyTweak2On": "On",
     "On": "On",
     "LatencyTweak2OnB": "On +Boost",
+    "ReducedDataUsageOnCellular": "On Cellular",
     "TouchADSFireMode_OnPressed": "On Press",
     "ReticleShowsRecoil_Description": "On weapons which support Offset Recoil, toggle whether the reticle can move away from screen center to show recoil in First Person game modes.",
     "ReticleShowsRecoilThirdPerson_Description": "On weapons which support Offset Recoil, toggle whether the reticle can move away from screen center to show recoil in Third Person game modes.",
@@ -7225,6 +7239,8 @@
     "RenderingAPIPerf": "Performance - Lower Graphical Fidelity",
     "PeripheralLighting_Name": "Peripheral Lighting",
     "InvitePermissions_Description": "Pick who can send you Friend Requests.\n\n      <Icon.Warning></> This <strong>may</> remove pending invites.",
+    "InvitePermissions_Description_PS4_PS5": "Pick who can send you Friend Requests.\n\n      <Icon.Warning></> This <strong>may</> remove pending invites.",
+    "InvitePermissions_Description_Switch": "Pick who can send you Friend Requests.\n\n      <Icon.Warning></> This <strong>may</> remove pending invites.",
     "GyroV2HarvestingToolSensitivity_Name": "Pickaxe Sensitivity Multiplier",
     "RadialPickersCollection_Name": "Picker Wheels Cheats",
     "A482A95A46AD9836C921E8AD678ED4A5": "Picture In Picture",
@@ -7250,8 +7266,6 @@
     "PreferredItemSlotsCollection_Name": "Preferred Item Slots",
     "PreferredItemSlotsPage_Name": "Preferred Item Slots",
     "PreferredItemSlotsPage_Description": "Preferred Item Slots allows you to assign a preferred inventory slot for a weapon or item type. On pick up, your preferred item or weapon type will be placed into its preferred inventory slot.\n\nPress Configure to customize your inventory slots.",
-    "PreferredItemSlotsDisabled": "Preferred Item Slots are disabled.",
-    "PreferredItemSlotsEnabled": "Preferred Item Slots are enabled.",
     "ControllerPresetCollection_Name": "Presets",
     "KBMPresetCollection_Name": "Presets",
     "AutoHurdle_Off": "Press Jump",
@@ -7280,9 +7294,11 @@
     "FortReticleColorRed_Name": "Red",
     "UsePowerSavingMode_Description": "Reduce settings to preserve power.",
     "GyroV2VerticalMultiplier_Description": "Reduce vertical sensitivity by moving the slider to the left, or reduce horizontal sensitivity by moving the slider to the right.",
+    "ReducedDataUsage_Name": "Reduced Data Usage",
     "WindingSpeedScaledByZoom_Description_Switch": "Reduces Flick Stick's rotation speed automatically depending on how much you're zoomed in. This can help steady surveying the landscape while sniping, for example. This doesn't affect the flick itself when you first engage the Stick.",
     "WindingSpeedScaledByZoom_Description": "Reduces Flick Stick's rotation speed automatically depending on how much you're zoomed in. This can help steady surveying the landscape while sniping, for example. This doesn't affect the flick itself when you first engage the stick.",
     "WindingSpeedScaledByZoom_Description_PS4_PS5": "Reduces Flick Stick's rotation speed automatically depending on how much you're zoomed in. This can help steady surveying the landscape while sniping, for example. This doesn't affect the flick itself when you first engage the stick.",
+    "ReducedDataUsage_Description": "Reduces how much data is downloaded automatically. \n\nThis may be useful if your cellular or internet plan has a data cap and you’re at risk of going over it.",
     "GyroSensitivityScaledByZoom_Description": "Reduces your aiming sensitivity automatically depending on how much you're zoomed in. This can help steady your aim with long range weapons.",
     "Reflections_Description": "Reflection quality determines the resolution and accuracy of reflections.\n\nThe 'Lumen High' and 'Lumen Epic' options are much higher quality, but can reduce performance.\n\nOff: Reflections are turned off.\n\nScreen Space: Calculates reflections based only on what is currently shown on the screen.\n\nLumen High/Epic: High quality real-time ray traced reflections.",
     "Reflections_Name": "Reflections",
@@ -7460,6 +7476,7 @@
     "SuppressMusicInJam_Name": "Suppress My Emote Music to Hear Jam Tracks",
     "AutoMulchMode_Survivors_Name": "Survivors",
     "SwapFireInputsDualWieldShotgunSMG_Name": "Swap Fire Inputs for Pump & Dump",
+    "AutoImportFriends_Name": "Sync Your Friends List",
     "AllowEmoteBeatSyncing_Name": "Synchronize My Emotes to Jam Tracks",
     "AntiAliasingMethodTAA": "TAA",
     "AntiAliasingMethodTSREpic": "TSR Epic",
@@ -7489,6 +7506,9 @@
     "KeyboardMovementBackwardDiagonal_Description": "The angle to run when entering a backward diagonal with keyboard.",
     "KeyboardMovementForwardDiagonal_Description": "The angle to run when entering a forward diagonal with keyboard.",
     "KeyboardMovementStrafeDiagonal_Description": "The angle to run when strafing with keyboard.",
+    "DisableSetting_GameCacheInGame": "The cache cannot be cleared during gameplay.",
+    "DisableSetting_GameCacheEmpty": "The cache is already empty.",
+    "DisableSetting_GameCacheDeleting": "The cache is currently being deleted",
     "EditButtonHoldTime_Description": "The duration to hold the button for entering Edit Mode.",
     "EditButtonHoldTime_Description_Switch": "The duration to hold the button for entering Edit Mode.",
     "SimpleEditButtonHoldTime_Description": "The duration to hold the button to edit and reset while using Simple Edit.",
@@ -7576,14 +7596,15 @@
     "AutoPickupWeapons_Description": "Turns auto pick up weapons on/off. When on, weapons will automatically be picked up when moving over them, unless your inventory is full.",
     "AutoSortConsumablesToHigherSlots_Description": "Turns auto sort consumables to higher numbered slots on/off. When on, consumable items such as health and shields will default to the highest empty quickbar slot when picked up.",
     "AutoSortConsumablesToRight_Description": "Turns auto sort consumables to right on/off. When on, consumable items such as health and shields will default to the rightmost empty quickbar slot when picked up.",
-    "GamepadAutoRun_Description_PS4_PS5": "Turns controller auto-run on/off. When on, double clicking the L3 Button will make you automatically run forward without needing to hold the left stick forward.",
-    "GamepadAutoRun_Description_Switch": "Turns controller auto-run on/off. When on, double clicking the Left Stick will make you automatically run forward without needing to hold the Left Stick forward.",
-    "GamepadAutoRun_Description": "Turns controller auto-run on/off. When on, double clicking the left stick will make you automatically run forward without needing to hold the left stick forward.",
+    "GamepadAutoRun_Description_PS4_PS5": "Turns controller auto-run on/off. When on, pressing the L3 Button twice will make you automatically run forward without needing to hold the left stick forward.",
+    "GamepadAutoRun_Description_Switch": "Turns controller auto-run on/off. When on, pressing the Left Stick twice will make you automatically run forward without needing to hold the Left Stick forward.",
+    "GamepadAutoRun_Description": "Turns controller auto-run on/off. When on, pressing the left stick twice will make you automatically run forward without needing to hold the left stick forward.",
     "InvertPitch_Description": "Turns controller look inversion on/off.  When on, your character will look down when the control is moved up.",
     "GamepadVibration_Description": "Turns controller vibration on/off.",
     "GamepadVibrationMobile_Description": "Turns device vibration on/off.",
     "EditModeAimAssist_Description": "Turns edit mode aim assist on/off. When on, this attracts your controller aim to the closest editing square in building edit mode.",
     "TouchEdit_Description": "Turns edit selection with touch on/off.",
+    "InvertPitchForFighters_Description": "Turns fighter steering inversion on/off. When on, pressing forward will pitch the fighter down.",
     "BackgroundAudio_Description": "Turns game audio on/off when the game is in the background. When on, the game audio will continue to play when the game is minimized, or another window is focused.",
     "ShowGlobalChat_Description": "Turns global chat on/off. When on, you will see and be able to send messages in global chat.",
     "ReplayHighQualityRecording_Description": "Turns high quality replay recording on/off. When on, causes replays to record data more frequently, and disables some other optimizations which can cause visual issues during playback. Recording high quality replays can reduce performance and take up hard drive space.",
@@ -7603,7 +7624,7 @@
     "ReplayRecordingIndicator_Description": "Turns the recording indicator on/off. When on, a red dot and REC text will pop up at the top right corner of the screen whenever your match is being recorded.",
     "VisualizeAudioSources_Description": "Turns the visual radial indicator for some sounds on/off.  When on, you will see the visual radial indicator for some sounds, but in game sound will no longer pan or provide spatialization. Creators may set this to OFF for their island experience, which will override your selection.",
     "VisualizeAudioSourcesWithSpat_Description": "Turns the visual radial indicator for some sounds on/off.  When on, you will see the visual radial indicator for some sounds. Creators may set this to OFF for their island experience, which will override your selection.",
-    "TurboBuild_Description": "Turns turbo building on/off. When on, holding down the build button will automatically continue to build the selected piece when looking around. Turning off will set each building to require one press or click.",
+    "TurboBuild_Description": "Turns turbo building on/off. When on, holding down the build button will automatically continue to build the selected piece when looking around. Turning off will set each building to require one press.",
     "TutorialCollection_Name": "Tutorial",
     "XeSSUltraPerformance": "Ultra Performance",
     "XeSSUltraQuality": "Ultra Quality",
@@ -7623,7 +7644,7 @@
     "STW_FirstPersonCamera_Description": "Use first-person camera.",
     "UserInterfaceContrast_Name": "User Interface Contrast",
     "UserInterfaceParallax_Name": "User Interface Parallax",
-    "MoveStickAccelerates_Description_Switch": "Using the Left Stick accelerates or brakes the vehicle you're driving. When disabled, the Left Stick is only for steering while all accelerating and braking is handled by the controller triggers. This option only affects vehicles where you can accelerate and brake with the triggers.",
+    "MoveStickAccelerates_Description_Switch": "Using the Left Stick accelerates or brakes the vehicle you're driving. When disabled, the Left Stick is only for steering while all accelerating and braking is handled by the ZL/ZR Buttons. This option only affects vehicles where you can accelerate and brake with the ZL/ZR Buttons.",
     "MoveStickAccelerates_Description": "Using the left stick accelerates or brakes the vehicle you're driving. When disabled, the left stick is only for steering while all accelerating and braking is handled by the controller triggers. This option only affects vehicles where you can accelerate and brake with the triggers.",
     "MoveStickAccelerates_Description_PS4_PS5": "Using the left stick accelerates or brakes the vehicle you're driving. When disabled, the left stick is only for steering while all accelerating and braking is handled by the controller triggers. This option only affects vehicles where you can accelerate and brake with the triggers.",
     "ColorBlindStrength_Description": "Using the provided images, adjust the strength of the filter until you see the color correction that works best for you. There is a llama shape in the middle of each circle.",
@@ -9244,7 +9265,6 @@
     "LegoIslandTag": "LEGO Island",
     "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Speed Run",
-    "AkitaIslandTag": "Star Wars",
     "TmntIslandTag": "TMNT",
     "DarkVortexIslandTag": "The Walking Dead Universe",
     "algorithmic_info": "This content is shown based upon Discover metrics such as what's popular and what's trending. This content can change at any time. This is not a personalized recommendation.",
@@ -9285,6 +9305,10 @@
     "KiloStackCount": "K",
     "MegaStackCount": "M",
     "StackCountFormat": "{0}{1}"
+  },
+  "JethroChandelierModerationComponent": {
+    "ViolationIndexDescription": "Which of the agent's restrictions does it's response violate? If none, return -1",
+    "RestrictionLineFormat": "{Index}. {Restriction}"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "Memory low",
@@ -9645,6 +9669,100 @@
     "FortPushNotificationSelectScreen.Description_IOS": "Get notifications for content downloads, friend and party invites, new seasons, limited time events, announcements and promotions. Configure these settings at any time.",
     "FortPushNotificationSelectScreen.Description_Android": "Get notified about friend and party invites, new seasons, limited time events, announcements and promotions. Configure these at any time in Fortnite Settings."
   },
+  "Monologue": {
+    "PerceivedEventsDelimiter": "\n",
+    "SpatialContextDescriptionDelim": "\n",
+    "MonologueEvent_GetInvalidDataWarning": "Failed to resolve the Data for Get Monologue Event Data",
+    "MonologueEvent_MakeInvalidDataWarning": "Failed to resolve the Data for Make Instanced Struct",
+    "MonologueFact_MakeInvalidDataWarning": "Failed to resolve the Data for Make Instanced Struct",
+    "MonologueEvent_SetInvalidDataWarning": "Failed to resolve the Data for Set Instanced Struct Data",
+    "PerceiveEventInvalidEventWarning": "Failed to resolve the Event for Propagate Event",
+    "PropagateEventInvalidEventWarning": "Failed to resolve the Event for Propagate Event",
+    "MonologueFact_GetInvalidDataWarning": "Failed to resolve the Value for Get Monologue Fact Value",
+    "MonologuePromptDataAsset": "Monologue Prompt",
+    "MonologueEventSummary": "Summarization of events",
+    "PlayerDialogEventTemplate": "{Player} said: \"{Dialogue}\"",
+    "EventTimestampPrefixFormat": "{Timestamp} - {EventDescription}"
+  },
+  "MonologueAffordanceCollection": {
+    "AffordanceLineFormat": "* {0}",
+    "ObjectLineFormat": "* {0} - {1}"
+  },
+  "MonologueFactCustomization": {
+    "SetFactTemplate": "Set Fact Template",
+    "SetFactText": "Set Fact Text"
+  },
+  "MonologueFacts": {
+    "ImpliedArgTypeMismatch_2": "Argument type mismatch for {0} delegate implied argument 0 and Self fact. Expression: {1}",
+    "ImpliedArgTypeMismatch_1": "Argument type mismatch for {0} delegate implied argument 0 {1} and Self fact. Expression: {2}",
+    "DelegateCallMissingAnyArgs": "Call to {0} delegate is missing required arguments and no 'Self' fact could be found to pass implicitly. Expression: {1}",
+    "CouldntDecodeReturn": "Couldn't decode {0} return type ({1}) to fact. Expression: {2}",
+    "CouldntFindFact": "Couldn't find any facts named {0}",
+    "InvalidDelegateObject_3": "Delegate fact {0} doesn't return a valid fact type. Expression: {1}",
+    "InvalidDelegateObject_2": "Delegate fact {0} is not bound to a valid function name for object {1}. Expression: {2}",
+    "InvalidDelegateObject_1": "Delegate fact {0} is not bound to a valid object. Expression: {1}",
+    "DelegateRecursionExceeded": "Delegate {0} recursion depth exceeded. Expression: {1}",
+    "InfiniteDelegateRecursionDetected": "Detected infinite delegate recursion in {0} delegate. Expression: {1}",
+    "ExpectedQuote": "Expected \"",
+    "ExpectedElseIfCondition": "Expected condition expression within {% else if  %}",
+    "ExpectedIfCondition": "Expected condition expression within {% if  %}",
+    "ExpectedElseInnerTemplate": "Expected else template between {% else %} and {% endif %}",
+    "ExpectedInnerTemplate": "Expected inner template",
+    "ExpectedClosingBrace": "Expected matching fact expression closing }",
+    "InvalidFact_1": "Invalid fact {0} (Error: {1}) referenced in expression: {2}",
+    "InvalidFact_2": "Invalid fact {0} referenced in expression: {1}",
+    "InvalidDelegateParamCall": "Invalid parameterized call to {0} delegate which doesn't accept arguments. Expression: {1}",
+    "ExpectedCloseBrace": "Missing closing ) in delegate fact expression: {0}",
+    "MissingRequiredArg": "Missing required argument {0} in call to {1} delegate. Expression: {2}",
+    "ExpressionRecursionExceeded": "Template recursion depth exceeded. Expression: {0}",
+    "TooManyArgs": "Too many parameters in call to {0}. Expression: {1}",
+    "UnexpectedElseAfterElse": "Unexpected else block after previous else",
+    "UnexpectedElseIfAfterElse": "Unexpected else if block after previous else",
+    "EOSExpectedConditionEnd": "Unexpected end of stream. Expected closing ' %}'",
+    "EOSExpectedEndIf": "Unexpected end of stream. Expected inner template and closing {% endif %}",
+    "ExpectedOpenBrace": "Unexpected token \"{0}\" @ {1}:{2} after delegate fact, in expression: {3}",
+    "UnexpectedFactExprToken": "Unexpected token \"{0}\" @ {1}:{2} in fact expression: {3}",
+    "UnexpectedToken": "Unexpected token \"{0}\" @ {1}:{2} in fact expression: {3}",
+    "ErrorFactualizingStringLiteral": "Unknown error factualizing string literal",
+    "UnexpectedExpressionClose": "Unmatched expression closing }"
+  },
+  "MonologuePromptEditor": {
+    "CompleterOverrideLabel": "Chat Completer Override",
+    "RunEnginePromptTooltip": "Execute the prompt using Monologue *Engine* Subsystem to evaluate response",
+    "RunWorldPromptTooltip": "Execute the prompt using Monologue *World* Subsystem to evaluate response",
+    "RefreshPreviewTooltip": "Force re-factualize templates (e.g to re-evaluate dynamic delegate facts)",
+    "PromptNameLabel": "Name",
+    "PromptPreviewSettings": "Prompt Preview Settings",
+    "PromptResponse": "Prompt Response",
+    "SavePreviewTooltip": "Save preview settings to asset for repeat test",
+    "SetMPChatCompleterOverride": "Set MonologuePrompt ChatCompleter Override",
+    "SetPromptName": "Set Prompt Name",
+    "SetPromptPreviewSettings": "Set Prompt Preview Settings",
+    "SetPromptSystemMessage": "Set Prompt System Message Template",
+    "SetPromptUserMessage": "Set Prompt User Message Template",
+    "SystemMessageLabel": "System Message",
+    "CompleterOverrideTooltip": "The UChatCompleter to use for this request. If unspecified, the Monologue Engine Subsystem's 'default chat completer' is used.",
+    "UserMessageLabel": "User Message",
+    "WrapSystemMessageToolTip": "Wrap Text",
+    "WrapUserMessageToolTip": "Wrap Text"
+  },
+  "MonologueSubsystem": {
+    "CouldntFindDRFact": "DataRegistry Fact Delegate - Couldn't find any facts named \"{0}\" in Data Registry",
+    "NoDRSubsystem": "DataRegistry Fact Delegate - Data Registry Subsystem is unavailable, please ensure the DataRegistry plugin is enabled.",
+    "InvalidDRFactItemId": "DataRegistry Fact Delegate - DataRegistryItemIdString \"{0}\" is not a valid data registry item id",
+    "FirstPersonName": "I",
+    "NameNoSubject": "No IMonologueSubjectInterface passed to Subject to retrieve the name of!",
+    "PerceivedEventsNoComponent": "No UMonologueComponent passed to PerceivedEvents to retrieve event details from!",
+    "SecondPersonPerceivedEventsNoComponent": "No UMonologueComponent passed to SecondPersonPerceivedEvents to retrieve event details from!",
+    "TimestampedPerceivedEventsNoComponent": "No UMonologueComponent passed to TimestampedPerceivedEvents to retrieve event details from!",
+    "TimestampedSecondPersonPerceivedEventsNoComponent": "No UMonologueComponent passed to TimestampedSecondPersonPerceivedEvents to retrieve event details from!",
+    "SecondPersonName": "You",
+    "ThisPersonPossessiveFormat": "{0}'s"
+  },
+  "MonologueWorldSubsystem": {
+    "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors - Couldn't get Pawn from subject",
+    "SpatialContextNoPawn": "SpatialContext - Couldn't get Pawn from subject"
+  },
   "MyTownManager": {
     "MissingPersonalityName": "No localization for {0}",
     "InvalidSetBonus": "No set bonus",
@@ -9717,6 +9835,7 @@
     "PartyKickHardwareSpoofer": "You were removed from the match due to the use of tools that hide or alter your computer's hardware identifiers. See fn.gg/HardwareIdentifiers for additional details. Please note that attempts to bypass this check may result in account ban.",
     "PartyKickPlayerDetailed": "You were removed from the match due to {provider} error: {reason}\n\nPlease restart the game and consult {provider} FAQ for more information if problem still occurs.",
     "PartyKickDeviceNotEligible": "Your account or device does not meet the eligibility requirements for this event.",
+    "ModeratorKickAllPlayers": "Your session has been terminated due to confirmed violations of our community rules.",
     "SavedWorldOwnerLeft": "Your session in the world has ended as the world owner has left the world."
   },
   "NetworkFailure": {
@@ -9915,6 +10034,22 @@
   "OnlineSubsystemMcp": {
     "OnlineServiceName": "Epic Games",
     "InvalidMcpConfigExit": "Invalid backend requested! Exiting."
+  },
+  "OratorDialogue": {
+    "FirstPersonEventDescriptionTemplate": "I said: \"{Dialog}\"{% if Interrupted %} but I was interrupted.{% endif %}",
+    "SecondPersonEventDescriptionTemplate": "You said: \"{Dialog}\"{% if Interrupted %} but were interrupted.{% endif %}",
+    "ThirdPersonEventDescriptionTemplate": "{Name(Speaker)} said: \"{Dialog}\"{% if Interrupted %} but they were interrupted.{% endif %}"
+  },
+  "OratorGestureSomething": {
+    "DialogueDescription": "The gesture that will be performed at the same time as this utterance."
+  },
+  "OratorSaySomething": {
+    "EmotionDescription": "The emotion to perform this line of dialogue with.",
+    "DialogueDescription": "The line of dialogue you want to have performed."
+  },
+  "OratorSubsystem": {
+    "SecondPersonPerceivedConversationalEventsNoComponent": "No UMonologueComponent passed to SecondPersonPerceivedConversationalEvents to retrieve event details from!",
+    "SecondPersonPerceivedNonConversationalEventsNoComponent": "No UMonologueComponent passed to SecondPersonPerceivedNonConversationalEvents to retrieve event details from!"
   },
   "OSSTest.McpConfig": {
     "InvalidMcpConfigExit": "Invalid backend requested! Exiting."
@@ -10161,6 +10296,10 @@
   "Projectile": {
     "ThrowBack": "Throw back"
   },
+  "PurchaseRestrictions": {
+    "PurchasesRestricted": "Purchase Restrictions",
+    "DeviceRestrictedFromMakingPurchases": "Your device is restricted from making purchases."
+  },
   "QuestFilterExpression": {
     "NotAGameplayTagError": "Condition output only gameplay tag references for validating conditions",
     "ExpectedBool": "Expression '{0}' did not resolve to bool",
@@ -10181,6 +10320,7 @@
   },
   "QuestUICompatibilityVM": {
     "Compatibility_AndDelimiter": " and ",
+    "Compatibility_SubmodeDelimiter": " in the ",
     "Compatibility_OrDelimiter": " or ",
     "Compatibility_ListDelimiter": ", ",
     "Compatibility_AvailableIn": "Available in {0}",
@@ -10416,6 +10556,10 @@
     "PayloadParseError": "There was a problem reading your results from the server (unable to parse response).",
     "PurchasePayloadParseError": "There was a problem reading your results from the server (unable to view items)."
   },
+  "StoreSelectionPopup": {
+    "EpicRewardsEarnedBackAmount": "({0})",
+    "MonthlyFormat": "{0} / Month"
+  },
   "StormSurgeWarning": {
     "ActiveSubtitleText": "Damage enemies to avoid elimination!",
     "WarningSubtitleText": "Damage enemies to avoid elimination!",
@@ -10522,6 +10666,39 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "You successfully sent <text color=\"FFF\">{DisplayName}</> a gift!"
   },
+  "UAthenaLockerBM25SearchTextVM": {
+    "StopWord_a": "a",
+    "StopWord_an": "an",
+    "StopWord_and": "and",
+    "StopWord_as": "as",
+    "StopWord_at": "at",
+    "StopWord_be": "be",
+    "StopWord_but": "but",
+    "StopWord_by": "by",
+    "StopWord_for": "for",
+    "StopWord_from": "from",
+    "StopWord_if": "if",
+    "StopWord_in": "in",
+    "StopWord_is": "is",
+    "StopWord_it": "it",
+    "StopWord_of": "of",
+    "StopWord_on": "on",
+    "StopWord_or": "or",
+    "StopWord_out": "out",
+    "StopWord_so": "so",
+    "StopWord_such": "such",
+    "StopWord_that": "that",
+    "StopWord_The": "the",
+    "StopWord_then": "then",
+    "StopWord_this": "this",
+    "StopWord_to": "to",
+    "StopWord_was": "was",
+    "StopWord_were": "were",
+    "StopWord_when": "when",
+    "StopWord_which": "which",
+    "StopWord_while": "while",
+    "StopWord_with": "with"
+  },
   "UAthenaTeamSquadEntry": {
     "SquadLockedReason": "This squad requires\n<text size=\"32\" color=\"FFF\">{0}</>\n<text size=\"18\" color=\"8ABBE6FF\">party members</>",
     "NumberedSquadName": "{0}\n<text color=\"FFF\" size=\"18\">Squad</>"
@@ -10589,6 +10766,7 @@
     "DeferredPurchaseConfirmationMessage": "Please wait for purchase approval.",
     "PurchaseExceededMaxMtxBalance": "V-Buck purchase cannot be processed as it would exceed the V-Buck limit. You must spend some V Bucks before adding any additional V Bucks to your wallet.",
     "PurchaseFailedToStart": "We've encountered a critical error starting your purchase. Please try again later.",
+    "PurchaseFailedToStartDueToMissingPrices": "We've encountered a critical error starting your purchase. Please try again later.",
     "PurchaseHasNoNewEntitlements": "We've encountered a critical error with your purchase. Our team has been dispatched to resolve the issue. We will confirm when your purchase has been completed!",
     "EULAFormat": "{0}\n\n{1}"
   },
@@ -10723,6 +10901,9 @@
   },
   "UObjectiveProcessorSubsystem": {
     "VerbMessageContainsStrongObjectRef": "VerbMessages can only contain Weak Object References, please update {0}"
+  },
+  "UOratorInputControllerComponent": {
+    "TranscribedDialogueDescription": "Transcribed dialogue string"
   },
   "UpdateManager": {
     "NeedsUpdateMessage": "An update is required to continue. Please restart Fortnite to download the latest patch.",

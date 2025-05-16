@@ -571,6 +571,9 @@
   "FortAISpawnGroupDetails": {
     "SpawnPointValueFmt": "Spawn Point Value: {0}"
   },
+  "FortAssetDataUtilityToolPipeline": {
+    "RunToolLabel": "Performing FADUT Pipeline Operation"
+  },
   "FortAssetReferenceFilter": {
     "FailureRestrictedFolder": "You cannot reference assets in {0} here. It is a restricted folder.",
     "FailureEditorOnlyPlugin": "You may not reference editor only plugins from here.",
@@ -585,7 +588,8 @@
     "FailureInvalidExternalReferenceFromTemp": "You must save this level to reference private assets from {0}."
   },
   "FortAthenaAISpawnerDataComponent_Verse": {
-    "AISpawnerDataComponent_Verse": "Missing AI Component class"
+    "AISpawnerDataComponent_Verse": "Missing AI Component class",
+    "AISpawnerDataComponent_NPCBehaviorScript": "NPCBehaviorScriptOverride and NPCBehaviorScriptInstance should not be both set"
   },
   "FortBehaviorValueDetails": {
     "PropertyFieldCreateDefaultValueWidgetClass": "DefaultValue",
@@ -3095,15 +3099,16 @@
     "PrepareProjectSourceDataForUpload.FailRemovePublicApi": "Could not remove the project's public API",
     "PrepareProjectSourceDataForUpload.FailSanitizePublicApi": "Could not sanitize the project's public API",
     "CreateBuild.TaskMessage": "Creating Build...",
-    "UploadProject.CreateCandidateModuleVersions": "Creating module versions... ",
+    "UploadProject.ValidationSession_CreateModuleVersions": "Creating module versions...",
+    "UploadProject.ValidationSession_Create": "Creating remote validation session...",
     "SaveDirtyAssets.Error.FailedToSave": "Dirty assets could not be saved",
     "LocalizeProject.Settings.Button.Continue": "Export Localization",
     "Session Initialization Failed": "Failed to initialize session",
     "UploadProject.Error.InternalError": "Failed to initialize session",
-    "UploadProject.Error.ValidationFailure": "Failed to validation candidate module",
+    "UploadProject.Error.ValidationFailure": "Failed to validate candidate module versions",
     "LocalizeProject.Settings.Message": "In order to export localization data for this project, select the appropriate settings to initialize.\nThese settings are also available to edit at 'Project -> Project Settings'.",
     "LocalizeProject.Settings.Title": "Initialize Localization Settings",
-    "UploadProject.InitializeValidationSession": "Initializing validation session...",
+    "UploadProject.ValidationSession_Initialize": "Initializing...",
     "CreateBuild.Error.InternalError": "Internal error",
     "LocalizeProject.Error.InternalError": "Internal error",
     "UploadProject.FailedToRequestPrepareProjectSourceData": "Internal error: Failed to request preparation of project source data",
@@ -3127,7 +3132,8 @@
     "ShowMessageLogHyperlink": "Show Output Log",
     "LocalizeProject.Error.LocalizationSettingsUninitialized": "The localization settings are not initialized.",
     "LocalizeProject.TaskTitle": "Updating Localization...",
-    "UploadProject.UploadingContent": "Uploading Content...",
+    "UploadProject.UploadingProjects": "Uploading Projects...",
+    "UploadProject.ValidationSession_LocalValidation": "Validating local source files....",
     "LocalizeProject.Message.WarnAboutDirtyPackages": "You have unsaved changes that won't be included in the localization export.\n\nAre you sure you want to continue?",
     "CreateBuild.PreparePlatformData.MessageLog.CookFailure": "{0}: Failed to prepare data for {1}",
     "CreateBuild.PreparePlatformData.MessageLog.CookSuccess": "{0}: Successfully prepared data for {1}"
@@ -3147,8 +3153,11 @@
     "ValkyrieCloseProject_ToolTip": "Closes the current Project.",
     "Coming Soon": "Coming Soon!",
     "ContinueToLoad": "Continue to load",
-    "CopyVersePathLabel": "Copy Verse Path",
-    "CopyVersePathTooltip": "Copy selected module Verse paths to the clipboard",
+    "CopyAssetVersePathTooltip": "Copies the Verse paths of the selected asset(s) to the clipboard.",
+    "CopyFolderVersePathTooltip": "Copies the Verse paths of the selected folder(s) to the clipboard.",
+    "CopyContentVersePathLabel": "Copy Content Verse Path",
+    "CopyVersePath": "Copy Verse Path",
+    "CopyVersePathTooltip": "Copy selected content Verse paths to the clipboard",
     "ValkyrieOpenProject_ToolTip": "Create a new Project or open existing Projects.",
     "VkProjectSubMenuDebugSection": "Debug",
     "ValkyrieRevisionControlToggle_ToolTip": "Disable/enable {0} revision control specific to each project",
@@ -3328,7 +3337,10 @@
     "UploadProject.Error.InternalError": "Internal error",
     "PrepareProjectSourceDataForUpload.FailCleanupIntermediateAssets": "Internal error: There is no project opened",
     "UploadProject.Error.NoProject": "No project is loaded",
+    "UploadProject.ValidationSession_VerseHotReload": "Reloading verse code...",
+    "UploadProject.ValidationSession_StoreSnapshots": "Storing project snapshots...",
     "UploadProject.Error.UploadFailed": "Upload failed",
+    "UploadProject.ValidationSession_Upload": "Uploading...",
     "PrepareUploadProject.Error.ValidationFailed": "Validation failed",
     "UploadProject.Error.NoEditSession": "Verse hot reload failed",
     "UploadProject.Error.VerseHotReloadFailed": "Verse hot reload failed"
@@ -3633,7 +3645,6 @@
     "BrandTemplates.LimeSection": "LEGO® Islands",
     "BrandTemplatesCustomViewName": "Recent",
     "BrandTemplates.DelMarSection": "Rocket Racing",
-    "BrandTemplates.AkitaSection": "Star Wars",
     "IslandTemplates.StarterIslandsSection": "Starter Islands",
     "BrandTemplates.MeltedIronSection": "Teenage Mutant Ninja Turtles",
     "BrandTemplates.DarkVortexSection": "The Walking Dead Universe"
@@ -3852,6 +3863,7 @@
     "PluginFriendlyNameTooltip": "Whether the plugin friendly name is preserved in the content service module (rather than changing it to the module guid on upload)"
   },
   "ValkyrieProjectCreationParams": {
+    "ProjectVersePathFailedValidation": "Project Verse path failed moderation: {0}",
     "ProjectVersePathAlreadyTaken": "Project Verse path is already taken: {0}",
     "ProjectUnderExternalBackupSystemValidationWarning": "Storing your project under {0} may cause conflicts or unexpected behavior with other revision control systems."
   },
@@ -3987,25 +3999,41 @@
     "CopyProjectFilePathContextMenuEntry": "Copy Project Path",
     "CopyProjectFilePathContextMenuEntry_ToolTip": "Copy the project path on disk to the clipboard.",
     "UpdateArchiveStatusProjectNotFound": "Could not find project '{0}' on the content service",
+    "ErrorGettingLinkCodeInfoMessage": "Could not find project id for '{0}'.",
+    "ErrorResolvingVersePathMessage": "Could not find project id for '{0}'.",
+    "NoViewErrorMessage": "Could not find view for owner '{0}'.",
+    "ErrorCreatingProjectInfoTitle": "Error Creating Project Info",
+    "ErrorGettingLinkCodeInfoTitle": "Error Getting Link Code Info",
+    "ErrorLoadingProjectInfoTitle": "Error Loading Project Info",
+    "ErrorResolvingVersePathTitle": "Error Resolving Verse Path",
     "ProjectManagementSectionHeading": "Manage",
     "DisplayNameText": "My Projects",
     "PersonalProjectsViewText": "My Projects",
     "OfflineDisplayNameText": "Offline",
     "OnlyArchivedProjectsToolTip": "Only show archived projects",
     "OpenProjectActionText": "Open",
+    "SelectProjectById_Hint": "Project Guid, Verse Path or Link Code",
     "LoadingProjectDocumentMessage": "Retrieving project information...",
+    "SelectProjectByIdButtonText": "Select By Id...",
+    "SelectProjectById_DialogTitle": "Select Project",
     "BrowseForProjectOnDiskTitleText": "Select Project To Open",
+    "SelectProjectByIdButtonToolTip": "Select a project by its Guid, Verse Path or link code",
     "OpenProjectFolderContextMenuEntry": "Show Project in {FileManagerName}",
     "OpenProjectFolderContextMenuEntry_ToolTip": "Show the project's folder on disk.",
+    "SelectProjectById_SyntaxFeedbackMessage": "The input entered is not a valid Guid, Verse path or link code.",
     "OnlineProjectWithNoLocalRepresentation": "This project can't be found at its expected location. If you have it on your computer, use the Browse button to find it. If not, you may need to sync it from your revision control system.",
     "LockedProject": "This project has been locked. Please contact <a id=\"player_support\" href=\"{PlayerSupportURL}\" style=\"ValkyrieEditor.HyperlinkStyle\">Epic Player Support</> and reference project {ProjectId}.",
     "UnarchiveProjectContextMenuEntry": "Unarchive",
     "UnarchiveProjectContextMenuEntry_ToolTip": "Unarchives the project",
     "PromptAboutUnarchivingProjectUponActionTitle": "Unarchiving Project",
     "UnarchiveStatusMessage": "Unarchiving project...",
+    "ErrorCreatingProjectInfoMessage": "Unknown error.",
     "UpdateArchiveStatusErrorTitleText": "Updating Archive Status Error",
     "ValidatingActionText": "Validating...",
     "WorkspaceLabel": "Workspace",
+    "CannotGetLinkCodeInfoMessage": "You must be logged in to select a project by link code.",
+    "CannotResolveVersePathMessage": "You must be logged in to select a project you do not have locally by Verse path.",
+    "CannotGetProjectInfoMessage": "You must be logged in to select a project you do not have locally by id.",
     "TeamViewDisplayNameFormatText": "{0} Projects",
     "PromptAboutUnarchivingProjectUponActionMessage": "{0}ing this project will automatically unarchive it for you.\n\nDo you still want to continue?"
   },
@@ -4233,6 +4261,14 @@
     "NoSelectedViewDisplayText": "No View",
     "RefreshToolTipText": "Refresh",
     "RefreshingToolTipText": "Refreshing..."
+  },
+  "ValkyrieUncookedRootDir": {
+    "UncookedRootDirCLZero": "Changelist is 0 in UncookedRootDir's build version file",
+    "FileFailedRead": "Could not read build version file from UncookedRootDir",
+    "CurrentBuildChangelistZero": "Current build's changelist is 0",
+    "OutOfDate": "UncookedRootDir needs to be synced forwards to match current build's changelist",
+    "DifferentBranch": "UncookedRootDir's branch is different than current running build",
+    "PathIsEmpty": "UncookedRootDirPath is empty"
   },
   "ValkyrieUserFeedbackUtility": {
     "ReportIssueDialog.Message": "Click OK to start a new issue report. Next, switch to your default web browser and fill out the rest of the form.\n",
