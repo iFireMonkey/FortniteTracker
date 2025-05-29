@@ -330,6 +330,7 @@
     "Device_DanceMannequin_V2_C.Dance Emote Default Preset.KPOP.DisplayName": "Scenario",
     "Device_Dance_Mannequin_Capture_V2_C.On Deactivated.Description": "Send an Event to linked devices when a player steps off of the device.",
     "Device_Dance_Mannequin_Capture_V2_C.On Activated.Description": "Send an Event to linked devices when a player steps on the device.",
+    "Device_DanceMannequin_V2_C.ShouldUseBeatSyncedDancer.DisplayName": "Should Use Beat Synced Dancer",
     "Device_DanceMannequin_V2_C.Show Pedestal.DisplayName": "Show Pedestal",
     "Device_DanceMannequin_V2_C.Show Stage Light.DisplayName": "Show Stage Light",
     "Dance_Mannequin_Hue_Override.Silhouette Mode.DisplayName": "Silhouette Mode",
@@ -339,6 +340,7 @@
     "Device_Dance_Mannequin_Capture_C.ActivateNearestHologramDancer.Description": "The hologram will copy the user's skin and play any emotes the user performs.     ",
     "Device_Dance_Mannequin_Capture_V2_C.ActivateNearestHologramDancer.Description": "The hologram will copy the user's skin and play any emotes the user performs.     ",
     "DanceEmoteEnum.Tidy.DisplayName": "Tidy",
+    "Device_DanceMannequin_V2_C.ShouldUseBeatSyncedDancer.Description": "When creating a dancer, should it be beat synced?",
     "Device_DanceMannequin_V2_C.Hue Override.Description": "When enabled, overrides hue settings. PARTY MODE - Mannequin uses shifting hues. SILHOUETTE MODE - Mannequin looks like a silhouette."
   }
 }

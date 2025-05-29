@@ -2,8 +2,5 @@
   "Sprout_FortItemDefValidator": {
     "UnregisteredPrimaryAssetError": "The Item Def:'{0}' is not registered with the Game Feature Data and will not be locatable.",
     "DuplicatePrimaryAssetError": "Two different assets share the same primary asset Id '{0}' and '{1}'"
-  },
-  "SproutHousingWorldValidator": {
-    "OverlappingVolumesError": "Two housing volumes were found to be overlapping '{0}' and '{1}'"
   }
 }
