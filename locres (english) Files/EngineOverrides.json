@@ -672,6 +672,7 @@
     "UnknownRHI": "<Unknown>",
     "FeatureLevelUnknown": "<unknown>",
     "RequiredDX11Feature_11_SM5": "A D3D11-compatible GPU (Feature Level 11.0, Shader Model 5.0) is required to run the engine.",
+    "RequiredVulkan": "A compatible Vulkan Driver is required to run the engine.",
     "D3D11": "DirectX 11",
     "D3D12": "DirectX 12",
     "RequiredDX12": "DirectX 12 is not supported on your system. Try running without the -dx12 or -d3d12 command line argument.",
@@ -683,7 +684,6 @@
     "FeatureLevelSM6": "SM6",
     "MissingTargetedShaderFormats": "Unable to launch with RHI '{0}' since the project is not configured to support it.",
     "Vulkan": "Vulkan",
-    "RequiredVulkan": "Vulkan Driver is required to run the engine.",
     "RHINotSupported": "{0} does not support {1}."
   }
 }

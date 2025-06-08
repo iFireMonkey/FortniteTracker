@@ -182,8 +182,8 @@
     "JoinInCampX": "Join Camp {0}"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
-    "NotEnoughForTrade": "Not enough for trade. Need x{WantItemCount} {WantItem} to trade for x{SellItemCount} {SellItem}. \n {BundleCount} bundle left.",
-    "TradeXForX": "Trade x{WantItemCount} {WantItem} for x{SellItemCount} {SellItem}. \n {BundleCount} bundle left."
+    "NotEnoughForTrade": "Not enough for trade. Need x{WantItemCount} {WantItem} to trade for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left.",
+    "TradeXForX": "Trade x{WantItemCount} {WantItem} for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left."
   },
   "JunoSpeech": {
     "JunoSpeech_UnknownParticipant": "???",

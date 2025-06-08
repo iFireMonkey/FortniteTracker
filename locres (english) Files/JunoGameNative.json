@@ -20,6 +20,7 @@
   },
   "JunoPlayerCheckpointHandler": {
     "FailedToGetAvailableCheckpointsErrorMessage": "Failed to retrieve available checkpoints",
+    "FailedToSetInitialCheckpointErrorMessage": "Failed to set the initial checkpoint",
     "InvalidJunoWorldErrorMessage": "Invalid Juno world when attempting to initialize checkpoint handler",
     "InvalidJunoRootPlayspaceErrorMessage": "Invalid root playspace when attempting to initialize checkpoint handler"
   },

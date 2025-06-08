@@ -38,6 +38,7 @@
     "NeedsUpdateMessage": "An update is required to continue. Please restart Fortnite to download the latest patch.",
     "FortnitePreLoadScreen.Initializing": "Connecting",
     "FortnitePreLoadScreen.OnCellularErrorButton": "Continue download",
+    "FortnitePreLoadScreen.DownloadUpdateButton": "Download Update",
     "FortnitePreLoadScreen.GenericErrorTitle": "Error",
     "FortnitePreLoadScreen.ManifestArchiveError": "Failed to write necessary files. Please try again later.",
     "FortnitePreLoadScreen.UserPausedInstallTitle": "Install Paused",
@@ -63,6 +64,7 @@
     "FortnitePreLoadScreen.UpdateActive": "Updating",
     "FortnitePreLoadScreen.CellularDataWarningCaption": "Warning",
     "FortnitePreLoadScreen.SuggestedOSUpdateWarningBody": "We recommend updating to the latest OS to improve your Fortnite experience.",
+    "FortnitePreLoadScreen.DownloadUpdateButtonInfo": "Will Use Cellular Data",
     "FortnitePreLoadScreen.CellularDataWarningBody": "You are about to use cellular data to download Fortnite content. This will require downloading approximately {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
@@ -80,7 +82,7 @@
     "NotEnoughMemoryForDevice": "We're sorry. Fortnite requires a device with 2GB of memory to run."
   },
   "IOSPlatformMemory": {
-    "NotEnoughMemoryForDevice": "We're sorry. Fortnite requires a device with 4GB of memory to run."
+    "NotEnoughMemoryForDevice": "Sorry, this device can’t run Fortnite because it doesn’t meet the necessary hardware requirements."
   },
   "PreLoadScreenWidget": {
     "FortniteEarlyStartupPatcher.TotalDownloadPercent": " / {TotalBytes}",

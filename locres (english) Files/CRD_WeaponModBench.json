@@ -1,10 +1,12 @@
 {
   "": {
-    "25652B514CD1440D83C4688003ED8B76": "A device that allows players to purchase and apply or remove mods on moddable weapons.",
     "EE4D7BEA46F5E3BC560EE7A7138D068B": "A device that allows players to purchase and apply or remove mods on moddable weapons.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "A device that allows players to purchase and apply or remove mods on moddable weapons. Drop an item onto the device to set the needed currency.",
     "C71343894A060847493A649689759A65": "A set of cases that can be interacted with to spawn modded weapons.",
     "460F73D54CB382F639D9F28B319DB307": "CUSTOMIZE ",
     "683B5CF74C33D965A0F7AF89AED92EE8": "Cannot Use Mod Bench",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Currency",
+    "53C6F3F34E06E917D367268882E08D87": "Determines the set currency needed to mod a weapon.",
     "A30B8506487121E7C4E703A5629FBE05": "Disable When Receiving From",
     "B7F6060B4BEAFE140D5DDEB1E13121C9": "Disabled",
     "FA5DCADC4A0C014F7FE7758F6E556F79": "Disables the device, preventing mods from being purchased or removed.",
@@ -23,6 +25,7 @@
     "ECreativeClassType.Any.DisplayName": "Any",
     "ECreativeTeamType.Any.DisplayName": "Any",
     "ClassSlotMetaData.DisplayPattern": "Class {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Determines if the item’s rarity is displayed to the player if they are missing resources.",
     "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Determines if this device should be enabled when the minigame starts.",
     "Device_WeaponModBench_C.ModCost.Description": "Determines the cost to equip a mod to a moddable weapon. This value applies to all selectable mods. Do Not Override uses the costs that Battle Royale uses and is subject to change.",
     "Device_WeaponModBench_C.Allowed Class.Description": "Determines which class is able to use this Weapon Mod Bench.",
@@ -40,6 +43,7 @@
     "ECreativeClassType.NoClass.DisplayName": "No Class",
     "BoolMetaData.FalseDisplayName": "Off",
     "BoolMetaData.TrueDisplayName": "On",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Show Item Rarity on Missing Item Prompt",
     "TeamIndexMetaData.DisplayPattern": "Team {0}"
   }
 }
