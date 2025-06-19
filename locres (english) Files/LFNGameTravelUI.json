@@ -1,18 +1,30 @@
 {
   "": {
-    "8750AB2C439D4FFCB4FF0495DD8EFCB0": "Are you sure you want to travel to {Destination}?\r\nThis will teleport you out of your current game mode.",
+    "8748F3D34DF2BE934DD892AE20E8BDF6": "Are you sure you want to cancel traveling to <emphasis>{Destination}</>?",
+    "AB9B074F49C078B1A31C1EA98457C6FE": "Are you sure you want to travel to <emphasis>{Destination}</>?\r\nThis will teleport you out of your current game mode.",
     "F6494657498DFB506E0582B5CE879608": "Battle Bus Experience Travel",
     "7724CD794DD1D710CB324DB16E2B0CB1": "Cancel",
+    "B682B7074BD60890EEE939B7D41FEB81": "Cancel Trip",
     "83676C0F4F777DB2D1F0E68182EE3442": "Close",
     "EFF2EE7E4C72D1BAA26BF8A869BE927B": "Close",
     "5737362B4E314C07CF5D3CBFCF2B8564": "Confirm",
+    "0D2EB57D4E86544BC47CF7BB02D4E770": "Launching",
+    "06F9A4C6444227E0274EE082534C4D12": "Launching!",
+    "27BF20E04F7313806ED0A18E986E5E94": "Launching!",
+    "61FC8F994CBAFDF04789B5A2F1650577": "Matchmaking in progress...",
+    "CB43CD6E434CC0E09961E9AAD9E540BF": "Mathmaking in progress...",
     "825EEC3F4DFE93204F8F549A5F577F3F": "No",
-    "8BAAC56C46A9C823688774949C8B9AC2": "Regular",
+    "0ED593C3455E1F4A2EE8228ADB6A2E61": "Only the party leader can initiate travel.",
+    "1A5489F940844101D0F5E59CE54599C3": "Preparing to travel...",
+    "45B97BCA4DBE4CE3FC443580ACC1C9CF": "Preparing to travel...",
     "A775015C4B0E66AB1D85F69DAE4DF36D": "Regular",
+    "FC5EB93A4FDBAF9F2A2591AAD6F63337": "Regular",
+    "A5F12B9344EB798FFD018D98293C0B0A": "This experience is locked. Your parent or guardian needs to unlock it.",
     "3A87680D45EB71503B11C08CAF8229D1": "Travel",
     "7AD43B1E4849E90D03D52D806CDEAF35": "Travel Now",
+    "5FD075A84100DC5F914CE38E533A5DAD": "Unknown",
     "07E1DDA44514B147B4F776868EC327F9": "Yes",
-    "AB9B074F49C078B1A31C1EA98457C6FE": "[PH] Are you sure you want to travel to <emphasis>*Destination Here*{Destination}</>?\r\nThis will teleport you out of your current game mode.",
-    "39BC182346A94BC0B5F98887E14DEDF6": "{Curr}/{Max}"
+    "08ACBC4541886AE24896F3986DA86576": "Your current party size it too large for this experience",
+    "39BC182346A94BC0B5F98887E14DEDF6": "{Current}/{Max}"
   }
 }

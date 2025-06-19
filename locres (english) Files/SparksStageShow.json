@@ -30,6 +30,10 @@
   "SparksStageShowCustomCommands": {
     "SparksStageShowCustomCommandsName": "Sparks Stage Show Commands"
   },
+  "SparksStageShowDebugTool": {
+    "ImGuiStageShowDebugTool": "Stage Show Debug Tool",
+    "ImGuiStageShowDebugToolTooltip": "Tool to help debug stage show."
+  },
   "UICommands.SparksStageShowCustomCommands": {
     "SimulateGameplayEvent": "Simulate Gameplay Event",
     "SimulateMIDIEvent": "Simulate MIDI Event",
