@@ -187,7 +187,8 @@
     "DungeonResetTimerStarted": "<Subheading20_60p>This dungeon will</>\r\nreset the next time\r\n<Subheading20_60p>you enter your world</>",
     "QuestTimeout": "<Subheading20_60p>Time Out!</>\r\nTRY AGAIN",
     "QuestFailed": "<Subheading20_60p>You have been</>\r\nDEFEATED",
-    "CaveDiscovery": "Cave Discovered!"
+    "CaveDiscovery": "Cave Discovered!",
+    "SpireDiscovery": "Spire Discovered!"
   },
   "UJunoLocalPlayerViewModel": {
     "DescriptionOwnerDisconnected": "All world guests will be removed in {0} minutes.",
