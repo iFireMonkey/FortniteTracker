@@ -151,33 +151,5 @@
     "8D8161A147B9DE653775969DA4A7C71A": "You will!?!... I can't thank you enough... Just follow the <b>Building Plans</> and it should be a breeze (for you at least)...",
     "3DB5601B4CA9E6B102B8ED9C4687402A": "You're right, this is no time to dilly-dally.",
     "B4409E1F41BB1CF855F0899A0E05F306": "Your Welcome!"
-  },
-  "FJunoStateDrivenEvent_InsertItem": {
-    "InsertItem": "Place {ItemName}"
-  },
-  "JunoConversationTask_GetResource": {
-    "Finished": "Finished!",
-    "GetX": "Get {0}"
-  },
-  "JunoConversationTaskNode_GiftNPC": {
-    "GiftXToNPC": "Gift {ItemDisplayText}"
-  },
-  "JunoConversationTaskNode_GrantLostAndFoundItem": {
-    "LNFDropAll": "Give me everything!",
-    "LNFDropNOfX": "{WantItemCount} {WantItem}."
-  },
-  "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "Join Camp {0}"
-  },
-  "JunoConversationTaskNode_TradeWithMerchant": {
-    "NotEnoughForTrade": "Not enough for trade. Need x{WantItemCount} {WantItem} to trade for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left.",
-    "TradeXForX": "Trade x{WantItemCount} {WantItem} for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left."
-  },
-  "JunoSpeech": {
-    "JunoSpeech_UnknownParticipant": "???",
-    "JunoSpeech_ConsecutiveSpeechDefaultText": "Continue",
-    "JunoSpeech_NoAIRole": "Jobless",
-    "JunoSpeech_NoBoundCampName": "Nameless Village",
-    "JunoSpeech_NoLastUsedGatheringActor": "No Station"
   }
 }

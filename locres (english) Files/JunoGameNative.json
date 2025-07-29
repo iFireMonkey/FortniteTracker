@@ -4,9 +4,30 @@
     "PointsOutsideVolumeDescriptionContext": "{0}: generate outside of {1}",
     "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
   },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Place {ItemName}"
+  },
   "JunoControllerComponent": {
     "OnPlayerDiedGameEvent": "{0} <Yellow>was eliminated</>",
     "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>was saved by a totem</>"
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Finished!",
+    "GetX": "Get {0}"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Gift {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Give me everything!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Join Camp {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Not enough for trade. Need x{WantItemCount} {WantItem} to trade for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left.",
+    "TradeXForX": "Trade x{WantItemCount} {WantItem} for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left."
   },
   "JunoGameStateComponent_GameEventStream": {
     "GameMemberAdded": "{0} <Yellow>entered world</>",
@@ -36,6 +57,13 @@
     "StalePlayerPersistenceHandlerErrorMessage": "Stale player persistence handler upon completing initialization",
     "UnableToCreatePlayerPersistenceErrorMessage": "Unable to create player persistence handler",
     "InvalidPlayerPersistenceStorageErrorMessage": "Unable to retrieve valid player persistence storage"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Continue",
+    "JunoSpeech_NoAIRole": "Jobless",
+    "JunoSpeech_NoBoundCampName": "Nameless Village",
+    "JunoSpeech_NoLastUsedGatheringActor": "No Station"
   },
   "JunoStorageChest": {
     "Open": "Open",

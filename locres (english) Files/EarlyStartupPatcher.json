@@ -38,7 +38,7 @@
     "NeedsUpdateMessage": "An update is required to continue. Please restart Fortnite to download the latest patch.",
     "FortnitePreLoadScreen.Initializing": "Connecting",
     "FortnitePreLoadScreen.OnCellularErrorButton": "Continue download",
-    "FortnitePreLoadScreen.DownloadUpdateButton": "Download Update",
+    "FortnitePreLoadScreen.CellDataErrorButton_Download": "DOWNLOAD",
     "FortnitePreLoadScreen.GenericErrorTitle": "Error",
     "FortnitePreLoadScreen.ManifestArchiveError": "Failed to write necessary files. Please try again later.",
     "FortnitePreLoadScreen.UserPausedInstallTitle": "Install Paused",
@@ -57,6 +57,7 @@
     "NeedsUpdateMessageMobileIOS": "The latest version of Fortnite is required to play.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody": "There is not enough space on your device.\n{RequiredBytes} is required.\n{AvailableBytes} is available.\nYou need an additional {SpaceAdditional} to perform the installation.",
     "FortnitePreLoadScreen.DiskSpaceBackgroundWarningBody": "There is not enough space on your device.\n{RequiredBytes} is required.\n{AvailableBytes} is available.\nYou need an additional {SpaceAdditional} to perform the installation. \nOr an additional {BackSpaceAdditional} to perform Background Download",
+    "FortnitePreLoadScreen.CellDataErrorButton_Update": "UPDATE",
     "FortnitePreLoadScreen.ErrorButtonTextUpdate": "Update",
     "FortnitePreLoadScreen.PatchAvailableTitle": "Update Available",
     "FortnitePreLoadScreen.PatchAvailableTitleAndroid": "Update Fortnite",
@@ -64,8 +65,8 @@
     "FortnitePreLoadScreen.UpdateActive": "Updating",
     "FortnitePreLoadScreen.CellularDataWarningCaption": "Warning",
     "FortnitePreLoadScreen.SuggestedOSUpdateWarningBody": "We recommend updating to the latest OS to improve your Fortnite experience.",
-    "FortnitePreLoadScreen.DownloadUpdateButtonInfo": "Will Use Cellular Data",
     "FortnitePreLoadScreen.CellularDataWarningBody": "You are about to use cellular data to download Fortnite content. This will require downloading approximately {DownloadSizeEstimate}.",
+    "FortnitePreLoadScreen.DownloadUpdateButtonInfo": "You're using cellular data. Connect to wifi to ensure the download can finish",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {
@@ -90,6 +91,7 @@
     "EarlyStartupPatcher.BackgroundAppRefreshSettingsModalTitle.iOS": "Background Downloading",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "Continue",
     "EarlyStartupPatcher.DownloadingFiles": "DOWNLOADING...",
+    "FortniteEarlyStartupPatcher.DoNotQuitApp": "Don't leave",
     "EarlyStartupPatcher.DefaultErrorTitle": "Error",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "Get notifications for content downloads, friend and party invites, new seasons, limited time events, announcements and promotions. Configure these settings at any time.",
     "EarlyStartupPatcher.NotificationsPermissionModalTitle": "Get notified",
@@ -99,10 +101,8 @@
     "EarlyStartupPatcher.NotificationsSettingsModalBody": "Get notified when your download is complete, along with party invites and game updates.\n\nTurn on notifications from your device's Fortnite settings.",
     "EarlyStartupPatcher.InstallingFiles": "INSTALLING...",
     "EarlyStartupPatcher.Initializing": "Initializing",
-    "FortniteEarlyStartupPatcher.AppMustBeInForeground": "Keep Fortnite open for the update to complete.",
+    "FortniteEarlyStartupPatcher.AppMustBeInForeground": "Keep Fortnite open to finish installing.",
     "EarlyStartupPatcher.NotificationsSettingsModal_CloseButton": "Maybe later",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized.NotificationsAllowed": "No need to wait around. The download will continue in the background, and we'll notify you when it's time to finish up.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized.NotificationsDenied": "No need to wait around. The download will continue in the background. Be sure to check back soon to finish up.",
     "EarlyStartupPatcher.BackgroundAppRefreshSettingsModal_DeclineButton": "Not now",
     "EarlyStartupPatcher.NotificationsPermissionModal_DeclineButton": "Not now",
     "EarlyStartupPatcher.BackgroundAppRefreshSettingsModal_ActionButton": "Open Settings",
@@ -111,6 +111,7 @@
     "EarlyStartupPatcher.BackgroundAppRefreshSettingsModalBody.iOS": "To keep your download going even if you leave the app, make sure Background App Refresh is turned on.",
     "EarlyStartupPatcher.NotificationsSettingsModalTitle": "Turn on notifications",
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Update Size: {PatchSizeEstimate}",
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "You can leave the app while it's downloading, and we'll notify you when it's time to come back.\n\nYou will then need to keep Fortnite open on your screen to install after the download is complete.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody": "Your Fortnite download is in progress, but it doesn't mean you have to wait around.\n\nTurn on notifications to know when your download has completed."
   }
 }

@@ -1496,9 +1496,9 @@
   "Itemization": {
     "ItemAbilityEffectAssetHasNullClass": "Item Ability Effect requires a GameplayEffectClass to be set",
     "ItemAbilityConfigurationAssetHasNullAbility": "Item Ability requires a GameplayAbilityClass to be set",
-    "ItemDefinitionWarning_DuplicateComponent": "Item Definition {0} has duplicate component at index {1}.",
-    "ItemDefinitionWarning_InvalidHiddenComponent": "Item Definition {0} has invalid hidden component at index {1}.",
-    "ItemDefinitionWarning_NullComponent": "Item Definition {0} has null component at index {1}. This is very upsetting.",
+    "ItemDefinitionWarning_DuplicateComponent": "Item Definition {0} has duplicate DataList component at index {1}.",
+    "ItemDefinitionWarning_InvalidHiddenComponent": "Item Definition {0} has invalid hidden DataList component at index {1}.",
+    "ItemDefinitionWarning_NullComponent": "Item Definition {0} has null DataList component at index {1}. This is very upsetting.",
     "ItemGameplayAbilitiesNeedInstancing": "Item Gameplay Ability blueprints must be set to Instanced"
   },
   "ItemSkeletalMeshAttachmentDefinition": {
@@ -1522,9 +1522,6 @@
     "LiveLinkSourceType": "Live Stream Animation Source",
     "HandleSelector_Search": "Search...",
     "HandleSelector_Title": "Select..."
-  },
-  "LocalContentWorkerTest": {
-    "DuplicatingPlugin": "Duplicating plugin {0}..."
   },
   "LOCTEXT_NAMESPACE": {
     "FortBuildingEditModeMetadataDefinition": "EditModePattern"
@@ -3309,7 +3306,7 @@
     "CreateBuild.PreparePlatformData.ListDelimeter": ", ",
     "SaveDirtyAssets.Error.MustSaveAll": "All assets must be saved before upload.\nTo discard changes re-open map or project.",
     "UploadProject.Success": "All projects are up to date",
-    "ResolveValidationSession Failed": "At least 1 module failed to validate",
+    "UploadProject.Error.FailedToValidateSourceContent_Remote": "At least 1 module failed remote validation",
     "StartMemorySamplingFlow.Cancel": "Cancel",
     "LocalizeProject.Title.WarnAboutDirtyPackages": "Continue with Unsaved Changes?",
     "UploadProject.Error.FindOrCreateEditSessionWorkspace": "Could not find or create {0} workspace",
@@ -3322,12 +3319,10 @@
     "LocalizeProject.Settings.Button.Continue": "Export Localization",
     "UploadProject.Error.ClearEditSessionWorkspace": "Failed to clear {0} workspace",
     "UploadProject.Error.CreateValidationSession": "Failed to create validation session",
-    "Session Initialization Failed": "Failed to initialize session",
     "UploadProject.Error.InitializeValidationSession": "Failed to initialize validation session",
     "UploadProject.Error.ReparentEditSessionWorkspace": "Failed to reparent {0} workspace",
     "UploadProject.Error.ResolveValidationSession": "Failed to resolve validation session",
-    "UploadProject.Error.FailedToUploadSourceContent": "Failed to upload source content",
-    "UploadProject.Error.ValidationFailure": "Failed to validate candidate module versions",
+    "UploadProject.Error.FailedToValidateSourceContent_Local": "Failed to validate local source content",
     "LocalizeProject.Settings.Message": "In order to export localization data for this project, select the appropriate settings to initialize.\nThese settings are also available to edit at 'Project -> Project Settings'.",
     "LocalizeProject.Settings.Title": "Initialize Localization Settings",
     "UploadProject.ValidationSession_Initialize": "Initializing...",
@@ -3433,7 +3428,10 @@
   },
   "ValkyrieEditorUtils": {
     "CopyFiles": "Copying files...",
+    "FailCreatePerforceProvider": "Failed to create Perforce revision control provider",
     "FeatureSetNoAccess": "Missing access to {0} feature set",
+    "UnknownPerforceConnectionError": "Unknown error connecting to Perforce",
+    "UnknownGetWorkspaceError": "Unknown error getting Perforce workspaces",
     "FeatureSetUnknown": "{0} feature set is unknown"
   },
   "ValkyrieEmporiumProjectGeneration": {
@@ -3483,14 +3481,13 @@
     "ExperimentalSceneGraphFeaturesUpdate_Body": "This project has been converted to Beta. There are features of Scene Graph that are still experimental. Before attempting to publish make sure to remove any experimental features from your project."
   },
   "ValkyrieExperimentalSceneGraphSetting": {
-    "EnableSceneGraphCTA": "Enable Scene Graph",
-    "SceneGraphEnabled": "Scene Graph is enabled"
+    "SceneGraphDisableWarning": "Disabling Scene Graph will not remove any content added while enabled."
   },
   "ValkyrieExperimentalSettingsDetailCustomization": {
     "ProjectSettings.ExperimentalSettings": "Please note using experimental features in your project will prevent you from publishing that project.\"Enabling these features will disable all Verse Error/Warnings for experimental API usage.\n\n\"It is recommended that you test out experimental features on new projects or copies of existing projects,\"as removing all use of experimental features from your project may not be possible, leaving your project in an unpublishable state."
   },
   "ValkyrieExperimentalSettingsManager": {
-    "ApplyingExperimentalSettings": "Applying experimental settings..."
+    "ApplyingExperimentalSettings": "Applying experimental and beta settings..."
   },
   "ValkyrieFetchIslandFileFlow": {
     "EngineExitRequested": "Attempting to fetch an island while the engine is shutting down",
@@ -4823,7 +4820,7 @@
   },
   "VkExternalContentAliases": {
     "ContentFailedToLoad": "Content Failed to Load",
-    "ContenWithoutPublicAsset": "Content Without Public Asset",
+    "ContenWithoutExposedAsset": "Content Without Exposed Asset",
     "SomeContentFailedToLoad": "Some of the Content Failed to Load"
   },
   "VKFN1EditorTools": {

@@ -1,13 +1,15 @@
 {
   "": {
     "1F0FA94B409525629BE3F595A6935227": "Atom Static",
-    "04968BFD4BF61CE3493F539D486A7E00": "BP_Partitioned_Mesh",
     "B462AB8F46B9031B00C80F98867ADE4B": "Cell Transformer Exclusion",
     "45E6438C4D232933F0E6049F5D6A01A1": "Console Commands\r\n- ce UseHISM bool\r\n- ce SetSize float float float\r\n- ce LoadMesh type (ao, ac, f)\r\n- ce SetRotation float\r\n- ce SetSpacing float",
     "9D32034D4493E41FC340F09E2B8071AF": "ISM Based Actors (Tagged)",
     "416B4E4C453C0066C0D202B9820D1265": "ISM Based Actors (Untagged)",
+    "04968BFD4BF61CE3493F539D486A7E00": "LFN CellTransformer + ISMs",
+    "0AE90B7E471602E03335FE901D585EA7": "LFN CellTransformer+TOD+ChildActors",
     "AB5C87ED45D0082BF2537CB7CC67D478": "LFN Editor Data Component",
     "129165D24A191DC86A78069939C43C1D": "LFN Light Components",
+    "050B7342418A17835BFCF7BC9D832749": "LFN Scalability Component",
     "D411B7F242CA91F2E667589AA6DD26B4": "Large",
     "7D88E7A1434F9A7E49B950A352ABDFE2": "Mars Blueprints",
     "A60E9DE946C257E23334B88456B5C855": "Medium",
