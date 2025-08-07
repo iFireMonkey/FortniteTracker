@@ -52,6 +52,7 @@
     "B50590C74CB5D84E9DE2C6BA99BD5F77": "Normal",
     "3828B1504C795BD3935111A48B3C7ED1": "Off",
     "5BF8FD604A5BDF826D6CD6A17AFF9E76": "Off",
+    "5D8B45B7438C013ADB9A6F95B9D5AA25": "Off",
     "F0EB80D04195CD279BD4E08ABC68F367": "Off",
     "FFF42A014A4709D6C6B592B68D9C61CF": "Off",
     "1A896E0C41CCCF98A68BA8A808EF4E89": "Opaque",
@@ -242,6 +243,7 @@
     "Device_SkilledInteractionDevice_C.InteractionType.DisplayName": "Interaction Type",
     "Device_SkilledInteractionDevice_C.InvertClassSelection.DisplayName": "Invert Class Selection",
     "Device_SkilledInteractionDevice_C.InvertTeamSelection.DisplayName": "Invert Team Selection",
+    "Device_SkilledInteractionDevice_C.PersistUIDuration.Description": "Keeps the QTE UI on screen for period of time after success or failure.",
     "Device_SkilledTimerSize.Large.DisplayName": "Large",
     "Device_SkilledTextPosition.Left.DisplayName": "Left",
     "EUIAnchor.Left Tall.DisplayName": "Left Tall",
@@ -303,6 +305,7 @@
     "Device_SkilledInteractionDevice_C.PerfectZoneColor.DisplayName": "Perfect Zone Color",
     "Device_SkilledInteractionDevice_C.PerfectZonePosition.DisplayName": "Perfect Zone Position",
     "Device_SkilledInteractionDevice_C.PerfectZoneSize.DisplayName": "Perfect Zone Size",
+    "1F1DD720426D71909712E9AEF192E99C": "Persist UI Duration",
     "Device_SkilledInteractionMovementType.PingPong.DisplayName": "PingPong",
     "Device_SkilledInteractionDevice_C.Looping Audio Pitch Multiplier.Description": "Pitch multiplier for the looping sound. It will increase by the selected amount each time a player gets a successful or perfect interaction.  It will reset when the minigame is restarted.",
     "Device_SkilledInteractionDevice_C.PlacementHorizontal.DisplayName": "Placement Horizontal",
@@ -404,6 +407,7 @@
     "Device_SkilledInteractionDevice_C.HeaderText.CustomCategory": "UI",
     "Device_SkilledInteractionDevice_C.HideHUD.CustomCategory": "UI",
     "Device_SkilledInteractionDevice_C.InteractionLabel.CustomCategory": "UI",
+    "Device_SkilledInteractionDevice_C.PersistUIDuration.CustomCategory": "UI",
     "Device_SkilledInteractionDevice_C.PlacementHorizontal.CustomCategory": "UI",
     "Device_SkilledInteractionDevice_C.PlacementVertical.CustomCategory": "UI",
     "Device_SkilledInteractionDevice_C.ScreenAnchor.CustomCategory": "UI",
@@ -435,6 +439,7 @@
     "Device_SkilledInteractionDevice_C.GoodZoneSize.CustomCategory": "Zones",
     "Device_SkilledInteractionDevice_C.PerfectZoneColor.CustomCategory": "Zones",
     "Device_SkilledInteractionDevice_C.PerfectZonePosition.CustomCategory": "Zones",
-    "Device_SkilledInteractionDevice_C.PerfectZoneSize.CustomCategory": "Zones"
+    "Device_SkilledInteractionDevice_C.PerfectZoneSize.CustomCategory": "Zones",
+    "DisplayPattern_Seconds": "{0} {1}|plural(one=Second, other=Seconds)"
   }
 }

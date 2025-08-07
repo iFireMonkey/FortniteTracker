@@ -165,7 +165,6 @@
   "DelMarSetting": {
     "DelMarAerialPitchActivation_Description": "A button must be pressed in addition to the vehicle pitch up/down buttons in order to pitch the vehicle in the air when not using a controller (see Aerial Pitch Activation keybind). \nWhen this setting is turned off, the vehicle will pitch in the air immediately upon pressing Pitch Vehicle Up or Pitch Vehicle Down keybinds.",
     "0F72766349D9EDCAFEA175823F094258": "Adjusts the volume of music in Rocket Racing.",
-    "DelMarMusicVolume_Description": "Adjusts the volume of music in Rocket Racing.",
     "DelMarCameraDeadzone_Name": "Camera Swivel Deadzone",
     "DelMarTouchControlsDpad": "D-Pad",
     "CeilingReleaseInput": "Default",
@@ -187,7 +186,6 @@
     "DelMarCameraDeadzone_Description": "Minimum amount of camera swivel that will be registered for the camera when using an axis binding.",
     "DelMarSteerDeadzone_Description": "Minimum amount of steer that will be registered for the vehicle when using an axis binding.",
     "DelMarThrottleDeadzone_Description": "Minimum amount of throttle that will be registered for the vehicle when using an axis binding.",
-    "DelMarMusicVolume_Name": "Music",
     "3EE8B8B5462ABE8212B57CAB2DDECD41": "Music - Rocket Racing",
     "Never": "Never",
     "ShakeIntensityOff": "Off",
@@ -196,7 +194,6 @@
     "DelMarIconOnlyNameplates_Description": "Only display player character icons on the nameplates attached to vehicles.",
     "DelMarPitchDeadzone_Name": "Pitch Deadzone",
     "DelMarAerialPitchActivation_Name": "Require Aerial Pitch Activation",
-    "DelMarCollectionAudio_Name": "Rocket Racing",
     "DelMarCollectionGame_Name": "Rocket Racing",
     "DelMarCollectionGamepad_Name": "Rocket Racing",
     "DelMarCollectionHUD_Name": "Rocket Racing",
