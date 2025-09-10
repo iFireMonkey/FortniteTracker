@@ -103,10 +103,7 @@
     "F0FA99D84E648AFA3E17EC9BFF589C5F": "Yes",
     "29677EE049ECA00740B698B4F0871053": "{0} {1}|plural(one=degree, other=degrees)",
     "9800FCD84D6D424AE391F4AD7064924F": "{0} {1}|plural(one=degree, other=degrees)",
-    "F0D9B4F74D53EB93A5179394BB7E36F6": "{0} {1}|plural(one=degree, other=degrees)",
-    "2D34F7D14BE0AD51F46EDFB501F1380C": "{0} {1}|plural(one=meter, other=meters)/second",
-    "326927734B60001C23FF0CB772AEF492": "{0} {1}|plural(one=meter, other=meters)/second",
-    "AAACB9034438EC512F8176A372BDF775": "{0} {1}|plural(one=meter, other=meters)/second"
+    "F0D9B4F74D53EB93A5179394BB7E36F6": "{0} {1}|plural(one=degree, other=degrees)"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"
@@ -139,12 +136,12 @@
     "ECreativeClassType.Any.DisplayName": "Any",
     "ECreativeTeamType.Any.DisplayName": "Any",
     "ClassSlotMetaData.DisplayPattern": "Class {0}",
-    "Device_DirectionalLauncher_Generic_C.LaunchAngle.Description": "Determines the angle the player is launched at. At 0 degrees, the player is launched along the ground. At 90 degrees, the player is launched straight up.",
-    "Device_DirectionalLauncher_LowGravity_C.LaunchAngle.Description": "Determines the angle the player is launched at. At 0 degrees, the player is launched along the ground. At 90 degrees, the player is launched straight up.",
-    "Device_DirectionalLauncher_UFO_C.LaunchAngle.Description": "Determines the angle the player is launched at. At 0 degrees, the player is launched along the ground. At 90 degrees, the player is launched straight up.",
-    "Device_DirectionalLauncher_Generic_C.LaunchSpeed.Description": "Determines the speed this device applies when launching.",
-    "Device_DirectionalLauncher_LowGravity_C.LaunchSpeed.Description": "Determines the speed this device applies when launching.",
-    "Device_DirectionalLauncher_UFO_C.LaunchSpeed.Description": "Determines the speed this device applies when launching.",
+    "Device_DirectionalLauncher_Generic_C.LaunchAngle.Description": "Determines the angle a player or prop is launched at. At 0 degrees, the player/prop is launched along the ground. At 90 degrees, the player/prop is launched straight up.",
+    "Device_DirectionalLauncher_LowGravity_C.LaunchAngle.Description": "Determines the angle a player or prop is launched at. At 0 degrees, the player/prop is launched along the ground. At 90 degrees, the player/prop is launched straight up.",
+    "Device_DirectionalLauncher_UFO_C.LaunchAngle.Description": "Determines the angle a player or prop is launched at. At 0 degrees, the player/prop is launched along the ground. At 90 degrees, the player/prop is launched straight up.",
+    "Device_DirectionalLauncher_Generic_C.LaunchSpeed.Description": "Determines the speed or impulse this device applies when launching.",
+    "Device_DirectionalLauncher_LowGravity_C.LaunchSpeed.Description": "Determines the speed or impulse this device applies when launching.",
+    "Device_DirectionalLauncher_UFO_C.LaunchSpeed.Description": "Determines the speed or impulse this device applies when launching.",
     "Device_DirectionalLauncher_Generic_C.AllowCreatures.Description": "Determines whether Creatures can activate the device.",
     "Device_DirectionalLauncher_LowGravity_C.AllowCreatures.Description": "Determines whether Creatures can activate the device.",
     "Device_DirectionalLauncher_UFO_C.AllowCreatures.Description": "Determines whether Creatures can activate the device.",
@@ -208,6 +205,10 @@
     "Device_DirectionalLauncher_Generic_C.InvertTeamSelection.Description": "If set to YES, the slected Team is the only Team that cannot activate the device.",
     "Device_DirectionalLauncher_LowGravity_C.InvertTeamSelection.Description": "If set to YES, the slected Team is the only Team that cannot activate the device.",
     "Device_DirectionalLauncher_UFO_C.InvertTeamSelection.Description": "If set to YES, the slected Team is the only Team that cannot activate the device.",
+    "EBouncerForceVelocity.Force.DisplayName": "Impulse",
+    "Device_DirectionalLauncher_Generic_C.ImpulseOrVelocity.DisplayName": "Impulse or Velocity",
+    "Device_DirectionalLauncher_LowGravity_C.ImpulseOrVelocity.DisplayName": "Impulse or Velocity",
+    "Device_DirectionalLauncher_UFO_C.ImpulseOrVelocity.DisplayName": "Impulse or Velocity",
     "Device_DirectionalLauncher_Generic_C.InvertClassSelection.DisplayName": "Invert Class Selection",
     "Device_DirectionalLauncher_LowGravity_C.InvertClassSelection.DisplayName": "Invert Class Selection",
     "Device_DirectionalLauncher_UFO_C.InvertClassSelection.DisplayName": "Invert Class Selection",
@@ -220,9 +221,9 @@
     "Device_DirectionalLauncher_Generic_C.LaunchFX.DisplayName": "Launch FX",
     "Device_DirectionalLauncher_LowGravity_C.LaunchFX.DisplayName": "Launch FX",
     "Device_DirectionalLauncher_UFO_C.LaunchFX.DisplayName": "Launch FX",
-    "Device_DirectionalLauncher_Generic_C.LaunchSpeed.DisplayName": "Launch Speed",
-    "Device_DirectionalLauncher_LowGravity_C.LaunchSpeed.DisplayName": "Launch Speed",
-    "Device_DirectionalLauncher_UFO_C.LaunchSpeed.DisplayName": "Launch Speed",
+    "11CF53024700627105E7E7B977B7C020": "Launch Value",
+    "A135F7D54A9FF9A7C1B690AD46004C7B": "Launch Value",
+    "C8D9E79D404CE844FC644F9D9E6294E5": "Launch Value",
     "Device_DirectionalLauncher_Generic_C.LowGravity.DisplayName": "Low Gravity",
     "Device_DirectionalLauncher_LowGravity_C.LowGravity.DisplayName": "Low Gravity",
     "Device_DirectionalLauncher_UFO_C.LowGravity.DisplayName": "Low Gravity",
@@ -242,8 +243,12 @@
     "Device_DirectionalLauncher_Generic_C.OnNonPlayerLaunched.Description": "Triggers when something other than a player is launched by this device.",
     "Device_DirectionalLauncher_LowGravity_C.OnNonPlayerLaunched.Description": "Triggers when something other than a player is launched by this device.",
     "Device_DirectionalLauncher_UFO_C.OnNonPlayerLaunched.Description": "Triggers when something other than a player is launched by this device.",
+    "EBouncerForceVelocity.Velocity.DisplayName": "Velocity",
     "Device_DirectionalLauncher_Generic_C.VisibleDuringGame.DisplayName": "Visible During Game",
     "Device_DirectionalLauncher_LowGravity_C.VisibleDuringGame.DisplayName": "Visible During Game",
-    "Device_DirectionalLauncher_UFO_C.VisibleDuringGame.DisplayName": "Visible During Game"
+    "Device_DirectionalLauncher_UFO_C.VisibleDuringGame.DisplayName": "Visible During Game",
+    "Device_DirectionalLauncher_Generic_C.ImpulseOrVelocity.Description": "Whether to use velocity or impulse.",
+    "Device_DirectionalLauncher_LowGravity_C.ImpulseOrVelocity.Description": "Whether to use velocity or impulse.",
+    "Device_DirectionalLauncher_UFO_C.ImpulseOrVelocity.Description": "Whether to use velocity or impulse."
   }
 }

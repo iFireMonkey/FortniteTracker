@@ -27,6 +27,7 @@
     "BuildPatchInstallShortError_FileConstructionFail": "A file corruption has occurred. Please try again.",
     "BuildPatchInstallShortError_InvalidOrMax": "An unknown error ocurred. Please contact support.",
     "BuildPatchInstallShortError_DownloadError": "Could not download patch data. Please check your internet connection, and try again.",
+    "InstallationWriteFailed": "Low-level failure to write files to disk during installation. Verify there is sufficient disk space. {RequiredBytes} more is required.",
     "BuildPatchInstallShortError_PathLengthExceeded": "Maximum path length exceeded. Please specify a shorter install location.",
     "BuildPatchInstallShortError_OutOfDiskSpace": "Not enough disk space available. Please free up some disk space and try again.",
     "BuildPatchInstallShortError_ApplicationError": "Patching service could not start. Please contact support.",

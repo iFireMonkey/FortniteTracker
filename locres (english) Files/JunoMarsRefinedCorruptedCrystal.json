@@ -1,0 +1,32 @@
+{
+  "": {
+    "2A3DA133450DE1F4E7762EBFC3C8F144": "Corrupted Axe",
+    "5916DF4549227279E8AD35931888404D": "Corrupted Crossbow",
+    "9875D91146C4D8408E03BAAEFDF0BB3F": "Corrupted Dual Daggers",
+    "F32A2C4A460D4C6BC10DD7BD49D31F18": "Corrupted Hammer",
+    "9695AF99464F0C9FEC50C3BE822C43AF": "Corrupted Machete",
+    "76AEC6DD4CF9D18F7BFDC9BCFAEAA530": "Corrupted Pickaxe",
+    "69115BA249B1068F42E315B62BF89A6C": "Corrupted Plasma Pistols",
+    "8CC4CDD3405EAA085765AAB2E319DF1D": "Corrupted Spear",
+    "934302ED42B3386302EC7F9B113AC1FA": "Corrupted Sword",
+    "4F041E594D370BBE74E3BDA4A7A4BBAF": "Craft a Weapon using <emphA>Cut Corrupted Crystals</>.",
+    "4709780A4E901F20D82492ADE6339182": "Craft a weapon with a <text color=\"E2FCFFFF\">Cut Corrupted Crystal</>.",
+    "C000930E48E063391FFEDFA82B24B571": "Every few seconds, your dodge summons enemy-seeking masks that explode on contact.",
+    "1698974C46A90E20604D21BB850149FE": "Spire's Wrath IV",
+    "96F30C124D97236C1039428F0ED3FB2C": "Spire's Wrath IV",
+    "9AF379BD41AED1FFBDBC898B76D03198": "VERY In-spired.",
+    "BD73B5584E28FBB049C627BCB4B934BA": "You'll need a <EmphA>Corrupted Crystal</> and a <EmphA>Gem Cutter</>.",
+    "19CC8E6C4A0EBC05523D13B480BC3BFA": "crafting resource"
+  },
+  "Juno_GameplayItemCraftingFormulas_CutCorruptedCrystalMaterial": {
+    "CutCorruptedCrystal_DisplayName": "Cut Corrupted Crystal",
+    "EssenceOfSpireWrathIV_DisplayName": "Spire Wrath IV"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "A623134E47F36B4867D2559117996AF6": "Cut Corrupted Crystal"
+  },
+  "Juno_UpdateItemData": {
+    "89238479458E64E9C358C986EFA5832A": "Scary sharp.",
+    "6BA4926A4017F26CA4BA1E9607643091": "Use for crafting lightweight weapons. Refined from Corrupted Crystal."
+  }
+}

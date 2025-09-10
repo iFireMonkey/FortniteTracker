@@ -54,6 +54,7 @@
     "ECrashPadMaterial.Default.DisplayName": "Default",
     "Device_Crashpad_V2_C.DeviceHealth.Description": "Determines how much damage the device can take.",
     "Device_Crashpad_V2_C.EnabledOnPhase.Description": "Determines the game phases during which the device will be enabled. Pre-Game includes all phases prior to the Game starting (the waiting for players lobby on Featured Islands and the Game Start Countdown).",
+    "Device_Crashpad_V2_C.PropsBounceLaunchValue.Description": "Determines the impulse or velocity this device applies to bounced props.",
     "Device_Crashpad_V2_C.VisualStyle.Description": "Determines what the crash pad looks like.",
     "Device_Crashpad_V2_C.AllowAnyLaunchToSendEvent.Description": "Determines whether to send an Event when any object touches the crash pad (rather than just players or vehicles containing players).",
     "Device_Crashpad_V2_C.DeviceHealth.DisplayName": "Device Health",
@@ -67,6 +68,8 @@
     "Device_Crashpad_C.Enable.Description": "Enables the device on receiving a signal from the selected channel.",
     "Device_Crashpad_V2_C.Enable.Description": "Enables the device.",
     "EEnabledOnPhase.Gameplay Only.DisplayName": "Gameplay Only",
+    "EBouncerForceVelocity.Force.DisplayName": "Impulse",
+    "Device_Crashpad_V2_C.Impulse Or Velocity.DisplayName": "Impulse or Velocity",
     "EEnabledOnPhase.None.DisplayName": "None",
     "BoolMetaData.FalseDisplayName": "Off",
     "BoolMetaData.TrueDisplayName": "On",
@@ -74,9 +77,12 @@
     "Device_Crashpad_V2_C.On Launched.DisplayName": "On Launched",
     "ECrashPadMaterial.Original.DisplayName": "Original",
     "EEnabledOnPhase.Pre-Game Only.DisplayName": "Pre-Game Only",
+    "63C0C40241F838791AFD2897685BE9FE": "Prop Launch Value",
     "Device_Crashpad_V2_C.On Launched.Description": "Sends an Event when an object is launched by the Crash Pad.",
     "ECrashPadMaterial.Target.DisplayName": "Target",
     "Device_Crashpad_C.On Launched.Description": "Transmits when an object is launched by the Crash Pad.",
-    "Device_Crashpad_V2_C.VisualStyle.DisplayName": "Visual Style"
+    "EBouncerForceVelocity.Velocity.DisplayName": "Velocity",
+    "Device_Crashpad_V2_C.VisualStyle.DisplayName": "Visual Style",
+    "Device_Crashpad_V2_C.Impulse Or Velocity.Description": "Whether to apply an impulse to or directly set the velocity of an object."
   }
 }
