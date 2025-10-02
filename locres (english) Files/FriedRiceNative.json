@@ -1,1 +1,11 @@
-{}
+{
+  "ChickenFriedRiceGameManagerComponent": {
+    "QueueJoinFailureText": "Tag Queue is full"
+  },
+  "ChickenFriedRicePlayerStateComponent": {
+    "ChickenFriedRice_OnTag_Killfeed": "<{KillerStyle}>{HunterName}</> tagged <{VictimStyle}>{PreyName}</>!"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Kicked for idle. Your connection to the host was lost because you were idle for too long."
+  }
+}
