@@ -688,6 +688,10 @@
     "F0D454BB47E38B96B4D847803D7AE61B": "Exit (Hold)",
     "F9C9015E4CFCFBE2FB7DF98EBA901296": "Experimental Fun Coins",
     "CA403EB04C520CE6C0B7349AE26E318F": "Exploding Brute",
+    "45A2284244C92803838E748E68BC900C": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
+    "5DC8F69742B3B5378ED87BAD7B27CA27": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
+    "F1F16B154B5F7FA0CACF95A178BF0E36": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
+    "F57A5FD7429BAB953AAA12AF825AD8FB": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
     "969612EB401D5B55139B8AABCCCE388D": "Explosive Weapon: Lobs chiller grenades.",
     "350A04B54E9DBF6F92AD4A9E7D5E1460": "Extend",
     "F763E4C642F017EE1C08EEA4709767C5": "Extended Protection",
@@ -1025,6 +1029,7 @@
     "5B11769D4F71D4885B2B89B1D6C94BDE": "Lars Challenges",
     "A6F60E3C476A9CFBA107E29BEB749434": "Last, we defend the innocent to show that not all snakes are, well... snakes.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Launch into the air and cackle through the skies. Reactivate to cancel early.",
+    "DA2648434C9EE117B7C1D8B1F0A97686": "Launch into the air and cackle through the skies. Reactivate to cancel early.",
     "EBB5488B49796EEAA6D4CD891B192D81": "Launcher that lobs Shockwave Grenades.",
     "261743A8479BF496B7D041B28AA7D369": "Launches Players long distances.",
     "8C972F27478294CB8BA3B6A8D70A4A29": "Launches an explosive container of cinematic paint.",
@@ -1275,6 +1280,7 @@
     "6799C1244EBA4357FBE79788D3D27D1E": "Poison Dart Trap",
     "33F3BC244D0D6BCB5C18B394E1444945": "Poison Fiend",
     "4CBE793B4385D3726F1EA5950991BC9C": "Power",
+    "A015178F456CA3235088099F770FAA56": "Power",
     "E2B371CF49B4ED502BCBB7A50141FEE9": "Powerhouse Challenges",
     "02ED45AF47A7B85DECD55DA1FA1682F7": "Preferred Item Slots now active, customize in Gameplay Settings!",
     "16C2AB624C62FAE1E12B6685F4F9C00E": "Preferred Item Slots now active, customize in Gameplay Settings!",
@@ -1301,6 +1307,10 @@
     "35EE6F8D4D5AB96B3FBBFF8E417C56F7": "Promise to guard it. Protect it. Keep it stocked with snacks.",
     "630028554D40F04646EF31B902F09E9F": "Proto: ",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "Pump Shotgun",
+    "0ACFBE9B486177310B1DD39FFF66B79C": "Pumpkin Launcher   ",
+    "547CC8E146441AD4521780B086AECD8D": "Pumpkin Launcher   ",
+    "944E7FA84097A95DB1F5878EA93D7677": "Pumpkin Launcher   ",
+    "CE72C5534DE36C633C2E0BBE92C64C40": "Pumpkin Launcher   ",
     "1F9599FA45B3E36B856BAAB8D9EADDF6": "Punch",
     "41E29A0A4539564794978280A4D6CCEA": "Punch Card Completion Token",
     "85A2E3C041A433B1B8D87C914FAFCC13": "Punch Card Completion Token",
@@ -1900,6 +1910,7 @@
     "CB39CFC441D6225AC6BDB59B14CF1E0A": "Wish, Set, Match",
     "A4479CF24FBB235F0CBEFBA61152BB27": "Wish, Set, Match Quest Pack",
     "194B94D745612B291C0C0CAC0487B727": "Witch Broom",
+    "C42054104CB117DAC40D519220AD92F2": "Witch Broom",
     "FBC7FB2B46D28E67EC4AAE83B1B97352": "Witching Wing",
     "4D1537D6470EF53A583E899C8F7C8158": "Witching Wing's Quest Pack",
     "C381D7E942FF9C710C1A6BB970A6DA68": "Wow, good job! Look at all you did!",
@@ -5037,9 +5048,17 @@
     "ElementCountText": "{0} Elements"
   },
   "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0}% Extra"
+    "BonusMtxPercentFormat": "{0}% Extra*"
   },
   "FortMtxStoreVM": {
+    "RealPriceFormat": "(equivalent to {0}*)",
+    "RealPriceFormat_AdditionalText": "(equivalent to {0}**)",
+    "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**To buy exactly {0} V-Bucks where available, you'd pay {1}. Exact amount purchase is not supported on this platform.",
+    "RealPriceLegalFormat_AdditionalText": "**To buy exactly {0} V-Bucks, you'd pay {1}.",
+    "ExactPackLegalText": "*Extra V-Bucks percentage shown as compared to price of 1,000 V-Bucks pack.",
+    "RealPriceLegalFormat_NoExactAmount": "*To buy exactly {0} V-Bucks where available, you'd pay {1}. Exact amount purchase is not supported on this platform.",
+    "RealPriceLegalFormat": "*To buy exactly {0} V-Bucks, you'd pay {1}.",
+    "LegalTextNewLineAppendFormat": "{0}\n{1}",
     "LegalTextPeriodAppendFormat": "{0}. {1}"
   },
   "FortNevadaVehicle": {
@@ -6868,6 +6887,7 @@
     "AutoHurdle_Name": "Hurdle Activation",
     "FilterControllerVibrationFromGyro_Description": "If controller's vibration feature is enabled, add a narrow filter to reduce camera vibration. This can add a tiny bit of input latency to gyro aiming. This filter is automatically disabled if the Vibration Feature is disabled in the Controller Options tab.",
     "CrossplayPreference_Description": "If enabled you can participate in parties and game modes with other platforms. If disabled, some game modes will be unavailable, and others may have Limited Pools with longer queue times, lower match populations, or higher latency.",
+    "EnableJamQuantization_Description": "If enabled, Jam Loops begin playback on the next downbeat (beat 1 of the bar) or pickup, whichever comes first. If disabled, Jam Loops begin playback on the next beat or pickup.",
     "HoldToSwapPickup_Description": "If enabled, current weapon can be swapped with pickup on the ground by holding use.",
     "SwapFireInputsDualWieldShotgunSMG_Description": "If enabled, fire buttons on mouse will be swapped for Pump & Dump weapons.",
     "GyroButtonHoldTime_Description": "If the Gyro Modifier button is shared with a short-press action, this is how long the button needs to be held to skip the short-press action.",
@@ -7472,6 +7492,7 @@
     "FlickStickDisablesStandardStickSettings": "Standard stick settings are disabled because Flick Stick is enabled in the Touch & Motion tab.",
     "ColorConfiguration_Action": "Start",
     "FullRangeTest_Action": "Start",
+    "EnableJamQuantization_Name": "Start Jam Loops at Optimal Times",
     "TriggerHapticsStartPosition_Name": "Start Position",
     "ShowMarketingInvitesPush_DescriptionMobile": "Stay up to date with what is happening in Fortnite! Get notified about new seasons, limited time events, announcements and promotions.",
     "GyroSimpleSteadying_Name": "Steadying",
@@ -8065,7 +8086,6 @@
     "StormCircleFormat": "Reveal Future Storm Circle"
   },
   "FortSidebarPanelFindFriends": {
-    "InviteShareDescriptionFmt": "I'm {0} on Fortnite. Add me and let’s party up!",
     "GenericUserSearchQueryFailedError": "Search failed!"
   },
   "FortSidebarPanelVoiceChat": {
@@ -8467,6 +8487,7 @@
     "Feb": "Feb",
     "February": "February",
     "GenitiveFebruary": "February",
+    "InviteShareDescriptionFmt": "I'm {0} on Fortnite. Add me and let’s party up!",
     "Jan": "Jan",
     "GenitiveJanuary": "January",
     "January": "January",
@@ -8476,6 +8497,7 @@
     "Jun": "Jun",
     "GenitiveJune": "June",
     "June": "June",
+    "InviteShareMinorDescription": "Let's party up on Fortnite!",
     "Mar": "Mar",
     "GenitiveMarch": "March",
     "March": "March",
@@ -10310,6 +10332,8 @@
     "UnableToJoinNeedsUpdate": "Update required, please restart game.",
     "ReadyTextSpectatingGame": "Watching Game",
     "ReadyTextWatchingReplay": "Watching a Replay",
+    "JoinPartyAlreadyInPartyToast_UnknownName": "You are already in that party",
+    "JoinPartyAlreadyInPartyToast": "You are already in {0}'s party",
     "JoinPartyAlreadyJoiningToast_UnknownName": "You are already joining that party",
     "JoinPartyAlreadyJoiningToast": "You are already joining {0}'s party",
     "LFGToast_Stop_SelfSolo": "You are no longer looking for a party.",
@@ -10858,6 +10882,9 @@
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "Leave match and play {LinkCode}?",
     "LaunchDataLeaveMatchAndMatchmakeSession": "Leave match to join edit session?",
     "LaunchDataLeaveMatch": "Leave match?"
+  },
+  "UFortAsyncAction_SeasonPassOperation": {
+    "PassRewardsShortName": "Pass Rewards"
   },
   "UFortCreativeMessageKnobsDialog": {
     "DestructiveActionCancelButtonText": "Cancel",

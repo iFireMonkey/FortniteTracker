@@ -33,6 +33,11 @@
     "GameMemberAdded": "{0} <Yellow>entered world</>",
     "GameMemberDisconnected": "{0} <Yellow>exited world</>"
   },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "add charge",
+    "ChargeCostUnits": "charge",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
   "JunoSpeech": {
     "JunoSpeech_UnknownParticipant": "???",
     "JunoSpeech_ConsecutiveSpeechDefaultText": "Continue",
