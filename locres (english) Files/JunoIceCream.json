@@ -1,20 +1,20 @@
 {
   "": {
-    "5B1A181240601D2C8B93B1989A32DC0C": "You'll need something cold and soft.",
-    "6A31DE274B0444C42C341BB39ED7DE5C": "You'll need something cold and soft.",
-    "79EDC71546DFF16F6D376A807B8C057C": "You'll need something cold and soft."
+    "6A31DE274B0444C42C341BB39ED7DE5C": "You'll need a <EmphA>Mixer</>.",
+    "79EDC71546DFF16F6D376A807B8C057C": "You'll need a <EmphA>Mixer</>.",
+    "5B1A181240601D2C8B93B1989A32DC0C": "You'll need something cold and soft."
   },
   "Juno_GameplayItemToTagMapping": {
     "F30AD94846FE3D71D4E9CB839A7EFEBA": "Chillberry Ice Cream",
     "70A1111E46AD7601EE0732B1D69F64A2": "Spicy Ice Cream"
   },
   "Juno_UpdateItemData": {
-    "A3F9607D41D80C179555DF9A26FF518F": "Brain freeze!",
     "5C4061EA4933787FD658459CC7FB33B1": "Eat it before it melts.",
     "B219707D4D40717FC31E2F9F3C7B0F24": "Eat it before it melts.",
     "64A4F0A843F6B87C22DD4B88D7EF9798": "Eat to gain temporary Immunity to Burning.",
     "336CB5E0430C56B49DCDE8941E86F8A4": "Eat to gain temporary Immunity to Freezing.",
     "CC5087DC481F5A04DBEFA480881F54B2": "Ice Cream",
-    "CE8B0C8D4E0B2CA9429D6FA70619FA9F": "It's cold AND hot. A delicious paradox!"
+    "A3F9607D41D80C179555DF9A26FF518F": "Too cool to be hot.",
+    "CE8B0C8D4E0B2CA9429D6FA70619FA9F": "Too hot to be cold."
   }
 }

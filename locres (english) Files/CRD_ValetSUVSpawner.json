@@ -108,6 +108,10 @@
     "E_CreativeVehicleSpawnerParent_RespawnFilter.No.DisplayName": "No",
     "ECreativeClassType.NoClass.DisplayName": "No Class",
     "EEnabledOnPhase.None.DisplayName": "None",
+    "Device_ValetSUVSawner_C.bDamageOwnVehicle.Description": "ON will allow collision to damage the player's own vehicle.",
+    "Device_ValetSUVSawner_C.bDamageFriendlyFire.Description": "ON will allow friendly driven vehicles to damage each other on collision.",
+    "Device_ValetSUVSawner_C.Allow Damage From Other Vehicles.Description": "ON will allow other vehicles to damage this vehicle by colliding with it. The other vehicles must have Damage Other Vehicles turned on.",
+    "Device_ValetSUVSawner_C.bDamageOtherVehicles.Description": "ON will allow this vehicle to damage other vehicles by colliding with them. The other vehicles must have Allow Damage from Other Vehicles turned on. ",
     "Device_ValetSUVSawner_C.Destroy Vehicle When Disabled.Description": "ON will destroy an already spawned vehicle when this spawner is disabled.",
     "BoolMetaData.FalseDisplayName": "Off",
     "EVehicleTireModOption.Off-Road Tires.DisplayName": "Off-Road Tires",
@@ -154,10 +158,6 @@
     "Device_ValetSUVSawner_C.Water Destruction Timer.DisplayName": "Water Destruction Timer",
     "Device_ValetSUVSawner_C.Water Destruction Timer.Description": "When the vehicle becomes too deep in water to drive, destroy it after this delay.",
     "Device_ValetSUVSawner_C.Respawn Time.Description": "When the vehicle is destroyed, respawn it after this delay. (The first vehicle spawned does not use this delay.)",
-    "Device_ValetSUVSawner_C.bDamageOwnVehicle.Description": "YES will allow collision to damage the player's own vehicle.",
-    "Device_ValetSUVSawner_C.bDamageFriendlyFire.Description": "YES will allow friendly driven vehicles to damage each other on collision.",
-    "Device_ValetSUVSawner_C.Allow Damage From Other Vehicles.Description": "YES will allow other vehicles to damage this vehicle by colliding with it.",
-    "Device_ValetSUVSawner_C.bDamageOtherVehicles.Description": "YES will allow vehicles to damage each other on collision.",
     "Device_ValetSUVSawner_C.Respawn Vehicle When Enabled.Description": "YES will spawn a vehicle when the device is enabled. ONLY IF NEEDED will not reset an existing vehicle.",
     "E_CreativeVehicleSpawnerParent_RespawnFilter.Yes.DisplayName": "Yes"
   }

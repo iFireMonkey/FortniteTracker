@@ -22,9 +22,13 @@
     "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Hides the HUD icon when False.",
     "BoolMetaData.FalseDisplayName": "Off",
     "BoolMetaData.TrueDisplayName": "On",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "On Player Enter",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "On Player Exit",
     "D7A8AF6E425ECAB0858442927BCFF93A": "Remove All Players",
     "C8A4072D491C9059C5CFF1854936E573": "Remove Instigating Player",
     "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Show HUD Beacon",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Signaled when a player enters the Changing Booth Device",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Signaled when a player exits the Changing Booth Device",
     "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Whether or not this device is enabled when the game is started."
   }
 }

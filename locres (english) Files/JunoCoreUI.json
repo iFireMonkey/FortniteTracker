@@ -1,6 +1,5 @@
 {
   "": {
-    "9C9D961E4805C1212C4029AF68A1C0DC": "(Hold)",
     "EAAD64154559805C06FAB5A34ED05C03": "+",
     "6088664A43A2220469544A8FB38DD0DE": "-",
     "D53C0AFD41781274D60256874411534D": "<75_24_T1>{OptionName}</>",
@@ -173,6 +172,13 @@
     "A989A5CF4C0499F047E6528187C64E28": "{button}",
     "59C56F9F4A9AC8291E06BAA40D85F068": "{option name} <75i_20_W>(Default)</>"
   },
+  "JunoWorldDataViewModel": {
+    "CustomTag": "Custom",
+    "RenameCooldownDesc": "Please wait a few minutes and then try again.",
+    "RenameCooldownTitle": "Rename Cooldown",
+    "TimePlayed": "{0} hours played",
+    "WorldName": "{0}'s World {1}"
+  },
   "Juno_UserGeneratedTextStringTable": {
     "Error_Generic_Description": "An error occurred, please try again.",
     "Error_CharacterLimitReached_Title": "Character Limit Reached",
@@ -195,13 +201,6 @@
     "Error_NameNotSupported_Description": "This <ModalEmphasis>name</> is <ModalEmphasis>not supported</> per our <ModalEmphasis>community rules</>.\r\n\r\nPlease try again.",
     "Error_NameChanged_Description_CabinedAccount_WorldName": "This account <ModalEmphasis>cannot</> enter <ModalEmphasis>user generated names</>.\r\n\r\nTherefore, <ModalEmphasis>all custom names</> were <ModalEmphasis>changed</> to default names.",
     "Error_NameAlreadyUsed_Description": "This name is <ModalEmphasis>currently used</> by an existing world.\r\n\r\nPlease try again."
-  },
-  "JunoWorldDataViewModel": {
-    "CustomTag": "Custom",
-    "RenameCooldownDesc": "Please wait a few minutes and then try again.",
-    "RenameCooldownTitle": "Rename Cooldown",
-    "TimePlayed": "{0} hours played",
-    "WorldName": "{0}'s World {1}"
   },
   "NetworkErrors": {
     "ArbitratedWorldOwnerKickedUser": "Your session in this world ended."

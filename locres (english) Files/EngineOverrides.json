@@ -18,10 +18,6 @@
   "BlueprintEditor": {
     "DebugActorNothingSelected": "No debug object selected"
   },
-  "BuildPatchInstaller": {
-    "BuildPatchInstaller_GenericProgress": "Please Wait",
-    "BuildPatchInstaller_DownloadSpeedFormat": "{Current} / {Total} ({Speed}/sec)"
-  },
   "BuildPatchInstallError": {
     "BuildPatchInstallShortError_MoveFileToInstall": "A file access error has occurred. Please check your running processes.",
     "BuildPatchInstallShortError_FileConstructionFail": "A file corruption has occurred. Please try again.",
@@ -57,6 +53,10 @@
     "EBuildPatchProgress_Queued": "Queued",
     "EBuildPatchProgress_Resuming": "Resuming",
     "EBuildPatchProgress_BuildVerification": "Verifying"
+  },
+  "BuildPatchInstaller": {
+    "BuildPatchInstaller_GenericProgress": "Please Wait",
+    "BuildPatchInstaller_DownloadSpeedFormat": "{Current} / {Total} ({Speed}/sec)"
   },
   "CommonBoundActionButton": {
     "OtherPlayerActionFormat": "[P{PlayerNum}] {ActionName}"
@@ -490,6 +490,9 @@
     "ValveIndex_Right_Trigger_Click": "Valve Index (R) Trigger",
     "ValveIndex_Right_Trigger_Axis": "Valve Index (R) Trigger Axis",
     "ValveIndex_Right_Trigger_Touch": "Valve Index (R) Trigger Touch",
+    "VirtualSubCategory": "Virtual",
+    "Virtual_Gamepad_Accept_Key": "Virtual Gamepad Accept",
+    "Virtual_Gamepad_Back_Key": "Virtual Gamepad Back",
     "Vive_Left_Grip_Click": "Vive (L) Grip",
     "Vive_Left_Menu_Click": "Vive (L) Menu",
     "Vive_Left_Trackpad_2D": "Vive (L) Trackpad 2D-Axis",
@@ -543,6 +546,7 @@
     "UpdateMacOSX_Title": "Update macOS",
     "TitleVideoCardDriverIssue": "WARNING: Known issues with graphics driver",
     "DriverDownloadLinkIntel": "https://downloadcenter.intel.com/product/80939/Graphics",
+    "DriverDownloadLinkQualcomm": "https://softwarecenter.qualcomm.com/catalog/item/Windows_Graphics_Driver",
     "DriverDownloadLinkAMD": "https://www.amd.com/en/support",
     "DriverDownloadLinkNVIDIA": "https://www.nvidia.com/download/index.aspx",
     "LatestDriver": "latest driver available",

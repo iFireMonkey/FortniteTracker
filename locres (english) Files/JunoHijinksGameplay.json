@@ -1,5 +1,6 @@
 {
   "": {
+    "7CF675F54AAAF7E59BE02DAB77408A05": "Brings you back from the brink.",
     "00BB690D4E89F43785A3D4A229B6DB61": "Jumbo Health Potion",
     "7C8602704D9895DDF91E619E313F2BF1": "Klom Home Potion",
     "0F2572A7464747102625ADA1C20A47C8": "Learn Stone Proccesor",
@@ -7,10 +8,10 @@
     "6658571740A19DBD7B45048831519148": "Learn Stone Proccesor",
     "D698C5014DE407DFBCD1D8AE7E59ACE5": "Learn Stone Proccesor",
     "519F538E4BA1F07B9CC0568E94FE94B8": "Small Health Potion",
-    "DC0C133C44C2FCDE2C191A8B80DBE979": "So rejuvenating!",
-    "7CF675F54AAAF7E59BE02DAB77408A05": "Will really put a pep in your step!",
-    "1A7EEC024336625F5D77D2BE8F3A1E12": "You'll need an <EmphA>Juicer</>.",
-    "3FBDEF784A8467A63BC5389C3714371A": "You'll need an <EmphA>Juicer</>.",
+    "DC0C133C44C2FCDE2C191A8B80DBE979": "Tastes better than a bandage.",
+    "1A7EEC024336625F5D77D2BE8F3A1E12": "You'll need a <EmphA>Cauldron</>.",
+    "203816BD498C65F400EDCAAFA79DE3F4": "You'll need a <EmphA>Cauldron</>.",
+    "3FBDEF784A8467A63BC5389C3714371A": "You'll need a <EmphA>Cauldron</>.",
     "098D7FC84C27CDA3213B928D7BC06685": "[PH] Armor!",
     "5EBE269C4DF3ACDB4DDCCC83D9320525": "[PH] Armor!",
     "73B283534BB330C6C0FA37BC88FB3964": "[PH] Armor!",
@@ -22,8 +23,7 @@
     "6F68CA2B48F0773A737A338576500926": "[PH] Reflect incoming damage!",
     "AA63055C4747688885933C913B315E2D": "[PH] Steal life on kill!",
     "C47866DF4D1617BCB9170DA533B73B3D": "[PH] Steal life on kill!",
-    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!",
-    "203816BD498C65F400EDCAAFA79DE3F4": "[Ph] Codex hint"
+    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!"
   },
   "Juno_GameplayItemCraftingFormulas_Hijinks": {
     "BaitBucket_T2_Potion_DisplayName": "Bait Bucket",
@@ -44,13 +44,13 @@
     "TropicalPotion_DisplayName": "Sturdy Potion"
   },
   "Juno_GameplayItemToTagMapping": {
-    "FF57B7FC4313F112B1386F8664A02965": "Craft potions."
+    "FF57B7FC4313F112B1386F8664A02965": "A crafting station for brewing potent potions for short-term boosts and benefits."
   },
   "Juno_UpdateItemData": {
+    "EEB808C346F14B845EEE0CA4E7B297E4": "A cure for homesickness.",
     "2CD5F58F4007255FA614DBBCE9CA4BFE": "Drink to heal a lot.",
     "D6B5234C4486FD9C5F42A4905B425B3C": "Drink to heal.",
     "7B2C77B74AC8138554098BBCF7C8966B": "Drink to return to your bed.",
-    "EEB808C346F14B845EEE0CA4E7B297E4": "For those suffering from home sickness.",
     "C6D7D9884CB3989794F920B66D5D5808": "Potions Cauldron",
     "397D26184BD0A822B5F0138724CC12AC": "Time to get crafty!"
   }

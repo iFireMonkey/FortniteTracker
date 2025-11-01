@@ -23,11 +23,8 @@
     "93864B1C474CDA3AB7E1BA9F9DFBAA63": "Skydive Up",
     "05098888491CC33D6FADCCAEA4EC3DB5": "Standard Battle Glider. ",
     "BB44B05C4AB7C54038CC0795459DA452": "Terminal for the Battle Bus fast travel network.",
-    "87E6D50E49343BFE79EA9AAAA7EA73C1": "Travel to Expeditions",
+    "87E6D50E49343BFE79EA9AAAA7EA73C1": "Travel to Brick Life",
     "FFFBA818479EE850114ED6AC1AC595E3": "View Map"
-  },
-  "Juno_CraftingFormulas_BattleBus": {
-    "BusStop_DisplayName": "Bus Stop"
   },
   "JunoBattleBusBlueprintLibrary": {
     "BusStationLettersLong": "Bus Station {0}",
@@ -37,5 +34,8 @@
   },
   "JunoBusTeleportControllerComponent": {
     "OnPlayerThankedBusDriverEvent": "{0} <Yellow>has thanked the bus driver</>"
+  },
+  "Juno_CraftingFormulas_BattleBus": {
+    "BusStop_DisplayName": "Bus Stop"
   }
 }

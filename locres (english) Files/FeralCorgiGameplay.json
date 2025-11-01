@@ -128,8 +128,6 @@
     "A9578E58434122FB09430DBE9471E1B5": "Overdrive",
     "EB67FB3E4C4308225453FA8116E3E32E": "P",
     "F3BD0A124E7A56F7847CDF961AD43A5C": "P2X Optic",
-    "28E2A8614EBF49ACB4F537B4E5FD72DA": "PanX",
-    "7A437DE3487B20A7EC51AA99BB7C384E": "PanY",
     "22055A414DC1E82C879694BD822BD904": "Pistol irons",
     "98636A324C7486285F0EA28A82C3A720": "Plant Device",
     "E81F461646CF64AE0720F79728B846D4": "Plant the Rift Point Device at the Sites to sow chaos",
@@ -145,8 +143,6 @@
     "5B0AB72349413E403923B9AA3A3B110D": "Resource currency",
     "3DD8494C42C3960189A9DD8987F2BC85": "Rift Point Device",
     "889D25434D010331D234C288623DE2C2": "Rift Point Device",
-    "458E30694EE79F002FB23F81B6AE92A0": "ScaleX",
-    "2838A8FB4D1647A175B5509B0EA143B1": "ScaleY",
     "C17121474EB08A10050354AC7237A5AA": "SecondPhase",
     "768D57444CB02C0367E9669D683F18CE": "Semi-Automatic heavy pistol. Large-caliber sidearm with heavy damage, decent magazine size, and slow rate of fire. Now supports weapon mods.",
     "9D26EB434998009195DB10BDA9A0BD1C": "Skip Results",
@@ -209,20 +205,5 @@
     "828BF7714BB5A101CDB95485C9D57045": "foregrip, weaponmod, vertforegrip",
     "90EF21274E60A22578F9F9BD5D599C35": "none",
     "D16C551F4DB3A0C50B32FD98BC9FB097": "none"
-  },
-  "UserOptionDefinition": {
-    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
-    "EFortPhysicsTickRate.Twenty.DisplayName": "20 hz",
-    "EFortServerTickRate.Twenty.DisplayName": "20 hz",
-    "EFortPhysicsTickRate.Thirty.DisplayName": "30 hz",
-    "EFortServerTickRate.Thirty.DisplayName": "30 hz",
-    "EFortPhysicsTickRate.Sixty.DisplayName": "60 hz",
-    "EFortServerTickRate.Sixty.DisplayName": "60 hz",
-    "EFortPhysicsTickRate.UseDefault.DisplayName": "Default (30hz)",
-    "EFortServerTickRate.UseDefault.DisplayName": "Default (30hz)",
-    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "Desired Physics Tick Rate",
-    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Desired Tick Rate",
-    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "The Desired tick rate of the server",
-    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "The Desired tick rate of the server"
   }
 }

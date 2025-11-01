@@ -11,10 +11,6 @@
     "OnPlayerDiedGameEvent": "{0} <Yellow>was eliminated</>",
     "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>was saved by a totem</>"
   },
-  "JunoConversationTask_GetResource": {
-    "Finished": "Finished!",
-    "GetX": "Get {0}"
-  },
   "JunoConversationTaskNode_GiftNPC": {
     "GiftXToNPC": "Gift {ItemDisplayText}"
   },
@@ -28,6 +24,10 @@
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "Not enough for trade. Need x{WantItemCount} {WantItem} to trade for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left.",
     "TradeXForX": "Trade x{WantItemCount} {WantItem} for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Finished!",
+    "GetX": "Get {0}"
   },
   "JunoGameStateComponent_GameEventStream": {
     "GameMemberAdded": "{0} <Yellow>entered world</>",
