@@ -1,0 +1,19 @@
+{
+  "": {
+    "9C93DC34489B985255B2F58CC0BA79B7": "Anchors",
+    "F10DD45D4D9DF89805963AA568985823": "PawnBoombox",
+    "BDBC9EBE4C3484BD9C0F3DA42884FEF4": "RadioStation",
+    "B70E2D874F868085DB6E8EBE1C9E1525": "Size",
+    "2C587E094E1E6B93C850A8817ABC246A": "Stop Boombox"
+  },
+  "Boombox": {
+    "HearOtherPlayersBoomboxes_Description": "Controls whether or not you will hear other players' Jam Tracks. This will not affect Jam Loops played by other players.",
+    "HearOtherPlayersBoomboxes_Name": "Hear Other Players' Jam Tracks"
+  },
+  "FMBoombox": {
+    "FMBoomboxEmoteWheelPlayMusic": "Choose Song",
+    "FMBoomboxDisplayName": "Play",
+    "FMBoomboxEmoteWheelStopMusic": "Stop Song",
+    "BoomboxSourceTextFormat": "{0}'s Jam Track"
+  }
+}

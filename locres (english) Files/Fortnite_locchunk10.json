@@ -250,8 +250,6 @@
     "A7D7F8214B597EAF7E8BA8B0C20F57F0": "Bounty Token",
     "51ABB40640BE2CB61457DDBB4AF7447E": "Brake/Reverse",
     "B03064804039A6A1A1D81FA848EEDE26": "Bring this to a Getaway van!",
-    "55D8057B48D6781F8D3F33BCC89D95E0": "Brute",
-    "6EFA67EF42C1AC6AEA852C9C61C10A79": "Brute",
     "D997C4104C0785D8BB25DF88BD921958": "Brutus' Minigun",
     "5A2AD8984E8CDE3076BF539C15B7A242": "Build-a-Brella",
     "784215E94CA8F3C3C041DCA2EEB45CD0": "Build-a-Brella",
@@ -533,6 +531,8 @@
     "9B0365B1482CAB1A35345B9D35B35CE2": "Create a Juno Theme Game plugin",
     "4BDF7C5C48D330A20F1D139B2D6F941E": "Create a Juno Theme Minimal plugin",
     "7D3C87AC4556C61FD9F76E99CF6711A3": "Create a Mars Theme Game Plugin",
+    "9FC59B9B474C2762C7473A84DD22CF5F": "Create a Special Events Content Event Plugin",
+    "3928ADC641B5C35B232029890216BC23": "Create a Special Events Pre Event Plugin",
     "F311735943CBCE8BCD767F9A0996D661": "Create a Sprout Theme Game Plugin",
     "FCF99EE5470E8ECD1DB22FA576AEB981": "Create a blank plugin for the Juno project.",
     "E806A3B84B22DDCF92AAF2B4C829173": "Create a game feature plugin, for FNE, for housing an ItemDefinition. FNE is automatically added to it, so simply name it the code name and you are good to go. Example: FooBar will become FNEFooBar!",
@@ -645,8 +645,6 @@
     "F333BE784F51ED06927F21AF3F842D14": "Either way, she was the biggest chicken the Island had ever seen.",
     "F6B960F5462C99D53900E2A95EB8D800": "Elder Unlock",
     "61BD3859410640060D5E43B28902F2A6": "Electric Gun (Elephant Garlic)",
-    "5DF8C9A649B6726956B87D8B4C991B11": "Elite Brute",
-    "EEDA9FC2486BE9D37AC0FBAC5216A586": "Elite Fiend",
     "6A96A915478DB8F23D776DA37B916A93": "Emote",
     "46A2F84144C7B6A675F10FAA9BA710AB": "Enhanced Assault Rifle  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Enhanced Compact SMG",
@@ -678,7 +676,6 @@
     "EA5FBDBF42529A17DB0144B1A8C319D4": "Exit (Hold)",
     "F0D454BB47E38B96B4D847803D7AE61B": "Exit (Hold)",
     "F9C9015E4CFCFBE2FB7DF98EBA901296": "Experimental Fun Coins",
-    "CA403EB04C520CE6C0B7349AE26E318F": "Exploding Brute",
     "45A2284244C92803838E748E68BC900C": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
     "5DC8F69742B3B5378ED87BAD7B27CA27": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
     "F1F16B154B5F7FA0CACF95A178BF0E36": "Explosive Weapon: Fires long-range rockets that damage enemies in an area.",
@@ -696,8 +693,6 @@
     "C8074EE14AC9A4E1D5B5AF8809072D41": "FOUNDERS PACK 4",
     "D3FB59734B08E81911D0A19A44AE4ACA": "FOUNDERS PACK 5",
     "F0CE215A4C43A35A4F9FAA975385DD4B": "Fabric Device",
-    "0E2ED4144B5E0092141A4088A129CDD7": "Fiend",
-    "20ADAB204B68E7D196F6E5B0C1C834C5": "Fiend",
     "60D1D03745EB8ABC351FB88EF780BB3E": "Figment Consumable Template",
     "1A7C84D84EA6F090235516B28604430B": "Figment Plugin Template",
     "83709366496215B44F9A2ABFB16705E2": "Figment Weapon Template",
@@ -912,8 +907,6 @@
     "D1031344410A9E091F83799294FACA13": "Hunting Rifle",
     "D29EE9294C3C6ACC03577885D6B34262": "Hunting Rifle",
     "DFD2853F433A8DA06177BFAAF22D0CED": "Hunting Rifle",
-    "373148A84286304FAD517FB94FE89900": "Husky",
-    "F3EC1ECC4CABEC7A2B010E88A7E1839C": "Husky",
     "65B9AF3B4DC62CA7C55A519531EB2644": "I am a scientist aboard the USG Ishimura. I have...concerns.",
     "91834C344F9480D237BF18AB4DD8B1C3": "I am darkness, borne of the night. And I... am... unstoppable. ",
     "A17E930B4CE011719C063D8AA429504D": "I bet it would be super fun to explore the island with you.",
@@ -1095,7 +1088,6 @@
     "5A58D0544A3F92301E984A8384EA0FC0": "Medkits grant +100 health",
     "6E95902546C4C263CECF0296184612CF": "Medkits grant +100 health",
     "9E70D5EB433A8DE0222C6DA5865807BF": "Medkits grant +100 health",
-    "8510C81B48A44A3B1E36A89A6EBA7115": "Mega Brute",
     "1994D3B64B4A2DB95973539A22D9954E": "Melee Plank Stick Branch",
     "F4A4C46E4F9903D5DC48B2B938D31C05": "Melee Torch Light",
     "299611F34A25E91C690A2C92C252B793": "Menu",
@@ -1241,7 +1233,6 @@
     "4D3C7D8E473E799262A4A690E18C9AEA": "Plugin template for a generic event screen",
     "0DC3A5C3448BD9BA718EC0B39C98504C": "Plunger Bow",
     "6799C1244EBA4357FBE79788D3D27D1E": "Poison Dart Trap",
-    "33F3BC244D0D6BCB5C18B394E1444945": "Poison Fiend",
     "09BC060C4709B5E30DB790861955D110": "Power",
     "4CBE793B4385D3726F1EA5950991BC9C": "Power",
     "E2B371CF49B4ED502BCBB7A50141FEE9": "Powerhouse Challenges",
@@ -1287,7 +1278,6 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "Put that fire out!",
     "4253CE934E3EFF13CA95C787B6D46641": "Put together your hands for Erisa, our new Island Summer Tennis Champion!",
     "43088BA143F2B6BCAEE378847172BE8C": "Quadcrasher",
-    "CC13E7A44B19B6541560D085C426791D": "Quadcrasher",
     "24034CD84B1D10C83560F8902AF33DC2": "Quests",
     "280019E146742BEA12E9E897FA18D7D4": "Quests",
     "31F60738447C00A236E84A89CEB3B03A": "Quests",
@@ -1303,7 +1293,6 @@
     "43E272F8443991243556F0AB98EC9BBE": "REALITY STONE",
     "16C7863A4929CA41BBBB67BC7A3CD14A": "Ranged Bow",
     "E6EE95714DC76EF72E9B299D4F14A675": "Ranged Bow ExplosiveBow",
-    "48A93B144C613DF7A97944BE79B974EC": "Ranged Fiend",
     "1CBC3F3747EECA210049B99100CF9AFC": "Ranged Weapon",
     "6183B4BC472EEE87F5ABEF888ADB5751": "Ranged Weapon",
     "DF8DE162471A4D50B1379A9F5B67392A": "Ranged Weapon",
@@ -1483,6 +1472,8 @@
     "C2AC491F482A085554AF0AAFC289DC0C": "Someday, the Great Bird may fly over this Island again.",
     "0784C09346B728C02D1AF5902E492822": "Sparks Season Pass",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Sparks Spotlight Template",
+    "9D48F9764C719D0B02B9DDB41BEB0D4A": "Special Event Content Template",
+    "17963E294CB447710C2F35B9F6BF0538": "Special Event Pre Template",
     "9C5A09D44566E7D4522C3AB3198B91E4": "Special Offer",
     "2AFFFFCB4CA21C10E5074ABDF38CDD4B": "Special limited time offer on 10 tiers (100 stars) to advance your Battle Pass",
     "55D4B3644FBD3399D9DA5A972298FEFB": "Special limited time offer on 10 tiers (100 stars) to advance your Battle Pass",
@@ -2543,9 +2534,6 @@
     "MiscOrTail": "MiscOrTail",
     "UnknownPart": "Unknown Part"
   },
-  "CharacterPersonaAssetBindingDataTableFactory": {
-    "CharacterPersonaAssetBindingDataTableFactory": "Character Persona Asset Binding Data Table"
-  },
   "ChatMessages": {
     "SocialChatRoom_JoinedParty": "Joined Party Chat.",
     "SocialChatRoom_JoinedTeam": "Joined Team Chat."
@@ -2582,8 +2570,8 @@
   },
   "CilantroText": {
     "CilantroTitle": "TIME LIMITS",
-    "CilantroNotificationMinutes": "You have {RemainingTime} minutes left",
-    "CilantroNotificationSeconds": "You have {RemainingTime} seconds left"
+    "CilantroNotificationMinutes": "You have {0} minutes left",
+    "CilantroNotificationSeconds": "You have {0} seconds left"
   },
   "CollectionBook": {
     "SecondaryNotificationExpired Reason": "The notification server failed to respond. Please try again later."
@@ -3055,6 +3043,12 @@
   },
   "DiscoverHomespace": {
     "DownloadStartedTooltip_Description": "We've started downloading the content to jump into {0}! You can manage your downloads at any time from your Library."
+  },
+  "DiscoverReduxTabEmptyResults": {
+    "EmptyFollowingTabSubtitle": "Favorite islands and follow creators from Discover",
+    "EmptyRecentsTabSubtitle": "Islands you’ve played recently will show up here. Discover something new.",
+    "EmptyFollowingTabTitle": "Nothing to see yet!",
+    "EmptyRecentsTabTitle": "Ready to Play?"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -3927,6 +3921,7 @@
     "ToggleInventory": "Toggle Inventory",
     "ToggleFullScreenMap": "Toggle Map",
     "TogglePickAxe": "Toggle Pickaxe",
+    "ToggleQuestVOMute": "Toggle Quest VO Mute",
     "TrapSlot": "Trap",
     "TrapPicker": "Trap Equip / Picker",
     "TetherExit": "Unhook",
@@ -4364,6 +4359,11 @@
   "FortAthenaVehicleDashboardWidget": {
     "CustomizedVehicleNameOwnedText": "My\n {0}",
     "CustomizedVehicleNameUnownedText": "{1}'s\n {0}"
+  },
+  "FortAuroraOfferVM": {
+    "DisplayType_Bundle": "Bundle",
+    "DisplayType_Consumable": "Consumable",
+    "DisplayType_Durable": "Durable"
   },
   "FortBladeMenu_MainMenu": {
     "LetoCannotSwitchSubgamesTitle": "Can't Change Game Modes",
@@ -6445,7 +6445,6 @@
     "AutoHurdle_Name": "Hurdle Activation",
     "FilterControllerVibrationFromGyro_Description": "If controller's vibration feature is enabled, add a narrow filter to reduce camera vibration. This can add a tiny bit of input latency to gyro aiming. This filter is automatically disabled if the Vibration Feature is disabled in the Controller Options tab.",
     "CrossplayPreference_Description": "If enabled you can participate in parties and game modes with other platforms. If disabled, some game modes will be unavailable, and others may have Limited Pools with longer queue times, lower match populations, or higher latency.",
-    "EnableJamQuantization_Description": "If enabled, Jam Loops begin playback on the next downbeat (beat 1 of the bar) or pickup, whichever comes first. If disabled, Jam Loops begin playback on the next beat or pickup.",
     "HoldToSwapPickup_Description": "If enabled, current weapon can be swapped with pickup on the ground by holding use.",
     "SwapFireInputsDualWieldShotgunSMG_Description": "If enabled, fire buttons on mouse will be swapped for Pump & Dump weapons.",
     "GyroButtonHoldTime_Description": "If the Gyro Modifier button is shared with a short-press action, this is how long the button needs to be held to skip the short-press action.",
@@ -7048,7 +7047,6 @@
     "FlickStickDisablesStandardStickSettings": "Standard stick settings are disabled because Flick Stick is enabled in the Touch & Motion tab.",
     "ColorConfiguration_Action": "Start",
     "FullRangeTest_Action": "Start",
-    "EnableJamQuantization_Name": "Start Jam Loops at Optimal Times",
     "TriggerHapticsStartPosition_Name": "Start Position",
     "ShowMarketingInvitesPush_DescriptionMobile": "Stay up to date with what is happening in Fortnite! Get notified about new seasons, limited time events, announcements and promotions.",
     "GyroSimpleSteadying_Name": "Steadying",
@@ -8069,6 +8067,8 @@
     "Feb": "Feb",
     "February": "February",
     "GenitiveFebruary": "February",
+    "InviteShareMinorDescription_Quest": "Hey! Come join me on a Fortnite quest! We can play on mobile!",
+    "InviteShareDescriptionFmt_Quest": "Hey! Come join me on a Fortnite quest! We can play on mobile! My username is {0}.",
     "InviteShareDescriptionFmt": "I'm {0} on Fortnite. Add me and let’s party up!",
     "Jan": "Jan",
     "GenitiveJanuary": "January",
@@ -8733,9 +8733,6 @@
     "Cancel": "Cancel",
     "OK": "OK"
   },
-  "HUDGamePhaseChangingBase": {
-    "PlaylistTitleAndDescription": "{0} - {1} "
-  },
   "HUDLayoutToolV2": {
     "HUDLayoutProfile_NewProfile": "New Layout Profile"
   },
@@ -9349,6 +9346,7 @@
   "IslandTagInternal": {
     "ByLegoTag": "By LEGO",
     "CompetitiveRaceTag": "Competitive Race",
+    "sponsored_row_info": "Developers pay to promote their islands in the Sponsored row. The placement of islands in the Sponsored row is influenced by a bidding process, which is based on the amount the developer bids and the number of developers involved.",
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "KPop Demon Hunters",
     "LegoIslandTag": "LEGO Island",
@@ -9361,7 +9359,8 @@
     "friendrecommendations_info": "This island is being recommended to you based on what your friends have recommended.\n\n Should you want to, you can opt-out of receiving personalized recommendations in Settings by modifying the “Allow Personalization of Discover Recommendations” setting under Account and Privacy->Gameplay Privacy. If you opt-out, you will continue to see recommendations, but they will not be personalized.",
     "recommendations_info": "This island is being recommended to you based on your recently played games and your favorited Collections. It considers your recent play history and the play history of other opted-in users to recommend content to you.\n\n If you want to, you can opt-out of receiving personalized recommendations in Settings by modifying the “Allow Personalization of Discover Recommendations” setting under Account and Privacy->Gameplay Privacy. If you opt-out, you will continue to see recommendations, but they will not be personalized.\n\n You can favorite Collections in Discover and unfavorite Collections in your Library.",
     "interests_info": "This island is being recommended to you because you asked to see more games like your favorited Collections. It does not consider your play history.\n\n If you want to, you can favorite Collections in Discover and unfavorite Collections in your Library.",
-    "recommendations_title": "WHY YOU ARE SEEING THIS"
+    "recommendations_title": "WHY YOU ARE SEEING THIS",
+    "sponsored_row_title": "WHY YOU ARE SEEING THIS"
   },
   "ItemDisassembleRestrictionReasons": {
     "InnatelyCannotDisassemble": "This item does not disassemble.",
@@ -10090,6 +10089,7 @@
     "UnexpectedConsoleAuthFailure": "Unexpected failure while associating your account for {0}.",
     "GeneralLoginFailure": "Unknown login failure",
     "EulaCheck": "Verifying EULA...",
+    "CheckLocalUserIsStoreUser": "Verifying the store user...",
     "WaitingRoomWaiting": "Waiting in queue for {0} ...",
     "PremiumAccountName_XboxOne": "Xbox Live Gold",
     "BannedFromGame": "You are currently banned from {GameName}",
@@ -10535,9 +10535,10 @@
   "SFortCompanionTool": {
     "PunchCardBundleDescription": "Bonus Quests",
     "CompanionToolSettings": "Companion Settings",
-    "PunchCardQuestDescription": "Complete Companion Quest",
     "CompanionToolCreate": "Create Companion Assets",
-    "RewardsQuestDescription": "Earn Companion XP in any experience"
+    "RewardsQuestDescription": "Earn Sidekick Points with any [Name]",
+    "CompanionHeaderDescriptionTextLabel": "Sidekick Points are earned by spending time with your Sidekick equipped in compatible experiences.",
+    "CompanionBundleHeaderTextLabel": "Sidekick Rewards"
   },
   "SFortHealthBarComponentWidget": {
     "Health Display Format": "HP : {0} / {1}"
@@ -10566,6 +10567,7 @@
     "Status_LockedByDependentRewards": "Claim base rewards",
     "Status_LockedByRewardsInCategory": "Claim {Count} more rewards in {CategoryName}",
     "Status_LockedByRewardsInTrack": "Claim {Count} more rewards on Page {IndexPage}",
+    "Status_WeeklyQuestCompleteWeekly": "Complete Weekly Quests: {CurrentObjective}/{GoalObjective}",
     "Status_WeeklyQuestEarnLevels": "Earn {levels} levels",
     "Status_LockedNotAffordableAutoClaimOn": "Earn {levels} {levels}|plural(one=level, other=levels) to auto-claim",
     "Status_LockedFreeRewardNoCurrency": "Level up {times} {times}|plural(one=time, other=times) to claim reward",
@@ -10865,10 +10867,15 @@
     "PurchaseFailedToStart": "We've encountered a critical error starting your purchase. Please try again later.",
     "PurchaseFailedToStartDueToMissingPrices": "We've encountered a critical error starting your purchase. Please try again later.",
     "PurchaseHasNoNewEntitlements": "We've encountered a critical error with your purchase. Our team has been dispatched to resolve the issue. We will confirm when your purchase has been completed!",
+    "MismatchedLocalUserAndStoreUser": "Your Xbox account is different from your Microsoft Store account. You will not be able to make new purchases unless you sign into both the Xbox app and Microsoft Store with the same account.",
     "EULAFormat": "{0}\n\n{1}"
   },
   "UFortMissionTimerComponent": {
     "Timer Label Text": "Time Remaining"
+  },
+  "UFortOnlineAccount": {
+    "MismatchedLocalUserAndStoreUserTitle": "Account Mismatch",
+    "MismatchedLocalUserAndStoreUser": "Your Xbox account is different from your Microsoft Store account. You will not be able to make new purchases unless you sign into both the Xbox app and Microsoft Store with the same account."
   },
   "UFortProjectPlayComponent": {
     "OnServerVerseRuntimeErrorEncounteredTitle": "The server encountered a Verse runtime error!",
@@ -10981,6 +10988,7 @@
     "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
     "PrerequistitesInvalidNoValidPreReqType": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid Prereq Type.",
     "PrereqQuestInvalidNotNeededPFComponent": "Journal data table [row {0}], Prerequistites Index [{1}] has a PersistenceFramework component, this is not needed.",
+    "PrereqQuestInvalidQuestSoftPtr": "Journal data table [row {0}], Prerequistites Index [{1}] has an invalid Quest SoftPtr [{2}].",
     "PrereqTownbuilderInvalidUnsupportedType": "Journal data table [row {0}], Prerequistites Index [{1}] has an unsupported type [{2}], please update this validator.",
     "PrereqQuestInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] has no QuestDef.",
     "PrereqTownbuilderInvalidRCButEmptyRL": "Journal data table [row {0}], Prerequistites Index [{1}] references a ResourceCost, but the {2} has an empty ResourceList.",

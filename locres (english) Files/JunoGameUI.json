@@ -94,6 +94,7 @@
     "DDA2CB314A635E94996DB38E9AA2076C": "Aim",
     "05BB0B024A9CC612FFD341878845FD5C": "Attack",
     "6CAD2C464F52C2A4BC1978915F6C44C1": "Attack",
+    "A7F49F994162C9446F54C1BEF5665D84": "Attack",
     "2BBDEC3347C6897B0132C6A670FE2CCE": "Attack / Throw (Hold)",
     "AAA5E9DB405AAFB8A840D9B258E6C278": "Back to Lobby",
     "674C9FE34EC56052187E449FCBD9EEEC": "Bed is too exposed",
@@ -161,6 +162,7 @@
     "5864CB7E4302A154B0BBAFAB7A4D5F89": "You were eliminated {Reason}.",
     "B59F1921414389F90AD279BAC8812C86": "You were eliminated.",
     "B0994B6B4A8FEA140E6614BE1E816705": "Your totem has been used to <TipLight>save you from elimination.</>",
+    "0E27F474423C53FEEDC02FA019F07485": "[ Primary & Secondary actions ]",
     "83E6512B4D89F1D46C80F6A1AD47AC3C": "by a friend",
     "2AC7C255482FF1BA73B37887D86786FB": "by burning",
     "DE75443D4FD190B0E88193B24C425F6F": "by explosive damage",
@@ -181,6 +183,7 @@
     "FCAEE0F14E1027758EE21BA012FB53C0": "{Placeholder}",
     "D45D8CD945E663C5F4700FA1852EEA2C": "{Placeholder}\r\n<BindSmall>Double tap</>",
     "4289CD44470201E50A5CF0A2ABD149B7": "{Placeholder} <BindSmall>Double tap</>",
+    "ADE6777344A31D22DD810A825E5E2771": "{PrimaryAction} | {SecondaryAction}",
     "BB3234A74FB919CF713C518016AB37FB": "{Reticle Status}",
     "63FADAE64892503F92541A9B7C82B032": "{Setting}You may exit now and <TipLight>start a new adventure</>.",
     "96DCFDC848A8D4E4050517A5B4A9E19B": "{X}  {Y}  {Z}"
