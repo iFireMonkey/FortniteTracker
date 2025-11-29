@@ -613,6 +613,7 @@
     "Creative_NPC_ChangePatrolPathTarget.On Spawn.DisplayName": "On Spawn",
     "Device_GuardSpawner_V2_C.On Spawned.DisplayName": "On Spawned",
     "HenchmanDevice_Spawner_C.On Spawned.DisplayName": "On Spawned",
+    "Device_GuardSpawner_V2_C.OnSpawnedWithRequestID.DisplayName": "On Spawned with Request ID",
     "Device_GuardSpawner_V2_C.On Suspicious.DisplayName": "On Suspicious",
     "Device_GuardSpawner_V2_C.On Target Lost.DisplayName": "On Target Lost",
     "Creative_NPC_ChangePatrolPathTarget.On Timer.DisplayName": "On Timer",
@@ -643,6 +644,7 @@
     "Device_GuardSpawner_V2_C.On Hired.Description": "Sends an event to linked device when a Guard from this device is hired by player.",
     "Device_GuardSpawner_V2_C.On Target Lost.Description": "Sends an event to linked device when a Guard from this device loses sight from its target.",
     "Device_GuardSpawner_V2_C.On Spawned.Description": "Sends an event to linked device when this device spawns a Guard",
+    "Device_GuardSpawner_V2_C.OnSpawnedWithRequestID.Description": "Sends an event to linked device when this device spawns a Guard",
     "Device_GuardSpawner_V2_C.Set Guard Hireable.DisplayName": "Set Guard Hireable",
     "HenchmanDevice_Spawner_C.Set Guard Hireable.DisplayName": "Set Guard Hireable",
     "Device_GuardSpawner_V2_C.Set Guard Not Hireable.DisplayName": "Set Guard Not Hireable",
@@ -710,8 +712,8 @@
     "Device_GuardSpawner_V2_C.bAllowHireConversation.Description": "Whether to allow hiring conversation or not. Set to NO will only allow guards to be hired or dismissed through signals.",
     "Device_GuardSpawner_V2_C.Dismiss All Hired Guards.Description": "Will dismiss all hired guards from this device",
     "HenchmanDevice_Spawner_C.Dismiss All Hired Guards.Description": "Will dismiss all hired guards from this device on receiving a signal from the selected channel.",
-    "HenchmanDevice_Spawner_C.Dismiss Instigator Hired Guards.Description": "Will dismiss any hired guards from this device  that belong to the instigating player on receiving a signal from the selected channel.",
     "Device_GuardSpawner_V2_C.Dismiss Instigator Hired Guards.Description": "Will dismiss any hired guards from this device that belong to the instigating player",
+    "HenchmanDevice_Spawner_C.Dismiss Instigator Hired Guards.Description": "Will dismiss any hired guards from this device that belong to the instigating player on receiving a signal from the selected channel.",
     "Device_GuardSpawner_V2_C.SpawnOnPatrolPathGroup.Description": "Will spawn Guard on the selected Patrol Path Group."
   }
 }

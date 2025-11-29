@@ -1,4 +1,35 @@
 {
+  "SproutDynamicOptions": {
+    "AvailableOptions": "A single integer indicating the number of dialogue choices to generate (more is better).",
+    "NulledOption": "NOT USED. IGNORE.",
+    "OptionFive_NPCResponse": "The NPC's full dialogue response, triggered only if the player selects 'OptionFive' (if used).",
+    "OptionFour_NPCResponse": "The NPC's full dialogue response, triggered only if the player selects 'OptionFour' (if used).",
+    "OptionOne_NPCResponse": "The NPC's full dialogue response, triggered only if the player selects 'OptionOne' (if used).",
+    "OptionSix_NPCResponse": "The NPC's full dialogue response, triggered only if the player selects 'OptionSix' (if used).",
+    "OptionThree_NPCResponse": "The NPC's full dialogue response, triggered only if the player selects 'OptionThree' (if used).",
+    "OptionTwo_NPCResponse": "The NPC's full dialogue response, triggered only if the player selects 'OptionTwo' (if used).",
+    "MainQuestion": "The central question the NPC asks, which the player will answer by choosing one of the options.",
+    "OptionFive": "The text for the fifth dialogue option presented to the player. This is a potential answer to the 'MainQuestion'.",
+    "OptionOne": "The text for the first dialogue option presented to the player. This is a potential answer to the 'MainQuestion'.",
+    "OptionFour": "The text for the fourth dialogue option presented to the player. This is a potential answer to the 'MainQuestion'.",
+    "OptionTwo": "The text for the second dialogue option presented to the player. This is a potential answer to the 'MainQuestion'.",
+    "OptionSix": "The text for the sixth dialogue option presented to the player. This is a potential answer to the 'MainQuestion'.",
+    "OptionThree": "The text for the third dialogue option presented to the player. This is a potential answer to the 'MainQuestion'."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Critically, base your choice only on the immediate line of dialogue, not the NPC's current primary emotion; choose which feeling to adjust (Happy, Sad, Angry, Scared, Neutral), which plays an animation and adds to that feeling's score, but the NPC's primary emotion will be whichever is highest overall, where Happy influences positivity, Sad a somber demeanor, Angry confrontation, and Scared fear.",
+    "FeelingChangeValue": "Set the intensity of the FeelingChange; since feelings decay quickly, the value must match the emotional weight of the moment: for simple, casual chat, use a subtle value between 0-20 (with most simple greetings closer to 0); for meaningful events or dialogue requiring a player action, use a moderate value between 20-60; and for major, pivotal moments (like a betrayal, fulfilling a quest, or receiving a perfect gift), use a strong value between 60-100.",
+    "DialogueDescription": "The line of dialogue you want to have performed."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Thinking..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Thinking..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Thinking..."
+  },
   "Sprout_FortItemDefValidator": {
     "UnregisteredPrimaryAssetError": "The Item Def:'{0}' is not registered with the Game Feature Data and will not be locatable.",
     "DuplicatePrimaryAssetError": "Two different assets share the same primary asset Id '{0}' and '{1}'"

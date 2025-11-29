@@ -210,7 +210,7 @@
     "Device_PlayerCounter_C.Invert Team Selection.Description": "If set, the device will count all but the selected team.",
     "Device_PlayerCounter_C.bUseZone.Description": "If using Zone, will show options to define a region to only count players within that region. If not, everyone in the island will be counted.",
     "Device_PlayerCounter_C.bIncludeSpectators.DisplayName": "Include Spectators",
-    "Device_PlayerCounter_C.Increment Target Player Count.Description": "Increases  the number of players in the Target Count by 1 when receiving this signal. Will immediately trigger a new comparison.",
+    "Device_PlayerCounter_C.Increment Target Player Count.Description": "Increases the number of players in the Target Count by 1 when receiving this signal. Will immediately trigger a new comparison.",
     "Device_PlayerCounter_C.Increment Target Player Count.DisplayName": "Increment Target Player Count",
     "Device_PlayerCounter_C.Info Panel Icon.DisplayName": "Info Panel Icon",
     "Device_PlayerCounter_C.Info Panel Visible.DisplayName": "Info Panel Visible",

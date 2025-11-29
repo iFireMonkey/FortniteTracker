@@ -1,0 +1,9 @@
+{
+  "OnlineSubsystem": {
+    "FailedToRetrievePurchasesWithCode": "Unable to verify purchase with {ServiceName} services; purchased content may be temporarily unavailable. {ServiceName} Error Code: {ErrorCode}",
+    "RequestRateLimited": "Your request would exceed the rate-limit, and has been cancelled. Please try again later."
+  },
+  "OnlineSubsystemPS4": {
+    "OnlineServiceName": "PlayStation{0}Network"
+  }
+}

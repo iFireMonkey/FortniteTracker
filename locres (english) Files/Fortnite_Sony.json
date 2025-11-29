@@ -1,0 +1,19 @@
+{
+  "FSonyPlatformEditorModule": {
+    "ConfigurationCategory": "Configuration",
+    "ContentIDsCategory": "Content IDs",
+    "ContentIDsFilterString": "Content IDs",
+    "GenerateButton": "Generate",
+    "ContentIDsIsDefault": "Is Default",
+    "ContentIDsNoneDefined": "No Content IDs defined."
+  },
+  "MatchmakingUtility": {
+    "CrossplayAccountNamePSN": "Playstation Network User"
+  },
+  "OnlineSubsystem": {
+    "RequestRateLimited": "Your request would exceed the rate-limit, and has been cancelled. Please try again later."
+  },
+  "OnlineSubsystemSony": {
+    "OnlineServiceName": "PlayStation{0}Network"
+  }
+}

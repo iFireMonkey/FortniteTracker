@@ -145,7 +145,7 @@
     "Device_StreamingRadio_V2_C.Station Three ID.Description": "The reference Streaming ID for Station Three.",
     "Device_StreamingRadio_V2_C.Station Two ID.Description": "The reference Streaming ID for Station Two.",
     "Device_StreamingRadio_V2_C.Starting Station.Description": "The station this radio will be tuned to on start.",
-    "Device_StreamingRadio_V2_C.Synchronization.Description": "This determines how the radio will behave when changing stations, playing or stopping.  Global will synchronize playback to a universal timestamp across all islands, Island will affect all players on the current island and Player will only adjust for the individual player.",
+    "Device_StreamingRadio_V2_C.Synchronization.Description": "This determines how the radio will behave when changing stations, playing or stopping. Global will synchronize playback to a universal timestamp across all islands, Island will affect all players on the current island and Player will only adjust for the individual player.",
     "Device_StreamingRadio_V2_C.Visible During Game.DisplayName": "Visible During Game",
     "Device_StreamingRadio_V2_C.Volume.DisplayName": "Volume"
   }

@@ -39,6 +39,7 @@
     "NeedsUpdateMessage": "An update is required to continue. Please restart Fortnite to download the latest patch.",
     "FortnitePreLoadScreen.PatchNotYetAvailableTitle": "Available Not Yet Available",
     "FortnitePreLoadScreen.Initializing": "Connecting",
+    "FortnitePreLoadScreen.LowDataErrorConfirmButton": "Continue download",
     "FortnitePreLoadScreen.OnCellularErrorButton": "Continue download",
     "FortnitePreLoadScreen.CellDataErrorButton_Download": "DOWNLOAD NOW",
     "FortnitePreLoadScreen.GenericErrorTitle": "Error",
@@ -70,7 +71,9 @@
     "FortnitePreLoadScreen.PatchAvailableTitleIOS": "Update Fortnite",
     "FortnitePreLoadScreen.UpdateActive": "Updating",
     "FortnitePreLoadScreen.CellularDataWarningCaption": "Warning",
+    "FortnitePreLoadScreen.LowDataErrorTitle": "Warning",
     "FortnitePreLoadScreen.SuggestedOSUpdateWarningBody": "We recommend updating to the latest OS to improve your Fortnite experience.",
+    "FortnitePreLoadScreen.LowDataErrorBody": "You are about to download Fortnite content while Low Data Mode setting is enabled on your device. This will require downloading approximately {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "You are about to use cellular data to download Fortnite content. This will require downloading approximately {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "You need an additional {SpaceAdditional} to install Fortnite.\n\nFree up some room on your device and try again.\n\n1. Go to Settings\n\n2. Select General\n\n3. Select iPhone/iPad Storage\n\n4. Remove other apps or media\n",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"

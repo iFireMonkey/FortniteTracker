@@ -1,0 +1,56 @@
+{
+  "FPS4MediaTracks": {
+    "StreamDisplayNameFormat": "Stream {0}"
+  },
+  "FPS4PlatformEditorModule": {
+    "PackagingTargetSettingsName": "PlayStation 4 - Packaging",
+    "ProjectTargetSettingsName": "PlayStation 4 - Project",
+    "PackagingTargetSettingsDescription": "PlayStation 4 Packaging Settings",
+    "ProjectTargetSettingsDescription": "PlayStation 4 Project Settings"
+  },
+  "Morpheus": {
+    "CCommandText_IPD": "Morpheus specific extension.\n\" \"Shows or changes the current interpupillary distance in meters.",
+    "CCommandText_Show": "Morpheus specific extension.\n\" \"Shows the current value of various stereo rendering params."
+  },
+  "MorpheusEditor": {
+    "RuntimeSettingsDescription": "Configure the Morpheus plugin",
+    "RuntimeSettingsName": "Morpheus"
+  },
+  "MoveController": {
+    "PSMoveSubCategory": "PlayStation Move",
+    "PSMove_Left_Circle": "PlayStation Move (L) Circle",
+    "PSMove_Left_Cross": "PlayStation Move (L) Cross",
+    "PSMove_Left_Move": "PlayStation Move (L) Move Button",
+    "PSMove_Left_Select": "PlayStation Move (L) Select",
+    "PSMove_Left_Square": "PlayStation Move (L) Square",
+    "PSMove_Left_Start": "PlayStation Move (L) Start",
+    "PSMove_Left_Triangle": "PlayStation Move (L) Triangle",
+    "PSMove_Left_Trigger": "PlayStation Move (L) Trigger",
+    "PSMove_Left_TriggerAxis": "PlayStation Move (L) Trigger Axis",
+    "PSMove_Right_Circle": "PlayStation Move (R) Circle",
+    "PSMove_Right_Cross": "PlayStation Move (R) Cross",
+    "PSMove_Right_Move": "PlayStation Move (R) Move Button",
+    "PSMove_Right_Select": "PlayStation Move (R) Select",
+    "PSMove_Right_Square": "PlayStation Move (R) Square",
+    "PSMove_Right_Start": "PlayStation Move (R) Start",
+    "PSMove_Right_Triangle": "PlayStation Move (R) Triangle",
+    "PSMove_Right_Trigger": "PlayStation Move (R) Trigger",
+    "PSMove_Right_TriggerAxis": "PlayStation Move (R) Trigger Axis"
+  },
+  "PreviewPlatform PS4": {
+    "PreviewIconText_PS4": "PS4",
+    "PreviewMenuText_PS4": "PS4",
+    "PreviewMenuTooltip_PS4": "Preview using PS4 device profile."
+  },
+  "PS4MediaFactoryModule": {
+    "PS4MediaSettingsDescription": "Configure the PS4 Media plug-in.",
+    "NoSchemeFound": "No URI scheme found",
+    "MediaPlayerDisplayName": "PS4 AvPlayer",
+    "PS4MediaSettingsName": "PS4 Media",
+    "SchemeNotSupported": "The URI scheme '{0}' is not supported",
+    "ExtensionNotSupported": "The file extension '{0}' is not supported"
+  },
+  "ShaderPlatform SP_PS4": {
+    "FriendlyShaderPlatformName_PS4": "PlayStation 4"
+  }
+}

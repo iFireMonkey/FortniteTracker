@@ -2,6 +2,9 @@
   "AssetTypeActions": {
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno Landscape Custom Material"
   },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "Enable Juno Landscape Material Expressions"
+  },
   "JunoLandscape": {
     "Juno": "Juno"
   }
