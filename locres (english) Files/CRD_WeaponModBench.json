@@ -25,7 +25,7 @@
     "ECreativeClassType.Any.DisplayName": "Any",
     "ECreativeTeamType.Any.DisplayName": "Any",
     "ClassSlotMetaData.DisplayPattern": "Class {0}",
-    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Determines if the item’s rarity is displayed to the player if they are missing resources.",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Determines if the item's rarity is displayed to the player if they are missing resources.",
     "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Determines if this device should be enabled when the minigame starts.",
     "Device_WeaponModBench_C.ModCost.Description": "Determines the cost to equip a mod to a moddable weapon. This value applies to all selectable mods. Do Not Override uses the costs that Battle Royale uses and is subject to change.",
     "Device_WeaponModBench_C.Allowed Class.Description": "Determines which class is able to use this Weapon Mod Bench.",

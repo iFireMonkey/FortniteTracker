@@ -1,6 +1,7 @@
 {
   "": {
-    "E388F6954FCA2BB059B0CC88267FB542": "FTUE Modal couldn't find widget alias for {alias}. Please provide one in game mode's plugin.",
-    "D05FCB494076FED68D50B9943D1E905C": "FTUE Modal must be an Activatable widget: {widget}"
+    "E388F6954FCA2BB059B0CC88267FB542": "FTUE Modal - Couldn't find widget alias for {alias}. Please provide one in game mode's plugin.",
+    "D05FCB494076FED68D50B9943D1E905C": "FTUE Modal must be an Activatable widget: {widget}",
+    "93E17E724AD2949B023EF3A643457DFE": "FTUE Modal received invalid BindTo object: {object}"
   }
 }

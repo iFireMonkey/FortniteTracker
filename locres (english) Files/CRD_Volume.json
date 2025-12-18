@@ -44,12 +44,14 @@
     "BoolMetaData.TrueDisplayName": "On",
     "Device_Volume_C.OnEnter.DisplayName": "On Enter",
     "Device_Volume_C.OnExit.DisplayName": "On Exit",
-    "Device_Volume_C.OnPhysicsEnter.DisplayName": "On Physics Enter",
-    "Device_Volume_C.OnPhysicsExit.DisplayName": "On Physics Exit",
+    "6DD2AF684655E34B66328390DE384945": "On Physics Prop Enter",
+    "C3DA574346387309C3090E91C12AD4A0": "On Physics Prop Exit",
     "Device_Volume_C.PhysicsEventsEnabled.DisplayName": "Physics Events Enabled",
     "Device_Volume_C.PlayerEventsEnabled.DisplayName": "Player Events Enabled",
     "Device_Volume_C.SelectedClass.DisplayName": "Selected Class",
     "Device_Volume_C.SelectedTeam.DisplayName": "Selected Team",
+    "Device_Volume_C.OnPhysicsEnter.Description": "Signaled when a Physics Prop enters the Volume. Returns the Physics Prop that triggered the event.",
+    "Device_Volume_C.OnPhysicsExit.Description": "Signaled when a Physics Prop exits the Volume. Returns the Physics Prop that triggered the event.",
     "EFNEVolumeShapeTypeEnum.SphereVolume.DisplayName": "Sphere",
     "TeamIndexMetaData.DisplayPattern": "Team {0}",
     "Device_Volume_C.VolumeDepth.Description": "The depth of the volume.",
@@ -65,8 +67,6 @@
     "Device_Volume_C.VolumeShape.DisplayName": "Volume Shape",
     "Device_Volume_C.VolumeWidth.DisplayName": "Volume Width",
     "Device_Volume_C.OnEnter.Description": "Will Trigger Enter Events",
-    "Device_Volume_C.OnExit.Description": "Will Trigger Exit Events",
-    "Device_Volume_C.OnPhysicsEnter.Description": "Will Trigger Physics Enter Events",
-    "Device_Volume_C.OnPhysicsExit.Description": "Will Trigger Physics Exit Events"
+    "Device_Volume_C.OnExit.Description": "Will Trigger Exit Events"
   }
 }

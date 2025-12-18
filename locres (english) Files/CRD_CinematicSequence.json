@@ -31,6 +31,9 @@
     "Device_CinematicSequence_C.OnStopped.Description": "Broadcast when the sequence stops. Will send the instigator that started the sequence, if any. ",
     "ECinematicSequenceEnabledOnPhase.CreateOnly.DisplayName": "Create Only",
     "Device_CinematicSequence_C.Visibility.Description": "Defines the context(s) in which this device will play back",
+    "Device_CinematicSequence_C.DisablePlayerInput.Description": "Determines whether player movement/look input is disabled while the cinematic is active",
+    "Device_CinematicSequence_C.ShowHUDDuringCinematic.Description": "Determines whether to show or hide HUD elements while the cinematic is active",
+    "Device_CinematicSequence_C.DisablePlayerInput.DisplayName": "Disable Player Input",
     "Device_CinematicSequence_C.EnabledOnPhase.DisplayName": "Enabled on Phase",
     "ECinematicSequenceVisibility.Everyone.DisplayName": "Everyone",
     "Device_CinematicSequence_C.FinishCompletionStateOverride.DisplayName": "Finish Completion State Override",
@@ -40,6 +43,7 @@
     "ECinematicSequenceEnabledOnPhase.GameplayOnly.DisplayName": "Gameplay Only",
     "Device_CinematicSequence_C.GoToEndAndStopFunction.DisplayName": "Go to End and Stop Function",
     "Device_CinematicSequence_C.GoToEndAndStopFunction.Description": "Go to the end of this cinematic sequence and stop",
+    "ECinematicSequenceShowHUD.Hide.DisplayName": "Hide",
     "Device_CinematicSequence_C.FinishCompletionStateOverride.Description": "If set to something other than none, when a sequence ends, the completion mode of any track sections still active will be overridden\n       * by the chosen value, either keep state or restore state. Otherwise, completion mode will be determined by each track section.\n       * Note that any track sections that finish before the end of a sequence will have their completion mode determined by the section settings rather than this override.",
     "Device_CinematicSequence_C.PlayFunction.Description": "Initiate playback of this cinematic sequence",
     "Device_CinematicSequence_C.PlayReverseFunction.Description": "Initiate playback of this cinematic sequence in reverse",
@@ -47,6 +51,7 @@
     "ECinematicSequenceVisibility.InstigatingTeam.DisplayName": "Instigator's Team",
     "Device_CinematicSequence_C.bLevelSequenceActorAlwaysRelevant.DisplayName": "Level Sequence Actor Always Relevant",
     "Device_CinematicSequence_C.bLoopPlayback.DisplayName": "Loop Playback",
+    "ECinematicSequenceDisableInput.No.DisplayName": "No",
     "EMovieSceneCompletionModeOverride.None.DisplayName": "None",
     "BoolMetaData.FalseDisplayName": "Off",
     "BoolMetaData.TrueDisplayName": "On",
@@ -59,6 +64,8 @@
     "Device_CinematicSequence_C.PlayReverseFunction.DisplayName": "Play Reverse Function",
     "ECinematicSequenceEnabledOnPhase.PreGameOnly.DisplayName": "Pre-Game Only",
     "Device_CinematicSequence_C.Sequence.DisplayName": "Sequence",
+    "ECinematicSequenceShowHUD.Show.DisplayName": "Show",
+    "Device_CinematicSequence_C.ShowHUDDuringCinematic.DisplayName": "Show HUD During Cinematic",
     "Device_CinematicSequence_C.StopFunction.DisplayName": "Stop Function",
     "Device_CinematicSequence_C.StopFunction.Description": "Stop playback of this cinematic sequence, if it is playing. This will potentially restore its state, if the 'Restore State' option is enabled.",
     "Device_CinematicSequence_C.Sequence.Description": "The Level Sequence asset that contains the cinematic content to play back",
@@ -67,6 +74,7 @@
     "Device_CinematicSequence_C.Visibility.DisplayName": "Visibility",
     "Device_CinematicSequence_C.EnabledOnPhase.Description": "When Auto Play is enabled, this sequence is played on this phase",
     "Device_CinematicSequence_C.bLoopPlayback.Description": "When enabled, this cinematic device will loop continuously until stopped",
-    "Device_CinematicSequence_C.bAutoPlay.Description": "When enabled, this device will automatically begin playing based on the the desired minigame state"
+    "Device_CinematicSequence_C.bAutoPlay.Description": "When enabled, this device will automatically begin playing based on the the desired minigame state",
+    "ECinematicSequenceDisableInput.Yes.DisplayName": "Yes"
   }
 }

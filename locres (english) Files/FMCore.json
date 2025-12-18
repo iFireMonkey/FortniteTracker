@@ -1,1 +1,10 @@
-{}
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "Seek",
+    "MusicTimeNetSyncInterfaceSeekTarget": "Seek Target",
+    "MusicTimeNetSyncInterfaceSeek_Description": "Seek to Seek Target.",
+    "MusicTimeNetSyncInterfaceSpeed": "Speed",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "Speed the clock should use.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "Where to seek to."
+  }
+}
