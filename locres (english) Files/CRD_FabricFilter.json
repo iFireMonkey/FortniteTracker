@@ -1,11 +1,11 @@
 {
   "": {
-    "62767D2B4D3E6C7AD31E10ADB8AA870D": "Band-Pass",
+    "E9473385464B668C23F014861732DCE7": "Band-Pass",
     "92C7C6A14DE488D2BAF6C894E1D497EC": "Filter input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker. You can choose a Filter Type on this device to determine which audio frequencies will be output.",
     "B3ADEFE1411225A3ECBA2A8B9A77CF07": "Filter input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker. You can choose a Filter Type on this device to determine which audio frequencies will be output.",
-    "2AB12F474CF64DAFD71273BB2A0DC3E5": "High-Pass",
-    "372E800D4CEBAB09CB46C7A24E327167": "Low-Pass",
-    "822BEDA0404DAA57EA447D9F540635B7": "Notch",
+    "512FE5C04F38E5F87C4F569F1572F0A0": "High-Pass",
+    "37991D66438A0778EC1256965977F701": "Low-Pass",
+    "5CE4557C4375438089A8649ED82C3409": "Notch",
     "5438C9824C7B960BDD99FBA842BBB174": "Patchwork Filter Effect",
     "A1F3F9934DB11AF6B72E7285AB9B2684": "Patchwork Filter Effect",
     "F256467B44AE94D1D160E8A8C30A5AFF": "Patchwork Filter Effect"
@@ -14,7 +14,7 @@
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
-    "33E87C2F49930706EB2A84A5A7A22706": "Allow Cable Access",
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Allow Cable Access",
     "EEnabledOnPhase.Always.DisplayName": "Always",
     "Device_FabricFilter_C.AudioIn.DisplayName": "Audio In",
     "Device_FabricFilter_C.AudioOut.DisplayName": "Audio Out",

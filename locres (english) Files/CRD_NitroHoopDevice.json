@@ -44,7 +44,7 @@
     "Device_NitroHoop_C.EnableOnPhase.Description": "Determines the game phases for which the device will start enabled. Pre-Game includes all phases prior to the Game starting (the waiting for players lobby and the Game Start Countdown).",
     "Device_NitroHoop_C.VehicleVelocityMultiplier.Description": "Determines the velocity multiplier applied to vehicles passing through the hoop while it's enabled.",
     "Device_NitroHoop_C.BaseType.Description": "Determines what kind of base the hoop has. HALFWAY - This is intended for hoops that are halfway in the ground.",
-    "Device_NitroHoop_C.bEnableCooldown.Description": "Determines whether cooldown is ENABLED by default. When cooldown is enabled, using the hoop will cause it to automatically enter the cooldown state, disabling the device.  When the cooldown state ends, the hoop will automatically re-enable.",
+    "Device_NitroHoop_C.bEnableCooldown.Description": "Determines whether cooldown is ENABLED by default. When cooldown is enabled, using the hoop will cause it to automatically enter the cooldown state, disabling the device. When the cooldown state ends, the hoop will automatically re-enable.",
     "Device_NitroHoop_C.bCooldownAtRoundStart.Description": "Determines whether the hoop should enter the cooldown state when a new round starts, excluding the game's initial round. The device must be enabled when the round starts for this to work.",
     "Device_NitroHoop_C.bCooldownAtGameStart.Description": "Determines whether the hoop should enter the cooldown state when the game starts. The device must be enabled when the game starts for this to work.",
     "Device_NitroHoop_C.Disable.DisplayName": "Disable",

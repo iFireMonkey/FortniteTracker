@@ -14,16 +14,6 @@
     "DD0570EF41B21A081EEAA69A436B3DBF": "Select Track",
     "D2A111A840B1C3EB026DD7A0A928172D": "Volume",
     "3E2CEB2A467E329724913DB0FC8C0F25": "When disabled, audio data is passed through the device without any effect applied.",
-    "0B136C7348D611723743448F9BCAA3CD": "X",
-    "1D44111747096320CAE3738B3A34B00A": "X",
-    "2B2732644B7CD80155D0EEBB51C18732": "X",
-    "62DEDB5E46DF7F8A9E31678325E08301": "X",
-    "79EF92CD429F9EFDEFB2EFA836C4EFDB": "X",
-    "1431B9CB4706D1396B23D6A9A7C38BE3": "Y",
-    "5B5784904E35462DE7B63096D3FE0CD6": "Y",
-    "7189546049E12E988A77C0B18D542ED4": "Y",
-    "9E2B318E41AA0926328852BFE63ED670": "Y",
-    "E1BA74C14AF34EBE7B7B66B22618FBB4": "Y",
     "FDD7B46440DA6E79DABF15AFD1B4F56A": "{Artist} - {Title}"
   },
   "FabricJamTrackPlayerDeviceComponent": {
@@ -35,7 +25,7 @@
   },
   "UserOptionDefinition": {
     "EFabricJamTrackPlayerStemOutput.All.DisplayName": "All",
-    "33E87C2F49930706EB2A84A5A7A22706": "Allow Cable Access",
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Allow Cable Access",
     "EEnabledOnPhase.Always.DisplayName": "Always",
     "Device_FabricJamTrackPlayer_C.AudioOut.DisplayName": "Audio Out",
     "EFabricJamTrackPlayerStemOutput.Bass.DisplayName": "Bass",

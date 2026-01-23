@@ -44,7 +44,7 @@
     "Device_CinematicSequence_C.GoToEndAndStopFunction.DisplayName": "Go to End and Stop Function",
     "Device_CinematicSequence_C.GoToEndAndStopFunction.Description": "Go to the end of this cinematic sequence and stop",
     "ECinematicSequenceShowHUD.Hide.DisplayName": "Hide",
-    "Device_CinematicSequence_C.FinishCompletionStateOverride.Description": "If set to something other than none, when a sequence ends, the completion mode of any track sections still active will be overridden\n       * by the chosen value, either keep state or restore state. Otherwise, completion mode will be determined by each track section.\n       * Note that any track sections that finish before the end of a sequence will have their completion mode determined by the section settings rather than this override.",
+    "Device_CinematicSequence_C.FinishCompletionStateOverride.Description": "If set to something other than none, when a sequence ends, the completion mode of any track sections still active will be overridden\nby the chosen value, either keep state or restore state. Otherwise, completion mode will be determined by each track section.\nNote that any track sections that finish before the end of a sequence will have their completion mode determined by the section settings rather than this override.",
     "Device_CinematicSequence_C.PlayFunction.Description": "Initiate playback of this cinematic sequence",
     "Device_CinematicSequence_C.PlayReverseFunction.Description": "Initiate playback of this cinematic sequence in reverse",
     "ECinematicSequenceVisibility.InstigatorOnly.DisplayName": "Instigator Only",

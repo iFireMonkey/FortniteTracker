@@ -221,7 +221,7 @@
     "Device_AutomatedTurret_C.IdleRotationAngle.Description": "Determines how far the turret rotates while searching for a potential target.",
     "Device_AutomatedTurret_C.DelayBeforeFiring.Description": "Determines how long in seconds the turret waits to begin firing after finding a target.",
     "Device_AutomatedTurret_C.DisabledDuration.Description": "Determines how long the turret is disabled after destruction. INFINITE - The turret must be re-enabled manually.",
-    "Device_AutomatedTurret_C.TurretDamage.Description": "Determines how much damage the turret deals with each shot. ELIMINATION - The turret’s shots will instantly eliminate the target.",
+    "Device_AutomatedTurret_C.TurretDamage.Description": "Determines how much damage the turret deals with each shot. ELIMINATION - The turret's shots will instantly eliminate the target.",
     "Device_AutomatedTurret_C.DeviceHealth.Description": "Determines how much health this device has, or whether it's indestructible.",
     "Device_AutomatedTurret_C.IdleRotationMultiplier.Description": "Determines how quickly the turret rotates while searching for a potential target.",
     "Device_AutomatedTurret_C.TrackingRotationMultiplier.Description": "Determines how quickly the turret rotates while tracking a found target or looking for someone who damaged it.",

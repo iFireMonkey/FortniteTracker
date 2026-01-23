@@ -8,9 +8,15 @@
     "DebugLoadContentFail": "Download Failed",
     "Eliminated": "Eliminated",
     "Elimination": "Elimination",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Exit Session",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Going to Main Menu is not allowed in UEFN Mobile Session.",
+    "UEFNMobileSessionMainMenuError_Title": "Mobile Session",
     "MultiElimination": "Multi Elimination",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Something went wrong. Mobile Session will now Exit",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Something went wrong: {Reason}. Mobile Session will now Exit",
     "TripleElimination": "Triple Elimination",
-    "Win": "Win"
+    "Win": "Win",
+    "UEFNMobileSessionMainMenu_MessageBody": "You cannot enter Fortnite Lobby while in Mobile Session. Do you want to Exit?"
   },
   "ReturnToMainMenuReason": {
     "PlaybackError": "There was an error during replay playback."
