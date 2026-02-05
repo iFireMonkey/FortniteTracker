@@ -2297,6 +2297,9 @@
     "A71B4F404E2A465B705E48AB90A55035": "Double Shack",
     "F9652EB67096EAD9DE446281C7CA42CF": "Double Shack",
     "24C456DC46D642CF37D8898FE093D99B": "Double Shack Build",
+    "2E2C24B64F51C4BC5E6B238754F52CAB": "Drink",
+    "4B5D0D9E4C01B1F6E2E961B782D4EAB9": "Drink",
+    "B6E83E6842FDE548FFBCF3A1C0E1804F": "Drink",
     "7AC72C884999C079E4BBCDAB1A96BEFC": "Drop",
     "0BB1E2E345D36B0D84F871A6AD66DEDB": "Drop items or ask a friend to put items in a Chest to share with you.",
     "2DD488B149D5E62544E523B2083E4709": "Dropped by <EmphA>Skeletons</>.",
@@ -3789,7 +3792,6 @@
     "5F4EB022429751C91321BC8AD7C80DDA": "Mushroom",
     "EFB5A867406FC6E7C66E19A9DECF5167": "Mushroom",
     "308470654D426564A7DCFDB20EFB9579": "Mushrooms",
-    "42B4AC5E4CA5F7B77A496FB09F1B4B1C": "Must be placed on floors or foundations",
     "62F9DE1144B24D122FE90D9597F1CBDB": "Must be placed on solid ground",
     "8DB1D75D445A65670B3D2C869ECDA899": "Must-See Destination",
     "107567E3458AE4F0B63A29A5144BB4FC": "Needs supporting piece",
@@ -5326,7 +5328,6 @@
     "B54DC84F99867C3ADE446281A6541F79": "Store up to 8 items inside for safe keeping.",
     "E5B6FC6D65FF66B9DE446281A6541F79": "Store up to 8 items inside for safe keeping.",
     "FCF20C38275761E9DE446281A6541F79": "Store up to 8 items inside for safe keeping.",
-    "2846A1F84395A3C3E8852EB9E3AB94F0": "Storm Caves offer the harshest challenge in the world.",
     "4018F14B4186D1FA5CB25387172D60D5": "Storm Dungeon - Final Floor Loot",
     "BB1E0EB748289327ED4E5FBAEBA39CDF": "Storm Dungeon - Loot",
     "4253AD434E93BE551A9B6AACDC7A2E6D": "Storm Dungeon - Resupply",
@@ -5577,7 +5578,6 @@
     "6108ED2D4BA02E1B5C0959B207C09157": "Use Map Markers to point friends toward things. Mark enemies, treasures, and more.",
     "38E7650B4DC383F4157D70886D6405EE": "Use a portable toilet. Note: This will always make the user stinky when they are done!",
     "B4B0411C43C5519160D135A5B1E51529": "Use interior walls to quickly create rooms on top of floors.",
-    "71F4CF10427EEB01B3DD71A259A0D561": "Use the glider at a campfire to soar!",
     "4653DC224AD8203962DC868517C9A1B5": "Use the stove to cook food. ",
     "55A2DC0F4B012E3D619BFDAF485B9DA6": "Used for a variety of crafting recipes",
     "EEBE96064FBBABE70FB5A69CB88B635D": "Used for a variety of crafting recipes",
@@ -6543,9 +6543,7 @@
   },
   "Juno_UpdateItemData": {
     "BE2DF5AC43E333359DEC3786A56E0938": "A Common Shield that can be used to block incoming damage.",
-    "AA10BE14449744EED5B5C983AB484E7D": "A Common Shovel. Ideal for digging up soil, snow, sand, and treasure!",
     "14D46368474097D7898896ACE25A6B2B": "A Rare Shield that can be used to block incoming damage.",
-    "6A39D282494C017711E68E97D36455CD": "A Rare Shovel. Ideal for digging up soil, snow, sand, and treasure!",
     "57787CAD44FC4368A2496EBFF125547E": "A basic crossbow, ideal for dealing with ranged enemies from afar.",
     "038FE2C34521874B47E905950D1E1D46": "A basic pickaxe made from Wood. Can harvest stone objects, and is very effective against structures.",
     "38DD83074FA0FC1D8BB1E19D2F3D6010": "A basic stone axe. Perfect for harvesting trees or for self-defense.",
@@ -6630,9 +6628,7 @@
     "33269B1A4021E171CB4877B7D4FD988E": "Always useful when it comes to cooking.",
     "EB985B10447A3CCDEF7D97BD2FB6C01E": "Ammo used for Crossbows.",
     "4D9A957148995419E825BC99A1529ED9": "An Epic Shield that can be used to block incoming damage.",
-    "B7863BC34973CAC6A747E9B3342E318A": "An Epic Shovel. Ideal for digging up soil, snow, sand, and treasure!",
     "465490F44429161E8248239947274299": "An Uncommon Shield that can be used to block incoming damage.",
-    "1EE07CB64A0E2803A99F7E9994F0ECC2": "An Uncommon Shovel. Ideal for digging up soil, snow, sand, and treasure!",
     "3C2AFDC34DACC29A13571E89BF8B42CE": "An essential crafting item.",
     "90721E634BBD1942749C9AB1A2FCF60F": "An essential crafting item.",
     "9EE51BB847AC3E9E9B8CD8B83CE3625B": "An essential crafting item.",
@@ -7001,5 +6997,9 @@
     "11E1105140B8DFCEAD3EFBB2C1BCF17D": "Your creative crafting skills are unmatched!",
     "499BCD0E445E7B4B4BE73FA3E6E70A14": "Your pain, your gain.",
     "4B99743F4D6F6439698BEEB0DAEB1036": "Zoom in, discover more."
+  },
+  "ST_JunoGame": {
+    "PrimaryAttack": "Primary Attack",
+    "SecondaryAttack": "Secondary Attack"
   }
 }
