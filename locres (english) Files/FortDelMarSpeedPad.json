@@ -2,7 +2,7 @@
   "": {
     "B1A223AC492F891F620896BB4282B93D": "A boost pad that applies speed to Rocket Racing Vehicles driving over it.",
     "9E29733642DB80268BFF658E82F9E424": "False",
-    "16327D03430DE42CFCCC2AB918D91DF5": "RR Speed Pad",
+    "18A9A4D64D0291A6ED9103B18E1238D0": "RR Boost Pad",
     "1D8716B047C72FCFD8D295A1901234DB": "True"
   },
   "Fort.Actor.Building.Defaults": {
@@ -15,6 +15,8 @@
     "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Enable",
     "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Enable this device. While enabled, this applies speed to Rocket Racing Vehicles driving over it.",
     "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Enabled at Game Start",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.Description": "Fires when a Rocket Racing Vehicle triggers this device.",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.DisplayName": "On Boost Pad Triggered",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "Speed Group ID",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Used to control what speed pads can stack on each other. If the vehicle has an active stack of bonus speed from another speed pad with the same group ID the vehicle will not get another stack when going over this speed pad. A value of less than 0 makes this speed pad always give a stack of bonus speed."
   }
