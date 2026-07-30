@@ -78,6 +78,7 @@
     "A7AC22914D2F9B8D0080D89E6F069883": "HUD Controller Device",
     "2B47932D4F7D31E52F330984C45BFB06": "High",
     "5A2463574907D8B5ECA879B7CA70C029": "Highest",
+    "CB633460400C8FA16778E2847474E317": "Island Custom Controls",
     "1A8073704B9492845EA5C2AA7941AC6D": "Lets players define what HUD elements are active",
     "2EF768A54981DC41A0564F96FDA9D578": "Lets players define what HUD elements are active",
     "256964B440A8B004196737918F1F778C": "Lets players define what HUD elements are active.",
@@ -219,6 +220,9 @@
     "EAFBC25E4CA0460B796EF99313C117A1": "Yes",
     "EDB615C74D79CE1B0EAA56ACBAFBB958": "Yes",
     "F47A59824F0CB40331619AA31791B201": "Yes"
+  },
+  "DeveloperLayoutButtonProxyCustomization": {
+    "ActionRolledBack": "Not available with the current feature rollout"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

@@ -1,7 +1,5 @@
 {
   "": {
-    "9240C75C48089720F5311CAC79826D6A": "(Leave Party Royale)",
-    "F843740643D8BC1030F2E38AFBB2EB52": "(Only Party Leader Can Use)",
     "CF64E10C4A0F48B668BDEE94B48D3F0E": "- Tune-up\r\n- View tips",
     "68916EDC47FE6CA7F612B9A3E8560CB7": "- Tune-up\r\n- View tips\r\n- Change controls",
     "ABE23DC84867226614A110A9B3149B7C": "0",
@@ -30,13 +28,10 @@
     "A2E641DD44C8D33FEEA2F2A9F73167ED": "Backstage",
     "471BC4574B0E522D117D79BB4D1EA961": "Bass",
     "7AAC57EC49C682904C6064A8475EE5E7": "Bass",
-    "04C702C64BD04EA8DCDCED8FA944B0C3": "Battle Royale",
     "18794F334CA8B5E8BC00AC8B605F876D": "BeamTrails",
     "4DD4A88248A50E65B3CC2480320CAC4B": "Breakdown",
     "97336AA24A42291051FC5596C95CA29D": "Bridge",
     "9CB7D0194D8C6B2883BB68B1F20A3553": "Build",
-    "17288C1C48065F2978F6698CDFEF6122": "Cancel Matchmaking",
-    "739748D74061423B37A5C4A1C46AF458": "Change Destination",
     "92051AD64480DCEF69F626BD21596E0D": "Chorus",
     "E80FF8D74DFA1EAE377BDEA88C08AE2B": "Clothing",
     "300C0CFB4D73C64E5832E3A07E1AE771": "Complex Gradient",
@@ -92,8 +87,6 @@
     "DE88CA784F41C422D5F7F0921D8C202C": "Horizontal Gradient",
     "C977C5DA41F06D0DC42EEA87F95D3013": "Index & Middle",
     "8CB1C1754B44B68C6D8785A1406B873C": "InstancedStaticMeshes",
-    "95EC34564AB1E36DE5F654B115E64938": "Interact to enter queue",
-    "B9DBF741475C7E736EFCB2981BF24861": "Interact to enter queue",
     "A6500D234D2EB0118F3AE69BADDCFAB7": "Intro",
     "453510644240B9AA2E865A9C11057640": "Keyboard/Mouse 1",
     "BA1862894AEF0D7A4D1854BB0A1E39E1": "Keyboard/Mouse 1",
@@ -104,11 +97,9 @@
     "2565C9174A1C7931AF55D980A7003BC7": "Large",
     "F9DB265644F04020E42F4DA4E1E65F42": "Late",
     "F402FA4143DD37E90CD3E4B4FB8784D8": "Launch Attacks to slow the opponent ahead of you!",
-    "45FD79384B2E80E4035BB6B719BA423B": "Leave Party Royale",
     "84876CD541241926B132A4BE915B96EC": "Left Hand 3",
     "EC605C2A44FC4260E6326EBC5D1D0148": "Left Hand 3",
     "31FBB8A64F4A1D3C2F29DCABFD890F61": "LidarPointCloud",
-    "ACA98E6545A56DAFB6EF4FB77D97E4F5": "Matchmaking Portal",
     "49E501354A049157FB982E8DA776774D": "MaxMultiplier",
     "ABA5603441E9321B0BF0A08115F3B5DA": "Medium",
     "A87FCDC4496200421B6FC891CFCCE2EA": "MeshDeformer",
@@ -132,7 +123,6 @@
     "04057F5441AEF9DA588165819F1A9343": "Okay",
     "222318784F27D2DD556612BD361E9AA6": "Okay",
     "AE24370C435DAC67FBEA948F998F1C20": "One Hand",
-    "13D786884DCDBBB2746E43AD7924F6E0": "Only Party Leader Can Use",
     "37C0527B44FD8C0B6D71A7825F6CF049": "Open input calibration dialog",
     "126160FF49ABEEB1639C8C9C9B99C4E7": "Open this menu to view quests, tune up, and access tips.",
     "05B6BA3B4A8CBA0D02D9A79A792955F3": "Open this menu to view quests, tune up, change control schemes, and access tips.",
@@ -144,7 +134,6 @@
     "F3CFDFB14C68297A21309A968C0CD446": "P4",
     "7A2A4E0D4D079EE72D1746A2FBD931E8": "Part Picker shows detailed options",
     "3C6FD8984157A53B4001C6B7DF9750D4": "ParticleSprites",
-    "E60C0B424FBB36D1498367923D7F8EAC": "Party is too Large",
     "2124C50E41CD0C1454CD79983A55CB43": "Perfect",
     "2A18621C40233D874F2CAEA37CC42775": "Perfect",
     "72B190E943E74490A5A82CBBFAC06FC9": "Perfect",
@@ -164,11 +153,9 @@
     "8487EE3544F42E95A6169E81FFF821BD": "Prepare to play an emote without opening the emote wheel",
     "F8EEE0CC444517014CF9DE91D15B66FB": "Press to stop a currently playing emote",
     "43C8845C49DC39F9E56684958C6A939C": "Pro Parts Setting",
-    "6910C5EC4059ACD344561FAC51349803": "Queue for Battle Royale",
     "33A4853B4F08CD18BE680783DC04DA12": "Quick Emoting Input",
     "02DB116C44508A5F5C18ACB0700B9257": "Remember to visit the Game Menu\r\nif you ever need to:",
     "5928B25B4FC8D182A37CCE800665F41E": "Set Custom Controls",
-    "3CA5FDA9497F9CAF855FC78B97A6F507": "Set Matchmaking Code",
     "B95D54BA41A52DB6517E6CBAA49872C1": "Set controls for when difficulty is",
     "CDBBF76B453F25BC576A7792757CCC03": "SetByBP",
     "7B4F36394BE0874F6A202F9F4C6D100D": "Settings",
@@ -209,9 +196,6 @@
     "17DD8ECB46F03E95BB7F78A2F8E49953": "YOU'RE READY TO PLAY!",
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
-  },
-  "Fort.Actor.Building.Defaults": {
-    "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "PilgrimFilters": {
     "PilgrimShowScoreBy_AllTimeHighscore": "All-Time",
@@ -315,12 +299,5 @@
     "CategoryX-W": "X-W",
     "CategoryY-Z": "Y-Z",
     "CategoryZ-Y": "Z-Y"
-  },
-  "UserOptionDefinition": {
-    "EPortalLinkCodeLockMode.AlwaysLocked.DisplayName": "Always Locked",
-    "BP_Pilgrim_GreenRoomPortal_C.CanOverrideCode.DisplayName": "Can Override Code",
-    "BP_Pilgrim_GreenRoomPortal_C.IslandCode_Knob.DisplayName": "Island Code Knob",
-    "EPortalLinkCodeLockMode.NeverLocked.DisplayName": "Never Locked",
-    "EPortalLinkCodeLockMode.WindowLocked.DisplayName": "Window Locked"
   }
 }
