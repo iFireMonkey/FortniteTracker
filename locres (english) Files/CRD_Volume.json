@@ -1,12 +1,12 @@
 {
   "": {
-    "8FD26A8E4B9EEEDB889CF383F3617324": "Enables events based on a generic volume.",
+    "426DD4DB466847474CC8F2BF572EBCAF": "Enables events based on a generic volume.",
     "BF6C68DC48FAF83B5D9212BF7CCC3FB6": "Enables events based on a generic volume.",
-    "BB59813D40DBD2B6F67730B9FB4D4530": "On Enter",
-    "69A2845D4DEDE0C6869DBCB71FDA170F": "On Exit",
-    "80A49C23471E8479948646B7B18BF5F8": "Sends an event to linked devices when an allowed entity enters the volume.",
-    "B0D9F06346DB6417F7DECEA021E30694": "Sends an event to linked devices when an allowed entity exits the volume.",
-    "219EFB4644AB52293B11CC9C521321E9": "Volume",
+    "6385EC11445B09D7A8EC9488315AC788": "On Enter",
+    "6224788447BF4416945A6AA8F71F4E6C": "On Exit",
+    "DC1A249D42A17AD450B8E8A085D5A350": "Sends an event to linked devices when an allowed entity enters the volume.",
+    "287EB9E042C96231743E248FBA6DBC42": "Sends an event to linked devices when an allowed entity exits the volume.",
+    "4AF783794B70D5B6F669BDA06A16ACF4": "Volume",
     "D2858BE745B800D01CF93F9571B99143": "Volume"
   },
   "Fort.Actor.Building.Defaults": {
@@ -44,8 +44,8 @@
     "BoolMetaData.TrueDisplayName": "On",
     "Device_Volume_C.OnEnter.DisplayName": "On Enter",
     "Device_Volume_C.OnExit.DisplayName": "On Exit",
-    "6F771F1142107768D7353098ED1922AC": "On Physics Prop Enter",
-    "E5A572B7422952B4273CD0A70CD793B5": "On Physics Prop Exit",
+    "9DE741BE4A460B86A8C9039EDAE2544C": "On Physics Prop Enter",
+    "491B8F7E433E8A9E1C003B88F51261C6": "On Physics Prop Exit",
     "Device_Volume_C.PhysicsEventsEnabled.DisplayName": "Physics Events Enabled",
     "Device_Volume_C.PlayerEventsEnabled.DisplayName": "Player Events Enabled",
     "Device_Volume_C.SelectedClass.DisplayName": "Selected Class",

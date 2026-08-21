@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "There is not enough space on your device.\n{RequiredBytes} is required.\n{AvailableBytes} is available.\nYou need an additional {SpaceAdditional} to perform the installation.",
     "MissingEncryptionKeyForNonPreload": "This installation could not continue as the required decryption data is missing. Please contact support.",
     "InvalidEncryptionKeyForNonPreload": "This installation could not continue as the required decryption data is not valid. Please contact support.",
-    "EmptyCloudDirectories": "This installation could not continue due to a configuration issue. Please contact support.",
     "InvalidInstallTags": "This installation could not continue due to a configuration issue. Please contact support.",
     "InvalidInstallToMemory": "This installation could not continue due to a configuration issue. Please contact support.",
     "InvalidMemoryConstructionConfig": "This installation could not continue due to a configuration issue. Please contact support.",
