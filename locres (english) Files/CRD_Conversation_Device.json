@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "The text that will replace the Speaker Name when Number of Conversations Allowed is reached.",
     "F0043A3140A95EAA09DFF48C31CA0826": "When set to On, this displays the speaker's name when a player is nearby (roughly 5m).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Will show conversation text in world space that is derived from the speech nodes in the Conversation Graph.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

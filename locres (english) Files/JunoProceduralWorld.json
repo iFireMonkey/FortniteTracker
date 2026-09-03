@@ -16,11 +16,6 @@
     "UnableToGetPointData": "Unable to get Point data from input",
     "UnableToGetSpatialData": "Unable to get Spatial data from input"
   },
-  "JunoWorldMutationRulesetDetails": {
-    "EmptyRule": "(empty - pick a rule class)",
-    "MultipleRules": "(multiple values)",
-    "RuleRowFormat": "[{0}] {1}"
-  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Data could not be retrieved for height texture, initialization failed.",
     "FailExtractGrassTypeOverrides": "Failed to extract grass type overrides."

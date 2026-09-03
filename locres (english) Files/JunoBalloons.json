@@ -2,27 +2,36 @@
   "": {
     "49B378FE454107B7C0ABB48593EBEFEF": "<img id=\"Toy_Down\"></><ModalEmphasis>DOWN</> is triggered by",
     "1D1E45FA40764B122FF94B865FF84E75": "<img id=\"Toy_Up\"></><ModalEmphasis>UP</> is triggered by",
-    "589BC8C545D9D766C0F02DAA67AF848E": "Attach bigger balloons and take to the skies!",
+    "2256DEB245C50E2AA9E748B9EC0AAB52": "Attach bigger balloons and take to the skies!",
     "B765F16245D3CDDF49FCBC96AECBB8E6": "Lift",
     "46C7F27B4A5570C7071636BB7EF37E8D": "Ready to REALLY blow.",
+    "DE1B3DC54A5A2F6A61984D8910B7C15E": "Ready to REALLY blow.",
     "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "Ready to blow.",
+    "BDFDAB024ABB3B9628F30D9FDD5E66E9": "Ready to blow.",
+    "538C95314C03E188AB7ACDB601242C43": "Whatever floats your boat. In this case, a balloon. ",
     "644DE9964A9EB1D0E32D6CB2C74B7685": "Whatever floats your boat. In this case, a balloon. "
   },
   "Juno_GameplayItemToTagMapping": {
+    "E7CA13CA4F1DDE8CC4254DB20FA275CE": "A large balloon that comes with channel connectivity and undeployed. Can be deployed via channel control to inflate and take flight.",
     "F022CD50420DB9CA0BC872AA6D67BBB5": "A large balloon that comes with channel connectivity and undeployed. Can be deployed via channel control to inflate and take flight.",
+    "699DCC7247DABA21F680BB95CAAB0A47": "A small balloon that comes with channel connectivity and undeployed. Can be deployed via channel control to inflate and take flight.",
     "812DFE244981B3CEE5E8E0ABBA8D2940": "A small balloon that comes with channel connectivity and undeployed. Can be deployed via channel control to inflate and take flight.",
+    "6154FE154B34051E8FFB27A125D50EC1": "Activated Balloon",
     "2AA87E9E40F4F4D87E02BBB60A2F4230": "Activated Balloon Large",
     "7988ADD74C897E641532648A25A6DF3C": "Activated Balloon Small",
-    "B57EF9BD4D82A829083838A7E5BE2085": "Attach large balloons onto existing structures and dynamic objects.",
+    "4BF3C90548F87C88D250488EF274D429": "Attach large balloons onto existing structures and dynamic objects.",
+    "440F445446B80318CCC479951407C133": "Attach small balloons onto existing structures and dynamic objects.",
     "B3815C7846E7DD14D5367CAC8F99EB48": "Attach small balloons onto existing structures and dynamic objects.",
-    "000401864743389FEA88AFA4F5CC7938": "Large Balloon",
+    "05B57A294FAB1DCF676427A33756BAF3": "Balloon",
+    "6912F6C0402D9B0A69215BBC06DFDEB4": "Large Activated Balloon",
+    "A166E9E64F9340DFF3A46097854A4749": "Large Balloon",
     "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Small Balloon"
   },
   "PP_CraftingFormulas_BalloonPlacer": {
-    "C1AA6292495DD29E4A1F6AB65EC09B49": "Activated Balloon",
-    "5B32E7E548E54894BA2E03A21D2D3369": "Activated Balloon - Large",
-    "20BBBCCA4318028AFB0085A38F5AEEBB": "Buoyant Balloon",
-    "9E64923A4307879A5448C29F8C870D4B": "Large Balloon",
-    "365CC2F54B079EBA9F42ED971097D554": "Small Balloon"
+    "6495022A4829D02B261015B911B01425": "Activated Balloon",
+    "FDE747E34AEA63A021F817A7EDC9C8CD": "Activated Balloon - Large",
+    "D21109984304353E3518FF8B1261AE98": "Buoyant Balloon",
+    "1A23A2F54ADBABED1627428E7C501958": "Large Balloon",
+    "F6D64FCE4ACECD4A2D5456AD51C8884F": "Small Balloon"
   }
 }
