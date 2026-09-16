@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Clear 3 Gotham Challenges",
     "8545084D4037D8328A80AAA600F845B1": "Clear 3 Gotham Challenges",
     "8867A2174A1B609CA14739BFA57AD7BA": "Clear 3 Gotham challenges",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Clear 5 Gotham Challenges",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Clear Robinson Park",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Collect 10 Peppers",
     "B724EFD84125E744670EEC852A03D7E5": "Collect 10 Pumpkins",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Collect 30 Brightcore",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Collect 30 Snow",
+    "7DD7744E44595A1743F019932761EF3D": "Collect 30 Stink Glands",
     "72ED820E417BF03B7D74628BC7A0D50A": "Collect 30 snow",
     "AC0061C9484C5D72D42634A7DE52BD86": "Collect 50 Brightcore",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Commissioner Gourd-on - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Craft 10 Biomass",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Defeat 10 Scorpions",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Defeat 10 Scorpions",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Defeat 20 Henchmen",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Defeat 3 Frost Bears",
     "60F095F34D1AC980533CABBD59BE64D2": "Defeat 3 Frost Bears",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Defeat Henchmen at Robinson Park",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Iceberg Loungin' - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Ivy's henchmen must be stopped! <empha>Follow the Bat Signal to Robinson Park and take down Ivy's Henchmen.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Ivy’s making everyone in Gotham-- how do I put this-- \"puke super hard.\" We think she’s using some kind of Toxin and we need to research an antidote, fast. <empha>Defeat 10 Scorpions</> in the <img id=\"IcoDes\"/> <Des>Dry Valley</>. Until you do, the city’s on life support. *grf* Uh-- I gotta go.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Knight Shift",
+    "A75F4FE844F88A4440153482E2EA221C": "Knight Shift",
     "E5D175ED4A01969301A19E98405F2E01": "Make 10 Biomass",
     "8F85938943E9D27E8F7DD2A3D347810B": "More buildings are missing from Gotham and something smells fishy. I suspect someone new has waddled into the chaos. Find out more. <empha>Follow the Bat-Signal on your Map and clear 3 Gotham Challenges.</>",
     "686582044561A9744F6D4B8E6A15A766": "POW!-er Cells - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "The Dark Bright - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "The fishy-smelling trail has gone cold. But cold might be just what we need. See if you can dig up some intel. Go to the <img id=\"IcoFro\"/> <Fro>Frostlands</> and <empha>collect 30 Snow.</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "We were right about Cobblepot being behind the scenes, but The Penguin’s got me iced out for the moment. Don’t worry, Alfred’s bringing me cocoa. But you? You're going to field test some arctic fighting techniques. Go to the <img id=\"IcoFro\"/> <Fro>Frostlands</> and <empha>defeat 3 Frost Bears.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Knight Shift"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "\"This is Batman. It seems The Riddler’s bamboozled the Henchmen into following his plans to overrun us. They really aren’t the smartest. I bet those fools fall for email phishing scams too.<emphasis>Defeat 20 Henchmen.</> -Batman. Signing off.\"",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Batman here. Poison Ivy's at it again. She's altered the local plantlife-- and it smells worse than The Penguin's leftovers after a sunny picnic. Plants have started dropping <EmphA>Stink Glands</>! Clear out the contaminants. <EmphA>Collect 30 Stink Glands</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Challenge Accepted",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Clear 5 Gotham Challenges",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Collect 30 Stink Glands",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Defeat 20 Henchmen",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Scent of a Villain",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "The Hench Are Off the Bench",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Yup, Batman again. Alfred's detected some new activity. And not the good kind where you dip Batarangs in black paint and decorate \"Sorry I foiled your plans\" cards. Go investigate. <EmphA>Clear 5 Gotham Challenges.</>"
   }
 }
