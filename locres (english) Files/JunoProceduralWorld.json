@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Shape to pathfind across (probably Landscape!)",
     "UnableToGetPointData": "Unable to get Point data from input",
     "UnableToGetSpatialData": "Unable to get Spatial data from input"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Data could not be retrieved for height texture, initialization failed.",
-    "FailExtractGrassTypeOverrides": "Failed to extract grass type overrides."
   }
 }

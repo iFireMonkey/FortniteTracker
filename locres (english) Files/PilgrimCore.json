@@ -1,7 +1,7 @@
 {
   "": {
-    "CF64E10C4A0F48B668BDEE94B48D3F0E": "- Tune-up\r\n- View tips",
-    "68916EDC47FE6CA7F612B9A3E8560CB7": "- Tune-up\r\n- View tips\r\n- Change controls",
+    "6EC6EB644B7B8B6E55717E97FCE44AAF": "- Tune-up\r\n- View tips",
+    "EF955F7C42453B739C9A4B999B275BBC": "- Tune-up\r\n- View tips\r\n- Change controls",
     "ABE23DC84867226614A110A9B3149B7C": "0",
     "D0146C6B4F55F43540DFE096DB883FFD": "0",
     "0C351640485A73AB016B57BE7DD4061B": "1",
@@ -42,7 +42,7 @@
     "BBF815A04F57F9CEE6F1D798C6836B67": "Cycle the input mappings used for beatmatch gameplay",
     "D7C1CF734A58F5A52CFDBAB8B6C4D8D8": "Default",
     "259E3EE845A106DD376622B3DAA75596": "Distortion",
-    "471C061448979EF30F49BE951E91B025": "Done (Hold)",
+    "9B7BD04D4CF30CC5475759B351D7BC56": "Done (Hold)",
     "3D347E8E4186B42CE9A26CBC72C2F08E": "Drop",
     "1004498F472C2D684814C1B6EE13ECCC": "Drums",
     "5DE708AA4E391EB74B735C802069228E": "Drums",
@@ -127,6 +127,7 @@
     "37C0527B44FD8C0B6D71A7825F6CF049": "Open input calibration dialog",
     "126160FF49ABEEB1639C8C9C9B99C4E7": "Open this menu to view quests, tune up, and access tips.",
     "05B6BA3B4A8CBA0D02D9A79A792955F3": "Open this menu to view quests, tune up, change control schemes, and access tips.",
+    "EFED6B7B4B18A936EFB909930F866C5C": "Opens Music Library",
     "129FC22742A59AA635D6DFAF3DD4C9C9": "Outro",
     "8340BEEF48A5194089E25E828EA76344": "OverDrive",
     "085D67754714D980105768AA0DD8B0E1": "P1",
@@ -155,7 +156,7 @@
     "F8EEE0CC444517014CF9DE91D15B66FB": "Press to stop a currently playing emote",
     "43C8845C49DC39F9E56684958C6A939C": "Pro Parts Setting",
     "33A4853B4F08CD18BE680783DC04DA12": "Quick Emoting Input",
-    "02DB116C44508A5F5C18ACB0700B9257": "Remember to visit the Game Menu\r\nif you ever need to:",
+    "F254F78A45B169702C72AAB9988EBDF5": "Remember to visit the Game Menu\r\nif you ever need to:",
     "5928B25B4FC8D182A37CCE800665F41E": "Set Custom Controls",
     "B95D54BA41A52DB6517E6CBAA49872C1": "Set controls for when difficulty is",
     "CDBBF76B453F25BC576A7792757CCC03": "SetByBP",
@@ -194,7 +195,8 @@
     "F26AD81E4DFB2785736162A9E2E699BF": "When you're on stage, your gameplay controls will look like this.",
     "A81F972F446CB431A4A35B8CDFD25D67": "XLarge",
     "3ADD53E6402D614D8CB0DEBF099502CC": "XXLarge",
-    "17DD8ECB46F03E95BB7F78A2F8E49953": "YOU'RE READY TO PLAY!",
+    "7AC1F2804D153DA2438194B8AA222CB8": "YOU'RE READY TO PLAY!",
+    "C7FC6FB74423F841DD619684417E57E8": "YOU'RE READY TO PLAY!",
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
@@ -286,5 +288,16 @@
     "CategoryX-W": "X-W",
     "CategoryY-Z": "Y-Z",
     "CategoryZ-Y": "Z-Y"
+  },
+  "ST_PilgrimCoreStrings": {
+    "SongDifficulty_Easy": "E",
+    "SongStatus_Featured": "Featured",
+    "SongDifficulty_Hard": "H",
+    "SongDifficulty_Medium": "M",
+    "SongDifficulty_None": "N",
+    "SongStatus_New": "New",
+    "SongStatus_Shared": "Shared",
+    "SongStatus_Spotlight": "Spotlight",
+    "SongDifficulty_Expert": "X"
   }
 }

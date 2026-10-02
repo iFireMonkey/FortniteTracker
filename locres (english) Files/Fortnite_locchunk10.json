@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "A blade that has a powerful secondary leap attack.",
     "144AC202422D81D8ECA7FDADA0248752": "A classic rifle with high accuracy and range.",
     "174ADE3045B991036DAB808BA3802CDA": "A classic rifle with high accuracy and range.",
-    "A633A07540E67656A515748EC42D2BFA": "A classic rifle with high accuracy and range.",
     "5CA4C768442DACE154F650919AEBF7CC": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
     "62060089487721326B23BBA33709B481": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "A full-throttle blast of thrills and fun. Initiate by Jumping while in air.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "Heals nearby players while active.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "Heavy AR",
     "2118AC47465E7B7FC3544E9411BEDFC9": "Heavy AR +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "Heavy Assault Rifle",
+    "6F59A98A484163C0B20075AB5FAF04BF": "Heavy Assault Rifle",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "Heavy Shotgun",
     "6202063447BC0BE9C686E0B7FA3EE710": "Heavy Shotgun",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "Heavy Shotgun",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "Indy G-Flip",
     "118BD9B247A79B6E7AB2189A409B7EFA": "Indy Rounder",
     "55F09A7841788A6D5EABF7AE7C720557": "Infantry Rifle",
-    "C115B50C4700A573DC237EAC7C92E21B": "Infantry Rifle",
     "F1638A45469F392DAF5444BE0A097644": "Infantry Rifle",
     "F317A4514DE5AEE182F39DA192E355AD": "Infantry Rifle",
     "1D7BBE454E1553569F9589A7E633F06D": "Infinite",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "Last One Standing Wins",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Last Squad Standing Wins",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Launch into the air and cackle through the skies. Goes on cooldown.",
-    "203048A346124F2326AE7489CF3CF605": "Launch into the air and cackle through the skies. Reactivate to cancel early.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Launch into the air and cackle through the skies. Reactivate to cancel early.",
     "261743A8479BF496B7D041B28AA7D369": "Launches Players long distances.",
     "86CE1B5747A296D9410A23BD7ED6275C": "Launches an explosive container of cinematic paint.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "Place waypoints to guide the way.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Player Survey Eligibility Token",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "Please rebind the {s} action.",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "Plunger Bow",
     "4567895244A3DDF0A6347DB93EA4AB9A": "Pocket Boogie Bomb",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "Pocket Shield Bubble",
     "FB786D2942DF31556A360EBB36845337": "Pocket Shockwave Grenade",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "Pocket Witch Broom",
-    "09BC060C4709B5E30DB790861955D110": "Power",
     "4CBE793B4385D3726F1EA5950991BC9C": "Power",
     "D13EC04349B8427E99FF49AFABDD232A": "Power",
     "D6FFC2F1422B954E038F569E60AA52EE": "Power Hour Template",
@@ -1579,6 +1576,7 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Shield Steal",
     "4F611C954A5378BFC1804C96BB3981FE": "Shield Synergy",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Shield Toss",
+    "6FE5EF624909BEBF19A4F7A143733F40": "Ship Cannon",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Ship Cannon",
     "85A285654B56001B52E9ABBC806822EB": "Shockwave Gadget",
     "8E57565847BBBCA8EE6AD38208D056E1": "Shockwave Grenade +",
@@ -1602,6 +1600,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "Sneaky",
     "61B1F6E14915E099FA166191039CA76B": "Sneaky Snowman",
     "E72D7990488977EC9E88CAA2F852A420": "Sneaky Snowman",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "Sniper Rifle: Semi-Automatic. A mid to long range rifle that deals good damage and can be fired quickly. Scoped for additional down sights accuracy.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "Sniper Rifle: Suppressed. A powerful sniper rifle equipped with a suppressor built for single precise shots with a slow rate of fire.",
     "AD1D0E4849B9874FC0ADF397EB542112": "Sniper Rifle: Suppressed. A powerful sniper rifle equipped with a suppressor built for single precise shots with a slow rate of fire.",
     "719A80194FE6CA987DF1FF92404DF970": "Sniper rifle that can <Emphasized>reload while not being held</>",
@@ -1982,7 +1981,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "Winterfest Challenge Completion Token",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Winterfest Key",
     "194B94D745612B291C0C0CAC0487B727": "Witch Broom",
-    "EFCEF17944284794FC6D49B915B991EE": "Witch Broom",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X Marks the Spot!",
     "D40AA64648243870B6889FA424D3E046": "X4 Stormwing",
@@ -2419,6 +2417,35 @@
     "RecipientCantReceiveGiftsTitle": "Something Went Wrong!",
     "AlreadyOwnItemTitle": "Something went wrong!",
     "AlreadyOwnBPDescription": "You will now receive a Battle Pass Gift Token because <text color=\"FFF\">{DisplayName}</> purchased a Battle Pass during your gifting attempt.\n You can use it to gift a Battle Pass to another friend. If a Battle Pass Gift Token is unused by the end of the season, it will be converted to 950 V-Bucks in your account."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "New gift wrap option acquired!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "An unknown error has occurred",
+    "RecipientCantReceiveGiftsDescription": "Looks like <text color=\"FFF\">{DisplayName}</> is not eligible to receive gifts",
+    "RecipientBoughtItemsDescription": "Looks like <text color=\"FFF\">{DisplayName}</> just purchased the below items:",
+    "AlreadyOwnItemDescription": "Looks like <text color=\"FFF\">{DisplayName}</> just purchased this item.",
+    "GiftChangedDescription": "Looks like gift's content has changed...",
+    "GiftChangedTitle": "OOPS!",
+    "GenericErrorTitle": "OOPS! Something went wrong!",
+    "RecipientBoughtItemsTitle": "Something Went Wrong!",
+    "RecipientCantReceiveGiftsTitle": "Something Went Wrong!",
+    "AlreadyOwnItemTitle": "Something went wrong!",
+    "AlreadyOwnBPDescription": "You will now receive a Battle Pass Gift Token because <text color=\"FFF\">{DisplayName}</> purchased a Battle Pass during your gifting attempt.\n You can use it to gift a Battle Pass to another friend. If a Battle Pass Gift Token is unused by the end of the season, it will be converted to 950 V-Bucks in your account."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "Continue",
+    "GetVBucks": "Get V-Bucks",
+    "PurchaseGift": "Purchase Gift!",
+    "ReloadVBucks": "Reload V-Bucks",
+    "SendGift": "Send Gift!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName} will now receive",
+    "SocialNameInfo": "{DisplayName} will receive",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=Item,other=Items)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=Item,other=Items)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "Continue",
@@ -4659,7 +4686,7 @@
     "ItemCapacityReachedText": "Can't hold more of this item!",
     "PlayerKickedCallout": "Player {PlayerName} has been kicked for being idle.",
     "PlayerKickedSoonCallout": "Player {PlayerName} will be kicked soon for being idle.",
-    "IdleWarning": "Your team needs your help! Please lend a hand before Ray sends you back to Homebase.\nReturning in {SecondsRemaining}"
+    "IdleWarning": "Your team needs your help! Please lend a hand before Ray sends you back.\nReturning in {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "View Playsets"
@@ -4794,6 +4821,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "Node to access pose debug options",
     "OrientationWarping": "Orientation Warping",
     "OrientationWarpingTooltip": "Orients RootBone to match locomotion direction, and counter rotates spine.",
+    "SimpleFootPlantingTooltip": "Pins IK feet in place once grounded, blending back out as the animated foot moves away from the planted position. Independent of slope warping.",
     "AttackIKTooltip": "Place hands/feet according to IK bones during an attack animation.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "Plays animation from code using AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "Plays animation from code using AnimMontage",
@@ -4811,6 +4839,7 @@
     "ScaleCharacterBonesTooltip": "Scales characters bones using a mutator.",
     "ScaleHuskBonesTooltip": "Scales the husk's bones based on what type it is. (i.e. Dwarf husks are small but have big heads)",
     "SetIKTarget_Description": "Set Foot IK Targets",
+    "SimpleFootPlanting": "Simple Foot Planting",
     "SpeedWarping": "Speed Warping",
     "RootSlopeTiltTooltip": "Tilts the skeleton root toward the floor normal by a clamped fraction, so a downstream slope-warp node re-solves the limbs against an already-tilted body.",
     "TransformRollerTreads": "Transform Rollers/Treads",
@@ -5216,6 +5245,10 @@
     "EnergyCostUnits": "energy",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "FRIENDS",
+    "GiftingPartyMembersList": "PARTY MEMBERS"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "FRIENDS",
     "GiftingPartyMembersList": "PARTY MEMBERS"
@@ -5620,6 +5653,7 @@
     "DisconnectingFromLobby": "Cleaning up...",
     "LogoutUsabilityExperiment": "Cleaning up...",
     "FailedClientSettingsDownloadTitle": "Cloud Download Failure",
+    "LoginXmppAsync": "Connecting to party services...",
     "ConsoleConnectionChangePromptTitle": "Connection Status Change",
     "QueryKeychainNoMcpMsg": "Couldn't access MCP to download keychain",
     "CreatingParty": "Creating party...",
@@ -6644,6 +6678,7 @@
     "AutoFireName": "Auto Fire",
     "AutoInteractContainers_Name": "Auto Open Containers",
     "AutoOpenDoors_Name": "Auto Open Doors",
+    "AutoPickUpEnabled_Name": "Auto Pick Up Items",
     "AutoPickupWeaponsConsolePC_Name": "Auto Pick Up Weapons",
     "AutoPickupWeapons_Name": "Auto Pick Up Weapons",
     "AutoInteractRevives_Name": "Auto Revive Teammate",
@@ -6657,6 +6692,7 @@
     "AutoHideBuildingMaterials_Name": "Auto-Hide Building Materials",
     "AutoSetQuality_Action": "Auto-Set",
     "AutoSetQuality_Name": "Auto-Set Quality",
+    "MobileAutofireCollection_Name": "Autofire",
     "TouchAutomationsCollection_Name": "Automatic Actions",
     "AutomaticallyApplyXP_Name": "Automatic Application - People XP",
     "DynamicResolution_Description": "Automatically adjusts the 3D resolution based on GPU load. When GPU usage is low, the resolution increases up to native resolution. When GPU usage is high, the resolution decreases down to the Minimum 3D Resolution setting.",
@@ -7123,6 +7159,8 @@
     "MeshQuality_Description": "Higher geometry settings gives objects a more detailed shape. Increasing this setting will make objects more detailed, but can reduce performance.",
     "TextureQuality_Description_Default": "Higher textures settings give flat objects a more detailed appearance. Increasing this setting will make objects more detailed, but can reduce performance.",
     "TextureQuality_Description_NoHighMips": "Higher textures settings give flat objects a more detailed appearance. Increasing this setting will make objects more detailed, but can reduce performance.\n\n<Icon.Warning></> High quality textures are not installed. They can be downloaded from the Epic Games Launcher in the Fortnite Installation Options.",
+    "TextureQuality_Description_EpicAssetsInstalled": "Higher textures settings give flat objects a more detailed appearance. Increasing this setting will make objects more detailed, but can reduce performance.\n\nEpic quality textures are currently installed. To free up space and stream the assets during gameplay, the textures can be uninstalled from the Epic Games Launcher in the Fortnite Installation Options.",
+    "TextureQuality_Description_EpicAssetsStreamed": "Higher textures settings give flat objects a more detailed appearance. Increasing this setting will make objects more detailed, but can reduce performance.\n\nEpic quality textures are streamed on demand by default. To reduce downloads during gameplay, they can optionally be installed from the Epic Games Launcher in the Fortnite Installation Options.",
     "Hitmarkers_Name": "Hitmarkers",
     "AutoClamber_On": "Hold Forward",
     "AutoHurdle_On": "Hold Forward",
@@ -7369,6 +7407,7 @@
     "MeshQuality_Name": "Meshes",
     "MapPickupDotRarity_Name": "Minimap Pickup Indicators",
     "FOVMinimum_Name": "Minimum Field of View (FOV)",
+    "MobileCheatsCollection_Name": "Mobile Cheats",
     "MobileFPSType_Name": "Mobile Framerate",
     "MotionBlur_Name": "Motion Blur",
     "MouseAndKeyboardBindingsCollection_Name": "Mouse & Keyboard",
@@ -7966,6 +8005,7 @@
     "InvertPitchForAircraftPrimary_Description": "Turns aircraft controller steering inversion on/off. When on, forward movement will pitch the aircraft down.",
     "InvertPitchForAircraftSecondary_Description": "Turns aircraft mouse steering inversion on/off. When on, moving the mouse forward will pitch the aircraft down.",
     "InvertPitchForAircraftTouch_Description": "Turns aircraft touch steering inversion on/off. When on, moving touch forward will pitch the aircraft down.",
+    "AutoPickUpEnabled_Description": "Turns auto pick up items on/off. When on, items will automatically be picked up when moving over them.",
     "AutoSortConsumablesToHigherSlots_Description": "Turns auto sort consumables to higher numbered slots on/off. When on, consumable items such as health and shields will default to the highest empty quickbar slot when picked up.",
     "AutoSortConsumablesToRight_Description": "Turns auto sort consumables to right on/off. When on, consumable items such as health and shields will default to the rightmost empty quickbar slot when picked up.",
     "GamepadAutoRun_Description_PS4": "Turns controller auto-run on/off. When on, pressing the L3 Button twice will make you automatically run forward without needing to hold the left stick forward.",
@@ -9008,9 +9048,8 @@
     "Social_MutualFriendsFormat": "{0} Mutual {0}|plural(one=Friend,other=Friends)"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "Entity '{0}' carries a fort_multi_trace_weapon_component but its template is not shotgun_template. Only shotgun templates may use fort_multi_trace_weapon_component; pistol_teplate, assault_rifle_template, and sub_machine_gun_template must use fort_trace_weapon_component.",
-    "ArmoryTemplates_RequiresWeaponEntity": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "Entity '{0}' is the shotgun_template but does not carry a fort_multi_trace_weapon_component. Shotguns must use fort_multi_trace_weapon_component (not fort_trace_weapon_component)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "Entity '{0}' carries a {1} while it only allows {2}.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "Archetype '{0}' has no main variant. Exactly one variant must be tagged '{1}'.",
@@ -10503,7 +10542,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "KPop Demon Hunters",
     "LegoIslandTag": "LEGO Island",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Speed Run",
     "SolidWaveIslandTag": "Squid Game",
     "TmntIslandTag": "TMNT",
@@ -10600,6 +10638,14 @@
     "JunoValidator_GeometryCollection_NullProxyMeshes": "Has a null Proxy Mesh",
     "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
     "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "POI row '{0}' is set to Replace but names no ReplacementPOI, so it will only be removed. Name a replacement or set IneligibleAction to Remove.",
+    "ReplacementDisabled": "POI row '{0}' names disabled row '{1}' as its ReplacementPOI, so the replacement will always fail and the slot will only be freed.",
+    "ReplaceWithSelf": "POI row '{0}' names itself as its ReplacementPOI. The replacement would be just as ineligible as the row it replaces.",
+    "EmptyBiomes": "POI row '{0}' names no biomes, so it can never be placed. Name the biomes it belongs in.",
+    "IneligibleActionOnUnsupportedType": "POI row '{0}' sets IneligibleAction but is not an Overworld POI, so it will be ignored. Cave, cave entrance, bridge and fishing spot POIs own teardown state the retirement pass does not model.",
+    "ReplacementCycle": "POI rows '{0}' and '{1}' name each other as replacements. Break the cycle: one of them has to be a Remove."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "PlaylistBaseDataTableOverrides[{0}] for playlist tag '{1}': override table '{2}' has row struct '{3}', but base table '{4}' uses row struct '{5}'. Overriding a data table with a different row type causes memory corruption at runtime. The override table MUST use the exact same row struct as the base table."
@@ -10825,6 +10871,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "Lite UIKit"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*Dev* Reason shown: {0}",
     "Connecting": "CONNECTING",
@@ -10849,8 +10898,8 @@
     "Europe": "Europe",
     "Middle East": "Middle East",
     "NA-Central": "NA-Central",
-    "NA-East": "NA-East",
     "NA-West": "NA-West",
+    "North America": "North America",
     "Oceania": "Oceania",
     "Undefined": "Undefined"
   },
@@ -11105,6 +11154,11 @@
     "NearbySubjectsNoSelf": "No UMonologueComponent passed to NearbySubject",
     "SpatialContextNoSelf": "No UMonologueComponent passed to SpatialContext",
     "SpatialContextNoPawn": "SpatialContext - Couldn't get Pawn from subject"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "Hide Lobby Drops",
+    "LobbyDropsCollectionGame_Name": "Lobby Drops",
+    "HideLobbyDrops_Description": "When enabled, will hide Lobby Drops from Battle Royale, Blitz, and Reload lobbies. You will not be able to claim drops from Lobby Drops."
   },
   "MyTownManager": {
     "MissingPersonalityName": "No localization for {0}",
@@ -11464,6 +11518,7 @@
     "MemberLeftToast": "<Username>{Username}</> left the party",
     "MemberKickedToast": "<Username>{Username}</> was kicked from the party",
     "UnableToJoinCheckingForRejoin": "Checking for possible existing match, please wait.",
+    "EpicPartyJoinFailedNoResponse_Title": "Could not join party",
     "EpicPartyJoinFailedPrivate_Title": "Could not join party",
     "UnableToJoinPartyPrivate_Title": "Could not join party",
     "FailedPartyJoin": "Failed to join party",
@@ -11495,6 +11550,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "Unable to get power rating info.",
     "UnableToJoinUserBuildHigherFormat": "Unable to join <Username>{0}'s</> party, their version of Fortnite is newer than yours.",
     "UnableToJoinUserBuildLowerFormat": "Unable to join <Username>{0}'s</> party, their version of Fortnite is older than yours.",
+    "EpicPartyJoinFailedNoResponse": "Unable to join <Username>{0}'s</> party.",
     "UnableToJoinDeniedUserUnknownResult": "Unable to join <Username>{0}'s</> party.  Denial Reason Code {1}",
     "EpicPartyJoinFailedUnknown": "Unable to join <Username>{0}'s</> party.  Error Code {1}",
     "UnableToJoinUserUnknownResult": "Unable to join <Username>{0}'s</> party.  Error Code {1}",
@@ -11504,6 +11560,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "Unable to join party.  Denial Reason Code {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "Unable to join party.  Error Code {0}",
     "UnableToJoinPartyUnknownResult": "Unable to join party.  Error Code {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "Unable to join that party.",
     "ReadyTextSpectatingGame": "Watching Game",
     "ReadyTextWatchingReplay": "Watching a Replay",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "You are already in that party",
@@ -12517,6 +12574,9 @@
     "TwoTeamScore": "{0}"
   },
   "UAthenaGiftConfirmedPanel": {
+    "RecipientInfo": "You successfully sent <text color=\"FFF\">{DisplayName}</> a gift!"
+  },
+  "UAthenaGiftFlowConfirmedPanel": {
     "RecipientInfo": "You successfully sent <text color=\"FFF\">{DisplayName}</> a gift!"
   },
   "UAthenaLockerCategorySortConfig": {
