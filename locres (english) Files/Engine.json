@@ -2059,6 +2059,7 @@
     "UAFAnimTree": "UAF Anim Tree",
     "UAFAnimationGraph": "UAF Animation Graph",
     "UAFLayerStack": "UAF Layer Stack",
+    "UAFNotifyHandler": "UAF Notify Handler",
     "UAFSharedVariables": "UAF Shared Variables",
     "UAFStateTree": "UAF State Tree",
     "UAFSystem": "UAF System",
@@ -2144,7 +2145,11 @@
     "ModifiedAssetsAddSharedVariables": "Add Shared Variables",
     "ModifiedAssetsAddSharedVariablesStruct": "Add Shared Variables Struct",
     "ModifiedAssetsAddVariable": "Add Variable",
+    "BindableEnumUnresolvedType": "Bindable enum '{0}' has no enum type — set its EnumClass where the property is declared @@",
+    "BindableStructUnresolvedType": "Bindable struct '{0}' has no struct type — set its StructClass where the property is declared, or add meta=(BindableStructType=\"...\") @@",
+    "BindingInvalid": "Binding '{0}' on {1}: {2} @@",
     "FailedToGenerateCombinedPropertyBag": "Failed to generate combined property bag for {0}",
+    "DuplicateInputVariableEntries": "Input variable(s) with overlapping Name {0} found in {1}",
     "ModifiedAssetsJobName": "Modified Assets",
     "RemoveNotifyEvents": "Remove Notify Events",
     "ReplaceNotifyEvents": "Replace Notify Events",
@@ -2154,15 +2159,14 @@
     "AnimNextRigVMCommands": "RigVM"
   },
   "AnimNextSchemaActions": {
+    "InputVariableSetRejected": "'Set' is not allowed on Input variables - they are read-only inside UAF (set from outside UAF).\nUse a 'Get' node, or change the variable's scope to Internal or Local.",
     "AddComment": "Add Comment...",
-    "AddSharedAssetJobName": "Add Shared Asset dependency",
     "AddVariableNode": "Add Variable Node",
     "AddFunctionReferenceTransaction": "Add {0} Function Reference Node",
     "GetterTooltipFormat": "Adds a getter node for variable {0}",
     "SetterTooltipFormat": "Adds a setter node for variable {0}",
     "AddVariableTooltip": "Adds a variable of the pin type to the currently open asset.",
     "AddCommentTooltip": "Create a resizable comment box.",
-    "ForceVariablePublicJobName": "Force Variable Public Access",
     "GetVariableFormat": "Get {0}",
     "GetterFormat": "Get {0}",
     "PromoteToVariableTransaction": "Promote to Variable",
@@ -2191,12 +2195,11 @@
   "AnimNextTests": {
     "CleanupAfterTest": "Cleaning up after AnimNext test"
   },
-  "AnimNextUncookedOnlyModule": {
-    "CompilerResults": "UAF Compiler Results"
-  },
   "AnimNextUncookedOnlyUtils": {
     "MissingDefaultInjectionSiteError": "@@ Could not find default injection site: {0}",
     "DeprecatedNamedInjectionSiteWarning": "@@ Default injection site '{0}' uses a name-based reference. Please select a full reference to an asset's variable.",
+    "BindingRequiresInputScope": "@@ Variable '{0}' has a binding but is not Input scope. Bindings are only allowed on Input variables - set the variable's scope to Input, or clear the binding.",
+    "DisallowedVariableScopeFound": "@@ Variable '{0}' has scope '{1}' which is not allowed on this asset type",
     "InvalidVariableTypeFound": "@@ Variable '{0}' has unsupported variable type '{1}'",
     "UnresolvedTypeForVariable": "@@ Variable '{0}' references a missing type and will be skipped.",
     "DuplicateVariableFound": "@@ Variable '{0}' with duplicate name found",
@@ -2205,6 +2208,8 @@
     "DuplicateSharedVariableAssetFound": "Duplicate shared variables asset found ({0})",
     "DuplicateSharedVariableRigVMAssetFound": "Duplicate shared variables struct found ({0})",
     "DuplicateSharedVariableStructFound": "Duplicate shared variables struct found ({0})",
+    "ForceFunctionPublicJobName": "Force Function Public Access",
+    "ForceVariablePublicJobName": "Force Variable Public Access",
     "WorkspaceFunctionLibraryName": "Function Library",
     "InvalidSharedVariableAssetFound": "Invalid shared variables asset found ({0})",
     "InvalidSharedVariableEntryFound": "Invalid shared variables entry found ({0})",
@@ -2821,7 +2826,6 @@
   },
   "AssetDefinition": {
     "AssetDefinition_InputMappingContextDesc": "A collection of device input to action mappings.",
-    "AssetDefinition_ChaosCacheCollectionDescription": "A collection of physically active component caches that can be used to record and replay Chaos simulation recordings.",
     "AssetDefinition_AjaMediaOutput": "AJA Media Output",
     "AssetDefinition_AjaMediaSource": "AJA Media Source",
     "AssetDefinition_AudioSynesthesiaNRTSettingsSubMenu": "Advanced",
@@ -2856,9 +2860,7 @@
     "AssetDefinition_BlackmagicMediaSource": "Blackmagic Media Source",
     "AssetDefinition_LiveLinkBlueprintVirtualSubject": "Blueprint Virtual Subject",
     "AssetDefinition_ParticleSystem": "Cascade Particle System (Deprecated)",
-    "AssetDefinition_ChaosCacheCollectionSubMenu": "Chaos",
     "AssetDefinition_ChaosSolverSubMenu": "Chaos",
-    "AssetDefinition_ChaosCacheCollection": "Chaos Cache Collection",
     "AssetDefinition_ChaosSolver": "Chaos Solver",
     "AssetDefinition_CommonGenericInputActionDataTable": "Common UI InputActionDataTable",
     "Enum": "Composite Variables",
@@ -3041,6 +3043,19 @@
   "AssetDefinition_CameraVariableCollection": {
     "CameraVariableCollection_SubMenu": "Camera",
     "AssetDisplayName": "Camera Variable Collection"
+  },
+  "AssetDefinition_ChaosCacheCollection": {
+    "AssetDefinition_ChaosCacheCollectionDescription": "A collection of physically active component caches that can be used to record and replay Chaos simulation recordings.",
+    "CancelButton": "Cancel",
+    "AssetDefinition_ChaosCacheCollectionSubMenu": "Chaos",
+    "AssetDefinition_ChaosCacheCollection": "Chaos Cache Collection",
+    "DestFolderLabel": "Destination folder for the exported assets:",
+    "ExportButton": "Export",
+    "ExportDialogTitle": "Export Chaos Cache Collection To Animation",
+    "ExportToAnimation_Label": "Export To Animation...",
+    "ExportToAnimation_Tooltip": "Export each Geometry Collection cache to a SkeletalMesh / Skeleton / AnimSequence trio.",
+    "ComponentSpaceLabel": "Export in component space instead of in cache space",
+    "ReuseExistingLabel": "Reuse existing Skeleton / SkeletalMesh if they already exists"
   },
   "AssetDefinition_ChooserSignature": {
     "ChooserSignatureDisplayName": "Chooser Signature"
@@ -3783,6 +3798,7 @@
     "UserInterfaceAssetCategory": "User Interface",
     "WorldAssetCategory": "World",
     "AssetNameInUseByMap": "You can not create an asset named '{0}' because there is already a map file with this name in this folder.",
+    "UserFacingPathAndGuidToolTip": "{0}\nGUID: {1}",
     "AdvancedCopyPackages_SourceControlError": "{0} could not be added to revision control",
     "MigratePackages_SourceControlError": "{0} could not be added to revision control",
     "AdvancedCopyPackages_CouldNotProcessError": "{0} could not be processed: {1}",
@@ -6606,6 +6622,10 @@
   "BSPBrushOps": {
     "BrushName": "{0} Brush"
   },
+  "BakeConstraintsViewModel": {
+    "BakeAndDeleteConstraints": "Bake And Delete Constraints",
+    "BakeConstraints": "Bake Constraints"
+  },
   "BakeMeshAttributeToolCustomizations": {
     "BakeMapTypeMasksSection": "IDs & Masks",
     "BakeMapTypeLightingSection": "Lighting",
@@ -6625,6 +6645,9 @@
   },
   "BakeTransformToolCustomizations": {
     "BakeScaleMethodRestrictionText": "cannot only bake rotation: selection includes meshes with both non-uniform scale and rotation"
+  },
+  "BakeViewUtils": {
+    "BakeSettingsHeader": "Bake Settings"
   },
   "BaseCharacterFXEditorToolkit": {
     "WorkspaceMenu_CharacterFXEditor": "CharacterFX Editor"
@@ -8193,6 +8216,9 @@
   },
   "ChaosCacheManager": {
     "FailedPlaybackToast": "Failed Chaos cache playback for {0} components."
+  },
+  "ChaosCacheToAnimation": {
+    "ExportChaosCache": "Export Chaos Cache to AnimSequence"
   },
   "ChaosClothAsset": {
     "BuildErrorText": "Invalid LOD.",
@@ -10528,12 +10554,29 @@
     "BelowListItem": "below",
     "MultiDragFormatText": "{0} Items"
   },
+  "ConstrainableArrayDetails": {
+    "SelectTargetTooltipFormat": "Select the constraint's {0} actors.",
+    "SelectTargetFormat": "Select {0}"
+  },
+  "ConstrainableDetails": {
+    "SelectTargetTooltipFormat": "Select the constraint's {0} actor.",
+    "SelectTargetFormat": "Select {0}"
+  },
   "ConstraintComponent": {
     "BadBoneNameToConstraint": "Couldn't find bone {0} for ConstraintComponent {1}.",
     "BadBoneNameToConstraint2": "Couldn't find bone {0} for ConstraintComponent {1}.",
     "BothComponentsStatic": "{OwnerName} : Both components are static.",
     "SingleStaticComponent": "{OwnerName} : Connected to single static component.",
     "NoComponentsFound": "{OwnerName} : No components found to joint."
+  },
+  "ConstraintCreationOptions": {
+    "Swap_Disabled_Tooltip": "Set both a parent and a child to swap them.",
+    "Swap_Tooltip": "Swap the parent and the child."
+  },
+  "ConstraintCreationViewModel": {
+    "CreateConstraintKey": "Create Constraint Key",
+    "CreateConstraintsKey": "Create Constraints",
+    "SwapChildAndParent": "Swap constraint child and parent"
   },
   "ConstraintInstance": {
     "SameBodyWarningOwner": "'{0}'",
@@ -10545,6 +10588,27 @@
   },
   "Constraints": {
     "KeyControlConstraintKey": "Key Control Constraint Key"
+  },
+  "ConstraintsDetailsViewModel": {
+    "IncompatibleEditedObjects": "The selected constraints are of different types.\n\nEditing several constraints at once is only possible when they are all the same type. Select constraints of a single type to edit them together."
+  },
+  "ConstraintsListViewModel": {
+    "All": "All",
+    "CompensateAllConstraintKeys": "Compensate All Constraint Keys",
+    "CompensateConstraintKey": "Compensate Constraint Key",
+    "CreateConstraintKey": "Create Constraint Key",
+    "Current": "Current",
+    "LevelSequence": "Level Sequence",
+    "RemoveConstraint": "Remove Constraint",
+    "Selected": "Selected",
+    "AllTooltip": "Show all constraints",
+    "SelectedTooltip": "Show constrained, selected items: items selected that are the child of a constraint.",
+    "LevelSequenceTooltip": "Show constraints on active level sequence",
+    "CurrentTooltip": "Show constraints that are current in level sequences or static"
+  },
+  "ConstraintsViewportSelectionViewModel": {
+    "SelectConstraint": "Select Constraint",
+    "SelectConstraintChildren": "Select Constraint Children"
   },
   "ContentBrowser": {
     "InvalidBlueprint": "A selected Blueprint is invalid.",
@@ -10811,7 +10875,6 @@
     "ModularRig": "Event Queue",
     "RigStack": "Execution Stack",
     "Explorer": "Explorer",
-    "FSequencerTrackFilter_AnimLayerSequencer": "FSequencerTrackFilter_AnimLayerSequencer",
     "FlipbookEditor": "Flipbook Editor",
     "GPUReshape": "GPUReshape Plugin",
     "GameplayCameras_Debugger": "Gameplay Cameras Debugger",
@@ -10898,6 +10961,7 @@
     "ScribbleEdGraph": "Scribble",
     "ScriptableToolsEditorModeToolCommands": "ScriptableTools Mode - Tools",
     "SequencerPlaylists": "Sequencer Playlists Plugin",
+    "SequencerTrackFilter_AnimLayerSequencer": "Sequencer Track Filter - Anim Layer",
     "SessionConsole": "Session Console",
     "SkeletalMeshModelingToolsCommands": "Skeletal Mesh Modeling Tools",
     "SeletalMeshModelingToolsEditMode": "Skeletal Mesh Modeling Tools - Shared Shortcuts",
@@ -11030,8 +11094,7 @@
     "CreateControlRig": "Control Rig",
     "CreateControlRig_ToolTip": "Creates a control rig and preconfigures it for this asset",
     "CreateModularRig_ToolTip": "Creates a modular rig and preconfigures it for this asset",
-    "CreateModularRig": "Modular Rig",
-    "ControlRigDiffWindow": "Opening a diff window will close the control rig editor. {0}.\nAre you sure?"
+    "CreateModularRig": "Modular Rig"
   },
   "ControlRigAssetFactory": {
     "Null": "(null)",
@@ -11152,7 +11215,6 @@
     "ControlRigMode_Tooltip": "Control Rig Actions Tooltip",
     "HierarchyInvertTransformsToRestPose": "Invert Transforms to Rest Pose",
     "KeyAttribute": "Key Attribute",
-    "MirrorSelectedControls": "Mirror Selected Controls",
     "MoveControlTransaction": "Move Control",
     "PastePose": "Paste Pose",
     "SelectAllControls": "Select All Controls",
@@ -11201,6 +11263,7 @@
     "GetComponent": "Get Component",
     "GetConnector": "Get Connector",
     "GetControl": "Get Control",
+    "GetCurve": "Get Curve",
     "GetElement": "Get Element",
     "GetElements": "Get Elements",
     "GetMetadata": "Get Metadata",
@@ -11211,6 +11274,7 @@
     "GetComponent_ToolTip": "Getter For Component",
     "GetConnector_ToolTip": "Getter For Connector",
     "GetControl_ToolTip": "Getter For Control",
+    "GetCurve_ToolTip": "Getter For Curve",
     "GetElement_ToolTip": "Getter For Element",
     "GetElements_ToolTip": "Getter For Elements",
     "GetNull_ToolTip": "Getter For Null",
@@ -11241,6 +11305,7 @@
     "SetComponent": "Set Component",
     "SetConnector": "Set Connector",
     "SetControl": "Set Control",
+    "SetCurve": "Set Curve",
     "SetElement": "Set Element",
     "SetElements": "Set Elements",
     "SetMetadata": "Set Metadata",
@@ -11254,6 +11319,7 @@
     "SetComponent_ToolTip": "Setter For Component",
     "SetConnector_ToolTip": "Setter For Connector",
     "SetControl_ToolTip": "Setter For Control",
+    "SetCurve_ToolTip": "Setter For Curve",
     "SetElement_ToolTip": "Setter For Element",
     "SetElements_ToolTip": "Setter For Elements",
     "SetNull_ToolTip": "Setter For Null",
@@ -11418,11 +11484,14 @@
   },
   "ControlRigModuleDetails": {
     "BindingMenuTooltipFormat": "Access to all variables of the {0} module",
+    "Add_Target": "Add Target",
     "AddTargetToArrayConnector": "Add Target To Array Connector",
     "BindModuleVariableTransaction": "Bind Module Variable",
     "TransactionClearTargetsForArrayConnector": "Clear Targets For Array Connector",
+    "Clear_Targets": "Clear all targets",
     "Connections": "Connections",
     "ConstructionNeverRun": "Construction was never run.",
+    "ReorderArrayTarget": "Drag to reorder",
     "EmptyNameIsNotAllowed": "Empty name is not allowed.",
     "General": "General",
     "Metadata": "Metadata",
@@ -11431,6 +11500,7 @@
     "PostConstructionNeverRun": "Post-Construction was never run.",
     "RemoveModuleVariableTransaction": "Remove Binding",
     "Reset_Connector": "Reset Connector",
+    "Reset_ArrayConnectorTarget": "Reset to default",
     "ModuleHierarchyResolveConnector": "Resolve Connector",
     "RigClassLabel": "Rig Class",
     "RigClassPathLabel": "Rig Class Path",
@@ -11459,6 +11529,10 @@
     "PastePoseTransaction": "Paste Pose",
     "SelectControlTransaction": "Select Control"
   },
+  "ControlRigPoseController": {
+    "MirrorSelectedControls": "Mirror Selected Controls",
+    "MirrorUnselectedControls": "Mirror Unselected Controls"
+  },
   "ControlRigRenamePoseControls": {
     "Cancel": "Cancel",
     "RenamePrompt": "Enter a new name for the Controls you wish to rename.",
@@ -11485,9 +11559,9 @@
   },
   "ControlRigSequencerTrackFilters": {
     "SequenceTrackFilter_ControlRigControl": "Control Rig Control",
-    "FSequencerTrackFilter_ControlRigControls": "Control Rig Filters",
-    "FSequencerTrackFilter_ControlRigSelectedControls": "Control Rig Selected Control Filters",
     "SequenceTrackFilter_ControlRigSelectedControl": "Selected Control Rig Control",
+    "SequencerTrackFilter_ControlRigControls": "Sequencer Track Filter - Control Rig Controls",
+    "SequencerTrackFilter_ControlRigSelectedControls": "Sequencer Track Filter - Control Rig Selected Controls",
     "SequencerTrackFilter_ControlRigSelectedControlsTip": "Show Only Selected Control Rig Controls.",
     "SequencerTrackFilter_ControlRigControlsTip": "Show only Control Rig Control tracks"
   },
@@ -11500,11 +11574,13 @@
     "None": "None",
     "Parent": "Parent",
     "SelectActor": "Select Actor",
+    "SwapChildrenAndParentDisabledTooltip": "Select both a child and a parent to swap them.",
     "ActorToSnapTooltip": "Select child object(s) you want to snap over the interval range",
     "ParentToSnapTooltip": "Select parent object you want children to snap to. If one is not selected it will snap to World Location at the start.",
     "GetEndFrameTooltip": "Set end frame to snap",
     "GetStartFrameTooltip": "Set first frame to snap",
     "SnapAnimation": "Snap Animation",
+    "SwapChildrenAndParentTooltip": "Swap the child and parent selections. When there are multiple children, the last child is swapped with the parent.",
     "World": "World"
   },
   "ControlRigToolAsset": {
@@ -11549,12 +11625,14 @@
   "ControlRigViewportToolbarExtensionControlRig": {
     "ControlRigEditorHoveredAlphaToolTip": "Alpha value for hovered color.",
     "ControlRigAxesScale": "Axes Scale",
+    "ControlRigAxesThickness": "Axes Thickness",
     "ControlRigSubMenuLabel": "Control Rig",
     "ControlRigLabel": "Control Rig Display",
     "ControlRigSubMenuTooltip": "Control Rig related settings",
     "ControlRigHoveredAlpha": "Hovered Alpha",
     "ModularRig_Label": "Modular Rig Display",
-    "ControlRigAxesScaleToolTip": "Scale of axes drawn for selected rig elements"
+    "ControlRigAxesScaleToolTip": "Scale of axes drawn for selected rig elements",
+    "ControlRigAxesThicknessToolTip": "Thickness of axes drawn for selected rig elements"
   },
   "Controller": {
     "ControllerPossessAuthorityOnly": "Possess function should only be used by the network authority for {0}"
@@ -15087,7 +15165,9 @@
   "DataflowSimulationTransportControl": {
     "PlaybackModeDefaultTooltip": "Linear playback",
     "PlaybackModeLoopingTooltip": "Looping playback",
-    "PlaybackModePingPongTooltip": "Ping pong playback"
+    "PlaybackModePingPongTooltip": "Ping pong playback",
+    "Record_Tooltip": "Start recording",
+    "StopRecord_Tooltip": "Stop recording"
   },
   "DataflowSnapshotPanel": {
     "SourceOverride": "(override on asset)",
@@ -16059,6 +16139,8 @@
     "DirectlinkStreamManagerWindowTitle": "Datasmith Direct Link Connection Status"
   },
   "DirectMeshControl": {
+    "DirectMeshControl_ReducedVertexIndexMapping": "'{0}': LOD0 has been reduced, which prevents DMC generation. Clear the LOD0 reduction settings to enable DMC.",
+    "DirectMeshControl_NoVertexIndexMapping": "'{0}': LOD0 has no usable render-to-source vertex index mapping due to non-standard import data, so DMC is not supported.",
     "DirectMeshControl_Rebuild": "Finalizing Direct Mesh Controls..."
   },
   "DirectPathObjectLocator": {
@@ -17310,14 +17392,7 @@
     "SubobjectPlaceholderDisplayName": "(Unresolved) {0}",
     "PlaceholderComponentErrorColumn": "An error was encountered while loading this component and a placeholder was provided instead.\nThis is likely due to a Verse compilation error, or a renamed Verse class.\nTo fix this, you can fix your Verse code and/or rename the Verse class back to the original name.",
     "PlaceholderEntityErrorColumn": "An error was encountered while loading this entity and a placeholder was provided instead.\nThis is likely due to a Verse compilation error, or a renamed Verse class.\nTo fix this, you can fix your Verse code and/or rename the Verse class back to the original name.",
-    "SubobjectPlaceholderErrorColumn": "An error was encountered while loading this subobject and a placeholder was provided instead.\nThis is likely due to a Verse compilation error or a renamed Verse class.\nTo fix this, you can fix your Verse code and/or rename the Verse class back to the original name.",
-    "PlaceholderDelete_Title": "Delete Placeholder Object",
-    "PlaceholderDelete_ToolTip": "Delete placeholder object. Data will be lost!",
-    "PlaceholderFixup": "Placeholder Object Fixup",
-    "ComponentPlaceholderRedirect_Title": "Redirect Placeholder Object",
-    "EntityPlaceholderRedirect_Title": "Redirect Placeholder Object",
-    "ComponentPlaceholderRedirect_ToolTip": "Redirect placeholder object to another class",
-    "EntityPlaceholderRedirect_ToolTip": "Redirect placeholder object to another class"
+    "SubobjectPlaceholderErrorColumn": "An error was encountered while loading this subobject and a placeholder was provided instead.\nThis is likely due to a Verse compilation error or a renamed Verse class.\nTo fix this, you can fix your Verse code and/or rename the Verse class back to the original name."
   },
   "EntityPrefab": {
     "EntityPrefabEditorSettingsDescription": "Configure Entity Prefab Editor.",
@@ -17438,12 +17513,12 @@
   },
   "EntityPrefabViewport": {
     "ViewportSizingLabel": "...",
+    "PaneConfigHeader": "Four Panes",
     "MaximizeLabel": "Maximize Viewport",
     "OnePaneConfigHeader": "One Pane",
     "RestoreLabel": "Restore All Viewports",
+    "ThreePaneConfigHeader": "Three Panes",
     "MaximizeRestoreTooltip": "Toggles maximize/restore for this viewport",
-    "PaneConfigHeader": "Two Panes",
-    "ThreePaneConfigHeader": "Two Panes",
     "TwoPaneConfigHeader": "Two Panes",
     "ViewportSizingTooltip": "Viewport-sizing settings"
   },
@@ -17466,6 +17541,10 @@
   "EntitySequencer": {
     "UnprivilegedComponentUOLAccess": "The current user does not have the appropriate privilates to use Scene Graph Entity locators.",
     "UnprivilegedEntityUOLAccess": "The current user does not have the appropriate privileges to use Scene Graph Entity locators."
+  },
+  "EntitySkeletalAnimationEditor": {
+    "ProxySkeletonTooltip": "Follow the skeletal animation of another entity's mesh, so this mesh follows it. Set the Source entity on the new entry.",
+    "ProxySkeleton": "Proxy Skeleton"
   },
   "EntitySubobjectContextMenu": {
     "Entity": "Entity",
@@ -17874,6 +17953,11 @@
     "Removed": "Marked for delete",
     "ToolTip": "The action that was performed on the file"
   },
+  "FActorPickingViewModel": {
+    "ClearParentFromSelection": "Clear constraint parent",
+    "PickChildrenFromSelection": "Pick constraint children from selection",
+    "PickParentFromSelection": "Pick constraint parent from selection"
+  },
   "FAdvancedCookLaunchExtensionInstance": {
     "AdditionalCookerOptionsLabel": "Additional Cooker Options",
     "ExtensionName": "Advanced Cook Options",
@@ -17924,7 +18008,8 @@
     "AnimDatabaseEditorModeName": "AnimDatabase"
   },
   "FAnimDetailsValueEnumCustomization": {
-    "MultipleValuesText": "Multiple Values"
+    "MultipleValuesText": "Multiple Values",
+    "ResetValueToDefaultTransaction": "Reset Value To Default"
   },
   "FAnimGenEditorModule": {
     "AnimGenEditorAutoEncoderModeName": "AnimGenAutoEncoder",
@@ -18397,10 +18482,15 @@
   },
   "FChaosClothAssetSelectionNode": {
     "AnySelectionIndexOutOfBoundsDetails": "Found invalid selection indices for group \"{0}.\" See log for details",
+    "EmptyGroupName": "Invalid group name, select a valid group in the node settings",
     "NoMatchingSecondarySelectionFoundDetails": "No matching secondary selection with the name \"{0}\" has been found to import.",
     "NoMatchingSelectionFoundDetails": "No matching selection with the name \"{0}\" has been found to import.",
     "DeprecatedSelectionType": "Outdated Dataflow asset.",
+    "EmptyName": "Selection Name is empty, make sure the input name and/or output names are properly set",
     "SelectionIndexOutOfBoundsDetails": "Selection index {0} not valid for group \"{1}\" with {2} elements",
+    "SelectionSnapshotGroupMismatchDetails": "Selection snapshot cannot be transferred to the current group \"{0}\" (the snapshot was recorded for a different group, or the current group is not a supported group). Keeping the previously stored indices; open the mesh selection tool to make a new selection for the current group.",
+    "SelectionSnapshotTransferFailedDetails": "Selection snapshot for group \"{0}\" could not be transferred: the snapshot or the input collection is missing data required for the transfer. Open the mesh selection tool to make a new selection for the current group.",
+    "SelectionSnapshotTopologyChangedDetails": "The selection snapshot's stored topology no longer matches the current collection's topology for group \"{0}\". The selection has been transferred onto the current topology; open the mesh selection tool and save again to store a fresh snapshot and avoid a data transfer each time the node evaluates.",
     "DeprecatedSelectionDetails": "This node is out of date and contains deprecated data. The asset needs to be re-saved before it stops working at the next version update."
   },
   "FChaosClothAssetSelectionToIntMapNode": {
@@ -18479,6 +18569,8 @@
   },
   "FCommonOutlinerMode": {
     "AssetSectionLabel": "Asset",
+    "BrowseToAssetLabel": "Browse to Asset",
+    "BrowseToAssetTooltip": "Browse to the selected assets in the Content Browser",
     "CannotMoveCategoryToExitingAsset": "Category {0} is already part of {1}",
     "EntriesSectionLabel": "Entries",
     "MakePublicMenuLabel": "Expose as Public",
@@ -18647,6 +18739,10 @@
     "Tab.Title": "Constrain",
     "Tab.ToolTip": "Snap child objects to a parent object over a set of frames."
   },
+  "FConstraintTargetAutoPickerModel": {
+    "AutoPick": "Auto pick actors",
+    "AutoModeChanged": "Change constraint auto pick mode"
+  },
   "FContentBrowserLabelAssetWidgetConstructor": {
     "ContentBrowserLabelWidget_PurposeDescription": "Widget that display a Label + Thumbnail in the Content Browser."
   },
@@ -18669,6 +18765,9 @@
   },
   "FContextualAnimationEditorModule": {
     "ContextualAnimEdModeEdModeName": "ContextualAnim"
+  },
+  "FControlRigConstraintsCommands": {
+    "Description": "Commands relevant to the control rig constraints editor"
   },
   "FControlRigDynamicsEditorModule": {
     "DebugTabTitle": "ControlRig Dynamics Debug",
@@ -19433,6 +19532,12 @@
   },
   "FDistortionTable": {
     "ParameterValueLabel": "(unitless)"
+  },
+  "FDuplicateConstraintNotificationView": {
+    "DuplicateSubText": "Child {0} already has a constraint of type {1}",
+    "DuplicateTitle": "Constraint already exists",
+    "SelectButton": "Select",
+    "SelectButtonTooltip": "Select the conflicting constraint in the list"
   },
   "FDuplicateUserNotifier": {
     "DuplicateClient.Main": "Duplicate Client Name",
@@ -21101,8 +21206,10 @@
     "PCGSubMenuLandscape": "Landscape",
     "LogAbnormalComponentState": "Log abnormal component state (actor order)",
     "LogAbnormalComponentState_GroupedByState": "Log abnormal component state (grouped by state)",
+    "LogInspectionComponentState": "Log inspection cache entries per PCG component",
     "PCGToolsLoggingSubMenu": "Logging / Reporting",
     "PCGToolsLoggingSubMenu_Tooltip": "Logging and reporting related editor commands",
+    "LogInspectionComponentState_Tooltip": "Logs PCG inspection cache for every loaded actor",
     "LogAbnormalComponentState_Tooltip": "Logs unusual PCG components state, for every loaded actor",
     "LogAbnormalComponentState_GroupedByState_Tooltip": "Logs unusual PCG components, for every loaded actor, grouped by state",
     "UpdatePCGBlueprintVariableVisibility": "Make all PCG blueprint variables visible to instances",
@@ -21530,10 +21637,6 @@
     "Tooltip": "Add the actors under your current selection in the world outliner",
     "Label": "Selected Actors"
   },
-  "FSequencerAnimToolsModule": {
-    "TimePosingButton": "Time Posing",
-    "TimePosingButtonTooltip": "Toggle the Time Posing tool"
-  },
   "FSessionFrontendModule": {
     "FrontendTooltipText": "Open the Session Frontend tab.",
     "FrontendTabTitle": "Session Frontend"
@@ -21656,7 +21759,13 @@
     "SmoothRough.Description": "Push adjacent blended keys further together or apart. Smooth is useful for softening noise, like in mocap animations.",
     "PushPull.Description": "Push or pull the values to the interpolation between the previous and next keys",
     "EasyEase.Description": "Re-positions blended keys onto an ease-in/ease-out S-curve between the previous and next keys, speeding up in the middle.",
+    "ScaleFromNeighborLeft.Abbreviation": "SNL",
+    "ScaleFromNeighborRight.Abbreviation": "SNR",
     "SmoothRough.Abbreviation": "SR",
+    "ScaleFromNeighborLeft.Label": "Scale From Neighbor Left",
+    "ScaleFromNeighborRight.Label": "Scale From Neighbor Right",
+    "ScaleFromNeighborLeft.Description": "Scales the selected keys toward the unselected key on their left, landing on it at half strength and overshooting at full.",
+    "ScaleFromNeighborRight.Description": "Scales the selected keys toward the unselected key on their right, landing on it at half strength and overshooting at full.",
     "TimeOffset.Description": "Shifts the curve to the left / right by changing the keys' Y values and maintaining frame position.",
     "SmoothRough.Label": "Smooth Rough",
     "TimeOffset.Abbreviation": "TO",
@@ -21954,6 +22063,12 @@
   "FUAFCurvePanelExtension": {
     "CurvesButton": "Curves"
   },
+  "FUAFLayer": {
+    "BlendProviderNotOnBaseLayer": "Layer [{0}] uses the [{1}] blend provider, which is not supported on the base layer of a layer stack.",
+    "BlendProviderBaseLayerOnly": "Layer [{0}] uses the [{1}] blend provider, which is only supported on the base layer of a layer stack.",
+    "ContentProviderNotOnBaseLayer": "Layer [{0}] uses the [{1}] content provider, which is not supported on the base layer of a layer stack.",
+    "ContentProviderBaseLayerOnly": "Layer [{0}] uses the [{1}] content provider, which is only supported on the base layer of a layer stack."
+  },
   "FUAFLayerStackWidget": {
     "AddLayerLabel": "Add Layer",
     "AddLayerTooltip": "Adds a new layer",
@@ -21978,6 +22093,9 @@
     "RenameLayerLabel": "Rename Layer",
     "RenameLayerTooltip": "Renames the selected layer."
   },
+  "FUAFLayerTypes": {
+    "ColorIndicatorTooltip": "The color indicator for this layer, signifying what operations this layer performs"
+  },
   "FUAFLayerWidget": {
     "AdvancedLayerSettingsToolTip": "Advanced settings for this layer",
     "LayerVisibilityTooltip_DisablePreview": "Disable this layer for preview. It will still be enabled at runtime.",
@@ -21987,7 +22105,6 @@
     "CachedMeshSpaceLabel": "Mesh Space Additive",
     "AdditiveOutputPoseBindingLabel": "Output Additive Pose",
     "OutputPoseLabel": "Output Pose",
-    "ColorIndicatorTooltip": "The color indicator for this layer, signifying what operations this layer performs",
     "LayerNameTooltip": "The name of this layer. The name has to be unique within the layer stack",
     "AdditiveOutputPoseLabelToolTip": "The optionally cached additive pose output of this layer and another cached pose",
     "OutputPoseLabelToolTip": "The optionally cached pose output of this layer",
@@ -22519,6 +22636,11 @@
     "OnSpawnLabel": "OnSpawn: ",
     "DisplayTextFormat": "{0}{1}{2}"
   },
+  "FilterOptionPerAxisDetails": {
+    "AxisX": "X",
+    "AxisY": "Y",
+    "AxisZ": "Z"
+  },
   "FilterSearchBox": {
     "SearchHint": "Search"
   },
@@ -22557,6 +22679,10 @@
   },
   "FixupToolTedsQueries": {
     "PlaceholderResolutionSuggestion": "Please fix your Verse code and/or rename the Verse class back to the original name."
+  },
+  "FlattenedConstraintDetails": {
+    "MultiEditTitle": "Editing multiple {0} constraints",
+    "CreationTitle": "{0} Creation Options"
   },
   "FleshGeneratorWidget": {
     "ExportGeometryCacheDialogTitle": "Export Geometry Cache As"
@@ -22996,8 +23122,10 @@
     "Single.Undetermined": "n/a"
   },
   "FunctionParameter": {
+    "MaterialParameterPicker.None": "<select parameter>",
     "BindArgument": "Bind this argument to a property.",
-    "DefaultValue": "Default Value"
+    "DefaultValue": "Default Value",
+    "MaterialParameterPicker.SetParameterName.Transaction": "Set MVVM Material Parameter Name"
   },
   "FunctionalTest": {
     "DefaultTimesUpMessage": "Time's Up.",
@@ -23119,6 +23247,7 @@
     "GPULightmassSettingsTabTitle": "GPU Lightmass"
   },
   "GameFeatureDataStateMachine": {
+    "LoadingAssetRegistryActiveMount": "Loading Asset Registry Data for Plugin: {0}",
     "LoadingGameFeatureData": "Loading Game Feature Data for Plugin: {0}"
   },
   "GameFeatures": {
@@ -26076,6 +26205,9 @@
     "FileButtonToolTipText": "Choose a file from this computer",
     "PropertyEditorTitle": "File picker..."
   },
+  "ImportPresetAssetDefinition": {
+    "AssetDefinition_InterchangeImportPresetAsset": "InterchangeImportPresetAsset"
+  },
   "ImportSceneObject_GameThread": {
     "SkipLevelInstance": "Reimporting a level instance in the level it references. No LevelInstance will be created or updated."
   },
@@ -27056,6 +27188,7 @@
     "CleanupFbxData_NoObjectName": "Interchange FBX file Loading: Found object with no name, new object name is '{0}'",
     "PrimitiveFoundDegenerateTriangles": "Mesh '{0}' has {1} degenerate triangles",
     "NodeAllocationError": "Mesh node allocation failed when importing FBX.",
+    "EmbeddedFilePathTraversalRejected": "Potential malicious embedded files detected in '{0}'. Translation aborted.",
     "AnimBakeError": "UFBX couldn't bake animation: '{0}'.",
     "TransformNodeAllocationError": "Unable to allocate a node when importing FBX."
   },
@@ -27212,6 +27345,26 @@
   },
   "InterchangeImport": {
     "Label": "Interchange Import"
+  },
+  "InterchangeImportPresetCustomizations": {
+    "PipelinesDetailArrayBuilder_AddPipelineObject": "Add Pipeline",
+    "PipelineEditDialog_Apply": "Apply",
+    "PipelineEditDialog_Cancel": "Cancel",
+    "PipelineEditDialog_Discard": "Discard",
+    "Interchange_Category_Path": "Interchange",
+    "ImportPresetAssetFactory_MenuEntry": "Interchange Import Preset",
+    "PipelineEditDialog_NoPipeline": "No Pipeline",
+    "ImportPresetCustomization_TranslatorSettingsClassText": "Null pointer or unset by default",
+    "PipelinesDetailArrayBuilder_MissingClass": "Object of this class cannot be loaded in project",
+    "ImportPresetAssetFactory_CreateOptions": "Pick a Translator Class",
+    "PipelineEditDialog_Title": "Pipeline Settings",
+    "PipelinesDetailArrayBuilder_RemoveAllPipelineObjects": "Preset Asset: Remove All Pipelines",
+    "PipelinesDetailArrayBuilder_RemovePipelineObject": "Remove Pipeline At Index",
+    "PipelineEditDialog_ResetToDefault": "Reset To Default",
+    "ImportPresetCustomization_TranslatorClassText": "Translation Class",
+    "ImportPresetCustomization_TranslatorSettingsText": "Translation Settings",
+    "PipelinesDetailArrayBuilder_UndefinedClass": "Undefined Class",
+    "PipelinesDetailArrayBuilder_SomethingWrong": "Undefined Content"
   },
   "InterchangeImportTestPlan": {
     "TestPassed": "Passed"
@@ -27398,6 +27551,9 @@
   },
   "InterchangeResultNS": {
     "UInterchangeResultError_ReimportFail_GetText": "Re-import Fail, see log for more detail."
+  },
+  "InterchangeSceneGraphEditor": {
+    "ExportEntityFbxDialogTitle": "Export Entity as FBX"
   },
   "InterchangeSceneVariantSetsFactory": {
     "CreateEmptyAssetUnsupportedReimport": "Reimport of ULevelVariantSets is not supported."
@@ -28130,6 +28286,8 @@
     "MapCheck_Message_FixedUpInvalidLandscapeMaterialInstances": "Fixed up invalid landscape material instances. Please re-save {ProxyPackage}.",
     "MapCheck_Message_FixedUpDeletedLayerWeightmap": "Fixed up layer info{ForEditLayer} : Target {Layers}: \"{TargetLayerNames}\"",
     "MapCheck_Message_FixedUpSharedLayerWeightmap": "Fixed up shared weightmap texture for layer {LayerName} in landscape component (shares with '{ChannelName}')",
+    "GetEditLayerByName_Runtime": "GetEditLayerByName: this cannot be called at runtime",
+    "GetEditLayers_Runtime": "GetEditLayers: this cannot be called at runtime",
     "GetTargetLayerNames_Runtime.": "GetTargetLayerNames_EditorOnly: this cannot be called at runtime",
     "BeginImportingGizmoDataTask": "Importing Gizmo Data",
     "BeginImportingGizmoDataFromClipboardTask": "Importing Gizmo Data From Clipboard",
@@ -28141,7 +28299,8 @@
     "MapCheck_OverrideProperty_Desc": "Keeping the current value and marking the property as overriding the parent landscape's value.",
     "Landscape": "Landscape",
     "MapCheck_Message_LandscapeRebuildNanite": "Landscape Nanite is enabled but the saved mesh data is out of date. ",
-    "CanDeleteLandscapeReason": "Landscape can't be deleted because it still has {0} LandscapeStreamingProxies and {1} LandscapeSplineActors",
+    "CanDeleteLandscapeReason": "Landscape can't be deleted because it still has {0} Landscape Streaming {0}|plural(one=Proxy,other=Proxies) and {1} Landscape Spline {1}|plural(one=Actor,other=Actors)",
+    "CanDeleteLandscapeReason_InvalidLandscapeActor": "Landscape can't be deleted because the main landscape actor is invalid",
     "MapCheck_Message_LandscapeLazyObjectPtrDeprecation_Warning": "Landscape proxy {ProxyName} of {LevelName} points to a LandscapeActor that is not currently loaded. This will lose the property upon save. Please make sure to load the level containing the parent landscape actor prior to {LevelName} so that data deprecation can be performed adequately. It is advised to reassign the \"Landscape Actor\" property of LandscapeStreamingProxies and resave these actors.",
     "MapCheck_Message_LandscapeComponentPostLoad_Warning": "Landscape {ProxyName1} of {LevelName1} has overlapping render components with {ProxyName2} of {LevelName2} at location ({XLocation}, {YLocation}).",
     "LandscapeExportHeightmapToRenderTarget_Landscape_Heightmap_To_RenderTarget2D.": "LandscapeExportHeightmapToRenderTarget: Material Landscape_Heightmap_To_RenderTarget2D not found in engine content.",
@@ -28156,7 +28315,12 @@
     "LandscapeImportRenderTarget_InvalidRenderTarget": "LandscapeImportWeightmapFromRenderTarget: Render target must be at least as large as landscape on each axis.",
     "MapCheck_Message_LandscapeProxyObsoleteLayer": "Layer '{LayerName}' ('{LayerGuid}') was removed from LandscapeProxy because it doesn't match any Edit Layers in the parent Landscape. Saving will remove this data for good.",
     "MapCheck_Message_InvalidLandscapeGrassTypesOverride": "None of the following grass type overrides '{MissingGrassOverrides}' can be found in the proxy landscape {NumLandscapeMaterials}|plural(one=material,other=materials) '{LandscapeMaterials}'. {NumMissingGrassOverrides}|plural(one=This override,other=These overrides) will be ineffective.",
+    "MapCheck_Message_LandscapeComponentInvalidGrassData_Warning": "Out-of-date grass data found in landscape proxy. Some landscape grass types will not be spawned until the grass data is refreshed.",
     "MapCheck_OverrideProperty": "Override property",
+    "PrepareEditLayersResources_MissingWorld": "PrepareEditLayersResources was called on a landscape %ls that doesn't have a world.",
+    "PrepareEditLayersResources_Runtime": "PrepareEditLayersResources: this cannot be called at runtime",
+    "MapCheck_RebuildLandscapeGrassData_Action": "Rebuild Landscape Grass",
+    "MapCheck_RebuildLandscapeGrassData_Tooltip": "Rebuilds the grass data on all loaded landscape proxies (only needs to be run once per landscape).",
     "MapCheck_Message_FixedRemoveUnusedLayerWeightmap": "Removed unused layer weightmap{ForEditLayer} : Target {Layers}: \"{TargetLayerNames}\"",
     "BeginReplacingLayerTask": "Replacing Layer",
     "SampleRTData_FailedGetRenderTarget": "SampleRTData: GetRenderTargetImage failed.",
@@ -30267,6 +30431,17 @@
     "MSGSettingsDescription": "Configure the MS Gaming plugins",
     "MSGSettingName": "MS Gaming (PC GDK)"
   },
+  "MTFAcc": {
+    "LifecycleOrderCollision": "LifecycleOrderCollision",
+    "LifecycleOrderFixtureA": "LifecycleOrderFixtureA",
+    "LifecycleOrderFixtureZVerify": "LifecycleOrderFixtureZVerify",
+    "LifecycleSelfSkip": "LifecycleSelfSkip",
+    "LifecycleSetupAssertFail": "LifecycleSetupAssertFail",
+    "LifecycleSetupFail": "LifecycleSetupFail",
+    "LifecycleTeardownAssertFail": "LifecycleTeardownAssertFail",
+    "LifecycleTeardownFail": "LifecycleTeardownFail",
+    "SuiteSetup": "SuiteSetup"
+  },
   "MVVMBindingHelper": {
     "NoDestinationForBinding": "No destination was provided for the binding.",
     "NoSourceForBinding": "No source was provided for the binding.",
@@ -30542,7 +30717,7 @@
     "NumberOfArgumentsWrong": "Internal error. The number of arguments should be 1.",
     "ConversionFunctionNotValid": "The conversion function '{0}' is not valid as a conversion function",
     "DestinationPropertyDoesNotMatchReturn": "The destination property '{0}' ({1}) does not match the return type of the conversion function ({2}).",
-    "SourcePropertyDoesNotMatchArguments": "The source property '{0}' ({1}) does not match any of the argument types of the conversion function ({1}).",
+    "SourcePropertyDoesNotMatchArguments": "The source property '{0}' ({1}) does not match any of the argument types of the conversion function ({2}).",
     "SourcePropertyDoesNotMatchDestination": "The source property '{0}' ({1}) does not match the type of the destination property '{2}' ({3}). A conversion function is required.",
     "NoValueToBindAtDestination": "There is no value to bind at the destination.",
     "NoValueToBindAtSource": "There is no value to bind at the source."
@@ -32504,6 +32679,8 @@
     "FloodSelectionButtonLabel": "Flood",
     "FloodValuesRow": "Flood Values Slider",
     "FloodSelectionTooltip": "Flood the current selection by adding all connected components to the current selection.",
+    "ValuesDisplay_FontSize_Label": "Font Size",
+    "ValuesDisplay_FontSize_Tooltip": "Font size to use when displaying values",
     "MaterialMode": "Full Material",
     "GreyscaleMode": "Greyscale",
     "GrowSelectionButtonLabel": "Grow",
@@ -32592,6 +32769,7 @@
     "ValueOfSelectionLabel": "Value Of Selection",
     "ValueAtBrushCategory": "ValueAtBrush",
     "ValueQueryMethodBrushCategory": "ValueAtBrush",
+    "ValuesDisplay_FontSize_Row": "Values Display - Font Size",
     "ValuesDisplay_MaxValue_Row": "Values Display - Max Value",
     "ValuesDisplay_MinValue_Row": "Values Display - Min Value",
     "ValuesDisplay_OnlySelected_Row": "Values Display - Only Selected",
@@ -37605,6 +37783,10 @@
   "ModularRigHierarchyTreeElement": {
     "VerifyModuleNameInvalidController": "Invalid controller for Module, cannot rename module"
   },
+  "ModularRigHierarchyViewModel": {
+    "ModularRigModelDisconnectConnector": "Disconnect Connector",
+    "ModularRigModelResolveConnector": "Resolve Connector"
+  },
   "ModularRigRuleManager": {
     "CannotConnectLaterSpawnElement": "Cannot connect to an element spawn later than the connector's module.",
     "CannotConnectToConnectors": "Cannot connect to connectors.",
@@ -37612,6 +37794,220 @@
     "CannotConnectBelowNameSpace": "Cannot connect to element below the connector's namespace.",
     "CannotConnectWithinNameSpace": "Cannot connect within the same namespace.",
     "MissingHierarchyMessage": "The rule manager is missing the hierarchy."
+  },
+  "ModularTest": {
+    "SuiteSetup": "SuiteSetup",
+    "SuiteTeardown": "SuiteTeardown"
+  },
+  "ModularTestExecutor": {
+    "RunCompletePhaseFailedSegment": ", {0} suite phases failed",
+    "RunCompleteXPassSegment": ", {0} xpass",
+    "RunTitle": "Modular tests",
+    "RunCancelled": "Run cancelled",
+    "RunStarting": "Starting {0} test(s)",
+    "RunComplete": "{0} passed, {1} warn, {2} failed, {3} skipped{4}{5} ({6}s)"
+  },
+  "ModularTestFramework": {
+    "UnmountTestCompanions.Error.StillMounted": "A resolver claimed it had unloaded this plugin, but it is still mounted.",
+    "ResolverWaterfall.Canceled": "Canceled",
+    "UnmountTestCompanions.Canceled": "Canceled",
+    "UnmountTestCompanions.Error.NoResolverAccepted": "No resolver accepted this plugin. A resolver is likely missing its UnloadPlugins override.",
+    "DiscoverTestConfigs.Title": "Resolving Test Configs",
+    "MountTestCompanions.Title": "Resolving Test Plugins",
+    "UnmountTestCompanions.Error.NullResolver": "The resolver has become invalid.",
+    "UnmountTestCompanions.Title": "Unloading Test Plugins",
+    "ResolverWaterfall.Complete": "{0} {0}|plural(one=module,other=modules) resolved",
+    "ResolverWaterfall.PendingModules": "{0} {0}|plural(one=module,other=modules) resolved, {1} pending...",
+    "UnmountTestCompanions.Complete": "{0} {0}|plural(one=module,other=modules) unloaded",
+    "UnmountTestCompanions.PendingModules": "{0} {0}|plural(one=module,other=modules) unloaded, {1} pending..."
+  },
+  "ModularTestRunConfigDialog": {
+    "CheckedTestsSummaryClauseSeparator": ", ",
+    "ControlDisabledMounting": "A mount is refreshing the test list.",
+    "ControlDisabledRunning": "A run is in flight.",
+    "ControlDisabledDispatch": "A test dispatch is in progress.",
+    "AdvancedHeader": "Advanced",
+    "RunButtonBusyToolTip": "Another test run is in progress. Wait for it to finish.",
+    "BackendLabel": "Backend:",
+    "CancelButton": "Cancel",
+    "RunButtonNothingCheckedToolTip": "Check at least one test in the runner window first.",
+    "CancelButtonTooltip": "Close without starting a run",
+    "SuspendTimeoutsTooltip": "Disable every test timeout. Applies to workers spawned for this run; a changed timeout setup respawns retained workers.",
+    "RunButtonAllSkipToolTip": "Every checked test requires a different backend.",
+    "RecycleEnvTooltip": "Force env recycle on or off for every suite. A failed recycled suite setup skips that suite's remaining tests.",
+    "BackendInProcess": "InProcess",
+    "BackendToggleTooltip": "InProcess runs tests inside this editor. MultiProcess spawns worker editor processes; the first MultiProcess run is slower because the worker pool is not prewarmed.",
+    "BackendMultiProcess": "MultiProcess",
+    "TimeoutScaleValueTooltip": "Multiplier applied to every test timeout. Disabled while the override checkbox is off.",
+    "BackendDisabledNoConcept": "No checked test declares a backend.",
+    "RecycleEnvForceOff": "Off",
+    "RecycleEnvForceOn": "On",
+    "TestDependenciesTooltip": "Order the run so each checked plugin's dependency plugins go first, and skip a dependent whose dependency failed. Only checked tests run.",
+    "TimeoutScaleEnableTooltip": "Override the timeout scale. Unchecked keeps the cmdline/settings value; a changed scale respawns retained workers.",
+    "QueueButtonToolTip": "Queue the checked tests to run after the current run finishes",
+    "QueueButton": "Queue {0} {0}|plural(one=test,other=tests)",
+    "RecycleEnvLabel": "Recycle env between tests:",
+    "RunCountTooltip": "Repeat the checked tests this many times in one run. Passes execute back to back in the same process; counts and timers accumulate and one summary is reported at the end.",
+    "ResetAdvancedButton": "Reset all",
+    "ResetAdvancedTooltip": "Restore the run configuration to defaults: InProcess backend, one pass, every override cleared.",
+    "RunCountLabel": "Run count:",
+    "TestDependenciesLabel": "Run dependencies first",
+    "RunButton": "Run {0} {0}|plural(one=test,other=tests)",
+    "RunButtonToolTip": "Start the checked tests with this configuration",
+    "SuiteBreakdownSuiteColumn": "Suite",
+    "RecycleEnvSuiteDefault": "Suite default",
+    "SuspendTimeoutsLabel": "Suspend timeouts",
+    "RunButtonMountingToolTip": "Test plugins are still mounting. This finishes on its own.",
+    "SuiteBreakdownTestsColumn": "Tests",
+    "TimeoutScaleLabel": "Timeout scale",
+    "SkippedSuitesOverflow": "and {0} more",
+    "CheckedTestsSummaryWithDeps": "dependencies first",
+    "CheckedTestsSummaryRecycleOff": "env recycle forced off",
+    "CheckedTestsSummaryRecycleOn": "env recycle forced on",
+    "SuiteBreakdownSkipNote": "requires {0}, will skip",
+    "CheckedTestsSummaryTimeoutScale": "timeout scale {0}",
+    "CheckedTestsSummaryNoTimeouts": "timeouts suspended",
+    "SkippedSuiteLine": "{0} requires {1}",
+    "CheckedTestsSummaryWithPasses": "{0} {0}|plural(one=pass,other=passes)",
+    "CheckedTestsSummary": "{0} {0}|plural(one=test,other=tests) checked",
+    "CheckedTestsSummaryWithSkips": "{0} {0}|plural(one=test,other=tests) checked - {1} will run - {2} {2}|plural(one=suite,other=suites) ({3} {3}|plural(one=test,other=tests)) will skip"
+  },
+  "ModularTestRunTabs": {
+    "RunTabChipWarnOverlay": "({0} warn)",
+    "QueuedRunTabLabel": "({0}) {1}",
+    "TestsTabLabel": "All tests",
+    "TestsTabTooltip": "Browse, select and run tests",
+    "RunConfigTabTooltip": "Configure and start a run of the checked tests",
+    "CopyRunLog": "Copy",
+    "CopyRunLogTooltip": "Copy the selected run log lines to the clipboard.",
+    "QueuedTabNeverStarted": "Did not start",
+    "RunTabElapsed": "Elapsed: {0}s",
+    "RunLogFailures": "Failures",
+    "RunTabSearchHint": "Filter tests",
+    "WorkersTabTooltip": "Live warm-pool workers: role, status, PID, and kill",
+    "RunLogPasses": "Passes",
+    "RunLogPhases": "Phases",
+    "QueuedTabHeader": "Queued #{0}",
+    "RunTabSortTooltip": "Rank tests by duration, slowest first",
+    "RerunButton": "Re-run",
+    "RerunFailedButton": "Re-run failed",
+    "RunConfigTabLabel": "Run Configuration",
+    "RunLogContextMenuHeading": "Run log",
+    "RerunTooltip": "Run this tab's exact set again",
+    "RerunFailedTooltip": "Run this tab's failures again; a failed suite phase re-runs its whole suite",
+    "RunTabTriageShowAll": "Show all",
+    "RunTabProblemChipTooltip": "Show only failing and warning rows",
+    "RunTabTriageBanner": "Showing failures and warnings only ({0} of {1} rows)",
+    "RunLogSkips": "Skips",
+    "RunTabSortSlowest": "Slowest first",
+    "StopRunButton": "Stop",
+    "StopRunTooltip": "Stop this run",
+    "RunTabTimelineHeader": "Timeline ({0} events)",
+    "RunTabTook": "Took {0}s",
+    "RunTabWaiting": "Waiting for the run to start...",
+    "WorkersTabLabel": "Workers",
+    "RunTabChipExcluded": "excluded",
+    "RunTabChipFailed": "failed",
+    "RunTabChipNameCollision": "name collision",
+    "RunTabChipNotRun": "not run",
+    "RunTabChipSkipped": "skipped",
+    "RowWarnBadge": "warn",
+    "RunLogKindToggle": "{0} ({1})",
+    "RunTabCountsWithPhase": "{0} - {1}",
+    "RunTabHeader": "{0} - {1}",
+    "RunTabTooltip": "{0} - {1}",
+    "RunTabChipPassedMerged": "{0} passed",
+    "RunTabCheckedTests": "{0} {0}|plural(one=test,other=tests)",
+    "RunTabTallyChip": "{0} {1}",
+    "RunTabHeaderWithPasses": "{0}, {1} {1}|plural(one=pass,other=passes) - {2}"
+  },
+  "ModularTestRunnerWindow": {
+    "PluginMountFailed": "(mount failed)",
+    "PluginMountQueued": "(mount queued)",
+    "PluginNeedsProjectBoot": "(needs project boot)",
+    "PluginNeedsRelaunch": "(needs relaunch)",
+    "PluginNoTests": "(no tests)",
+    "PluginNotMounted": "(not mounted)",
+    "PluginUnavailable": "(unavailable)",
+    "PluginUnmountFailed": "(unmount failed)",
+    "AskAIPluginPrompt": "Add a new suite to {0}",
+    "AskAISuitePrompt": "Add a new test to {0} in plugin {1}",
+    "TabTooltip": "Browse and run ModularTestFramework tests.",
+    "AllItemsCheckboxTooltip": "Check all items passing the current filter. Unchecking clears every item, including filtered-out ones.",
+    "ModularTestRunnerContextClient": "Client",
+    "ModularTestRunnerContextCommandlet": "Commandlet",
+    "OpenRunConfigTip": "Configure and run the checked tests; a run already in flight queues this one. Stop lives on the run's own tab.",
+    "ContextFiltersLabel": "Context",
+    "CopyLog": "Copy",
+    "CopyName": "Copy Name",
+    "CopyRelaunchCommandTooltip": "Copy a ModularTestHub command line that can load this plugin.",
+    "CopyCommand": "Copy command",
+    "CopyRelaunchCommand": "Copy hub launch command",
+    "CopyCommandTooltip": "Copy the command to run this test in a terminal.",
+    "CopyNameTooltip": "Copy the name to the clipboard.",
+    "CopyLogTooltip": "Copy the selected result lines to the clipboard.",
+    "AskAIForPlugin": "Create test suite using AI Assistant...",
+    "AskAIForSuite": "Create test using AI Assistant...",
+    "TagsInsertHeading": "Discovered tags",
+    "ModularTestRunnerContextEditor": "Editor",
+    "TagsFilterTooltip": "Filter Test rows by a tag expression. Operators are uppercase AND, OR, NOT and parentheses; a space means AND. The insert dropdown appends a tag with AND, so type OR yourself for an OR. Copy the [Tokens] (not the whole expression) into -TagFilter= for CI.",
+    "TagsFilterHint": "Filter by tag...",
+    "ContextFiltersTooltip": "Filter tests by the runtime context they require",
+    "FilterHint": "Filter tests...",
+    "TagsInsertTooltip": "Insert a discovered tag into the tags filter (appended with AND)",
+    "MessageLogBarTitle": "Log",
+    "ContextMenuHeading": "Modular Test Framework",
+    "TabTitle": "Modular Tests Runner",
+    "MountPlugin": "Mount",
+    "MountSelectionCount": "Mount ({0})",
+    "MountAllButton": "Mount all",
+    "MountAllTooltip": "Mount every listed plugin's test companions and discover their tests",
+    "MountSelectionTip": "Mount the selected plugins",
+    "MountPluginTooltip": "Mount the selected plugins' test companions and discover their tests.",
+    "MountPlugins": "Mount {0} plugins",
+    "MountingPluginsTask": "Mounting test plugins for {0} plugins...",
+    "MountingPluginTask": "Mounting test plugins for {0}...",
+    "PluginMounting": "Mounting...",
+    "ItemToolTipNoTests": "No tests were discovered in this plugin.",
+    "AskAIForPluginTooltip": "Open AI Assistant to create a new suite in this plugin.",
+    "AskAIForSuiteTooltip": "Open AI Assistant to create a new test in this suite.",
+    "OpenInIDE": "Open in IDE",
+    "OpenInIDETooltip": "Open the source file in the IDE.",
+    "ItemToolTipOptOut": "Opts out of default runs.",
+    "QueueRunButton": "Queue...",
+    "RefreshTests": "Refresh",
+    "RefreshTip": "Refresh tests list",
+    "RemountingTestPlugins": "Refreshing mounted test plugins...",
+    "ResolvePlugin": "Resolve (may download)",
+    "ResolvePlugins": "Resolve {0} plugins (may download)",
+    "PluginResolving": "Resolving (may download)...",
+    "ResolvingPluginTask": "Resolving test plugins for {0} (may download)...",
+    "ResolvingPluginsTask": "Resolving test plugins for {0} plugins (may download)...",
+    "MessageLogTitle": "Result: {0}",
+    "LogContextMenuHeading": "Results",
+    "ItemToolTipContextMismatch": "Runs in the {0} context; this process provides {1}, so it cannot run here.",
+    "ItemToolTipTestMismatch": "Runs in the {0} context; this suite and process provide {1}, so it cannot run here.",
+    "ModularTestRunnerContextServer": "Server",
+    "WorkersButtonTooltip": "Show live warm-pool workers: role, status, PID, and kill",
+    "DetailsToggleTooltip": "Show or hide the details panel",
+    "TagsInsertLabel": "Tags",
+    "NameColumnLabel": "Tests",
+    "ItemToolTipSuiteNoContexts": "The owning suite declares no supported contexts, so nothing in it can run.",
+    "ItemToolTipSuiteMismatch": "The owning suite runs in the {0} context; this process provides {1}, so it cannot run here.",
+    "ItemToolTipNotMountableNoReason": "This plugin cannot be mounted in this session.",
+    "ItemToolTipNotMountable": "This plugin cannot be mounted in this session: {0}",
+    "ItemToolTipNotMounted": "This plugin is not mounted; mount it to discover and run its tests.",
+    "UnmountPlugin": "Unmount",
+    "UnmountPlugins": "Unmount {0} plugins",
+    "UnmountingPluginsTask": "Unmounting test plugins for {0} plugins...",
+    "UnmountingPluginTask": "Unmounting test plugins for {0}...",
+    "PluginUnmounting": "Unmounting...",
+    "UnmountPluginTooltip": "Unregister the selected plugins' tests and unmount their test companions.",
+    "WorkersButton": "Workers"
+  },
+  "ModularTestTemplate": {
+    "MTFTestPluginDesc": "Create a Modular Test Framework test plugin.",
+    "MTFTestPluginName": "Modular Test Plugin"
   },
   "ModularVehicle": {
     "AnimGraphNode_ModularVehicleController": "Controller for ModularVehicle",
@@ -38171,7 +38567,9 @@
     "GraphVisualizeSF": "Visualize"
   },
   "MoviePipelineEditorBasicConfigUtils": {
-    "SaveAsGraph_DialogTitle": "Save As Movie Render Graph Config"
+    "SaveAsGraph_IncompatibleExistingObject": "Cannot save the Movie Render Graph config to '{0}' because an object of type '{1}' already exists there. Choose a different name or location.",
+    "SaveAsGraph_DialogTitle": "Save As Movie Render Graph Config",
+    "SaveAsGraph_FullyLoadOperation": "Save Movie Render Graph Config"
   },
   "MoviePipelineEditorBlueprintLibrary": {
     "CantExportNullConfigToPackage": "Can't export a null configuration to a package.",
@@ -44307,6 +44705,7 @@
     "NodeTitle": "Attract",
     "NoOperation": "Attract node settings will do nothing. Sources will be forwarded.",
     "NodeTooltip": "Attracts source points to target points based on a max distance and a criteria.",
+    "FindClosestPointAlias": "Find Closest Point",
     "SourcePinTooltip": "The source points to be attracted by the target points.",
     "TargetPinTooltip": "The target points that will attract the source points."
   },
@@ -45362,6 +45761,10 @@
     "OutFilterOutputPinTooltip": "The elements that were excluded during the filtering process.",
     "PrimaryInputPinTooltip": "To be filtered by selected indices from a secondary input or a selection string."
   },
+  "PCGFindClosestPointOnSplineElement": {
+    "NodeTitle": "Find Closest Point On Spline",
+    "NodeTooltip": "For each input point, find the closest point on the spline and output its input key, alpha and location."
+  },
   "PCGGatherSettings": {
     "NodeTitle": "Gather",
     "NodeTooltip": "Gathers multiple data in a single collection. Can also be used to order execution through the dependency-only pin."
@@ -45973,6 +46376,9 @@
   "PCGMergeSettings": {
     "NodeTitle": "Merge Points"
   },
+  "PCGMeshDescriptorOverrides": {
+    "InitializeOverrideFailed": "Failed to initialize override '{0}' for property '{1}' on descriptor '{2}'."
+  },
   "PCGMeshSampler": {
     "AttributeCreationFailed": "Failed to create attribute {0} for {1}. {1} won't be computed",
     "InvalidOperation": "Invalid sampling operation",
@@ -45995,8 +46401,21 @@
     "InputMissingData": "Missing input data",
     "InputMissingMetadata": "Unable to get metadata from input"
   },
+  "PCGMeshSelectorByAttributeStruct": {
+    "AttributeNotInMetadata": "Attribute '{0}' is not in the metadata",
+    "AttributeInvalidType": "Attribute '{0}' is not of valid type (must be FString or FSoftObjectPath)",
+    "InputMissingData": "Missing input data",
+    "NoTemplateDescriptor": "The mesh selector has no template descriptor set.",
+    "InputMissingMetadata": "Unable to get metadata from input"
+  },
   "PCGMeshSelectorPrimitiveData": {
     "AttributeNotInMetadata": "Attribute '{0}' is not in the metadata"
+  },
+  "PCGMeshSelectorPrimitiveDataStruct": {
+    "AttributeNotInMetadata": "Attribute '{0}' is not in the metadata",
+    "MissingPrimitiveTable": "No data on the '{0}' pin, so there are no primitives to spawn.",
+    "PrimitiveDataPinTooltip": "Table of attributes that drive primitive properties. The primitive index attribute on the input points index into rows of this table. This data is only used on the CPU; GPU data will be read back to CPU.",
+    "NoTemplateDescriptor": "The mesh selector has no template descriptor set."
   },
   "PCGMeshSelectorWeighted": {
     "AttributeToPropertyOverrideUnavailable": "Attribute to Property Overrides are only currently available with the 'By Attribute' Selector",
@@ -46018,6 +46437,35 @@
     "TypeNotFString": "Out attribute is not of valid type FString",
     "InputMissingMetadata": "Unable to get metadata from input",
     "UnusedCategory": "Unused category '{0}'. Not a valid value for attribute '{1}'."
+  },
+  "PCGMeshSelectorWeightedByCategoryStruct": {
+    "InputMissingAttribute": "Attribute '{0}' is not in the metadata",
+    "AttributeInvalidType": "Attribute '{0}' is not of valid type FString",
+    "AttributeToPropertyOverrideUnavailable": "Attribute to Property Overrides are only currently available with the 'By Attribute' Selector",
+    "DuplicateDefaultEntry": "Duplicate default entry found. Subsequent default entries are ignored.",
+    "DuplicateEntry": "Duplicate entry found in category '{0}'. Subsequent entries are ignored.",
+    "EmptyEntryInCategory": "Empty entry found in category '{0}'",
+    "ZeroOrNegativeWeight": "Entry found with weight <= 0 in category '{0}'",
+    "InputMissingData": "Missing input data",
+    "NoUsableEntryInCategory": "No entry with a descriptor and a weight above zero in category '{0}'",
+    "AttributeNotInMetadata": "Out attribute '{0}' is not in the metadata",
+    "AttributeNotFString": "Out attribute is not of valid type FString",
+    "InputMissingMetadata": "Unable to get metadata from input",
+    "UnusedCategory": "Unused category '{0}'. Not a valid value for attribute '{1}'."
+  },
+  "PCGMeshSelectorWeightedStruct": {
+    "AttributeToPropertyOverrideUnavailable": "Attribute to Property Overrides are only currently available with the 'By Attribute' Selector",
+    "EntryWithNegativeWeight": "Entry found with weight <= 0",
+    "MissingInputData": "Missing input data",
+    "NoUsableEntries": "No mesh entry with a descriptor and a weight above zero",
+    "AttributeNotInMetadata": "Out attribute '{0}' is not in the metadata",
+    "AttributeNotFString": "Out attribute is not of valid type FString"
+  },
+  "PCGMeshSpawnerDataInterfaceBase": {
+    "OnlyBasicAttributesSupported": "Attribute '{0}' is invalid. GPU instance packer implementation currently only supports basic attributes.",
+    "InstanceDataAttributeNotFound": "Instance data attribute '{0}' not found.",
+    "InstanceDataAttributeInvalid": "Invalid instance data attribute specified '{0}'.",
+    "MeshSelectorAttributeNotFound": "Mesh selector attribute '{0}' not found."
   },
   "PCGMeshSpawnerPacking": {
     "AttributePackingTypeConflict": "Attribute '{0}' encountered with multiple different types in input data, custom float packing failed."
@@ -46677,35 +47125,33 @@
     "InvalidInputData": "Invalid input data"
   },
   "PCGSkinnedMeshSelector": {
-    "MeshAttributeNotInMetadata": "Mesh Attribute '{0}' is not in the metadata.",
-    "MeshAttributeInvalidType": "Mesh Attribute '{0}' is not of valid type (must be FString or FSoftObjectPath)."
+    "MeshAttributeInvalidType": "Mesh Attribute '{0}' is not a valid mesh attribute (must be FString or FSoftObjectPath), and no Skinned Asset is set on the mesh selector descriptor."
   },
   "PCGSkinnedMeshSpawnerDataInterface": {
     "TooManyPrimitives": "Attempted to emit too many primitive components, terminated after creating '{0}'.",
-    "OnlyBasicAttributesSupported": "Attribute '{0}' is invalid. GPU instance packer implementation currently only supports basic attributes.",
     "MeshSelectorAttributeNotUsable": "Attribute '{0}' not usable for mesh selection, only attributes of type String Key are supported.",
     "CouldNotLoadSkinnedMesh": "Could not load Skinned mesh from path '{0}'.",
-    "InstanceDataAttributeNotFound": "Instance data attribute '{0}' not found.",
-    "InstanceDataAttributeInvalid": "Invalid instance data attribute specified '{0}'.",
-    "MeshSelectorAttributeNotFound": "Mesh selector attribute '{0}' not found.",
     "NoMeshEntries": "No mesh entries provided in weighted mesh selector.",
     "TooManyInstances": "Tried to spawn too many instances ({0}), procedural ISM component creation skipped and instances will not be rendered."
   },
   "PCGSkinnedMeshSpawnerElement": {
     "GenerationInfo": "Added {0} instances of '{1}' on actor '{2}'",
     "AddISKM": "Adding ISKM/instances to an ISKM from PCG",
+    "TransformProviderLoadFailed": "Failed to load transform provider '{0}'; instances on this component will not animate.",
     "IdenticalABMCSpawn": "Identical Instanced Skinned Mesh Component spawn occurred. It may be beneficial to re-check graph logic for identical spawn conditions (same mesh descriptor at same location, etc) or repeated nodes.",
     "NodeTitle": "Instanced Skinned Mesh Spawner",
-    "InvalidMeshSelectorInstance": "Invalid MeshSelector instance, try reselecting the MeshSelector type",
     "InvalidInputData": "Invalid input data",
     "InvalidTargetActor": "Invalid target actor. Ensure TargetActor member is initialized when creating SpatialData.",
+    "AttributeOverwritten": "Metadata attribute '{0}' is being overwritten in the output data",
+    "InvalidMeshSelectorInstance": "No mesh selector is set on the Skinned Mesh Spawner",
     "NoPointDataInInput": "Unable to get point data from input",
     "MeshLoadFailed": "Unable to load mesh '{0}'",
     "OverrideMaterialLoadFailed": "Unable to load override material '{0}'"
   },
   "PCGSkinnedMeshSpawnerKernel": {
     "NoMeshEntries": "No mesh entries provided in weighted mesh selector.",
-    "InvalidInstancePacker": "Selected instance packer does not support GPU execution."
+    "InvalidInstancePacker": "Selected instance packer does not support GPU execution.",
+    "UnsupportedMeshSelector": "Selected mesh selector does not support GPU execution. Only 'By Attribute' is supported."
   },
   "PCGSortAttributesElement": {
     "InvalidTypeAccessor": "Attribute '{0}' exists but is not of a comparable type ({1}).",
@@ -46828,12 +47274,8 @@
   },
   "PCGStaticMeshSpawnerDataInterface": {
     "TooManyPrimitives": "Attempted to emit too many primitive components, terminated after creating '{0}'.",
-    "OnlyBasicAttributesSupported": "Attribute '{0}' is invalid. GPU instance packer implementation currently only supports basic attributes.",
     "CouldNotLoadStaticMesh": "Could not load static mesh from path '{0}'.",
-    "InstanceDataAttributeNotFound": "Instance data attribute '{0}' not found.",
-    "InstanceDataAttributeInvalid": "Invalid instance data attribute specified '{0}'.",
     "MeshAttributeInvalid": "Mesh attribute {0} not found in primitive data, or is not of required type Soft Object Path or String.",
-    "MeshSelectorAttributeNotFound": "Mesh selector attribute '{0}' not found.",
     "NoMeshEntries": "No mesh entries provided in weighted mesh selector.",
     "NoPrimitiveData": "No primitive data found, no primitives will spawn.",
     "OutOfBoundsPrimitiveIndex": "Primitive index {0} exceeds size of primitive table ({1}).",
@@ -46957,6 +47399,12 @@
   },
   "PCGTransformPointsSettings": {
     "NodeTitle": "Transform Points"
+  },
+  "PCGTrapezoidalDecompositionElement": {
+    "TooFewVerts": "Closed input has fewer than 3 segments; skipping decomposition.",
+    "NodeTooltip": "Decomposes a closed, planar spline or 2D polygon (holes supported) into unit right-angled triangles and rectangles via vertical-strip (trapezoidal) decomposition.\nOutputs the original data and a point per decomposed shape (transform scale carries the shape size; ShapeType attribute: 0 none, 1 triangle, 2 rectangle).\nAssumes a simple, non-self-intersecting boundary (and holes strictly inside it); self-intersecting input may leave gaps.",
+    "NotClosed": "Input spline is not a closed loop; skipping decomposition for it.",
+    "NodeTitle": "Trapezoidal Decomposition"
   },
   "PCGTypedGetterElements": {
     "GetPCGComponentTooltip": "Builds a collection of data from other PCG components on the selected actors.\nAutomatically tags each output with the grid size it was collected from, prefixed by \"PCG_GridSize_\" (e.g.PCG_GridSize_12800).\nNote: a component cannot get component data from itself or other components in its execution context, as it could create a circular dependency.",
@@ -47776,6 +48224,8 @@
     "NoCollisionDataWarning": "Warning: Collision is enabled but there are no shapes"
   },
   "ParamPropertyCustomization": {
+    "InputScopeRequiredTooltip": "Bindings are only allowed on Input-scope variables.",
+    "InputScopeRequired": "Input Scope Required",
     "MultipleTypes": "Multiple Types",
     "MultipleValues": "Multiple Values",
     "NoBindingTooltip": "No binding",
@@ -48085,6 +48535,9 @@
     "SetFilterCategory": "Set",
     "OperatorTypeFilterCategory": "Type",
     "MessageItemWarning": "Warning"
+  },
+  "PickingUtils": {
+    "ChooseComponentSection": "Choose Component"
   },
   "PinBoneOp": {
     "MissingTargetBone": "Pin Bone retarget op refers to non-existant bone to pin to, {0}.",
@@ -49460,7 +49913,10 @@
     "BrowseButtonLabel": "Browse"
   },
   "PropertyEditor": {
+    "HoldAltToOpenText": "(hold Alt to Open instead)",
     "CreateKeyToolTip": "Add a keyframe for this property.",
+    "BrowseToSpecificAssetInContentBrowser": "Browse to '{Asset}' in Content Browser {AltOpen}",
+    "BrowseToAssetInContentBrowser": "Browse to Asset in Content Browser {AltOpen}",
     "CreateKey": "Create Key",
     "UpdatedEditConditionFmt": "Edit Condition Changed",
     "SetNumericPropertyTransaction": "Edit {0}",
@@ -51085,7 +51541,7 @@
     "CategoryColumnLabel": "Category",
     "DisplayLabelColumnTooltip": "Display: per-category formatted-label render gate. Click to toggle for every filtered category.",
     "DisplayColumnTooltip": "Display: per-category render gate and verbosity cap. Click the icon to toggle the display state of every filtered category.",
-    "ShowHUDLogLinesTooltip": "Draw VLog log line entries (UE_VLOG / UE_VLOG_UELOG) as a top-left HUD text block.\nWorld-space shape primitives and per-shape descriptions are not affected.\nPersists across editor sessions.",
+    "ShowHUDLogLinesTooltip": "Draw VLog log line entries (UE_VLOG / UE_VLOG_UELOGF) as a top-left HUD text block.\nWorld-space shape primitives and per-shape descriptions are not affected.\nPersists across editor sessions.",
     "SolidOutlineTooltip": "Draw the wireframe outline on top of Solid* shapes.\nDisable to save line entries in solid-heavy scenes.\nMirrors UE.DebugDraw.SolidOutline.",
     "SphereMaxSidesTooltip": "Hard cap on Sphere wireframe segment count (UV grid; cost is quadratic in N).\nApplied AFTER Segment Multiplier.\nMirrors UE.DebugDraw.SphereMaxSides.",
     "WorldDepthTooltip": "Honor world depth for occluded shapes.\nDisable to skip the scene-depth-copy pass and render every shape on top.\nMirrors UE.DebugDraw.WorldDepthEnabled.",
@@ -51305,6 +51761,9 @@
     "RigMapperEditorActions_ValidateFailed": "Failed to validate definition \"{ObjectName}\". See output log for more details",
     "RigMapperDefinitionEditorGraphViewName": "Graph",
     "RigMapperDefinitionEditorToolkitGraphTab": "Graph",
+    "PreviewUnavailable": "Live preview is unavailable for this definition.",
+    "RigMapperDefinitionEditorPreviewName": "Preview",
+    "RigMapperDefinitionEditorToolkitPreviewTab": "Preview",
     "RigMapperDefinitionEditorTabGroup": "Rig Mapper Definition Editor",
     "RigMapperDefinitionEditorToolkitBaseToolkitName": "Rig Mapper Definition Editor",
     "RigMapperDefinitionEditorStructureViewName": "Structure",
@@ -51328,6 +51787,7 @@
     "RigMapperDefinitionStructureViewWeightedSumsFeatures": "Weighted Sums"
   },
   "RigMapperEditorModule": {
+    "ApplyStatus_Applied": "Applied",
     "RigMapperLinkedDefinitionsToolbar_Bake_Label": "Bake",
     "RigMapperLinkedDefinitionsContextMenu_Bake_Label": "Bake Definitions",
     "LinkedDefBakingFailed": "Baking linked definitions failed: {0} error(s), {1} warning(s)",
@@ -51355,18 +51815,23 @@
     "LoadFromJson": "Load RigMapper Definitions from Json file",
     "RigMapperDefinitionContextMenu_LoadFromJson_Label": "Load from Json",
     "RigMapperEditor_OK": "OK",
+    "RigMapperDefinitionToolbar_Preview_Tooltip": "Open the live cross-rig Preview viewport for this definition",
     "RigMapperDefinitionToolbar_InputImport_Tooltip": "Pick a Skeletal Mesh and auto-create Input nodes from its curves and controls",
     "RigMapperDefinitionToolbar_OutputImport_Tooltip": "Pick a Skeletal Mesh and auto-create Output nodes from its curves and controls",
     "RigMapperDefinitionToolbar_InputImport_Label": "Populate Inputs from Mesh",
     "RigMapperDefinitionToolbar_OutputImport_Label": "Populate Outputs from Mesh",
+    "RigMapperDefinitionToolbar_Preview_Label": "Preview",
     "RigMapperDefinitionContextMenu_LoadFromJson_Tooltip": "Reload this definition from the given json file",
     "RigMapperDefinitionToolbar_LoadFromJson_Tooltip": "Reload this definition from the given json file",
     "RigMapperActionsSectionName": "Rig Mapper",
     "RigMapperEditorMessageLog": "Rig Mapper",
     "RigMapperMenuSectionName": "Rig Mapper",
     "RigMapperEditorActions_PickSourceMesh": "Select Skeletal Mesh",
+    "ApplyStatus_UnappliedTooltip": "The definition graph needs to be saved in order to apply changes to runtime",
     "RigMapperLinkedDefinitionsContextMenu_Bake_Tooltip": "The linked definitions will be baked to the output definition",
     "RigMapperLinkedDefinitionsToolbar_Bake_Tooltip": "The linked definitions will be baked to the output definition",
+    "ApplyStatus_AppliedTooltip": "The runtime is using the latest saved definition graph",
+    "ApplyStatus_Unapplied": "Unapplied",
     "RigMapperDefinitionToolbar_Validate_Label": "Validate",
     "RigMapperLinkedDefinitionsToolbar_Validate_Label": "Validate",
     "RigMapperDefinitionContextMenu_Validate_Label": "Validate Definition",
@@ -51381,6 +51846,21 @@
   },
   "RigMapperLinkedDefinitionsAssetTypeActions": {
     "FRigMapperDefinitionAssetTypeActionsName": "Rig Mapper Linked Definitions"
+  },
+  "RigMapperPreviewPanel": {
+    "IsolateLabel": "Isolate Selected",
+    "Pause": "Pause",
+    "IsolateTooltip": "Pause the animation and drive only the selected graph node through the definition. Selecting an Output or feature drives the Inputs that feed it, so what you see is the mapping working, not the target rig being posed directly.",
+    "PlaybackDisabledNoAnim": "Pick a source animation to enable playback.",
+    "Play": "Play",
+    "PlaybackEnabled": "Play or pause the source animation",
+    "PlaybackDisabledIsolate": "Playback is unavailable while Isolate Selected is on - isolate drives the inputs directly instead of the animation.",
+    "RefreshButtonTooltip": "Recompile the preview from the current graph. Most edits refresh automatically; use this after one that did not.",
+    "RefreshButton": "Refresh",
+    "SourceAnimationTooltip": "The animation the source rig plays. Its evaluated curves are what drive the target.",
+    "SourceMeshTooltip": "The rig the definition reads curves FROM",
+    "TargetMeshTooltip": "The rig the definition writes curves TO",
+    "IsolateValueTooltip": "Value the isolated inputs are driven to. Sweep it rather than leaving it at 1 - the shape of an SDK curve or a weighted-sum range is only visible in motion."
   },
   "RigModuleAssetBrowser": {
     "AssetSectionLabel": "Asset",
@@ -51931,6 +52411,8 @@
   "RigVMGraphDetailCustomization": {
     "CharacterNotAllowedFormat": "'{0}' not allowed.",
     "AccessSpecifier": "Access Specifier",
+    "FunctionDetailsAdvanced": "Advanced",
+    "FunctionRefAdvanced": "Advanced",
     "ContainerTypeArrayNoRef": "Array",
     "ContainerTypeArrayNoRefTooltip": "Array Value, Copied into the function",
     "ContainerTypeArrayRef": "Array Variable",
@@ -51945,6 +52427,10 @@
     "NameIsAlreadyUsed": "Duplicate name.",
     "EmptyNamesAreNotAllowed": "Empty names are not allowed.",
     "Function": "Function",
+    "FunctionGuidLabel": "Function GUID",
+    "FunctionGuidRow": "Function GUID",
+    "FunctionRefGuidLabel": "Function GUID",
+    "FunctionRefGuidRow": "Function GUID",
     "FunctionName": "FunctionName",
     "FunctionPath": "FunctionPath",
     "FunctionDetailsGraph": "Graph",
@@ -52558,6 +53044,10 @@
     "RejectionsFmt": "{0} {0}|plural(one=Rejection,other=Rejections) for {1} {1}|plural(one=Object,other=Objects)",
     "TimeoutsFmt": "{0} {0}|plural(one=Timeout,other=Timeouts)"
   },
+  "SAutoModeToggleButton": {
+    "CycleOffTooltip": "Cycle selection is off. Click to turn on.",
+    "CycleOnTooltip": "Cycle selection is on: each new selection becomes the parent and the previously selected target becomes the child. Click to turn off."
+  },
   "SAutomationGraphicalResultBox": {
     "AutomationGraphicalDuration": "{Duration}s",
     "AutomationGraphicalToolTip": "{Name} \nDuration: {Duration}s",
@@ -53066,6 +53556,16 @@
     "NoObjects": "Add objects to replicate",
     "DeleteItems": "Delete"
   },
+  "SBindableValueDropTarget": {
+    "DropBindSubProperty": "Bind to a sub-property of {0}",
+    "DropBindTo": "Bind to {0}",
+    "SubPropCoerceTooltip": "Converts {0} to {1} (possible data loss)",
+    "DropSourceFunction": "function '{0}'",
+    "DropSourceVariable": "variable '{0}'",
+    "DropBindCoerced": "{0} - Converts {1} to {2} (possible data loss)",
+    "DropIncompatibleSource": "{0} is not a compatible binding source for this property",
+    "DropSourceQualifiedName": "{0}::{1}"
+  },
   "SBinkMediaPlayerWidgets": {
     "ElapsedTimeTooltip": "Elapsed Time",
     "StateOverlayForwardFormat": "Forward ({0}x)",
@@ -53512,6 +54012,12 @@
     "RemoveClassFilterTooltip": "Removes the Class Filter from the Filtering State.",
     "IncludeDerivedClassFilterTooltip": "Whether or not derived classes should also be accounted for when filtering."
   },
+  "SClickableConstraintRelationship": {
+    "Active": "Constraint is active.",
+    "Inactive": "Constraint is inactive.",
+    "SelectLabelTooltip": "Select {0}.\nHold shift to add to selection.",
+    "ToolTipFormat": "{0} (child) is constrained to {1} (parent).\n{2}"
+  },
   "SClientName": {
     "ParenthesesClientNameContent.OfflineClient": "Offline",
     "Unavailable": "Unavailable",
@@ -53931,6 +54437,41 @@
     "Snapper": "Snapper",
     "Spaces": "Spaces"
   },
+  "SConstraintKeyStatus": {
+    "KeyConstraintToolTip": "Toggle this constraint on / off.\nAdds an active keyframe for this constraint."
+  },
+  "SConstraintList": {
+    "BakeTooltip": "Bake the selected constraints into the level sequence using the bake settings.",
+    "CompensateAll": "Compensate All",
+    "CompensateKey": "Compensate Key",
+    "CompensateAllKeysTooltip": "Compensate all of the selected constraints' transform keys.",
+    "CompensateKeyTooltip": "Compensate the selected constraints' transform key at the current time.",
+    "BakeSettingsTooltip": "Edit the settings the bake uses.",
+    "BakeNoSelectionTooltip": "Select one or more constraints to bake first.",
+    "CompensateAllKeysUnavailableTooltip": "Select one or more constraints with a dynamic offset to compensate first.",
+    "CompensateKeyUnavailableTooltip": "Select one or more constraints with a dynamic offset to compensate first.",
+    "ShowLabel": "Show"
+  },
+  "SConstraintListRow": {
+    "DeleteConstraint_Tooltip": "Delete this constraint."
+  },
+  "SConstraintRelationship": {
+    "Active": "Constraint is active.",
+    "Inactive": "Constraint is inactive.",
+    "ToolTipFormat": "{0} (child) is constrained to {1} (parent).\n{2}"
+  },
+  "SConstraintsEdition": {
+    "ActiveConstraints": "Active Constraints",
+    "VisualizationOffTooltip": "Constraint visualization is off. Click to draw the constraints in the viewport.",
+    "VisualizationOnTooltip": "Constraint visualization is on. Click to stop drawing the constraints in the viewport.",
+    "VisualizationSettingsTooltip": "Open the Control Rig Edit Mode settings to configure the constraint visualization."
+  },
+  "SConstraintsTargetPicker": {
+    "PickActor_Tooltip": "Pick a target actor in the viewport.",
+    "SelectTarget": "Select Target",
+    "SelectTarget_Tooltip": "Select a target actor.",
+    "SetFromSelection": "Set from current selection."
+  },
   "SConstraintsWidget": {
     "KeyConstraintToolTip": "Add an active keyframe for that constraint.",
     "All": "All",
@@ -54051,6 +54592,10 @@
     "EnableStepSolverTooltip": "When disabled, every Step Physics Solver call is skipped. Useful for pausing the simulation while debugging (though visualization will be disabled too).",
     "AnimNodeControlRigDebugLabel": "a.AnimNode.ControlRig.Debug"
   },
+  "SControlRigPreviewMeshRefreshOverlay": {
+    "RefreshSkeletalMeshLabel": "Refresh",
+    "SkeletalMeshEditedLabel": "The skeletal mesh was edited"
+  },
   "SControlRigValidationWidget": {
     "ValidationLog": "Validation Log"
   },
@@ -54070,6 +54615,12 @@
     "NamedCurrentRevisionFmt": "{0} - Current Revision",
     "NamedRevisionDiffFmtUsesChangelists": "{0} - Revision {1}, CL {2}, {3}",
     "NamedRevisionDiffFmt": "{0} - Revision {1}, {2}"
+  },
+  "SCreateConstraint": {
+    "AddConstraint": "Add Constraint",
+    "AddConstraint_FromChildren_Tooltip": "Add constraints from '{0}' to '{1}'.",
+    "AddConstraint_PickChild_Tooltip": "Pick a child in the viewport to constrain to '{0}'.",
+    "AddConstraint_NoParent_Tooltip": "Select a parent first."
   },
   "SCreateNewSandbox": {
     "CancelButton": "Cancel",
@@ -55250,6 +55801,9 @@
     "PastePoseSearchDatabaseNodes": "Paste item(s) to Pose Search Database",
     "OnClickEditPoseReselection": "Set pose reselection for selected items"
   },
+  "SDataflowCacheTrackStrip": {
+    "NoCacheRecordedHint": "No cache recorded"
+  },
   "SDataflowConstructionViewport": {
     "VisualizationSubmenuTooltip": "Controls visualization options",
     "DataflowViewTooltip": "Display view options for the construction viewport.",
@@ -55287,7 +55841,9 @@
     "ChangeStringPinValue": "Change String Pin Value"
   },
   "SDataflowSimulationTimeline": {
-    "FilterTracksHint": "Filter"
+    "CacheTrackToggleDisabledTooltip": "Disabled while recording is in progress",
+    "FilterTracksHint": "Filter",
+    "CacheTrackEnabledTooltip": "Toggle between cached and live output for this track"
   },
   "SDataflowSimulationViewport": {
     "VisualizationSubmenuTooltip": "Controls visualization options",
@@ -55928,9 +56484,10 @@
     "ImportAllButton": "Import All"
   },
   "SFieldName": {
-    "FunctionTooltip": "{0}\nFunction: {1}\nReturns: {2}",
-    "PropertyTooltip": "{0}\nProperty: {1} {2}",
-    "FieldTooltip": "{0}\nType: {1}"
+    "FunctionTooltip": "Function: {0}\nReturns: {1}",
+    "PropertyTooltip": "Property: {0} {1}",
+    "FieldTooltip": "Type: {0}",
+    "DocAndDetail": "{0}\n{1}"
   },
   "SFilePathPicker": {
     "BrowseButtonToolTip": "Choose a file from this computer"
@@ -57239,7 +57796,8 @@
     "DocsLabel": "Docs",
     "FailedToApplyFix": "Failed to apply fix",
     "FixAppliedSuccessfully": "Fix applied successfully",
-    "TutorialLabel": "Tutorial"
+    "TutorialLabel": "Tutorial",
+    "ActorTokenToolTip": "{0}\nGUID: {1}"
   },
   "SMessagingAddressTableRow": {
     "Never": "Never"
@@ -57485,8 +58043,10 @@
     "BlendToolViewResetHeadText": "Reset Head",
     "BlendToolViewResetBodyToolTip": "Resets all body blend, sculpt and parameter settings back to their default values, clearing any manual body customisation.",
     "BlendToolViewResetHeadToolTip": "Resets all head blend and sculpt parameters back to their default values, clearing any manual head customisation.",
+    "SavePresetOverSelfTitle": "Save Blended Preset",
     "SavePresetTitle": "Save Blended Preset",
-    "BlendToolViewSavePresetToolTip": "Saves the current MetaHuman configuration as a named preset in your personal library, so it can be reused or blended from in future sessions."
+    "BlendToolViewSavePresetToolTip": "Saves the current MetaHuman configuration as a named preset in your personal library, so it can be reused or blended from in future sessions.",
+    "SavePresetOverSelfMessage": "The blended preset cannot overwrite the MetaHuman Character currently being edited. Choose a different path."
   },
   "SMetaHumanCharacterEditorBlendToolView": {
     "BodyViewResetFaceNeck": "Align Neck to Body",
@@ -57842,12 +58402,10 @@
   },
   "SModularRigHierarchy": {
     "AddModuleTransaction": "Add Module",
-    "DropNewModulesTransaction": "Add {0}|plural(one=Module,other=Modules)",
     "Cancel": "Cancel",
     "ConnectorColumnLabel": "Connector",
     "New_ToolTip": "Create New Modules",
     "DeleteModulesTransaction": "Delete selected {0}|plural(one=Module,other=Modules)",
-    "ModularRigModelDisconnectConnector": "Disconnect Connector",
     "DuplicateModulesTransaction": "Duplicate Modules",
     "FilterOptions": "Filter Options",
     "MirrorModulesTransaction": "Mirror Modules",
@@ -57859,14 +58417,25 @@
     "New": "New",
     "OK": "OK",
     "OptionsToolTip": "Open the Options Menu .",
-    "ReparentModulesTransaction": "Reparent {0}|plural(one=Module,other=Modules)",
-    "ModularRigModelResolveConnector": "Resolve Connector",
     "WarningsColumnLabel": "Warnings",
     "WarningsColumnTooltip": "Warnings"
   },
   "SModularRigHierarchyTreeItem": {
     "RenameModuleTransaction": "Rename Module",
-    "ModuleHierarchyResolveConnector": "Resolve Connector"
+    "ArrayConnectorItemCount": "{0} array {0}|plural(one=element,other=elements)"
+  },
+  "SModularRigHierarchyTreeView": {
+    "AddPendingArrayConnectorRow": "Add Connector Target",
+    "DropNewModulesTransaction": "Add {0}|plural(one=Module,other=Modules)",
+    "ClearArrayConnector": "Clear Connector Targets",
+    "DuplicateArrayConnectorTarget": "Duplicate Connector Target",
+    "InsertArrayConnectorTarget": "Insert Connector Target",
+    "RemoveArrayConnectorTarget": "Remove Connector Target",
+    "ReorderArrayConnectorEntry": "Reorder Connector Entry",
+    "ReparentModulesTransaction": "Reparent {0}|plural(one=Module,other=Modules)",
+    "ClearArrayConnectorTarget": "Reset Connector Target",
+    "ModuleHierarchyResolveConnector": "Resolve Connector",
+    "ResolveArrayConnectorTarget": "Resolve Connector Target"
   },
   "SMontageView": {
     "CurrentSectionName": "Current Section",
@@ -58116,6 +58685,12 @@
   },
   "SMultiClientView": {
     "NoProperties": "Use Edit button to add replicated properties"
+  },
+  "SMultiConstraintsTargetPicker": {
+    "PickActor_Tooltip": "Pick a target actor in the viewport.",
+    "SelectTarget": "Select Target",
+    "SelectTarget_Tooltip": "Select target actors.",
+    "SetFromSelection": "Set from current selection."
   },
   "SMultiUserStatusBar": {
     "ConnectionIndicator.OnlineFmt": "Connected to session {0}",
@@ -58765,6 +59340,8 @@
     "CategoryActionsSectionHeading": "Category {0}",
     "ClearOnPIE": "Clear on PIE",
     "FocusOnDocked_Tooltip": "Close the drawer and focus on the currently docked output log.",
+    "CopyLogFilePathTooltip": "Copies the absolute path of the Output Log file to the clipboard.",
+    "CopyLogFilePath": "Copy Log File Path",
     "DockInLayout": "Dock in Layout",
     "DockInLayout_Tooltip": "Docks this output log in the current layout.\nThe drawer will still be usable as a temporary log.",
     "WordWrapEnabledOption": "Enable Word Wrapping",
@@ -60323,6 +60900,7 @@
     "ShowLogTooltip": "Open Message Log",
     "ShowLogLabel": "Show Log",
     "ToggleDetailsTooltip": "Show/hide details",
+    "UnappliedChanges": "Unsaved changes - the definition graph needs to be saved in order to apply changes to runtime",
     "ValidationError": "Validation failed — {0} error(s)",
     "ValidationErrorWithWarnings": "Validation failed — {0} error(s), {1} warning(s)"
   },
@@ -60379,7 +60957,10 @@
     "UnmarkAllSelected_ToolTip": "Unmarks all checkboes for the selection"
   },
   "SRigVMEditorGraphExplorerTreeView": {
+    "AddNewFunctionTooltip": "Create a new function",
     "AddNewGraphTooltip": "Create a new graph",
+    "AddNewLocalVariableTooltip": "Create a new local variable",
+    "AddNewVariableTooltip": "Create a new variable",
     "Functions": "Functions",
     "Graphs": "Graphs",
     "LocalVariables": "Local Variables",
@@ -61924,6 +62505,36 @@
     "Tooltip.CurrentBlendValue": "{0} blend value.",
     "Tooltip.HoverPointFmt": "{0} blend value.\nClick to blend to this value."
   },
+  "SUAFAnimNodeDescSelector": {
+    "AnimNodesSection": "Anim Nodes",
+    "FilterAnimSequence": "Anim Sequence",
+    "FilterAnimTree": "Anim Tree",
+    "AssetSection": "Asset",
+    "FilterBlendSpace": "Blend Space",
+    "BrowseAssets": "Browse",
+    "FilterChooserTable": "Chooser Table",
+    "ClearNodeEntry": "Clear",
+    "ClearNodeEntryTooltip": "Clear the node",
+    "CopyAsset": "Copy",
+    "CopyAssetTooltip": "Copy the node's asset reference",
+    "CurrentAssetSection": "Current Asset",
+    "FilterLayerStack": "Layer Stack",
+    "OtherNodes": "Other Nodes",
+    "PasteAsset": "Paste",
+    "FilterProxyAsset": "Proxy Asset",
+    "FilterRecent": "Recently accessed assets",
+    "PasteAssetTooltip": "Replace the node from the asset reference on the clipboard",
+    "SelectAsset": "Select Asset...",
+    "SelectNode": "Select Node...",
+    "SelectorTooltip": "Select a node asset, or Other Node type",
+    "OtherNodesTooltip": "Select a node type that is not backed by an asset",
+    "AssetSelectorTooltip": "Select the asset this node plays",
+    "FilterStateTree": "State Tree"
+  },
+  "SUAFAnimTreeGraphNode": {
+    "ToggleNodePropertiesTooltip": "Show or hide the rest of this node's properties.",
+    "ToggleNodeProperties": "Toggle Node Properties"
+  },
   "SUAFBrowser": {
     "Add": "Add",
     "AssetPreviewNotSetup": "Asset Preview Not Setup for Type",
@@ -62671,6 +63282,21 @@
     "NextButtonTooltip": "Go to the next step",
     "NextButtonLabel": "Next"
   },
+  "SWorkerPoolPanel": {
+    "NoPid": "-",
+    "StateDisconnecting": "Disconnecting",
+    "StateFailed": "Failed",
+    "StateIdle": "Idle",
+    "KillSelected": "Kill Selected",
+    "KillConfirmInUseFormat": "Kill {0} selected worker(s), {1} of them claimed by a running test? This cannot be undone.",
+    "KillConfirmFormat": "Kill {0} selected worker(s)? This cannot be undone.",
+    "NoPool": "No warm pool active",
+    "StateResetting": "Resetting",
+    "StateSpawning": "Spawning",
+    "KillSelectedTooltip": "Terminate the selected worker(s)",
+    "StateInUseFormat": "{0} (in use)",
+    "SummaryFormat": "{0} client(s) idle - {1} server(s) idle - {2} in use - {3} transitioning"
+  },
   "SWorkspacePicker": {
     "ChooseWorkspaceToOpen": "Choose Workspace to Open",
     "CreateNewWorkspace": "Create New Workspace",
@@ -62886,8 +63512,7 @@
     "CanGroup_RootParentMismatch": "The highest-level selected entities should be siblings at the root"
   },
   "SceneOutlinerBannerWidget": {
-    "SceneOutlinerRepairErrors": "Repair Errors",
-    "WorldHasInvalidActorFiles": "The world contains invalid actor files. Click the Repair button to repair them."
+    "SceneOutlinerRepairErrors": "Repair Errors"
   },
   "SceneOutlinerRowHandleColumn": {
     "MissingWidgetConstructor": "Row Handles cannot be displayed if widget constructor for the General.Cell.RowHandle purpose was not found"
@@ -63308,6 +63933,7 @@
     "KeyAllSettooltip": "Key everything in the selection set at this time that's active",
     "LoadFromLastJson": "Load Selection Set from last open Selection Set",
     "LoadFromJson": "Load Selection Sets from Json file",
+    "NoMatchingItemFound": "No Matching Item Found with This Set",
     "OnlyShowSelected": "Only Show Sets on the Selected or last Selected object",
     "RemoveSelectionFromSet": "Remove Selection",
     "RemoveSelectionFromSetItem": "Remove Selection From Set Item",
@@ -63811,11 +64437,21 @@
     "CorruptComponentFixed": "SCS Node component template {0} has been recreated because it was unexpectedly not owned by the class"
   },
   "SimulationClothVertexFaceSpringConfigNode": {
+    "VertexFaceSpring_AppendingToExistingSet": "Appending springs to the existing constraint set '{0}', whose stiffness properties are shared by every node using that set. Set a unique Constraint Set Name on this node for independent properties.",
+    "CreateConstraints_InvalidFacades": "CreateConstraints : Cloth or Selection facade are invalid, this may be because the collection is empty",
+    "CreateConstraints_NoConstrainsGenerated": "CreateConstraints : No constraints were generated",
+    "CreateConstraints_EmptySourceSet": "CreateConstraints : Source selection set is emnpty, skipping generation for this ConstructionSetData",
+    "CreateConstraints_EmptyTargetSet": "CreateConstraints : Target selection set is emnpty, skipping generation for this ConstructionSetData",
+    "CreateConstraints_Report": "CreateConstraints : {0} constraints generated",
     "VertexFaceSpring_InvalidSourceIndices": "invalid source indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed",
-    "VertexFaceSpring_InvalidTargetIndices": "invalid target indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed"
+    "VertexFaceSpring_InvalidSourceIndices_v2": "invalid source indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed",
+    "VertexFaceSpring_InvalidTargetIndices": "invalid target indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed",
+    "VertexFaceSpring_InvalidTargetIndices_v2": "invalid target indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed"
   },
   "SimulationClothVertexSpringConfigNode": {
-    "VertexSpring_InvalidVertexIndices": "invalid vertex indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed"
+    "VertexSpring_AppendingToExistingSet": "Appending springs to the existing constraint set '{0}', whose stiffness properties are shared by every node using that set. Set a unique Constraint Set Name on this node for independent properties.",
+    "VertexSpring_InvalidVertexIndices": "invalid vertex indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed",
+    "VertexSpring_InvalidVertexIndices_v2": "invalid vertex indices detected, ignoring constraints, please regenerate constraints as the topology of the sim mesh may have changed"
   },
   "SimulationPrefabFactory": {
     "DisplayName": "Simulation Prefab"
@@ -66660,6 +67296,7 @@
     "ShowingOnlySomeObjectsSelectedFmt": "Showing {Current} of {Total} {Total}|plural(one=Object,other=Objects) ({Selected} selected)",
     "CollapseOutlinerTreeOnNewSelectionTooltip": "When enabled, all items except the one that was just selected are collapsed.",
     "AlwaysFrameSelectionTooltip": "When enabled, selecting an object in the Viewport also scrolls to that item in the Outliner.",
+    "UseAltToDetachHelpText": "{0} Hold Alt to detach from parent.",
     "ShowingAllObjectsFmt": "{Count} {Count}|plural(one=Object,other=Objects)",
     "ShowingAllObjectsSelectedFmt": "{Count} {Count}|plural(one=Object,other=Objects) ({Selected} selected)"
   },
@@ -66966,6 +67603,34 @@
   "TimePosingTool": {
     "MoveTimePosingAnchor": "Move Time Posing Anchor"
   },
+  "TimePosingViewportMenu": {
+    "BehaviorSection": "Behavior",
+    "CenterColor": "Center Color",
+    "CenterWidth": "Center Width",
+    "CenterColorTooltip": "Color of the full-weight band between the two middle anchors",
+    "FalloffColorTooltip": "Color of the two falloff gradients and of the four anchor bars",
+    "DisplaySection": "Display",
+    "FalloffEaseIn": "Ease In",
+    "FalloffEaseInEaseOut": "Ease In / Ease Out",
+    "FalloffEaseOut": "Ease Out",
+    "FalloffSection": "Falloff",
+    "FalloffColor": "Falloff Color",
+    "FalloffWidth": "Falloff Width",
+    "RangeSection": "Initial Range",
+    "FalloffLinear": "Linear",
+    "PreviewToolsLabel": "Preview Tools",
+    "FalloffWidthTooltip": "Seconds spanned by each falloff band when Time Posing is first seeded for a Sequencer. Drag the outer anchors to change an existing range.",
+    "CenterWidthTooltip": "Seconds spanned by the full-weight band when Time Posing is first seeded for a Sequencer. Drag the middle anchors to change an existing range.",
+    "SetKeyOnBoundaries": "Set Key On Boundaries",
+    "TimePosingLabel": "Time Posing",
+    "TimePosingTooltip": "Toggle the Time Posing tool. While active, edits at the current frame are spread across the posing range using the falloff below.",
+    "FalloffEaseInEaseOutTooltip": "Weight eases at both ends of each falloff band",
+    "FalloffLinearTooltip": "Weight falls off in a straight line across each falloff band",
+    "FalloffEaseOutTooltip": "Weight leaves the outer edge quickly and decelerates toward the center",
+    "FalloffEaseInTooltip": "Weight leaves the outer edge slowly and accelerates toward the center",
+    "SetKeyOnBoundariesTooltip": "When posing writes a delta, also key each of the four anchors that has no key yet, sealing the pose inside the falloff range",
+    "TimePosingTooltipWithChord": "{0} ({1})"
+  },
   "TimecodeProvider": {
     "Undefined": "<Undefined>"
   },
@@ -67075,7 +67740,8 @@
   },
   "TmvMediaPlayerFrameProducer": {
     "FailedToCreateMediaSource": "Failed to create a media source from path \"{0}\"",
-    "InvalidMediaSourceAsset": "Invalid Media Source Asset: \"{0}\""
+    "InvalidMediaSourceAsset": "Invalid Media Source Asset: \"{0}\"",
+    "InsufficientMemoryForFrame": "Not enough memory to transcode a single frame: one frame needs ~{0} MB, but only ~{1} MB of the ~{2} MB available can be budgeted for transcoding. Lower the source resolution, close other GPU applications, or transcode on a machine with more memory."
   },
   "TmvMediaTmvFrameEncoder": {
     "EmptyOutputPath": "Empty Output Path",
@@ -67544,28 +68210,92 @@
   },
   "UAFAnimNodeDescExDetails": {
     "AddModifier": "Add Modifier",
-    "BaseNodeAssetSection": "Asset",
     "UAFClearBaseNode": "Clear Base Node",
-    "CopyAsset": "Copy",
-    "CopyAssetTooltip": "Copy the base node's asset reference",
-    "PasteAsset": "Paste",
     "UAFRefreshNodeData": "Refresh Node Data",
-    "PasteAssetTooltip": "Replace the base node from the asset reference on the clipboard",
-    "BaseNodeTypeTooltip": "Select the base node type",
     "UAFSetBaseNodeFromAsset": "Set Base Node From Asset",
     "UAFSetBaseNodeType": "Set Base Node Type"
   },
   "UAFAnimNodeEditorModule": {
-    "AnimTree_EmptyTabName": "Anim Tree"
+    "AnimTree_EmptyTabName": "Anim Tree",
+    "CutAnimNodes": "Cut Anim Nodes",
+    "DeleteAnimNodes": "Delete Anim Nodes",
+    "DuplicateAnimNodes": "Duplicate Anim Nodes",
+    "PasteAnimNodes": "Paste Anim Nodes"
   },
   "UAFAnimNodeTrack": {
+    "Anim Node Tree": "Anim Node Tree",
+    "RecordingInProgress": "Recording in progress...",
     "UAFAnimNode": "UAF Anim Node"
   },
   "UAFAnimNodeWidget": {
     "Edit Asset": "Edit Asset"
   },
   "UAFAnimOpTrack": {
+    "RecordingInProgress": "Recording in progress...",
     "UAFSystems": "UAF Systems"
+  },
+  "UAFAnimStructDebugProperties": {
+    "AnimStructHeaderUnknown": "Properties",
+    "TracedValueFalse": "false",
+    "TracedValueTrue": "true"
+  },
+  "UAFAnimTreeDetails": {
+    "CompiledAnimNodeCategory": "Compiled Anim Node"
+  },
+  "UAFAnimTreeEdGraphNode": {
+    "EmptyNodeTooltip": "An anim node with no descriptor type chosen.",
+    "EmptyNodeTitle": "Anim Node",
+    "DroppedChildConnectionFormat": "Input '{0}' no longer exists; its connection was dropped."
+  },
+  "UAFAnimTreeEdGraphOutputNode": {
+    "OutputNodeTitle": "Output Pose",
+    "OutputNodeTooltip": "The pose this anim tree produces. The node connected here becomes the root of the compiled tree."
+  },
+  "UAFAnimTreeEdGraphSchema": {
+    "ConnectSameNode": "A node cannot feed itself",
+    "AddAnimNode": "Add Anim Node",
+    "DropAssetOnPin": "Add Anim Node For Asset",
+    "DropAssetsOnGraph": "Add Anim Nodes For Assets",
+    "NodeActionsSection": "Anim Node",
+    "AnimNodeCategory": "Anim Nodes",
+    "ConnectCausesLoop": "Anim trees cannot contain cycles",
+    "AutoLayoutChildrenTooltip": "Arrange everything feeding this node, leaving the node itself where it is.",
+    "AutoLayoutAllTooltip": "Arrange the whole tree, working out from the output node.",
+    "AutoLayoutAll": "Auto-Layout All",
+    "AutoLayoutAllTransaction": "Auto-Layout All",
+    "AutoLayoutChildren": "Auto-Layout Children",
+    "AutoLayoutChildrenTransaction": "Auto-Layout Children",
+    "ConnectSameDirection": "Connect an output pose to an input pose",
+    "DisableNode": "Disable Node",
+    "NodeEditSection": "Edit",
+    "EnableNode": "Enable Node",
+    "EnableNodeTooltip": "Include this node when compiling.",
+    "PinMissing": "Invalid pin",
+    "ModifierCategory": "Modifiers",
+    "NoAnimNodeForAsset": "No anim node type is registered for this asset.",
+    "ReplaceBothLinks": "Replace existing connections",
+    "ReplaceOutputLink": "Replace the existing use of this pose",
+    "ReplaceInputLink": "Replace the pose already on this input",
+    "DisableNodeTooltip": "Skip this node when compiling, passing its first input straight through.",
+    "ConnectAlreadyLinked": "These pins are already connected",
+    "ToggleNodeEnabledTransaction": "Toggle Anim Node Enabled"
+  },
+  "UAFAnimTreeGraphEditorUtils": {
+    "SetNodeAssetTransaction": "Set Node Asset"
+  },
+  "UAFAnimTreeGraphUtils": {
+    "PoseFansOut": "@@ feeds more than one input. Use Cache Pose and Push Cached Pose to reuse a pose.",
+    "UnsupportedChildArrayFormat": "@@ has a child list '{0}' that the graph cannot represent; its children were not compiled.",
+    "NoDescriptor": "@@ has no anim node type chosen.",
+    "EmptyGraph": "@@ has nothing connected, so this anim tree will produce a null pose.",
+    "EntryNotConnectedFormat": "@@ input '{0}' is not connected.",
+    "DisabledLeaf": "@@ is disabled and has no input, so this branch produces no pose.",
+    "UnsupportedSource": "@@ is fed by something that is not an anim node.",
+    "CycleFound": "@@ is part of a cycle. Anim trees must be acyclic.",
+    "MissingOutputNode": "Anim tree graph has no Output node; it has been recreated."
+  },
+  "UAFAnimationTask": {
+    "UAF_Task_NoAsset": "UAF Animation"
   },
   "UAFAssetDataTests": {
     "CreateAnimSequence": "Creating Animation Sequence"
@@ -67575,15 +68305,35 @@
     "UAFAssetDiffTitleNoName": "{0} Diff"
   },
   "UAFBindableValueCustomization": {
+    "BindingSourceSection": "Bind to",
+    "BindingActionsSection": "Binding",
+    "LozengeExternalTooltip": "Bound to a source in another asset",
+    "LozengeLocalTooltip": "Bound to a source in this asset",
     "ClearBindingAction": "Clear Binding",
-    "ClearBindingTooltip": "Clear Binding",
     "ClearBindingTransaction": "Clear Binding",
+    "LozengeCoercedTooltip": "Converts the {0} value from {1} to {2} (possible data loss)",
     "FunctionsTab": "Functions",
-    "BindableStructNoType": "No struct type",
+    "GoToBinding": "Go to",
+    "LozengeMultipleValues": "Multiple Values",
+    "GoToBindingTooltip": "Open the bound function graph, or the bound variable's owning asset, in this editor",
+    "RemoveBinding": "Remove Binding",
+    "RemoveBindingTooltip": "Remove the binding from this property",
     "ClearBindingActionTooltip": "Remove the variable binding from this property",
     "SetBindingTransaction": "Set Binding",
-    "BindableStructNoTypeTooltip": "This FBindableStruct has no struct type. Set one via the owning node's constructor or the meta=(BindableStructType=\"...\") tag. See the log for details.",
-    "VariablesTab": "Variables"
+    "LozengeNoStructTypeTooltip": "This FBindableStruct has no struct type. Set one via the owning node's constructor or the meta=(BindableStructType=\"...\") tag.",
+    "LozengeIconTypeTooltip": "Type: {0}",
+    "VariablesTab": "Variables",
+    "CoercedSourceVariable": "bound variable's",
+    "CoercedSourceFunction": "function's return"
+  },
+  "UAFBindingValidation": {
+    "StatusVariableCrossAsset": "Bound Local-scope variable is not visible from another asset",
+    "StatusFunctionNotFound": "Bound function no longer exists",
+    "StatusFunctionIncompatible": "Bound function signature/return type is incompatible",
+    "StatusFunctionCrossAsset": "Bound private function is not callable from another asset",
+    "StatusSubPropertyNotFound": "Bound sub-property path could not be resolved",
+    "StatusVariableNotFound": "Bound variable no longer exists",
+    "StatusVariableIncompatible": "Bound variable's type is incompatible with this property"
   },
   "UAFBlendMask": {
     "UAFSubMenu": "Animation Framework",
@@ -67627,14 +68377,13 @@
     "Delete Nested Chooser(s)": "Delete Nested Chooser(s)",
     "Rename Nested Object": "Rename Nested Object"
   },
+  "UAFChooserParameters": {
+    "UnresolvedStructTypeError": "Could not resolve the struct type of the bound variable.",
+    "InputScopeVariableError": "Input scope variables can not be accessed from inside UAF.  Bind an Internal scope variable instead."
+  },
   "UAFCompilationScope": {
     "MultiAssetCompilationFormat": "Compiling ({0})",
-    "AssetCompilationFormat": "Compiling {0}",
-    "CompileFailed": "[{JobName}] compilation has failed. {NumErrors} {NumErrors}|plural(one=Error,other=Errors), {NumWarnings} {NumWarnings}|plural(one=Warning,other=Warnings) [{NumAssets} {NumAssets}|plural(one=asset,other=assets) in {CompileTimeMs} ms]",
-    "CompileSuccess": "[{JobName}] compilation was successful! [{NumAssets} {NumAssets}|plural(one=asset,other=assets) in {CompileTimeMs} ms]",
-    "CompileWarning": "[{JobName}] compilation was successful. {NumWarnings} {NumWarnings}|plural(one=Warning,other=Warnings) [{NumAssets} {NumAssets}|plural(one=asset,other=assets) in {CompileTimeMs} ms]",
-    "AssetCompileTimeFormat": "in {0} ms.",
-    "MessageLogPageFormat": "{0}: {1}"
+    "AssetCompilationFormat": "Compiling {0}"
   },
   "UAFComponent": {
     "UAFComponent_SetVariableError": "Failed to resolve the Value for Set Variable",
@@ -67664,6 +68413,9 @@
     "LayerWeightLabelTooltip": "The weight to use to apply this layer. 0 == this layer won't get applied at all, 1 == 100% of the layer gets applied",
     "LayerWeightTooltip": "The weight to use to apply this layer. 0 == this layer won't get applied at all, 1 == 100% of the layer gets applied",
     "BlendSettingLabelTooltip": "These settings drive the discrete blend when a layer gets dynamically enabled or disabled during runtime",
+    "AdditiveIndicatorTooltip": "This layer applies its pose additively on top of the result of the previous layer.",
+    "BlendIndicatorTooltip": "This layer blends its pose over the result of the previous layer.",
+    "CacheOnlyIndicatorTooltip": "This layer only caches its pose instead of contributing it to the layer stack pose.",
     "WeightLabel": "Weight"
   },
   "UAFEditor": {
@@ -67742,7 +68494,12 @@
     "SequencePlayerCategory": "UAF"
   },
   "UAFLayerAssetContentProvider": {
-    "OnLayerAssetSelectionChangedAction": "Set Layer Asset"
+    "OnLayerAssetSelectionChangedAction": "Set Layer Asset",
+    "NestedInputIndicatorTooltip": "The layer stack in this layer uses the output pose of the previous layer in this stack as base layer input."
+  },
+  "UAFLayerContentProviderWithInput": {
+    "InputCachedPoseTooltip": "The cached pose to feed into the content of this layer.",
+    "InputSourceTooltip": "Where the content of this layer reads the input pose it consumes from."
   },
   "UAFLayeringEditorMode": {
     "UAFLayeringEditorModeName": "UAFLayeringEditorMode"
@@ -67764,6 +68521,14 @@
   "UAFMontageProvider": {
     "SlotNameLabel": "The name of the montage slot"
   },
+  "UAFNestedInputProvider": {
+    "OuterPoseInputLabel": "Outer Pose Input",
+    "OuterPoseInputTooltip": "Whatever pose is provided by the outer structure to this layer stack will be used as the base pose for this layer stack"
+  },
+  "UAFNotifyPipelineTest": {
+    "InitRootMotionSequence": "InitRootMotionSequence",
+    "InitSequence": "InitSequence"
+  },
   "UAFObjectPropertyLocatorFragment": {
     "NoFieldDelimiter": "No field delimiter found"
   },
@@ -67777,8 +68542,27 @@
   "UAFStateTreeConditions": {
     "MissingRequiredBindingFmt": "'{Node}': property '{Property}' requires a variable or function binding but none is set.",
     "MissingBindingRich": "<b>MISSING BINDING</>",
+    "BranchWindowNoTag": "<none>",
+    "AngleThresholdRich": "<s>angle</> {Value} <s>to</> {Compare} {Op} {Angle}",
+    "AngleThresholdToleranceRich": "<s>angle</> {Value} <s>to</> {Compare} {Op} {Angle} +/- {Tol}",
+    "QuatThresholdToleranceRich": "<s>angle</> {Value} <s>to</> {Compare} {Op} {Angle} +/- {Tol} <s>deg</>",
+    "QuatThresholdRich": "<s>angle</> {Value} <s>to</> {Compare} {Op} {Angle} <s>deg</>",
+    "DistanceThresholdRich": "<s>distance</> {Value} <s>to</> {Compare} {Op} {Dist}",
+    "DistanceThresholdToleranceRich": "<s>distance</> {Value} <s>to</> {Compare} {Op} {Dist} +/- {Tol}",
+    "InBranchWindow": "In Branch Window {Tag} ({Mode})",
+    "Is Looping": "IsLooping",
     "MissingBinding": "MISSING BINDING",
     "None": "None",
+    "BranchWindowPredicted": "Predicted",
+    "BranchWindowPrevious": "Previous",
+    "Time Active": "TimeActive",
+    "Time Remaining": "TimeRemaining",
+    "AngleThreshold": "angle {Value} to {Compare} {Op} {Angle}",
+    "AngleThresholdTolerance": "angle {Value} to {Compare} {Op} {Angle} +/- {Tol}",
+    "QuatThresholdTolerance": "angle {Value} to {Compare} {Op} {Angle} +/- {Tol} deg",
+    "QuatThreshold": "angle {Value} to {Compare} {Op} {Angle} deg",
+    "DistanceThreshold": "distance {Value} to {Compare} {Op} {Dist}",
+    "DistanceThresholdTolerance": "distance {Value} to {Compare} {Op} {Dist} +/- {Tol}",
     "QuatThresholdTarget": "target",
     "TransformThresholdTarget": "target",
     "BoolCompareRich": "{EmptyOrNot}{Left} <s>==</> {Right}",
@@ -67787,16 +68571,11 @@
     "BoolCompare": "{EmptyOrNot}{Left} == {Right}",
     "EnumCompare": "{EmptyOrNot}{Left} == {Right}",
     "NameCompare": "{EmptyOrNot}{Left} == {Right}",
-    "AngleThresholdRich": "{EmptyOrNot}{Value} <s>within</> {Compare}",
-    "DistanceThresholdRich": "{EmptyOrNot}{Value} <s>within</> {Compare}",
-    "QuatThresholdRich": "{EmptyOrNot}{Value} <s>within</> {Compare}",
     "TransformThresholdRich": "{EmptyOrNot}{Value} <s>within</> {Compare}",
-    "AngleThreshold": "{EmptyOrNot}{Value} within {Compare}",
-    "DistanceThreshold": "{EmptyOrNot}{Value} within {Compare}",
-    "QuatThreshold": "{EmptyOrNot}{Value} within {Compare}",
     "TransformThreshold": "{EmptyOrNot}{Value} within {Compare}",
     "FloatCompare": "{Left} {Op} {Right}",
     "IntegerCompare": "{Left} {Op} {Right}",
+    "IsLoopingCondition": "{Left} {Op} {Right}",
     "FloatCompareTolerance": "{Left} {Op} {Right} +/- {Tol}",
     "ObjectIsNullRich": "{Value} <s>is Null</>",
     "ObjectIsValidRich": "{Value} <s>is Valid</>",
@@ -67805,6 +68584,15 @@
   },
   "UAFSystemTests": {
     "CreateAnimSequence": "Creating Animation Sequence"
+  },
+  "UAFVariableScopeInputFixer": {
+    "ProviderNotLoadable": "'{0}' could not be loaded.",
+    "AlreadyInput": "'{0}' is already Input scope. Recompile the Blueprint to clear the error.",
+    "ScopeChanged": "'{0}' is now Input scope in '{1}'. Recompile the Blueprint to clear the error.",
+    "VariableMissing": "'{0}' no longer declares a variable named '{1}'.",
+    "ChangeScopeToInputTransaction": "Change Variable Scope to Input",
+    "ChangeScopeToInputFix": "Change the scope of '{0}' to Input in '{1}'",
+    "ScopeChangeRefused": "The scope of '{0}' could not be changed - see the Output Log."
   },
   "UAddPatchTool": {
     "AddPatchToolTransactionName": "Add Patch Mesh",
@@ -67838,6 +68626,10 @@
     "ToolName": "Align",
     "AlignObjectsTransactionName": "Align Objects",
     "OnStartTool": "This Tool aligns the Pivots or Bounding Boxes of the input Objects."
+  },
+  "UAnimLayerSequencerFilter": {
+    "SequenceTrackFilter_SelectedAnimLayers": "Selected Anim Layers",
+    "SequenceTrackFilter_SelectedAnimLayersTip": "Show Selected Anim Layers"
   },
   "UAssetDefinition_AnimToTexture": {
     "AnimToTextureAssetActions": "AnimToTexture",
@@ -68591,6 +69383,7 @@
     "AsMemory_ZeroValue": "0",
     "AsMemory_Tooltip_1byte": "1 byte",
     "AsUInt32InfiniteNumber_Inf_Fmt": "{0} (∞)",
+    "AsMiBPerSecondFmt": "{0} MiB/s",
     "AsMemory_PositiveValue_TooltipFmt1": "{0} bytes",
     "AsMemory_PositiveValue_TooltipFmt2": "{0} bytes ({1})",
     "AsUInt32InfiniteNumber_Inf": "∞"
@@ -68643,6 +69436,11 @@
     "Grouping_ByUniqueValue_TitleNameFmt": "Unique Values - {0}",
     "Grouping_ByPathBreakdown_ShortNameFmt": "{0} (Path)",
     "Grouping_ByUniqueValue_ShortNameFmt": "{0} (Unique)"
+  },
+  "UE::Insights::FileActivityProfiler": {
+    "FileActivityTableTreeViewTabTitle": "File Activity",
+    "FileActivity_TableName": "File Activity",
+    "FileActivityTableTreeViewTabTitleTooltip": "Opens the File Activity tab, listing the file reads and writes in the selected time range."
   },
   "UE::Insights::Filters": {
     "AllOf": "All Of (AND)",
@@ -68993,12 +69791,18 @@
     "CallstackGroupingByFunction_Tooltip_Title": "Callstack Grouping by Function Name",
     "ClassName_PresetName": "Class Name",
     "ClassName_PresetToolTip": "Class Name Breakdown View\nConfigure the tree view to show a breakdown of allocations by Asset's Class Name metadata.",
+    "ContextMenu_CopyCallstack_ToClipboard": "Copy Callstack to Clipboard",
     "ContextMenu_CopySourceFilePath_ToClipboard": "Copy Source File Path to Clipboard",
+    "ContextMenu_CopyCallstack_ToClipboard_Desc": "Copy the callstack of the selected frame (including all parent frames) to the clipboard.",
     "ContextMenu_CopyAllocCallstack_SubMenu_Desc": "Copy the source file path and line of the selected allocation callstack frame to the clipboard.",
     "ContextMenu_CopyFreeCallstack_SubMenu_Desc": "Copy the source file path and line of the selected free callstack frame to the clipboard.",
     "ContextMenu_CopySourceCode_Desc": "Copy the source file path and line to the clipboard.",
-    "ContextMenu_CopyAllocCallstack_SubMenu": "Copy to Clipboard | Alloc Callstack",
-    "ContextMenu_CopyFreeCallstack_SubMenu": "Copy to Clipboard | Free Callstack",
+    "ContextMenu_CopyAllocCallstack_Desc": "Copy the whole allocation callstack of the selected allocation to the clipboard.",
+    "ContextMenu_CopyFreeCallstack_Desc": "Copy the whole free callstack of the selected allocation to the clipboard.",
+    "ContextMenu_CopyAllocCallstack": "Copy to Clipboard | Alloc Callstack",
+    "ContextMenu_CopyAllocCallstack_SubMenu": "Copy to Clipboard | Alloc Callstack Frame",
+    "ContextMenu_CopyFreeCallstack": "Copy to Clipboard | Free Callstack",
+    "ContextMenu_CopyFreeCallstack_SubMenu": "Copy to Clipboard | Free Callstack Frame",
     "Default_PresetName": "Default",
     "Default_PresetToolTip": "Default View\nConfigure the tree view to show default allocation info.",
     "Detailed_PresetName": "Detailed",
@@ -70219,6 +71023,7 @@
     "TimingProfilerTooltipText": "Open the Timing Insights tab.",
     "PanelsToolTip": "Open/Close the available panels.",
     "PanelsText": "Panels",
+    "TimingViewCannotBeHidden": "The Timing View cannot be hidden.",
     "TimersTabTitle": "Timers",
     "TimingInsights": "Timing Insights",
     "TimingProfilerMenuGroupName": "Timing Insights",
@@ -71063,34 +71868,37 @@
     "InitUnknownUnrecoverableError": "Unrecoverable error hit but no informative error set."
   },
   "UE::IoStore": {
-    "Cancelled": "EIoErrorCode::Cancelled {ErrorMessage}",
-    "CompressionError": "EIoErrorCode::CompressionError {ErrorMessage}",
-    "CorruptToc": "EIoErrorCode::CorruptToc {ErrorMessage}",
-    "DeleteError": "EIoErrorCode::DeleteError {ErrorMessage}",
-    "Disabled": "EIoErrorCode::Disabled {ErrorMessage}",
-    "FileCloseFailed": "EIoErrorCode::FileCloseFailed {ErrorMessage}",
-    "FileCorrupt": "EIoErrorCode::FileCorrupt {ErrorMessage}",
-    "FileFlushFailed": "EIoErrorCode::FileFlushFailed {ErrorMessage}",
-    "FileMoveFailed": "EIoErrorCode::FileMoveFailed {ErrorMessage}",
-    "FileNotOpen": "EIoErrorCode::FileNotOpen {ErrorMessage}",
-    "FileOpenFailed": "EIoErrorCode::FileOpenFailed {ErrorMessage}",
-    "FileSeekFailed": "EIoErrorCode::FileSeekFailed {ErrorMessage}",
-    "HttpReadError": "EIoErrorCode::HttpReadError {ErrorMessage}",
-    "InvalidCode": "EIoErrorCode::InvalidCode {ErrorMessage}",
-    "InvalidEncryptionKey": "EIoErrorCode::InvalidEncryptionKey {ErrorMessage}",
-    "InvalidParameter": "EIoErrorCode::InvalidParameter {ErrorMessage}",
-    "NotFound": "EIoErrorCode::NotFound {ErrorMessage}",
-    "NotInstalled": "EIoErrorCode::NotInstalled {ErrorMessage}",
-    "OutOfDiskSpace": "EIoErrorCode::OutOfDiskSpace {ErrorMessage}",
-    "PendingEncryptionKey": "EIoErrorCode::PendingEncryptionKey {ErrorMessage}",
-    "PendingFork": "EIoErrorCode::PendingFork {ErrorMessage}",
-    "PendingHostGroup": "EIoErrorCode::PendingHostGroup {ErrorMessage}",
-    "ReadError": "EIoErrorCode::ReadError {ErrorMessage}",
-    "SignatureError": "EIoErrorCode::SignatureError {ErrorMessage}",
-    "Timeout": "EIoErrorCode::Timeout {ErrorMessage}",
-    "Unknown": "EIoErrorCode::Unknown {ErrorMessage}",
-    "UnknownChunkID": "EIoErrorCode::UnknownChunkID {ErrorMessage}",
-    "WriteError": "EIoErrorCode::WriteError {ErrorMessage}"
+    "ErrorMessageContext": "({ErrorMessage})",
+    "Cancelled": "EIoErrorCode::Cancelled",
+    "CompressionError": "EIoErrorCode::CompressionError",
+    "CorruptToc": "EIoErrorCode::CorruptToc",
+    "DeleteError": "EIoErrorCode::DeleteError",
+    "Disabled": "EIoErrorCode::Disabled",
+    "FileCloseFailed": "EIoErrorCode::FileCloseFailed",
+    "FileCorrupt": "EIoErrorCode::FileCorrupt",
+    "FileFlushFailed": "EIoErrorCode::FileFlushFailed",
+    "FileHandleOpen": "EIoErrorCode::FileHandleOpen",
+    "FileMoveFailed": "EIoErrorCode::FileMoveFailed",
+    "FileNotOpen": "EIoErrorCode::FileNotOpen",
+    "FileOpenFailed": "EIoErrorCode::FileOpenFailed",
+    "FileSeekFailed": "EIoErrorCode::FileSeekFailed",
+    "HttpReadError": "EIoErrorCode::HttpReadError",
+    "InvalidCode": "EIoErrorCode::InvalidCode",
+    "InvalidEncryptionKey": "EIoErrorCode::InvalidEncryptionKey",
+    "InvalidParameter": "EIoErrorCode::InvalidParameter",
+    "NotFound": "EIoErrorCode::NotFound",
+    "NotInstalled": "EIoErrorCode::NotInstalled",
+    "OutOfDiskSpace": "EIoErrorCode::OutOfDiskSpace",
+    "PendingDelete": "EIoErrorCode::PendingDelete",
+    "PendingEncryptionKey": "EIoErrorCode::PendingEncryptionKey",
+    "PendingFork": "EIoErrorCode::PendingFork",
+    "PendingHostGroup": "EIoErrorCode::PendingHostGroup",
+    "ReadError": "EIoErrorCode::ReadError",
+    "SignatureError": "EIoErrorCode::SignatureError",
+    "Timeout": "EIoErrorCode::Timeout",
+    "Unknown": "EIoErrorCode::Unknown",
+    "UnknownChunkID": "EIoErrorCode::UnknownChunkID",
+    "WriteError": "EIoErrorCode::WriteError"
   },
   "UE::IoStore::OnDemand": {
     "ChunkMissingError": "Chunk missing error: {MissingChunkIds} (DiscoveredChunks: {DiscoveredChunksCount})",
@@ -74542,6 +75350,22 @@
     "Enable": "Toggle Enable",
     "Enable_ToolTip": "Toggle Enable State"
   },
+  "UICommands.FControlRigConstraintsCommands": {
+    "CreateConstraint": "Add Constraint",
+    "Bake": "Bake",
+    "Bake_ToolTip": "Bake the selected constraints into keys, using the bake settings.",
+    "CreateConstraint_ToolTip": "Create the constraint from the configured parent and children.",
+    "ToggleCycle": "Cycle",
+    "PickChildrenFromSelection": "Pick Children From Selection",
+    "PickParentFromSelection": "Pick Parent From Selection",
+    "PickChildrenFromSelection_ToolTip": "Set the constraint's children to the current viewport selection.",
+    "PickParentFromSelection_ToolTip": "Set the constraint's parent to the current viewport selection.",
+    "SwapChildrenAndParent": "Swap Child and Parent",
+    "SwapChildrenAndParent_ToolTip": "Swap the constraint's parent and child. When there are multiple children, the last child is swapped with the parent.",
+    "ToggleConstraintsVisualization": "Toggle Constraints Visualization",
+    "ToggleCycle_ToolTip": "Toggle cycle selection: each new selection becomes the parent and the previously selected target becomes the child.",
+    "ToggleConstraintsVisualization_ToolTip": "Toggle the in-viewport visualization of the active constraints."
+  },
   "UICommands.FDaySequenceEditorModule": {
     "AddActorsToBinding": "Add Selected",
     "AddActorsToBinding_ToolTip": "Add selected actors to this track",
@@ -74868,6 +75692,10 @@
     "SetTweenSmoothRough_ToolTip": "Push adjacent blended keys further together or apart. Smooth is useful for softening noise, like in mocap animations.",
     "SetTweenPushPull_ToolTip": "Push or pull the values to the interpolation between the previous and next keys",
     "SetTweenEasyEase_ToolTip": "Re-positions blended keys onto an ease-in/ease-out S-curve between the previous and next keys, speeding up in the middle.",
+    "SetTweenScaleFromNeighborLeft": "Scale From Neighbor Left",
+    "SetTweenScaleFromNeighborRight": "Scale From Neighbor Right",
+    "SetTweenScaleFromNeighborLeft_ToolTip": "Scales the selected keys toward the unselected key on their left, landing on it at half strength and overshooting at full.",
+    "SetTweenScaleFromNeighborRight_ToolTip": "Scales the selected keys toward the unselected key on their right, landing on it at half strength and overshooting at full.",
     "SetSliderHalfLeft": "Set Slider half left (50%)",
     "SetSliderHalfRight": "Set Slider half right (50%)",
     "SetSliderLeft": "Set Slider left (100%)",
@@ -78219,6 +79047,8 @@
   },
   "UICommands.TimePosingCommands": {
     "ActivateTimePosingTool_ToolTip": "Apply transforms to a falloff-weighted range of keys instead of a single key.",
+    "ToggleCenterOnCurrentFrame": "Link Time Posing to Current Frame",
+    "ToggleCenterOnCurrentFrame_ToolTip": "Slide the four Time Posing anchors with the current time, preserving the gaps between them.",
     "ActivateTimePosingTool": "Time Posing"
   },
   "UICommands.TimecodeSynchronizerEditor": {
@@ -78260,6 +79090,10 @@
     "OpenSearchTab": "Search",
     "OpenSearchTab_ToolTip": "Search Source and Translation Strings",
     "OpenTranslationPicker": "Translation Picker"
+  },
+  "UICommands.UAnimLayerSequencerFilter": {
+    "ToggleSelectedAnimLayer": "Selected Anim layer",
+    "ToggleSelectedAnimLayer_ToolTip": "Toggle the filter for the selected Anim Layer"
   },
   "UICommands.UE::Insights::ContextSwitches": {
     "Command_ShowCpuCoreTracks": "CPU Core Tracks",
@@ -78650,10 +79484,6 @@
   "UICommands.UTBEditorCommands": {
     "RenameSection": "Rename",
     "RenameSection_ToolTip": "Rename the selected  section."
-  },
-  "UICommands.UnimLayerSequencerFilter": {
-    "ToggleSelectedAnimLayer": "Selected Anim layer",
-    "ToggleSelectedAnimLayer_ToolTip": "Toggle the filter for elected Anim Layer"
   },
   "UICommands.VariableOverrideCommands": {
     "ClearOverride": "Clear Override",
@@ -79145,6 +79975,7 @@
     "NonVariableLabelFormat": "[{BaseName}]{Metadata}"
   },
   "UMGToolSet": {
+    "ConstructWidgetInstance_CircularDependency": "Circular dependency detected. Can't construct a widget in the widget blueprint",
     "ReplaceWidgetWithTemplate_UnmatchedReferencedMembers": "Warning on replacing widget '{0}' with class '{1}': {2} member(s) referenced by the blueprint have no compatible counterpart on the new class. Remove or update those references, otherwise the widget blueprint won't compile.\n\n{3}"
   },
   "UMGWidgetPreviewModule": {
@@ -79866,7 +80697,9 @@
   "UPCGEditorMode": {
     "CannotCutWarning": "Cannot cut objects while this Tool is active",
     "CannotDeleteWarning": "Cannot delete objects while this Tool is active",
-    "PCGEditorModeDisplayName": "PCG"
+    "DiscardActiveToolChangesTitle": "Discard Tool Changes",
+    "PCGEditorModeDisplayName": "PCG",
+    "DiscardActiveToolChangesMessage": "The active tool has unapplied changes that will be discarded. Switch tools anyway?"
   },
   "UPCGGenericUserParameterGetSettings": {
     "NodeTitle": "Get Graph Parameter"
@@ -81010,10 +81843,6 @@
     "TableFavoriteHeaderTooltip": "Favorite",
     "FavoriteWidgetSorter": "Favorite Sorter",
     "MissingRowReferenceColumn": "Unable to retrieve row reference."
-  },
-  "UnimLayerSequencerFilter": {
-    "SequenceTrackFilter_SelectedAnimLayers": "Selected Anim Layers",
-    "SequenceTrackFilter_SelectedAnimLayersTip": "Show Selected Anim Layers"
   },
   "UnitConversion": {
     "CannotAddErr": "Cannot add {0} to {1}",
@@ -82325,14 +83154,19 @@
     "RenameCategory": "Rename category"
   },
   "VariablesOutlinerColumns": {
+    "BindToggleTooltip": "Bind this Input variable to gameplay data via a locator.",
+    "BindRequiresInputTooltip": "Bindings are only allowed on Input-scope variables. Set the variable's scope to Input to bind it.",
     "ClearVariableBinding": "Clear Variable Binding",
+    "UAFDisabledVariableScope": "Clear the binding to choose another scope",
     "CompactView": "Compact",
+    "ScopeColumnTooltip": "Declared scope of this variable: Input, Internal, or Local",
     "CompactView_ToolTip": "Displays the Variable Type using Compact representation.",
     "FullView_ToolTip": "Displays the Variable Type using Full representation.",
     "PartialView_ToolTip": "Displays the Variable Type using Partial representation.",
     "FullView": "Full",
     "GuidLabel": "GUID",
     "PartialView": "Partial",
+    "ScopeColumnLabel": "Scope",
     "SetVariableBinding": "Set Variable Binding",
     "SetTypeTransaction": "Set Variable Type",
     "GuidTooltip": "Stable GUID identifying this variable across renames",
@@ -82375,6 +83209,8 @@
     "MoveVariableToCategoryFormat": "Moving {0} to Category {1}",
     "MoveVariableToCategoryAndAssetFormat": "Moving {0} to Category {1} in {2}",
     "MoveVariableToAssetFormatTransaction": "Moving {0} to {1}",
+    "VariableScopeDowngradeWithBindingFormat": "Moving {0} to {1} will change its scope from {2} to {3} and clear its binding: this asset type cannot declare {2} variables",
+    "VariableScopeDowngradeFormat": "Moving {0} to {1} will change its scope from {2} to {3}: this asset type cannot declare {2} variables",
     "PasteVariables": "Paste Variable(s)",
     "RemoveVariableToCategoryFormat": "Remove {0} from Category {1}",
     "RemoveVariableFromCategoryFormat": "Removing {0} from Category {1}",
@@ -82385,8 +83221,9 @@
   },
   "VariablesOutlinerTreeItem": {
     "RenameVariable": "Rename variable",
-    "SetAccessSpecifierTransaction": "Set Access Specifier",
+    "SetVariableScopeTransaction": "Set Variable Scope",
     "ImportedVariablesFormat": "Shared variables from '{0}'",
+    "ScopeLockedByBindingTooltip": "This variable has a binding, which is only allowed on Input scope. Clear the binding to choose another scope.",
     "UnknownAssetName": "Unknown Asset",
     "InvalidTypeTooltipFmt": "Variable '{0}' has an invalid type. Pick a new type to restore it."
   },
@@ -82778,6 +83615,7 @@
     "BodyConflict": "Body \"{BodyName}\" is already associated with mesh part \"{ConflictingPart}\"",
     "ComplexAsSimpleError": "Cannot add has_dynamics to a part associated with a body which has ComplexAsSimple collision",
     "InterfaceConflict": "Interface \"{Interface}\" is already associated with mesh part \"{ConflictingPart}\"",
+    "SharedMaterialSlotError": "Material slot \"{MaterialSlot}\" is assigned to mesh parts \"{PartAName}\" and \"{PartBName}\"",
     "MeshPartOverlappingInterfaceError": "Mesh parts \"{PartAName}\" and \"{PartBName}\" have overlapping interfaces and overlapping associations",
     "ShapeConflict": "Shape \"{ShapeName}\" is already associated with mesh part \"{ConflictingPart}\""
   },
@@ -83656,7 +84494,8 @@
     "WidgetListNotDefined": "Widget list requires UE_WITH_SLATE_DEBUG_WIDGETLIST to be defined."
   },
   "WidgetMaterialTrackUtilities": {
-    "BrushMaterialName": "Brush Material"
+    "BrushMaterialName": "Brush Material",
+    "EffectMaterialName": "Material"
   },
   "WidgetPreviewCustomization": {
     "WidgetInstanceHeader": "Widget Properties"
@@ -83854,18 +84693,28 @@
   },
   "WorkspaceTabSummoner": {
     "UAFBrowserTabToolTip": "Browse / Create Animation related assets.",
-    "AnimNExtCompilerResultsTabLabel": "Compiler Results",
-    "AnimNExtCompilerResultsTabMenuDescription": "Compiler Results",
+    "UAFCompilerResultsTabLabel": "Compiler Results",
+    "UAFCompilerResultsTabMenuDescription": "Compiler Results",
+    "CompileJobMulti": "Compiling ({0})",
+    "CompileJobSingle": "Compiling {0}",
     "UAFFindTabLabel": "Find",
     "UAFFindTabMenuDescription": "Find",
     "AnimNextFindAndReplaceTabLabel": "Find and Replace",
     "AnimNextFindTabMenuDescription": "Find and Replace",
     "AnimNextFindAndReplaceTabToolTip": "Search and replace contents of Animation(Next) Assets.",
     "UAFFindTabToolTip": "Search contents of currently selected UAF Asset.",
-    "AnimNExtCompilerResultsTabToolTip": "Shows the Compiler Results tab.",
+    "UAFCompilerResultsTabToolTip": "Shows the Compiler Results tab.",
     "TraitEditorTabToolTip": "Shows the Trait Editor tab.",
     "TraitEditorTabLabel": "Trait Editor",
-    "TraitEditorTabMenuDescription": "Trait Editor"
+    "TraitEditorTabMenuDescription": "Trait Editor",
+    "CompilerResults": "UAF Compiler Results",
+    "CompileFailed": "[{JobName}] compilation has failed. {NumErrors} {NumErrors}|plural(one=Error,other=Errors), {NumWarnings} {NumWarnings}|plural(one=Warning,other=Warnings)",
+    "CompileSuccess": "[{JobName}] compilation was successful!",
+    "CompileWarning": "[{JobName}] compilation was successful. {NumWarnings} {NumWarnings}|plural(one=Warning,other=Warnings)",
+    "AssetCompileTimeFormat": "in {0} ms.",
+    "MessageLogPageFormat": "{0}: {1}",
+    "JobOverviewTimed": "{Status} [{NumAssets} {NumAssets}|plural(one=asset,other=assets) in {CompileTimeMs} ms]",
+    "JobOverviewUntimed": "{Status} [{NumAssets} {NumAssets}|plural(one=asset,other=assets)]"
   },
   "World": {
     "LevelColor_ToopTip": "Colorize actor with its level color, otherwise the color is White.",
@@ -83928,11 +84777,11 @@
     "TokenMessage_WorldPartition_ContainsRuntimeDataLayersWithDifferentTypesOfLoadFilter": "contains runtime data layers with different types of Load Filter",
     "TokenMessage_WorldPartition_False": "false",
     "TokenMessage_WorldPartition_WorldAssetHasCircularReference": "has a circular reference",
+    "TokenMessage_WorldPartition_HasInvalidWorldAsset": "has a missing world asset",
     "TokenMessage_WorldPartition_HaveInvalidHLODLayer": "has an invalid HLOD layer",
     "TokenMessage_WorldPartition_WorldAssetHasInvalidContainer": "has an invalid container",
     "TokenMessage_WorldPartition_HaveMissingRefsTo": "has an invalid reference to",
     "TokenMessage_WorldPartition_HaveInvalidRuntimeGrid": "has an invalid runtime grid",
-    "TokenMessage_WorldPartition_HasInvalidWorldAsset": "has an invalid world asset",
     "TokenMessage_DataLayers_IsEditor": "is Editor but its parent data layer",
     "TokenMessage_DataLayers_IsRuntime": "is Runtime",
     "TokenMessage_DataLayers_InvalidAssetType_NotCompatible": "is not compatible with its Data Layer Asset",
@@ -83960,7 +84809,7 @@
     "DataValidation.Changelist.WorldPartition.DataLayerHierarchyTypeMismatch": "Data layer {0} is of type {1} and its parent {2} is of type {3}.",
     "DataValidation.Changelist.WorldPartition.DataLayerHierarchyCantBeChild": "Data layer {0} is {1} which can't be child of parent {2}.",
     "DataValidation.Changelist.WorldPartition.LevelInstanceCircularReference": "Level instance {0} has a circular reference {1}.",
-    "DataValidation.Changelist.WorldPartition.LevelInstanceInvalidWorldAsset": "Level instance {0} has an invalid world asset {1}.",
+    "DataValidation.Changelist.WorldPartition.LevelInstanceInvalidWorldAsset": "Level instance {0} has a missing world asset {1}.",
     "DataValidation.Changelist.WorldPartition.MutatorRejectedIsSpatiallyLoaded": "Mutator override rejected: cannot set {0} IsSpatiallyLoaded to {1} because it would split a reference-connected cluster",
     "DataValidation.Changelist.WorldPartition.MutatorRejectedRuntimeGrid": "Mutator override rejected: cannot set {0} RuntimeGrid to {1} because it would split a reference-connected cluster",
     "WorldPartitionValidationFail": "This changelist contains modifications that aren't valid at the world partition level. Please see the message log for the errors preceding this message.",
