@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "A file access error has occurred. Please check your running processes.",
+    "BuildPatchInstallShortError_FileConstructionFail": "A file corruption has occurred. Please try again.",
+    "BuildPatchInstallShortError_DownloadError": "Could not download patch data. Please check your internet connection, and try again.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Not enough disk space available. Please free up some disk space and try again.",
+    "BuildPatchInstallShortError_BuildCorrupt": "The installation is corrupt. Please contact support.",
+    "BuildPatchInstallShortError_UserCanceled": "User cancelled."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Almost there! Open the app to finish up.",
     "DownloadCompleteNotification.Title": "Complete installation and play",

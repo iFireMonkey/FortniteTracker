@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "Missing Character Blueprint asset to do retargeting!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "Missing Retargeter asset to do retargeting!",
     "E48FFE554DF62BB14204249459CFA281": "Missing Retargeter to retarget the Character Blueprint on the WIldlife Skeletal Mesh.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "NO",
-    "A521461240CE088B5475E59B6D7906BA": "NO",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "NO",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "NO",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPC Character Definition",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPC Spawner",
     "9F9D969F42C631D33B38889AFE826051": "NPC Spawner",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "Spawns NPCs with customizable options.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Spawns non-playing characters with customizable options.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "TAME",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "YES",
-    "9134CFD84B97240E799723A73DBBD800": "YES",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} s"
+    "C16EFE3D43080CF15939008A177CCF83": "YES",
+    "EA642BC04B7709D992859191777DCE14": "YES",
+    "276AFD6147CBF407476EE89309745FA9": "{0} m",
+    "7BF5F517456041F8733C6683495F9A35": "{0} s"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "A valid NPC Character Definition, Verse AI Behavior, or Character Item Definition must be specified.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "Allow Exceed Recommended Spawn Limit",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Allow Infinite Spawn",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "Allows this spawner to spawn NPCs beyond the recommended global limit of active NPCs. Warning: Exceeding the recommended limit may negatively affect performance, use with caution.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Despawn",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Despawn AIs When Disabled",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "Despawn AIs When Disabled",
     "Device_AISpawner_Base_C.Despawn.Description": "Despawns any existing AIs belonging to this device",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Determines if we need to show the spawn radius or not.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Determines whether the AI is spawned on the Spawm Timer countdown, or spawn on events.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Show Spawn Radius",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Spawn",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Spawn Count",
-    "6F19C1DE4967DC35BDD369912183D5BE": "Spawn On Timer",
+    "86DDE05B434D6828ACE3129B4FB07784": "Spawn On Timer",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Spawn Radius",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Spawn Through Walls",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Spawn Timer",

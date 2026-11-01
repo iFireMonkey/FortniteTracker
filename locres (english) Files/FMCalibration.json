@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Score Latency: {score} ± {score_accuracy} ms (relative to timestamps)\r\nFull Latency: {full} ± {full_accuracy} ms  (treated as controller)\r\nPitch Detection Latency: {PDL}\r\nAudio Latency: {aud}\r\nNet Scoring Latency: {netscore} ms (slider settings)\r\nNet Full Latency: {netfull} ms (cost of pitch detection)\r\nMic: {Mic}\r\nTargetFPS: {TFPS}\r\nMeasuredFPS: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Skip",
     "ACC666164CC789B5272EF181112AD053": "Skip",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Skip (Hold)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Skip (Hold)",
     "1A538069412C112D9C8082A233A70316": "Skip Audio",
     "3871B782494462ABB804A39E36FA3D31": "Skip Audio",
     "712947A9483DDF4820A42A908088305B": "Skip Video",
